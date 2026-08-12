@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import html
+import json
 import os
 import random
 import re
@@ -14,6 +15,7 @@ from bs4 import BeautifulSoup, Tag
 
 
 LOGIN_HOSTS = {"passport.weibo.com"}
+MOBILE_HOST = "https://m.weibo.cn"
 DEFAULT_UA = (
     "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
     "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
@@ -38,6 +40,20 @@ class Post:
     url: str | None
 
 
+def mobile_headers(cookie: str) -> dict[str, str]:
+    return {
+        "User-Agent": (
+            "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) "
+            "AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 "
+            "Mobile/15E148 Safari/604.1"
+        ),
+        "Cookie": cookie,
+        "Origin": MOBILE_HOST,
+        "Referer": MOBILE_HOST + "/",
+        "Accept": "application/json, text/plain, */*",
+    }
+
+
 def cookie_from_env() -> str:
     cookie = os.environ.get("WEIBO_COOKIE", "").strip()
     if not cookie:
@@ -57,6 +73,12 @@ def client(cookie: str | None = None) -> httpx.Client:
     return httpx.Client(headers=headers, follow_redirects=True, timeout=30)
 
 
+def mobile_client(cookie: str) -> httpx.Client:
+    return httpx.Client(
+        headers=mobile_headers(cookie), follow_redirects=True, timeout=30
+    )
+
+
 def assert_authenticated(response: httpx.Response) -> None:
     host = (response.url.host or "").lower()
     body_head = response.text[:5000]
@@ -68,6 +90,14 @@ def assert_authenticated(response: httpx.Response) -> None:
 
 def search_url(topic: str, page: int) -> str:
     return "https://s.weibo.com/weibo?" + urlencode({"q": topic, "page": page})
+
+
+def mobile_search_params(topic: str, page: int, search_type: str = "1") -> dict[str, Any]:
+    return {
+        "containerid": f"100103type={search_type}&q={topic}",
+        "page_type": "searchall",
+        "page": page,
+    }
 
 
 def ai_search_url(topic: str) -> str:
@@ -119,6 +149,124 @@ def parse_search_page(source: str) -> list[Post]:
     if not posts:
         raise ParseError("No post cards were found")
     return posts
+
+
+def _plain_html(value: str | None) -> str:
+    if not value:
+        return ""
+    return _clean_text(BeautifulSoup(value, "html.parser"))
+
+
+def filter_search_cards(cards: Iterable[dict[str, Any]]) -> list[dict[str, Any]]:
+    result: list[dict[str, Any]] = []
+    for card in cards:
+        if card.get("card_type") == 9 and isinstance(card.get("mblog"), dict):
+            result.append(card)
+        group = card.get("card_group")
+        if isinstance(group, list):
+            for child in group:
+                if child.get("card_type") == 9 and isinstance(child.get("mblog"), dict):
+                    result.append(child)
+    return result
+
+
+def post_from_mblog(mblog: dict[str, Any]) -> Post:
+    mid = str(mblog.get("id") or mblog.get("mid") or "")
+    if not mid:
+        raise ParseError("mblog is missing id")
+    user = mblog.get("user") if isinstance(mblog.get("user"), dict) else {}
+    uid = str(user.get("id") or user.get("idstr") or "") or None
+    return Post(
+        mid=mid,
+        uid=uid,
+        username=str(user.get("screen_name") or "") or None,
+        created_at_text=str(mblog.get("created_at") or "") or None,
+        body=_plain_html(str(mblog.get("text") or "")),
+        url=f"https://m.weibo.cn/detail/{mid}",
+    )
+
+
+def check_mobile_login(http: httpx.Client) -> bool:
+    response = http.get(MOBILE_HOST + "/api/config")
+    response.raise_for_status()
+    try:
+        payload = response.json()
+    except json.JSONDecodeError as exc:
+        raise LoginRequired("Mobile config returned non-JSON") from exc
+    return bool(payload.get("ok") == 1 and payload.get("data", {}).get("login") is True)
+
+
+def request_mobile_json(
+    http: httpx.Client,
+    path: str,
+    *,
+    params: dict[str, Any] | None = None,
+    attempts: int = 3,
+    retry_delay: float = 3.0,
+) -> dict[str, Any]:
+    last_error: Exception | None = None
+    for attempt in range(attempts):
+        try:
+            response = http.get(MOBILE_HOST + path, params=params)
+            response.raise_for_status()
+            payload = response.json()
+            if payload.get("ok") != 1:
+                raise ParseError(str(payload.get("msg") or "Mobile API returned ok != 1"))
+            data = payload.get("data")
+            if not isinstance(data, dict):
+                raise ParseError("Mobile API data is not an object")
+            return data
+        except (httpx.HTTPError, json.JSONDecodeError, ParseError) as exc:
+            last_error = exc
+            if attempt + 1 < attempts:
+                time.sleep(retry_delay * (attempt + 1))
+    raise ParseError(f"Mobile API failed after {attempts} attempts: {last_error}")
+
+
+def fetch_full_mblog(http: httpx.Client, mid: str) -> dict[str, Any] | None:
+    response = http.get(MOBILE_HOST + f"/detail/{mid}")
+    response.raise_for_status()
+    match = re.search(r"var \$render_data = (\[.*?\])\[0\]", response.text, re.DOTALL)
+    if not match:
+        return None
+    payload = json.loads(match.group(1))
+    status = payload[0].get("status") if payload else None
+    return status if isinstance(status, dict) else None
+
+
+def collect_mobile_search_pages(
+    http: httpx.Client,
+    topic: str,
+    pages: int = 10,
+    delay: float = 5.0,
+    jitter: float = 1.5,
+    fetch_full_text: bool = True,
+) -> list[list[Post]]:
+    if not check_mobile_login(http):
+        raise LoginRequired("Mobile /api/config reports data.login != true")
+    output: list[list[Post]] = []
+    seen: set[str] = set()
+    for page in range(1, pages + 1):
+        data = request_mobile_json(
+            http, "/api/container/getIndex", params=mobile_search_params(topic, page)
+        )
+        page_posts: list[Post] = []
+        for card in filter_search_cards(data.get("cards") or []):
+            mblog = card["mblog"]
+            mid = str(mblog.get("id") or "")
+            if not mid or mid in seen:
+                continue
+            if fetch_full_text and mblog.get("isLongText") is True:
+                full = fetch_full_mblog(http, mid)
+                if full:
+                    mblog = full
+                time.sleep(max(1.0, delay))
+            seen.add(mid)
+            page_posts.append(post_from_mblog(mblog))
+        output.append(page_posts)
+        if page != pages:
+            time.sleep(max(0.0, delay + random.uniform(-jitter, jitter)))
+    return output
 
 
 def collect_search_pages(
@@ -186,4 +334,3 @@ def unique_posts(pages: Iterable[Iterable[Post]]) -> list[Post]:
                 seen.add(post.mid)
                 result.append(post)
     return result
-

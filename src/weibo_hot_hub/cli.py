@@ -4,7 +4,7 @@ import argparse
 import json
 from dataclasses import asdict
 
-from .weibo import client, collect_search_pages, cookie_from_env
+from .weibo import collect_mobile_search_pages, cookie_from_env, mobile_client
 
 
 def main() -> None:
@@ -17,12 +17,12 @@ def main() -> None:
         parser.error("--pages must be between 1 and 10")
 
     cookie = cookie_from_env()
-    with client(cookie) as http:
-        pages = collect_search_pages(
+    with mobile_client(cookie) as http:
+        pages = collect_mobile_search_pages(
             http,
             args.topic,
             pages=1 if args.health_only else args.pages,
-            delay_range=(3.0, 8.0),
+            fetch_full_text=not args.health_only,
         )
     print(
         json.dumps(

@@ -1,4 +1,10 @@
-from weibo_hot_hub.weibo import canonical_https, normalize_ai_payload, parse_search_page
+from weibo_hot_hub.weibo import (
+    canonical_https,
+    filter_search_cards,
+    normalize_ai_payload,
+    parse_search_page,
+    post_from_mblog,
+)
 
 
 def test_scheme_to_https() -> None:
@@ -43,3 +49,30 @@ def test_ai_deduplicates_links_and_detects_refusal() -> None:
         "https://example.com/a",
     ]
 
+
+def test_filter_top_level_and_nested_mobile_cards() -> None:
+    cards = [
+        {"card_type": 9, "mblog": {"id": "1"}},
+        {
+            "card_type": 11,
+            "card_group": [
+                {"card_type": 9, "mblog": {"id": "2"}},
+                {"card_type": 8},
+            ],
+        },
+    ]
+    assert [item["mblog"]["id"] for item in filter_search_cards(cards)] == ["1", "2"]
+
+
+def test_mobile_mblog_to_post() -> None:
+    post = post_from_mblog(
+        {
+            "id": "123",
+            "created_at": "Wed Aug 12 20:00:00 +0800 2026",
+            "text": "<p>正文<br>第二行</p>",
+            "user": {"id": 42, "screen_name": "用户"},
+        }
+    )
+    assert post.uid == "42"
+    assert post.body == "正文\n第二行"
+    assert post.url == "https://m.weibo.cn/detail/123"
