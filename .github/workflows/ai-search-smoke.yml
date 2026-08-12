@@ -3,9 +3,6 @@ name: AI Search Smoke Test
 on:
   workflow_dispatch:
     inputs:
-      topic_id:
-        description: Stable topic id
-        required: true
       topic:
         description: Topic including both # characters
         required: true
@@ -33,9 +30,8 @@ jobs:
       - name: Collect AI answer only when changed
         env:
           WEIBO_COOKIE: ${{ secrets.WEIBO_COOKIE }}
-          TOPIC_ID: ${{ inputs.topic_id }}
           TOPIC: ${{ inputs.topic }}
-        run: python -m weibo_hot_hub.ai_cli "$TOPIC_ID" "$TOPIC"
+        run: python -m weibo_hot_hub.ai_cli "$TOPIC"
       - name: Commit changed data
         run: |
           if [ -z "$(git status --porcelain -- data)" ]; then
