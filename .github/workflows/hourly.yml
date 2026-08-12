@@ -50,15 +50,16 @@ jobs:
             exit 2
           fi
           python -m weibo_hot_hub.hourly --pages "$PAGES" --max-topics "$MAX_TOPICS"
+          python -m weibo_hot_hub.readme_cli
       - name: Commit changed data
         run: |
-          if [ -z "$(git status --porcelain -- data)" ]; then
+          if [ -z "$(git status --porcelain -- data README.md)" ]; then
             echo "No hourly data changes"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data
+          git add data README.md
           git commit -m "data: hourly archive"
           git pull --rebase origin main
           git push

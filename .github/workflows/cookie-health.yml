@@ -36,13 +36,16 @@ jobs:
           WEIBO_MOBILE_COOKIE: ${{ secrets.WEIBO_MOBILE_COOKIE }}
           TEST_TOPIC: ${{ inputs.topic || '#微博热搜#' }}
         run: python -m weibo_hot_hub.health_cli --topic "$TEST_TOPIC"
+      - name: Refresh README status and today's hotlist
+        if: always()
+        run: python -m weibo_hot_hub.readme_cli
       - name: Commit Cookie health state
         if: always()
         run: |
-          if [ -n "$(git status --porcelain -- data/state/cookies.json)" ]; then
+          if [ -n "$(git status --porcelain -- data/state/cookies.json README.md)" ]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add data/state/cookies.json
+            git add data/state/cookies.json README.md
             git commit -m "state: update Cookie health"
             git pull --rebase origin main
             git push

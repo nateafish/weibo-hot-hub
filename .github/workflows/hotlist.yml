@@ -26,16 +26,18 @@ jobs:
       - name: Collect upstream-compatible hotlist
         env:
           WEIBO_COOKIE: ${{ secrets.WEIBO_COOKIE }}
-        run: python -m weibo_hot_hub.hotlist_cli
+        run: |
+          python -m weibo_hot_hub.hotlist_cli
+          python -m weibo_hot_hub.readme_cli
       - name: Commit changed data
         run: |
-          if [ -z "$(git status --porcelain -- data)" ]; then
+          if [ -z "$(git status --porcelain -- data README.md)" ]; then
             echo "No hotlist change"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data
+          git add data README.md
           git commit -m "data: update hotlist"
           git pull --rebase origin main
           git push
