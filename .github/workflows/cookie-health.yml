@@ -1,0 +1,36 @@
+name: Weibo Cookie Health
+
+on:
+  workflow_dispatch:
+    inputs:
+      topic:
+        description: Topic used for the read-only check
+        required: false
+        default: "#微博热搜#"
+  schedule:
+    - cron: "17 */6 * * *"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: weibo-cookie-health
+  cancel-in-progress: true
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install .
+      - name: Check authenticated search
+        env:
+          WEIBO_COOKIE: ${{ secrets.WEIBO_COOKIE }}
+          TEST_TOPIC: ${{ inputs.topic || '#微博热搜#' }}
+        run: python -m weibo_hot_hub.cli "$TEST_TOPIC" --health-only
+

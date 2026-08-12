@@ -1,0 +1,2 @@
+"""weibo-hot-hub collectors."""
+
