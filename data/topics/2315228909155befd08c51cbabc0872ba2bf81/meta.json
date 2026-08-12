@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 8255100526
   },
-  "last_seen_at": "2026-08-12T21:00:00+08:00",
+  "last_seen_at": "2026-08-13T02:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%88%91%E6%AC%B2%E4%B9%98%E9%A3%8E%23%26t%3D3&title=发布媒体",
-    "show_str": "10家媒体",
+    "show_str": "11家媒体",
     "users": [
       {
         "id": 1642592432,
         "idstr": "1642592432",
         "screen_name": "新浪电视",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2346437860,
+        "idstr": "2346437860",
+        "screen_name": "三峡融媒",
         "verified": true,
         "verified_type": 3
       },
@@ -30,9 +37,9 @@
         "verified_type": 3
       },
       {
-        "id": 2346437860,
-        "idstr": "2346437860",
-        "screen_name": "三峡融媒",
+        "id": 1652484947,
+        "idstr": "1652484947",
+        "screen_name": "新快报",
         "verified": true,
         "verified_type": 3
       },
@@ -54,13 +61,6 @@
         "id": 2647971081,
         "idstr": "2647971081",
         "screen_name": "时速新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1913382117,
-        "idstr": "1913382117",
-        "screen_name": "深圳晚报",
         "verified": true,
         "verified_type": 3
       }

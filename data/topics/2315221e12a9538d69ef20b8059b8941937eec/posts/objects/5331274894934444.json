@@ -1,0 +1,8 @@
+{
+  "body": "微软在长期改进 Windows 的过程中，也为操作系统积累了不少鲜为人知的功能。微软资深工程师雷蒙德 · 陈近日介绍了其中一个大多数现代用户可能从未听说过的功能，就是批处理文件 WINSTART.BAT。\n雷蒙德 · 陈在微软 Old New Thing 博客的一篇新文章中介绍了 WINSTART.BAT 的用途、设计初衷，以及该文件在 Windows 启动流程中的具体位置。\n据了解，用户把 WINSTART.BAT 放入 Windows 目录，Windows 95 启动时便会执行该文件。不过，WINSTART.BAT 并不是随 Windows 95 才出现的功能。该文件比 Windows 95 早了数年，Windows 3.1 Resource Kit 中已经对其进行了详细说明。\n批处理文件可以用于自动完成重复性的日常任务。此类文件本质上是包含一系列命令的简单文本文件，Windows Command Shell 会按照顺序逐条执行。\n#胖东来许昌老店关闭周边商户发声#",
+  "created_at_text": "Thu Aug 13 02:14:08 +0800 2026",
+  "mid": "5331274894934444",
+  "uid": "5252901462",
+  "url": "https://m.weibo.cn/detail/5331274894934444",
+  "username": "小哥测评"
+}

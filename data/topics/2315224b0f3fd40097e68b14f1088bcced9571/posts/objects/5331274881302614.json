@@ -1,0 +1,8 @@
+{
+  "body": "WINSTART.BAT 的主要用途，是让用户加载终止并驻留程序（TSR），供 Windows 程序调用，同时避免把这些程序提供给独立的 MS-DOS 虚拟机。\nIT之家获悉，TSR 是一类表面上已经退出、实际上仍驻留在内存里的 MS-DOS 程序，可以通过硬件或软件触发方式重新激活。此类程序过去常被用于通过快捷键调用的实用工具或设备驱动程序，以弥补 MS-DOS 一次只能运行一个程序的限制。\n雷蒙德 · 陈以驱动程序为例称，用户可以加载 Windows 所需的网络驱动程序，同时阻止 MS-DOS 程序使用该驱动，从而避免额外占用内存。\n雷蒙德 · 陈还通过 AUTOEXEC.BAT 进一步说明了 WINSTART.BAT 在启动流程中的位置。AUTOEXEC.BAT 会在 MS-DOS 启动时执行，并可以加载 TSR。Windows 之后为 MS-DOS 应用创建虚拟机时，这些虚拟机也会继承已经加载的 TSR。\nWindows 接管系统并初始化 VMM 后，会创建供 Windows 程序运行的 System VM。在 Windows 用户模式内核启动之前，只要 WINSTART.BAT 存在，VMM 就会执行该文件。\n执行时机上的差异正是 WINSTART.BAT 的特定优势。Windows 3.x 和 Windows 95 会通过虚拟机运行 MS-DOS 环境，而利用 AUTOEXEC.BAT 加载的 TSR 会被这些 MS-DOS 环境继承。\nWINSTART.BAT 则不同。通过 WINSTART.BAT 加载的 TSR 可以供 System VM 中的 Windows 程序使用，却不会进入独立的 MS-DOS 虚拟机。\nAUTOEXEC.BAT 加载的 TSR 同时可供 Windows 及其 MS-DOS 环境使用，而 WINSTART.BAT 加载的 TSR 只供 Windows 本身使用。\n#虞书欣丁禹兮 我欲乘风#",
+  "created_at_text": "Thu Aug 13 02:14:04 +0800 2026",
+  "mid": "5331274881302614",
+  "uid": "5252901462",
+  "url": "https://m.weibo.cn/detail/5331274881302614",
+  "username": "小哥测评"
+}

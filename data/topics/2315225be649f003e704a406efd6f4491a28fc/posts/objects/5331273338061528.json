@@ -1,0 +1,8 @@
+{
+  "body": "刚发的 DeepSeek-V4-Pro-0813 好像的确有问题, reasoning_effort=max 的时候模型在长程 AgenticCoding 任务下更倾向于早停.\n我这个测试总计50轮, 让模型不断优化代码, 结果他在3次测试中, 2次都在42-43轮左右的情况下停止了. 并未用完全部机会. 而且目前成绩来看, 甚至没打过 GLM-5.1 (仅我这一个case, 我不对其它case负责).\n目前还不确定这是强化学习阶段奖励机制弄得有问题，还是是上下文窗口注意力衰减的问题，一会放出详细评测视频给大家解析。\n#deepseek-v4-pro-0813#\n#HOW I AI#\n#DeepSeek发布V4Pro正式版#",
+  "created_at_text": "Thu Aug 13 02:07:57 +0800 2026",
+  "mid": "5331273338061528",
+  "uid": "2169039837",
+  "url": "https://m.weibo.cn/detail/5331273338061528",
+  "username": "karminski-牙医"
+}
