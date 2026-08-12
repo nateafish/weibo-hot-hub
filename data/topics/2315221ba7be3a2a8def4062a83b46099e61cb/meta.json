@@ -3,10 +3,10 @@
   "created_at": 1786530454,
   "first_seen_at": "2026-08-12T21:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-12T21:00:00+08:00",
+  "last_seen_at": "2026-08-12T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%A9%AC%E5%A4%A9%E5%AE%87+%E9%BA%A6%E8%BF%AA%E5%A8%9C%E4%BD%A0%E8%A6%81%E8%B7%9F%E8%B0%81%E7%BB%93%E5%A9%9A%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "5家媒体",
     "users": [
       {
         "id": 2921243620,
@@ -19,6 +19,13 @@
         "id": 2027480085,
         "idstr": "2027480085",
         "screen_name": "水母网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1882632930,
+        "idstr": "1882632930",
+        "screen_name": "新消息报",
         "verified": true,
         "verified_type": 3
       },

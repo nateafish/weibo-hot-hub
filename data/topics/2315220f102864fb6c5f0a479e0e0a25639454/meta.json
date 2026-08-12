@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 5705021476
   },
-  "last_seen_at": "2026-08-12T21:00:00+08:00",
+  "last_seen_at": "2026-08-12T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%BC%A0%E7%9D%BF%E6%9D%8E%E8%8B%A5%E5%98%89%E5%9C%A8%E4%B8%80%E8%B5%B7%E5%8D%81%E5%B9%B4%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "6家媒体",
     "users": [
       {
         "id": 7708039348,
@@ -23,9 +23,23 @@
         "verified_type": 3
       },
       {
+        "id": 3901624042,
+        "idstr": "3901624042",
+        "screen_name": "山西日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2188202475,
         "idstr": "2188202475",
         "screen_name": "南京晨报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1865504713,
+        "idstr": "1865504713",
+        "screen_name": "太原晚报",
         "verified": true,
         "verified_type": 3
       },
