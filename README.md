@@ -8,6 +8,9 @@
 
 [![Hourly Archive](https://github.com/nateafish/weibo-hot-hub/actions/workflows/hourly.yml/badge.svg)](https://github.com/nateafish/weibo-hot-hub/actions/workflows/hourly.yml)
 [![Cookie Health](https://github.com/nateafish/weibo-hot-hub/actions/workflows/cookie-health.yml/badge.svg)](https://github.com/nateafish/weibo-hot-hub/actions/workflows/cookie-health.yml)
+[![Static Frontend](https://github.com/nateafish/weibo-hot-hub/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/nateafish/weibo-hot-hub/actions/workflows/deploy-pages.yml)
+
+**[打开微博热搜档案网站](https://nateafish.github.io/weibo-hot-hub/)**
 
 微博热搜的小时级、去重数据档案。项目由 GitHub Actions 自动维护，每小时保存热搜榜、话题热度与趋势、热搜正文和有变化的微博智搜结果。
 

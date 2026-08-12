@@ -1,0 +1,65 @@
+name: Deploy Static Frontend
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "data/**"
+      - "frontend/**"
+      - "src/weibo_hot_hub/site_export.py"
+      - "pyproject.toml"
+      - ".github/workflows/deploy-pages.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install .
+      - name: Build browser data packages
+        run: python -m weibo_hot_hub.site_export
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 11.18.0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+          cache-dependency-path: frontend/pnpm-lock.yaml
+      - name: Install frontend dependencies
+        run: pnpm --dir frontend install --frozen-lockfile
+      - name: Validate frontend
+        run: |
+          pnpm --dir frontend test
+          pnpm --dir frontend typecheck
+      - name: Build static Pages artifact
+        run: pnpm --dir frontend build
+      - uses: actions/configure-pages@v5
+        with:
+          enablement: true
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: frontend/out
+      - name: Deploy GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
