@@ -250,8 +250,9 @@ def collect_mobile_search_pages(
     delay: float = 5.0,
     jitter: float = 1.5,
     fetch_full_text: bool = True,
+    verify_login: bool = True,
 ) -> list[list[Post]]:
-    if not check_mobile_login(http):
+    if verify_login and not check_mobile_login(http):
         raise LoginRequired("Mobile /api/config reports data.login != true")
     output: list[list[Post]] = []
     seen: set[str] = set()

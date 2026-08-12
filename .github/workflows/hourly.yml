@@ -1,0 +1,64 @@
+name: Hourly Archive
+
+on:
+  schedule:
+    - cron: "27 * * * *"
+  workflow_dispatch:
+    inputs:
+      pages:
+        description: Pages per topic (1-10)
+        required: false
+        default: "10"
+      max_topics:
+        description: Maximum topics; 0 means the full hotlist
+        required: false
+        default: "0"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weibo-data-writer
+  cancel-in-progress: false
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install .
+      - name: Archive hourly hotlist, metrics, posts, and AI answers
+        env:
+          WEIBO_COOKIE: ${{ secrets.WEIBO_COOKIE }}
+          WEIBO_MOBILE_COOKIE: ${{ secrets.WEIBO_MOBILE_COOKIE }}
+          PAGES: ${{ inputs.pages || '10' }}
+          MAX_TOPICS: ${{ inputs.max_topics || '0' }}
+        run: |
+          if ! [[ "$PAGES" =~ ^([1-9]|10)$ ]]; then
+            echo "pages must be between 1 and 10"
+            exit 2
+          fi
+          if ! [[ "$MAX_TOPICS" =~ ^[0-9]+$ ]]; then
+            echo "max_topics must be a non-negative integer"
+            exit 2
+          fi
+          python -m weibo_hot_hub.hourly --pages "$PAGES" --max-topics "$MAX_TOPICS"
+      - name: Commit changed data
+        run: |
+          if [ -z "$(git status --porcelain -- data)" ]; then
+            echo "No hourly data changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git commit -m "data: hourly archive"
+          git push
+
