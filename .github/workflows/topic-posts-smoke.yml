@@ -3,6 +3,9 @@ name: Topic Posts Smoke Test
 on:
   workflow_dispatch:
     inputs:
+      topic_id:
+        description: Stable topic id
+        required: true
       topic:
         description: Topic including both # characters
         required: true
@@ -12,11 +15,11 @@ on:
         default: "1"
 
 permissions:
-  contents: read
+  contents: write
 
 concurrency:
-  group: weibo-topic-posts-smoke
-  cancel-in-progress: true
+  group: weibo-data-writer
+  cancel-in-progress: false
 
 jobs:
   collect:
@@ -29,13 +32,26 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: pip install .
-      - name: Collect a read-only sample
+      - name: Collect and archive topic posts
         env:
           WEIBO_MOBILE_COOKIE: ${{ secrets.WEIBO_MOBILE_COOKIE }}
+          TOPIC_ID: ${{ inputs.topic_id }}
+          TOPIC: ${{ inputs.topic }}
+          PAGES: ${{ inputs.pages }}
         run: |
-          pages='${{ inputs.pages }}'
-          if ! [[ "$pages" =~ ^([1-9]|10)$ ]]; then
+          if ! [[ "$PAGES" =~ ^([1-9]|10)$ ]]; then
             echo "pages must be between 1 and 10"
             exit 2
           fi
-          python -m weibo_hot_hub.cli '${{ inputs.topic }}' --pages "$pages"
+          python -m weibo_hot_hub.posts_cli "$TOPIC_ID" "$TOPIC" --pages "$PAGES"
+      - name: Commit changed data
+        run: |
+          if [ -z "$(git status --porcelain -- data)" ]; then
+            echo "No post data changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git commit -m "data: update topic posts"
+          git push

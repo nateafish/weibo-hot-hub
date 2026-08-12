@@ -33,10 +33,9 @@ jobs:
       - name: Collect AI answer only when changed
         env:
           WEIBO_COOKIE: ${{ secrets.WEIBO_COOKIE }}
-        run: >-
-          python -m weibo_hot_hub.ai_cli
-          '${{ inputs.topic_id }}'
-          '${{ inputs.topic }}'
+          TOPIC_ID: ${{ inputs.topic_id }}
+          TOPIC: ${{ inputs.topic }}
+        run: python -m weibo_hot_hub.ai_cli "$TOPIC_ID" "$TOPIC"
       - name: Commit changed data
         run: |
           if [ -z "$(git status --porcelain -- data)" ]; then

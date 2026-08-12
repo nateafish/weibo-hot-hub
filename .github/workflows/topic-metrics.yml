@@ -28,7 +28,9 @@ jobs:
           cache: pip
       - run: pip install .
       - name: Collect public topic metrics
-        run: python -m weibo_hot_hub.topic_cli '${{ inputs.topic }}'
+        env:
+          TOPIC: ${{ inputs.topic }}
+        run: python -m weibo_hot_hub.topic_cli "$TOPIC"
       - name: Commit changed data
         run: |
           if [ -z "$(git status --porcelain -- data)" ]; then
