@@ -39,7 +39,7 @@ jobs:
           '${{ inputs.topic }}'
       - name: Commit changed data
         run: |
-          if git diff --quiet -- data; then
+          if [ -z "$(git status --porcelain -- data)" ]; then
             echo "No AI answer change"
             exit 0
           fi
@@ -48,4 +48,3 @@ jobs:
           git add data
           git commit -m "data: update AI search answer"
           git push
-
