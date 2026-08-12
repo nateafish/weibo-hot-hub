@@ -8,7 +8,7 @@ import re
 import time
 from dataclasses import dataclass
 from typing import Any, Iterable
-from urllib.parse import parse_qs, urlencode, urlparse
+from urllib.parse import parse_qs, parse_qsl, urlencode, urlparse
 
 import httpx
 from bs4 import BeautifulSoup, Tag
@@ -303,10 +303,15 @@ def collect_search_pages(
 
 def canonical_https(value: str) -> str | None:
     if value.startswith("//"):
-        return "https:" + value.split("?", 1)[0]
+        value = "https:" + value
     if value.startswith("http://") or value.startswith("https://"):
         parsed = urlparse(value)
-        return parsed._replace(scheme="https", query="", fragment="").geturl()
+        transient = {"refer_flag", "Refer", "t", "band_rank"}
+        query = urlencode(
+            [(key, item) for key, item in parse_qsl(parsed.query) if key not in transient],
+            doseq=True,
+        )
+        return parsed._replace(scheme="https", query=query).geturl()
     if value.startswith("sinaweibo://"):
         query = parse_qs(urlparse(value).query)
         mid = (query.get("mblogid") or query.get("mix_mid") or query.get("mid") or [None])[0]

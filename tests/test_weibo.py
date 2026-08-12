@@ -46,7 +46,7 @@ def test_ai_deduplicates_links_and_detects_refusal() -> None:
     assert normalized["refusal"] is True
     assert normalized["links"] == [
         "https://m.weibo.cn/detail/1",
-        "https://example.com/a",
+        "https://example.com/a?tracking=1",
     ]
 
 
