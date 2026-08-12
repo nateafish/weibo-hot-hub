@@ -355,13 +355,12 @@ def export_site_data(
 
 
 def main() -> None:
-    repository_root = Path(__file__).resolve().parents[2]
     parser = argparse.ArgumentParser()
-    parser.add_argument("--data-root", type=Path, default=repository_root / "data")
+    parser.add_argument("--data-root", type=Path, default=Path("data"))
     parser.add_argument(
         "--output",
         type=Path,
-        default=repository_root / "frontend" / "public" / "site-data",
+        default=Path("frontend/public/site-data"),
     )
     args = parser.parse_args()
     manifest = export_site_data(args.data_root, args.output)
