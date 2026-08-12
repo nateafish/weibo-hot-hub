@@ -41,4 +41,4 @@ def test_normalize_topic_bundle() -> None:
     assert bundle.snapshot["overview"]["all"]["read"] == "1万"
     assert bundle.snapshot["contributors"][0]["profile_url"] == "https://weibo.com/u/42"
     assert bundle.trends["1h"]["original"][0]["at"] == "2026-08-12T19:50:00+08:00"
-
+    assert bundle.meta["host"] == {"uid": "42"}

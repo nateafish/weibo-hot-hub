@@ -141,6 +141,39 @@ def _contributors(base_info: dict[str, Any]) -> list[dict[str, Any]]:
     return result
 
 
+def _host(value: Any) -> dict[str, Any] | None:
+    source = value if isinstance(value, dict) else {}
+    if not source:
+        return None
+    return {
+        key: source.get(key)
+        for key in ("uid", "screen_name", "claim_time", "created_at", "status", "is_claim")
+        if key in source
+    }
+
+
+def _media_info(value: Any) -> dict[str, Any] | None:
+    source = value if isinstance(value, dict) else {}
+    if not source:
+        return None
+    users: list[dict[str, Any]] = []
+    for item in source.get("users") or []:
+        if not isinstance(item, dict):
+            continue
+        users.append(
+            {
+                key: item.get(key)
+                for key in ("id", "idstr", "screen_name", "verified", "verified_type")
+                if key in item
+            }
+        )
+    return {
+        "show_str": source.get("show_str"),
+        "scheme_url": source.get("scheme_url"),
+        "users": users,
+    }
+
+
 def _absolute_points(
     trend: dict[str, Any], captured_at: datetime
 ) -> dict[str, list[dict[str, Any]]]:
@@ -197,8 +230,8 @@ def normalize_topic_bundle(
         "sub_category": obj.get("sub_category_str"),
         "search_url": obj.get("url"),
         "created_at": obj.get("create_at"),
-        "host": claims.get("cur_claim_info"),
-        "media_info": detail.get("media_info"),
+        "host": _host(claims.get("cur_claim_info")),
+        "media_info": _media_info(detail.get("media_info")),
     }
     snapshot = {
         "captured_at": captured_at.isoformat(),
@@ -228,4 +261,3 @@ def normalize_topic_bundle(
         "24h": _absolute_points(trend_24h, captured_at),
     }
     return TopicBundle(topic_id, title, meta, snapshot, trends)
-
