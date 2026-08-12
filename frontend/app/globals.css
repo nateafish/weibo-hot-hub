@@ -1,0 +1,146 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+}
+
+:root {
+  --background: oklch(1 0 0);
+  --foreground: oklch(0.145 0 0);
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.145 0 0);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.145 0 0);
+  --primary: oklch(0.205 0 0);
+  --primary-foreground: oklch(0.985 0 0);
+  --secondary: oklch(0.97 0 0);
+  --secondary-foreground: oklch(0.205 0 0);
+  --muted: oklch(0.97 0 0);
+  --muted-foreground: oklch(0.556 0 0);
+  --accent: oklch(0.97 0 0);
+  --accent-foreground: oklch(0.205 0 0);
+  --destructive: oklch(0.577 0.245 27.325);
+  --border: oklch(0.922 0 0);
+  --input: oklch(0.922 0 0);
+  --ring: oklch(0.708 0 0);
+  --radius: 0.625rem;
+  --sidebar: oklch(0.985 0 0);
+  --sidebar-foreground: oklch(0.145 0 0);
+  --sidebar-primary: oklch(0.205 0 0);
+  --sidebar-primary-foreground: oklch(0.985 0 0);
+  --sidebar-accent: oklch(0.97 0 0);
+  --sidebar-accent-foreground: oklch(0.205 0 0);
+  --sidebar-border: oklch(0.922 0 0);
+  --sidebar-ring: oklch(0.708 0 0);
+  --chart-read: oklch(0.637 0.237 25.331);
+  --chart-mention: oklch(0.646 0.222 41.116);
+  --chart-interaction: oklch(0.558 0.288 302.321);
+  --chart-original: oklch(0.596 0.145 163.225);
+}
+
+.dark {
+  --background: oklch(0.145 0 0);
+  --foreground: oklch(0.985 0 0);
+  --card: oklch(0.205 0 0);
+  --card-foreground: oklch(0.985 0 0);
+  --popover: oklch(0.205 0 0);
+  --popover-foreground: oklch(0.985 0 0);
+  --primary: oklch(0.922 0 0);
+  --primary-foreground: oklch(0.205 0 0);
+  --secondary: oklch(0.269 0 0);
+  --secondary-foreground: oklch(0.985 0 0);
+  --muted: oklch(0.269 0 0);
+  --muted-foreground: oklch(0.708 0 0);
+  --accent: oklch(0.269 0 0);
+  --accent-foreground: oklch(0.985 0 0);
+  --destructive: oklch(0.704 0.191 22.216);
+  --border: oklch(1 0 0 / 10%);
+  --input: oklch(1 0 0 / 15%);
+  --ring: oklch(0.556 0 0);
+  --sidebar: oklch(0.205 0 0);
+  --sidebar-foreground: oklch(0.985 0 0);
+  --sidebar-primary: oklch(0.488 0.243 264.376);
+  --sidebar-primary-foreground: oklch(0.985 0 0);
+  --sidebar-accent: oklch(0.269 0 0);
+  --sidebar-accent-foreground: oklch(0.985 0 0);
+  --sidebar-border: oklch(1 0 0 / 10%);
+  --sidebar-ring: oklch(0.439 0 0);
+}
+
+@layer base {
+  * { @apply border-border outline-ring/50; }
+  body { @apply bg-background text-foreground; }
+  button, [role="button"] { cursor: pointer; }
+}
+
+.page { @apply flex flex-1 flex-col gap-4 p-4 md:gap-6 md:p-6; }
+.page-header { @apply flex flex-col gap-3 md:flex-row md:items-start md:justify-between; }
+.page-title { @apply text-2xl font-semibold tracking-tight; }
+.page-subtitle { @apply mt-1 max-w-3xl text-sm text-muted-foreground; }
+.status-pill { @apply inline-flex w-fit items-center gap-2 rounded-md border bg-background px-2.5 py-1.5 text-xs text-muted-foreground shadow-xs; }
+.status-dot { @apply size-2 rounded-full bg-destructive; }
+.status-dot.valid { @apply bg-emerald-500; }
+.toolbar { @apply flex flex-wrap items-center gap-2; }
+.loading-block { @apply animate-pulse rounded-lg bg-muted; }
+.heat-number { @apply font-medium tabular-nums; }
+.tag-hot, .tag-new { @apply inline-flex items-center rounded-md border px-1.5 py-0.5 text-xs font-medium; }
+.tag-hot { @apply border-red-200 bg-red-50 text-red-700 dark:border-red-900 dark:bg-red-950 dark:text-red-300; }
+.tag-new { @apply border-orange-200 bg-orange-50 text-orange-700 dark:border-orange-900 dark:bg-orange-950 dark:text-orange-300; }
+.section-title { @apply mb-3 mt-6 text-sm font-medium; }
+.topic-summary { @apply text-sm leading-6 text-muted-foreground; }
+.topic-grid { @apply grid gap-4 md:grid-cols-2 xl:grid-cols-3; }
+.detail-hero { @apply p-6; }
+.detail-hero-top { @apply flex flex-col gap-4 md:flex-row md:items-start md:justify-between; }
+.detail-hero h1 { @apply text-2xl font-semibold tracking-tight md:text-3xl; }
+.detail-meta { @apply mt-4 flex flex-wrap gap-2; }
+.panel { @apply p-5 md:p-6; }
+.overview-window { @apply mt-4; }
+.overview-window h3 { @apply mb-2 text-sm font-medium text-muted-foreground; }
+.post-list { @apply grid gap-3; }
+.post-card { @apply p-5; }
+.post-author { @apply flex items-center justify-between gap-4 text-xs text-muted-foreground; }
+.post-body { @apply mt-3 whitespace-pre-wrap text-sm leading-6; }
+.prose { @apply max-w-4xl text-sm leading-7; }
+.prose h1, .prose h2, .prose h3 { @apply mb-2 mt-6 font-semibold tracking-tight; }
+.prose h1 { @apply text-2xl; } .prose h2 { @apply text-xl; } .prose h3 { @apply text-lg; }
+.prose p, .prose ul, .prose ol { @apply my-3; }
+.prose ul, .prose ol { @apply pl-6; }
+.prose ul { @apply list-disc; } .prose ol { @apply list-decimal; }
+.prose a { @apply font-medium underline underline-offset-4; }
+.prose blockquote { @apply border-l-2 pl-4 text-muted-foreground; }
+.about-grid { @apply grid gap-4 lg:grid-cols-[1.4fr_1fr]; }
+.about-card { @apply p-6; }
+.about-card h2 { @apply mb-2 text-lg font-semibold; }
+.about-card p, .about-card li { @apply text-sm leading-6 text-muted-foreground; }
+.about-card ul { @apply list-disc pl-5; }
