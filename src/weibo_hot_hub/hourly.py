@@ -25,7 +25,7 @@ def _error(exc: Exception) -> str:
     return f"{type(exc).__name__}: {exc}"[:500]
 
 
-def run_hourly(data_root: Path, pages: int = 10, max_topics: int = 0) -> dict[str, Any]:
+def run_hourly(data_root: Path, pages: int = 1, max_topics: int = 0) -> dict[str, Any]:
     captured_at = datetime.now(ZoneInfo("Asia/Shanghai")).replace(
         minute=0, second=0, microsecond=0
     )
@@ -122,7 +122,7 @@ def run_hourly(data_root: Path, pages: int = 10, max_topics: int = 0) -> dict[st
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--data-root", type=Path, default=Path("data"))
-    parser.add_argument("--pages", type=int, default=10)
+    parser.add_argument("--pages", type=int, default=1)
     parser.add_argument("--max-topics", type=int, default=0)
     args = parser.parse_args()
     if not 1 <= args.pages <= 10:
@@ -135,4 +135,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

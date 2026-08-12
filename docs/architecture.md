@@ -25,7 +25,7 @@ The hourly workflow runs as one sequential data writer:
 1. Fetch the full hotlist.
 2. Resolve each title to a stable topic ID through the public topic detail endpoint.
 3. Save overview, host, category, rank history, contributors, and 1-hour/24-hour trends.
-4. Fetch pages 1–10 through the mobile keyword API; fetch a detail page only when `isLongText` is true.
+4. Fetch the first mobile keyword-search page in the hourly job; manual runs may request 1–10 pages. Fetch a detail page only when `isLongText` is true.
 5. Store each post body once by `mid`; store hourly page order separately.
 6. Fetch the AI answer; discard refusal responses and save Markdown only when normalized content changes.
 7. Save a run report and commit all changes once.
@@ -50,4 +50,3 @@ data/
 ```
 
 Repeated execution within the same hour replaces the hour snapshot and the matching JSONL record. Existing post objects are not rewritten. AI Markdown is created only when the normalized SHA-256 changes.
-
