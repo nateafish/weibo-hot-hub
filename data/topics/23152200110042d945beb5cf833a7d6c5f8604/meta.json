@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2027480085
   },
-  "last_seen_at": "2026-08-13T06:00:00+08:00",
+  "last_seen_at": "2026-08-13T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%95%BF%E6%9C%9F%E9%A5%A5%E4%B8%80%E9%A1%BF%E9%A5%B1%E4%B8%80%E9%A1%BF%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "44家媒体",
+    "show_str": "46家媒体",
     "users": [
       {
         "id": 2027480085,
         "idstr": "2027480085",
         "screen_name": "水母网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1856446532,
+        "idstr": "1856446532",
+        "screen_name": "合新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1926909715,
         "idstr": "1926909715",
         "screen_name": "第一财经日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7639071132,
-        "idstr": "7639071132",
-        "screen_name": "篝火视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7613700701,
-        "idstr": "7613700701",
-        "screen_name": "共富财经",
         "verified": true,
         "verified_type": 3
       }

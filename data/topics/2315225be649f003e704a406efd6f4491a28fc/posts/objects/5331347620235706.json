@@ -1,0 +1,8 @@
+{
+  "body": "#DeepSeek发布V4Pro正式版#\n8 月 12 日夜，DeepSeek 在 API 文档\"模型 & 价格\"页静默上线 DeepSeek-V4-Pro-0813，调用名仍为 deepseek-v4-pro，老用户无需改配置即可切到正式版 。\n核心规格\n• 🧠 上下文 100 万 token，最大输出 38.4 万 token\n• 🔀 默认思考模式，可切非思考；支持 Tool Calls、JSON Output、Responses API\n• 🔌 同时兼容 OpenAI 与 Anthropic 格式，可直接导入 Codex、Claude Code 生态\n• 💰 定价：缓存命中输入 0.025 元 / 缓存未命中输入 3 元 / 输出 6 元（百万 token），约为 V4 Flash 的 3 倍，并发 500\n据官方放出的评测，V4 Pro 正式版多项测试接近 Anthropic Fable 5，较预览版大幅提升；Agent 编码、长上下文、复杂工具链是它真正拉开差距的场景 。\n💡 选型建议：高频跑量、轻量编程用 Flash（并发 2500）；大仓库跨文件改动、长链路 Coding Agent、深度研究才值得为 Pro 的三倍单价买单 。\n⚠️ 两点边界：截至发稿 DeepSeek 尚未发布独立正式版公告，HuggingFace 上也未看到 0813 独立权重，\"API 可用\"≠\"权重已开源\" 。另外官方已预告 API 近期整体提价且涨幅较大，当前价是窗口期定价 。\n国产开源旗舰，这次是真的摸到顶配的门了。\n#DeepSeekV4Pro正式版上线#\n#DeepSeek#\n#AI大模型#",
+  "created_at_text": "Thu Aug 13 07:03:07 +0800 2026",
+  "mid": "5331347620235706",
+  "uid": "3208430071",
+  "url": "https://m.weibo.cn/detail/5331347620235706",
+  "username": "渡势行"
+}
