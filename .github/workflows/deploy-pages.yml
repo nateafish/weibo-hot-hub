@@ -37,7 +37,10 @@ jobs:
           cache: pip
       - run: pip install .
       - name: Build browser data packages
-        run: python -m weibo_hot_hub.site_export
+        run: >-
+          python -m weibo_hot_hub.site_export
+          --data-root data
+          --output frontend/public/site-data
       - uses: pnpm/action-setup@v4
         with:
           version: 11.18.0
