@@ -3,11 +3,25 @@
   "created_at": 1660108068,
   "first_seen_at": "2026-08-12T23:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-12T23:00:00+08:00",
+  "last_seen_at": "2026-08-13T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%B5%81%E6%98%9F%E9%9B%A8+%E8%AE%B8%E6%84%BF%23%26t%3D3&title=发布媒体",
-    "show_str": "7家媒体",
+    "show_str": "10家媒体",
     "users": [
+      {
+        "id": 1642591402,
+        "idstr": "1642591402",
+        "screen_name": "新浪娱乐",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6105713761,
+        "idstr": "6105713761",
+        "screen_name": "红星新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2460937233,
         "idstr": "2460937233",
@@ -16,9 +30,9 @@
         "verified_type": 3
       },
       {
-        "id": 6105713761,
-        "idstr": "6105713761",
-        "screen_name": "红星新闻",
+        "id": 1656737654,
+        "idstr": "1656737654",
+        "screen_name": "现代快报",
         "verified": true,
         "verified_type": 3
       },
@@ -37,23 +51,9 @@
         "verified_type": 3
       },
       {
-        "id": 1668926483,
-        "idstr": "1668926483",
-        "screen_name": "华龙网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1288429914,
-        "idstr": "1288429914",
-        "screen_name": "今视频长天新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1280846847,
-        "idstr": "1280846847",
-        "screen_name": "指尖新闻-沈阳晚报",
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       }
