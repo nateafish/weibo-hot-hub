@@ -63,6 +63,15 @@ def cookie_from_env() -> str:
     return cookie
 
 
+def mobile_cookie_from_env() -> str:
+    cookie = os.environ.get("WEIBO_MOBILE_COOKIE", "").strip()
+    if not cookie:
+        raise LoginRequired("WEIBO_MOBILE_COOKIE is missing")
+    if "=" not in cookie:
+        raise LoginRequired("WEIBO_MOBILE_COOKIE is malformed")
+    return cookie
+
+
 def client(cookie: str | None = None) -> httpx.Client:
     headers = {
         "User-Agent": DEFAULT_UA,
