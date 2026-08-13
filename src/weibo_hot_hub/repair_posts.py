@@ -8,9 +8,13 @@ from typing import Any
 
 from .storage import atomic_json, save_post_pages
 from .weibo import (
+    ParseError,
     _sleep_with_jitter,
     check_mobile_login,
     collect_mobile_search_pages,
+    collect_search_pages,
+    client,
+    cookie_from_env,
     mobile_client,
     mobile_cookie_from_env,
     unique_posts,
@@ -27,19 +31,32 @@ def repair_posts(data_root: Path, hour: str, pages: int = 1) -> dict[str, Any]:
     if not pending:
         return report
 
-    with mobile_client(mobile_cookie_from_env()) as http:
-        if not check_mobile_login(http):
+    use_mobile = True
+    with mobile_client(mobile_cookie_from_env()) as mobile_http, client(
+        cookie_from_env()
+    ) as pc_http:
+        if not check_mobile_login(mobile_http):
             raise RuntimeError("WEIBO_MOBILE_COOKIE failed /api/config login check")
         for index, item in enumerate(pending):
             topic_id = str(item.get("topic_id") or "")
             if not topic_id:
                 raise RuntimeError(f"missing topic_id for {item.get('title')}")
-            post_pages = collect_mobile_search_pages(
-                http,
-                str(item["query"]),
-                pages=pages,
-                verify_login=False,
-            )
+            query = str(item["query"])
+            if use_mobile:
+                try:
+                    post_pages = collect_mobile_search_pages(
+                        mobile_http,
+                        query,
+                        pages=pages,
+                        verify_login=False,
+                    )
+                except ParseError as exc:
+                    if "403" not in str(exc):
+                        raise
+                    use_mobile = False
+                    post_pages = collect_search_pages(pc_http, query, pages=pages)
+            else:
+                post_pages = collect_search_pages(pc_http, query, pages=pages)
             save_post_pages(data_root, topic_id, captured_at, post_pages)
             item["posts"] = "saved"
             item["post_count"] = len(unique_posts(post_pages))
