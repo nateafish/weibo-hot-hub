@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1717833412
   },
-  "last_seen_at": "2026-08-13T17:00:00+08:00",
+  "last_seen_at": "2026-08-13T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%94%B7%E5%AD%90%E5%B8%AE%E6%9C%8B%E5%8F%8B%E8%A3%85%E7%A9%BA%E8%B0%83%E4%B8%8D%E6%85%8E12%E6%A5%BC%E5%9D%A0%E4%BA%A1%23%26t%3D3&title=发布媒体",
-    "show_str": "24家媒体",
+    "show_str": "25家媒体",
     "users": [
       {
         "id": 1717833412,
@@ -51,18 +51,18 @@
         "verified_type": 3
       },
       {
+        "id": 1618051664,
+        "idstr": "1618051664",
+        "screen_name": "头条新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1288429914,
         "idstr": "1288429914",
         "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
-      },
-      {
-        "id": 6590980486,
-        "idstr": "6590980486",
-        "screen_name": "捉谣记",
-        "verified": true,
-        "verified_type": 7
       }
     ]
   },

@@ -10,22 +10,22 @@
     "status": 2,
     "uid": 5611783716
   },
-  "last_seen_at": "2026-08-13T17:00:00+08:00",
+  "last_seen_at": "2026-08-13T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%A9%AC%E5%A4%A9%E5%AE%87%E8%A2%AB%E5%A7%9C%E6%BD%AE%E6%90%9E%E4%B8%8D%E4%BC%9A%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "14家媒体",
+    "show_str": "13家媒体",
     "users": [
-      {
-        "id": 2075245652,
-        "idstr": "2075245652",
-        "screen_name": "长春晚报",
-        "verified": true,
-        "verified_type": 3
-      },
       {
         "id": 2921799343,
         "idstr": "2921799343",
         "screen_name": "天下泉城",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5539777260,
+        "idstr": "5539777260",
+        "screen_name": "菏泽日报",
         "verified": true,
         "verified_type": 3
       },
@@ -44,13 +44,6 @@
         "verified_type": 3
       },
       {
-        "id": 5539777260,
-        "idstr": "5539777260",
-        "screen_name": "菏泽日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 5396094153,
         "idstr": "5396094153",
         "screen_name": "大众新闻-大众日报",
@@ -61,6 +54,13 @@
         "id": 2992050891,
         "idstr": "2992050891",
         "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2535760180,
+        "idstr": "2535760180",
+        "screen_name": "安徽视讯",
         "verified": true,
         "verified_type": 3
       }

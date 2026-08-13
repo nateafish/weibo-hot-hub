@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 7860997354
   },
-  "last_seen_at": "2026-08-13T17:00:00+08:00",
+  "last_seen_at": "2026-08-13T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A5%B3%E5%AD%900%E5%85%83%E8%B4%AD400%E6%A0%B9%E7%82%B8%E4%B8%B2%E9%80%80%E6%AC%BE%E8%A2%AB%E6%8B%92%23%26t%3D3&title=发布媒体",
-    "show_str": "21家媒体",
+    "show_str": "24家媒体",
     "users": [
+      {
+        "id": 1887344341,
+        "idstr": "1887344341",
+        "screen_name": "观察者网",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1938523582,
         "idstr": "1938523582",
@@ -56,13 +63,6 @@
         "screen_name": "密度新闻",
         "verified": true,
         "verified_type": 3
-      },
-      {
-        "id": 5665811463,
-        "idstr": "5665811463",
-        "screen_name": "板扎在线",
-        "verified": true,
-        "verified_type": 7
       }
     ]
   },
