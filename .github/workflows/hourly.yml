@@ -77,6 +77,8 @@ jobs:
       - name: Commit changed data
         id: commit
         if: steps.archive-check.outputs.should_run == 'true'
+        env:
+          FORCE: ${{ inputs.force || 'false' }}
         run: |
           echo "pushed=false" >> "$GITHUB_OUTPUT"
           if [ -z "$(git status --porcelain -- data README.md)" ]; then
@@ -90,14 +92,16 @@ jobs:
           git fetch origin main
           snapshot="data/hotlists/$(TZ=Asia/Shanghai date +'%Y/%m/%d/%H.json')"
           run_record="data/runs/$(TZ=Asia/Shanghai date +'%Y/%m/%d/%H.json')"
-          if git cat-file -e "origin/main:$snapshot" 2>/dev/null \
+          if [ "$FORCE" != "true" ] \
+            && git cat-file -e "origin/main:$snapshot" 2>/dev/null \
             && git cat-file -e "origin/main:$run_record" 2>/dev/null; then
             echo "Remote hour completed while this run was collecting; discarding cloud result"
             exit 0
           fi
           git rebase origin/main
           git fetch origin main
-          if git cat-file -e "origin/main:$snapshot" 2>/dev/null \
+          if [ "$FORCE" != "true" ] \
+            && git cat-file -e "origin/main:$snapshot" 2>/dev/null \
             && git cat-file -e "origin/main:$run_record" 2>/dev/null; then
             echo "Remote hour completed before push; discarding cloud result"
             exit 0
