@@ -38,21 +38,13 @@ open_login() {
 }
 
 case "${1:-help}" in
-  run)
+  sync-cookie|run)
     shift
-    python_command run "$@"
+    python_command sync-cookie "$@"
     ;;
-  run-now)
+  sync-now|run-now)
     shift
-    exec /usr/bin/caffeinate -ims "$0" run --no-jitter "$@"
-    ;;
-  smoke)
-    shift
-    exec /usr/bin/caffeinate -ims "$0" run-smoke "$@"
-    ;;
-  run-smoke)
-    shift
-    python_command smoke "$@"
+    exec /usr/bin/caffeinate -ims "$0" sync-cookie "$@"
     ;;
   check-login)
     shift
@@ -64,12 +56,12 @@ case "${1:-help}" in
   start)
     launchctl enable "$DOMAIN_TARGET"
     launchctl kickstart -k "$DOMAIN_TARGET"
-    print "本地采集已启动。"
+    print "每日 Cookie 同步已启动。"
     ;;
   stop)
     launchctl kill SIGTERM "$DOMAIN_TARGET" 2>/dev/null || true
     launchctl disable "$DOMAIN_TARGET"
-    print "本地采集已停止；launchd 配置仍保留。"
+    print "每日 Cookie 同步已停止；launchd 配置仍保留。"
     ;;
   logs)
     mkdir -p "$LOG_DIR"
@@ -79,7 +71,7 @@ case "${1:-help}" in
     "$SCRIPT_DIR/status-local-collector.sh"
     ;;
   help|*)
-    print "usage: scripts/local-collector {run|run-now|smoke|check-login|login|relogin|start|stop|logs|status}"
+    print "usage: scripts/local-collector {sync-cookie|sync-now|check-login|login|relogin|start|stop|logs|status}"
     exit 2
     ;;
 esac

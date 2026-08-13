@@ -57,4 +57,4 @@ launchctl enable "$DOMAIN_TARGET"
 print
 print "安装完成。登录两个微博站点后运行："
 print "  scripts/local-collector check-login"
-print "  scripts/local-collector run-now"
+print "  scripts/local-collector sync-now"

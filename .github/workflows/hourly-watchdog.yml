@@ -2,13 +2,12 @@ name: Hourly Archive Watchdog
 
 on:
   schedule:
-    - cron: "27,42,57 * * * *"
+    - cron: "12,27,42,57 * * * *"
   workflow_dispatch:
 
 permissions:
   actions: write
   contents: read
-  statuses: read
 
 concurrency:
   group: weibo-hourly-watchdog
@@ -30,26 +29,6 @@ jobs:
             && gh api "repos/$GITHUB_REPOSITORY/contents/$run_record?ref=$GITHUB_REF_NAME" >/dev/null 2>&1; then
             echo "Current hour is already complete: $hotlist"
             exit 0
-          fi
-
-          lease_context="local-collector/$(TZ=Asia/Shanghai date +'%Y-%m-%dT%H')+08:00"
-          lease_status="$(
-            for sha in $(gh api "repos/$GITHUB_REPOSITORY/commits?sha=$GITHUB_REF_NAME&per_page=10" --jq '.[].sha'); do
-              gh api "repos/$GITHUB_REPOSITORY/commits/$sha/statuses" \
-                --jq ".[] | select(.context == \"$lease_context\") | [.updated_at, .state] | @tsv"
-            done | sort | tail -1
-          )"
-          if [ -n "$lease_status" ]; then
-            lease_updated="$(printf '%s' "$lease_status" | cut -f1)"
-            lease_state="$(printf '%s' "$lease_status" | cut -f2)"
-            lease_age="$(( $(date +%s) - $(date -d "$lease_updated" +%s) ))"
-            if [ "$lease_state" = pending ] && [ "$lease_age" -ge 0 ] && [ "$lease_age" -le 900 ]; then
-              echo "Fresh local collector lease found (${lease_age}s old); skipping fallback"
-              exit 0
-            fi
-            echo "Local lease is $lease_state or stale (${lease_age}s); fallback is allowed"
-          else
-            echo "No local collector lease; fallback is allowed"
           fi
 
           active_runs=$(gh api \
