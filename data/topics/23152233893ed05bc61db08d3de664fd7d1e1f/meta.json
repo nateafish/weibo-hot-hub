@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1499104401
   },
-  "last_seen_at": "2026-08-13T22:00:00+08:00",
+  "last_seen_at": "2026-08-13T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8D%B0%E5%BA%A6%E7%89%9B%E8%A7%A6%E7%94%B5%E6%AD%BB%E4%BA%A1%E5%B1%85%E6%B0%91%E6%AE%B4%E6%89%93%E5%8F%98%E5%8E%8B%E5%99%A8%E6%B3%84%E6%84%A4%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "4家媒体",
     "users": [
       {
         "id": 1647210043,
@@ -33,6 +33,13 @@
         "id": 2000016880,
         "idstr": "2000016880",
         "screen_name": "逐浪新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1882632930,
+        "idstr": "1882632930",
+        "screen_name": "新消息报",
         "verified": true,
         "verified_type": 3
       }
