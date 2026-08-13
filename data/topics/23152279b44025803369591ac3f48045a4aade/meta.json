@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 1630423295
   },
-  "last_seen_at": "2026-08-13T21:00:00+08:00",
+  "last_seen_at": "2026-08-13T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%80%80%E4%BC%91236%E5%A4%A9%E5%A4%A7%E5%A7%90%E7%8A%B6%E6%80%81%E5%A4%A7%E5%8F%98%E6%A0%B7%23%26t%3D3&title=发布媒体",
-    "show_str": "24家媒体",
+    "show_str": "32家媒体",
     "users": [
       {
         "id": 1630423295,
         "idstr": "1630423295",
         "screen_name": "都市频道",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1725252714,
+        "idstr": "1725252714",
+        "screen_name": "温度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1796087453,
+        "idstr": "1796087453",
+        "screen_name": "荔枝新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -49,27 +63,13 @@
         "screen_name": "密度新闻",
         "verified": true,
         "verified_type": 3
-      },
-      {
-        "id": 5550357934,
-        "idstr": "5550357934",
-        "screen_name": "动静贵州",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2921799343,
-        "idstr": "2921799343",
-        "screen_name": "天下泉城",
-        "verified": true,
-        "verified_type": 3
       }
     ]
   },
   "query": "#退休236天大姐状态大变样#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E9%80%80%E4%BC%91236%E5%A4%A9%E5%A4%A7%E5%A7%90%E7%8A%B6%E6%80%81%E5%A4%A7%E5%8F%98%E6%A0%B7%23",
   "sub_category": null,
-  "summary": "一位大姐用镜头记录了自己退休前后的状态变化——从退休倒计时32天开始，一直到退休后第236天，变化肉眼可见：气色越来越好，整个人都显年轻了不少。",
+  "summary": "",
   "title": "退休236天大姐状态大变样",
   "topic_id": "23152279b44025803369591ac3f48045a4aade"
 }

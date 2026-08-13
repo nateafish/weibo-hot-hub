@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1699432410
   },
-  "last_seen_at": "2026-08-13T21:00:00+08:00",
+  "last_seen_at": "2026-08-13T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%A2%B3%E6%8E%92%E6%94%BE%E6%9D%83%E4%BA%A4%E6%98%93%E5%B8%82%E5%9C%BA%E6%88%90%E4%BA%A4%E9%87%8F%E7%A0%B49%E4%BA%BF%E5%90%A8%23%26t%3D3&title=发布媒体",
-    "show_str": "22家媒体",
+    "show_str": "30家媒体",
     "users": [
       {
         "id": 1699432410,
         "idstr": "1699432410",
         "screen_name": "新华社",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1420157965,
+        "idstr": "1420157965",
+        "screen_name": "上游新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +37,30 @@
         "verified_type": 3
       },
       {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1651428902,
+        "idstr": "1651428902",
+        "screen_name": "21世纪经济报道",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7548869008,
+        "idstr": "7548869008",
+        "screen_name": "Tech产经网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7126605018,
         "idstr": "7126605018",
         "screen_name": "各界新闻网官微",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7030322196,
-        "idstr": "7030322196",
-        "screen_name": "天眼新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5542843172,
-        "idstr": "5542843172",
-        "screen_name": "烟台日报传媒集团",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5227292968,
-        "idstr": "5227292968",
-        "screen_name": "政知新媒体",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3804173419,
-        "idstr": "3804173419",
-        "screen_name": "各界导报社官微",
         "verified": true,
         "verified_type": 3
       }
