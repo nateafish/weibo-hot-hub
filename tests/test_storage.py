@@ -17,10 +17,12 @@ def test_topic_hour_is_idempotent(tmp_path) -> None:
         {"captured_at": CAPTURED.isoformat(), "value": 1},
         {"captured_at": CAPTURED.isoformat(), "1h": {}, "24h": {}},
     )
-    save_topic_bundle(tmp_path, bundle, CAPTURED)
+    save_topic_bundle(tmp_path, bundle, CAPTURED, query="#原始查询#")
     save_topic_bundle(tmp_path, bundle, CAPTURED)
     trend = next(tmp_path.glob("topics/topic-id/trends/**/*.jsonl"))
     assert len(trend.read_text(encoding="utf-8").splitlines()) == 1
+    meta = next(tmp_path.glob("topics/topic-id/meta.json"))
+    assert '"query": "#原始查询#"' in meta.read_text(encoding="utf-8")
 
 
 def test_post_objects_are_not_duplicated(tmp_path) -> None:
@@ -28,4 +30,3 @@ def test_post_objects_are_not_duplicated(tmp_path) -> None:
     save_post_pages(tmp_path, "topic-id", CAPTURED, [[post], [post]])
     objects = list(tmp_path.glob("topics/topic-id/posts/objects/*.json"))
     assert len(objects) == 1
-

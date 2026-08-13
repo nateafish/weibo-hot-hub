@@ -64,12 +64,19 @@ def upsert_jsonl(path: Path, key: str, record: dict[str, Any]) -> None:
     os.replace(temporary, path)
 
 
-def save_topic_bundle(root: Path, bundle: TopicBundle, captured_at: datetime) -> list[Path]:
+def save_topic_bundle(
+    root: Path,
+    bundle: TopicBundle,
+    captured_at: datetime,
+    *,
+    query: str | None = None,
+) -> list[Path]:
     topic_root = root / "topics" / slug_id(bundle.topic_id)
     meta_path = topic_root / "meta.json"
     old_meta = json.loads(meta_path.read_text(encoding="utf-8")) if meta_path.exists() else {}
     meta = {
         **bundle.meta,
+        "query": query or old_meta.get("query") or f"#{bundle.title}#",
         "first_seen_at": old_meta.get("first_seen_at") or captured_at.isoformat(),
         "last_seen_at": captured_at.isoformat(),
     }
@@ -85,10 +92,22 @@ def save_topic_bundle(root: Path, bundle: TopicBundle, captured_at: datetime) ->
     )
     atomic_json(snapshot_path, bundle.snapshot)
 
-    trend_path = topic_root / "trends" / captured_at.strftime("%Y") / f"{captured_at:%m-%d}.jsonl"
-    trend_record = {**bundle.trends, "capture_hour": captured_at.strftime("%Y-%m-%dT%H%z")}
-    upsert_jsonl(trend_path, "capture_hour", trend_record)
+    trend_path = save_topic_trends(root, bundle.topic_id, bundle.trends, captured_at)
     return [meta_path, snapshot_path, trend_path]
+
+
+def save_topic_trends(
+    root: Path,
+    topic_id: str,
+    trends: dict[str, Any],
+    captured_at: datetime,
+) -> Path:
+    """Save a trend-only capture without marking an off-list topic as listed again."""
+    topic_root = root / "topics" / slug_id(topic_id)
+    trend_path = topic_root / "trends" / captured_at.strftime("%Y") / f"{captured_at:%m-%d}.jsonl"
+    trend_record = {**trends, "capture_hour": captured_at.strftime("%Y-%m-%dT%H%z")}
+    upsert_jsonl(trend_path, "capture_hour", trend_record)
+    return trend_path
 
 
 def save_post_pages(
@@ -186,4 +205,3 @@ def save_ai_answer(
         },
     )
     return output
-

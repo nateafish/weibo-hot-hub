@@ -8,8 +8,15 @@ from zoneinfo import ZoneInfo
 
 from .ai_search import ai_client, fetch_ai_answer
 from .hotlist import fetch_hotlist, hotlist_client, save_hotlist
-from .storage import atomic_json, save_ai_answer, save_post_pages, save_topic_bundle
-from .topic import fetch_topic_bundle, topic_client
+from .storage import (
+    atomic_json,
+    save_ai_answer,
+    save_post_pages,
+    save_topic_bundle,
+    save_topic_trends,
+)
+from .topic import fetch_topic_bundle, fetch_topic_trends, topic_client
+from .trend_watch import select_offlist_topics, trend_has_heat
 from .weibo import (
     ai_search_url,
     check_mobile_login,
@@ -37,6 +44,7 @@ def run_hourly(data_root: Path, pages: int = 1, max_topics: int = 0) -> dict[str
         "pages_per_topic": pages,
         "topic_delay_seconds": {"base": 1.5, "jitter": 0.5},
         "topics": [],
+        "offlist_trends": [],
     }
 
     with hotlist_client(pc_cookie) as pc_http:
@@ -65,7 +73,12 @@ def run_hourly(data_root: Path, pages: int = 1, max_topics: int = 0) -> dict[str
             try:
                 bundle = fetch_topic_bundle(public_http, hot_topic.query, captured_at)
                 item["topic_id"] = bundle.topic_id
-                save_topic_bundle(data_root, bundle, captured_at)
+                save_topic_bundle(
+                    data_root,
+                    bundle,
+                    captured_at,
+                    query=hot_topic.query,
+                )
                 item["metrics"] = "saved"
             except Exception as exc:
                 item["metrics"] = "failed"
@@ -106,12 +119,51 @@ def run_hourly(data_root: Path, pages: int = 1, max_topics: int = 0) -> dict[str
             if index + 1 < len(selected):
                 _sleep_with_jitter(1.5, 0.5)
 
+        offlist = select_offlist_topics(
+            data_root,
+            captured_at,
+            {topic.query for topic in hot_topics},
+        )
+        for index, candidate in enumerate(offlist):
+            item = {
+                "topic_id": candidate.topic_id,
+                "title": candidate.title,
+                "query": candidate.query,
+                "cadence": candidate.cadence,
+                "last_listed_at": candidate.last_listed_at.isoformat(),
+                "metrics": "pending",
+            }
+            try:
+                trends = fetch_topic_trends(
+                    public_http,
+                    candidate.query,
+                    candidate.topic_id,
+                    captured_at,
+                )
+                save_topic_trends(data_root, candidate.topic_id, trends, captured_at)
+                item["metrics"] = "saved"
+                item["has_heat"] = trend_has_heat(trends)
+            except Exception as exc:
+                item["metrics"] = "failed"
+                item["metrics_error"] = _error(exc)
+            report["offlist_trends"].append(item)
+            if index + 1 < len(offlist):
+                _sleep_with_jitter(0.35, 0.2)
+
     report["summary"] = {
         "metrics_saved": sum(item["metrics"] == "saved" for item in report["topics"]),
         "posts_saved": sum(item["posts"] == "saved" for item in report["topics"]),
         "ai_saved": sum(item["ai"] == "saved" for item in report["topics"]),
         "ai_unchanged": sum(item["ai"] == "unchanged" for item in report["topics"]),
         "ai_refused": sum(item["ai"] == "refused" for item in report["topics"]),
+        "offlist_selected": len(report["offlist_trends"]),
+        "offlist_saved": sum(
+            item["metrics"] == "saved" for item in report["offlist_trends"]
+        ),
+        "offlist_stopped": sum(
+            item.get("metrics") == "saved" and not item.get("has_heat")
+            for item in report["offlist_trends"]
+        ),
     }
     report_path = (
         data_root

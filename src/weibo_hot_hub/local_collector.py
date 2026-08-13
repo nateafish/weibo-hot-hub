@@ -448,9 +448,10 @@ def validate_outputs(
         "posts": min_posts_rate,
         "ai": min_ai_rate,
     }
+    observed_topics = [*topics, *(report.get("offlist_trends") or [])]
     failures = "\n".join(
         str(value)
-        for item in topics
+        for item in observed_topics
         for key_name, value in item.items()
         if key_name.endswith("_error")
     ).lower()

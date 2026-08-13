@@ -90,3 +90,23 @@ def test_validate_outputs_checks_rates_and_fatal_signals(tmp_path) -> None:
             min_posts_rate=0.7,
             min_ai_rate=0.5,
         )
+
+    topics[0]["posts"] = "saved"
+    topics[0].pop("posts_error")
+    run.write_text(
+        json.dumps(
+            {
+                "selected_count": 10,
+                "topics": topics,
+                "offlist_trends": [{"metrics": "failed", "metrics_error": "HTTP 403"}],
+            }
+        )
+    )
+    with pytest.raises(CollectorError, match="403"):
+        validate_outputs(
+            tmp_path,
+            key,
+            min_metrics_rate=0.7,
+            min_posts_rate=0.7,
+            min_ai_rate=0.5,
+        )

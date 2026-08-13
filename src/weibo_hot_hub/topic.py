@@ -107,6 +107,28 @@ def fetch_topic_bundle(
     return normalize_topic_bundle(detail, trend_1h, trend_24h, level, captured_at)
 
 
+def fetch_topic_trends(
+    http: httpx.Client,
+    topic: str,
+    topic_id: str,
+    captured_at: datetime,
+) -> dict[str, Any]:
+    """Fetch only the 24-hour curves needed to extend an off-list archive."""
+    query = _topic_with_hashes(topic)
+    trend_24h = _get(
+        http,
+        "/ajax_topic/trend",
+        topic,
+        {"q": query, "version": "v1", "time": "24h"},
+    )
+    return {
+        "captured_at": captured_at.isoformat(),
+        "topic_id": topic_id,
+        "1h": {},
+        "24h": _absolute_points(trend_24h, captured_at),
+    }
+
+
 def _overview_group(value: Any) -> dict[str, Any]:
     source = value if isinstance(value, dict) else {}
     return {
