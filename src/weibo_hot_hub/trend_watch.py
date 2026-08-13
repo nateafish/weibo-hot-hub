@@ -26,6 +26,14 @@ def normalized_query(value: str) -> str:
     return value.strip().strip("#").strip().casefold()
 
 
+def is_rate_limit_error(value: str) -> bool:
+    lowered = value.casefold()
+    return any(
+        f"'{status} '" in lowered or f"http {status}" in lowered
+        for status in (403, 418, 429, 432)
+    )
+
+
 def _read_json(path: Path) -> dict[str, Any]:
     try:
         value = json.loads(path.read_text(encoding="utf-8"))
@@ -143,6 +151,9 @@ def collect_offlist_trends(
             item["metrics"] = "failed"
             item["metrics_error"] = f"{type(exc).__name__}: {exc}"[:500]
         results.append(item)
+        if is_rate_limit_error(str(item.get("metrics_error") or "")):
+            item["circuit_breaker"] = "rate_limit"
+            break
         if index + 1 < len(candidates):
-            _sleep_with_jitter(0.35, 0.2)
+            _sleep_with_jitter(1.5, 0.5)
     return results

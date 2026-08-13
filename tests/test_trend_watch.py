@@ -3,7 +3,11 @@ from datetime import datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
-from weibo_hot_hub.trend_watch import select_offlist_topics, trend_has_heat
+from weibo_hot_hub.trend_watch import (
+    is_rate_limit_error,
+    select_offlist_topics,
+    trend_has_heat,
+)
 
 
 NOW = datetime(2026, 8, 13, 20, 0, tzinfo=ZoneInfo("Asia/Shanghai"))
@@ -62,3 +66,5 @@ def test_current_and_cold_topics_are_not_selected(tmp_path: Path) -> None:
     assert select_offlist_topics(tmp_path, NOW, {"#listed#"}) == []
     assert trend_has_heat({"24h": {"read": [{"value": "1,001"}]}})
     assert not trend_has_heat({"24h": {"read": [{"value": 0}]}})
+    assert is_rate_limit_error("HTTPStatusError: Client error '418 '")
+    assert not is_rate_limit_error("Topic API error: no data")
