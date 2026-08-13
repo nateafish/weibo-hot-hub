@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 6060097900
   },
-  "last_seen_at": "2026-08-13T16:00:00+08:00",
+  "last_seen_at": "2026-08-13T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%B2%B3%E9%9B%A8%E5%A9%B7%E5%8F%88%E5%96%8A%E8%AF%9D%E6%B2%88%E8%85%BE%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "5家媒体",
     "users": [
       {
         "id": 2337985010,
@@ -23,9 +23,30 @@
         "verified_type": 3
       },
       {
+        "id": 2027480085,
+        "idstr": "2027480085",
+        "screen_name": "水母网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1960785875,
+        "idstr": "1960785875",
+        "screen_name": "津云新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1779850265,
         "idstr": "1779850265",
         "screen_name": "爱奇艺娱乐",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       }

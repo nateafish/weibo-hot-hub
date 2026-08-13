@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 5665047360
   },
-  "last_seen_at": "2026-08-13T16:00:00+08:00",
+  "last_seen_at": "2026-08-13T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BA%94%E5%85%AC%E4%BC%B4%E6%89%8B%E7%A4%BC%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "8家媒体",
     "users": [
+      {
+        "id": 1655444627,
+        "idstr": "1655444627",
+        "screen_name": "潇湘晨报",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2346437860,
         "idstr": "2346437860",
@@ -51,9 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1280846847,
-        "idstr": "1280846847",
-        "screen_name": "指尖新闻-沈阳晚报",
+        "id": 1677991972,
+        "idstr": "1677991972",
+        "screen_name": "晶报",
         "verified": true,
         "verified_type": 3
       }
