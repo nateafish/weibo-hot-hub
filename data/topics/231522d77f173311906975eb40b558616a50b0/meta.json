@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2028810631
   },
-  "last_seen_at": "2026-08-13T07:00:00+08:00",
+  "last_seen_at": "2026-08-13T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%89%E5%AD%A9%E9%9D%9E%E4%BA%B2%E7%94%9F%E6%A1%88%E5%A6%BB%E5%AD%90%E4%BB%A5%E4%B8%BA%E5%AD%A9%E5%AD%90%E8%83%BD%E4%BF%AE%E5%A4%8D%E6%84%9F%E6%83%85%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "6家媒体",
     "users": [
       {
         "id": 2028810631,
@@ -23,9 +23,30 @@
         "verified_type": 3
       },
       {
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 3048800300,
         "idstr": "3048800300",
         "screen_name": "新浪圈子",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1912416573,
+        "idstr": "1912416573",
+        "screen_name": "河南手机报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1899227237,
+        "idstr": "1899227237",
+        "screen_name": "青岛早报",
         "verified": true,
         "verified_type": 3
       },

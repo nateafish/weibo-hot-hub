@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 2318910945
   },
-  "last_seen_at": "2026-08-13T07:00:00+08:00",
+  "last_seen_at": "2026-08-13T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%83%9A%E8%83%8E%E6%A1%88%E5%A6%BB%E5%AD%90%E5%9B%9E%E5%BA%94%E4%B8%88%E5%A4%AB%E8%8A%B1%E7%99%BE%E4%B8%87%E6%95%91%E5%91%BD%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "9家媒体",
     "users": [
+      {
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2318910945,
         "idstr": "2318910945",
@@ -23,9 +30,9 @@
         "verified_type": 3
       },
       {
-        "id": 2992050891,
-        "idstr": "2992050891",
-        "screen_name": "北京时间",
+        "id": 3229962754,
+        "idstr": "3229962754",
+        "screen_name": "陕视新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -37,9 +44,23 @@
         "verified_type": 3
       },
       {
-        "id": 1789681642,
-        "idstr": "1789681642",
-        "screen_name": "第一现场",
+        "id": 2115259662,
+        "idstr": "2115259662",
+        "screen_name": "洪观新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2011075080,
+        "idstr": "2011075080",
+        "screen_name": "齐鲁晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1959444680,
+        "idstr": "1959444680",
+        "screen_name": "云南网",
         "verified": true,
         "verified_type": 3
       }

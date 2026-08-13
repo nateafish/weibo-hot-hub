@@ -3,10 +3,10 @@
   "created_at": 1786518614,
   "first_seen_at": "2026-08-12T21:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-13T07:00:00+08:00",
+  "last_seen_at": "2026-08-13T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%81%E7%A6%B9%E5%85%AE+%E6%88%91%E6%AC%B2%E4%B9%98%E9%A3%8E%23%26t%3D3&title=发布媒体",
-    "show_str": "11家媒体",
+    "show_str": "12家媒体",
     "users": [
       {
         "id": 1959182407,
@@ -30,6 +30,13 @@
         "verified_type": 3
       },
       {
+        "id": 2115259662,
+        "idstr": "2115259662",
+        "screen_name": "洪观新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1960785875,
         "idstr": "1960785875",
         "screen_name": "津云新闻",
@@ -47,13 +54,6 @@
         "id": 1882632930,
         "idstr": "1882632930",
         "screen_name": "新消息报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1863222751,
-        "idstr": "1863222751",
-        "screen_name": "当代广西杂志",
         "verified": true,
         "verified_type": 3
       }

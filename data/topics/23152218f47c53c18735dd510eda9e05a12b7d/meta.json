@@ -10,15 +10,43 @@
     "status": 2,
     "uid": 1301904252
   },
-  "last_seen_at": "2026-08-13T07:00:00+08:00",
+  "last_seen_at": "2026-08-13T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%85%A8%E5%9B%BD%E7%A6%BB%E5%A9%9A%E7%99%BB%E8%AE%B0138.3%E4%B8%87%E5%AF%B9%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "17家媒体",
     "users": [
       {
         "id": 1301904252,
         "idstr": "1301904252",
         "screen_name": "江苏新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2346437860,
+        "idstr": "2346437860",
+        "screen_name": "三峡融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1789681642,
+        "idstr": "1789681642",
+        "screen_name": "第一现场",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6508016609,
+        "idstr": "6508016609",
+        "screen_name": "风闻社区",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5388240201,
+        "idstr": "5388240201",
+        "screen_name": "南阳日报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,30 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2587896052,
-        "idstr": "2587896052",
-        "screen_name": "江苏卫视新闻眼",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1991123083,
-        "idstr": "1991123083",
-        "screen_name": "江西日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1842312240,
-        "idstr": "1842312240",
-        "screen_name": "荔直播",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1764647261,
-        "idstr": "1764647261",
-        "screen_name": "新闻360",
+        "id": 2622056220,
+        "idstr": "2622056220",
+        "screen_name": "新闻大连",
         "verified": true,
         "verified_type": 3
       }
