@@ -17,9 +17,12 @@ from .storage import (
 from .topic import fetch_topic_bundle, topic_client
 from .trend_watch import collect_offlist_trends
 from .weibo import (
+    ParseError,
     ai_search_url,
     check_mobile_login,
     collect_mobile_search_pages,
+    collect_search_pages,
+    client,
     cookie_from_env,
     mobile_client,
     mobile_cookie_from_env,
@@ -57,6 +60,30 @@ def validate_report(report: dict[str, Any]) -> None:
         raise HourlyValidationError(f"hourly success-rate validation failed: {detail}")
 
 
+def collect_post_pages(
+    mobile_http: Any,
+    pc_http: Any,
+    topic: str,
+    pages: int,
+    use_mobile: bool,
+) -> tuple[list[list[Any]], bool]:
+    if use_mobile:
+        try:
+            return (
+                collect_mobile_search_pages(
+                    mobile_http,
+                    topic,
+                    pages=pages,
+                    verify_login=False,
+                ),
+                True,
+            )
+        except ParseError as exc:
+            if "403" not in str(exc):
+                raise
+    return collect_search_pages(pc_http, topic, pages=pages), False
+
+
 def run_hourly(data_root: Path, pages: int = 1, max_topics: int = 0) -> dict[str, Any]:
     captured_at = datetime.now(ZoneInfo("Asia/Shanghai")).replace(
         minute=0, second=0, microsecond=0
@@ -81,10 +108,12 @@ def run_hourly(data_root: Path, pages: int = 1, max_topics: int = 0) -> dict[str
     with (
         topic_client() as public_http,
         mobile_client(mobile_cookie) as mobile_http,
+        client(pc_cookie) as post_pc_http,
         ai_client(pc_cookie) as ai_http,
     ):
         if not check_mobile_login(mobile_http):
             raise RuntimeError("WEIBO_MOBILE_COOKIE failed /api/config login check")
+        use_mobile_posts = True
         for index, hot_topic in enumerate(selected):
             item: dict[str, Any] = {
                 "rank": hot_topic.rank,
@@ -113,11 +142,12 @@ def run_hourly(data_root: Path, pages: int = 1, max_topics: int = 0) -> dict[str
                 continue
 
             try:
-                post_pages = collect_mobile_search_pages(
+                post_pages, use_mobile_posts = collect_post_pages(
                     mobile_http,
+                    post_pc_http,
                     hot_topic.query,
-                    pages=pages,
-                    verify_login=False,
+                    pages,
+                    use_mobile_posts,
                 )
                 save_post_pages(data_root, bundle.topic_id, captured_at, post_pages)
                 item["posts"] = "saved"
