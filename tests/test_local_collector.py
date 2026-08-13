@@ -1,16 +1,34 @@
 import json
 import time
+from pathlib import Path
+from types import SimpleNamespace
 
 import pytest
 
 from weibo_hot_hub.local_collector import (
     CollectorError,
+    _set_github_secret,
     archive_paths,
     cookie_header,
     lease_context,
     redact,
     validate_outputs,
 )
+
+
+def test_github_secret_uses_stdin_not_command_arguments(monkeypatch) -> None:
+    captured = {}
+
+    def fake_run(args, **kwargs):
+        captured["args"] = args
+        captured["input"] = kwargs.get("input")
+        return SimpleNamespace(returncode=0, stderr="")
+
+    monkeypatch.setattr("weibo_hot_hub.local_collector.subprocess.run", fake_run)
+    _set_github_secret(Path("."), "owner/repo", "WEIBO_COOKIE", "private-value")
+
+    assert "private-value" not in captured["args"]
+    assert captured["input"] == "private-value"
 
 
 def test_cookie_header_filters_by_host_and_expiry() -> None:

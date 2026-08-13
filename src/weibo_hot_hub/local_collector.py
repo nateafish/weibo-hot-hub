@@ -658,6 +658,7 @@ def collect(config: Config) -> int:
 
 
 def status(config: Config) -> int:
+    print("mode=daily-cookie-sync")
     print(f"repo={config.repo_root}")
     print(f"hour={hour_key()}")
     print(f"cdp=http://127.0.0.1:{config.cdp_port}")
@@ -674,13 +675,54 @@ def status(config: Config) -> int:
     return 0
 
 
+def _set_github_secret(repo_root: Path, repo: str, name: str, value: str) -> None:
+    completed = subprocess.run(
+        ["gh", "secret", "set", name, "--repo", repo],
+        cwd=repo_root,
+        input=value,
+        text=True,
+        stdout=subprocess.DEVNULL,
+        stderr=subprocess.PIPE,
+        check=False,
+    )
+    if completed.returncode:
+        detail = redact(completed.stderr.strip())[-500:]
+        raise CollectorError(f"failed to update GitHub Secret {name}: {detail}")
+
+
+def sync_cookie_secrets(config: Config) -> int:
+    os.umask(0o077)
+    with process_lock(config.lock_path):
+        pc_cookie = ""
+        mobile_cookie = ""
+        try:
+            pc_cookie, mobile_cookie = CdpCookies(port=config.cdp_port).read()
+            result = validate_login(pc_cookie, mobile_cookie)
+            repo = repository_name(config.repo_root)
+            _set_github_secret(config.repo_root, repo, "WEIBO_COOKIE", pc_cookie)
+            _set_github_secret(
+                config.repo_root, repo, "WEIBO_MOBILE_COOKIE", mobile_cookie
+            )
+            log(
+                "GitHub Cookie Secrets updated: "
+                f"pc_hotlist={result['pc_hotlist_count']} mobile=true"
+            )
+            return 0
+        except Exception:
+            notify("微博 Cookie 同步失败", "请检查专用 Chrome 登录；云端将继续使用上次的 Cookie")
+            raise
+        finally:
+            pc_cookie = ""
+            mobile_cookie = ""
+
+
 def main() -> None:
-    parser = argparse.ArgumentParser(description="macOS CDP-backed local collector")
+    parser = argparse.ArgumentParser(description="macOS CDP-backed Cookie synchronizer")
     parser.add_argument(
         "command",
-        choices=("run", "smoke", "check-login", "status"),
+        choices=("sync-cookie", "check-login", "status"),
         nargs="?",
-        default="run",
+        default="sync-cookie",
     )
     parser.add_argument("--repo-root", type=Path, default=Path.cwd())
     parser.add_argument("--cdp-port", type=int, default=int(os.environ.get("WEIBO_CDP_PORT", "9223")))
@@ -703,11 +745,9 @@ def main() -> None:
             result = validate_login(pc, mobile)
             print(f"pc=valid hotlist={result['pc_hotlist_count']} mobile=valid")
             return
-        if args.command == "smoke":
-            raise SystemExit(smoke(config))
-        raise SystemExit(collect(config))
+        raise SystemExit(sync_cookie_secrets(config))
     except LoginInvalid as exc:
-        notify("微博登录已失效", "请重新登录专用 Chrome；本地采集已停止，云端稍后兜底")
+        notify("微博登录已失效", "请重新登录专用 Chrome；云端将继续使用上次的 Cookie")
         log(str(exc))
         raise SystemExit(3) from exc
     except CollectorError as exc:

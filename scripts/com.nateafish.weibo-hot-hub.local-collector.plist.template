@@ -9,17 +9,15 @@
     <string>/usr/bin/caffeinate</string>
     <string>-ims</string>
     <string>__RUNNER__</string>
-    <string>run</string>
+    <string>sync-cookie</string>
   </array>
   <key>WorkingDirectory</key>
   <string>__REPO_ROOT__</string>
   <key>StartCalendarInterval</key>
-  <array>
-    <dict><key>Minute</key><integer>8</integer></dict>
-    <dict><key>Minute</key><integer>23</integer></dict>
-    <dict><key>Minute</key><integer>38</integer></dict>
-    <dict><key>Minute</key><integer>53</integer></dict>
-  </array>
+  <dict>
+    <key>Hour</key><integer>7</integer>
+    <key>Minute</key><integer>5</integer>
+  </dict>
   <key>ProcessType</key>
   <string>Background</string>
   <key>LowPriorityIO</key>
