@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1726426884
   },
-  "last_seen_at": "2026-08-13T18:00:00+08:00",
+  "last_seen_at": "2026-08-13T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%85%B3%E6%B3%A8%E5%A5%B3%E5%B9%B2%E9%83%A8%E5%A4%96%E8%B2%8C%E6%AF%94%E5%85%B3%E6%B3%A8%E6%95%91%E7%81%BE%E6%9B%B4%E9%87%8D%E8%A6%81%E5%90%97%23%26t%3D3&title=发布媒体",
-    "show_str": "19家媒体",
+    "show_str": "25家媒体",
     "users": [
       {
         "id": 1726426884,
@@ -30,9 +30,30 @@
         "verified_type": 3
       },
       {
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1769216315,
         "idstr": "1769216315",
         "screen_name": "小莉帮忙",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1767961804,
+        "idstr": "1767961804",
+        "screen_name": "大江新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1267454277,
+        "idstr": "1267454277",
+        "screen_name": "凤凰周刊",
         "verified": true,
         "verified_type": 3
       },
@@ -42,27 +63,6 @@
         "screen_name": "粤广中视网",
         "verified": true,
         "verified_type": 2
-      },
-      {
-        "id": 7472681405,
-        "idstr": "7472681405",
-        "screen_name": "陕西广播电视报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6485704310,
-        "idstr": "6485704310",
-        "screen_name": "贵港广播电视台",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6294758863,
-        "idstr": "6294758863",
-        "screen_name": "紫牛新闻",
-        "verified": true,
-        "verified_type": 3
       }
     ]
   },
