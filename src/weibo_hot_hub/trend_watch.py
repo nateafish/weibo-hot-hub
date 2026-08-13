@@ -6,6 +6,12 @@ from datetime import datetime, timedelta
 from pathlib import Path
 from typing import Any
 
+import httpx
+
+from .storage import save_topic_trends
+from .topic import fetch_topic_trends
+from .weibo import _sleep_with_jitter
+
 
 @dataclass(frozen=True)
 class TrendWatchCandidate:
@@ -104,3 +110,39 @@ def select_offlist_topics(
             selected.append((last_capture, candidate))
 
     return [candidate for _, candidate in sorted(selected, key=lambda item: item[0])]
+
+
+def collect_offlist_trends(
+    http: httpx.Client,
+    data_root: Path,
+    captured_at: datetime,
+    current_queries: set[str],
+) -> list[dict[str, Any]]:
+    candidates = select_offlist_topics(data_root, captured_at, current_queries)
+    results: list[dict[str, Any]] = []
+    for index, candidate in enumerate(candidates):
+        item: dict[str, Any] = {
+            "topic_id": candidate.topic_id,
+            "title": candidate.title,
+            "query": candidate.query,
+            "cadence": candidate.cadence,
+            "last_listed_at": candidate.last_listed_at.isoformat(),
+            "metrics": "pending",
+        }
+        try:
+            trends = fetch_topic_trends(
+                http,
+                candidate.query,
+                candidate.topic_id,
+                captured_at,
+            )
+            save_topic_trends(data_root, candidate.topic_id, trends, captured_at)
+            item["metrics"] = "saved"
+            item["has_heat"] = trend_has_heat(trends)
+        except Exception as exc:
+            item["metrics"] = "failed"
+            item["metrics_error"] = f"{type(exc).__name__}: {exc}"[:500]
+        results.append(item)
+        if index + 1 < len(candidates):
+            _sleep_with_jitter(0.35, 0.2)
+    return results
