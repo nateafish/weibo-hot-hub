@@ -210,7 +210,7 @@ def request_mobile_json(
     path: str,
     *,
     params: dict[str, Any] | None = None,
-    attempts: int = 3,
+    attempts: int = 5,
     retry_delay: float = 3.0,
 ) -> dict[str, Any]:
     last_error: Exception | None = None
@@ -228,7 +228,7 @@ def request_mobile_json(
         except (httpx.HTTPError, json.JSONDecodeError, ParseError) as exc:
             last_error = exc
             if attempt + 1 < attempts:
-                time.sleep(retry_delay * (attempt + 1))
+                _sleep_with_jitter(retry_delay, 0.5)
     raise ParseError(f"Mobile API failed after {attempts} attempts: {last_error}")
 
 

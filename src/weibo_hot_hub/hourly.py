@@ -17,6 +17,7 @@ from .weibo import (
     cookie_from_env,
     mobile_client,
     mobile_cookie_from_env,
+    _sleep_with_jitter,
     unique_posts,
 )
 
@@ -34,6 +35,7 @@ def run_hourly(data_root: Path, pages: int = 1, max_topics: int = 0) -> dict[str
     report: dict[str, Any] = {
         "captured_at": captured_at.isoformat(),
         "pages_per_topic": pages,
+        "topic_delay_seconds": {"base": 1.5, "jitter": 0.5},
         "topics": [],
     }
 
@@ -51,7 +53,7 @@ def run_hourly(data_root: Path, pages: int = 1, max_topics: int = 0) -> dict[str
     ):
         if not check_mobile_login(mobile_http):
             raise RuntimeError("WEIBO_MOBILE_COOKIE failed /api/config login check")
-        for hot_topic in selected:
+        for index, hot_topic in enumerate(selected):
             item: dict[str, Any] = {
                 "rank": hot_topic.rank,
                 "title": hot_topic.title,
@@ -69,6 +71,8 @@ def run_hourly(data_root: Path, pages: int = 1, max_topics: int = 0) -> dict[str
                 item["metrics"] = "failed"
                 item["metrics_error"] = _error(exc)
                 report["topics"].append(item)
+                if index + 1 < len(selected):
+                    _sleep_with_jitter(1.5, 0.5)
                 continue
 
             try:
@@ -99,6 +103,8 @@ def run_hourly(data_root: Path, pages: int = 1, max_topics: int = 0) -> dict[str
                 item["ai"] = "failed"
                 item["ai_error"] = _error(exc)
             report["topics"].append(item)
+            if index + 1 < len(selected):
+                _sleep_with_jitter(1.5, 0.5)
 
     report["summary"] = {
         "metrics_saved": sum(item["metrics"] == "saved" for item in report["topics"]),
