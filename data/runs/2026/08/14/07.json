@@ -1,0 +1,535 @@
+{
+  "captured_at": "2026-08-14T07:00:00+08:00",
+  "hotlist_count": 51,
+  "offlist_trends": [
+    {
+      "cadence": "hourly",
+      "circuit_breaker": "rate_limit",
+      "last_listed_at": "2026-08-13T23:00:00+08:00",
+      "metrics": "failed",
+      "metrics_error": "HTTPStatusError: Client error '418 ' for url 'https://m.s.weibo.com/ajax_topic/trend?q=%23%E4%BB%96%E4%BB%AC%E9%83%BD%E6%98%AF%E5%B7%A6%E5%88%A9%E6%89%8B%E8%BF%90%E5%8A%A8%E5%91%98%23&version=v1&time=24h'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418",
+      "query": "#他们都是左利手运动员#",
+      "title": "他们都是左利手运动员",
+      "topic_id": "2315222ba7002bddd3497a5dc8f96f21f6b769"
+    }
+  ],
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 41,
+    "ai_unchanged": 0,
+    "metrics_saved": 42,
+    "offlist_saved": 0,
+    "offlist_selected": 1,
+    "offlist_stopped": 0,
+    "posts_saved": 41
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#总书记心系国家公园#",
+      "rank": 1,
+      "title": "总书记心系国家公园",
+      "topic_id": "23152233e50992213e09d5aa2bd2f912b9e8f5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#邹市明辟谣#",
+      "rank": 1,
+      "title": "邹市明辟谣",
+      "topic_id": "23152294235a3c16a8aa5bca7441efc4ad14ac"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 21,
+      "posts": "saved",
+      "query": "#胖东来闭店一天整条街都没人出摊#",
+      "rank": 2,
+      "title": "胖东来闭店一天整条街都没人出摊",
+      "topic_id": "2315223eb61e7898d15d8f2bf9f6be6cd8d910"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#紧急预拨8000万支持3省抢险救灾#",
+      "rank": 3,
+      "title": "紧急预拨8000万支持3省抢险救灾",
+      "topic_id": "231522cdab8d7b309c84338539340bac040305"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#这3种面包其实是热量刺客#",
+      "rank": 4,
+      "title": "这3种面包其实是热量刺客",
+      "topic_id": "231522705ad0904af20d8131cb5de6240ca663"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "#田曦薇胡一天吻戏是我能看的吗#",
+      "rank": 5,
+      "title": "田曦薇胡一天吻戏是我能看的吗",
+      "topic_id": "2315227c536da33adfaf445e8274173b3a7e86"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "我人生的存在感和意义",
+      "rank": 6,
+      "title": "我人生的存在感和意义",
+      "topic_id": "231522c7dfd3f7f23495a4ea2257193eba62ae"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "王橹杰 化妆师",
+      "rank": 7,
+      "title": "王橹杰 化妆师",
+      "topic_id": "2315226793b3bb9bf8d2c998d7623b61e3f526"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "WTT欧洲大满贯瑞典站2026",
+      "rank": 8,
+      "title": "WTT欧洲大满贯瑞典站2026",
+      "topic_id": "2315227ac09c04f5a83cd69dcc47a9c284ebd1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#白海豚残涡入海后或再度加强#",
+      "rank": 9,
+      "title": "白海豚残涡入海后或再度加强",
+      "topic_id": "2315226ad4150c91959391df681c3c2ddcd9f6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "伊拉克人真实评价龙餐馆",
+      "rank": 10,
+      "title": "伊拉克人真实评价龙餐馆",
+      "topic_id": "2315220c500764ca4e05c46ef63d6d8c874878"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#结婚登记好像也没多大意义#",
+      "rank": 11,
+      "title": "结婚登记好像也没多大意义",
+      "topic_id": "2315227d2ed7da1d988a9a60ec511296b889f4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#男子健身房指导女友被要求看结婚证#",
+      "rank": 12,
+      "title": "男子健身房指导女友被要求看结婚证",
+      "topic_id": "231522fb7d54be0636931e0cb1e2b5e98a29c4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#第一次见骨瘦如柴的猪#",
+      "rank": 13,
+      "title": "第一次见骨瘦如柴的猪",
+      "topic_id": "231522cb40a0cce9e8d63c4703ac0ada013cc7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "深圳女生一天1500专门劝人别买房",
+      "rank": 14,
+      "title": "深圳女生一天1500专门劝人别买房",
+      "topic_id": "2315225f0ce25ad444c3b07d6687f24f4b4a6a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#胖东来货车轮毂比家里的饭盆还亮#",
+      "rank": 15,
+      "title": "胖东来货车轮毂比家里的饭盆还亮",
+      "topic_id": "2315228575fea78362920cf74314795dd3efc2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#警方称教师户口注销合规无法恢复#",
+      "rank": 16,
+      "title": "警方称教师户口注销合规无法恢复",
+      "topic_id": "2315228a9aea470867d249b0269132459d353e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#退休236天大姐状态大变样#",
+      "rank": 17,
+      "title": "退休236天大姐状态大变样",
+      "topic_id": "23152279b44025803369591ac3f48045a4aade"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#好想来回应111.35元零食复称仅64.8元#",
+      "rank": 18,
+      "title": "好想来回应111.35元零食复称仅64.8元",
+      "topic_id": "231522886b8cb22fea99902aec8464b016034a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#iPhone18系列发布节奏确认#",
+      "rank": 19,
+      "title": "iPhone18系列发布节奏确认",
+      "topic_id": "23152292fb74eb3ef6bc075d3b698be17c9268"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#中国两大芯片巨头业绩超预期#",
+      "rank": 20,
+      "title": "中国两大芯片巨头业绩超预期",
+      "topic_id": "2315229ff8968035053f86aa4f1a9f9e9c1d32"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#小狗交朋友不分物种#",
+      "rank": 21,
+      "title": "小狗交朋友不分物种",
+      "topic_id": "2315224bf34de6409af7834d1a87ba84f877a4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 20,
+      "posts": "saved",
+      "query": "#女子虐待亲生女儿致死后患重度抑郁#",
+      "rank": 22,
+      "title": "女子虐待亲生女儿致死后患重度抑郁",
+      "topic_id": "231522430f57bdc46177d8e0e903c117bf62bc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#小伙投诉核磁震坏身体影响夫妻生活#",
+      "rank": 23,
+      "title": "小伙投诉核磁震坏身体影响夫妻生活",
+      "topic_id": "23152271d54e55894d77a8f582aa490480c327"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "林厨 下饭酱挂直播间卖",
+      "rank": 24,
+      "title": "林厨 下饭酱挂直播间卖",
+      "topic_id": "231522075abf50b12eb9278bd57245cfbe6d46"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#开推5疑似只剩刘宇宁周柯宇#",
+      "rank": 25,
+      "title": "开推5疑似只剩刘宇宁周柯宇",
+      "topic_id": "231522de2bbd1aadd12a0132c7bf9467c7408b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#印度牛触电死亡居民殴打变压器泄愤#",
+      "rank": 26,
+      "title": "印度牛触电死亡居民殴打变压器泄愤",
+      "topic_id": "23152233893ed05bc61db08d3de664fd7d1e1f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#广东9月1日起上调最低工资#",
+      "rank": 27,
+      "title": "广东9月1日起上调最低工资",
+      "topic_id": "2315222cac15a1436eb24d299de461e77b9187"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "张桂源张函瑞 眼鼻嘴",
+      "rank": 28,
+      "title": "张桂源张函瑞 眼鼻嘴",
+      "topic_id": "2315228fc55bfd3ff784056851b1a59b6d16c1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "魏子宸好帅",
+      "rank": 29,
+      "title": "魏子宸好帅",
+      "topic_id": "23152253e2da559d6e700690ffda68af330503"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#日本把人装进冰箱降温#",
+      "rank": 30,
+      "title": "日本把人装进冰箱降温",
+      "topic_id": "23152216960c5722cdd24cc8b6649ef621f9af"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "抓考勤让我大姨来抓就行",
+      "rank": 31,
+      "title": "抓考勤让我大姨来抓就行",
+      "topic_id": "23152249392610424ba110f7d603d7d0f69d6b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "林诗栋 魔鬼赛程",
+      "rank": 32,
+      "title": "林诗栋 魔鬼赛程",
+      "topic_id": "2315223909b181a062818b509932268fd941dd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#孙颖莎问起来别人一点不手软#",
+      "rank": 33,
+      "title": "孙颖莎问起来别人一点不手软",
+      "topic_id": "2315224a700dd90b7c27b73c01ef743645c6ed"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "沈腾已经无咖可升",
+      "rank": 34,
+      "title": "沈腾已经无咖可升",
+      "topic_id": "231522641fbb2f5ca0358979bae49fbd9b17d6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#西班牙和摩洛哥吵起来了#",
+      "rank": 35,
+      "title": "西班牙和摩洛哥吵起来了",
+      "topic_id": "231522a5a78f1250d72ad7a71fca5c5e3d4a33"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#女子骑三轮在车流中乱钻撞上迈巴赫#",
+      "rank": 36,
+      "title": "女子骑三轮在车流中乱钻撞上迈巴赫",
+      "topic_id": "2315226c1b2a29ce4920d89f3a413997ca9256"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#樊振东杜塞尔多夫主场首秀#",
+      "rank": 37,
+      "title": "樊振东杜塞尔多夫主场首秀",
+      "topic_id": "2315222ee3f0c033541ca7051f49c17f11e57b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "Whiplash直拍",
+      "rank": 38,
+      "title": "Whiplash直拍",
+      "topic_id": "23152284b60bdd2d8296a40f8e8f8970ef5931"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "Bin BLG",
+      "rank": 39,
+      "title": "Bin BLG",
+      "topic_id": "231522099fa85ee279d792d5e66292f89f99d9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#金鹰奖女主提名#",
+      "rank": 40,
+      "title": "金鹰奖女主提名",
+      "topic_id": "231522468d0955f6a3e4e95a60c20d480a0ecf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "HTTPStatusError: Client error '418 ' for url 'https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E6%B3%B0%E5%9B%BD%E5%A4%B1%E8%81%94%E5%A5%B3%E5%AD%A9%E5%BC%9F%E5%BC%9F%E5%8F%91%E5%A3%B0%23&page=1'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418",
+      "query": "#疑似泰国失联女孩弟弟发声#",
+      "rank": 41,
+      "title": "疑似泰国失联女孩弟弟发声",
+      "topic_id": "2315221fcc18d6435d935b7dbb20192c4355ba"
+    },
+    {
+      "ai": "pending",
+      "metrics": "failed",
+      "metrics_error": "HTTPStatusError: Client error '418 ' for url 'https://m.s.weibo.com/ajax_topic/detail?q=%23%E9%AD%8F%E5%AD%90%E5%AE%B8%E5%A4%A7%E5%B1%8F%E7%94%9F%E5%9B%BE%23&show_rank_info=1'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418",
+      "posts": "pending",
+      "query": "#魏子宸大屏生图#",
+      "rank": 42,
+      "title": "魏子宸大屏生图"
+    },
+    {
+      "ai": "pending",
+      "metrics": "failed",
+      "metrics_error": "HTTPStatusError: Client error '418 ' for url 'https://m.s.weibo.com/ajax_topic/detail?q=%23%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B%23&show_rank_info=1'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418",
+      "posts": "pending",
+      "query": "光与夜之恋",
+      "rank": 43,
+      "title": "光与夜之恋"
+    },
+    {
+      "ai": "pending",
+      "metrics": "failed",
+      "metrics_error": "HTTPStatusError: Client error '418 ' for url 'https://m.s.weibo.com/ajax_topic/detail?q=%23%E6%97%A5%E6%9C%AC%E5%BC%BA%E9%99%8D%E9%9B%A8%E8%B6%8517%E4%B8%87%E4%BA%BA%E7%B4%A7%E6%80%A5%E9%81%BF%E9%9A%BE%23&show_rank_info=1'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418",
+      "posts": "pending",
+      "query": "#日本强降雨超17万人紧急避难#",
+      "rank": 44,
+      "title": "日本强降雨超17万人紧急避难"
+    },
+    {
+      "ai": "pending",
+      "metrics": "failed",
+      "metrics_error": "HTTPStatusError: Client error '418 ' for url 'https://m.s.weibo.com/ajax_topic/detail?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B%E6%B8%A9%E7%91%9E%E5%8D%9A%E6%97%A0%E7%BC%98%E7%91%9E%E5%85%B8%E5%A4%A7%E6%BB%A1%E8%B4%AF4%E5%BC%BA%23&show_rank_info=1'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418",
+      "posts": "pending",
+      "query": "#林诗栋温瑞博无缘瑞典大满贯4强#",
+      "rank": 45,
+      "title": "林诗栋温瑞博无缘瑞典大满贯4强"
+    },
+    {
+      "ai": "pending",
+      "metrics": "failed",
+      "metrics_error": "HTTPStatusError: Client error '418 ' for url 'https://m.s.weibo.com/ajax_topic/detail?q=%23%E6%9D%8E%E7%85%9C%E4%B8%9C%E7%8B%BC%E5%B0%BE%E9%80%A0%E5%9E%8B%E5%A5%BD%E5%B8%85%23&show_rank_info=1'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418",
+      "posts": "pending",
+      "query": "#李煜东狼尾造型好帅#",
+      "rank": 46,
+      "title": "李煜东狼尾造型好帅"
+    },
+    {
+      "ai": "pending",
+      "metrics": "failed",
+      "metrics_error": "HTTPStatusError: Client error '418 ' for url 'https://m.s.weibo.com/ajax_topic/detail?q=%23%E5%9C%B0%E4%B8%8B%E8%AF%95%E7%AE%A1%E5%A9%B4%E5%84%BF%23&show_rank_info=1'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418",
+      "posts": "pending",
+      "query": "地下试管婴儿",
+      "rank": 47,
+      "title": "地下试管婴儿"
+    },
+    {
+      "ai": "pending",
+      "metrics": "failed",
+      "metrics_error": "HTTPStatusError: Client error '418 ' for url 'https://m.s.weibo.com/ajax_topic/detail?q=%23%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E8%B5%9B%E4%BA%8B%23&show_rank_info=1'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418",
+      "posts": "pending",
+      "query": "第五人格赛事",
+      "rank": 48,
+      "title": "第五人格赛事"
+    },
+    {
+      "ai": "pending",
+      "metrics": "failed",
+      "metrics_error": "HTTPStatusError: Client error '418 ' for url 'https://m.s.weibo.com/ajax_topic/detail?q=%23%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E8%BD%A6%E8%BD%BD%E5%88%B6%E5%86%B0%E5%86%B0%E7%AE%B1%23&show_rank_info=1'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418",
+      "posts": "pending",
+      "query": "#全球首款车载制冰冰箱#",
+      "rank": 49,
+      "title": "全球首款车载制冰冰箱"
+    },
+    {
+      "ai": "pending",
+      "metrics": "failed",
+      "metrics_error": "HTTPStatusError: Client error '418 ' for url 'https://m.s.weibo.com/ajax_topic/detail?q=%23AI+%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%23&show_rank_info=1'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418",
+      "posts": "pending",
+      "query": "AI 黎曼猜想",
+      "rank": 50,
+      "title": "AI 黎曼猜想"
+    }
+  ]
+}
