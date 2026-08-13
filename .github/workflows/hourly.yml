@@ -1,8 +1,6 @@
 name: Hourly Archive
 
 on:
-  schedule:
-    - cron: "27 * * * *"
   workflow_dispatch:
     inputs:
       pages:

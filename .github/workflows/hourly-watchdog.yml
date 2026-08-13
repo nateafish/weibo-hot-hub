@@ -22,9 +22,12 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          target="data/hotlists/$(TZ=Asia/Shanghai date +'%Y/%m/%d/%H.json')"
-          if gh api "repos/$GITHUB_REPOSITORY/contents/$target?ref=$GITHUB_REF_NAME" >/dev/null 2>&1; then
-            echo "Current hour is already archived: $target"
+          suffix="$(TZ=Asia/Shanghai date +'%Y/%m/%d/%H.json')"
+          hotlist="data/hotlists/$suffix"
+          run_record="data/runs/$suffix"
+          if gh api "repos/$GITHUB_REPOSITORY/contents/$hotlist?ref=$GITHUB_REF_NAME" >/dev/null 2>&1 \
+            && gh api "repos/$GITHUB_REPOSITORY/contents/$run_record?ref=$GITHUB_REF_NAME" >/dev/null 2>&1; then
+            echo "Current hour is already complete: $hotlist"
             exit 0
           fi
 
