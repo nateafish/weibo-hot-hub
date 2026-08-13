@@ -3,15 +3,22 @@
   "created_at": 1761199630,
   "first_seen_at": "2026-08-13T13:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-13T13:00:00+08:00",
+  "last_seen_at": "2026-08-13T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%A5%BF%E7%8F%AD%E7%89%99%E6%97%A5%E5%85%A8%E9%A3%9F%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "12家媒体",
     "users": [
       {
         "id": 7476748260,
         "idstr": "7476748260",
         "screen_name": "大公文匯網",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1683472727,
+        "idstr": "1683472727",
+        "screen_name": "央广网",
         "verified": true,
         "verified_type": 3
       },
@@ -23,9 +30,30 @@
         "verified_type": 3
       },
       {
-        "id": 2318910945,
-        "idstr": "2318910945",
-        "screen_name": "新浪热点",
+        "id": 6105713761,
+        "idstr": "6105713761",
+        "screen_name": "红星新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2659523842,
+        "idstr": "2659523842",
+        "screen_name": "黔东南新闻网官方微博",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2443459455,
+        "idstr": "2443459455",
+        "screen_name": "国际在线新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2416547272,
+        "idstr": "2416547272",
+        "screen_name": "红山晚报",
         "verified": true,
         "verified_type": 3
       }
