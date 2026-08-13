@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.nateafish.weibo-hot-hub.local-collector</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/usr/bin/caffeinate</string>
+    <string>-ims</string>
+    <string>__RUNNER__</string>
+    <string>run</string>
+  </array>
+  <key>WorkingDirectory</key>
+  <string>__REPO_ROOT__</string>
+  <key>StartCalendarInterval</key>
+  <array>
+    <dict><key>Minute</key><integer>8</integer></dict>
+    <dict><key>Minute</key><integer>23</integer></dict>
+    <dict><key>Minute</key><integer>38</integer></dict>
+    <dict><key>Minute</key><integer>53</integer></dict>
+  </array>
+  <key>ProcessType</key>
+  <string>Background</string>
+  <key>LowPriorityIO</key>
+  <true/>
+  <key>ThrottleInterval</key>
+  <integer>60</integer>
+  <key>StandardOutPath</key>
+  <string>__LOG_DIR__/collector.log</string>
+  <key>StandardErrorPath</key>
+  <string>__LOG_DIR__/collector.error.log</string>
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>PATH</key>
+    <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin</string>
+    <key>PYTHONUNBUFFERED</key>
+    <string>1</string>
+    <key>WEIBO_CDP_PORT</key>
+    <string>9223</string>
+  </dict>
+</dict>
+</plist>
