@@ -3,13 +3,7 @@
 import { useEffect, useMemo, useState } from "react";
 import { CartesianGrid, Line, LineChart, XAxis, YAxis } from "recharts";
 import { EmptyState, ErrorState } from "@/components/app-state";
-import {
-  Card,
-  CardContent,
-  CardDescription,
-  CardHeader,
-  CardTitle,
-} from "@/components/ui/card";
+import { Card } from "@/components/ui/card";
 import {
   ChartContainer,
   ChartLegend,
@@ -61,76 +55,15 @@ function windowedMetrics(history: TrendHistory, hours?: number): Record<string, 
   );
 }
 
-function LongTrendCard({
-  title,
-  description,
-  history,
-  hours,
-}: {
-  title: string;
-  description: string;
-  history: TrendHistory;
-  hours?: number;
-}) {
-  const series = windowedMetrics(history, hours);
-  const available = metrics.map(([key]) => series[key]);
-  const hasData = available.some((points) => points.length > 0);
-
-  return (
-    <Card className="min-w-0 gap-4 py-4 shadow-none">
-      <CardHeader className="gap-1 px-4">
-        <CardTitle>{title}</CardTitle>
-        <CardDescription>{hasData ? `${description} · ${coverageLabel(available)}` : description}</CardDescription>
-      </CardHeader>
-      <CardContent className="grid gap-4 px-4">
-        {!hasData ? (
-          <EmptyState title="暂无长期趋势" description="继续按小时归档后会自动形成曲线。" />
-        ) : metrics.map(([key, label, color]) => {
-          const points = series[key];
-          const latest = points.at(-1)?.value;
-          const peak = points.length ? Math.max(...points.map((point) => point.value)) : undefined;
-          const data = points.map((point) => ({ at: point.at, [key]: point.value }));
-          return (
-            <div className="grid min-w-0 grid-cols-[4.5rem_1fr] items-center gap-2" key={key}>
-              <div className="min-w-0">
-                <div className="text-xs text-muted-foreground">{label}</div>
-                <div className="mt-1 truncate text-sm font-semibold tabular-nums">
-                  {latest === undefined ? "—" : compactNumber.format(latest)}
-                </div>
-                <div className="mt-0.5 truncate text-[10px] text-muted-foreground">
-                  峰值 {peak === undefined ? "—" : compactNumber.format(peak)}
-                </div>
-              </div>
-              {data.length > 1 ? (
-                <ChartContainer config={chartConfig} className="h-[68px] w-full min-w-0 aspect-auto">
-                  <LineChart data={data} margin={{ top: 6, right: 2, bottom: 6, left: 2 }}>
-                    <ChartTooltip
-                      content={
-                        <ChartTooltipContent
-                          hideIndicator
-                          labelFormatter={(_, payload) => formatDateTime(String(payload?.[0]?.payload?.at || ""))}
-                        />
-                      }
-                    />
-                    <Line
-                      dataKey={key}
-                      name={key}
-                      type="monotone"
-                      stroke={color}
-                      strokeWidth={2}
-                      dot={false}
-                      connectNulls
-                      isAnimationActive={false}
-                    />
-                  </LineChart>
-                </ChartContainer>
-              ) : <div className="text-xs text-muted-foreground">等待更多采集时点</div>}
-            </div>
-          );
-        })}
-      </CardContent>
-    </Card>
-  );
+function historyAxisLabel(at: string): string {
+  const value = new Date(at);
+  if (Number.isNaN(value.getTime())) return at;
+  return new Intl.DateTimeFormat("zh-CN", {
+    month: "2-digit",
+    day: "2-digit",
+    hour: "2-digit",
+    hour12: false,
+  }).format(value);
 }
 
 export function TrendPanel({ summary }: { summary: TopicSummary }) {
@@ -139,6 +72,7 @@ export function TrendPanel({ summary }: { summary: TopicSummary }) {
   const [history, setHistory] = useState<TrendHistory | null>(null);
   const [capture, setCapture] = useState(0);
   const [period, setPeriod] = useState<"1h" | "24h">("1h");
+  const [historyPeriod, setHistoryPeriod] = useState<"72h" | "168h" | "all">("72h");
   const [error, setError] = useState("");
   const [historyError, setHistoryError] = useState("");
 
@@ -173,6 +107,29 @@ export function TrendPanel({ summary }: { summary: TopicSummary }) {
     }
     return Array.from(byAt.values());
   }, [record, period]);
+  const historyView = useMemo(() => {
+    if (!history) return null;
+    const hours = historyPeriod === "72h" ? 72 : historyPeriod === "168h" ? 168 : undefined;
+    const series = windowedMetrics(history, hours);
+    const byAt = new Map<string, Record<string, string | number>>();
+    for (const [key] of metrics) {
+      for (const point of series[key]) {
+        const row = byAt.get(point.at) || { at: point.at, label: historyAxisLabel(point.at) };
+        row[key] = point.value;
+        byAt.set(point.at, row);
+      }
+    }
+    const description = historyPeriod === "72h"
+      ? "最近三天"
+      : historyPeriod === "168h"
+        ? "最近七天"
+        : `全部 ${history.snapshot_count} 个留存快照`;
+    return {
+      data: Array.from(byAt.values()),
+      description,
+      coverage: coverageLabel(metrics.map(([key]) => series[key])),
+    };
+  }, [history, historyPeriod]);
 
   if (!summary.trend_dates.length) {
     return <EmptyState title="暂无趋势留档" description="该话题还没有可绘制的趋势快照。" />;
@@ -217,16 +174,35 @@ export function TrendPanel({ summary }: { summary: TopicSummary }) {
         </div>
         {historyError ? (
           <ErrorState message={historyError} />
-        ) : history ? (
-          <div className="grid gap-4 lg:grid-cols-3">
-            <LongTrendCard title="72 小时" description="最近三天" history={history} hours={72} />
-            <LongTrendCard title="1 周" description="最近七天" history={history} hours={168} />
-            <LongTrendCard title="话题总传播趋势" description={`全部 ${history.snapshot_count} 个留存快照`} history={history} />
+        ) : history && historyView ? (
+          <div>
+            <div className="mb-4 flex flex-wrap items-center justify-between gap-3">
+              <Tabs value={historyPeriod} onValueChange={(value) => setHistoryPeriod(value as typeof historyPeriod)}>
+                <TabsList className="h-9">
+                  <TabsTrigger className="h-7 px-5" value="72h">72 小时</TabsTrigger>
+                  <TabsTrigger className="h-7 px-5" value="168h">1 周</TabsTrigger>
+                  <TabsTrigger className="h-7 px-5" value="all">总传播</TabsTrigger>
+                </TabsList>
+              </Tabs>
+              <p className="text-xs text-muted-foreground">{historyView.description} · {historyView.coverage}</p>
+            </div>
+            {!historyView.data.length ? (
+              <EmptyState title="暂无长期趋势" description="继续按小时归档后会自动形成曲线。" />
+            ) : (
+              <ChartContainer config={chartConfig} className="h-[280px] w-full aspect-auto">
+                <LineChart data={historyView.data} margin={{ top: 12, right: 18, bottom: 8, left: 4 }}>
+                  <CartesianGrid vertical={false} />
+                  <XAxis dataKey="label" tickLine={false} axisLine={false} tickMargin={8} minTickGap={36} />
+                  <YAxis tickLine={false} axisLine={false} tickFormatter={(value) => compactNumber.format(Number(value))} />
+                  <ChartTooltip content={<ChartTooltipContent labelFormatter={(_, payload) => formatDateTime(String(payload?.[0]?.payload?.at || ""))} />} />
+                  <ChartLegend content={<ChartLegendContent />} />
+                  {metrics.map(([key, label, color]) => <Line key={key} name={key} dataKey={key} type="monotone" stroke={color} strokeWidth={2} dot={false} connectNulls isAnimationActive={false} aria-label={label} />)}
+                </LineChart>
+              </ChartContainer>
+            )}
           </div>
         ) : (
-          <div className="grid gap-4 lg:grid-cols-3" aria-label="长期趋势加载中">
-            {[0, 1, 2].map((item) => <Card className="h-[400px] animate-pulse bg-muted/40 shadow-none" key={item} />)}
-          </div>
+          <div className="h-[320px] animate-pulse rounded-xl bg-muted/40" aria-label="长期趋势加载中" />
         )}
       </div>
     </Card>
