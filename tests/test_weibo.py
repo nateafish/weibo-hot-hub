@@ -1,10 +1,31 @@
 from weibo_hot_hub.weibo import (
+    _sleep_with_jitter,
     canonical_https,
     filter_search_cards,
     normalize_ai_payload,
     parse_search_page,
     post_from_mblog,
 )
+
+
+def test_polite_sleep_uses_bounded_jitter(monkeypatch) -> None:
+    durations: list[float] = []
+    monkeypatch.setattr("weibo_hot_hub.weibo.random.uniform", lambda low, high: -0.5)
+    monkeypatch.setattr("weibo_hot_hub.weibo.time.sleep", durations.append)
+
+    _sleep_with_jitter(2.0, 0.5)
+
+    assert durations == [1.5]
+
+
+def test_polite_sleep_skips_non_positive_duration(monkeypatch) -> None:
+    durations: list[float] = []
+    monkeypatch.setattr("weibo_hot_hub.weibo.random.uniform", lambda low, high: -1.0)
+    monkeypatch.setattr("weibo_hot_hub.weibo.time.sleep", durations.append)
+
+    _sleep_with_jitter(0.0, 1.0)
+
+    assert durations == []
 
 
 def test_scheme_to_https() -> None:

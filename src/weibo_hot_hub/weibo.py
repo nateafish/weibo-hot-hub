@@ -243,12 +243,20 @@ def fetch_full_mblog(http: httpx.Client, mid: str) -> dict[str, Any] | None:
     return status if isinstance(status, dict) else None
 
 
+def _sleep_with_jitter(delay: float, jitter: float) -> None:
+    duration = max(0.0, delay + random.uniform(-jitter, jitter))
+    if duration:
+        time.sleep(duration)
+
+
 def collect_mobile_search_pages(
     http: httpx.Client,
     topic: str,
     pages: int = 10,
-    delay: float = 5.0,
-    jitter: float = 1.5,
+    delay: float = 4.0,
+    jitter: float = 1.0,
+    long_text_delay: float = 2.0,
+    long_text_jitter: float = 0.5,
     fetch_full_text: bool = True,
     verify_login: bool = True,
 ) -> list[list[Post]]:
@@ -270,12 +278,12 @@ def collect_mobile_search_pages(
                 full = fetch_full_mblog(http, mid)
                 if full:
                     mblog = full
-                time.sleep(max(1.0, delay))
+                _sleep_with_jitter(long_text_delay, long_text_jitter)
             seen.add(mid)
             page_posts.append(post_from_mblog(mblog))
         output.append(page_posts)
         if page != pages:
-            time.sleep(max(0.0, delay + random.uniform(-jitter, jitter)))
+            _sleep_with_jitter(delay, jitter)
     return output
 
 
