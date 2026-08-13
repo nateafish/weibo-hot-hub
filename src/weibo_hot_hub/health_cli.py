@@ -44,19 +44,23 @@ def main() -> None:
             logged_in = check_mobile_login(http)
             if not logged_in:
                 raise RuntimeError("/api/config data.login != true")
-            pages = collect_mobile_search_pages(
-                http,
-                args.topic,
-                pages=1,
-                delay=0,
-                jitter=0,
-                fetch_full_text=False,
-                verify_login=False,
-            )
-        state["mobile"] = {
-            "status": "valid",
-            "sample_posts": sum(len(page) for page in pages),
-        }
+            state["mobile"] = {"status": "valid", "login": True}
+            try:
+                pages = collect_mobile_search_pages(
+                    http,
+                    args.topic,
+                    pages=1,
+                    delay=0,
+                    jitter=0,
+                    fetch_full_text=False,
+                    verify_login=False,
+                )
+            except Exception as exc:
+                state["mobile"]["sample_status"] = "unavailable"
+                state["mobile"]["sample_reason"] = _error(exc)
+            else:
+                state["mobile"]["sample_status"] = "valid"
+                state["mobile"]["sample_posts"] = sum(len(page) for page in pages)
     except Exception as exc:
         state["mobile"]["reason"] = _error(exc)
 
@@ -74,4 +78,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-
