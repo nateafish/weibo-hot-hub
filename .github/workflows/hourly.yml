@@ -13,6 +13,11 @@ on:
         description: Maximum topics; 0 means the full hotlist
         required: false
         default: "0"
+      force:
+        description: Archive again even if the current-hour snapshot exists
+        required: false
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -29,12 +34,29 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 1
+      - name: Check whether this hour is already archived
+        id: archive-check
+        env:
+          FORCE: ${{ inputs.force || 'false' }}
+        run: |
+          snapshot="data/hotlists/$(TZ=Asia/Shanghai date +'%Y/%m/%d/%H.json')"
+          run_record="data/runs/$(TZ=Asia/Shanghai date +'%Y/%m/%d/%H.json')"
+          if [ "$FORCE" != "true" ] && [ -f "$snapshot" ] && [ -f "$run_record" ]; then
+            echo "Current hour is already complete: $snapshot"
+            echo "should_run=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "Current hour needs an archive"
+            echo "should_run=true" >> "$GITHUB_OUTPUT"
+          fi
       - uses: actions/setup-python@v5
+        if: steps.archive-check.outputs.should_run == 'true'
         with:
           python-version: "3.12"
           cache: pip
-      - run: pip install .
+      - if: steps.archive-check.outputs.should_run == 'true'
+        run: pip install .
       - name: Archive hourly hotlist, metrics, posts, and AI answers
+        if: steps.archive-check.outputs.should_run == 'true'
         env:
           WEIBO_COOKIE: ${{ secrets.WEIBO_COOKIE }}
           WEIBO_MOBILE_COOKIE: ${{ secrets.WEIBO_MOBILE_COOKIE }}
@@ -52,6 +74,7 @@ jobs:
           python -m weibo_hot_hub.hourly --pages "$PAGES" --max-topics "$MAX_TOPICS"
           python -m weibo_hot_hub.readme_cli
       - name: Commit changed data
+        if: steps.archive-check.outputs.should_run == 'true'
         run: |
           if [ -z "$(git status --porcelain -- data README.md)" ]; then
             echo "No hourly data changes"

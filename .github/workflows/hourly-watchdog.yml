@@ -1,0 +1,44 @@
+name: Hourly Archive Watchdog
+
+on:
+  schedule:
+    - cron: "7,22,37,52 * * * *"
+  workflow_dispatch:
+
+permissions:
+  actions: write
+  contents: read
+
+concurrency:
+  group: weibo-hourly-watchdog
+  cancel-in-progress: true
+
+jobs:
+  ensure-current-hour:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Dispatch a missing hourly archive
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          target="data/hotlists/$(TZ=Asia/Shanghai date +'%Y/%m/%d/%H.json')"
+          if gh api "repos/$GITHUB_REPOSITORY/contents/$target?ref=$GITHUB_REF_NAME" >/dev/null 2>&1; then
+            echo "Current hour is already archived: $target"
+            exit 0
+          fi
+
+          active_runs=$(gh api \
+            "repos/$GITHUB_REPOSITORY/actions/workflows/hourly.yml/runs?per_page=20" \
+            --jq '[.workflow_runs[] | select(.status != "completed")] | length')
+          if [ "$active_runs" -gt 0 ]; then
+            echo "Hourly Archive is already queued or running"
+            exit 0
+          fi
+
+          echo "Current hour is missing; dispatching Hourly Archive"
+          gh workflow run hourly.yml \
+            --repo "$GITHUB_REPOSITORY" \
+            --ref "$GITHUB_REF_NAME" \
+            -f pages=1 \
+            -f max_topics=0
