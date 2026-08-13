@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 2258727970
   },
-  "last_seen_at": "2026-08-13T08:00:00+08:00",
+  "last_seen_at": "2026-08-13T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%2360%E4%B8%87%E4%BA%BF%E5%85%83%E6%B6%88%E8%B4%B9%E8%93%9D%E6%B5%B7%E8%A6%81%E6%9D%A5%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "18家媒体",
+    "show_str": "60家媒体",
     "users": [
       {
         "id": 2258727970,
         "idstr": "2258727970",
         "screen_name": "央视财经",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6268080641,
+        "idstr": "6268080641",
+        "screen_name": "甘孜传媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1727472420,
+        "idstr": "1727472420",
+        "screen_name": "泰山晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +44,23 @@
         "verified_type": 3
       },
       {
-        "id": 7298805480,
-        "idstr": "7298805480",
-        "screen_name": "央视三农",
+        "id": 5608027665,
+        "idstr": "5608027665",
+        "screen_name": "中国环境",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 5388240201,
-        "idstr": "5388240201",
-        "screen_name": "南阳日报",
+        "id": 3204782330,
+        "idstr": "3204782330",
+        "screen_name": "海南日报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 5110439722,
-        "idstr": "5110439722",
-        "screen_name": "哈尔滨经济广播电台",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3901624042,
-        "idstr": "3901624042",
-        "screen_name": "山西日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3514732862,
-        "idstr": "3514732862",
-        "screen_name": "广西日报",
+        "id": 2290787940,
+        "idstr": "2290787940",
+        "screen_name": "扬州晚报",
         "verified": true,
         "verified_type": 3
       }
