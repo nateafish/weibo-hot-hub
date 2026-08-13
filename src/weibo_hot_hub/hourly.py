@@ -28,8 +28,33 @@ from .weibo import (
 )
 
 
+class HourlyValidationError(RuntimeError):
+    pass
+
+
 def _error(exc: Exception) -> str:
     return f"{type(exc).__name__}: {exc}"[:500]
+
+
+def validate_report(report: dict[str, Any]) -> None:
+    selected = int(report.get("selected_count") or 0)
+    if selected <= 0:
+        raise HourlyValidationError("hourly run selected no topics")
+    summary = report.get("summary") or {}
+    rates = {
+        "metrics": int(summary.get("metrics_saved") or 0) / selected,
+        "posts": int(summary.get("posts_saved") or 0) / selected,
+        "ai": sum(
+            int(summary.get(key) or 0)
+            for key in ("ai_saved", "ai_unchanged", "ai_refused")
+        )
+        / selected,
+    }
+    minimums = {"metrics": 0.7, "posts": 0.7, "ai": 0.5}
+    failed = [name for name, rate in rates.items() if rate < minimums[name]]
+    if failed:
+        detail = ", ".join(f"{name}={rates[name]:.0%}" for name in failed)
+        raise HourlyValidationError(f"hourly success-rate validation failed: {detail}")
 
 
 def run_hourly(data_root: Path, pages: int = 1, max_topics: int = 0) -> dict[str, Any]:
@@ -149,6 +174,7 @@ def run_hourly(data_root: Path, pages: int = 1, max_topics: int = 0) -> dict[str
         / f"{captured_at:%H}.json"
     )
     atomic_json(report_path, report)
+    validate_report(report)
     return report
 
 

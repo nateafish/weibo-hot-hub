@@ -1,0 +1,58 @@
+name: Repair Hour Posts
+
+on:
+  workflow_dispatch:
+    inputs:
+      hour:
+        description: Beijing hour as YYYY/MM/DD/HH
+        required: true
+      pages:
+        description: Pages per topic (1-10)
+        required: false
+        default: "1"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weibo-data-writer
+  cancel-in-progress: false
+
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install .
+      - name: Repair missing posts only
+        env:
+          WEIBO_MOBILE_COOKIE: ${{ secrets.WEIBO_MOBILE_COOKIE }}
+          HOUR: ${{ inputs.hour }}
+          PAGES: ${{ inputs.pages || '1' }}
+        run: |
+          if ! [[ "$HOUR" =~ ^[0-9]{4}/[0-9]{2}/[0-9]{2}/[0-9]{2}$ ]]; then
+            echo "hour must be YYYY/MM/DD/HH"
+            exit 2
+          fi
+          if ! [[ "$PAGES" =~ ^([1-9]|10)$ ]]; then
+            echo "pages must be between 1 and 10"
+            exit 2
+          fi
+          python -m weibo_hot_hub.repair_posts --hour "$HOUR" --pages "$PAGES"
+      - name: Commit repaired posts
+        run: |
+          if [ -z "$(git status --porcelain -- data)" ]; then
+            echo "No post repairs"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git commit -m "data: repair hourly posts"
+          git pull --rebase origin main
+          git push
