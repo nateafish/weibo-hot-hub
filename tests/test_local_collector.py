@@ -15,8 +15,8 @@ from weibo_hot_hub.local_collector import (
 
 def test_cookie_header_filters_by_host_and_expiry() -> None:
     cookies = [
-        {"name": "SUB", "value": "pc", "domain": ".weibo.com", "path": "/"},
-        {"name": "M_SUB", "value": "mobile", "domain": ".weibo.cn", "path": "/"},
+        {"name": "SUB", "value": "x", "domain": ".weibo.com", "path": "/"},
+        {"name": "M_SUB", "value": "y", "domain": ".weibo.cn", "path": "/"},
         {
             "name": "OLD",
             "value": "expired",
@@ -25,8 +25,8 @@ def test_cookie_header_filters_by_host_and_expiry() -> None:
             "expires": time.time() - 1,
         },
     ]
-    assert cookie_header(cookies, "s.weibo.com") == "SUB=pc"
-    assert cookie_header(cookies, "m.weibo.cn") == "M_SUB=mobile"
+    assert cookie_header(cookies, "s.weibo.com") == "SUB=x"
+    assert cookie_header(cookies, "m.weibo.cn") == "M_SUB=y"
 
 
 def test_hour_paths_and_lease_are_hour_scoped() -> None:
