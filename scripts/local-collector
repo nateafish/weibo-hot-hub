@@ -1,0 +1,85 @@
+#!/bin/zsh
+set -euo pipefail
+
+SCRIPT_DIR=${0:A:h}
+REPO_ROOT=${SCRIPT_DIR:h}
+LABEL=com.nateafish.weibo-hot-hub.local-collector
+PLIST="$HOME/Library/LaunchAgents/$LABEL.plist"
+PROFILE="$HOME/Library/Application Support/weibo-hot-hub/chrome-profile"
+LOG_DIR="$HOME/Library/Logs/weibo-hot-hub"
+CDP_PORT=${WEIBO_CDP_PORT:-9223}
+DOMAIN_TARGET="gui/$(id -u)/$LABEL"
+UV_CACHE_DIR="$REPO_ROOT/.uv-cache"
+export UV_CACHE_DIR
+
+python_command() {
+  cd "$REPO_ROOT"
+  PYTHONPATH="$REPO_ROOT/src${PYTHONPATH:+:$PYTHONPATH}" \
+    exec uv run --no-sync python -m weibo_hot_hub.local_collector \
+    "$@" --repo-root "$REPO_ROOT" --cdp-port "$CDP_PORT"
+}
+
+open_login() {
+  mkdir -p "$PROFILE"
+  chmod 700 "$PROFILE"
+  open -na "Google Chrome" --args \
+    --new-window \
+    --user-data-dir="$PROFILE" \
+    --remote-debugging-address=127.0.0.1 \
+    --remote-debugging-port="$CDP_PORT" \
+    --remote-allow-origins="http://127.0.0.1:$CDP_PORT" \
+    --no-first-run \
+    --no-default-browser-check \
+    "https://s.weibo.com/top/summary" \
+    "https://passport.weibo.cn/signin/login" \
+    "https://m.weibo.cn/"
+  /usr/bin/osascript -e 'tell application "Google Chrome" to activate'
+  print "专用 Chrome 已打开。请分别登录 s.weibo.com 和 m.weibo.cn。"
+}
+
+case "${1:-help}" in
+  run)
+    shift
+    python_command run "$@"
+    ;;
+  run-now)
+    shift
+    exec /usr/bin/caffeinate -ims "$0" run --no-jitter "$@"
+    ;;
+  smoke)
+    shift
+    exec /usr/bin/caffeinate -ims "$0" run-smoke "$@"
+    ;;
+  run-smoke)
+    shift
+    python_command smoke "$@"
+    ;;
+  check-login)
+    shift
+    python_command check-login "$@"
+    ;;
+  login|relogin)
+    open_login
+    ;;
+  start)
+    launchctl enable "$DOMAIN_TARGET"
+    launchctl kickstart -k "$DOMAIN_TARGET"
+    print "本地采集已启动。"
+    ;;
+  stop)
+    launchctl kill SIGTERM "$DOMAIN_TARGET" 2>/dev/null || true
+    launchctl disable "$DOMAIN_TARGET"
+    print "本地采集已停止；launchd 配置仍保留。"
+    ;;
+  logs)
+    mkdir -p "$LOG_DIR"
+    exec tail -n 200 -F "$LOG_DIR/collector.log" "$LOG_DIR/collector.error.log"
+    ;;
+  status)
+    "$SCRIPT_DIR/status-local-collector.sh"
+    ;;
+  help|*)
+    print "usage: scripts/local-collector {run|run-now|smoke|check-login|login|relogin|start|stop|logs|status}"
+    exit 2
+    ;;
+esac

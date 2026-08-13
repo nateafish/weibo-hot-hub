@@ -82,5 +82,19 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data README.md
           git commit -m "data: hourly archive"
-          git pull --rebase origin main
+          git fetch origin main
+          snapshot="data/hotlists/$(TZ=Asia/Shanghai date +'%Y/%m/%d/%H.json')"
+          run_record="data/runs/$(TZ=Asia/Shanghai date +'%Y/%m/%d/%H.json')"
+          if git cat-file -e "origin/main:$snapshot" 2>/dev/null \
+            && git cat-file -e "origin/main:$run_record" 2>/dev/null; then
+            echo "Remote hour completed while this run was collecting; discarding cloud result"
+            exit 0
+          fi
+          git rebase origin/main
+          git fetch origin main
+          if git cat-file -e "origin/main:$snapshot" 2>/dev/null \
+            && git cat-file -e "origin/main:$run_record" 2>/dev/null; then
+            echo "Remote hour completed before push; discarding cloud result"
+            exit 0
+          fi
           git push
