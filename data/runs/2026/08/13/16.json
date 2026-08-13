@@ -1,0 +1,529 @@
+{
+  "captured_at": "2026-08-13T16:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 1,
+    "metrics_saved": 51,
+    "posts_saved": 23
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Client error '403 ' for url 'https://m.weibo.cn/api/container/getIndex?containerid=100103type%3D1%26q%3D%23%E6%B7%B1%E5%85%A5%E5%AD%A6%E4%B9%A0%E9%A2%86%E4%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%85%9A%E5%BB%BA%E6%80%9D%E6%83%B3%23&page_type=searchall&page=1'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "query": "#深入学习领会习近平党建思想#",
+      "rank": 1,
+      "title": "深入学习领会习近平党建思想",
+      "topic_id": "231522c40f2557fa67e253110746415e15f200"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Client error '403 ' for url 'https://m.weibo.cn/api/container/getIndex?containerid=100103type%3D1%26q%3D%23%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96%23&page_type=searchall&page=1'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "query": "#朱镕基同志逝世#",
+      "rank": 1,
+      "title": "朱镕基同志逝世",
+      "topic_id": "231522d2661a793fbc65f5034f3d576b57b932"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Client error '403 ' for url 'https://m.weibo.cn/api/container/getIndex?containerid=100103type%3D1%26q%3D%23%E9%87%91%E9%B9%B0%E5%A5%96%E5%A5%B3%E4%B8%BB%E6%8F%90%E5%90%8D%23&page_type=searchall&page=1'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "query": "#金鹰奖女主提名#",
+      "rank": 2,
+      "title": "金鹰奖女主提名",
+      "topic_id": "231522468d0955f6a3e4e95a60c20d480a0ecf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Client error '403 ' for url 'https://m.weibo.cn/api/container/getIndex?containerid=100103type%3D1%26q%3D%23%E8%AF%B7%E6%9F%A5%E6%94%B6%E5%8F%B0%E9%A3%8E%E8%BF%87%E5%90%8E%E9%98%B2%E6%8A%A4%E8%A6%81%E7%82%B9%23&page_type=searchall&page=1'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "query": "#请查收台风过后防护要点#",
+      "rank": 3,
+      "title": "请查收台风过后防护要点",
+      "topic_id": "23152249c93408668cbb2056d4dbfa783e8359"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Client error '403 ' for url 'https://m.weibo.cn/api/container/getIndex?containerid=100103type%3D1%26q%3D%E7%94%9F%E7%90%86%E6%80%A7%E5%96%9C%E6%AC%A2%E6%98%AF%E5%BE%88%E5%8F%AF%E6%80%95%E7%9A%84%E4%B8%80%E4%BB%B6%E4%BA%8B&page_type=searchall&page=1'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "query": "生理性喜欢是很可怕的一件事",
+      "rank": 4,
+      "title": "生理性喜欢是很可怕的一件事",
+      "topic_id": "231522fa6cc712857c1dc7507100207de91fad"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Client error '403 ' for url 'https://m.weibo.cn/api/container/getIndex?containerid=100103type%3D1%26q%3Dgap%E4%B8%80%E5%B9%B4%E4%BC%9A%E5%A4%B1%E5%8E%BB%E4%BB%80%E4%B9%88&page_type=searchall&page=1'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "query": "gap一年会失去什么",
+      "rank": 5,
+      "title": "gap一年会失去什么",
+      "topic_id": "231522a464cd03b78cdbd66d62b7cef630d188"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Client error '403 ' for url 'https://m.weibo.cn/api/container/getIndex?containerid=100103type%3D1%26q%3D%23%E6%99%AE%E4%BA%AC%E7%99%BB%E5%B2%9B%E5%90%8E%E6%97%A5%E6%9C%AC%E6%80%A5%E4%BA%86%23&page_type=searchall&page=1'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "query": "#普京登岛后日本急了#",
+      "rank": 6,
+      "title": "普京登岛后日本急了",
+      "topic_id": "231522c689bd596d459255f5ad1a4b23c680c3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Client error '403 ' for url 'https://m.weibo.cn/api/container/getIndex?containerid=100103type%3D1%26q%3D%23%E4%BF%A9%E5%AD%A9%E5%AD%90%E5%B0%86%E8%B6%85%E5%B8%82%E5%86%85%E5%87%A0%E5%8D%81%E7%A7%8D%E6%9D%82%E7%B2%AE%E6%B7%B7%E6%8E%BA%23&page_type=searchall&page=1'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "query": "#俩孩子将超市内几十种杂粮混掺#",
+      "rank": 7,
+      "title": "俩孩子将超市内几十种杂粮混掺",
+      "topic_id": "231522ab102e6d4b26f41f6938ebcbca3db643"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Client error '403 ' for url 'https://m.weibo.cn/api/container/getIndex?containerid=100103type%3D1%26q%3D%E6%83%85%E4%BE%A3%E6%87%92%E5%BE%97%E6%8B%8D%E5%A9%9A%E7%BA%B1%E7%85%A7%E4%BA%A4%E7%BB%99%E8%B1%86%E5%8C%85&page_type=searchall&page=1'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "query": "情侣懒得拍婚纱照交给豆包",
+      "rank": 8,
+      "title": "情侣懒得拍婚纱照交给豆包",
+      "topic_id": "231522f130991ae6e20e746b4d8a423164b5e1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Client error '403 ' for url 'https://m.weibo.cn/api/container/getIndex?containerid=100103type%3D1%26q%3D%E6%AD%8C%E6%89%8B%E8%8A%82%E7%9B%AE%E7%BB%84%E8%81%94%E7%B3%BB%E8%80%B3%E5%B8%9D&page_type=searchall&page=1'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "query": "歌手节目组联系耳帝",
+      "rank": 9,
+      "title": "歌手节目组联系耳帝",
+      "topic_id": "2315221e5ea8481d26ddd2938915abcee97318"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Client error '403 ' for url 'https://m.weibo.cn/api/container/getIndex?containerid=100103type%3D1%26q%3D%E4%BA%94%E5%85%AC%E4%BC%B4%E6%89%8B%E7%A4%BC&page_type=searchall&page=1'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "query": "五公伴手礼",
+      "rank": 10,
+      "title": "五公伴手礼",
+      "topic_id": "2315229851cac28decb841c19c66693c3e5338"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Client error '403 ' for url 'https://m.weibo.cn/api/container/getIndex?containerid=100103type%3D1%26q%3D%23%E5%AE%98%E6%96%B9%E8%B0%83%E6%9F%A5%E9%83%AD%E5%BE%B7%E7%BA%B2%E6%BC%94%E5%87%BA%E6%94%B9%E7%BC%96%E7%BA%A2%E6%AD%8C%23&page_type=searchall&page=1'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "query": "#官方调查郭德纲演出改编红歌#",
+      "rank": 11,
+      "title": "官方调查郭德纲演出改编红歌",
+      "topic_id": "2315227ab61ba5728952199812244b286a48b4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Client error '403 ' for url 'https://m.weibo.cn/api/container/getIndex?containerid=100103type%3D1%26q%3D%23%E9%A9%AC%E5%A4%A9%E5%AE%87%E8%A2%AB%E5%A7%9C%E6%BD%AE%E6%90%9E%E4%B8%8D%E4%BC%9A%E4%BA%86%23&page_type=searchall&page=1'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "query": "#马天宇被姜潮搞不会了#",
+      "rank": 12,
+      "title": "马天宇被姜潮搞不会了",
+      "topic_id": "23152275ae98eaa5e0a36ff5e587cb552674fc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Client error '403 ' for url 'https://m.weibo.cn/api/container/getIndex?containerid=100103type%3D1%26q%3D%E6%9D%8E%E9%A3%9E+%E4%BD%BF%E5%94%A4%E4%BA%BA&page_type=searchall&page=1'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "query": "李飞 使唤人",
+      "rank": 13,
+      "title": "李飞 使唤人",
+      "topic_id": "23152222849fc155971ce46ca0d240ad1ff79c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Client error '403 ' for url 'https://m.weibo.cn/api/container/getIndex?containerid=100103type%3D1%26q%3D%E5%85%B3%E9%97%AD%E5%B9%B4%E8%B5%9A1%E4%BA%BF%E7%9A%84%E5%BA%97+%E8%83%96%E4%B8%9C%E6%9D%A5%E6%8A%8A%E6%A1%8C%E5%AD%90%E6%8E%80%E4%BA%86&page_type=searchall&page=1'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "query": "关闭年赚1亿的店 胖东来把桌子掀了",
+      "rank": 14,
+      "title": "关闭年赚1亿的店 胖东来把桌子掀了",
+      "topic_id": "231522376d40d83eda5fee9485efb4c5dcfe35"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Client error '403 ' for url 'https://m.weibo.cn/api/container/getIndex?containerid=100103type%3D1%26q%3D%23%E5%B2%B3%E9%9B%A8%E5%A9%B7%E5%8F%88%E5%96%8A%E8%AF%9D%E6%B2%88%E8%85%BE%E4%BA%86%23&page_type=searchall&page=1'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "query": "#岳雨婷又喊话沈腾了#",
+      "rank": 15,
+      "title": "岳雨婷又喊话沈腾了",
+      "topic_id": "231522ba509d14db5228e307924b980d92ad89"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Client error '403 ' for url 'https://m.weibo.cn/api/container/getIndex?containerid=100103type%3D1%26q%3D%E5%A4%A7%E5%86%B0%E8%AF%B4%E8%B5%9A%E5%BE%97%E8%B6%8A%E5%B0%91%E8%B6%8A%E7%B4%AF&page_type=searchall&page=1'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "query": "大冰说赚得越少越累",
+      "rank": 16,
+      "title": "大冰说赚得越少越累",
+      "topic_id": "2315228d1b816b5dc1395fda4206e073d5a68f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Client error '403 ' for url 'https://m.weibo.cn/api/container/getIndex?containerid=100103type%3D1%26q%3D%23%E5%A6%88%E5%A6%88%E8%BF%9B%E5%B1%8B%E5%80%92%E6%B0%B44%E5%B2%81%E7%94%B7%E7%AB%A5%E5%AE%B6%E9%97%A8%E5%8F%A3%E6%B6%88%E5%A4%B1%23&page_type=searchall&page=1'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "query": "#妈妈进屋倒水4岁男童家门口消失#",
+      "rank": 17,
+      "title": "妈妈进屋倒水4岁男童家门口消失",
+      "topic_id": "231522f82aae3809095455da472e439785bacf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Client error '403 ' for url 'https://m.weibo.cn/api/container/getIndex?containerid=100103type%3D1%26q%3D%23%E5%A7%9C%E6%BD%AE%E9%BA%A6%E8%BF%AA%E5%A8%9C%E5%A9%9A%E7%A4%BC%E7%9A%84%E5%88%87%E7%B3%95%E8%83%BD%E4%B9%B0%E4%B9%8C%E5%B8%82%E4%B8%80%E5%A5%97%E6%88%BF%23&page_type=searchall&page=1'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "query": "#姜潮麦迪娜婚礼的切糕能买乌市一套房#",
+      "rank": 18,
+      "title": "姜潮麦迪娜婚礼的切糕能买乌市一套房",
+      "topic_id": "2315225067f239b0a0a5c5feb38791ede19eef"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Client error '403 ' for url 'https://m.weibo.cn/api/container/getIndex?containerid=100103type%3D1%26q%3D%23%E5%B0%8F%E8%B1%A1%E8%B6%85%E5%B8%82%E6%96%87%E6%A1%88%E9%83%A8%E6%9D%A5%E9%AB%98%E4%BA%BA%E4%BA%86%23&page_type=searchall&page=1'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "query": "#小象超市文案部来高人了#",
+      "rank": 19,
+      "title": "小象超市文案部来高人了",
+      "topic_id": "2315223ba310a42a02c042e08cd71d460ef0d4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Client error '403 ' for url 'https://m.weibo.cn/api/container/getIndex?containerid=100103type%3D1%26q%3D%23%E7%94%B7%E5%AD%90%E5%B8%AE%E6%9C%8B%E5%8F%8B%E8%A3%85%E7%A9%BA%E8%B0%83%E4%B8%8D%E6%85%8E12%E6%A5%BC%E5%9D%A0%E4%BA%A1%23&page_type=searchall&page=1'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "query": "#男子帮朋友装空调不慎12楼坠亡#",
+      "rank": 20,
+      "title": "男子帮朋友装空调不慎12楼坠亡",
+      "topic_id": "2315222d584ec635665f240b35bd6d9837c9c0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Client error '403 ' for url 'https://m.weibo.cn/api/container/getIndex?containerid=100103type%3D1%26q%3D%E8%91%A3%E5%8D%BF+%E6%8A%96%E9%9F%B3%E8%AF%84%E8%AE%BA%E8%A2%AB%E9%80%A0%E8%B0%A3&page_type=searchall&page=1'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "query": "董卿 抖音评论被造谣",
+      "rank": 21,
+      "title": "董卿 抖音评论被造谣",
+      "topic_id": "231522d3ba5b2b63b328375772cb9e901f1f14"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Client error '403 ' for url 'https://m.weibo.cn/api/container/getIndex?containerid=100103type%3D1%26q%3D%23%E6%A3%80%E6%B5%8B%E4%B8%9A%E6%A0%B7%E5%93%81%E9%80%A0%E5%81%87%E6%88%90%E5%85%AC%E5%BC%80%E7%A7%98%E5%AF%86%23&page_type=searchall&page=1'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "query": "#检测业样品造假成公开秘密#",
+      "rank": 22,
+      "title": "检测业样品造假成公开秘密",
+      "topic_id": "231522c8b249583c7b2ea90fb15645e660777d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Client error '403 ' for url 'https://m.weibo.cn/api/container/getIndex?containerid=100103type%3D1%26q%3D%23%E9%82%B9%E5%B8%82%E6%98%8E45%E5%B2%81%E9%87%8D%E8%BF%94%E6%8B%B3%E5%87%BB%E8%B5%9B%E5%9C%BA%23&page_type=searchall&page=1'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "query": "#邹市明45岁重返拳击赛场#",
+      "rank": 23,
+      "title": "邹市明45岁重返拳击赛场",
+      "topic_id": "231522a16f19f095bc9987e825efce00b34ce9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Client error '403 ' for url 'https://m.weibo.cn/api/container/getIndex?containerid=100103type%3D1%26q%3D%E8%83%96%E4%B8%9C%E6%9D%A5+%E6%88%BF%E7%A7%9F%E7%BF%BB%E5%80%8D&page_type=searchall&page=1'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "query": "胖东来 房租翻倍",
+      "rank": 24,
+      "title": "胖东来 房租翻倍",
+      "topic_id": "23152204ef70c8fa31ff1e6d24e81f6e1192ef"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Client error '403 ' for url 'https://m.weibo.cn/api/container/getIndex?containerid=100103type%3D1%26q%3D%23%E8%82%96%E6%88%98%E6%9D%8E%E6%B2%81%E4%BA%94%E6%90%AD%E5%8F%AA%E6%9C%89%E7%8B%BC%E6%AE%BF%E4%B8%8B%E6%9C%89%E5%90%BB%E6%88%8F%23&page_type=searchall&page=1'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "query": "#肖战李沁五搭只有狼殿下有吻戏#",
+      "rank": 25,
+      "title": "肖战李沁五搭只有狼殿下有吻戏",
+      "topic_id": "231522d310945de445fc4b99e774fe690d4a17"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Client error '403 ' for url 'https://m.weibo.cn/api/container/getIndex?containerid=100103type%3D1%26q%3D%23%E5%B3%B0%E5%93%A55000%E5%85%83%E8%AF%B7%E9%82%B9%E5%B8%82%E6%98%8E%E6%89%93%E4%B8%80%E5%9C%BA%23&page_type=searchall&page=1'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "query": "#峰哥5000元请邹市明打一场#",
+      "rank": 26,
+      "title": "峰哥5000元请邹市明打一场",
+      "topic_id": "23152253b08682bab0fd0a64fb2fc15886e045"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Client error '403 ' for url 'https://m.weibo.cn/api/container/getIndex?containerid=100103type%3D1%26q%3D%23%E5%A5%B3%E5%AD%900%E5%85%83%E8%B4%AD400%E6%A0%B9%E7%82%B8%E4%B8%B2%E9%80%80%E6%AC%BE%E8%A2%AB%E6%8B%92%23&page_type=searchall&page=1'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "query": "#女子0元购400根炸串退款被拒#",
+      "rank": 27,
+      "title": "女子0元购400根炸串退款被拒",
+      "topic_id": "23152266dbf231b85c88d83faa0523a996871b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#Lisa金九封面#",
+      "rank": 28,
+      "title": "Lisa金九封面",
+      "topic_id": "23152209a80ae4c2aa97d5baea81e2235c2790"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "花开锦绣追剧团",
+      "rank": 29,
+      "title": "花开锦绣追剧团",
+      "topic_id": "231522f127f3ea5302ea3e4c1d3b56bc29236c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#网传英伟达欲投资中际旭创新易盛#",
+      "rank": 30,
+      "title": "网传英伟达欲投资中际旭创新易盛",
+      "topic_id": "231522ef0559f77c2482763e05f05dc07b9130"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "手机壳 偷拍",
+      "rank": 31,
+      "title": "手机壳 偷拍",
+      "topic_id": "2315221f71a0922efbffd3a42ae367eb53380e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#医学生不买新教材就退学引争议#",
+      "rank": 32,
+      "title": "医学生不买新教材就退学引争议",
+      "topic_id": "2315224ac7b6a85c39560195d44fe4860e6c56"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#2小孩超市混掺几十种杂粮被迫下架#",
+      "rank": 33,
+      "title": "2小孩超市混掺几十种杂粮被迫下架",
+      "topic_id": "231522f89cc94b10793ddf59823363759084e1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "威斯布鲁克",
+      "rank": 34,
+      "title": "威斯布鲁克",
+      "topic_id": "2315221dbf92ce6147c1a4107530feef03d919"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#怪不得医生有时候会反复套话#",
+      "rank": 35,
+      "title": "怪不得医生有时候会反复套话",
+      "topic_id": "231522b793c2b97ce3c4768e01d193b0b0a0d0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝白鹿提名金鹰奖最佳女主#",
+      "rank": 36,
+      "title": "曝白鹿提名金鹰奖最佳女主",
+      "topic_id": "231522f52309fd786ca97ca337c3db8b3638b0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#ALO称退货留赠品包需扣450元#",
+      "rank": 37,
+      "title": "ALO称退货留赠品包需扣450元",
+      "topic_id": "2315220dea5c196f659e7be9df3de6b44b4e9b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王俊凯林大厨备菜到凌晨4点#",
+      "rank": 38,
+      "title": "王俊凯林大厨备菜到凌晨4点",
+      "topic_id": "2315222fa7d5ae43b2a226e5694f99fee29f9b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#小米阔折叠意外曝光#",
+      "rank": 39,
+      "title": "小米阔折叠意外曝光",
+      "topic_id": "231522afd54f4e2f0f41529818273108d75af2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#380元一双袜子你买吗#",
+      "rank": 40,
+      "title": "380元一双袜子你买吗",
+      "topic_id": "231522e8189361f042093cbce99d039ff734f3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#孙彩瑛发布手写信离开JYP#",
+      "rank": 41,
+      "title": "孙彩瑛发布手写信离开JYP",
+      "topic_id": "231522c3e0e71f4fd30fe28aa5f378a4afb0cb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#韩雨彤落地长沙送考曾辉#",
+      "rank": 42,
+      "title": "韩雨彤落地长沙送考曾辉",
+      "topic_id": "23152257f65fbf8de9d361b113f576489147ba"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "极简装修已经进化成这样了吗",
+      "rank": 43,
+      "title": "极简装修已经进化成这样了吗",
+      "topic_id": "231522ac8f381d25d464c3fc5baeddccd82a46"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#重罚台风请假员工公司多年0人参保#",
+      "rank": 44,
+      "title": "重罚台风请假员工公司多年0人参保",
+      "topic_id": "231522ffdaa6ed6f2bcf71a06763cb9996ab82"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#夏季赛成都AG超玩会首发名单#",
+      "rank": 45,
+      "title": "夏季赛成都AG超玩会首发名单",
+      "topic_id": "231522175f521594158707b4f0b6e2a86feba0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#麦迪娜和沐言一起跳新疆舞#",
+      "rank": 46,
+      "title": "麦迪娜和沐言一起跳新疆舞",
+      "topic_id": "2315226dc842bcbaf7dc0a6cce883e6aedf388"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "金鹰奖",
+      "rank": 47,
+      "title": "金鹰奖",
+      "topic_id": "231522c6f1ef9fdfb7f6a7220b2b1c6496735d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#ksg流浪手伤情况#",
+      "rank": 48,
+      "title": "ksg流浪手伤情况",
+      "topic_id": "231522d56fe213f89b4ef1103bdf9a03557882"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#内蒙古五当召回应售卖开光奥特曼#",
+      "rank": 49,
+      "title": "内蒙古五当召回应售卖开光奥特曼",
+      "topic_id": "23152238f353ecab2eeb423d1480961db541f2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#男子帮朋友装空调坠亡家属发声#",
+      "rank": 50,
+      "title": "男子帮朋友装空调坠亡家属发声",
+      "topic_id": "2315227c29deba46fc6af4fdeed7275d99f024"
+    }
+  ]
+}
