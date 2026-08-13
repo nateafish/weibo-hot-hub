@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 5061229888
   },
-  "last_seen_at": "2026-08-13T11:00:00+08:00",
+  "last_seen_at": "2026-08-13T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8D%A2%E4%BC%9F%E5%86%B0%E5%AE%98%E5%AE%A3%E5%B0%8F%E7%B1%B3%E6%BE%8E%E6%B9%83OS4%23%26t%3D3&title=发布媒体",
-    "show_str": "9家媒体",
+    "show_str": "12家媒体",
     "users": [
       {
         "id": 5061229888,
@@ -28,6 +28,13 @@
         "screen_name": "动点前沿",
         "verified": false,
         "verified_type": -1
+      },
+      {
+        "id": 1646051850,
+        "idstr": "1646051850",
+        "screen_name": "贝壳财经",
+        "verified": true,
+        "verified_type": 3
       },
       {
         "id": 7520789718,
@@ -51,18 +58,11 @@
         "verified_type": 3
       },
       {
-        "id": 2337985010,
-        "idstr": "2337985010",
-        "screen_name": "瑞安融媒",
+        "id": 5449334139,
+        "idstr": "5449334139",
+        "screen_name": "麦穗视频",
         "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1856404484,
-        "idstr": "1856404484",
-        "screen_name": "凤凰网科技",
-        "verified": true,
-        "verified_type": 3
+        "verified_type": 7
       }
     ]
   },
