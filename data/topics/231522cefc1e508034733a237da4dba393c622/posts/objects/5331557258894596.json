@@ -1,0 +1,8 @@
+{
+  "body": "今晚\n#DeepSeekHarness发布#\n。\n对标OpenAI的CodeX，和Anthropic的Claude Code。\n这意味着，从底层大模型的国产替代，到上层Agent Harness应用层这一层，也实现了国产替代。\nDeepSeek Harness 采取“一切皆插件”的设计思路。\n采用插件式开放架构来构建 Agent Harness：模型、工具、技能、会话、沙箱、存储、循环、调度、UI 等所有 Agent 能力均由插件组合而成，可自由替换、灵活重组。\n针对不同的使用场景，DeepSeek Harness 提供四种模式，每种模式会默认加载不同的插件集合：\n标准模式：提供完整的工具组合；\nPTC 模式：程序化工具调用（Programmatic Tool Calling），由模型生成的一段代码来组合多轮工具调用；\n极简模式：仅保留一个 shell 工具与一个文件编辑工具，用于最小环境下的模型基准测试；\n创造模式：可以检查当前运行时、在内存中试验 Cordis 插件，并据此组合和创作新的模式。",
+  "created_at_text": "Thu Aug 13 20:56:09 +0800 2026",
+  "mid": "5331557258894596",
+  "uid": "1725941200",
+  "url": "https://m.weibo.cn/detail/5331557258894596",
+  "username": "梁赛"
+}
