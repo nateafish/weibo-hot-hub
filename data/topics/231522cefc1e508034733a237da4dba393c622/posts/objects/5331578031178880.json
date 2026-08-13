@@ -1,0 +1,8 @@
+{
+  "body": "DeepSeek Harness 正式发布了并且完全开源，简称 dsh 目前所有人都能安装使用\n#DeepSeekHarness发布#\n。\n- DeepSeek 定义 AGENT = MODEL + HARNESS，dsh 和 Claude Code 是一个东西，都是模型能调用工具干活完成具体任务。\n- DeepSeek Harness 的理念是：一切皆插件。模型、工具、技能、会话、沙箱、存储、循环、调度、UI 等所有 Agent 能力均由插件组合而成，可以自由替换和灵活重组\n- DeepSeek Harness 目前通过 npx 安装，本地会有一个 webui 操作界面。比较简单清爽，分工作区和对话两大块\n- 有四种工作模式：标准、PTC、极简、创造\n- 支持 subagent 后台子代理、MCP、Skill 这些都支持，官方插件生态正在快速完善。\n搭配 DeepSeek V4 Flash 应该干活挺好，赶紧试试：deepseek.com/harness/\n收起\nd",
+  "created_at_text": "今天22:18",
+  "mid": "5331578031178880",
+  "uid": "3138279871",
+  "url": "https://weibo.com/3138279871/Rdfuj4WGc",
+  "username": "酱紫表"
+}
