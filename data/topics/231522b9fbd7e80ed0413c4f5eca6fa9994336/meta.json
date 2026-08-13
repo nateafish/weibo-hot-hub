@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1655444627
   },
-  "last_seen_at": "2026-08-13T14:00:00+08:00",
+  "last_seen_at": "2026-08-13T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%AA%91%E8%A1%8C%E8%BE%85%E8%AD%A6%E8%A2%AB%E5%88%BA%E6%AD%BB%E5%85%B6%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0%23%26t%3D3&title=发布媒体",
-    "show_str": "25家媒体",
+    "show_str": "26家媒体",
     "users": [
       {
         "id": 1655444627,
@@ -26,6 +26,13 @@
         "id": 2337985010,
         "idstr": "2337985010",
         "screen_name": "瑞安融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -54,13 +61,6 @@
         "id": 2200249730,
         "idstr": "2200249730",
         "screen_name": "民生江西",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2035321844,
-        "idstr": "2035321844",
-        "screen_name": "河池融媒",
         "verified": true,
         "verified_type": 3
       }

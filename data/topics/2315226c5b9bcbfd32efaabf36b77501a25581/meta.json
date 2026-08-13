@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 5465565905
   },
-  "last_seen_at": "2026-08-13T14:00:00+08:00",
+  "last_seen_at": "2026-08-13T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A7%9C%E6%BD%AE%E9%BA%A6%E8%BF%AA%E5%A8%9C%E6%96%B0%E7%96%86%E5%A9%9A%E7%A4%BC%E5%90%AB%E9%87%91%E9%87%8F%E5%A4%AA%E9%AB%98%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "60家媒体",
+    "show_str": "76家媒体",
     "users": [
       {
         "id": 5465565905,
         "idstr": "5465565905",
         "screen_name": "印象新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2286092114,
+        "idstr": "2286092114",
+        "screen_name": "中国蓝新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -56,13 +63,6 @@
         "screen_name": "纵横视频",
         "verified": true,
         "verified_type": 2
-      },
-      {
-        "id": 7613695859,
-        "idstr": "7613695859",
-        "screen_name": "共富视频",
-        "verified": true,
-        "verified_type": 3
       }
     ]
   },

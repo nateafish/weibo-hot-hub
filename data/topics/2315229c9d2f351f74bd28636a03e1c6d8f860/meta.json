@@ -3,10 +3,10 @@
   "created_at": 1786598873,
   "first_seen_at": "2026-08-13T14:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-13T14:00:00+08:00",
+  "last_seen_at": "2026-08-13T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%83%AD%E5%BE%B7%E7%BA%B2+%E6%94%B9%E7%BC%96%E7%BA%A2%E6%AD%8C%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "7家媒体",
     "users": [
       {
         "id": 1887344341,
@@ -23,6 +23,13 @@
         "verified_type": 3
       },
       {
+        "id": 1699957812,
+        "idstr": "1699957812",
+        "screen_name": "海峡网-福建报业新媒体网站",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1682207150,
         "idstr": "1682207150",
         "screen_name": "南方日报",
@@ -33,6 +40,13 @@
         "id": 1652484947,
         "idstr": "1652484947",
         "screen_name": "新快报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1645578093,
+        "idstr": "1645578093",
+        "screen_name": "南风窗",
         "verified": true,
         "verified_type": 3
       },

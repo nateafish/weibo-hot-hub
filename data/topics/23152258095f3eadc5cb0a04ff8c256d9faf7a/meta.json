@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1774057271
   },
-  "last_seen_at": "2026-08-13T14:00:00+08:00",
+  "last_seen_at": "2026-08-13T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%95%BF%E6%9C%9F%E8%A1%80%E7%B3%96%E5%A4%B1%E6%8E%A7%E5%8F%AF%E8%83%BD%E4%BC%9A%E7%BB%8F%E5%8E%86%E4%BB%80%E4%B9%88%23%26t%3D3&title=发布媒体",
-    "show_str": "44家媒体",
+    "show_str": "49家媒体",
     "users": [
       {
         "id": 1774057271,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 1774835215,
+        "idstr": "1774835215",
+        "screen_name": "央视影音",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1714800385,
         "idstr": "1714800385",
         "screen_name": "第一帮帮团",
@@ -54,13 +61,6 @@
         "id": 3251720635,
         "idstr": "3251720635",
         "screen_name": "邯郸网络广播电视台",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2685336121,
-        "idstr": "2685336121",
-        "screen_name": "南宁晚报",
         "verified": true,
         "verified_type": 3
       }

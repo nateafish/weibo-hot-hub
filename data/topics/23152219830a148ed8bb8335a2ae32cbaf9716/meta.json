@@ -3,10 +3,10 @@
   "created_at": 1771781695,
   "first_seen_at": "2026-08-13T14:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-13T14:00:00+08:00",
+  "last_seen_at": "2026-08-13T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23TF%E5%9B%9B%E4%BB%A3%E4%BA%94%E5%85%AC%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "4家媒体",
     "users": [
       {
         "id": 6105713761,
@@ -26,6 +26,13 @@
         "id": 2337985010,
         "idstr": "2337985010",
         "screen_name": "瑞安融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1043320390,
+        "idstr": "1043320390",
+        "screen_name": "半岛晨报",
         "verified": true,
         "verified_type": 3
       }

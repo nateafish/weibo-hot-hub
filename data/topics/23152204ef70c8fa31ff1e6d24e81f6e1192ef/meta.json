@@ -3,11 +3,18 @@
   "created_at": 1786598490,
   "first_seen_at": "2026-08-13T14:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-13T14:00:00+08:00",
+  "last_seen_at": "2026-08-13T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%83%96%E4%B8%9C%E6%9D%A5+%E6%88%BF%E7%A7%9F%E7%BF%BB%E5%80%8D%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "14家媒体",
     "users": [
+      {
+        "id": 5396094153,
+        "idstr": "5396094153",
+        "screen_name": "大众新闻-大众日报",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2992050891,
         "idstr": "2992050891",
@@ -16,16 +23,37 @@
         "verified_type": 3
       },
       {
-        "id": 1751714412,
-        "idstr": "1751714412",
-        "screen_name": "大皖新闻",
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1682207150,
-        "idstr": "1682207150",
-        "screen_name": "南方日报",
+        "id": 2620088113,
+        "idstr": "2620088113",
+        "screen_name": "海报新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2286092114,
+        "idstr": "2286092114",
+        "screen_name": "中国蓝新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2118120483,
+        "idstr": "2118120483",
+        "screen_name": "青岛日报",
         "verified": true,
         "verified_type": 3
       }
