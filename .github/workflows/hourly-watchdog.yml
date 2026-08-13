@@ -2,7 +2,7 @@ name: Hourly Archive Watchdog
 
 on:
   schedule:
-    - cron: "42,57 * * * *"
+    - cron: "27,42,57 * * * *"
   workflow_dispatch:
 
 permissions:
