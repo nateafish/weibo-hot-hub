@@ -112,6 +112,13 @@ export interface TrendRecord {
   "24h"?: Record<string, TrendPoint[]>;
 }
 
+export interface TrendHistory {
+  snapshot_count: number;
+  first_at?: string | null;
+  last_at?: string | null;
+  metrics: Record<string, TrendPoint[]>;
+}
+
 export interface PostObject {
   mid: string;
   uid?: string;

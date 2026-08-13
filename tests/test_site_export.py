@@ -130,3 +130,33 @@ def test_export_includes_ai_only_topic_without_meta(tmp_path: Path) -> None:
     assert topics[0]["topic_id"] == "t-ai"
     assert topics[0]["title"] == "只有智搜的话题"
     assert topics[0]["has_ai"] is True
+
+
+def test_export_stitches_long_term_trend_history(tmp_path: Path) -> None:
+    data = tmp_path / "data"
+    out = tmp_path / "out"
+    write_json(data / "topics/t1/meta.json", {"topic_id": "t1", "title": "话题"})
+    trend_path = data / "topics/t1/trends/2026/08-13.jsonl"
+    trend_path.parent.mkdir(parents=True, exist_ok=True)
+    records = [
+        {
+            "captured_at": "2026-08-13T10:00:00+08:00",
+            "24h": {"read": [{"at": "2026-08-13T09:00:00+08:00", "label": "09:00", "value": 10}]},
+        },
+        {
+            "captured_at": "2026-08-13T11:00:00+08:00",
+            "24h": {"read": [
+                {"at": "2026-08-13T09:00:00+08:00", "label": "09:00", "value": 15},
+                {"at": "2026-08-13T10:00:00+08:00", "label": "10:00", "value": 20},
+            ]},
+        },
+    ]
+    trend_path.write_text("\n".join(json.dumps(item) for item in records), encoding="utf-8")
+
+    export_site_data(data, out, generated_at=NOW)
+    history = json.loads((out / "topics/t1/trends/history.json").read_text())
+
+    assert history["snapshot_count"] == 2
+    assert history["first_at"] == "2026-08-13T09:00:00+08:00"
+    assert [point["value"] for point in history["metrics"]["read"]] == [15, 20]
+    assert history["metrics"]["mention"] == []

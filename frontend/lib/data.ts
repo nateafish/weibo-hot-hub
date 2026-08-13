@@ -7,6 +7,7 @@ import type {
   TopicSummary,
   TopicSnapshot,
   TrendRecord,
+  TrendHistory,
 } from "./types";
 
 export const BASE_PATH = process.env.NEXT_PUBLIC_BASE_PATH || "";
@@ -27,5 +28,6 @@ export const loadTopics = () => getJson<TopicIndexItem[]>("topics/index.json");
 export const loadTopicSummary = (id: string) => getJson<TopicSummary>(`topics/${encodeURIComponent(id)}/summary.json`);
 export const loadTopicSnapshots = (id: string, date: string) => getJson<TopicSnapshot[]>(`topics/${encodeURIComponent(id)}/snapshots/${date}.json`);
 export const loadTopicTrends = (id: string, date: string) => getJson<TrendRecord[]>(`topics/${encodeURIComponent(id)}/trends/${date}.json`);
+export const loadTopicTrendHistory = (id: string) => getJson<TrendHistory>(`topics/${encodeURIComponent(id)}/trends/history.json`);
 export const loadTopicPosts = (id: string, date: string) => getJson<PostDay>(`topics/${encodeURIComponent(id)}/posts/${date}.json`);
 export const loadAiContent = (id: string, version: string) => getJson<AiContent>(`topics/${encodeURIComponent(id)}/ai/${encodeURIComponent(version)}.json`);

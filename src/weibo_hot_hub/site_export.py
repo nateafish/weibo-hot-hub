@@ -229,6 +229,43 @@ def _trend_files(topic_root: Path) -> dict[str, list[dict[str, Any]]]:
     return days
 
 
+def _trend_history(days: dict[str, list[dict[str, Any]]]) -> dict[str, Any]:
+    metric_names = ("read", "mention", "interaction", "original")
+    by_metric: dict[str, dict[str, dict[str, Any]]] = {
+        name: {} for name in metric_names
+    }
+    snapshot_count = 0
+    for date in sorted(days):
+        records = sorted(
+            days[date], key=lambda item: str(item.get("captured_at") or "")
+        )
+        for record in records:
+            snapshot_count += 1
+            series = record.get("24h") if isinstance(record.get("24h"), dict) else {}
+            for name in metric_names:
+                for point in series.get(name) or []:
+                    at = str(point.get("at") or "")
+                    if not at or not isinstance(point.get("value"), (int, float)):
+                        continue
+                    # Later snapshots replace incomplete values for the same hour.
+                    by_metric[name][at] = {
+                        "at": at,
+                        "label": str(point.get("label") or at),
+                        "value": point["value"],
+                    }
+    metrics = {
+        name: [points[at] for at in sorted(points)]
+        for name, points in by_metric.items()
+    }
+    timestamps = sorted({point["at"] for points in metrics.values() for point in points})
+    return {
+        "snapshot_count": snapshot_count,
+        "first_at": timestamps[0] if timestamps else None,
+        "last_at": timestamps[-1] if timestamps else None,
+        "metrics": metrics,
+    }
+
+
 def _post_files(topic_root: Path) -> dict[str, dict[str, Any]]:
     days: dict[str, dict[str, Any]] = {}
     for path in sorted((topic_root / "post-index").glob("*/*/*/*.json")):
@@ -289,6 +326,11 @@ def _export_topics(
             _write_json(output_topic_root / "snapshots" / f"{date}.json", records)
         for date, records in trends.items():
             _write_json(output_topic_root / "trends" / f"{date}.json", records)
+        if trends:
+            _write_json(
+                output_topic_root / "trends" / "history.json",
+                _trend_history(trends),
+            )
         for date, record in posts.items():
             _write_json(output_topic_root / "posts" / f"{date}.json", record)
 
