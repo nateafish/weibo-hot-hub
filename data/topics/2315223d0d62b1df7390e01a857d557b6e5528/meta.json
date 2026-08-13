@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1769216315
   },
-  "last_seen_at": "2026-08-13T19:00:00+08:00",
+  "last_seen_at": "2026-08-13T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%2390%E5%90%8E%E5%A5%B3%E5%AD%90%E7%88%B1%E7%94%9F%E9%97%B7%E6%B0%94%E4%B9%B3%E8%85%BA%E7%99%8C%E5%8E%BB%E4%B8%96%E4%B8%88%E5%A4%AB%E7%97%9B%E5%93%AD%23%26t%3D3&title=发布媒体",
-    "show_str": "61家媒体",
+    "show_str": "69家媒体",
     "users": [
       {
         "id": 1769216315,
         "idstr": "1769216315",
         "screen_name": "小莉帮忙",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -54,13 +61,6 @@
         "id": 1856446532,
         "idstr": "1856446532",
         "screen_name": "合新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1828887503,
-        "idstr": "1828887503",
-        "screen_name": "大河网",
         "verified": true,
         "verified_type": 3
       }
