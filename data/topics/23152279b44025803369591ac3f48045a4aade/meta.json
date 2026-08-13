@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1630423295
   },
-  "last_seen_at": "2026-08-13T23:00:00+08:00",
+  "last_seen_at": "2026-08-14T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%80%80%E4%BC%91236%E5%A4%A9%E5%A4%A7%E5%A7%90%E7%8A%B6%E6%80%81%E5%A4%A7%E5%8F%98%E6%A0%B7%23%26t%3D3&title=发布媒体",
-    "show_str": "35家媒体",
+    "show_str": "38家媒体",
     "users": [
       {
         "id": 1630423295,
@@ -26,6 +26,13 @@
         "id": 1725252714,
         "idstr": "1725252714",
         "screen_name": "温度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -51,16 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 6207911580,
-        "idstr": "6207911580",
-        "screen_name": "大河报豫视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5762891674,
-        "idstr": "5762891674",
-        "screen_name": "密度新闻",
+        "id": 6477929648,
+        "idstr": "6477929648",
+        "screen_name": "晶视频",
         "verified": true,
         "verified_type": 3
       }

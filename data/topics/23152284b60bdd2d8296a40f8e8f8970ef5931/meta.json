@@ -3,15 +3,29 @@
   "created_at": 1730200442,
   "first_seen_at": "2026-08-13T22:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-13T23:00:00+08:00",
+  "last_seen_at": "2026-08-14T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23Whiplash%E7%9B%B4%E6%8B%8D%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "8家媒体",
     "users": [
       {
         "id": 1727472420,
         "idstr": "1727472420",
         "screen_name": "泰山晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7708039348,
+        "idstr": "7708039348",
+        "screen_name": "北青娱见",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2356298087,
+        "idstr": "2356298087",
+        "screen_name": "河北经视",
         "verified": true,
         "verified_type": 3
       },
@@ -40,13 +54,6 @@
         "id": 1751714412,
         "idstr": "1751714412",
         "screen_name": "大皖新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1043320390,
-        "idstr": "1043320390",
-        "screen_name": "半岛晨报",
         "verified": true,
         "verified_type": 3
       }
