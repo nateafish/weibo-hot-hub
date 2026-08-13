@@ -11,6 +11,7 @@ on:
     - cron: "17 */6 * * *"
 
 permissions:
+  actions: write
   contents: write
 
 concurrency:
@@ -40,8 +41,10 @@ jobs:
         if: always()
         run: python -m weibo_hot_hub.readme_cli
       - name: Commit Cookie health state
+        id: commit_health
         if: always()
         run: |
+          echo "pushed=false" >> "$GITHUB_OUTPUT"
           if [ -n "$(git status --porcelain -- data/state/cookies.json README.md)" ]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -49,7 +52,16 @@ jobs:
             git commit -m "state: update Cookie health"
             git pull --rebase origin main
             git push
+            echo "pushed=true" >> "$GITHUB_OUTPUT"
           fi
+      - name: Deploy the new Cookie status to Pages
+        if: steps.commit_health.outputs.pushed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: >-
+          gh workflow run deploy-pages.yml
+          --repo "$GITHUB_REPOSITORY"
+          --ref main
       - name: Fail when a session is invalid
         if: steps.health.outcome != 'success'
         run: exit 1

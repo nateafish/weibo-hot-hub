@@ -1,9 +1,6 @@
 name: Deploy Static Frontend
 
 on:
-  workflow_run:
-    workflows: ["Hourly Archive"]
-    types: [completed]
   push:
     branches: [main]
     paths:
@@ -25,9 +22,6 @@ concurrency:
 
 jobs:
   deploy:
-    if: >-
-      github.event_name != 'workflow_run' ||
-      github.event.workflow_run.conclusion == 'success'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

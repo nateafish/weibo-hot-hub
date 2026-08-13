@@ -1,6 +1,8 @@
 name: Hourly Archive
 
 on:
+  schedule:
+    - cron: "8 * * * *"
   workflow_dispatch:
     inputs:
       pages:
@@ -18,6 +20,7 @@ on:
         default: false
 
 permissions:
+  actions: write
   contents: write
 
 concurrency:
@@ -72,8 +75,10 @@ jobs:
           python -m weibo_hot_hub.hourly --pages "$PAGES" --max-topics "$MAX_TOPICS"
           python -m weibo_hot_hub.readme_cli
       - name: Commit changed data
+        id: commit
         if: steps.archive-check.outputs.should_run == 'true'
         run: |
+          echo "pushed=false" >> "$GITHUB_OUTPUT"
           if [ -z "$(git status --porcelain -- data README.md)" ]; then
             echo "No hourly data changes"
             exit 0
@@ -98,3 +103,12 @@ jobs:
             exit 0
           fi
           git push
+          echo "pushed=true" >> "$GITHUB_OUTPUT"
+      - name: Deploy the new archive to Pages
+        if: steps.commit.outputs.pushed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: >-
+          gh workflow run deploy-pages.yml
+          --repo "$GITHUB_REPOSITORY"
+          --ref main
