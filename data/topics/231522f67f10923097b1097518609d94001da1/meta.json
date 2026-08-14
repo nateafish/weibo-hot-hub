@@ -10,15 +10,43 @@
     "status": 2,
     "uid": 1411163204
   },
-  "last_seen_at": "2026-08-14T14:00:00+08:00",
+  "last_seen_at": "2026-08-14T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%9D%A1%E7%9C%A0%E8%A6%81%E5%AE%88%E4%BD%8F4%E5%B0%8F%E6%97%B6%E4%BF%AE%E5%A4%8D%E9%BB%84%E9%87%91%E6%9C%9F%23%26t%3D3&title=发布媒体",
-    "show_str": "8家媒体",
+    "show_str": "32家媒体",
     "users": [
       {
         "id": 1411163204,
         "idstr": "1411163204",
         "screen_name": "人民日报健康客户端",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2087169013,
+        "idstr": "2087169013",
+        "screen_name": "法治日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1651428902,
+        "idstr": "1651428902",
+        "screen_name": "21世纪经济报道",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1774057271,
+        "idstr": "1774057271",
+        "screen_name": "生命时报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 6900707866,
-        "idstr": "6900707866",
-        "screen_name": "宜黄之窗",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5444842501,
-        "idstr": "5444842501",
-        "screen_name": "七台河新闻官博",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5426766895,
-        "idstr": "5426766895",
-        "screen_name": "青州广电",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3514732862,
-        "idstr": "3514732862",
-        "screen_name": "广西日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2569810605,
-        "idstr": "2569810605",
-        "screen_name": "中国通辽网",
+        "id": 6997073060,
+        "idstr": "6997073060",
+        "screen_name": "七一网",
         "verified": true,
         "verified_type": 3
       }

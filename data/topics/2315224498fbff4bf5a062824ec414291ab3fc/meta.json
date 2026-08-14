@@ -10,11 +10,40 @@
     "status": 2,
     "uid": 5953607186
   },
-  "last_seen_at": "2026-08-14T14:00:00+08:00",
+  "last_seen_at": "2026-08-14T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%87%8E%E7%94%9F%E7%8B%97%E5%A5%B6%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "4家媒体",
+    "users": [
+      {
+        "id": 2346437860,
+        "idstr": "2346437860",
+        "screen_name": "三峡融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2183542485,
+        "idstr": "2183542485",
+        "screen_name": "西安广播电视台",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1160746241,
+        "idstr": "1160746241",
+        "screen_name": "中国食品报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "野生狗奶",
   "search_url": "https://s.weibo.com/weibo?q=%23%E9%87%8E%E7%94%9F%E7%8B%97%E5%A5%B6%23",

@@ -3,11 +3,33 @@
   "created_at": 1786681340,
   "first_seen_at": "2026-08-14T14:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-14T14:00:00+08:00",
+  "last_seen_at": "2026-08-14T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%9B%BD%E4%B9%92+%E7%94%B7%E5%8D%9516%E5%BC%BA%E4%BB%85%E5%89%A92%E4%BA%BA%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "3家媒体",
+    "users": [
+      {
+        "id": 1898885525,
+        "idstr": "1898885525",
+        "screen_name": "生活报新街派",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1867427515,
+        "idstr": "1867427515",
+        "screen_name": "新派新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1496814565,
+        "idstr": "1496814565",
+        "screen_name": "封面新闻",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "国乒 男单16强仅剩2人",
   "search_url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%20%E7%94%B7%E5%8D%9516%E5%BC%BA%E4%BB%85%E5%89%A92%E4%BA%BA%23",
