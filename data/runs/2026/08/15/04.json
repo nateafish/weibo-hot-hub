@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-08-15T04:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 1,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#让思想之光照亮强军征程#",
+      "rank": 1,
+      "title": "让思想之光照亮强军征程",
+      "topic_id": "23152253f1a484632d039a6f622aacc01b45f6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#旺旺集团面临重大经营危机#",
+      "rank": 1,
+      "title": "旺旺集团面临重大经营危机",
+      "topic_id": "231522102f1a16aa0014ba211bd7feae0d4fd4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "Wenbo受伤",
+      "rank": 2,
+      "title": "Wenbo受伤",
+      "topic_id": "231522dcf598035598e8bff3cb1630874443de"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#中国汽车开放崛起之路#",
+      "rank": 3,
+      "title": "中国汽车开放崛起之路",
+      "topic_id": "231522c11ed301b8dc1ce87a5e4ef7ee249c50"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王传君体脂率25.5%#",
+      "rank": 4,
+      "title": "王传君体脂率25.5%",
+      "topic_id": "231522c734bc3ffff5b3608770fc38731f5b41"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "曾辉帮韩雨彤整理衣服",
+      "rank": 5,
+      "title": "曾辉帮韩雨彤整理衣服",
+      "topic_id": "231522b9b5f7711ac1f92bed6d77dc5631c9de"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "台风白海豚",
+      "rank": 6,
+      "title": "台风白海豚",
+      "topic_id": "2315220c77f0f8f695dd4ac1ed88f05798eed2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "慢性压力导致幻想沉溺",
+      "rank": 7,
+      "title": "慢性压力导致幻想沉溺",
+      "topic_id": "2315225c31568ef0030992d15bf2697f2f8204"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "喻言 压轴",
+      "rank": 8,
+      "title": "喻言 压轴",
+      "topic_id": "2315224f03bef795fd9b17dd9debb33c262cb5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "牛来",
+      "rank": 9,
+      "title": "牛来",
+      "topic_id": "231522cf5743a51032d5cb5c34e5e04b03d53f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "EWC 食物中毒",
+      "rank": 10,
+      "title": "EWC 食物中毒",
+      "topic_id": "231522260038a467b9232728cc5e5609b03d6c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "全民进入纯过日子时代",
+      "rank": 11,
+      "title": "全民进入纯过日子时代",
+      "topic_id": "2315226c54b5bbe9740807f0b38045fb94f73b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#曾辉扛住了内娱镜头#",
+      "rank": 12,
+      "title": "曾辉扛住了内娱镜头",
+      "topic_id": "23152243f4bd1339c2fb6f1597cff9c23e7596"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#旺旺都不好卖了#",
+      "rank": 13,
+      "title": "旺旺都不好卖了",
+      "topic_id": "231522326eda18a615074dcfc1efb486e2ae39"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#中央汇金证金公司集体清仓贵州茅台#",
+      "rank": 14,
+      "title": "中央汇金证金公司集体清仓贵州茅台",
+      "topic_id": "231522125403a79288213d8c8eeb1f3b60b5ae"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王橹杰疑似耳返漏电#",
+      "rank": 15,
+      "title": "王橹杰疑似耳返漏电",
+      "topic_id": "231522ac18d55e74f000fa306129d325eeb124"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "明天起禁用这类塑料制品",
+      "rank": 16,
+      "title": "明天起禁用这类塑料制品",
+      "topic_id": "23152294e62cad86dc040c10e5de098bd4631b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "披哥最累的是沈梦辰",
+      "rank": 17,
+      "title": "披哥最累的是沈梦辰",
+      "topic_id": "2315228881acf82bf345742fc2ef840f53c34b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张桂源回应拔河摔倒#",
+      "rank": 18,
+      "title": "张桂源回应拔河摔倒",
+      "topic_id": "231522c3927b6f966cc2b1e9e1f732ef5015bc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#文黛黛假死#",
+      "rank": 19,
+      "title": "文黛黛假死",
+      "topic_id": "2315225f5320a3ca27e406c205ec978d22bbc9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "恋与深空 敷衍",
+      "rank": 20,
+      "title": "恋与深空 敷衍",
+      "topic_id": "2315223c9efdf67f0a2fd9fbb26400c5aa4a2a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "张雅琪 湖南卫视下场",
+      "rank": 21,
+      "title": "张雅琪 湖南卫视下场",
+      "topic_id": "231522ce2ce7f6055a30de5dd514125580b7a0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#44岁男子脑梗无法进食被一根冰棍救了#",
+      "rank": 22,
+      "title": "44岁男子脑梗无法进食被一根冰棍救了",
+      "topic_id": "231522aee363d01879226de5250d561b7450b6"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#女子称自己月经持续来了8年#",
+      "rank": 23,
+      "title": "女子称自己月经持续来了8年",
+      "topic_id": "231522eed490093e4f735d5968d383732aecdf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "命好的人本质是主体性强",
+      "rank": 24,
+      "title": "命好的人本质是主体性强",
+      "topic_id": "231522ca6b80061b96349c8b1367b91b62e20a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "时代少年团MV出道战镜头",
+      "rank": 25,
+      "title": "时代少年团MV出道战镜头",
+      "topic_id": "231522137bf0f9430913153322a36041b9d95b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "胖东来房东逻辑",
+      "rank": 26,
+      "title": "胖东来房东逻辑",
+      "topic_id": "23152266680fb700cb653d402045df5af9504c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "幸福其实很简单",
+      "rank": 27,
+      "title": "幸福其实很简单",
+      "topic_id": "231522e19e504b65549995d2914af6d62e7750"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#陈思罕被摄像机撞到头#",
+      "rank": 28,
+      "title": "陈思罕被摄像机撞到头",
+      "topic_id": "231522b1267cad436d9c229068fc92b4f33217"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "陈丽君魏哲鸣 祝姑娘",
+      "rank": 29,
+      "title": "陈丽君魏哲鸣 祝姑娘",
+      "topic_id": "23152262a548584f4caef7a1c76a818bda336a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#沈梦辰漂亮裙子配丑鞋#",
+      "rank": 30,
+      "title": "沈梦辰漂亮裙子配丑鞋",
+      "topic_id": "2315221d6c02ac6646eb7b2ef47c0bb1e56744"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#山东童年零食杀疯了#",
+      "rank": 31,
+      "title": "山东童年零食杀疯了",
+      "topic_id": "2315223021509e715343b2056569263173f166"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#披荆斩棘官宣马旭东#",
+      "rank": 32,
+      "title": "披荆斩棘官宣马旭东",
+      "topic_id": "231522a41ea605f115d747b2c78e9d13375486"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#欢子情商#",
+      "rank": 33,
+      "title": "欢子情商",
+      "topic_id": "2315225d901f5adcdb88abad237eafa13d8dfb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "一定要远离给你搅局的人",
+      "rank": 34,
+      "title": "一定要远离给你搅局的人",
+      "topic_id": "231522bc81f774a71da13e8c170d2890bf080f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#林诗栋2比3A勒布伦#",
+      "rank": 35,
+      "title": "林诗栋2比3A勒布伦",
+      "topic_id": "23152225f1c66f6ae135714e19656d8949a289"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#国乒男单6人仅剩周启豪#",
+      "rank": 36,
+      "title": "国乒男单6人仅剩周启豪",
+      "topic_id": "2315223fd8e32bcc23944a468d125e1d6877a1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "公司该缴的社保 个人承担",
+      "rank": 37,
+      "title": "公司该缴的社保 个人承担",
+      "topic_id": "2315223560c667d58ff7032885d2e5046b1357"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#日本投降81周年#",
+      "rank": 38,
+      "title": "日本投降81周年",
+      "topic_id": "231522223b216a9d6fadc4e6870f9546c54f47"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#刘昊然为王传君拼了#",
+      "rank": 39,
+      "title": "刘昊然为王传君拼了",
+      "topic_id": "23152234d07fad3f58f3a0666bcd676e3baebb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "青风吹又生 改妆",
+      "rank": 40,
+      "title": "青风吹又生 改妆",
+      "topic_id": "2315229673331a4f99e8bd5fd0d6d38ed807e5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "皇阿玛披哥送考五阿哥",
+      "rank": 41,
+      "title": "皇阿玛披哥送考五阿哥",
+      "topic_id": "231522f61a6a9ab825efed4029ea720206c772"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王橹杰陈思罕合唱黑苹果#",
+      "rank": 42,
+      "title": "王橹杰陈思罕合唱黑苹果",
+      "topic_id": "23152261049d2084ecdb426488482d88fe3948"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#税务部门回应社保实缴问题#",
+      "rank": 43,
+      "title": "税务部门回应社保实缴问题",
+      "topic_id": "231522ffdde4a059886b88c17c0e95c9b88a87"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "陈伯直播",
+      "rank": 44,
+      "title": "陈伯直播",
+      "topic_id": "231522f13b5ef3d7ab10c46c90c5dd2b13e9ca"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#日本暴雨中国游客无奈地铁站过夜#",
+      "rank": 45,
+      "title": "日本暴雨中国游客无奈地铁站过夜",
+      "topic_id": "231522c64673b9336196d5755ce7ba7f84c3dd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#网文作者假死复活疑与提现有关#",
+      "rank": 46,
+      "title": "网文作者假死复活疑与提现有关",
+      "topic_id": "2315224e91d4827de846f200491e9c30c9de08"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "湖州暴雨",
+      "rank": 47,
+      "title": "湖州暴雨",
+      "topic_id": "231522c4e2301104f105b070a9e51c6c736cff"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "张桂源腹肌",
+      "rank": 48,
+      "title": "张桂源腹肌",
+      "topic_id": "2315223dea41d7de34a03c80dadd5993aa65b5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张雅琪发12宫格#",
+      "rank": 49,
+      "title": "张雅琪发12宫格",
+      "topic_id": "23152272c7857ed3eab99a1695d132506cbbd5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#刘畊宏带全场哥哥跳操#",
+      "rank": 50,
+      "title": "刘畊宏带全场哥哥跳操",
+      "topic_id": "231522e863df8d6e1537447616f9ce3d59cadd"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
