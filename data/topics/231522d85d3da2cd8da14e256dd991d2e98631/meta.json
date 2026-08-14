@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 2286908003
   },
-  "last_seen_at": "2026-08-14T21:00:00+08:00",
+  "last_seen_at": "2026-08-14T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%89%8D7%E6%9C%88%E6%88%91%E5%9B%BD%E9%82%AE%E6%94%BF%E5%AF%84%E9%80%92%E9%87%8F%E8%B6%851200%E4%BA%BF%E4%BB%B6%23%26t%3D3&title=发布媒体",
-    "show_str": "11家媒体",
+    "show_str": "17家媒体",
     "users": [
       {
         "id": 2286908003,
         "idstr": "2286908003",
         "screen_name": "人民网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1725252714,
+        "idstr": "1725252714",
+        "screen_name": "温度新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2683684161,
-        "idstr": "2683684161",
-        "screen_name": "亳州晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2377587254,
-        "idstr": "2377587254",
-        "screen_name": "中国网财经",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2010802407,
-        "idstr": "2010802407",
-        "screen_name": "中国台州网",
+        "id": 3645266160,
+        "idstr": "3645266160",
+        "screen_name": "巴音郭楞融媒",
         "verified": true,
         "verified_type": 3
       }
