@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 7516679696
   },
-  "last_seen_at": "2026-08-14T20:00:00+08:00",
+  "last_seen_at": "2026-08-14T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%2334%E5%B2%81%E5%A5%B3%E5%AD%90%E8%82%BE%E8%A1%B0%E9%80%8F%E6%9E%908%E5%B9%B4%E6%84%8F%E5%A4%96%E6%80%80%E5%AD%95%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "13家媒体",
     "users": [
       {
         "id": 7516679696,
         "idstr": "7516679696",
         "screen_name": "九派新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -37,23 +44,23 @@
         "verified_type": 3
       },
       {
-        "id": 1912416573,
-        "idstr": "1912416573",
-        "screen_name": "河南手机报",
+        "id": 2921799343,
+        "idstr": "2921799343",
+        "screen_name": "天下泉城",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1767961804,
-        "idstr": "1767961804",
-        "screen_name": "大江新闻",
+        "id": 2188202475,
+        "idstr": "2188202475",
+        "screen_name": "南京晨报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1043320390,
-        "idstr": "1043320390",
-        "screen_name": "半岛晨报",
+        "id": 1924558143,
+        "idstr": "1924558143",
+        "screen_name": "大参考",
         "verified": true,
         "verified_type": 3
       }

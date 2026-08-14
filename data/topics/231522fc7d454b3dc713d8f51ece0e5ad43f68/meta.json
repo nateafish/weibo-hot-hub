@@ -3,15 +3,36 @@
   "created_at": "1368699957",
   "first_seen_at": "2026-08-14T20:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-14T20:00:00+08:00",
+  "last_seen_at": "2026-08-14T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%97%A0%E9%94%A1%E6%9A%B4%E9%9B%A8%23%26t%3D3&title=发布媒体",
-    "show_str": "13家媒体",
+    "show_str": "51家媒体",
     "users": [
       {
         "id": 1895719873,
         "idstr": "1895719873",
         "screen_name": "无锡日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1682207150,
+        "idstr": "1682207150",
+        "screen_name": "南方日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1667942985,
+        "idstr": "1667942985",
+        "screen_name": "长三角之声",
         "verified": true,
         "verified_type": 3
       },
@@ -23,37 +44,16 @@
         "verified_type": 3
       },
       {
-        "id": 6294758863,
-        "idstr": "6294758863",
-        "screen_name": "紫牛新闻",
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 5200047156,
-        "idstr": "5200047156",
-        "screen_name": "扬子晚报泰州频道",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2744190984,
-        "idstr": "2744190984",
-        "screen_name": "家长大学堂",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2576743032,
-        "idstr": "2576743032",
-        "screen_name": "扬子壹财经",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2056346650,
-        "idstr": "2056346650",
-        "screen_name": "中国江苏网",
+        "id": 7741144531,
+        "idstr": "7741144531",
+        "screen_name": "荔枝健康",
         "verified": true,
         "verified_type": 3
       }
