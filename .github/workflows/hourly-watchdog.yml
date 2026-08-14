@@ -39,6 +39,15 @@ jobs:
             exit 0
           fi
 
+          cutoff="$(date -u -d '2 hours ago' +'%Y-%m-%dT%H:%M:%SZ')"
+          failed_recent=$(gh api \
+            "repos/$GITHUB_REPOSITORY/actions/workflows/hourly.yml/runs?per_page=20" \
+            --jq "[.workflow_runs[] | select(.created_at >= \"$cutoff\") | select(.conclusion == \"failure\")] | length")
+          if [ "$failed_recent" -ge 2 ]; then
+            echo "Hourly Archive failed $failed_recent times in the last 2 hours; backing off"
+            exit 0
+          fi
+
           echo "Current hour is missing; dispatching Hourly Archive"
           gh workflow run hourly.yml \
             --repo "$GITHUB_REPOSITORY" \

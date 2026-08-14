@@ -1,0 +1,55 @@
+name: Off-list Trend Watch
+
+on:
+  schedule:
+    # Offset from the hourly archive (:08) so the two writers do not race.
+    - cron: "20,50 * * * *"
+  workflow_dispatch:
+
+permissions:
+  actions: write
+  contents: write
+
+concurrency:
+  group: weibo-data-writer
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install .
+      - name: Collect off-list topic trends
+        run: python -m weibo_hot_hub.trend_watch_cli
+      - name: Commit trend data
+        id: commit
+        run: |
+          echo "pushed=false" >> "$GITHUB_OUTPUT"
+          if [ -z "$(git status --porcelain -- data)" ]; then
+            echo "No off-list trend changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git commit -m "data: update off-list topic trends"
+          git fetch origin main
+          git rebase origin/main
+          git push
+          echo "pushed=true" >> "$GITHUB_OUTPUT"
+      - name: Deploy updated trend archive
+        if: steps.commit.outputs.pushed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: >-
+          gh workflow run deploy-pages.yml
+          --repo "$GITHUB_REPOSITORY"
+          --ref main
