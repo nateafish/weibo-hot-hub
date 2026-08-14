@@ -1,0 +1,9 @@
+{
+  "captured_at": "2026-08-14T01:00:00+08:00",
+  "status": "failed",
+  "failure_reason": "Weibo rate-limited the account (418/429/432); the hourly archive could not complete and the previous validation blocked committing a degraded hour",
+  "hotlist_count": 0,
+  "selected_count": 0,
+  "summary": {},
+  "validation": {"failed": ["rate-limited"], "rates": {}}
+}
