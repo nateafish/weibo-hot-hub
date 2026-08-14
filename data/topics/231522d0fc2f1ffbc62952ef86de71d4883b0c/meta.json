@@ -3,15 +3,22 @@
   "created_at": 1581094129,
   "first_seen_at": "2026-08-14T15:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-14T15:00:00+08:00",
+  "last_seen_at": "2026-08-14T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23TOP%E7%9B%B4%E6%92%AD%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "3家媒体",
     "users": [
       {
         "id": 7422806367,
         "idstr": "7422806367",
         "screen_name": "中网传播",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1912416573,
+        "idstr": "1912416573",
+        "screen_name": "河南手机报",
         "verified": true,
         "verified_type": 3
       },
