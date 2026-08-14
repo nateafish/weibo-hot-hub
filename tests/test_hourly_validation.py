@@ -1,7 +1,6 @@
 import pytest
 
 from weibo_hot_hub.hourly import (
-    HourlyValidationError,
     collect_post_pages,
     validate_report,
 )
@@ -22,12 +21,42 @@ def report(posts: int) -> dict:
 
 
 def test_hourly_validation_accepts_healthy_run() -> None:
-    validate_report(report(10))
+    assert validate_report(report(10)) == []
 
 
-def test_hourly_validation_rejects_missing_posts() -> None:
-    with pytest.raises(HourlyValidationError, match="posts=0%"):
-        validate_report(report(0))
+def test_hourly_validation_reports_degraded_rates() -> None:
+    assert validate_report(report(0)) == ["posts=0%"]
+
+
+def test_hourly_validation_reports_multiple_degraded_rates() -> None:
+    issues = validate_report(
+        {
+            "selected_count": 10,
+            "summary": {
+                "metrics_saved": 5,
+                "posts_saved": 2,
+                "ai_saved": 0,
+                "ai_unchanged": 0,
+                "ai_refused": 0,
+            },
+        }
+    )
+    assert issues == ["metrics=50%", "posts=20%", "ai=0%"]
+
+
+def test_hourly_validation_never_raises_for_low_rates() -> None:
+    validate_report(
+        {
+            "selected_count": 1,
+            "summary": {
+                "metrics_saved": 0,
+                "posts_saved": 0,
+                "ai_saved": 0,
+                "ai_unchanged": 0,
+                "ai_refused": 0,
+            },
+        }
+    )
 
 
 def test_hourly_posts_switch_to_pc_after_mobile_403(monkeypatch) -> None:

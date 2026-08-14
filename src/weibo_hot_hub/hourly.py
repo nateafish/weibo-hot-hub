@@ -15,7 +15,7 @@ from .storage import (
     save_topic_bundle,
 )
 from .topic import fetch_topic_bundle, topic_client
-from .trend_watch import collect_offlist_trends
+from .trend_watch import is_rate_limit_error
 from .weibo import (
     ParseError,
     ai_search_url,
@@ -39,10 +39,16 @@ def _error(exc: Exception) -> str:
     return f"{type(exc).__name__}: {exc}"[:500]
 
 
-def validate_report(report: dict[str, Any]) -> None:
+def validate_report(report: dict[str, Any]) -> list[str]:
+    """Return the list of degraded success rates; an empty list is healthy.
+
+    The return value is informational: a degraded run still commits its raw
+    hotlist and whatever enrichment succeeded, so metric anomalies can no
+    longer cause a whole hour to disappear.
+    """
     selected = int(report.get("selected_count") or 0)
     if selected <= 0:
-        raise HourlyValidationError("hourly run selected no topics")
+        return ["hourly run selected no topics"]
     summary = report.get("summary") or {}
     rates = {
         "metrics": int(summary.get("metrics_saved") or 0) / selected,
@@ -54,10 +60,11 @@ def validate_report(report: dict[str, Any]) -> None:
         / selected,
     }
     minimums = {"metrics": 0.7, "posts": 0.7, "ai": 0.5}
-    failed = [name for name, rate in rates.items() if rate < minimums[name]]
-    if failed:
-        detail = ", ".join(f"{name}={rates[name]:.0%}" for name in failed)
-        raise HourlyValidationError(f"hourly success-rate validation failed: {detail}")
+    return [
+        f"{name}={rates[name]:.0%}"
+        for name, rate in rates.items()
+        if rate < minimums[name]
+    ]
 
 
 def collect_post_pages(
@@ -95,7 +102,6 @@ def run_hourly(data_root: Path, pages: int = 1, max_topics: int = 0) -> dict[str
         "pages_per_topic": pages,
         "topic_delay_seconds": {"base": 1.5, "jitter": 0.5},
         "topics": [],
-        "offlist_trends": [],
     }
 
     with hotlist_client(pc_cookie) as pc_http:
@@ -137,6 +143,11 @@ def run_hourly(data_root: Path, pages: int = 1, max_topics: int = 0) -> dict[str
                 item["metrics"] = "failed"
                 item["metrics_error"] = _error(exc)
                 report["topics"].append(item)
+                if is_rate_limit_error(str(exc)):
+                    # Stop hammering a throttled account; the raw hotlist is
+                    # already saved and will still be committed this run.
+                    item["circuit_breaker"] = "rate_limit"
+                    break
                 if index + 1 < len(selected):
                     _sleep_with_jitter(1.5, 0.5)
                 continue
@@ -173,27 +184,26 @@ def run_hourly(data_root: Path, pages: int = 1, max_topics: int = 0) -> dict[str
             if index + 1 < len(selected):
                 _sleep_with_jitter(1.5, 0.5)
 
-        report["offlist_trends"] = collect_offlist_trends(
-            public_http,
-            data_root,
-            captured_at,
-            {topic.query for topic in hot_topics},
-        )
-
     report["summary"] = {
         "metrics_saved": sum(item["metrics"] == "saved" for item in report["topics"]),
         "posts_saved": sum(item["posts"] == "saved" for item in report["topics"]),
         "ai_saved": sum(item["ai"] == "saved" for item in report["topics"]),
         "ai_unchanged": sum(item["ai"] == "unchanged" for item in report["topics"]),
         "ai_refused": sum(item["ai"] == "refused" for item in report["topics"]),
-        "offlist_selected": len(report["offlist_trends"]),
-        "offlist_saved": sum(
-            item["metrics"] == "saved" for item in report["offlist_trends"]
-        ),
-        "offlist_stopped": sum(
-            item.get("metrics") == "saved" and not item.get("has_heat")
-            for item in report["offlist_trends"]
-        ),
+    }
+    issues = validate_report(report)
+    report["status"] = "ok" if not issues else "degraded"
+    report["validation"] = {
+        "failed": issues,
+        "rates": {
+            "metrics": int(report["summary"]["metrics_saved"]) / len(selected),
+            "posts": int(report["summary"]["posts_saved"]) / len(selected),
+            "ai": sum(
+                int(report["summary"].get(key) or 0)
+                for key in ("ai_saved", "ai_unchanged", "ai_refused")
+            )
+            / len(selected),
+        },
     }
     report_path = (
         data_root
@@ -204,7 +214,6 @@ def run_hourly(data_root: Path, pages: int = 1, max_topics: int = 0) -> dict[str
         / f"{captured_at:%H}.json"
     )
     atomic_json(report_path, report)
-    validate_report(report)
     return report
 
 
@@ -220,6 +229,8 @@ def main() -> None:
         parser.error("--max-topics cannot be negative")
     report = run_hourly(args.data_root, args.pages, args.max_topics)
     print(report["summary"])
+    if report["validation"]["failed"]:
+        print("validation degraded: " + ", ".join(report["validation"]["failed"]))
 
 
 if __name__ == "__main__":

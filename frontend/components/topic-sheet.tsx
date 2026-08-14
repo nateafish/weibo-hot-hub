@@ -46,7 +46,8 @@ export function TopicSheet({ selected, onClose }: { selected: TopicSelection | n
   }, [selected]);
 
   const sparkData = useMemo(() => {
-    const series = trend?.["1h"]?.read || [];
+    // 1h series is no longer collected; fall back to the 24h curve.
+    const series = trend?.["1h"]?.read || trend?.["24h"]?.read || [];
     return series.map((point) => ({ label: point.label, value: point.value }));
   }, [trend]);
   const snapshot = summary?.latest_snapshot;

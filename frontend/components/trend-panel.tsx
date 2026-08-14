@@ -71,7 +71,9 @@ export function TrendPanel({ summary }: { summary: TopicSummary }) {
   const [records, setRecords] = useState<TrendRecord[]>([]);
   const [history, setHistory] = useState<TrendHistory | null>(null);
   const [capture, setCapture] = useState(0);
-  const [period, setPeriod] = useState<"1h" | "24h">("1h");
+  // The 1h series is no longer collected (dropped to save requests), so the
+  // 24h curve is the default view.
+  const [period, setPeriod] = useState<"1h" | "24h">("24h");
   const [historyPeriod, setHistoryPeriod] = useState<"72h" | "168h" | "all">("72h");
   const [error, setError] = useState("");
   const [historyError, setHistoryError] = useState("");

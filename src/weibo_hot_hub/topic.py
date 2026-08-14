@@ -7,6 +7,8 @@ from urllib.parse import quote
 
 import httpx
 
+from .weibo import _sleep_with_jitter
+
 
 TOPIC_HOST = "https://m.s.weibo.com"
 
@@ -86,25 +88,24 @@ def fetch_topic_bundle(
         topic,
         {"q": query, "show_rank_info": "1"},
     )
-    trend_1h = _get(
-        http,
-        "/ajax_topic/trend",
-        topic,
-        {"q": query, "version": "v1", "time": "6m"},
-    )
+    # The 6m/1h trend endpoint overlaps with the 24h window and was dropped to
+    # keep the per-topic request count low; a short jittered pause keeps the
+    # three remaining requests from arriving as an identical burst.
+    _sleep_with_jitter(0.4, 0.2)
     trend_24h = _get(
         http,
         "/ajax_topic/trend",
         topic,
         {"q": query, "version": "v1", "time": "24h"},
     )
+    _sleep_with_jitter(0.4, 0.2)
     level = _get(
         http,
         "/ajax_topic/level",
         topic,
         {"q": _topic_without_hashes(topic)},
     )
-    return normalize_topic_bundle(detail, trend_1h, trend_24h, level, captured_at)
+    return normalize_topic_bundle(detail, {}, trend_24h, level, captured_at)
 
 
 def fetch_topic_trends(
