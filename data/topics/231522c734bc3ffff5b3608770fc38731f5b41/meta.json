@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 6418914145
   },
-  "last_seen_at": "2026-08-15T06:00:00+08:00",
+  "last_seen_at": "2026-08-15T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%8E%8B%E4%BC%A0%E5%90%9B%E4%BD%93%E8%84%82%E7%8E%8725.5%25%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "7家媒体",
     "users": [
+      {
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1878335471,
         "idstr": "1878335471",
@@ -23,9 +30,23 @@
         "verified_type": 3
       },
       {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1727472420,
         "idstr": "1727472420",
         "screen_name": "泰山晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1677991972,
+        "idstr": "1677991972",
+        "screen_name": "晶报",
         "verified": true,
         "verified_type": 3
       },

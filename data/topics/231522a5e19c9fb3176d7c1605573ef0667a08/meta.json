@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1878335471
   },
-  "last_seen_at": "2026-08-15T06:00:00+08:00",
+  "last_seen_at": "2026-08-15T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%88%BF%E4%B8%BB%E4%BB%BB%E5%A5%B3%E5%84%BF%E5%8F%91%E5%A3%B0%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "2家媒体",
     "users": [
       {
         "id": 1878335471,
         "idstr": "1878335471",
         "screen_name": "新浪综艺",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
         "verified": true,
         "verified_type": 3
       }
