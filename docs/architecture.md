@@ -24,13 +24,25 @@ The hourly workflow runs as one sequential data writer:
 
 1. Fetch the full hotlist.
 2. Resolve each title to a stable topic ID through the public topic detail endpoint.
-3. Save overview, host, category, rank history, contributors, and 1-hour/24-hour trends.
+3. Save overview, host, category, rank history, contributors, and 24-hour trends. (The 6m/1h trend endpoint is intentionally not used; it overlaps the 24-hour window and cost one extra request per topic.)
 4. Fetch the first mobile keyword-search page in the hourly job; manual runs may request 1–10 pages. Fetch a detail page only when `isLongText` is true.
 5. Store each post body once by `mid`; store hourly page order separately.
 6. Fetch the AI answer; discard refusal responses and save Markdown only when normalized content changes.
 7. Save a run report and commit all changes once.
 
+Validation is informational, not blocking: success-rate thresholds are written to `runs/…/HH.json` under `validation` with `status: ok|degraded`, and the run still commits whatever was captured (at minimum the raw hotlist). A run only hard-fails when the hotlist itself or the login check fails. The watchdog therefore stops re-dispatching a degraded hour once its run record is committed.
+
 All topic work is sequential to avoid concurrent requests from the same account. The workflow uses a global data-writer concurrency group so scheduled and manual archive jobs cannot push simultaneously.
+
+## Off-list trend watch
+
+Off-list (off-the-hotlist) topic trends are collected by a separate scheduled workflow (`trend-watch.yml`, :20 and :50 past the hour) instead of the hourly archive, so metric anomalies on the main list can never stall the core hour again. Each run is capped (`MAX_OFFLIST_PER_RUN = 100`) and picks the oldest-captured topics first; a 418/429/432 response opens the circuit breaker and stops the run immediately.
+
+A topic counts as having heat only while one of its most recent three trend points is at or above `HEAT_THRESHOLD = 10_000` (per-bucket read increments; the lowest currently-listed topic sits around 24K, so 10K keeps a margin while pruning topics that have gone quiet). Trend records older than 25 hours are never used to drop a topic — a stale record only means collection has been failing.
+
+## Run records
+
+`runs/…/HH.json` carries `status: ok | degraded | failed`. A failed record is written when a whole hour could not be captured (e.g. an account-level rate limit); it exists so the archive documents the gap instead of silently missing it, and so the watchdog treats the hour as handled.
 
 ## Data layout
 
@@ -38,6 +50,7 @@ All topic work is sequential to avoid concurrent requests from the same account.
 data/
   hotlists/YYYY/MM/DD/HH.json
   runs/YYYY/MM/DD/HH.json
+  trend-watch-runs/YYYY/MM/DD/HH.json
   state/cookies.json
   topics/<stable-topic-id>/
     meta.json
