@@ -3,15 +3,22 @@
   "created_at": 1786665520,
   "first_seen_at": "2026-08-14T10:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-14T10:00:00+08:00",
+  "last_seen_at": "2026-08-14T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A5%B9%E7%9A%84%E6%96%87%E5%AD%A6%E5%8A%9F%E5%BA%95%E6%81%90%E6%80%95%E5%9C%A8%E6%88%91%E4%B9%8B%E4%B8%8A%23%26t%3D3&title=发布媒体",
-    "show_str": "21家媒体",
+    "show_str": "25家媒体",
     "users": [
       {
         "id": 2337985010,
         "idstr": "2337985010",
         "screen_name": "瑞安融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
         "verified": true,
         "verified_type": 3
       },
@@ -44,16 +51,9 @@
         "verified_type": 3
       },
       {
-        "id": 3165101432,
-        "idstr": "3165101432",
-        "screen_name": "广元日报看广元",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2595230622,
-        "idstr": "2595230622",
-        "screen_name": "漳州新闻网",
+        "id": 3204782330,
+        "idstr": "3204782330",
+        "screen_name": "海南日报",
         "verified": true,
         "verified_type": 3
       }
