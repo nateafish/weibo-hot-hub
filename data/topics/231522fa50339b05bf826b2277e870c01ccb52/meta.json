@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 1699432410
   },
-  "last_seen_at": "2026-08-14T16:00:00+08:00",
+  "last_seen_at": "2026-08-14T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%B2%B9%E4%BB%B715%E6%97%A5%E8%B5%B7%E4%B8%8B%E8%B0%83%23%26t%3D3&title=发布媒体",
-    "show_str": "38家媒体",
+    "show_str": "50家媒体",
     "users": [
       {
         "id": 1699432410,
         "idstr": "1699432410",
         "screen_name": "新华社",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6715513747,
+        "idstr": "6715513747",
+        "screen_name": "宁县融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 2618638282,
         "idstr": "2618638282",
         "screen_name": "湖南日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1791298665,
-        "idstr": "1791298665",
-        "screen_name": "奔流新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1683472727,
-        "idstr": "1683472727",
-        "screen_name": "央广网",
         "verified": true,
         "verified_type": 3
       }

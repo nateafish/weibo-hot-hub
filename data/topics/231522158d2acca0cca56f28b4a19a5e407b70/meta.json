@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 6470919752
   },
-  "last_seen_at": "2026-08-14T16:00:00+08:00",
+  "last_seen_at": "2026-08-14T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%B0%A2%E9%9C%86%E9%94%8B%E8%AE%A4%E4%B8%BA%E7%B3%96%E6%8B%8C%E8%A5%BF%E7%BA%A2%E6%9F%BF%E4%B8%8D%E8%83%BD%E6%8B%BF%E6%9D%A5%E6%AF%94%E8%B5%9B%23%26t%3D3&title=发布媒体",
-    "show_str": "38家媒体",
+    "show_str": "42家媒体",
     "users": [
       {
         "id": 2647971081,
         "idstr": "2647971081",
         "screen_name": "时速新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,6 +37,20 @@
         "verified_type": 3
       },
       {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1288429914,
         "idstr": "1288429914",
         "screen_name": "今视频长天新闻",
@@ -37,30 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1845864154,
-        "idstr": "1845864154",
-        "screen_name": "看看新闻Knews",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7590570074,
-        "idstr": "7590570074",
-        "screen_name": "山海视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6524697383,
-        "idstr": "6524697383",
-        "screen_name": "四川观察在现场",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6524697382,
-        "idstr": "6524697382",
-        "screen_name": "四川观察新闻眼",
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
         "verified": true,
         "verified_type": 3
       }
