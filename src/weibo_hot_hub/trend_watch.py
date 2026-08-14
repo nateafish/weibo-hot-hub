@@ -13,6 +13,21 @@ from .topic import fetch_topic_trends
 from .weibo import _sleep_with_jitter
 
 
+# A topic counts as having heat only while one of its most recent trend
+# points is at or above this value (per-bucket read increments). Below it the
+# topic is considered off the map and stops being collected after
+# RECENT_POINTS consecutive quiet buckets.
+HEAT_THRESHOLD = 10_000
+# How many of the most recent trend points are examined for the heat check.
+RECENT_POINTS = 3
+# Trend records older than this are never used to drop a topic; a stale
+# record only means the topic could not be collected recently, not that it
+# went cold.
+MAX_RECORD_AGE = timedelta(hours=25)
+# Hard cap on how many off-list topics a single run collects, oldest first.
+MAX_OFFLIST_PER_RUN = 100
+
+
 @dataclass(frozen=True)
 class TrendWatchCandidate:
     topic_id: str
@@ -64,26 +79,41 @@ def latest_trend_record(topic_root: Path) -> dict[str, Any]:
     return {}
 
 
-def trend_has_heat(record: dict[str, Any]) -> bool:
-    """A topic is active while any bucket in its complete 24-hour window is non-zero."""
+def recent_heat_values(
+    record: dict[str, Any],
+    recent: int = RECENT_POINTS,
+) -> list[float]:
+    """Numeric values of the most recent trend points across all series."""
+    values: list[float] = []
     for points in (record.get("24h") or {}).values():
-        for point in points if isinstance(points, list) else []:
-            if not isinstance(point, dict):
-                continue
+        if not isinstance(points, list):
+            continue
+        for point in [p for p in points if isinstance(p, dict)][-recent:]:
             try:
-                if float(str(point.get("value") or 0).replace(",", "")) > 0:
-                    return True
+                values.append(float(str(point.get("value") or 0).replace(",", "")))
             except ValueError:
                 continue
-    return False
+    return values
+
+
+def trend_has_heat(
+    record: dict[str, Any],
+    threshold: float = HEAT_THRESHOLD,
+) -> bool:
+    """A topic is active while any of its most recent trend points is at or
+    above the threshold; the whole 24-hour window is no longer considered,
+    so quiet topics stop being collected a few hours after they go cold."""
+    return any(value >= threshold for value in recent_heat_values(record))
 
 
 def select_offlist_topics(
     data_root: Path,
     captured_at: datetime,
     current_queries: set[str],
+    max_topics: int = MAX_OFFLIST_PER_RUN,
 ) -> list[TrendWatchCandidate]:
-    """Select due off-list topics: hourly for seven days, then once per day."""
+    """Select due off-list topics: hourly for seven days, then once per day,
+    capped per run and ordered by oldest capture first."""
     selected: list[tuple[datetime, TrendWatchCandidate]] = []
     current = {normalized_query(query) for query in current_queries}
     for meta_path in (data_root / "topics").glob("*/meta.json"):
@@ -98,13 +128,20 @@ def select_offlist_topics(
             continue
 
         latest = latest_trend_record(meta_path.parent)
-        if not latest or not trend_has_heat(latest):
+        if not latest:
             continue
         last_capture = _parse_datetime(latest.get("captured_at")) or _parse_datetime(
             latest.get("capture_hour")
         )
         if not last_capture:
             continue
+
+        # A stale record only means collection has been failing; never drop a
+        # topic on stale data. The heat decision is re-made on fresh data
+        # inside collect_offlist_trends.
+        if captured_at - last_capture.astimezone(captured_at.tzinfo) <= MAX_RECORD_AGE:
+            if not trend_has_heat(latest):
+                continue
 
         age = captured_at - last_listed_at.astimezone(captured_at.tzinfo)
         if age <= timedelta(days=7):
@@ -117,7 +154,8 @@ def select_offlist_topics(
             candidate = TrendWatchCandidate(topic_id, title, query, last_listed_at, cadence)
             selected.append((last_capture, candidate))
 
-    return [candidate for _, candidate in sorted(selected, key=lambda item: item[0])]
+    ordered = sorted(selected, key=lambda item: item[0])
+    return [candidate for _, candidate in ordered[:max_topics]]
 
 
 def collect_offlist_trends(
@@ -125,8 +163,11 @@ def collect_offlist_trends(
     data_root: Path,
     captured_at: datetime,
     current_queries: set[str],
+    max_topics: int = MAX_OFFLIST_PER_RUN,
 ) -> list[dict[str, Any]]:
-    candidates = select_offlist_topics(data_root, captured_at, current_queries)
+    candidates = select_offlist_topics(
+        data_root, captured_at, current_queries, max_topics=max_topics
+    )
     results: list[dict[str, Any]] = []
     for index, candidate in enumerate(candidates):
         item: dict[str, Any] = {

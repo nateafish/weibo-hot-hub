@@ -9,7 +9,7 @@ from zoneinfo import ZoneInfo
 
 from .storage import atomic_json
 from .topic import topic_client
-from .trend_watch import collect_offlist_trends
+from .trend_watch import MAX_OFFLIST_PER_RUN, collect_offlist_trends
 
 
 def _latest_hotlist(data_root: Path) -> dict[str, Any]:
@@ -22,7 +22,7 @@ def _latest_hotlist(data_root: Path) -> dict[str, Any]:
     return value
 
 
-def run_backfill(data_root: Path) -> dict[str, Any]:
+def run_backfill(data_root: Path, max_topics: int = MAX_OFFLIST_PER_RUN) -> dict[str, Any]:
     captured_at = datetime.now(ZoneInfo("Asia/Shanghai")).replace(
         minute=0, second=0, microsecond=0
     )
@@ -33,10 +33,13 @@ def run_backfill(data_root: Path) -> dict[str, Any]:
         if isinstance(topic, dict)
     }
     with topic_client() as http:
-        results = collect_offlist_trends(http, data_root, captured_at, queries)
+        results = collect_offlist_trends(
+            http, data_root, captured_at, queries, max_topics=max_topics
+        )
     report = {
         "captured_at": captured_at.isoformat(),
         "source_hotlist_at": hotlist.get("captured_at"),
+        "max_topics": max_topics,
         "offlist_trends": results,
         "summary": {
             "selected": len(results),
@@ -63,8 +66,16 @@ def run_backfill(data_root: Path) -> dict[str, Any]:
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--data-root", type=Path, default=Path("data"))
+    parser.add_argument(
+        "--max-topics",
+        type=int,
+        default=MAX_OFFLIST_PER_RUN,
+        help="maximum number of off-list topics collected per run",
+    )
     args = parser.parse_args()
-    print(run_backfill(args.data_root)["summary"])
+    if args.max_topics < 1:
+        parser.error("--max-topics must be a positive integer")
+    print(run_backfill(args.data_root, args.max_topics)["summary"])
 
 
 if __name__ == "__main__":
