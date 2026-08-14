@@ -8,7 +8,7 @@ from typing import Any
 
 import httpx
 
-from .storage import save_topic_trends
+from .storage import save_topic_trends, slug_id
 from .topic import fetch_topic_trends
 from .weibo import _sleep_with_jitter
 
@@ -25,7 +25,9 @@ RECENT_POINTS = 3
 # went cold.
 MAX_RECORD_AGE = timedelta(hours=25)
 # Hard cap on how many off-list topics a single run collects, oldest first.
-MAX_OFFLIST_PER_RUN = 100
+# Sized so that one run can cover the pool once a day at the six-hourly
+# cadence without turning into a long request burst.
+MAX_OFFLIST_PER_RUN = 150
 
 
 @dataclass(frozen=True)
@@ -104,6 +106,58 @@ def trend_has_heat(
     above the threshold; the whole 24-hour window is no longer considered,
     so quiet topics stop being collected a few hours after they go cold."""
     return any(value >= threshold for value in recent_heat_values(record))
+
+
+def latest_trend_at(topic_root: Path) -> datetime | None:
+    """Newest stored trend point across all series of the latest record."""
+    record = latest_trend_record(topic_root)
+    if not record:
+        return None
+    newest: datetime | None = None
+    for points in (record.get("24h") or {}).values():
+        if not isinstance(points, list):
+            continue
+        for point in points:
+            if not isinstance(point, dict):
+                continue
+            at = _parse_datetime(point.get("at"))
+            if at and (newest is None or at > newest):
+                newest = at
+    return newest
+
+
+def slice_trend_delta(
+    trends: dict[str, Any],
+    last_at: datetime | None,
+) -> dict[str, Any]:
+    """Keep only the trend points newer than the topic's previous capture.
+
+    The 24-hour endpoint returns the whole sliding window, so a capture that
+    runs every few hours would otherwise re-store the same overlapping hours.
+    Storing just the new points keeps each record small while the merged
+    archive in the site export still carries full hourly resolution.
+    """
+    if last_at is None:
+        return trends
+    sliced: dict[str, list[dict[str, Any]]] = {}
+    for name, points in (trends.get("24h") or {}).items():
+        if not isinstance(points, list):
+            continue
+        kept = [
+            point
+            for point in points
+            if isinstance(point, dict)
+            and (at := _parse_datetime(point.get("at"))) is not None
+            and at > last_at
+        ]
+        if kept:
+            sliced[name] = kept
+    return {
+        "captured_at": trends.get("captured_at"),
+        "topic_id": trends.get("topic_id"),
+        "1h": {},
+        "24h": sliced,
+    }
 
 
 def select_offlist_topics(
@@ -185,9 +239,17 @@ def collect_offlist_trends(
                 candidate.topic_id,
                 captured_at,
             )
-            save_topic_trends(data_root, candidate.topic_id, trends, captured_at)
-            item["metrics"] = "saved"
+            # Heat is decided on the freshly fetched curve, before slicing.
             item["has_heat"] = trend_has_heat(trends)
+            topic_root = data_root / "topics" / slug_id(candidate.topic_id)
+            stored = slice_trend_delta(trends, latest_trend_at(topic_root))
+            stored_points = sum(
+                len(series) for series in (stored.get("24h") or {}).values()
+            )
+            if stored_points:
+                save_topic_trends(data_root, candidate.topic_id, stored, captured_at)
+            item["metrics"] = "saved"
+            item["stored_points"] = stored_points
         except Exception as exc:
             item["metrics"] = "failed"
             item["metrics_error"] = f"{type(exc).__name__}: {exc}"[:500]

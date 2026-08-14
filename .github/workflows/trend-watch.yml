@@ -2,8 +2,10 @@ name: Off-list Trend Watch
 
 on:
   schedule:
-    # Offset from the hourly archive (:08) so the two writers do not race.
-    - cron: "20,50 * * * *"
+    # Every six hours, offset from the hourly archive (:08) so the two writers
+    # do not race. Off-list heat moves slowly, so a six-hour cadence keeps the
+    # archive fresh at a fraction of the request load of the old hourly run.
+    - cron: "47 1,7,13,19 * * *"
   workflow_dispatch:
 
 permissions:

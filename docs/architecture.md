@@ -36,7 +36,9 @@ All topic work is sequential to avoid concurrent requests from the same account.
 
 ## Off-list trend watch
 
-Off-list (off-the-hotlist) topic trends are collected by a separate scheduled workflow (`trend-watch.yml`, :20 and :50 past the hour) instead of the hourly archive, so metric anomalies on the main list can never stall the core hour again. Each run is capped (`MAX_OFFLIST_PER_RUN = 100`) and picks the oldest-captured topics first; a 418/429/432 response opens the circuit breaker and stops the run immediately.
+Off-list (off-the-hotlist) topic trends are collected by a separate scheduled workflow (`trend-watch.yml`, every six hours at 01:47/07:47/13:47/19:47 UTC) instead of the hourly archive, so metric anomalies on the main list can never stall the core hour again. Off-list heat changes slowly, so the six-hour cadence keeps the archive fresh at roughly a sixth of the old request load. Each run is capped (`MAX_OFFLIST_PER_RUN = 150`) and picks the oldest-captured topics first; a 418/429/432 response opens the circuit breaker and stops the run immediately.
+
+Captures are stored as deltas: the 24-hour endpoint returns the whole sliding window, so each run appends only the points newer than the topic's previous capture instead of re-storing the overlapping hours. The site export rebuilds the full window per capture, so the archived curves keep hourly resolution while each record stays small.
 
 A topic counts as having heat only while one of its most recent three trend points is at or above `HEAT_THRESHOLD = 10_000` (per-bucket read increments; the lowest currently-listed topic sits around 24K, so 10K keeps a margin while pruning topics that have gone quiet). Trend records older than 25 hours are never used to drop a topic — a stale record only means collection has been failing.
 

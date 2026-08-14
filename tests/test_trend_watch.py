@@ -6,7 +6,9 @@ from zoneinfo import ZoneInfo
 from weibo_hot_hub.trend_watch import (
     MAX_OFFLIST_PER_RUN,
     is_rate_limit_error,
+    latest_trend_at,
     select_offlist_topics,
+    slice_trend_delta,
     trend_has_heat,
 )
 
@@ -105,3 +107,75 @@ def test_selection_is_capped_and_oldest_first(tmp_path: Path) -> None:
     assert [item.topic_id for item in selected] == ["t0", "t1", "t2"]
     assert len(select_offlist_topics(tmp_path, NOW, set())) == 5
     assert MAX_OFFLIST_PER_RUN >= 1
+
+
+def _trends_with_points(points: list[tuple[datetime, int]]) -> dict[str, object]:
+    return {
+        "captured_at": NOW.isoformat(),
+        "topic_id": "t1",
+        "1h": {},
+        "24h": {
+            "read": [
+                {"at": at.isoformat(), "label": at.strftime("%H:%M"), "value": value}
+                for at, value in points
+            ]
+        },
+    }
+
+
+def test_slice_trend_delta_keeps_only_points_newer_than_last_capture() -> None:
+    trends = _trends_with_points(
+        [
+            (NOW - timedelta(hours=5), 10),
+            (NOW - timedelta(hours=4), 20),
+            (NOW - timedelta(hours=1), 30),
+        ]
+    )
+
+    # The point exactly at last_at was already stored by the previous capture.
+    sliced = slice_trend_delta(trends, NOW - timedelta(hours=4))
+
+    assert sliced["captured_at"] == trends["captured_at"]
+    assert sliced["topic_id"] == "t1"
+    assert [point["value"] for point in sliced["24h"]["read"]] == [30]
+    assert "mention" not in sliced["24h"]
+
+
+def test_slice_trend_delta_without_prior_capture_returns_full_curve() -> None:
+    trends = _trends_with_points([(NOW - timedelta(hours=5), 10)])
+
+    assert slice_trend_delta(trends, None) == trends
+
+
+def test_slice_trend_delta_is_empty_when_no_points_are_new() -> None:
+    trends = _trends_with_points([(NOW - timedelta(hours=5), 10)])
+
+    sliced = slice_trend_delta(trends, NOW - timedelta(hours=1))
+
+    assert sliced["24h"] == {}
+
+
+def test_latest_trend_at_returns_the_newest_stored_point(tmp_path: Path) -> None:
+    topic_root = tmp_path / "topics" / "t1"
+    trend = topic_root / "trends" / f"{NOW:%Y}" / f"{NOW:%m-%d}.jsonl"
+    trend.parent.mkdir(parents=True)
+    trend.write_text(
+        json.dumps(
+            {
+                "captured_at": NOW.isoformat(),
+                "24h": {
+                    "read": [
+                        {"at": (NOW - timedelta(hours=3)).isoformat(), "value": 1},
+                        {"at": NOW.isoformat(), "value": 2},
+                    ]
+                },
+            }
+        )
+        + "\n"
+    )
+
+    assert latest_trend_at(topic_root) == NOW
+
+
+def test_latest_trend_at_is_none_without_records(tmp_path: Path) -> None:
+    assert latest_trend_at(tmp_path / "topics" / "missing") is None

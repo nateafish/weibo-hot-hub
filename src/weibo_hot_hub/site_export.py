@@ -1,10 +1,11 @@
 from __future__ import annotations
 
 import argparse
+import bisect
 import json
 import shutil
 from collections import defaultdict
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 from typing import Any
 from zoneinfo import ZoneInfo
@@ -215,24 +216,78 @@ def _snapshot_files(topic_root: Path) -> dict[str, list[dict[str, Any]]]:
     return days
 
 
+METRIC_NAMES = ("read", "mention", "interaction", "original")
+
+
 def _trend_files(topic_root: Path) -> dict[str, list[dict[str, Any]]]:
-    days: dict[str, list[dict[str, Any]]] = {}
+    """Per-date trend records with each capture rebuilt as the 24-hour window
+    as of its capture time.
+
+    Trend-watch captures are stored as deltas (only the points newer than the
+    previous capture), so the raw records would each show just a slice. Merging
+    every record captured up to that point restores the full window without
+    re-storing the overlapping hours in git. All stored timestamps share the
+    +08:00 zone, so ISO strings sort chronologically and bisect finds the
+    24-hour cutoff in logarithmic time.
+    """
+    ordered: list[tuple[str, dict[str, Any]]] = []
     for path in sorted((topic_root / "trends").glob("*/*.jsonl")):
         date = f"{path.parent.name}-{path.stem}"
-        records: list[dict[str, Any]] = []
         for line in path.read_text(encoding="utf-8").splitlines():
             try:
-                records.append(json.loads(line))
+                record = json.loads(line)
             except json.JSONDecodeError:
                 continue
-        days[date] = records
+            ordered.append((date, record))
+    ordered.sort(key=lambda item: str(item[1].get("captured_at") or ""))
+
+    merged: dict[str, dict[str, dict[str, Any]]] = {
+        name: {} for name in METRIC_NAMES
+    }
+    days: dict[str, list[dict[str, Any]]] = {}
+    for date, record in ordered:
+        captured_at = record.get("captured_at")
+        bound = None
+        if captured_at:
+            try:
+                window_start = datetime.fromisoformat(str(captured_at)) - timedelta(
+                    hours=24
+                )
+                bound = window_start.isoformat()
+            except ValueError:
+                bound = None
+        for name in METRIC_NAMES:
+            for point in (record.get("24h") or {}).get(name) or []:
+                at = str(point.get("at") or "")
+                if at:
+                    merged[name][at] = point
+        days.setdefault(date, []).append(
+            {
+                "captured_at": captured_at,
+                "capture_hour": record.get("capture_hour"),
+                "topic_id": record.get("topic_id"),
+                "1h": {},
+                "24h": {
+                    name: _window_points(merged[name], bound)
+                    for name in METRIC_NAMES
+                },
+            }
+        )
     return days
 
 
+def _window_points(
+    points: dict[str, dict[str, Any]],
+    bound: str | None,
+) -> list[dict[str, Any]]:
+    keys = sorted(points)
+    start = bisect.bisect_left(keys, bound) if bound else 0
+    return [points[key] for key in keys[start:]]
+
+
 def _trend_history(days: dict[str, list[dict[str, Any]]]) -> dict[str, Any]:
-    metric_names = ("read", "mention", "interaction", "original")
     by_metric: dict[str, dict[str, dict[str, Any]]] = {
-        name: {} for name in metric_names
+        name: {} for name in METRIC_NAMES
     }
     snapshot_count = 0
     for date in sorted(days):
@@ -242,7 +297,7 @@ def _trend_history(days: dict[str, list[dict[str, Any]]]) -> dict[str, Any]:
         for record in records:
             snapshot_count += 1
             series = record.get("24h") if isinstance(record.get("24h"), dict) else {}
-            for name in metric_names:
+            for name in METRIC_NAMES:
                 for point in series.get(name) or []:
                     at = str(point.get("at") or "")
                     if not at or not isinstance(point.get("value"), (int, float)):
