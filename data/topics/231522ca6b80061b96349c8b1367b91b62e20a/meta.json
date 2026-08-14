@@ -10,11 +10,19 @@
     "status": 2,
     "uid": 5675905882
   },
-  "last_seen_at": "2026-08-15T05:00:00+08:00",
+  "last_seen_at": "2026-08-15T06:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%91%BD%E5%A5%BD%E7%9A%84%E4%BA%BA%E6%9C%AC%E8%B4%A8%E6%98%AF%E4%B8%BB%E4%BD%93%E6%80%A7%E5%BC%BA%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "1家媒体",
+    "users": [
+      {
+        "id": 1727472420,
+        "idstr": "1727472420",
+        "screen_name": "泰山晚报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "命好的人本质是主体性强",
   "search_url": "https://s.weibo.com/weibo?q=%23%E5%91%BD%E5%A5%BD%E7%9A%84%E4%BA%BA%E6%9C%AC%E8%B4%A8%E6%98%AF%E4%B8%BB%E4%BD%93%E6%80%A7%E5%BC%BA%23",
