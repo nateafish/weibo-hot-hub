@@ -3,11 +3,26 @@
   "created_at": 1754300030,
   "first_seen_at": "2026-08-14T12:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-14T12:00:00+08:00",
+  "last_seen_at": "2026-08-14T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23TOP%E5%A4%A9%E6%B4%A5%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "2家媒体",
+    "users": [
+      {
+        "id": 1895096900,
+        "idstr": "1895096900",
+        "screen_name": "深圳新闻网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1160746241,
+        "idstr": "1160746241",
+        "screen_name": "中国食品报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "TOP天津",
   "search_url": "https://s.weibo.com/weibo?q=%23top%E5%A4%A9%E6%B4%A5%23",

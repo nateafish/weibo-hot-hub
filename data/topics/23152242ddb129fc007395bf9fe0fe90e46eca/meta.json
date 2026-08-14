@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2105980803
   },
-  "last_seen_at": "2026-08-14T12:00:00+08:00",
+  "last_seen_at": "2026-08-14T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E4%BC%B4%E6%89%8B%E7%A4%BC%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "10家媒体",
     "users": [
       {
         "id": 5324630614,
         "idstr": "5324630614",
         "screen_name": "饭娱乐官方微博",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,15 +37,36 @@
         "verified_type": 3
       },
       {
-        "id": 1677991972,
-        "idstr": "1677991972",
-        "screen_name": "晶报",
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2921799343,
+        "idstr": "2921799343",
+        "screen_name": "天下泉城",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2115259662,
+        "idstr": "2115259662",
+        "screen_name": "洪观新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
         "verified": true,
         "verified_type": 3
       }
     ]
   },
-  "query": "汪苏泷伴手礼",
+  "query": "#汪苏泷伴手礼#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E4%BC%B4%E6%89%8B%E7%A4%BC%23",
   "sub_category": null,
   "summary": "",

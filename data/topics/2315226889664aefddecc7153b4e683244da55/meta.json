@@ -3,15 +3,43 @@
   "created_at": 1786674388,
   "first_seen_at": "2026-08-14T12:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-14T12:00:00+08:00",
+  "last_seen_at": "2026-08-14T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23AI%E7%94%A8%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E5%A3%B0%E7%BA%BF%E6%8E%A5%E5%B9%BF%E5%91%8A%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "5家媒体",
     "users": [
       {
         "id": 7639071132,
         "idstr": "7639071132",
         "screen_name": "篝火视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7575030448,
+        "idstr": "7575030448",
+        "screen_name": "白鹿视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2660940103,
+        "idstr": "2660940103",
+        "screen_name": "环球网科技频道",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497418417,
+        "idstr": "1497418417",
+        "screen_name": "掌上温岭",
         "verified": true,
         "verified_type": 3
       }
