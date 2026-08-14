@@ -1,0 +1,913 @@
+{
+  "captured_at": "2026-08-14T12:00:00+08:00",
+  "max_topics": 100,
+  "offlist_trends": [
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T20:00:00+08:00",
+      "metrics": "saved",
+      "query": "#王橹杰四芒星耳钉#",
+      "title": "王橹杰四芒星耳钉",
+      "topic_id": "2315225001dfc6d82391d77e4b08ec7cf1a9bb"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-14T07:00:00+08:00",
+      "metrics": "saved",
+      "query": "#紧急预拨8000万支持3省抢险救灾#",
+      "title": "紧急预拨8000万支持3省抢险救灾",
+      "topic_id": "231522cdab8d7b309c84338539340bac040305"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-14T00:00:00+08:00",
+      "metrics": "saved",
+      "query": "#福安船厂爆炸1名消防员牺牲#",
+      "title": "福安船厂爆炸1名消防员牺牲",
+      "topic_id": "231522c71db6ace24e750611fcb2fd48594603"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-14T07:00:00+08:00",
+      "metrics": "saved",
+      "query": "#小狗交朋友不分物种#",
+      "title": "小狗交朋友不分物种",
+      "topic_id": "2315224bf34de6409af7834d1a87ba84f877a4"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-14T00:00:00+08:00",
+      "metrics": "saved",
+      "query": "破局 难听",
+      "title": "破局 难听",
+      "topic_id": "2315228c76fa0effc472aa71c04318004f87bd"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T08:00:00+08:00",
+      "metrics": "saved",
+      "query": "#喜欢穿洞洞鞋的人天塌了#",
+      "title": "喜欢穿洞洞鞋的人天塌了",
+      "topic_id": "2315228810f9191b617b22d6c9e6b183000a4c"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T11:00:00+08:00",
+      "metrics": "saved",
+      "query": "#花8万做地下试管被推进简易房手术#",
+      "title": "花8万做地下试管被推进简易房手术",
+      "topic_id": "23152278243a35cc353797cda71342324ddd6e"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T08:00:00+08:00",
+      "metrics": "saved",
+      "query": "#肖战收工后会给剧组朋友做饭#",
+      "title": "肖战收工后会给剧组朋友做饭",
+      "topic_id": "231522fed2a5cdde903aca0751832603ef55fa"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T19:00:00+08:00",
+      "metrics": "saved",
+      "query": "#肖战gucci世界名画3.0#",
+      "title": "肖战gucci世界名画3.0",
+      "topic_id": "231522029c0616d8094ceb3d097687f7eb6d30"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T19:00:00+08:00",
+      "metrics": "saved",
+      "query": "#2小孩超市混掺几十种杂粮被迫下架#",
+      "title": "2小孩超市混掺几十种杂粮被迫下架",
+      "topic_id": "231522f89cc94b10793ddf59823363759084e1"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-14T07:00:00+08:00",
+      "metrics": "saved",
+      "query": "#女子骑三轮在车流中乱钻撞上迈巴赫#",
+      "title": "女子骑三轮在车流中乱钻撞上迈巴赫",
+      "topic_id": "2315226c1b2a29ce4920d89f3a413997ca9256"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T17:00:00+08:00",
+      "metrics": "saved",
+      "query": "#王俊凯林大厨备菜到凌晨4点#",
+      "title": "王俊凯林大厨备菜到凌晨4点",
+      "topic_id": "2315222fa7d5ae43b2a226e5694f99fee29f9b"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T17:00:00+08:00",
+      "metrics": "saved",
+      "query": "#iphone18pro今秋发布#",
+      "title": "iphone18pro今秋发布",
+      "topic_id": "231522a936d6ff0ce3a3878976f30b69396222"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T18:00:00+08:00",
+      "metrics": "saved",
+      "query": "#wbg对战nip#",
+      "title": "wbg对战nip",
+      "topic_id": "23152212336406625e60b6a9ec2c6b75b028ce"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T00:00:00+08:00",
+      "metrics": "saved",
+      "query": "#初代网红晚晚开始卖衣服#",
+      "title": "初代网红晚晚开始卖衣服",
+      "topic_id": "231522354c41f970be4f1c07802a58fd43ed67"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T13:00:00+08:00",
+      "metrics": "saved",
+      "query": "#独生子女父母陆续步入高龄#",
+      "title": "独生子女父母陆续步入高龄",
+      "topic_id": "231522d0261207cfd935c93742b5de10607a48"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T18:00:00+08:00",
+      "metrics": "saved",
+      "query": "#歌手节目组联系耳帝#",
+      "title": "歌手节目组联系耳帝",
+      "topic_id": "2315221e5ea8481d26ddd2938915abcee97318"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-14T00:00:00+08:00",
+      "metrics": "saved",
+      "query": "地下试管婴儿",
+      "title": "地下试管婴儿",
+      "topic_id": "2315220714849cd530b2d36ce4890b81346940"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-14T07:00:00+08:00",
+      "metrics": "saved",
+      "query": "#警方称教师户口注销合规无法恢复#",
+      "title": "警方称教师户口注销合规无法恢复",
+      "topic_id": "2315228a9aea470867d249b0269132459d353e"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T19:00:00+08:00",
+      "metrics": "saved",
+      "query": "#nip战胜wbg#",
+      "title": "nip战胜wbg",
+      "topic_id": "231522b1fb54df5432b9e4ad5b47ca3c2ccc7e"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T17:00:00+08:00",
+      "metrics": "saved",
+      "query": "#胖东来 房租翻倍#",
+      "title": "胖东来 房租翻倍",
+      "topic_id": "23152204ef70c8fa31ff1e6d24e81f6e1192ef"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T20:00:00+08:00",
+      "metrics": "saved",
+      "query": "#小米阔折叠意外曝光#",
+      "title": "小米阔折叠意外曝光",
+      "topic_id": "231522afd54f4e2f0f41529818273108d75af2"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-14T07:00:00+08:00",
+      "metrics": "saved",
+      "query": "沈腾已经无咖可升",
+      "title": "沈腾已经无咖可升",
+      "topic_id": "231522641fbb2f5ca0358979bae49fbd9b17d6"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T08:00:00+08:00",
+      "metrics": "saved",
+      "query": "#特朗普躲避暗杀更多细节曝光#",
+      "title": "特朗普躲避暗杀更多细节曝光",
+      "topic_id": "231522e4aecfd55a6719cb1a684ee631c950d3"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T15:00:00+08:00",
+      "metrics": "saved",
+      "query": "#花48万买事业编事没办成中间人拒退款#",
+      "title": "花48万买事业编事没办成中间人拒退款",
+      "topic_id": "23152238b48caa419886aeb77f59a9584259d5"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T17:00:00+08:00",
+      "metrics": "saved",
+      "query": "#空调低频噪音是产品还是安装问题#",
+      "title": "空调低频噪音是产品还是安装问题",
+      "topic_id": "231522e62bceb453b9a8b8f14d357ddaa6f54b"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T19:00:00+08:00",
+      "metrics": "saved",
+      "query": "#金鹰奖男主提名#",
+      "title": "金鹰奖男主提名",
+      "topic_id": "231522d2616f0e299364762d4c4833bc411067"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T20:00:00+08:00",
+      "metrics": "saved",
+      "query": "#马天宇被姜潮搞不会了#",
+      "title": "马天宇被姜潮搞不会了",
+      "topic_id": "23152275ae98eaa5e0a36ff5e587cb552674fc"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T15:00:00+08:00",
+      "metrics": "saved",
+      "query": "#tf四代五公#",
+      "title": "tf四代五公",
+      "topic_id": "23152219830a148ed8bb8335a2ae32cbaf9716"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T23:00:00+08:00",
+      "metrics": "saved",
+      "query": "王橹杰对着蓝粉海偷笑",
+      "title": "王橹杰对着蓝粉海偷笑",
+      "topic_id": "231522b8eb10d2c64511da50a41b4fd7392bf4"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T21:00:00+08:00",
+      "metrics": "saved",
+      "query": "陈浚铭衣服太紧了",
+      "title": "陈浚铭衣服太紧了",
+      "topic_id": "231522f3c035267a814b02ebe6ee3afb6e6b3b"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T22:00:00+08:00",
+      "metrics": "saved",
+      "query": "BLG对战TT",
+      "title": "blg对战tt",
+      "topic_id": "231522cdb128d7ee8be1211e38d9cc5a682107"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-14T07:00:00+08:00",
+      "metrics": "saved",
+      "query": "魏子宸好帅",
+      "title": "魏子宸好帅",
+      "topic_id": "23152253e2da559d6e700690ffda68af330503"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T20:00:00+08:00",
+      "metrics": "saved",
+      "query": "#a股尾盘突发跳水 发生了什么#",
+      "title": "a股尾盘突发跳水 发生了什么",
+      "topic_id": "231522a117ee2cee01a6e062fcbe3632ee4c55"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T08:00:00+08:00",
+      "metrics": "saved",
+      "query": "#宇树科技黄牛收购价涨到410元#",
+      "title": "宇树科技黄牛收购价涨到410元",
+      "topic_id": "2315222ed8fbcbc49a73f76fbef3d23b465da5"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T13:00:00+08:00",
+      "metrics": "saved",
+      "query": "#迈阿密国际2比3莱昂#",
+      "title": "迈阿密国际2比3莱昂",
+      "topic_id": "231522456cd8e53ead988a98f1e656300e97f6"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-14T07:00:00+08:00",
+      "metrics": "saved",
+      "query": "#西班牙和摩洛哥吵起来了#",
+      "title": "西班牙和摩洛哥吵起来了",
+      "topic_id": "231522a5a78f1250d72ad7a71fca5c5e3d4a33"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T15:00:00+08:00",
+      "metrics": "saved",
+      "query": "#李诞李娟一场拒绝美化的对谈#",
+      "title": "李诞李娟一场拒绝美化的对谈",
+      "topic_id": "2315228bbc5c2ed02fdb0c2cd6cf66785b5359"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T13:00:00+08:00",
+      "metrics": "saved",
+      "query": "#3孩非亲生妻子希望与丈夫一刀两断#",
+      "title": "3孩非亲生妻子希望与丈夫一刀两断",
+      "topic_id": "231522664f3eef3cb6718536d5c5ebef503fac"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-14T07:00:00+08:00",
+      "metrics": "saved",
+      "query": "#樊振东杜塞尔多夫主场首秀#",
+      "title": "樊振东杜塞尔多夫主场首秀",
+      "topic_id": "2315222ee3f0c033541ca7051f49c17f11e57b"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T13:00:00+08:00",
+      "metrics": "saved",
+      "query": "#8万级suv已经卷到这种程度了吗#",
+      "title": "8万级suv已经卷到这种程度了吗",
+      "topic_id": "23152238eb12dbe4223ecb450bfa34a2169ca3"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T13:00:00+08:00",
+      "metrics": "saved",
+      "query": "#八仙曹国舅出场台词火出圈#",
+      "title": "八仙曹国舅出场台词火出圈",
+      "topic_id": "231522edf61eed72be5867c1195921ef0b0a20"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T16:00:00+08:00",
+      "metrics": "saved",
+      "query": "#花开锦绣追剧团#",
+      "title": "花开锦绣追剧团",
+      "topic_id": "231522f127f3ea5302ea3e4c1d3b56bc29236c"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T11:00:00+08:00",
+      "metrics": "saved",
+      "query": "#tf四代彩排节目单#",
+      "title": "tf四代彩排节目单",
+      "topic_id": "231522d156b4ea15af0f9fba517303067d3a64"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T16:00:00+08:00",
+      "metrics": "saved",
+      "query": "#ksg流浪手伤情况#",
+      "title": "ksg流浪手伤情况",
+      "topic_id": "231522d56fe213f89b4ef1103bdf9a03557882"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T14:00:00+08:00",
+      "metrics": "saved",
+      "query": "#比lululemon还贵的瑜伽服来中国了#",
+      "title": "比lululemon还贵的瑜伽服来中国了",
+      "topic_id": "231522f94eb8928e9a31afcfbf11fa3e4dc0e6"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-12T21:00:00+08:00",
+      "metrics": "saved",
+      "query": "#贾冰否认私人饭局爆粗口#",
+      "title": "贾冰否认私人饭局爆粗口",
+      "topic_id": "2315220416275050311e130308e02df01caebf"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-14T00:00:00+08:00",
+      "metrics": "saved",
+      "query": "张函瑞高音",
+      "title": "张函瑞高音",
+      "topic_id": "23152260723aac24018a8c2a63461de473cba8"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T18:00:00+08:00",
+      "metrics": "saved",
+      "query": "#朱易赛季首秀零失误夺冠#",
+      "title": "朱易赛季首秀零失误夺冠",
+      "topic_id": "231522b565fa8c2497a8dd7672333094f3c054"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T08:00:00+08:00",
+      "metrics": "saved",
+      "query": "#虞书欣丁禹兮 我欲乘风#",
+      "title": "虞书欣丁禹兮 我欲乘风",
+      "topic_id": "2315224b0f3fd40097e68b14f1088bcced9571"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-12T23:00:00+08:00",
+      "metrics": "saved",
+      "query": "#迪丽热巴王一博早期广告短片#",
+      "title": "迪丽热巴王一博早期广告短片",
+      "topic_id": "231522a2e5bbe97e59a23f17c7d57888e84388"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T15:00:00+08:00",
+      "metrics": "saved",
+      "query": "#胖东来许昌老店关闭周边商户发声#",
+      "title": "胖东来许昌老店关闭周边商户发声",
+      "topic_id": "2315221e12a9538d69ef20b8059b8941937eec"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T19:00:00+08:00",
+      "metrics": "saved",
+      "query": "#岳雨婷又喊话沈腾了#",
+      "title": "岳雨婷又喊话沈腾了",
+      "topic_id": "231522ba509d14db5228e307924b980d92ad89"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T08:00:00+08:00",
+      "metrics": "saved",
+      "query": "#c罗宣布结婚#",
+      "title": "c罗宣布结婚",
+      "topic_id": "2315220bd34b65b7511266c51fda5da1d85310"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T00:00:00+08:00",
+      "metrics": "saved",
+      "query": "#迪丽热巴扫货十分钟买了十几件#",
+      "title": "迪丽热巴扫货十分钟买了十几件",
+      "topic_id": "231522d0986e35babc216c184b088ae73a2011"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T21:00:00+08:00",
+      "metrics": "saved",
+      "query": "#中国车完成360度隧道旋转穿越#",
+      "title": "中国车完成360度隧道旋转穿越",
+      "topic_id": "231522146a52e0448171a817f2d040ab527839"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T18:00:00+08:00",
+      "metrics": "saved",
+      "query": "#关闭年赚1亿的店 胖东来把桌子掀了#",
+      "title": "关闭年赚1亿的店 胖东来把桌子掀了",
+      "topic_id": "231522376d40d83eda5fee9485efb4c5dcfe35"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T23:00:00+08:00",
+      "metrics": "saved",
+      "query": "种地吧",
+      "title": "种地吧",
+      "topic_id": "231522a4d5fb5440919ca0afd4ed8372019217"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-14T00:00:00+08:00",
+      "metrics": "saved",
+      "query": "第五人格赛事",
+      "title": "第五人格赛事",
+      "topic_id": "2315229f7873160c89318d07e9b5f932b4aefe"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T20:00:00+08:00",
+      "metrics": "saved",
+      "query": "#博主评易烊千玺拿百花奖影帝#",
+      "title": "博主评易烊千玺拿百花奖影帝",
+      "topic_id": "231522922be19acf90c3d6d3ac7d6c3c39fc3a"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T07:00:00+08:00",
+      "metrics": "saved",
+      "query": "#jdg战胜blg#",
+      "title": "jdg战胜blg",
+      "topic_id": "2315226a988675a5ab0c88326a9a95070cca30"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-14T00:00:00+08:00",
+      "metrics": "saved",
+      "query": "#王安宇走路脖子前倾#",
+      "title": "王安宇走路脖子前倾",
+      "topic_id": "231522ca2b61b0af887cfdef196a281a844a1f"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T17:00:00+08:00",
+      "metrics": "saved",
+      "query": "#被丁禹兮的谐音梗冷到了#",
+      "title": "被丁禹兮的谐音梗冷到了",
+      "topic_id": "231522d8ecc615b02e606aa5fde64e83a9876c"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T08:00:00+08:00",
+      "metrics": "saved",
+      "query": "#任敏漂亮到不敢认#",
+      "title": "任敏漂亮到不敢认",
+      "topic_id": "23152268b92791e1982e9143be8a0999ca53c8"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T11:00:00+08:00",
+      "metrics": "saved",
+      "query": "#上海要再挖一条河#",
+      "title": "上海要再挖一条河",
+      "topic_id": "231522168dc15ca188c1404416db1f30e96bc7"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T21:00:00+08:00",
+      "metrics": "saved",
+      "query": "#您这样装修孙子孙女就愿意来了#",
+      "title": "您这样装修孙子孙女就愿意来了",
+      "topic_id": "231522616314817e0fa42d131ad5d44123131d"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T19:00:00+08:00",
+      "metrics": "saved",
+      "query": "#俩孩子将超市内几十种杂粮混掺#",
+      "title": "俩孩子将超市内几十种杂粮混掺",
+      "topic_id": "231522ab102e6d4b26f41f6938ebcbca3db643"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T00:00:00+08:00",
+      "metrics": "saved",
+      "query": "#张睿李若嘉在一起十年了#",
+      "title": "张睿李若嘉在一起十年了",
+      "topic_id": "2315220f102864fb6c5f0a479e0e0a25639454"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T15:00:00+08:00",
+      "metrics": "saved",
+      "query": "#美国渣男王水牛#",
+      "title": "美国渣男王水牛",
+      "topic_id": "231522554b2b7a16e8cf42f61185f53c52d975"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T16:00:00+08:00",
+      "metrics": "saved",
+      "query": "#380元一双袜子你买吗#",
+      "title": "380元一双袜子你买吗",
+      "topic_id": "231522e8189361f042093cbce99d039ff734f3"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T13:00:00+08:00",
+      "metrics": "saved",
+      "query": "#女子称穿一次性内裤走路时脱落#",
+      "title": "女子称穿一次性内裤走路时脱落",
+      "topic_id": "231522650371d02eee7c9aa34aac54a8a9349b"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T05:00:00+08:00",
+      "metrics": "saved",
+      "query": "#成都ag回归kpl七周年#",
+      "title": "成都ag回归kpl七周年",
+      "topic_id": "231522c9fbdc5ee28df198f5249e355951ead4"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T13:00:00+08:00",
+      "metrics": "saved",
+      "query": "#小米新折叠屏手机曝光#",
+      "title": "小米新折叠屏手机曝光",
+      "topic_id": "23152294b7c99e6d467ff812358882d267d8e8"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T11:00:00+08:00",
+      "metrics": "saved",
+      "query": "#lululemon劲敌来中国了#",
+      "title": "lululemon劲敌来中国了",
+      "topic_id": "2315229c0a99193822f64d117ae69d71ce929c"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T16:00:00+08:00",
+      "metrics": "saved",
+      "query": "#威斯布鲁克#",
+      "title": "威斯布鲁克",
+      "topic_id": "2315221dbf92ce6147c1a4107530feef03d919"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T21:00:00+08:00",
+      "metrics": "saved",
+      "query": "LGD战胜TES",
+      "title": "lgd战胜tes",
+      "topic_id": "231522ce5b3f5d27ca72d7b89dd18eda2d8fdc"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T07:00:00+08:00",
+      "metrics": "saved",
+      "query": "#江泽民同志诞辰100周年#",
+      "title": "江泽民同志诞辰100周年",
+      "topic_id": "231522f81ffb9a1e75e244060a50b29c055317"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T08:00:00+08:00",
+      "metrics": "saved",
+      "query": "#这段话缓解了我的焦虑#",
+      "title": "这段话缓解了我的焦虑",
+      "topic_id": "2315225bbb63dc96fd963553b50fbdb789ebb3"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T13:00:00+08:00",
+      "metrics": "saved",
+      "query": "#贺涵怎么跑爱丁堡去了#",
+      "title": "贺涵怎么跑爱丁堡去了",
+      "topic_id": "231522e6447871bc0c21987d9ff4b62f898584"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T16:00:00+08:00",
+      "metrics": "saved",
+      "query": "#官方调查郭德纲演出改编红歌#",
+      "title": "官方调查郭德纲演出改编红歌",
+      "topic_id": "2315227ab61ba5728952199812244b286a48b4"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T22:00:00+08:00",
+      "metrics": "saved",
+      "query": "#谢震业10秒10百米夺冠#",
+      "title": "谢震业10秒10百米夺冠",
+      "topic_id": "231522d23df8da915579f570671a0856c1176c"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T20:00:00+08:00",
+      "metrics": "saved",
+      "query": "#杨博文 挑染小羊#",
+      "title": "杨博文 挑染小羊",
+      "topic_id": "2315221dd4c25a4bd39a24f6dfcaf430f029bc"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T15:00:00+08:00",
+      "metrics": "saved",
+      "query": "#不断增厚我国的绿色家底#",
+      "title": "不断增厚我国的绿色家底",
+      "topic_id": "231522ebebd0ea0c2191c86eada10295cf8281"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T21:00:00+08:00",
+      "metrics": "saved",
+      "query": "#砸30万补课到700分最后上了职校#",
+      "title": "砸30万补课到700分最后上了职校",
+      "topic_id": "231522e2deeed118af1b82deec8b4b67473ef8"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T15:00:00+08:00",
+      "metrics": "saved",
+      "query": "#郭德纲 改编红歌#",
+      "title": "郭德纲 改编红歌",
+      "topic_id": "2315229c9d2f351f74bd28636a03e1c6d8f860"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T11:00:00+08:00",
+      "metrics": "saved",
+      "query": "#爱吃西红柿的人真的赚了#",
+      "title": "爱吃西红柿的人真的赚了",
+      "topic_id": "231522f669a36fac37606990b759c2c6cf45a9"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T20:00:00+08:00",
+      "metrics": "saved",
+      "query": "#生理性喜欢是很可怕的一件事#",
+      "title": "生理性喜欢是很可怕的一件事",
+      "topic_id": "231522fa6cc712857c1dc7507100207de91fad"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-14T07:00:00+08:00",
+      "metrics": "saved",
+      "query": "#中国两大芯片巨头业绩超预期#",
+      "title": "中国两大芯片巨头业绩超预期",
+      "topic_id": "2315229ff8968035053f86aa4f1a9f9e9c1d32"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": false,
+      "last_listed_at": "2026-08-13T17:00:00+08:00",
+      "metrics": "saved",
+      "query": "#alo称退货留赠品包需扣450元#",
+      "title": "alo称退货留赠品包需扣450元",
+      "topic_id": "2315220dea5c196f659e7be9df3de6b44b4e9b"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T15:00:00+08:00",
+      "metrics": "saved",
+      "query": "#我国生态治理迈向新阶段#",
+      "title": "我国生态治理迈向新阶段",
+      "topic_id": "231522e5e21e8e730a7a2f43df14469963e462"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T14:00:00+08:00",
+      "metrics": "saved",
+      "query": "#胡先煦好结实的身材#",
+      "title": "胡先煦好结实的身材",
+      "topic_id": "231522f8df0fe73ab85f1c4b9998e5244fd21e"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T13:00:00+08:00",
+      "metrics": "saved",
+      "query": "#梁家辉在人民日报撰文#",
+      "title": "梁家辉在人民日报撰文",
+      "topic_id": "23152277daf8780efde79d9f4402922c297aa2"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-12T21:00:00+08:00",
+      "metrics": "saved",
+      "query": "#网传小s主持声生不息宝岛季#",
+      "title": "网传小s主持声生不息宝岛季",
+      "topic_id": "2315226cfdae4146f431e1c74fce2f6a502a1d"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T11:00:00+08:00",
+      "metrics": "saved",
+      "query": "#第五人格#",
+      "title": "第五人格",
+      "topic_id": "2315228fef4f8eac269bed1cd09eb50312ce52"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T23:00:00+08:00",
+      "metrics": "saved",
+      "query": "#冉莹颖说打输了大不了换老公#",
+      "title": "冉莹颖说打输了大不了换老公",
+      "topic_id": "2315220211bfaf3372c7178cef030fdd8d51d2"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T16:00:00+08:00",
+      "metrics": "saved",
+      "query": "#医学生不买新教材就退学引争议#",
+      "title": "医学生不买新教材就退学引争议",
+      "topic_id": "2315224ac7b6a85c39560195d44fe4860e6c56"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-14T00:00:00+08:00",
+      "metrics": "saved",
+      "query": "#梅德韦杰夫回击高市早苗#",
+      "title": "梅德韦杰夫回击高市早苗",
+      "topic_id": "23152251281d3f55ef4f5ddf5a20185e49fe48"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T23:00:00+08:00",
+      "metrics": "saved",
+      "query": "#中国男篮战胜乌拉圭男篮#",
+      "title": "中国男篮战胜乌拉圭男篮",
+      "topic_id": "23152296ef04137950dc3dc1f31055aa8f2248"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T18:00:00+08:00",
+      "metrics": "saved",
+      "query": "#请查收台风过后防护要点#",
+      "title": "请查收台风过后防护要点",
+      "topic_id": "23152249c93408668cbb2056d4dbfa783e8359"
+    },
+    {
+      "cadence": "hourly",
+      "has_heat": true,
+      "last_listed_at": "2026-08-13T15:00:00+08:00",
+      "metrics": "saved",
+      "query": "#邹市明曾回应重返拳击赛场#",
+      "title": "邹市明曾回应重返拳击赛场",
+      "topic_id": "231522275cc3496d92ed3c99c782e4c176fac9"
+    }
+  ],
+  "source_hotlist_at": "2026-08-14T10:00:00+08:00",
+  "summary": {
+    "failed": 0,
+    "saved": 100,
+    "selected": 100,
+    "stopped": 1
+  }
+}
