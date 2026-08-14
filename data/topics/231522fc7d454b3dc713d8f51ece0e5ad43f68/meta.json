@@ -3,10 +3,10 @@
   "created_at": "1368699957",
   "first_seen_at": "2026-08-14T20:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-14T23:00:00+08:00",
+  "last_seen_at": "2026-08-15T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%97%A0%E9%94%A1%E6%9A%B4%E9%9B%A8%23%26t%3D3&title=发布媒体",
-    "show_str": "60家媒体",
+    "show_str": "61家媒体",
     "users": [
       {
         "id": 1895719873,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 1681029540,
+        "idstr": "1681029540",
+        "screen_name": "新民周刊",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1667942985,
         "idstr": "1667942985",
         "screen_name": "长三角之声",
@@ -47,13 +54,6 @@
         "id": 2087169013,
         "idstr": "2087169013",
         "screen_name": "法治日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2016841587,
-        "idstr": "2016841587",
-        "screen_name": "无锡电视官方微博",
         "verified": true,
         "verified_type": 3
       }
