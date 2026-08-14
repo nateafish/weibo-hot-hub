@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2286908003
   },
-  "last_seen_at": "2026-08-14T19:00:00+08:00",
+  "last_seen_at": "2026-08-14T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%236%E5%9B%BE%E7%9C%8B%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD%E5%BB%BA%E8%AE%BE%E5%8D%81%E4%BA%94%E4%BA%94%E8%A7%84%E5%88%92%23%26t%3D3&title=发布媒体",
-    "show_str": "17家媒体",
+    "show_str": "19家媒体",
     "users": [
       {
         "id": 2286908003,
@@ -44,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 2812209690,
+        "idstr": "2812209690",
+        "screen_name": "黄石日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2001789077,
         "idstr": "2001789077",
         "screen_name": "兵团日报",
@@ -54,13 +61,6 @@
         "id": 1753234175,
         "idstr": "1753234175",
         "screen_name": "泰安日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7298805480,
-        "idstr": "7298805480",
-        "screen_name": "央视三农",
         "verified": true,
         "verified_type": 3
       }
