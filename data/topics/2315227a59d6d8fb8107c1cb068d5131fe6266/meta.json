@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2318910945
   },
-  "last_seen_at": "2026-08-15T11:00:00+08:00",
+  "last_seen_at": "2026-08-15T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E5%A5%B3%E5%84%BF%E8%A2%AB%E6%9B%9D%E6%B6%89%E5%AB%8C%E7%94%B5%E4%BF%A1%E6%AC%BA%E8%AF%88%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "9家媒体",
     "users": [
       {
         "id": 2318910945,
@@ -33,6 +33,13 @@
         "id": 5822206027,
         "idstr": "5822206027",
         "screen_name": "北斗融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2950854882,
+        "idstr": "2950854882",
+        "screen_name": "英伦圈",
         "verified": true,
         "verified_type": 3
       },
