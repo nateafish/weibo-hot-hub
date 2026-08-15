@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 6105713761
   },
-  "last_seen_at": "2026-08-15T19:00:00+08:00",
+  "last_seen_at": "2026-08-15T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%AD598%E4%B8%87%E7%94%B7%E5%AD%90%E4%B8%8D%E5%91%8A%E8%AF%89%E5%A6%BB%E5%84%BF%E7%88%B6%E6%AF%8D%23%26t%3D3&title=发布媒体",
-    "show_str": "12家媒体",
+    "show_str": "17家媒体",
     "users": [
       {
         "id": 6105713761,
@@ -44,6 +44,13 @@
         "verified_type": 7
       },
       {
+        "id": 3901624042,
+        "idstr": "3901624042",
+        "screen_name": "山西日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 3275115274,
         "idstr": "3275115274",
         "screen_name": "中国吉林网",
@@ -54,13 +61,6 @@
         "id": 2252846093,
         "idstr": "2252846093",
         "screen_name": "长春新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2191398120,
-        "idstr": "2191398120",
-        "screen_name": "成都商报美食",
         "verified": true,
         "verified_type": 3
       }
