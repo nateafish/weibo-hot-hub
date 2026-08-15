@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 6171706964
   },
-  "last_seen_at": "2026-08-16T06:00:00+08:00",
+  "last_seen_at": "2026-08-16T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9B%B9%E9%AA%8F%E6%8A%AB%E5%93%A5%E5%B8%AD%E4%BD%8D%E7%AC%AC%E4%B8%80%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "6家媒体",
     "users": [
       {
         "id": 1878335471,
@@ -23,9 +23,37 @@
         "verified_type": 3
       },
       {
+        "id": 2824067765,
+        "idstr": "2824067765",
+        "screen_name": "贺州日报官微",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1656737654,
         "idstr": "1656737654",
         "screen_name": "现代快报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1314608344,
+        "idstr": "1314608344",
+        "screen_name": "新闻晨报",
         "verified": true,
         "verified_type": 3
       }
