@@ -3,10 +3,10 @@
   "created_at": 1786777997,
   "first_seen_at": "2026-08-15T15:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-15T22:00:00+08:00",
+  "last_seen_at": "2026-08-15T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%83%96%E4%B8%9C%E6%9D%A5+%E5%88%91%E9%87%8A%E4%BA%BA%E5%91%98%23%26t%3D3&title=发布媒体",
-    "show_str": "19家媒体",
+    "show_str": "21家媒体",
     "users": [
       {
         "id": 1744332207,
@@ -19,6 +19,13 @@
         "id": 2252846093,
         "idstr": "2252846093",
         "screen_name": "长春新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -47,13 +54,6 @@
         "id": 5993531560,
         "idstr": "5993531560",
         "screen_name": "中新经纬",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2992050891,
-        "idstr": "2992050891",
-        "screen_name": "北京时间",
         "verified": true,
         "verified_type": 3
       }
