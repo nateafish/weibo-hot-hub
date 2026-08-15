@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 6511184518
   },
-  "last_seen_at": "2026-08-15T10:00:00+08:00",
+  "last_seen_at": "2026-08-15T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%B2%88%E6%A2%A6%E8%BE%B0%E5%9B%9E%E5%BA%94%E6%8A%AB%E5%93%A5%E6%9C%80%E7%B4%AF%E7%9A%84%E6%98%AF%E6%B2%88%E6%A2%A6%E8%BE%B0%23%26t%3D3&title=发布媒体",
-    "show_str": "9家媒体",
+    "show_str": "11家媒体",
     "users": [
+      {
+        "id": 1655444627,
+        "idstr": "1655444627",
+        "screen_name": "潇湘晨报",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 7708039348,
         "idstr": "7708039348",
@@ -23,9 +30,23 @@
         "verified_type": 3
       },
       {
+        "id": 7422806367,
+        "idstr": "7422806367",
+        "screen_name": "中网传播",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6418480627,
         "idstr": "6418480627",
         "screen_name": "星视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2460937233,
+        "idstr": "2460937233",
+        "screen_name": "热度新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -40,27 +61,6 @@
         "id": 2188202475,
         "idstr": "2188202475",
         "screen_name": "南京晨报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2075245652,
-        "idstr": "2075245652",
-        "screen_name": "长春晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2027480085,
-        "idstr": "2027480085",
-        "screen_name": "水母网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1723167603,
-        "idstr": "1723167603",
-        "screen_name": "950MusicRadio",
         "verified": true,
         "verified_type": 3
       }

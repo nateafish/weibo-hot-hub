@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1371701597
   },
-  "last_seen_at": "2026-08-15T10:00:00+08:00",
+  "last_seen_at": "2026-08-15T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8D%B0%E5%B0%BC7.7%E7%BA%A7%E5%9C%B0%E9%9C%87%E5%BC%95%E5%8F%91%E6%B5%B7%E5%95%B8%23%26t%3D3&title=发布媒体",
-    "show_str": "31家媒体",
+    "show_str": "35家媒体",
     "users": [
       {
         "id": 1720962692,
@@ -26,6 +26,13 @@
         "id": 1371701597,
         "idstr": "1371701597",
         "screen_name": "CCTV国际时讯",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 7373111326,
-        "idstr": "7373111326",
-        "screen_name": "正观新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6890796357,
-        "idstr": "6890796357",
-        "screen_name": "日照日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 6369501744,
         "idstr": "6369501744",
         "screen_name": "封面新闻视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5876448064,
+        "idstr": "5876448064",
+        "screen_name": "青蕉视频",
         "verified": true,
         "verified_type": 3
       }
