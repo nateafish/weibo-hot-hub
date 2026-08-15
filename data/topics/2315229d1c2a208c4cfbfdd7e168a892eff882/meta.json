@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 1803310643
   },
-  "last_seen_at": "2026-08-15T17:00:00+08:00",
+  "last_seen_at": "2026-08-15T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E3%E5%AE%98%E5%AE%A3%23%26t%3D3&title=发布媒体",
-    "show_str": "43家媒体",
+    "show_str": "47家媒体",
     "users": [
       {
         "id": 2337985010,
         "idstr": "2337985010",
         "screen_name": "瑞安融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1736708753,
+        "idstr": "1736708753",
+        "screen_name": "珠海特区报",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 6344061797,
         "idstr": "6344061797",
         "screen_name": "JSTV荔枝视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6298944273,
-        "idstr": "6298944273",
-        "screen_name": "北青娱乐热映大片",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3514732862,
-        "idstr": "3514732862",
-        "screen_name": "广西日报",
         "verified": true,
         "verified_type": 3
       }
