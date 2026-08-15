@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1893892941
   },
-  "last_seen_at": "2026-08-15T09:00:00+08:00",
+  "last_seen_at": "2026-08-15T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%AE%A3%E5%B8%83%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E4%B8%BA%E7%BE%8E%E9%A2%86%E5%9C%9F%23%26t%3D3&title=发布媒体",
-    "show_str": "28家媒体",
+    "show_str": "63家媒体",
     "users": [
       {
         "id": 1893892941,
@@ -30,6 +30,13 @@
         "verified_type": 3
       },
       {
+        "id": 1720962692,
+        "idstr": "1720962692",
+        "screen_name": "极目新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7739029497,
         "idstr": "7739029497",
         "screen_name": "中国军号",
@@ -37,30 +44,23 @@
         "verified_type": 3
       },
       {
+        "id": 6221932120,
+        "idstr": "6221932120",
+        "screen_name": "直新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2632236847,
+        "idstr": "2632236847",
+        "screen_name": "香港文匯網",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1893801487,
         "idstr": "1893801487",
         "screen_name": "微天下",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7542252663,
-        "idstr": "7542252663",
-        "screen_name": "北京质量报告",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6910453729,
-        "idstr": "6910453729",
-        "screen_name": "绍虞城事通网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5539777260,
-        "idstr": "5539777260",
-        "screen_name": "菏泽日报",
         "verified": true,
         "verified_type": 3
       }

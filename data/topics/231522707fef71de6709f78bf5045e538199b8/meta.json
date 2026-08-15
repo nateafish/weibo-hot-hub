@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 2011075080
   },
-  "last_seen_at": "2026-08-15T09:00:00+08:00",
+  "last_seen_at": "2026-08-15T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%91%8A%E8%B4%A9%E5%B8%8C%E6%9C%9B%E8%83%96%E4%B8%9C%E6%9D%A5%E5%86%8D%E8%B7%9F%E6%88%BF%E4%B8%9C%E5%88%87%E7%A3%8B%E5%88%87%E7%A3%8B%23%26t%3D3&title=发布媒体",
-    "show_str": "16家媒体",
+    "show_str": "30家媒体",
     "users": [
+      {
+        "id": 2286092114,
+        "idstr": "2286092114",
+        "screen_name": "中国蓝新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2011075080,
         "idstr": "2011075080",
@@ -51,16 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 6536846182,
-        "idstr": "6536846182",
-        "screen_name": "现代快报快快看视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2992050891,
-        "idstr": "2992050891",
-        "screen_name": "北京时间",
+        "id": 7613700701,
+        "idstr": "7613700701",
+        "screen_name": "共富财经",
         "verified": true,
         "verified_type": 3
       }

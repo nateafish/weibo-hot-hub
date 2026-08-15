@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-08-15T10:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#让思想之光照亮强军征程#",
+      "rank": 1,
+      "title": "让思想之光照亮强军征程",
+      "topic_id": "23152253f1a484632d039a6f622aacc01b45f6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#旺旺最大的对手竟是糖#",
+      "rank": 1,
+      "title": "旺旺最大的对手竟是糖",
+      "topic_id": "231522b650222ecead3bf8d11fc3eb3a00a4c9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "日本 拜鬼",
+      "rank": 2,
+      "title": "日本 拜鬼",
+      "topic_id": "231522849c019fde31987a55b2f2b7dd55f614"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#中国China成为潮流#",
+      "rank": 3,
+      "title": "中国China成为潮流",
+      "topic_id": "23152231c23d7068256120cc2281236df34a91"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#旺旺集团面临重大经营危机#",
+      "rank": 4,
+      "title": "旺旺集团面临重大经营危机",
+      "topic_id": "231522102f1a16aa0014ba211bd7feae0d4fd4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#网友集体呼吁旺旺减糖#",
+      "rank": 5,
+      "title": "网友集体呼吁旺旺减糖",
+      "topic_id": "23152285eeaf2071123edf1b88e9519b1cf698"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王传君体脂率25.5%#",
+      "rank": 6,
+      "title": "王传君体脂率25.5%",
+      "topic_id": "231522c734bc3ffff5b3608770fc38731f5b41"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "印尼7.7级地震",
+      "rank": 7,
+      "title": "印尼7.7级地震",
+      "topic_id": "231522e8181703a03f327b14008c90b42dbcf7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#国乒男单无缘八强#",
+      "rank": 8,
+      "title": "国乒男单无缘八强",
+      "topic_id": "2315225a69ca6f9c98d717e7e93defa5178521"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#金价银价油价都涨了#",
+      "rank": 9,
+      "title": "金价银价油价都涨了",
+      "topic_id": "2315225a6b6c559a0fc439d2bc7af1839889a0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "牛来",
+      "rank": 10,
+      "title": "牛来",
+      "topic_id": "231522cf5743a51032d5cb5c34e5e04b03d53f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "王嘉尔吃自己的瓜",
+      "rank": 11,
+      "title": "王嘉尔吃自己的瓜",
+      "topic_id": "23152279b9e9693c3e4d78a876429d6980423d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#路易吉正式认罪#",
+      "rank": 12,
+      "title": "路易吉正式认罪",
+      "topic_id": "231522ac1eba5405edcb0dfb16d927d3725977"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#要被关晓彤这双腿给晃晕了#",
+      "rank": 13,
+      "title": "要被关晓彤这双腿给晃晕了",
+      "topic_id": "231522ba732d46861a5d5863d4168bafa0542e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#谢霆锋二儿子近照曝光#",
+      "rank": 14,
+      "title": "谢霆锋二儿子近照曝光",
+      "topic_id": "2315226c7e8086b39a74c56ba4c5240259abcd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女孩停用网红面霜后成激素脸#",
+      "rank": 15,
+      "title": "女孩停用网红面霜后成激素脸",
+      "topic_id": "2315223bf18b8bd4af2cf8c80c18d9d6968fec"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "喻言 体面",
+      "rank": 16,
+      "title": "喻言 体面",
+      "topic_id": "23152268bafb558e1e1bb1ecdb9f08f522e93f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "isa原生家庭",
+      "rank": 17,
+      "title": "isa原生家庭",
+      "topic_id": "231522596c13fee0a436ca257ffe092fbf4024"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "慢性压力导致幻想沉溺",
+      "rank": 18,
+      "title": "慢性压力导致幻想沉溺",
+      "topic_id": "2315225c31568ef0030992d15bf2697f2f8204"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#曝时代少年团加开演唱会#",
+      "rank": 19,
+      "title": "曝时代少年团加开演唱会",
+      "topic_id": "23152295563cc92288680c3839d5042920874b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#路虎BBA保时捷价格大跳水#",
+      "rank": 20,
+      "title": "路虎BBA保时捷价格大跳水",
+      "topic_id": "231522bca775417e60eeddf0860e0dca78f560"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#曝王嘉尔纹身是宋雨琦粉丝名#",
+      "rank": 21,
+      "title": "曝王嘉尔纹身是宋雨琦粉丝名",
+      "topic_id": "23152260ee730906ced5f31b23fd2648acab3e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "张雅琪 湖南卫视下场",
+      "rank": 22,
+      "title": "张雅琪 湖南卫视下场",
+      "topic_id": "231522ce2ce7f6055a30de5dd514125580b7a0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "北京暴雨",
+      "rank": 23,
+      "title": "北京暴雨",
+      "topic_id": "231522843c1116d75e08727891d2c6f46bc7de"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "河南暴雨",
+      "rank": 24,
+      "title": "河南暴雨",
+      "topic_id": "2315228b3893ef7bba3437749efd74f7441364"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#猝死前24小时身体发出的提醒#",
+      "rank": 25,
+      "title": "猝死前24小时身体发出的提醒",
+      "topic_id": "231522813007e288e575189c7df2c889355019"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#C罗追平世界纪录#",
+      "rank": 26,
+      "title": "C罗追平世界纪录",
+      "topic_id": "2315222657adde548f1b3e4e0f172d340d7c90"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王楚然一看手机天又塌了#",
+      "rank": 27,
+      "title": "王楚然一看手机天又塌了",
+      "topic_id": "2315221c4855c02fe098d8acdfb7ddc0da410f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#旺旺都不好卖了#",
+      "rank": 28,
+      "title": "旺旺都不好卖了",
+      "topic_id": "231522326eda18a615074dcfc1efb486e2ae39"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#沈梦辰回应披哥最累的是沈梦辰#",
+      "rank": 29,
+      "title": "沈梦辰回应披哥最累的是沈梦辰",
+      "topic_id": "23152290e116d3ca2242bf2748bd8a7dae5aaf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#母亲出轨女儿带父亲找到第三者#",
+      "rank": 30,
+      "title": "母亲出轨女儿带父亲找到第三者",
+      "topic_id": "2315226aa87155bac717ef0f74c88f501cf1fd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#母女被拐卖父亲被骗无偿工作11年#",
+      "rank": 31,
+      "title": "母女被拐卖父亲被骗无偿工作11年",
+      "topic_id": "2315227d757f34c20d3b2be19ea0f263bcd146"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#特朗普称将宣布霍尔木兹海峡为美领土#",
+      "rank": 32,
+      "title": "特朗普称将宣布霍尔木兹海峡为美领土",
+      "topic_id": "231522b5165af6e71474bca1bcfdf93f85702b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "答应保姆涨薪后反手让她带薪休假",
+      "rank": 33,
+      "title": "答应保姆涨薪后反手让她带薪休假",
+      "topic_id": "23152202d252dcfd16f4d542f9eec41499634f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#61岁乘客被吸出飞机窗外#",
+      "rank": 34,
+      "title": "61岁乘客被吸出飞机窗外",
+      "topic_id": "231522201feb3f1380fd3fd584a0a5bbff741b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "邓紫棋发型十五分钟就淋直了",
+      "rank": 35,
+      "title": "邓紫棋发型十五分钟就淋直了",
+      "topic_id": "231522bb896319e7b026407c71d259a32f6b70"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#印尼7.7级地震引发海啸#",
+      "rank": 36,
+      "title": "印尼7.7级地震引发海啸",
+      "topic_id": "2315226ec4c86a4a2043ba8e4793d11c2bb61a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#摊贩希望胖东来再跟房东切磋切磋#",
+      "rank": 37,
+      "title": "摊贩希望胖东来再跟房东切磋切磋",
+      "topic_id": "231522707fef71de6709f78bf5045e538199b8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#东契奇称湖人现有阵容能冲冠#",
+      "rank": 38,
+      "title": "东契奇称湖人现有阵容能冲冠",
+      "topic_id": "231522a4e121b2a95c04988ee387c2c4adb4b3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#郭宇欣新剧清醒到让人心疼#",
+      "rank": 39,
+      "title": "郭宇欣新剧清醒到让人心疼",
+      "topic_id": "2315226084ce5dea09745e8fc5bce9460cf368"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#比尔盖茨女儿被曝涉嫌电信欺诈#",
+      "rank": 40,
+      "title": "比尔盖茨女儿被曝涉嫌电信欺诈",
+      "topic_id": "2315227a59d6d8fb8107c1cb068d5131fe6266"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#日本防相小泉进次郎参拜靖国神社#",
+      "rank": 41,
+      "title": "日本防相小泉进次郎参拜靖国神社",
+      "topic_id": "23152226805ded4c86670d4333dc080ea5c50f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "南宁女患者就医遭专家猥亵已立案",
+      "rank": 42,
+      "title": "南宁女患者就医遭专家猥亵已立案",
+      "topic_id": "2315228ecc98fcf3d226a5a4f765ae8494bedc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#谁给小沈阳化的妆#",
+      "rank": 43,
+      "title": "谁给小沈阳化的妆",
+      "topic_id": "231522c523984b0453769dad25871cd442900c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#44岁男子脑梗无法进食被一根冰棍救了#",
+      "rank": 44,
+      "title": "44岁男子脑梗无法进食被一根冰棍救了",
+      "topic_id": "231522aee363d01879226de5250d561b7450b6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#沈腾的沈精兵来支持龙餐馆了#",
+      "rank": 45,
+      "title": "沈腾的沈精兵来支持龙餐馆了",
+      "topic_id": "231522bcda80ff3a64cb969bcc510fad226775"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#陈思罕都痛得快要蜷缩了#",
+      "rank": 46,
+      "title": "陈思罕都痛得快要蜷缩了",
+      "topic_id": "2315222e957c6574584ede61dcda234771b5b5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "医保政策 抢救成本",
+      "rank": 47,
+      "title": "医保政策 抢救成本",
+      "topic_id": "231522289d4933cbc7c1f357e4261727a7b6f2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "北京 冰雹",
+      "rank": 48,
+      "title": "北京 冰雹",
+      "topic_id": "2315228690c065c2b103a289b81d62dc52b907"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "岚图追光S大回环被疑AI",
+      "rank": 49,
+      "title": "岚图追光S大回环被疑AI",
+      "topic_id": "231522e006c5726c460cb9fd7e747b4e4997b6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#披哥初舞台pk#",
+      "rank": 50,
+      "title": "披哥初舞台pk",
+      "topic_id": "231522d1ac68f6c062321aa956171ae80e7f04"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
