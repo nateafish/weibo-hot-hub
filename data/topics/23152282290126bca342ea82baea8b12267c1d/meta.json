@@ -3,10 +3,10 @@
   "created_at": 1786762270,
   "first_seen_at": "2026-08-15T11:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-15T14:00:00+08:00",
+  "last_seen_at": "2026-08-15T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%B4%E7%9C%BC%E9%95%9C%E6%98%AF%E6%96%9C%E7%9A%84%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "24家媒体",
+    "show_str": "27家媒体",
     "users": [
       {
         "id": 2075245652,
@@ -19,6 +19,13 @@
         "id": 1774057271,
         "idstr": "1774057271",
         "screen_name": "生命时报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3251720635,
+        "idstr": "3251720635",
+        "screen_name": "邯郸网络广播电视台",
         "verified": true,
         "verified_type": 3
       },
@@ -47,13 +54,6 @@
         "id": 3288875501,
         "idstr": "3288875501",
         "screen_name": "河南日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3242792887,
-        "idstr": "3242792887",
-        "screen_name": "吉林日报",
         "verified": true,
         "verified_type": 3
       }

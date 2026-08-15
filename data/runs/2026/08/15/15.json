@@ -1,0 +1,537 @@
+{
+  "captured_at": "2026-08-15T15:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 0,
+    "metrics_saved": 50,
+    "posts_saved": 50
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#共绘美丽中国新画卷#",
+      "rank": 1,
+      "title": "共绘美丽中国新画卷",
+      "topic_id": "23152230147616fe0c329941f414e1bb5e63a9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "牛来票房暴涨1000倍",
+      "rank": 1,
+      "title": "牛来票房暴涨1000倍",
+      "topic_id": "231522a6b98a1d71c188f54b4f16a133d68b41"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "旺旺 配料表",
+      "rank": 2,
+      "title": "旺旺 配料表",
+      "topic_id": "231522ad0fa4ac2a137c49d0f14b797e3d011d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#9组数据看美丽中国建设成果#",
+      "rank": 3,
+      "title": "9组数据看美丽中国建设成果",
+      "topic_id": "231522e25c02374dab97a3d61441f2234722d7"
+    },
+    {
+      "ai": "pending",
+      "metrics": "failed",
+      "metrics_error": "TopicFetchError: Topic detail is missing a stable id or title",
+      "posts": "pending",
+      "query": "牛来怎么过审的",
+      "rank": 4,
+      "title": "牛来怎么过审的"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#疯狂动物城3官宣#",
+      "rank": 5,
+      "title": "疯狂动物城3官宣",
+      "topic_id": "2315229d1c2a208c4cfbfdd7e168a892eff882"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "同事跳槽公司找了七个人替岗",
+      "rank": 6,
+      "title": "同事跳槽公司找了七个人替岗",
+      "topic_id": "2315223e05ee205d5a1ce22d5c910350012e8a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "妈妈去世多少年才能不难过",
+      "rank": 7,
+      "title": "妈妈去世多少年才能不难过",
+      "topic_id": "2315220f1240fa4feaa1df407cf5829a8e17e9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "牛来 龙标",
+      "rank": 8,
+      "title": "牛来 龙标",
+      "topic_id": "2315221dfe7d584bd73c15f3dbfc09b21dcc53"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#手机涨得快买不起了#",
+      "rank": 9,
+      "title": "手机涨得快买不起了",
+      "topic_id": "23152280e13d3f3c64ecaebb7b5eb18017442b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#胖东来首批刑释职工30人无一离职#",
+      "rank": 10,
+      "title": "胖东来首批刑释职工30人无一离职",
+      "topic_id": "231522a252de7085e72360f16672ad1420b1be"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "王嘉尔吃自己的瓜",
+      "rank": 11,
+      "title": "王嘉尔吃自己的瓜",
+      "topic_id": "23152279b9e9693c3e4d78a876429d6980423d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "牛来传到韩国了",
+      "rank": 12,
+      "title": "牛来传到韩国了",
+      "topic_id": "231522fbca966f880b3d268ab5299af876f233"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "国乒男单全军覆没",
+      "rank": 13,
+      "title": "国乒男单全军覆没",
+      "topic_id": "231522851b9257420cdf10708eabfd03ec44e7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "牛来 烂片",
+      "rank": 14,
+      "title": "牛来 烂片",
+      "topic_id": "231522076f489565e74a3bb86fff8c2307e556"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "牛来 劣币驱逐良币",
+      "rank": 15,
+      "title": "牛来 劣币驱逐良币",
+      "topic_id": "23152265e294e502d8aad50b52921f59ebb8de"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "日本 拜鬼",
+      "rank": 16,
+      "title": "日本 拜鬼",
+      "topic_id": "231522849c019fde31987a55b2f2b7dd55f614"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "天津已经进化成这样了吗",
+      "rank": 17,
+      "title": "天津已经进化成这样了吗",
+      "topic_id": "231522514915df667321741c25175fe0d9b67b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#历史未走远吾辈当自强#",
+      "rank": 18,
+      "title": "历史未走远吾辈当自强",
+      "topic_id": "2315225231e51cc0281cfa4dfcf309a6eb1a76"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#牛来票房破10万#",
+      "rank": 19,
+      "title": "牛来票房破10万",
+      "topic_id": "231522f3af7c072ed2dbc7960c8fb5ff74dfe0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "胖东来 刑释人员",
+      "rank": 20,
+      "title": "胖东来 刑释人员",
+      "topic_id": "2315223082cf40cf11e6a73e6b66d8ead4bf1f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "谢霆锋王菲情侣手镯",
+      "rank": 21,
+      "title": "谢霆锋王菲情侣手镯",
+      "topic_id": "2315227c595203699b084bfde246693dc4d3e5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#50岁大哥收废品月入过万#",
+      "rank": 22,
+      "title": "50岁大哥收废品月入过万",
+      "topic_id": "2315228f612984fb116809ad1f2ff08ac2adce"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "王一博 飞天奖",
+      "rank": 23,
+      "title": "王一博 飞天奖",
+      "topic_id": "2315220a52d90d80f57bd09358b64a0b554db3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#虞书欣真的陷入猴子怪谈里了#",
+      "rank": 24,
+      "title": "虞书欣真的陷入猴子怪谈里了",
+      "topic_id": "2315222794b7011919003456c0572dc62155d9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#年轻人猝死大多有两个共性#",
+      "rank": 25,
+      "title": "年轻人猝死大多有两个共性",
+      "topic_id": "2315225705890d8b010979470816bb4049d75b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#章若楠被直播间美颜吓到#",
+      "rank": 26,
+      "title": "章若楠被直播间美颜吓到",
+      "topic_id": "2315226ed8e94abe67894b9a918c72764d6731"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#TF四代要唱时团的刺#",
+      "rank": 27,
+      "title": "TF四代要唱时团的刺",
+      "topic_id": "231522ad8303bda707046fd4a7a1d7e8ced5ce"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "印尼7.7级地震",
+      "rank": 28,
+      "title": "印尼7.7级地震",
+      "topic_id": "231522e8181703a03f327b14008c90b42dbcf7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#旺旺回应网友集体呼吁减糖#",
+      "rank": 29,
+      "title": "旺旺回应网友集体呼吁减糖",
+      "topic_id": "231522b265a8218d64766daf40ea35224aeb18"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#00后不急着考驾照了#",
+      "rank": 30,
+      "title": "00后不急着考驾照了",
+      "topic_id": "231522b28f3cb197062b0f9c827ccb022ba5ed"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "牛来",
+      "rank": 31,
+      "title": "牛来",
+      "topic_id": "231522cf5743a51032d5cb5c34e5e04b03d53f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "终于知道为什么戴眼镜是斜的了",
+      "rank": 32,
+      "title": "终于知道为什么戴眼镜是斜的了",
+      "topic_id": "23152282290126bca342ea82baea8b12267c1d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#黄晓明看张雅琪的眼神#",
+      "rank": 33,
+      "title": "黄晓明看张雅琪的眼神",
+      "topic_id": "231522257686fa0115930cbdfaa931c6191e74"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "牛来 股民",
+      "rank": 34,
+      "title": "牛来 股民",
+      "topic_id": "2315225adc748b8536d350d6375a5af20e7371"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "美国夫妇网购中国折叠房",
+      "rank": 35,
+      "title": "美国夫妇网购中国折叠房",
+      "topic_id": "2315228ce70d0b46b513f3b41773e7b72912a4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "牛来硬刚奥德赛",
+      "rank": 36,
+      "title": "牛来硬刚奥德赛",
+      "topic_id": "231522afbed7e7e7111edc006dc71a06703e9e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "曝王嘉尔宋雨琦恋情",
+      "rank": 37,
+      "title": "曝王嘉尔宋雨琦恋情",
+      "topic_id": "2315227825d625b08ff101471d7feac0ade8a2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "婚姻追求公平不如一个人过",
+      "rank": 38,
+      "title": "婚姻追求公平不如一个人过",
+      "topic_id": "2315223bc9ed59482ca1305c18564689a2e3ed"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#苏格兰女子吹风机烤死3个月大女儿#",
+      "rank": 39,
+      "title": "苏格兰女子吹风机烤死3个月大女儿",
+      "topic_id": "231522ee7374cd62595b44b98bc61a877f1d1a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#徐梦桃听到婆婆被家暴的反应#",
+      "rank": 40,
+      "title": "徐梦桃听到婆婆被家暴的反应",
+      "topic_id": "23152244f7e8e88b6f13798a0c31b05fe30a24"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "曝内娱把热度高的大IP拍完了",
+      "rank": 41,
+      "title": "曝内娱把热度高的大IP拍完了",
+      "topic_id": "231522691162c81cda5eb60ab7a4f3be2d8955"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "终于明白减重减肥减脂区别",
+      "rank": 42,
+      "title": "终于明白减重减肥减脂区别",
+      "topic_id": "23152270d919d17d775136a789083801a48606"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#九门大结局只有九爷不在了#",
+      "rank": 43,
+      "title": "九门大结局只有九爷不在了",
+      "topic_id": "2315222ea9f55946fe5cb3fbc227f159d13e23"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#金泰妍瘦成纸片了#",
+      "rank": 44,
+      "title": "金泰妍瘦成纸片了",
+      "topic_id": "231522b715162e9e32f99a5a0e1d17331f7d2e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "不要和锅品差的人吃火锅",
+      "rank": 45,
+      "title": "不要和锅品差的人吃火锅",
+      "topic_id": "231522782001f5a7dc658bf65f3b8e635b7d93"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "短剧 按摩大脑",
+      "rank": 46,
+      "title": "短剧 按摩大脑",
+      "topic_id": "2315221df2b34cf4cf121b5bbe812b26c1ee8a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#猫眼给王俊凯送广东特色花篮#",
+      "rank": 47,
+      "title": "猫眼给王俊凯送广东特色花篮",
+      "topic_id": "2315229203f167c5fc764c2c29d0810ada262a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#比利时一学生挖到大量金币金条#",
+      "rank": 48,
+      "title": "比利时一学生挖到大量金币金条",
+      "topic_id": "23152212910253c06a3c1fbb236bb19dae138f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "真正的情绪稳定是什么样的",
+      "rank": 49,
+      "title": "真正的情绪稳定是什么样的",
+      "topic_id": "231522061a446d577d84ce853d93740a47bc22"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "AG用时5分57秒结束比赛破纪录",
+      "rank": 50,
+      "title": "AG用时5分57秒结束比赛破纪录",
+      "topic_id": "23152241bd0a9274bff7525d0fdebfcdc2f0d5"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 0.9803921568627451,
+      "metrics": 0.9803921568627451,
+      "posts": 0.9803921568627451
+    }
+  }
+}

@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1803310643
   },
-  "last_seen_at": "2026-08-15T14:00:00+08:00",
+  "last_seen_at": "2026-08-15T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E3%E5%AE%98%E5%AE%A3%23%26t%3D3&title=发布媒体",
-    "show_str": "9家媒体",
+    "show_str": "23家媒体",
     "users": [
       {
         "id": 2337985010,
         "idstr": "2337985010",
         "screen_name": "瑞安融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7141087529,
+        "idstr": "7141087529",
+        "screen_name": "铁骥视频",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 2535760180,
-        "idstr": "2535760180",
-        "screen_name": "安徽视讯",
+        "id": 2921799343,
+        "idstr": "2921799343",
+        "screen_name": "天下泉城",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2292896411,
-        "idstr": "2292896411",
-        "screen_name": "中工网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2106115754,
-        "idstr": "2106115754",
-        "screen_name": "北京文艺广播",
+        "id": 2824067765,
+        "idstr": "2824067765",
+        "screen_name": "贺州日报官微",
         "verified": true,
         "verified_type": 3
       }

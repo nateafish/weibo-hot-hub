@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1784473157
   },
-  "last_seen_at": "2026-08-15T14:00:00+08:00",
+  "last_seen_at": "2026-08-15T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%2300%E5%90%8E%E4%B8%8D%E6%80%A5%E7%9D%80%E8%80%83%E9%A9%BE%E7%85%A7%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "8家媒体",
+    "show_str": "10家媒体",
     "users": [
       {
         "id": 1784473157,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 2647971081,
+        "idstr": "2647971081",
+        "screen_name": "时速新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2553604372,
         "idstr": "2553604372",
         "screen_name": "福州新闻网fznews",
@@ -54,13 +61,6 @@
         "id": 1895697240,
         "idstr": "1895697240",
         "screen_name": "福州日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1735937570,
-        "idstr": "1735937570",
-        "screen_name": "江南都市报",
         "verified": true,
         "verified_type": 3
       }

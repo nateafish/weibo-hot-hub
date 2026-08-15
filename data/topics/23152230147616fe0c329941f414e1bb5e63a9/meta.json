@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2656274875
   },
-  "last_seen_at": "2026-08-15T14:00:00+08:00",
+  "last_seen_at": "2026-08-15T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%85%B1%E7%BB%98%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD%E6%96%B0%E7%94%BB%E5%8D%B7%23%26t%3D3&title=发布媒体",
-    "show_str": "34家媒体",
+    "show_str": "33家媒体",
     "users": [
       {
         "id": 2656274875,
         "idstr": "2656274875",
         "screen_name": "央视新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1904947977,
+        "idstr": "1904947977",
+        "screen_name": "天山网",
         "verified": true,
         "verified_type": 3
       },
@@ -40,13 +47,6 @@
         "id": 2628314830,
         "idstr": "2628314830",
         "screen_name": "合肥晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1667942985,
-        "idstr": "1667942985",
-        "screen_name": "长三角之声",
         "verified": true,
         "verified_type": 3
       },

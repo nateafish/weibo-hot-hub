@@ -3,15 +3,22 @@
   "created_at": 1786761814,
   "first_seen_at": "2026-08-15T11:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-15T14:00:00+08:00",
+  "last_seen_at": "2026-08-15T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9B%9D%E5%86%85%E5%A8%B1%E6%8A%8A%E7%83%AD%E5%BA%A6%E9%AB%98%E7%9A%84%E5%A4%A7IP%E6%8B%8D%E5%AE%8C%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "14家媒体",
+    "show_str": "16家媒体",
     "users": [
       {
         "id": 1655444627,
         "idstr": "1655444627",
         "screen_name": "潇湘晨报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1720962692,
+        "idstr": "1720962692",
+        "screen_name": "极目新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -47,13 +54,6 @@
         "id": 2921799343,
         "idstr": "2921799343",
         "screen_name": "天下泉城",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2337985010,
-        "idstr": "2337985010",
-        "screen_name": "瑞安融媒",
         "verified": true,
         "verified_type": 3
       }
