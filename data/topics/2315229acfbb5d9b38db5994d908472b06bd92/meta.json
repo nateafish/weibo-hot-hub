@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 6105713761
   },
-  "last_seen_at": "2026-08-16T05:00:00+08:00",
+  "last_seen_at": "2026-08-16T06:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%8E%B7%E5%8D%83%E4%B8%87%E6%89%93%E8%B5%8F%E5%A5%B3%E4%B8%BB%E6%92%AD%E6%B6%89%E8%AF%88%E9%AA%97%E8%A2%AB%E5%85%AC%E8%AF%89%23%26t%3D3&title=发布媒体",
     "show_str": "4家媒体",
     "users": [
+      {
+        "id": 1700648435,
+        "idstr": "1700648435",
+        "screen_name": "成都商报",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 6105713761,
         "idstr": "6105713761",
@@ -33,13 +40,6 @@
         "id": 1974335820,
         "idstr": "1974335820",
         "screen_name": "成都商报报料",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1700648435,
-        "idstr": "1700648435",
-        "screen_name": "成都商报",
         "verified": true,
         "verified_type": 3
       }
