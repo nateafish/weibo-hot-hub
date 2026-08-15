@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 1655444627
   },
-  "last_seen_at": "2026-08-15T21:00:00+08:00",
+  "last_seen_at": "2026-08-15T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A6%88%E5%A6%88%E8%B7%AF%E4%B8%8A%E4%B8%8D%E6%85%8E%E5%BC%84%E4%B8%A2%E5%84%BF%E5%AD%90%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%23%26t%3D3&title=发布媒体",
-    "show_str": "12家媒体",
+    "show_str": "18家媒体",
     "users": [
       {
         "id": 1655444627,
         "idstr": "1655444627",
         "screen_name": "潇湘晨报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1725252714,
+        "idstr": "1725252714",
+        "screen_name": "温度新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -37,30 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2188202475,
-        "idstr": "2188202475",
-        "screen_name": "南京晨报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2105365573,
-        "idstr": "2105365573",
-        "screen_name": "威海播报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1941424392,
-        "idstr": "1941424392",
-        "screen_name": "台州晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1926641510,
-        "idstr": "1926641510",
-        "screen_name": "浪潮新闻",
+        "id": 2318910945,
+        "idstr": "2318910945",
+        "screen_name": "新浪热点",
         "verified": true,
         "verified_type": 3
       }

@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 1960785875
   },
-  "last_seen_at": "2026-08-15T21:00:00+08:00",
+  "last_seen_at": "2026-08-15T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E6%89%93%E8%B5%8F%E5%8D%83%E4%B8%87%E5%90%8E%E8%A6%81%E6%B1%82%E9%99%AA%E7%9D%A1%23%26t%3D3&title=发布媒体",
-    "show_str": "20家媒体",
+    "show_str": "40家媒体",
     "users": [
       {
         "id": 1960785875,
         "idstr": "1960785875",
         "screen_name": "津云新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2028810631,
+        "idstr": "2028810631",
+        "screen_name": "新浪新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1717833412,
+        "idstr": "1717833412",
+        "screen_name": "华商报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 7639071132,
-        "idstr": "7639071132",
-        "screen_name": "篝火视频",
+        "id": 1959444680,
+        "idstr": "1959444680",
+        "screen_name": "云南网",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 7516679696,
-        "idstr": "7516679696",
-        "screen_name": "九派新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6590980486,
-        "idstr": "6590980486",
-        "screen_name": "捉谣记",
-        "verified": true,
-        "verified_type": 7
-      },
-      {
-        "id": 6357456494,
-        "idstr": "6357456494",
-        "screen_name": "果然视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6105713761,
-        "idstr": "6105713761",
-        "screen_name": "红星新闻",
+        "id": 1899950161,
+        "idstr": "1899950161",
+        "screen_name": "南国早报",
         "verified": true,
         "verified_type": 3
       }
