@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 6115560351
   },
-  "last_seen_at": "2026-08-15T07:00:00+08:00",
+  "last_seen_at": "2026-08-15T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%97%BA%E6%97%BA%E9%9B%86%E5%9B%A2%E9%9D%A2%E4%B8%B4%E9%87%8D%E5%A4%A7%E7%BB%8F%E8%90%A5%E5%8D%B1%E6%9C%BA%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "69家媒体",
     "users": [
       {
         "id": 6115560351,
         "idstr": "6115560351",
         "screen_name": "国是直通车",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1618051664,
+        "idstr": "1618051664",
+        "screen_name": "头条新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,30 +44,23 @@
         "verified_type": 3
       },
       {
-        "id": 2252846093,
-        "idstr": "2252846093",
-        "screen_name": "长春新闻",
+        "id": 1700087532,
+        "idstr": "1700087532",
+        "screen_name": "三湘都市报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1727472420,
-        "idstr": "1727472420",
-        "screen_name": "泰山晚报",
+        "id": 6092578444,
+        "idstr": "6092578444",
+        "screen_name": "新浪种草官",
         "verified": true,
-        "verified_type": 3
+        "verified_type": 7
       },
       {
-        "id": 1720962692,
-        "idstr": "1720962692",
-        "screen_name": "极目新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1677991972,
-        "idstr": "1677991972",
-        "screen_name": "晶报",
+        "id": 3275115274,
+        "idstr": "3275115274",
+        "screen_name": "中国吉林网",
         "verified": true,
         "verified_type": 3
       }
