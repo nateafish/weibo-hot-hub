@@ -10,18 +10,11 @@
     "status": 2,
     "uid": 2810373291
   },
-  "last_seen_at": "2026-08-15T20:00:00+08:00",
+  "last_seen_at": "2026-08-15T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%2350%E7%A7%92%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%BB%BF%E8%89%B2%E5%A5%87%E8%BF%B9%23%26t%3D3&title=发布媒体",
-    "show_str": "16家媒体",
+    "show_str": "23家媒体",
     "users": [
-      {
-        "id": 1420157965,
-        "idstr": "1420157965",
-        "screen_name": "上游新闻",
-        "verified": true,
-        "verified_type": 3
-      },
       {
         "id": 2810373291,
         "idstr": "2810373291",
@@ -30,9 +23,30 @@
         "verified_type": 3
       },
       {
+        "id": 1420157965,
+        "idstr": "1420157965",
+        "screen_name": "上游新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2001789077,
         "idstr": "2001789077",
         "screen_name": "兵团日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1974576991,
+        "idstr": "1974576991",
+        "screen_name": "环球时报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1686546714,
+        "idstr": "1686546714",
+        "screen_name": "环球网",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 7298805480,
         "idstr": "7298805480",
         "screen_name": "央视三农",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7126605018,
-        "idstr": "7126605018",
-        "screen_name": "各界新闻网官微",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3804173419,
-        "idstr": "3804173419",
-        "screen_name": "各界导报社官微",
         "verified": true,
         "verified_type": 3
       }
