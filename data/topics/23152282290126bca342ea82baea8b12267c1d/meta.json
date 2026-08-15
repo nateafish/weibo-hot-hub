@@ -3,15 +3,29 @@
   "created_at": 1786762270,
   "first_seen_at": "2026-08-15T11:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-15T12:00:00+08:00",
+  "last_seen_at": "2026-08-15T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%B4%E7%9C%BC%E9%95%9C%E6%98%AF%E6%96%9C%E7%9A%84%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "12家媒体",
+    "show_str": "20家媒体",
     "users": [
       {
         "id": 2075245652,
         "idstr": "2075245652",
         "screen_name": "长春晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1774057271,
+        "idstr": "1774057271",
+        "screen_name": "生命时报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7298805480,
+        "idstr": "7298805480",
+        "screen_name": "央视三农",
         "verified": true,
         "verified_type": 3
       },
@@ -23,37 +37,23 @@
         "verified_type": 3
       },
       {
+        "id": 3288875501,
+        "idstr": "3288875501",
+        "screen_name": "河南日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3165101432,
+        "idstr": "3165101432",
+        "screen_name": "广元日报看广元",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2660940103,
         "idstr": "2660940103",
         "screen_name": "环球网科技频道",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2041117703,
-        "idstr": "2041117703",
-        "screen_name": "合肥日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2035321844,
-        "idstr": "2035321844",
-        "screen_name": "河池融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2001789077,
-        "idstr": "2001789077",
-        "screen_name": "兵团日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1941424392,
-        "idstr": "1941424392",
-        "screen_name": "台州晚报",
         "verified": true,
         "verified_type": 3
       }

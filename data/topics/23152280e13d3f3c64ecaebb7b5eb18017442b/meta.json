@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 5993531560
   },
-  "last_seen_at": "2026-08-15T12:00:00+08:00",
+  "last_seen_at": "2026-08-15T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%89%8B%E6%9C%BA%E6%B6%A8%E5%BE%97%E5%BF%AB%E4%B9%B0%E4%B8%8D%E8%B5%B7%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "9家媒体",
+    "show_str": "16家媒体",
     "users": [
       {
         "id": 5993531560,
         "idstr": "5993531560",
         "screen_name": "中新经纬",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1738006505,
+        "idstr": "1738006505",
+        "screen_name": "机锋网",
         "verified": true,
         "verified_type": 3
       },
@@ -51,16 +58,9 @@
         "verified_type": 7
       },
       {
-        "id": 2118120483,
-        "idstr": "2118120483",
-        "screen_name": "青岛日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1856404484,
-        "idstr": "1856404484",
-        "screen_name": "凤凰网科技",
+        "id": 2622056220,
+        "idstr": "2622056220",
+        "screen_name": "新闻大连",
         "verified": true,
         "verified_type": 3
       }

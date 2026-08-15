@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1784473157
   },
-  "last_seen_at": "2026-08-15T12:00:00+08:00",
+  "last_seen_at": "2026-08-15T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%2300%E5%90%8E%E4%B8%8D%E6%80%A5%E7%9D%80%E8%80%83%E9%A9%BE%E7%85%A7%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "5家媒体",
     "users": [
       {
         "id": 1784473157,
@@ -23,9 +23,30 @@
         "verified_type": 3
       },
       {
+        "id": 1738006505,
+        "idstr": "1738006505",
+        "screen_name": "机锋网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6715513747,
         "idstr": "6715513747",
         "screen_name": "宁县融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1735937570,
+        "idstr": "1735937570",
+        "screen_name": "江南都市报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1280846847,
+        "idstr": "1280846847",
+        "screen_name": "指尖新闻-沈阳晚报",
         "verified": true,
         "verified_type": 3
       }
