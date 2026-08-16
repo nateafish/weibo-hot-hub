@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 6105713761
   },
-  "last_seen_at": "2026-08-16T19:00:00+08:00",
+  "last_seen_at": "2026-08-16T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%AE%B5%E6%B0%B8%E5%B9%B31300%E4%BA%BF%E6%8C%81%E4%BB%93%E6%9B%9D%E5%85%89%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "7家媒体",
     "users": [
       {
         "id": 6105713761,
         "idstr": "6105713761",
         "screen_name": "红星新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1750070171,
+        "idstr": "1750070171",
+        "screen_name": "36氪",
         "verified": true,
         "verified_type": 3
       },
@@ -40,6 +47,20 @@
         "id": 1974335820,
         "idstr": "1974335820",
         "screen_name": "成都商报报料",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1938523582,
+        "idstr": "1938523582",
+        "screen_name": "宁波晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1651428902,
+        "idstr": "1651428902",
+        "screen_name": "21世纪经济报道",
         "verified": true,
         "verified_type": 3
       }
