@@ -3,10 +3,10 @@
   "created_at": 1786847187,
   "first_seen_at": "2026-08-16T10:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-16T11:00:00+08:00",
+  "last_seen_at": "2026-08-16T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%82%96%E6%88%98%E5%90%8E%E6%8F%B4%E4%BC%9A%E6%94%B6%E5%85%A5%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "9家媒体",
     "users": [
       {
         "id": 7708039348,
@@ -23,9 +23,37 @@
         "verified_type": 3
       },
       {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2535760180,
         "idstr": "2535760180",
         "screen_name": "安徽视讯",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2183542485,
+        "idstr": "2183542485",
+        "screen_name": "西安广播电视台",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2035321844,
+        "idstr": "2035321844",
+        "screen_name": "河池融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1899227237,
+        "idstr": "1899227237",
+        "screen_name": "青岛早报",
         "verified": true,
         "verified_type": 3
       }

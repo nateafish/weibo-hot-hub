@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 6171706964
   },
-  "last_seen_at": "2026-08-16T11:00:00+08:00",
+  "last_seen_at": "2026-08-16T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9B%B9%E9%AA%8F%E6%8A%AB%E5%93%A5%E5%B8%AD%E4%BD%8D%E7%AC%AC%E4%B8%80%23%26t%3D3&title=发布媒体",
-    "show_str": "40家媒体",
+    "show_str": "43家媒体",
     "users": [
+      {
+        "id": 1752825395,
+        "idstr": "1752825395",
+        "screen_name": "光明网",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2460937233,
         "idstr": "2460937233",
@@ -30,16 +37,16 @@
         "verified_type": 3
       },
       {
-        "id": 7422806367,
-        "idstr": "7422806367",
-        "screen_name": "中网传播",
+        "id": 7090942012,
+        "idstr": "7090942012",
+        "screen_name": "星同事",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 7090942012,
-        "idstr": "7090942012",
-        "screen_name": "星同事",
+        "id": 7422806367,
+        "idstr": "7422806367",
+        "screen_name": "中网传播",
         "verified": true,
         "verified_type": 3
       },
@@ -54,13 +61,6 @@
         "id": 2252846093,
         "idstr": "2252846093",
         "screen_name": "长春新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1878335471,
-        "idstr": "1878335471",
-        "screen_name": "新浪综艺",
         "verified": true,
         "verified_type": 3
       }

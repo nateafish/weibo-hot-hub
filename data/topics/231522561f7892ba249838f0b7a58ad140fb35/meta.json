@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1712686623
   },
-  "last_seen_at": "2026-08-16T11:00:00+08:00",
+  "last_seen_at": "2026-08-16T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%80%81%E4%BA%BA%E9%97%AF%E9%AB%98%E9%80%9F%E8%BA%AB%E4%BA%A1%E5%AD%90%E5%A5%B3%E7%B4%A2%E8%B5%9413%E4%B8%87%23%26t%3D3&title=发布媒体",
-    "show_str": "20家媒体",
+    "show_str": "34家媒体",
     "users": [
       {
         "id": 2028810631,
         "idstr": "2028810631",
         "screen_name": "新浪新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1938424152,
+        "idstr": "1938424152",
+        "screen_name": "搜狐财经",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +37,30 @@
         "verified_type": 3
       },
       {
-        "id": 2685336121,
-        "idstr": "2685336121",
-        "screen_name": "南宁晚报",
+        "id": 6508016609,
+        "idstr": "6508016609",
+        "screen_name": "风闻社区",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2647971081,
-        "idstr": "2647971081",
-        "screen_name": "时速新闻",
+        "id": 5539777260,
+        "idstr": "5539777260",
+        "screen_name": "菏泽日报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2291471981,
-        "idstr": "2291471981",
-        "screen_name": "济宁新闻网",
+        "id": 5145725878,
+        "idstr": "5145725878",
+        "screen_name": "沸点视频",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2252846093,
-        "idstr": "2252846093",
-        "screen_name": "长春新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2232625672,
-        "idstr": "2232625672",
-        "screen_name": "安庆天天直播",
+        "id": 3275115274,
+        "idstr": "3275115274",
+        "screen_name": "中国吉林网",
         "verified": true,
         "verified_type": 3
       }

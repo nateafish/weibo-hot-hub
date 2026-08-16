@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1784473157
   },
-  "last_seen_at": "2026-08-16T11:00:00+08:00",
+  "last_seen_at": "2026-08-16T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E9%98%B2%E9%95%BF%E6%8C%87%E6%8C%A5%E5%86%9B%E9%98%9F%E6%8A%93%E6%8D%95%E4%B8%AD%E5%9B%BD%E5%B7%A5%E4%BA%BA%23%26t%3D3&title=发布媒体",
-    "show_str": "22家媒体",
+    "show_str": "25家媒体",
     "users": [
       {
         "id": 1784473157,
@@ -26,6 +26,13 @@
         "id": 3604378011,
         "idstr": "3604378011",
         "screen_name": "中国新闻社",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1943154142,
+        "idstr": "1943154142",
+        "screen_name": "中安在线",
         "verified": true,
         "verified_type": 3
       },
@@ -44,13 +51,6 @@
         "verified_type": 3
       },
       {
-        "id": 1943154142,
-        "idstr": "1943154142",
-        "screen_name": "中安在线",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 1941424392,
         "idstr": "1941424392",
         "screen_name": "台州晚报",
@@ -58,9 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1847123567,
-        "idstr": "1847123567",
-        "screen_name": "香港商報",
+        "id": 1685715705,
+        "idstr": "1685715705",
+        "screen_name": "长江云新闻",
         "verified": true,
         "verified_type": 3
       }
