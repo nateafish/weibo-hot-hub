@@ -3,15 +3,22 @@
   "created_at": 1771781695,
   "first_seen_at": "2026-08-13T14:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-13T15:00:00+08:00",
+  "last_seen_at": "2026-08-16T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23TF%E5%9B%9B%E4%BB%A3%E4%BA%94%E5%85%AC%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "10家媒体",
     "users": [
       {
         "id": 6105713761,
         "idstr": "6105713761",
         "screen_name": "红星新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1043320390,
+        "idstr": "1043320390",
+        "screen_name": "半岛晨报",
         "verified": true,
         "verified_type": 3
       },
@@ -23,21 +30,36 @@
         "verified_type": 3
       },
       {
-        "id": 2337985010,
-        "idstr": "2337985010",
-        "screen_name": "瑞安融媒",
+        "id": 7422806367,
+        "idstr": "7422806367",
+        "screen_name": "中网传播",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1043320390,
-        "idstr": "1043320390",
-        "screen_name": "半岛晨报",
+        "id": 7299136456,
+        "idstr": "7299136456",
+        "screen_name": "冬呱看点",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497087080,
+        "idstr": "1497087080",
+        "screen_name": "羊城晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2674977220,
+        "idstr": "2674977220",
+        "screen_name": "网易娱乐频道",
         "verified": true,
         "verified_type": 3
       }
     ]
   },
+  "query": "TF四代五公",
   "search_url": "https://s.weibo.com/weibo?q=%23tf%E5%9B%9B%E4%BB%A3%E4%BA%94%E5%85%AC%23",
   "sub_category": null,
   "summary": "",

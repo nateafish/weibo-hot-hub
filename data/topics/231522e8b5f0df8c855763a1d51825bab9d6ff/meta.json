@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 5063332897
   },
-  "last_seen_at": "2026-08-16T18:00:00+08:00",
+  "last_seen_at": "2026-08-16T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%9C%9F%E7%9A%84%E5%BB%BA%E8%AE%AE%E8%A6%81%E4%BB%8E%E6%BA%90%E5%A4%B4%E5%87%8F%E5%B0%91%E5%AE%B6%E5%8A%A1%23%26t%3D3&title=发布媒体",
-    "show_str": "16家媒体",
+    "show_str": "18家媒体",
     "users": [
       {
         "id": 1867571077,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 2243785533,
+        "idstr": "2243785533",
+        "screen_name": "南阳交通广播",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7211561239,
         "idstr": "7211561239",
         "screen_name": "央视频",
@@ -54,13 +61,6 @@
         "id": 2647971081,
         "idstr": "2647971081",
         "screen_name": "时速新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2243785533,
-        "idstr": "2243785533",
-        "screen_name": "南阳交通广播",
         "verified": true,
         "verified_type": 3
       }
