@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1649173367
   },
-  "last_seen_at": "2026-08-16T16:00:00+08:00",
+  "last_seen_at": "2026-08-16T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%BD%91%E7%BA%A2%E5%B0%8F%E5%AE%B6%E7%94%B5%E9%9B%86%E4%BD%93%E5%90%83%E7%81%B0%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "8家媒体",
+    "show_str": "12家媒体",
     "users": [
       {
         "id": 1649173367,
@@ -44,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 2647971081,
+        "idstr": "2647971081",
+        "screen_name": "时速新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2177386743,
         "idstr": "2177386743",
         "screen_name": "Tech星球",
@@ -54,13 +61,6 @@
         "id": 2056962703,
         "idstr": "2056962703",
         "screen_name": "NBD汽车",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1739961924,
-        "idstr": "1739961924",
-        "screen_name": "中国商界杂志社",
         "verified": true,
         "verified_type": 3
       }
