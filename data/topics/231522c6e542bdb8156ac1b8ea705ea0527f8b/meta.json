@@ -10,15 +10,43 @@
     "status": 2,
     "uid": 6511173552
   },
-  "last_seen_at": "2026-08-16T10:00:00+08:00",
+  "last_seen_at": "2026-08-16T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E4%B8%8A%E4%B8%AA%E9%9F%B3%E7%BB%BC%E5%A4%A7%E5%90%88%E7%85%A7%E8%BF%98%E6%98%AF%E7%AB%99%E6%97%81%E8%BE%B9%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "5家媒体",
     "users": [
+      {
+        "id": 7422806367,
+        "idstr": "7422806367",
+        "screen_name": "中网传播",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2647971081,
+        "idstr": "2647971081",
+        "screen_name": "时速新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2535760180,
         "idstr": "2535760180",
         "screen_name": "安徽视讯",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1677991972,
+        "idstr": "1677991972",
+        "screen_name": "晶报",
         "verified": true,
         "verified_type": 3
       }
