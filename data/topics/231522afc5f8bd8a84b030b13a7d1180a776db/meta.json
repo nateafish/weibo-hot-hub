@@ -10,11 +10,25 @@
     "status": 2,
     "uid": 2111054094
   },
-  "last_seen_at": "2026-08-16T15:00:00+08:00",
+  "last_seen_at": "2026-08-16T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%AA%81%E7%84%B6%E5%8F%91%E7%8E%B0%E4%B8%96%E7%95%8C%E7%9C%9F%E7%9A%84%E4%BC%9A%E5%A5%96%E5%8A%B1%E5%96%84%E8%89%AF%E7%9A%84%E4%BA%BA%23%26t%3D3&title=发布媒体",
-    "show_str": "15家媒体",
+    "show_str": "21家媒体",
     "users": [
+      {
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7474259554,
+        "idstr": "7474259554",
+        "screen_name": "快报帮",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 7298805480,
         "idstr": "7298805480",
@@ -30,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 6380644334,
+        "idstr": "6380644334",
+        "screen_name": "蟹视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 5550357934,
         "idstr": "5550357934",
         "screen_name": "动静贵州",
@@ -40,27 +61,6 @@
         "id": 3645266160,
         "idstr": "3645266160",
         "screen_name": "巴音郭楞融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3288875501,
-        "idstr": "3288875501",
-        "screen_name": "河南日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2813313591,
-        "idstr": "2813313591",
-        "screen_name": "中新网海南",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2292896411,
-        "idstr": "2292896411",
-        "screen_name": "中工网",
         "verified": true,
         "verified_type": 3
       }
