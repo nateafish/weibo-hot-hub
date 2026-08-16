@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1618051664
   },
-  "last_seen_at": "2026-08-16T20:00:00+08:00",
+  "last_seen_at": "2026-08-16T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90%E6%80%80%E5%AD%95%E5%85%AB%E4%B8%AA%E6%9C%88%E5%8D%B4%E6%AF%8F%E5%A4%A9%E5%90%B8%E9%A3%9F%E8%8A%AC%E5%A4%AA%E5%B0%BC%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "7家媒体",
     "users": [
       {
         "id": 1618051664,
         "idstr": "1618051664",
         "screen_name": "头条新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2647971081,
+        "idstr": "2647971081",
+        "screen_name": "时速新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -37,16 +44,16 @@
         "verified_type": 7
       },
       {
-        "id": 2647971081,
-        "idstr": "2647971081",
-        "screen_name": "时速新闻",
+        "id": 1895096900,
+        "idstr": "1895096900",
+        "screen_name": "深圳新闻网",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1895096900,
-        "idstr": "1895096900",
-        "screen_name": "深圳新闻网",
+        "id": 1767961804,
+        "idstr": "1767961804",
+        "screen_name": "大江新闻",
         "verified": true,
         "verified_type": 3
       },

@@ -3,10 +3,10 @@
   "created_at": 1786879542,
   "first_seen_at": "2026-08-16T20:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-16T20:00:00+08:00",
+  "last_seen_at": "2026-08-16T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%AD%8F%E5%AD%90%E5%AE%B8%E5%A4%AA%E6%9C%89%E6%9D%B0%E5%B0%BC%E6%96%AF%E5%91%B3%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "4家媒体",
     "users": [
       {
         "id": 2535760180,
@@ -16,9 +16,23 @@
         "verified_type": 3
       },
       {
+        "id": 1880922220,
+        "idstr": "1880922220",
+        "screen_name": "金华晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1652484947,
         "idstr": "1652484947",
         "screen_name": "新快报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1280846847,
+        "idstr": "1280846847",
+        "screen_name": "指尖新闻-沈阳晚报",
         "verified": true,
         "verified_type": 3
       }

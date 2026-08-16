@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 3083675110
   },
-  "last_seen_at": "2026-08-16T20:00:00+08:00",
+  "last_seen_at": "2026-08-16T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%8E%8B%E6%9B%BC%E6%98%B1vs%E8%92%AF%E6%9B%BC%23%26t%3D3&title=发布媒体",
-    "show_str": "39家媒体",
+    "show_str": "49家媒体",
     "users": [
       {
         "id": 2286908003,
         "idstr": "2286908003",
         "screen_name": "人民网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
         "verified": true,
         "verified_type": 3
       },
@@ -54,13 +61,6 @@
         "id": 1625232640,
         "idstr": "1625232640",
         "screen_name": "鲁中晨报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7590570074,
-        "idstr": "7590570074",
-        "screen_name": "山海视频",
         "verified": true,
         "verified_type": 3
       }
