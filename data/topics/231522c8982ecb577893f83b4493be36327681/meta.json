@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2318910945
   },
-  "last_seen_at": "2026-08-16T14:00:00+08:00",
+  "last_seen_at": "2026-08-16T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A5%B3%E5%AD%90%E4%BA%A7%E5%90%8E%E6%8A%91%E9%83%81%E8%87%AA%E6%9D%80%E7%94%9F%E5%89%8D%E5%A4%87%E5%BF%98%E5%BD%95%E6%9B%9D%E5%85%89%23%26t%3D3&title=发布媒体",
-    "show_str": "12家媒体",
+    "show_str": "14家媒体",
     "users": [
       {
         "id": 2318910945,
         "idstr": "2318910945",
         "screen_name": "新浪热点",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2291471981,
+        "idstr": "2291471981",
+        "screen_name": "济宁新闻网",
         "verified": true,
         "verified_type": 3
       },
@@ -54,13 +61,6 @@
         "id": 1806646411,
         "idstr": "1806646411",
         "screen_name": "北方频道",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1744332207,
-        "idstr": "1744332207",
-        "screen_name": "钱江视频",
         "verified": true,
         "verified_type": 3
       }

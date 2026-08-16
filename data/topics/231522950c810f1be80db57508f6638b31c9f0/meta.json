@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 3199059505
   },
-  "last_seen_at": "2026-08-16T14:00:00+08:00",
+  "last_seen_at": "2026-08-16T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%BC%A0%E7%9D%BF%E4%B8%80%E7%9C%8B%E6%89%8B%E6%9C%BA%E5%A4%A9%E5%8F%88%E5%A1%8C%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "18家媒体",
+    "show_str": "22家媒体",
     "users": [
+      {
+        "id": 1893761531,
+        "idstr": "1893761531",
+        "screen_name": "闪电新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2337985010,
         "idstr": "2337985010",
@@ -30,9 +37,9 @@
         "verified_type": 3
       },
       {
-        "id": 1893761531,
-        "idstr": "1893761531",
-        "screen_name": "闪电新闻",
+        "id": 1677991972,
+        "idstr": "1677991972",
+        "screen_name": "晶报",
         "verified": true,
         "verified_type": 3
       },
@@ -47,13 +54,6 @@
         "id": 2992050891,
         "idstr": "2992050891",
         "screen_name": "北京时间",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2685336121,
-        "idstr": "2685336121",
-        "screen_name": "南宁晚报",
         "verified": true,
         "verified_type": 3
       },
