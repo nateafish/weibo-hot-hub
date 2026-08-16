@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-08-16T10:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#总书记对生态文明建设的牵挂和嘱托#",
+      "rank": 1,
+      "title": "总书记对生态文明建设的牵挂和嘱托",
+      "topic_id": "2315222b5fcaa3c6dc4b411b743c98a6fafbd9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#胖东来将闭门店28个收银口排长龙#",
+      "rank": 1,
+      "title": "胖东来将闭门店28个收银口排长龙",
+      "topic_id": "2315221b82608ce1296074e9b3a2707df19ca1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#我们的少年时代2青春主场海报#",
+      "rank": 2,
+      "title": "我们的少年时代2青春主场海报",
+      "topic_id": "2315229a7f1cc0c6f869c83bca84f4cff36c02"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#进货式游中国火了#",
+      "rank": 3,
+      "title": "进货式游中国火了",
+      "topic_id": "231522db6998074fdcfa6b1cb9d5b9f75b3381"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#曾辉把炎亚纶炸出来了#",
+      "rank": 4,
+      "title": "曾辉把炎亚纶炸出来了",
+      "topic_id": "23152242f6f8f3944ad9991ef985b9fa0712b5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#旺旺晒出无糖低糖新品#",
+      "rank": 5,
+      "title": "旺旺晒出无糖低糖新品",
+      "topic_id": "231522bdd7ec13f2cd02f8104a7006740a4649"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "王传君终于原谅爱情公寓了",
+      "rank": 6,
+      "title": "王传君终于原谅爱情公寓了",
+      "topic_id": "23152211edbae46e7ea7f5bd5c117f4ca166f6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "沪上阿姨 蹭流量",
+      "rank": 7,
+      "title": "沪上阿姨 蹭流量",
+      "topic_id": "2315224040dc694eca288f14295933951ab406"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#金银价格直线跳水#",
+      "rank": 8,
+      "title": "金银价格直线跳水",
+      "topic_id": "231522399bc75c926e17324a8964fb0b80ae1a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#胖东来闭店裁缝摊称将跟随搬迁#",
+      "rank": 9,
+      "title": "胖东来闭店裁缝摊称将跟随搬迁",
+      "topic_id": "231522c73e059a7b42bb7119f279aa0ec12bff"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#中国博主发布进入靖国神社视频#",
+      "rank": 10,
+      "title": "中国博主发布进入靖国神社视频",
+      "topic_id": "231522160eb4454f697175f7f7210710434f12"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王橹杰我们的少年时代2C位#",
+      "rank": 11,
+      "title": "王橹杰我们的少年时代2C位",
+      "topic_id": "2315221a228a2853591f70ccb72a8c1f27a28a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#蒋奇明的演技已经到了化境#",
+      "rank": 12,
+      "title": "蒋奇明的演技已经到了化境",
+      "topic_id": "23152266aa181cb6d02a516f4fa61f09647bd1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "四六级",
+      "rank": 13,
+      "title": "四六级",
+      "topic_id": "231522b4830ca04f9083c99453e37a93077f36"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#曹骏披哥席位第一#",
+      "rank": 14,
+      "title": "曹骏披哥席位第一",
+      "topic_id": "2315227adf348bf25d81cfa756705cda29e714"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#宋亚轩上个音综大合照还是站旁边#",
+      "rank": 15,
+      "title": "宋亚轩上个音综大合照还是站旁边",
+      "topic_id": "231522c6e542bdb8156ac1b8ea705ea0527f8b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#菲律宾防长指挥军队抓捕中国工人#",
+      "rank": 16,
+      "title": "菲律宾防长指挥军队抓捕中国工人",
+      "topic_id": "2315229b2313d41f1fd86e8ac08a5cfe9d28a8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "肖战后援会收入",
+      "rank": 17,
+      "title": "肖战后援会收入",
+      "topic_id": "2315222d692cb99ac08751cfc1449c10d781a3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#李登科曝带朋友找张凌赫合照被拒#",
+      "rank": 18,
+      "title": "李登科曝带朋友找张凌赫合照被拒",
+      "topic_id": "231522f036f11ca8703f3191d68106c45b943b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "无畏契约",
+      "rank": 19,
+      "title": "无畏契约",
+      "topic_id": "231522f22777678bb2b92177e5eef09f0d3b07"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#车银优的近照#",
+      "rank": 20,
+      "title": "车银优的近照",
+      "topic_id": "231522a069036bc3d06964d12b2aa0b9c707ec"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#曝谷爱凌LV三公子恋情#",
+      "rank": 21,
+      "title": "曝谷爱凌LV三公子恋情",
+      "topic_id": "23152244e9c3abeecc610430b2d2fc9aa7c7eb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#大大降低癌症风险的7个习惯#",
+      "rank": 22,
+      "title": "大大降低癌症风险的7个习惯",
+      "topic_id": "23152201bc3d87a6e687cc5d24cf680a1f8252"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#汉奸石平参拜靖国神社#",
+      "rank": 23,
+      "title": "汉奸石平参拜靖国神社",
+      "topic_id": "2315225990503d209014befc3d348297f079bd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#刘耀文打假环游世界#",
+      "rank": 24,
+      "title": "刘耀文打假环游世界",
+      "topic_id": "231522d97c3f8a22061b05331a59b5e26977a7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "抢着立案 有钱赚",
+      "rank": 25,
+      "title": "抢着立案 有钱赚",
+      "topic_id": "231522ef75482569688b1e680b1bd36fc3c772"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#日军在南京每晚一千起强奸案#",
+      "rank": 26,
+      "title": "日军在南京每晚一千起强奸案",
+      "topic_id": "23152221905cb706d66be4333a32940c9131be"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王楚钦作为国乒男队队长的压力#",
+      "rank": 27,
+      "title": "王楚钦作为国乒男队队长的压力",
+      "topic_id": "2315223372bce59fa06b5f5f8b89a9fdceb39d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "李乃文给穆祉丞当经纪人去电玩城",
+      "rank": 28,
+      "title": "李乃文给穆祉丞当经纪人去电玩城",
+      "topic_id": "2315224d8abe4a43fb7a5609226c72c42812a0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#老人闯高速身亡子女索赔13万#",
+      "rank": 29,
+      "title": "老人闯高速身亡子女索赔13万",
+      "topic_id": "231522561f7892ba249838f0b7a58ad140fb35"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "二手豪华车保值率大跌",
+      "rank": 30,
+      "title": "二手豪华车保值率大跌",
+      "topic_id": "231522b2fed4d128002ca419bd3dbe6b8da817"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#中国籍男子在靖国神社附近挥舞国旗#",
+      "rank": 31,
+      "title": "中国籍男子在靖国神社附近挥舞国旗",
+      "topic_id": "23152284a65fe2650053226b567f2de0c5f321"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "奥德赛",
+      "rank": 32,
+      "title": "奥德赛",
+      "topic_id": "231522b9df2ff0bd32cd4157af2cc1c904d3a9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#父母尽量别跟孩子说4类话#",
+      "rank": 33,
+      "title": "父母尽量别跟孩子说4类话",
+      "topic_id": "23152261a865d782d24474766f297dc02286fa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#妻子产后抑郁自杀身亡丈夫两度被告#",
+      "rank": 34,
+      "title": "妻子产后抑郁自杀身亡丈夫两度被告",
+      "topic_id": "231522f6353ea57f8942586cb13e1213639276"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "曾辉 唱出了飞轮海的感觉",
+      "rank": 35,
+      "title": "曾辉 唱出了飞轮海的感觉",
+      "topic_id": "231522150b3176507e1eaa5c9d3a3a722c1d42"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#炎亚纶为飞轮海发声#",
+      "rank": 36,
+      "title": "炎亚纶为飞轮海发声",
+      "topic_id": "23152205603e964802ef00f9d2e53bf12b204d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#王传君用十年承认了爱情公寓的意义#",
+      "rank": 37,
+      "title": "王传君用十年承认了爱情公寓的意义",
+      "topic_id": "231522a5c001ed56aca182ec6cdc8af1402fcc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "我们的少年时代",
+      "rank": 38,
+      "title": "我们的少年时代",
+      "topic_id": "2315227b9bbf149f96ca79c5d6d1dbab9558b2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "小沈阳秒了",
+      "rank": 39,
+      "title": "小沈阳秒了",
+      "topic_id": "2315228004c59793d4a405a0e55b788d904953"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "生活中如何分辨善妒的人",
+      "rank": 40,
+      "title": "生活中如何分辨善妒的人",
+      "topic_id": "2315220b1afccc48690025c6505c9347f2b87a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#重器拍了少爷装精神病脱罪#",
+      "rank": 41,
+      "title": "重器拍了少爷装精神病脱罪",
+      "topic_id": "231522bbdc3cd594d6c609f1aa026951cd1758"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#鞠婧祎苏影后造型#",
+      "rank": 42,
+      "title": "鞠婧祎苏影后造型",
+      "topic_id": "23152222cd68dbb14de5d5351081a17852bbc4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#TheShy带队冲击骑士之路#",
+      "rank": 43,
+      "title": "TheShy带队冲击骑士之路",
+      "topic_id": "231522b15368409c4e274c577c83b677365540"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "龙餐馆",
+      "rank": 44,
+      "title": "龙餐馆",
+      "topic_id": "231522022e0201c4629ae09791464eefe52bf5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "披荆斩棘初舞台排名",
+      "rank": 45,
+      "title": "披荆斩棘初舞台排名",
+      "topic_id": "23152249849a6c02593dd6d1e705ed6b283390"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "国乒女单四强占三席",
+      "rank": 46,
+      "title": "国乒女单四强占三席",
+      "topic_id": "231522f0a0445f6f913b9528a0e350ba46027c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "张桂源 有些东西比输赢更重要",
+      "rank": 47,
+      "title": "张桂源 有些东西比输赢更重要",
+      "topic_id": "2315220594abb3f8c8fcf4012de672d3f3d3e5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王俊凯王源易烊千玺集齐粉发#",
+      "rank": 48,
+      "title": "王俊凯王源易烊千玺集齐粉发",
+      "topic_id": "231522c9f54dc295e0115f0635683656ffe504"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#造谣青岛大学旭日旗者被拘#",
+      "rank": 49,
+      "title": "造谣青岛大学旭日旗者被拘",
+      "topic_id": "2315227bf49f015ed21b6c295c3e0375233ff4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#知情人士回应追觅大家电解散#",
+      "rank": 50,
+      "title": "知情人士回应追觅大家电解散",
+      "topic_id": "231522c9b817379a1b3296b7de7870de5aee60"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

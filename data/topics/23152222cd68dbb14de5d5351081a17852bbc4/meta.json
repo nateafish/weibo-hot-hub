@@ -10,11 +10,19 @@
     "status": 2,
     "uid": 6468005444
   },
-  "last_seen_at": "2026-08-16T09:00:00+08:00",
+  "last_seen_at": "2026-08-16T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E8%8B%8F%E5%BD%B1%E5%90%8E%E9%80%A0%E5%9E%8B%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "1家媒体",
+    "users": [
+      {
+        "id": 1720962692,
+        "idstr": "1720962692",
+        "screen_name": "极目新闻",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#鞠婧祎苏影后造型#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E8%8B%8F%E5%BD%B1%E5%90%8E%E9%80%A0%E5%9E%8B%23",
