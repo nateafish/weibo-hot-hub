@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 7276216181
   },
-  "last_seen_at": "2026-08-16T17:00:00+08:00",
+  "last_seen_at": "2026-08-16T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%B5%B5%E6%9C%AC%E5%B1%B1%E5%A5%B3%E5%84%BF%E8%87%AA%E6%9B%9D%E6%82%A3%E4%B8%89%E7%A7%8D%E7%B2%BE%E7%A5%9E%E7%96%BE%E7%97%85%23%26t%3D3&title=发布媒体",
     "show_str": "5家媒体",
     "users": [
+      {
+        "id": 1714800385,
+        "idstr": "1714800385",
+        "screen_name": "第一帮帮团",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 7020664161,
         "idstr": "7020664161",
@@ -40,13 +47,6 @@
         "id": 1882632930,
         "idstr": "1882632930",
         "screen_name": "新消息报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1714800385,
-        "idstr": "1714800385",
-        "screen_name": "第一帮帮团",
         "verified": true,
         "verified_type": 3
       }

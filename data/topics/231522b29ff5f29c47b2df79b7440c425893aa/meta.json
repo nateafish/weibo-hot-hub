@@ -3,10 +3,10 @@
   "created_at": 1786865210,
   "first_seen_at": "2026-08-16T16:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-16T17:00:00+08:00",
+  "last_seen_at": "2026-08-16T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BD%99%E4%BE%9D%E5%A9%B70.02%E7%A7%92%E7%BB%9D%E6%9D%80%E5%A4%BA%E9%87%91%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "7家媒体",
     "users": [
       {
         "id": 1280846847,
@@ -30,9 +30,30 @@
         "verified_type": 3
       },
       {
+        "id": 1929638045,
+        "idstr": "1929638045",
+        "screen_name": "现代金报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1667867495,
         "idstr": "1667867495",
         "screen_name": "五星体育广播",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1638781994,
+        "idstr": "1638781994",
+        "screen_name": "新浪体育",
+        "verified": true,
+        "verified_type": 7
+      },
+      {
+        "id": 1398613133,
+        "idstr": "1398613133",
+        "screen_name": "马上资讯",
         "verified": true,
         "verified_type": 3
       }

@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 6260534625
   },
-  "last_seen_at": "2026-08-16T17:00:00+08:00",
+  "last_seen_at": "2026-08-16T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9B%9D%E8%B0%B7%E7%88%B1%E5%87%8CLV%E4%B8%89%E5%85%AC%E5%AD%90%E6%81%8B%E6%83%85%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "4家媒体",
     "users": [
       {
         "id": 1913382117,
@@ -33,6 +33,13 @@
         "id": 1720962692,
         "idstr": "1720962692",
         "screen_name": "极目新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1043320390,
+        "idstr": "1043320390",
+        "screen_name": "半岛晨报",
         "verified": true,
         "verified_type": 3
       }
