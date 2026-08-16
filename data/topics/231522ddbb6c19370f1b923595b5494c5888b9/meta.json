@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 3266943013
   },
-  "last_seen_at": "2026-08-16T07:00:00+08:00",
+  "last_seen_at": "2026-08-16T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BB%A5%E6%95%B0%E6%99%BA%E7%89%A9%E6%B5%81%E8%B5%8B%E8%83%BD%E7%89%B9%E8%89%B2%E4%BA%A7%E4%B8%9A%E5%8F%91%E5%B1%95%23%26t%3D3&title=发布媒体",
-    "show_str": "9家媒体",
+    "show_str": "25家媒体",
     "users": [
       {
         "id": 3266943013,
         "idstr": "3266943013",
         "screen_name": "央视网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1420157965,
+        "idstr": "1420157965",
+        "screen_name": "上游新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1880922220,
+        "idstr": "1880922220",
+        "screen_name": "金华晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5539777260,
+        "idstr": "5539777260",
+        "screen_name": "菏泽日报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7298805480,
         "idstr": "7298805480",
         "screen_name": "央视三农",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3714169043,
-        "idstr": "3714169043",
-        "screen_name": "安徽经济报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3204836204,
-        "idstr": "3204836204",
-        "screen_name": "陕西日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2678664313,
-        "idstr": "2678664313",
-        "screen_name": "中国乡村之声",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2046576145,
-        "idstr": "2046576145",
-        "screen_name": "商丘日报",
         "verified": true,
         "verified_type": 3
       }
