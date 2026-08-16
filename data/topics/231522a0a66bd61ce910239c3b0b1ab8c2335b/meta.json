@@ -3,11 +3,18 @@
   "created_at": 1786887641,
   "first_seen_at": "2026-08-16T22:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-16T22:00:00+08:00",
+  "last_seen_at": "2026-08-17T01:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%A2%9C%E5%AE%89%E5%94%B1%E8%B7%B3%E9%BB%91%E9%A9%AC%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "6家媒体",
     "users": [
+      {
+        "id": 1878335471,
+        "idstr": "1878335471",
+        "screen_name": "新浪综艺",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2992050891,
         "idstr": "2992050891",
@@ -16,9 +23,23 @@
         "verified_type": 3
       },
       {
-        "id": 1878335471,
-        "idstr": "1878335471",
-        "screen_name": "新浪综艺",
+        "id": 6192935507,
+        "idstr": "6192935507",
+        "screen_name": "青流娱乐",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2027480085,
+        "idstr": "2027480085",
+        "screen_name": "水母网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1283367840,
+        "idstr": "1283367840",
+        "screen_name": "每日文艺播报",
         "verified": true,
         "verified_type": 3
       },
