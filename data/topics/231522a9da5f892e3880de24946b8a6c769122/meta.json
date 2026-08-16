@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1843633441
   },
-  "last_seen_at": "2026-08-17T06:00:00+08:00",
+  "last_seen_at": "2026-08-17T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%91%A8%E6%B7%B1%E6%94%B6%E8%8E%B7%E4%B8%89%E9%A1%B9%E5%A4%A7%E5%A5%96%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "5家媒体",
     "users": [
       {
         "id": 1843633441,
@@ -33,6 +33,13 @@
         "id": 1943154142,
         "idstr": "1943154142",
         "screen_name": "中安在线",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1893892941,
+        "idstr": "1893892941",
+        "screen_name": "北京日报",
         "verified": true,
         "verified_type": 3
       },
