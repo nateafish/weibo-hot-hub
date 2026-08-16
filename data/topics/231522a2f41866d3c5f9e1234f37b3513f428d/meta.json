@@ -3,15 +3,22 @@
   "created_at": 1786852287,
   "first_seen_at": "2026-08-16T12:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-16T12:00:00+08:00",
+  "last_seen_at": "2026-08-16T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%BE%A4%E6%BC%94%E5%BE%85%E9%81%87+8%E5%B0%8F%E6%97%B6%E5%90%8E1.5%E5%80%8D%E5%B7%A5%E8%B5%84%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "2家媒体",
     "users": [
       {
         "id": 1959444680,
         "idstr": "1959444680",
         "screen_name": "云南网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2136358530,
+        "idstr": "2136358530",
+        "screen_name": "牵挂952",
         "verified": true,
         "verified_type": 3
       }

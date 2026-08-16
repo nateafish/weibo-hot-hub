@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 5993531560
   },
-  "last_seen_at": "2026-08-16T12:00:00+08:00",
+  "last_seen_at": "2026-08-16T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%E4%BD%95%E6%97%B6%E6%98%AF%E4%B8%AA%E5%A4%B4%23%26t%3D3&title=发布媒体",
-    "show_str": "39家媒体",
+    "show_str": "42家媒体",
     "users": [
       {
         "id": 5993531560,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 6013508393,
+        "idstr": "6013508393",
+        "screen_name": "环球总财",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1856404484,
         "idstr": "1856404484",
         "screen_name": "凤凰网科技",
@@ -54,13 +61,6 @@
         "id": 1398613133,
         "idstr": "1398613133",
         "screen_name": "马上资讯",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1649173367,
-        "idstr": "1649173367",
-        "screen_name": "每日经济新闻",
         "verified": true,
         "verified_type": 3
       }

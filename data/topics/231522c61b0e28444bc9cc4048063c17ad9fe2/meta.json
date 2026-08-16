@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1618051664
   },
-  "last_seen_at": "2026-08-16T12:00:00+08:00",
+  "last_seen_at": "2026-08-16T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%B8%A6%E5%A4%A73%E4%B8%AA%E9%9D%9E%E4%BA%B2%E7%94%9F%E5%AD%99%E5%A5%B3%E5%A9%86%E5%A9%86%E5%93%80%E6%B1%82%E7%95%99%E4%B8%8B%E4%B8%80%E4%B8%AA%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "7家媒体",
     "users": [
       {
         "id": 1618051664,
         "idstr": "1618051664",
         "screen_name": "头条新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1645578093,
+        "idstr": "1645578093",
+        "screen_name": "南风窗",
         "verified": true,
         "verified_type": 3
       },
@@ -35,6 +42,13 @@
         "screen_name": "新浪种草官",
         "verified": true,
         "verified_type": 7
+      },
+      {
+        "id": 5145725878,
+        "idstr": "5145725878",
+        "screen_name": "沸点视频",
+        "verified": true,
+        "verified_type": 3
       },
       {
         "id": 2188202475,
