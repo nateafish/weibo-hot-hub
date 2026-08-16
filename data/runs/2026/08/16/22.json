@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-08-16T22:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 2,
+    "ai_saved": 49,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 6,
+      "posts": "saved",
+      "query": "#切实担负起管党治党政治责任#",
+      "rank": 1,
+      "title": "切实担负起管党治党政治责任",
+      "topic_id": "231522dfe0cba6f439e03528a02f26cd50f178"
+    },
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#朱镕基同志遗体18日火化#",
+      "rank": 1,
+      "title": "朱镕基同志遗体18日火化",
+      "topic_id": "2315227d0f277a633f6b95072144acb565df19"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#四代跳Attention#",
+      "rank": 2,
+      "title": "四代跳Attention",
+      "topic_id": "231522eea7a6f9ab6f9b1423ba22e971858db9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#为中国航天点赞#",
+      "rank": 3,
+      "title": "为中国航天点赞",
+      "topic_id": "23152294fcf562b3ddfe27bffdcd1a9852a12e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "孙楠 降维打击",
+      "rank": 4,
+      "title": "孙楠 降维打击",
+      "topic_id": "23152287ed5951b641e2671e1fcab59fa3897e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "请3天假连休13天",
+      "rank": 5,
+      "title": "请3天假连休13天",
+      "topic_id": "2315229d1037c9c877f191300fa739fdb0f312"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "王橹杰 虚拟",
+      "rank": 6,
+      "title": "王橹杰 虚拟",
+      "topic_id": "2315224e0368f81e4dc7240245d91c6c0f9f8b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#市民打12345投诉月光太亮影响睡觉#",
+      "rank": 7,
+      "title": "市民打12345投诉月光太亮影响睡觉",
+      "topic_id": "2315224d5ca9052a9b7e3fe6ac899bd2ac2774"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张本智和4比3松岛辉空#",
+      "rank": 8,
+      "title": "张本智和4比3松岛辉空",
+      "topic_id": "231522fdce6a8829b8afd200dfd76eb9f56d72"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "龙餐馆",
+      "rank": 9,
+      "title": "龙餐馆",
+      "topic_id": "231522022e0201c4629ae09791464eefe52bf5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "IG战胜WBG",
+      "rank": 10,
+      "title": "IG战胜WBG",
+      "topic_id": "231522602b9c7eba10df0ad9f047d94db7b2b7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#谷爱凌否认恋情#",
+      "rank": 11,
+      "title": "谷爱凌否认恋情",
+      "topic_id": "23152223dbbd3a0d1774844bbe5831d7b45567"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "王橹杰 上春山",
+      "rank": 12,
+      "title": "王橹杰 上春山",
+      "topic_id": "23152278f0753d7acca48cfbab9200998d3e0b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#谷爱凌最后一个吃到自己的瓜#",
+      "rank": 13,
+      "title": "谷爱凌最后一个吃到自己的瓜",
+      "topic_id": "231522dfe48891975cca40222f706baa629e7c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#丁程鑫从不遮掩自己农村家庭背景#",
+      "rank": 14,
+      "title": "丁程鑫从不遮掩自己农村家庭背景",
+      "topic_id": "2315228701a29c89f2c5a0033aaf7b512cb5b4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "奇文 春雪",
+      "rank": 15,
+      "title": "奇文 春雪",
+      "topic_id": "231522bd3de9fb84af57efe197cf575c1d231e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "小麦 上道了",
+      "rank": 16,
+      "title": "小麦 上道了",
+      "topic_id": "2315223af7ad3c85f2848cffd96d7b075771ac"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#美国女子怀孕八个月却每天吸食芬太尼#",
+      "rank": 17,
+      "title": "美国女子怀孕八个月却每天吸食芬太尼",
+      "topic_id": "2315220f0e8f3957200d9a15a80238518a4497"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "现在的小学生都进化成这样了吗",
+      "rank": 18,
+      "title": "现在的小学生都进化成这样了吗",
+      "topic_id": "231522fc53bcbd89252745f6330b329256634d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#网红小家电集体吃灰了#",
+      "rank": 19,
+      "title": "网红小家电集体吃灰了",
+      "topic_id": "2315227bb12957da0f2f8927583d094a65568a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#村民称西平命案被害人不是村霸#",
+      "rank": 20,
+      "title": "村民称西平命案被害人不是村霸",
+      "topic_id": "231522b3e0e3705cff13be4b87576808c11841"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "张柏芝有种经济上行的美",
+      "rank": 21,
+      "title": "张柏芝有种经济上行的美",
+      "topic_id": "231522244dbe2055890b889353cbdb65ba1bb6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#Jennie因服装问题道歉#",
+      "rank": 22,
+      "title": "Jennie因服装问题道歉",
+      "topic_id": "2315224162241594caf4bbea4dcde99994c48b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "建议大家减少对日常琐事的决策时间",
+      "rank": 23,
+      "title": "建议大家减少对日常琐事的决策时间",
+      "topic_id": "23152230ee9e8f0397c651f32c7e445240616c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#艾米进组几天瘦了一大圈#",
+      "rank": 24,
+      "title": "艾米进组几天瘦了一大圈",
+      "topic_id": "2315228ad776c59b1621655faecc7f2a403619"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "魏子宸太有杰尼斯味了",
+      "rank": 25,
+      "title": "魏子宸太有杰尼斯味了",
+      "topic_id": "23152244116e652ba7ff212f3e3c7cb4d4ebe1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "恋与深空",
+      "rank": 26,
+      "title": "恋与深空",
+      "topic_id": "23152212815f543b6754a64be7a4f150402e82"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#沈佳润还是藏不住事的年纪#",
+      "rank": 27,
+      "title": "沈佳润还是藏不住事的年纪",
+      "topic_id": "231522f93f3de67959be7bb693944f4daa53a7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#编舞杨博文#",
+      "rank": 28,
+      "title": "编舞杨博文",
+      "topic_id": "231522eca3faef77e98c11249e6581506a65ea"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#苹果阿里合作新进展#",
+      "rank": 29,
+      "title": "苹果阿里合作新进展",
+      "topic_id": "231522f72547c96d6284add8a602bae0719f38"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#TF四代vs时代少年团刺舞台#",
+      "rank": 30,
+      "title": "TF四代vs时代少年团刺舞台",
+      "topic_id": "231522e679dde231cfbe481ca580362f288ccf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "陈奕恒摔倒",
+      "rank": 31,
+      "title": "陈奕恒摔倒",
+      "topic_id": "23152285e484b25a092bd1f5a9f73a3bacb4eb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "什么东西成年了才意识到很贵",
+      "rank": 32,
+      "title": "什么东西成年了才意识到很贵",
+      "topic_id": "231522b2d900df5ae18643e73e605f0b656595"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#时代少年团个人能力排名#",
+      "rank": 33,
+      "title": "时代少年团个人能力排名",
+      "topic_id": "2315228b90cbe81f6b258ec772eef6d61c6264"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#贺峻霖给严浩翔照片加了美颜#",
+      "rank": 34,
+      "title": "贺峻霖给严浩翔照片加了美颜",
+      "topic_id": "231522d97e6ee545ea36e6639e58b358e0d6e8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#7名县委常委在土坯房上班#",
+      "rank": 35,
+      "title": "7名县委常委在土坯房上班",
+      "topic_id": "2315226ddf43577d2018461ff141c6bfbc1e1d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "颜安唱跳黑马",
+      "rank": 36,
+      "title": "颜安唱跳黑马",
+      "topic_id": "231522a0a66bd61ce910239c3b0b1ab8c2335b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "唐九洲米卡 青春有你pk创造营",
+      "rank": 37,
+      "title": "唐九洲米卡 青春有你pk创造营",
+      "topic_id": "231522ce65da3c4b1e30e86ff88d3971d6a01e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "盗墓笔记",
+      "rank": 38,
+      "title": "盗墓笔记",
+      "topic_id": "231522195736aaaeced2b530871d9f3cbb3536"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "博瑞双人舞台",
+      "rank": 39,
+      "title": "博瑞双人舞台",
+      "topic_id": "231522f3ae8d4e47f1fed305a1239ccd453d66"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#陈若轩朋友圈在线求声乐老师#",
+      "rank": 40,
+      "title": "陈若轩朋友圈在线求声乐老师",
+      "topic_id": "2315227fa65b9e2e32c90eac454b9edb6ed5c9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#月薪6万老君山云海观察员到期下山#",
+      "rank": 41,
+      "title": "月薪6万老君山云海观察员到期下山",
+      "topic_id": "2315223083976c2d4040661c7a3c0d1382f910"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#鹿晗天资是很残忍的东西#",
+      "rank": 42,
+      "title": "鹿晗天资是很残忍的东西",
+      "topic_id": "231522242116fdf958660c4727d8a4dea7eb1c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝谷爱凌LV三公子恋情#",
+      "rank": 43,
+      "title": "曝谷爱凌LV三公子恋情",
+      "topic_id": "23152244e9c3abeecc610430b2d2fc9aa7c7eb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王俊凯脖子上的蝴蝶#",
+      "rank": 44,
+      "title": "王俊凯脖子上的蝴蝶",
+      "topic_id": "23152278e715407004437aa8f1e236928eabea"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "A股又见大肉签",
+      "rank": 45,
+      "title": "A股又见大肉签",
+      "topic_id": "231522a11915d7e78e4e3f9b80bd0e53724ea5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#段永平1300亿持仓曝光#",
+      "rank": 46,
+      "title": "段永平1300亿持仓曝光",
+      "topic_id": "2315223e2f43abb5151eca6eae0da523e15fab"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "马正阳声音侵权声明",
+      "rank": 47,
+      "title": "马正阳声音侵权声明",
+      "topic_id": "2315222be22d887f43223330a0badf9e6e1cb0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "韩网友点评新疆伊犁草原",
+      "rank": 48,
+      "title": "韩网友点评新疆伊犁草原",
+      "topic_id": "2315220c29d58b52bd8a4bcb0dd1c2cc774ab5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "王曼昱vs蒯曼",
+      "rank": 49,
+      "title": "王曼昱vs蒯曼",
+      "topic_id": "231522e66ff41f866a3dba92831b598a77c202"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#唐九洲披哥版糖果超甜#",
+      "rank": 50,
+      "title": "唐九洲披哥版糖果超甜",
+      "topic_id": "2315226d45539195dffcc33820c5b1927816fa"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

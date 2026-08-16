@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 3925029349
   },
-  "last_seen_at": "2026-08-16T21:00:00+08:00",
+  "last_seen_at": "2026-08-16T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%89%BE%E7%B1%B3%E8%BF%9B%E7%BB%84%E5%87%A0%E5%A4%A9%E7%98%A6%E4%BA%86%E4%B8%80%E5%A4%A7%E5%9C%88%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "6家媒体",
     "users": [
       {
         "id": 2630281751,
         "idstr": "2630281751",
         "screen_name": "快报泰州",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2535760180,
+        "idstr": "2535760180",
+        "screen_name": "安徽视讯",
         "verified": true,
         "verified_type": 3
       },
@@ -30,16 +37,23 @@
         "verified_type": 3
       },
       {
-        "id": 1880922220,
-        "idstr": "1880922220",
-        "screen_name": "金华晚报",
+        "id": 1656737654,
+        "idstr": "1656737654",
+        "screen_name": "现代快报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1656737654,
-        "idstr": "1656737654",
-        "screen_name": "现代快报",
+        "id": 1451977335,
+        "idstr": "1451977335",
+        "screen_name": "新晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1406911561,
+        "idstr": "1406911561",
+        "screen_name": "云南广播电视台",
         "verified": true,
         "verified_type": 3
       }
