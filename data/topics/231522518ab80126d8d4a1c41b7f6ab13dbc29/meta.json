@@ -3,11 +3,18 @@
   "created_at": null,
   "first_seen_at": "2026-08-17T18:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-17T18:00:00+08:00",
+  "last_seen_at": "2026-08-17T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%88%90%E9%83%BD%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "3家媒体",
     "users": [
+      {
+        "id": 1655444627,
+        "idstr": "1655444627",
+        "screen_name": "潇湘晨报",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1882632930,
         "idstr": "1882632930",
@@ -16,9 +23,9 @@
         "verified_type": 3
       },
       {
-        "id": 1655444627,
-        "idstr": "1655444627",
-        "screen_name": "潇湘晨报",
+        "id": 1657914910,
+        "idstr": "1657914910",
+        "screen_name": "烟台日报社大小新闻",
         "verified": true,
         "verified_type": 3
       }

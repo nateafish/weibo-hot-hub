@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 6105713761
   },
-  "last_seen_at": "2026-08-17T18:00:00+08:00",
+  "last_seen_at": "2026-08-17T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%9B%9B%E5%B7%9D%E5%B7%B4%E4%B8%AD3999%E4%B8%87%E8%B5%84%E9%87%91%E7%AD%89%E5%BE%85%E8%AE%A4%E9%A2%86%23%26t%3D3&title=发布媒体",
-    "show_str": "16家媒体",
+    "show_str": "30家媒体",
     "users": [
       {
         "id": 6105713761,
@@ -26,6 +26,13 @@
         "id": 2175686497,
         "idstr": "2175686497",
         "screen_name": "济南日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1943154142,
+        "idstr": "1943154142",
+        "screen_name": "中安在线",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 5388240201,
-        "idstr": "5388240201",
-        "screen_name": "南阳日报",
+        "id": 6966062673,
+        "idstr": "6966062673",
+        "screen_name": "大河报邻妹妹",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 5145725878,
-        "idstr": "5145725878",
-        "screen_name": "沸点视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3877613768,
-        "idstr": "3877613768",
-        "screen_name": "爱济南发布",
+        "id": 6207911580,
+        "idstr": "6207911580",
+        "screen_name": "大河报豫视频",
         "verified": true,
         "verified_type": 3
       }

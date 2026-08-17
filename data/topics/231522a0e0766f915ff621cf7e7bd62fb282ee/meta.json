@@ -3,11 +3,18 @@
   "created_at": 1786957762,
   "first_seen_at": "2026-08-17T17:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-17T18:00:00+08:00",
+  "last_seen_at": "2026-08-17T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%88%B8%E7%88%B8%E8%AF%B4%E5%B9%B8%E4%B8%8D%E5%B9%B8%E7%A6%8F%E8%B7%9F%E5%AB%81%E7%BB%99%E8%B0%81%E6%B2%A1%E5%85%B3%E7%B3%BB%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "7家媒体",
     "users": [
+      {
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2535760180,
         "idstr": "2535760180",
@@ -16,9 +23,37 @@
         "verified_type": 3
       },
       {
+        "id": 2041117703,
+        "idstr": "2041117703",
+        "screen_name": "合肥日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1913382117,
         "idstr": "1913382117",
         "screen_name": "深圳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1789681642,
+        "idstr": "1789681642",
+        "screen_name": "第一现场",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1720962692,
+        "idstr": "1720962692",
+        "screen_name": "极目新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1657914910,
+        "idstr": "1657914910",
+        "screen_name": "烟台日报社大小新闻",
         "verified": true,
         "verified_type": 3
       }
