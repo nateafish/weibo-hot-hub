@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1683472727
   },
-  "last_seen_at": "2026-08-17T13:00:00+08:00",
+  "last_seen_at": "2026-08-17T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9A%91%E6%9C%9F%E6%9C%8D%E5%8A%A1%E6%B6%88%E8%B4%B9%E6%BD%9C%E8%83%BD%E5%8A%A0%E9%80%9F%E9%87%8A%E6%94%BE%23%26t%3D3&title=发布媒体",
-    "show_str": "15家媒体",
+    "show_str": "25家媒体",
     "users": [
       {
         "id": 1683472727,
@@ -44,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 5444842501,
+        "idstr": "5444842501",
+        "screen_name": "七台河新闻官博",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 5110439722,
         "idstr": "5110439722",
         "screen_name": "哈尔滨经济广播电台",
@@ -54,13 +61,6 @@
         "id": 3901624042,
         "idstr": "3901624042",
         "screen_name": "山西日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2377587254,
-        "idstr": "2377587254",
-        "screen_name": "中国网财经",
         "verified": true,
         "verified_type": 3
       }

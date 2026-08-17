@@ -1,5 +1,5 @@
 {
-  "category": "电影-美国电影",
+  "category": "电影",
   "created_at": 1786936246,
   "first_seen_at": "2026-08-17T13:00:00+08:00",
   "host": {
@@ -10,15 +10,57 @@
     "status": 2,
     "uid": 1803310643
   },
-  "last_seen_at": "2026-08-17T13:00:00+08:00",
+  "last_seen_at": "2026-08-17T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%BC%94%E5%91%98%E6%B5%B7%E9%A1%BF%E6%BD%98%E5%A6%AE%E8%92%82%E5%B0%94%E5%8E%BB%E4%B8%96%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "13家媒体",
     "users": [
+      {
+        "id": 2028810631,
+        "idstr": "2028810631",
+        "screen_name": "新浪新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1893801487,
+        "idstr": "1893801487",
+        "screen_name": "微天下",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 6336553950,
         "idstr": "6336553950",
         "screen_name": "新浪大文娱",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3048800300,
+        "idstr": "3048800300",
+        "screen_name": "新浪圈子",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2647971081,
+        "idstr": "2647971081",
+        "screen_name": "时速新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2535760180,
+        "idstr": "2535760180",
+        "screen_name": "安徽视讯",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2274928514,
+        "idstr": "2274928514",
+        "screen_name": "凤凰网电影",
         "verified": true,
         "verified_type": 3
       }
