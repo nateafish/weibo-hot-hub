@@ -1,0 +1,8 @@
+{
+  "body": "英特尔 CI 日志显示，bat-nvls-1、bat-nvls-2 两块主板被标记为 Nova Lake-S。两块主板的 DMI 字符串均显示为“Intel Corporation Nova Lake Client Platform / NVL-S”，对应 CPUID 为 300F15（IT之家注：Family 0x12、Model 0x1、Stepping 0x5），BIOS 构建日期均为 7 月 16 日。\n同时，bat-nvls-1 主板搭载的 CPU 拥有 24 核心 24 线程，基础频率为 3.4GHz；bat-nvls-2 搭载的 CPU 则是 28 核心 28 线程，基础频率 3.2GHz，两个测试平台的 XSAVE 列表中，均开放 AVX-512 与 APX 寄存器保存状态，预示着 Nova Lake-S 有望支持 AVX-512 与 APX。\n当然，上述主板和 CPU 目前还处于工程测试状态，因此频率偏低，我们还是需要等待英特尔公布量产版本的最终配置。\n#曹骏初舞台人气票数倒挂#",
+  "created_at_text": "Mon Aug 17 23:21:33 +0800 2026",
+  "mid": "5333043403298645",
+  "uid": "5252901462",
+  "url": "https://m.weibo.cn/detail/5333043403298645",
+  "username": "小哥测评"
+}
