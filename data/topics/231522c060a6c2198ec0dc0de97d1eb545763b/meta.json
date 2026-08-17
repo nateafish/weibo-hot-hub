@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1796087453
   },
-  "last_seen_at": "2026-08-17T16:00:00+08:00",
+  "last_seen_at": "2026-08-17T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%BB%84%E5%B1%B1%E4%B8%80%E7%8C%B4%E5%AD%90%E8%AF%AF%E8%A7%A6%E9%AB%98%E5%8E%8B%E7%94%B5%E8%BA%AB%E4%BA%A1%23%26t%3D3&title=发布媒体",
-    "show_str": "21家媒体",
+    "show_str": "45家媒体",
     "users": [
       {
         "id": 1796087453,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7547774763,
         "idstr": "7547774763",
         "screen_name": "荔枝看法",
@@ -54,13 +61,6 @@
         "id": 3562298415,
         "idstr": "3562298415",
         "screen_name": "荔枝网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7741144531,
-        "idstr": "7741144531",
-        "screen_name": "荔枝健康",
         "verified": true,
         "verified_type": 3
       }
