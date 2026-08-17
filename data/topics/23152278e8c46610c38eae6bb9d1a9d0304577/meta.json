@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1371701597
   },
-  "last_seen_at": "2026-08-17T21:00:00+08:00",
+  "last_seen_at": "2026-08-17T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%97%A5%E6%9C%AC%E5%8D%83%E5%8F%B6%E6%9A%B4%E9%9B%A8%E8%87%B4%E6%94%BE%E5%B0%84%E6%80%A7%E5%BA%9F%E6%B6%B2%E6%B3%84%E6%BC%8F%23%26t%3D3&title=发布媒体",
-    "show_str": "19家媒体",
+    "show_str": "28家媒体",
     "users": [
       {
         "id": 1371701597,
         "idstr": "1371701597",
         "screen_name": "CCTV国际时讯",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2028810631,
+        "idstr": "2028810631",
+        "screen_name": "新浪新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -37,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 7373111326,
+        "idstr": "7373111326",
+        "screen_name": "正观新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7310744124,
         "idstr": "7310744124",
         "screen_name": "點新聞dotdotnews",
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 6890796357,
-        "idstr": "6890796357",
-        "screen_name": "日照日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5281491251,
-        "idstr": "5281491251",
-        "screen_name": "信网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3840768703,
-        "idstr": "3840768703",
-        "screen_name": "工人日报",
+        "id": 7126605018,
+        "idstr": "7126605018",
+        "screen_name": "各界新闻网官微",
         "verified": true,
         "verified_type": 3
       }

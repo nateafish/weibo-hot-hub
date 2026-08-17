@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 5675905882
   },
-  "last_seen_at": "2026-08-17T21:00:00+08:00",
+  "last_seen_at": "2026-08-17T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E5%BC%80%E8%BD%A6%E4%B8%80%E5%AE%9A%E8%A6%81%E4%B8%93%E5%BF%83%23%26t%3D3&title=发布媒体",
-    "show_str": "11家媒体",
+    "show_str": "17家媒体",
     "users": [
+      {
+        "id": 3288875501,
+        "idstr": "3288875501",
+        "screen_name": "河南日报",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1774057271,
         "idstr": "1774057271",
         "screen_name": "生命时报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1651428902,
+        "idstr": "1651428902",
+        "screen_name": "21世纪经济报道",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +44,23 @@
         "verified_type": 3
       },
       {
-        "id": 2041117703,
-        "idstr": "2041117703",
-        "screen_name": "合肥日报",
+        "id": 6444725927,
+        "idstr": "6444725927",
+        "screen_name": "吉祥新闻",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1977460817,
-        "idstr": "1977460817",
-        "screen_name": "央视网快看",
+        "id": 2833737170,
+        "idstr": "2833737170",
+        "screen_name": "慈溪日报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1960601312,
-        "idstr": "1960601312",
-        "screen_name": "多彩贵州网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1959444680,
-        "idstr": "1959444680",
-        "screen_name": "云南网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1926909715,
-        "idstr": "1926909715",
-        "screen_name": "第一财经日报",
+        "id": 2208160981,
+        "idstr": "2208160981",
+        "screen_name": "西安新闻网",
         "verified": true,
         "verified_type": 3
       }

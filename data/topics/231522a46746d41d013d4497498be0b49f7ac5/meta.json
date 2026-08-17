@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 5397387741
   },
-  "last_seen_at": "2026-08-17T21:00:00+08:00",
+  "last_seen_at": "2026-08-17T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E6%94%B6%E5%AE%98%E7%A2%A7%E6%B5%B7%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "7家媒体",
     "users": [
+      {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 3514732862,
         "idstr": "3514732862",
@@ -23,9 +30,23 @@
         "verified_type": 3
       },
       {
+        "id": 2921799343,
+        "idstr": "2921799343",
+        "screen_name": "天下泉城",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2252846093,
         "idstr": "2252846093",
         "screen_name": "长春新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1720962692,
+        "idstr": "1720962692",
+        "screen_name": "极目新闻",
         "verified": true,
         "verified_type": 3
       },
