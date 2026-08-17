@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1655444627
   },
-  "last_seen_at": "2026-08-17T17:00:00+08:00",
+  "last_seen_at": "2026-08-17T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A5%B3%E5%AD%A9%E8%A2%AB%E5%9B%B0%E9%A1%BA%E9%A3%8E%E8%BD%A6%E6%9C%8D%E5%8A%A1%E5%8C%BA7%E5%88%86%E9%92%9F%E8%A7%A3%E6%95%91%23%26t%3D3&title=发布媒体",
-    "show_str": "21家媒体",
+    "show_str": "36家媒体",
     "users": [
       {
         "id": 1655444627,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 5822206027,
+        "idstr": "5822206027",
+        "screen_name": "北斗融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 5396094153,
         "idstr": "5396094153",
         "screen_name": "大众新闻-大众日报",
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 3215951873,
+        "idstr": "3215951873",
+        "screen_name": "千龙网中国首都网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2663751563,
         "idstr": "2663751563",
         "screen_name": "南京广播电视台",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2535760180,
-        "idstr": "2535760180",
-        "screen_name": "安徽视讯",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1938523582,
-        "idstr": "1938523582",
-        "screen_name": "宁波晚报",
         "verified": true,
         "verified_type": 3
       }
