@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1618051664
   },
-  "last_seen_at": "2026-08-17T10:00:00+08:00",
+  "last_seen_at": "2026-08-17T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%BE%99%E9%A4%90%E9%A6%86%E5%8E%9F%E5%9E%8B%E7%A7%B0%E6%AF%8F%E5%A4%A9%E9%83%BD%E5%8F%AF%E8%83%BD%E8%A2%AB%E6%AD%BB%E7%A5%9E%E7%82%B9%E5%90%8D%23%26t%3D3&title=发布媒体",
-    "show_str": "68家媒体",
+    "show_str": "78家媒体",
     "users": [
       {
         "id": 1618051664,
@@ -26,6 +26,20 @@
         "id": 1744332207,
         "idstr": "1744332207",
         "screen_name": "钱江视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2286092114,
+        "idstr": "2286092114",
+        "screen_name": "中国蓝新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -44,25 +58,11 @@
         "verified_type": 3
       },
       {
-        "id": 1288429914,
-        "idstr": "1288429914",
-        "screen_name": "今视频长天新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 7758085105,
         "idstr": "7758085105",
         "screen_name": "新源视频",
         "verified": true,
         "verified_type": 2
-      },
-      {
-        "id": 7613700701,
-        "idstr": "7613700701",
-        "screen_name": "共富财经",
-        "verified": true,
-        "verified_type": 3
       }
     ]
   },

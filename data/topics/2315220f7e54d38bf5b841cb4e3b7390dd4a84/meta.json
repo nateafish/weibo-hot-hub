@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1774057271
   },
-  "last_seen_at": "2026-08-17T10:00:00+08:00",
+  "last_seen_at": "2026-08-17T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%9D%A1%E4%B8%8D%E5%A5%BD%E7%9A%84%E4%BA%BA%E8%B0%83%E6%95%B4%E4%B8%80%E4%B8%8B%E6%B4%97%E6%BC%B1%E6%97%B6%E9%97%B4%23%26t%3D3&title=发布媒体",
-    "show_str": "42家媒体",
+    "show_str": "44家媒体",
     "users": [
       {
         "id": 1774057271,
         "idstr": "1774057271",
         "screen_name": "生命时报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1411163204,
+        "idstr": "1411163204",
+        "screen_name": "人民日报健康客户端",
         "verified": true,
         "verified_type": 3
       },
@@ -37,13 +44,6 @@
         "verified_type": 3
       },
       {
-        "id": 1411163204,
-        "idstr": "1411163204",
-        "screen_name": "人民日报健康客户端",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 5035304660,
         "idstr": "5035304660",
         "screen_name": "青橙融媒",
@@ -51,16 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 2086029453,
-        "idstr": "2086029453",
-        "screen_name": "人民网四川频道",
+        "id": 2272985297,
+        "idstr": "2272985297",
+        "screen_name": "北京科教_健康北京",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1682207150,
-        "idstr": "1682207150",
-        "screen_name": "南方日报",
+        "id": 2086029453,
+        "idstr": "2086029453",
+        "screen_name": "人民网四川频道",
         "verified": true,
         "verified_type": 3
       }

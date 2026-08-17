@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 2855643032
   },
-  "last_seen_at": "2026-08-17T10:00:00+08:00",
+  "last_seen_at": "2026-08-17T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9D%8E%E5%B0%8F%E5%86%89%E8%82%9A%E5%AD%90%E7%97%9B%E8%BF%98%E7%86%AC%E5%A4%9C%E5%BD%95%E8%8A%82%E7%9B%AE%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "11家媒体",
     "users": [
       {
         "id": 1774057271,
         "idstr": "1774057271",
         "screen_name": "生命时报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7422806367,
+        "idstr": "7422806367",
+        "screen_name": "中网传播",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7020664161,
+        "idstr": "7020664161",
+        "screen_name": "福建经济生活频道",
         "verified": true,
         "verified_type": 3
       },
@@ -33,6 +54,13 @@
         "id": 2337985010,
         "idstr": "2337985010",
         "screen_name": "瑞安融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2299460371,
+        "idstr": "2299460371",
+        "screen_name": "福建电视剧频道",
         "verified": true,
         "verified_type": 3
       }
