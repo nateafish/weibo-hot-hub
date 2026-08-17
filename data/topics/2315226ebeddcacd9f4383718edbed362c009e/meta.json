@@ -10,11 +10,26 @@
     "status": 2,
     "uid": 5623570615
   },
-  "last_seen_at": "2026-08-17T09:00:00+08:00",
+  "last_seen_at": "2026-08-17T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%BC%A0%E5%85%83%E8%8B%B1%E6%B0%B4%E6%99%B6%E5%87%89%E9%9E%8B%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "2家媒体",
+    "users": [
+      {
+        "id": 2337985010,
+        "idstr": "2337985010",
+        "screen_name": "瑞安融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#张元英水晶凉鞋#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%83%E8%8B%B1%E6%B0%B4%E6%99%B6%E5%87%89%E9%9E%8B%23",
