@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 6023397804
   },
-  "last_seen_at": "2026-08-17T12:00:00+08:00",
+  "last_seen_at": "2026-08-17T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E4%B8%96%E6%8E%92%E7%A7%AF%E5%88%86%E7%A0%B4%E4%B8%87%E5%88%9B%E6%96%B0%E9%AB%98%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "13家媒体",
     "users": [
+      {
+        "id": 1638781994,
+        "idstr": "1638781994",
+        "screen_name": "新浪体育",
+        "verified": true,
+        "verified_type": 7
+      },
       {
         "id": 2297008700,
         "idstr": "2297008700",
         "screen_name": "七星体育",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2290787940,
+        "idstr": "2290787940",
+        "screen_name": "扬州晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,16 +44,23 @@
         "verified_type": 3
       },
       {
-        "id": 1288429914,
-        "idstr": "1288429914",
-        "screen_name": "今视频长天新闻",
+        "id": 2035321844,
+        "idstr": "2035321844",
+        "screen_name": "河池融媒",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1280846847,
-        "idstr": "1280846847",
-        "screen_name": "指尖新闻-沈阳晚报",
+        "id": 1938523582,
+        "idstr": "1938523582",
+        "screen_name": "宁波晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1898885525,
+        "idstr": "1898885525",
+        "screen_name": "生活报新街派",
         "verified": true,
         "verified_type": 3
       }

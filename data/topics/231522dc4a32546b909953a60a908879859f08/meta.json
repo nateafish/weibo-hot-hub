@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1936119834
   },
-  "last_seen_at": "2026-08-17T12:00:00+08:00",
+  "last_seen_at": "2026-08-17T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E9%BB%91%E7%B2%89%E5%87%BA%E9%95%9C%E8%87%B4%E6%AD%89%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "5家媒体",
     "users": [
       {
         "id": 1936119834,
@@ -23,9 +23,30 @@
         "verified_type": 3
       },
       {
+        "id": 3229962754,
+        "idstr": "3229962754",
+        "screen_name": "陕视新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6525645286,
         "idstr": "6525645286",
         "screen_name": "长城视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1938523582,
+        "idstr": "1938523582",
+        "screen_name": "宁波晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1398613133,
+        "idstr": "1398613133",
+        "screen_name": "马上资讯",
         "verified": true,
         "verified_type": 3
       }

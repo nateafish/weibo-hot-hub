@@ -10,22 +10,22 @@
     "status": 2,
     "uid": 2318910945
   },
-  "last_seen_at": "2026-08-17T12:00:00+08:00",
+  "last_seen_at": "2026-08-17T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%233%E5%AD%A9%E9%9D%9E%E4%BA%B2%E7%94%9F%E7%94%B7%E5%AD%90%E7%9C%8B%E5%87%BA%E8%BD%A8%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E8%85%BF%E8%BD%AF%23%26t%3D3&title=发布媒体",
-    "show_str": "10家媒体",
+    "show_str": "13家媒体",
     "users": [
-      {
-        "id": 2318910945,
-        "idstr": "2318910945",
-        "screen_name": "新浪热点",
-        "verified": true,
-        "verified_type": 3
-      },
       {
         "id": 2286092114,
         "idstr": "2286092114",
         "screen_name": "中国蓝新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2318910945,
+        "idstr": "2318910945",
+        "screen_name": "新浪热点",
         "verified": true,
         "verified_type": 3
       },
@@ -44,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 2535760180,
+        "idstr": "2535760180",
+        "screen_name": "安徽视讯",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2299460371,
         "idstr": "2299460371",
         "screen_name": "福建电视剧频道",
@@ -51,16 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1928754775,
-        "idstr": "1928754775",
-        "screen_name": "福建电视台综合频道",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1829407315,
-        "idstr": "1829407315",
-        "screen_name": "蓝媒视频官方微博",
+        "id": 2028810631,
+        "idstr": "2028810631",
+        "screen_name": "新浪新闻",
         "verified": true,
         "verified_type": 3
       }
