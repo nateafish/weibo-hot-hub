@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-08-17T09:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 1,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#切实担负起管党治党政治责任#",
+      "rank": 1,
+      "title": "切实担负起管党治党政治责任",
+      "topic_id": "231522dfe0cba6f439e03528a02f26cd50f178"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#居民存款7月又少了6300亿#",
+      "rank": 1,
+      "title": "居民存款7月又少了6300亿",
+      "topic_id": "231522f3a820bd5228ccf79379111b4d09f1db"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#胖东来被涨租逼走却从不涨商户租#",
+      "rank": 2,
+      "title": "胖东来被涨租逼走却从不涨商户租",
+      "topic_id": "231522c3e44476b9142e6b1c4eacfd8b4c2d66"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#为中国航天点赞#",
+      "rank": 3,
+      "title": "为中国航天点赞",
+      "topic_id": "23152294fcf562b3ddfe27bffdcd1a9852a12e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "档案袋被外婆拆了好崩溃",
+      "rank": 4,
+      "title": "档案袋被外婆拆了好崩溃",
+      "topic_id": "231522d96ee8d4c02f8a5fad331c44bb854d6e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王俊凯妈妈给粉丝送伴手礼#",
+      "rank": 5,
+      "title": "王俊凯妈妈给粉丝送伴手礼",
+      "topic_id": "231522814c375dce59f10b86eba1342625f0fc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#辟谣恋情都按谷爱凌这个标准来#",
+      "rank": 6,
+      "title": "辟谣恋情都按谷爱凌这个标准来",
+      "topic_id": "2315222adc24731c44142c7a3f734769d6fca1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "手机壳 医疗垃圾",
+      "rank": 7,
+      "title": "手机壳 医疗垃圾",
+      "topic_id": "2315225c9c9caa1f679d313517aaaccccee86b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王曼昱夺冠后比1庆祝#",
+      "rank": 8,
+      "title": "王曼昱夺冠后比1庆祝",
+      "topic_id": "2315221e35c5d1db2cb864f6859bfbb9d7ae56"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "披荆斩棘排名",
+      "rank": 9,
+      "title": "披荆斩棘排名",
+      "topic_id": "2315228a15dfa01f797bc2db12366e9147d7c8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#唐九洲凭高考647分加入乐华#",
+      "rank": 10,
+      "title": "唐九洲凭高考647分加入乐华",
+      "topic_id": "2315221146666ea6e061caf6867ce89c271cb2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#儿科医生杨国辉去世妻子发声#",
+      "rank": 11,
+      "title": "儿科医生杨国辉去世妻子发声",
+      "topic_id": "231522585814be6da909d95cba4b05ac0d3a03"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张本智和瑞典大满贯亚军#",
+      "rank": 12,
+      "title": "张本智和瑞典大满贯亚军",
+      "topic_id": "231522823460410180cbb1d26e6763fecc8b57"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "劣迹艺人那艺娜活动被当场叫停",
+      "rank": 13,
+      "title": "劣迹艺人那艺娜活动被当场叫停",
+      "topic_id": "231522403484ea0b669828ca9a8e74257d7967"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#龙餐馆原型称每天都可能被死神点名#",
+      "rank": 14,
+      "title": "龙餐馆原型称每天都可能被死神点名",
+      "topic_id": "23152251c4db5e23b8fbf4fd5758ff1f59facb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "哈兰德 仅7次触球",
+      "rank": 15,
+      "title": "哈兰德 仅7次触球",
+      "topic_id": "23152278050b83c5613b28ba527b9703e564ee"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#苏新皓辟谣穿丝袜#",
+      "rank": 16,
+      "title": "苏新皓辟谣穿丝袜",
+      "topic_id": "231522fb91d7ccc0b6436bce5a694a9e73972e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#Jennie因服装问题道歉#",
+      "rank": 17,
+      "title": "Jennie因服装问题道歉",
+      "topic_id": "2315224162241594caf4bbea4dcde99994c48b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#小勒布伦4比1张本智和#",
+      "rank": 18,
+      "title": "小勒布伦4比1张本智和",
+      "topic_id": "231522d7528a63ee301d2915b634a64363af37"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#丁程鑫从不遮掩自己农村家庭背景#",
+      "rank": 19,
+      "title": "丁程鑫从不遮掩自己农村家庭背景",
+      "topic_id": "2315228701a29c89f2c5a0033aaf7b512cb5b4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#DeepSeek正式涨价#",
+      "rank": 20,
+      "title": "DeepSeek正式涨价",
+      "topic_id": "23152228cac5b8271364004fe3c248fcec3444"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#睡不好的人调整一下洗漱时间#",
+      "rank": 21,
+      "title": "睡不好的人调整一下洗漱时间",
+      "topic_id": "2315220f7e54d38bf5b841cb4e3b7390dd4a84"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#41岁妈妈和23岁女儿同年生娃#",
+      "rank": 22,
+      "title": "41岁妈妈和23岁女儿同年生娃",
+      "topic_id": "231522cc20d2df2eeaf677acf67cdfa606ebd8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "你是我见过炒蛋炒饭最干净的厨子了",
+      "rank": 23,
+      "title": "你是我见过炒蛋炒饭最干净的厨子了",
+      "topic_id": "231522be5805b0ef9b60935485be2eb9431bd3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#吴艳妮示意中断比赛被出示黄牌#",
+      "rank": 24,
+      "title": "吴艳妮示意中断比赛被出示黄牌",
+      "topic_id": "2315220c7168dae5a48d8ed54c9996159ecc85"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#张元英水晶凉鞋#",
+      "rank": 25,
+      "title": "张元英水晶凉鞋",
+      "topic_id": "2315226ebeddcacd9f4383718edbed362c009e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王俊凯口误了#",
+      "rank": 26,
+      "title": "王俊凯口误了",
+      "topic_id": "231522818bd77c8ce86ef57b6cdd9400687143"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#特朗普称要大幅缩减美韩联合军演#",
+      "rank": 27,
+      "title": "特朗普称要大幅缩减美韩联合军演",
+      "topic_id": "23152245bf83083030e0e82aa13904804e7d8b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#娜扎刚起床的素颜#",
+      "rank": 28,
+      "title": "娜扎刚起床的素颜",
+      "topic_id": "23152248035e255fdfdfc7b1864ff6591b330a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#韩汶栩与女友合照#",
+      "rank": 29,
+      "title": "韩汶栩与女友合照",
+      "topic_id": "231522c3c8dec5fc7bc1ddbc37a09ceec701b1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#台风过后推开门我差点哭出来#",
+      "rank": 30,
+      "title": "台风过后推开门我差点哭出来",
+      "topic_id": "2315227180206383b8cb31157b7082dfc536bb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#有人要求政府联系某明星给自己过生日#",
+      "rank": 31,
+      "title": "有人要求政府联系某明星给自己过生日",
+      "topic_id": "2315221a01b4a3442831412179b68fa1dbbffe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "种地吧",
+      "rank": 32,
+      "title": "种地吧",
+      "topic_id": "231522a4d5fb5440919ca0afd4ed8372019217"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#考驾照的人为何变少了#",
+      "rank": 33,
+      "title": "考驾照的人为何变少了",
+      "topic_id": "2315225544af83b1e48a475274de22e2cb20ef"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "盗墓笔记",
+      "rank": 34,
+      "title": "盗墓笔记",
+      "topic_id": "231522195736aaaeced2b530871d9f3cbb3536"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#小沈阳口碑#",
+      "rank": 35,
+      "title": "小沈阳口碑",
+      "topic_id": "231522ae965cc265435df77d692015093cc171"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张睿披哥下沉市场口碑#",
+      "rank": 36,
+      "title": "张睿披哥下沉市场口碑",
+      "topic_id": "2315227de5a4d1bb4fe1d18a276caba9d1bac3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#VG老板发文宣布解散#",
+      "rank": 37,
+      "title": "VG老板发文宣布解散",
+      "topic_id": "2315228164bf323a70c3d5e99b7910c4ac9a32"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#左航新手机带丢了#",
+      "rank": 38,
+      "title": "左航新手机带丢了",
+      "topic_id": "2315222c26a9a3d7f72292d9fb7c8dc96754fc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#C罗乔治娜婚礼合照#",
+      "rank": 39,
+      "title": "C罗乔治娜婚礼合照",
+      "topic_id": "2315227961d3bb1e2a82b0ec6ecc37833e4036"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "薛之谦TMEA年度社会影响力艺人",
+      "rank": 40,
+      "title": "薛之谦TMEA年度社会影响力艺人",
+      "topic_id": "231522e81d9c6bdf86c8e3dbfd00f1c9d66cb3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "沈腾演徐福幻视徐峥",
+      "rank": 41,
+      "title": "沈腾演徐福幻视徐峥",
+      "topic_id": "2315221e1dc46eea67c42718b776a5a9ed24dd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#3女儿均非亲生男方盼尽快再婚#",
+      "rank": 42,
+      "title": "3女儿均非亲生男方盼尽快再婚",
+      "topic_id": "2315220e5b1fc2dd13cf51db5256d9486011f5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#曹骏问付辛博该怎么选对手#",
+      "rank": 43,
+      "title": "曹骏问付辛博该怎么选对手",
+      "topic_id": "231522a5b44ed0dd38bb95804b3579ecfc07d4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "罗德里将加盟巴萨",
+      "rank": 44,
+      "title": "罗德里将加盟巴萨",
+      "topic_id": "231522f0360c9474e4516a19a56c0b08891b7d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王源年度最佳内地男歌手#",
+      "rank": 45,
+      "title": "王源年度最佳内地男歌手",
+      "topic_id": "23152218b4bd05ec9ffc29df316470f1ea6a19"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#樊振东又去现场看皇马了#",
+      "rank": 46,
+      "title": "樊振东又去现场看皇马了",
+      "topic_id": "231522c2be06c631f8b805a7589a1c627155be"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#谷爱凌否认恋情#",
+      "rank": 47,
+      "title": "谷爱凌否认恋情",
+      "topic_id": "23152223dbbd3a0d1774844bbe5831d7b45567"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#离世39岁儿科医生最后一条朋友圈#",
+      "rank": 48,
+      "title": "离世39岁儿科医生最后一条朋友圈",
+      "topic_id": "231522d44f3e9b08f2713b5c3e6f2f3d84cd40"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#伊朗称美军已被驱逐不得进入海峡#",
+      "rank": 49,
+      "title": "伊朗称美军已被驱逐不得进入海峡",
+      "topic_id": "23152241548af0e3574acbf37997a8b2482ae4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#Anthropic通报Claude故障#",
+      "rank": 50,
+      "title": "Anthropic通报Claude故障",
+      "topic_id": "23152255710c72b7c9eb737645436d2d20f3fc"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
