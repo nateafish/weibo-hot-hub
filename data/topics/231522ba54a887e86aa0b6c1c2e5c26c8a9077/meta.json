@@ -10,11 +10,33 @@
     "status": 2,
     "uid": 2081334631
   },
-  "last_seen_at": "2026-08-17T11:00:00+08:00",
+  "last_seen_at": "2026-08-17T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E9%80%A0%E5%9E%8B%E9%83%AD%E7%90%AA%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "3家媒体",
+    "users": [
+      {
+        "id": 7590570074,
+        "idstr": "7590570074",
+        "screen_name": "山海视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2535760180,
+        "idstr": "2535760180",
+        "screen_name": "安徽视讯",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1938523582,
+        "idstr": "1938523582",
+        "screen_name": "宁波晚报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#王一博造型郭琪#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E9%80%A0%E5%9E%8B%E9%83%AD%E7%90%AA%23",
