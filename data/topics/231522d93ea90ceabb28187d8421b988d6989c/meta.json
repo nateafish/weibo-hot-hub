@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 7682288446
   },
-  "last_seen_at": "2026-08-17T23:00:00+08:00",
+  "last_seen_at": "2026-08-18T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E6%96%B0%E8%A5%BF%E5%85%B0%23%26t%3D3&title=发布媒体",
-    "show_str": "25家媒体",
+    "show_str": "26家媒体",
     "users": [
       {
         "id": 1618051664,
@@ -28,6 +28,13 @@
         "screen_name": "新浪种草官",
         "verified": true,
         "verified_type": 7
+      },
+      {
+        "id": 2460937233,
+        "idstr": "2460937233",
+        "screen_name": "热度新闻",
+        "verified": true,
+        "verified_type": 3
       },
       {
         "id": 7723774651,
@@ -54,13 +61,6 @@
         "id": 7514984576,
         "idstr": "7514984576",
         "screen_name": "荔枝起跑线",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6418480627,
-        "idstr": "6418480627",
-        "screen_name": "星视频",
         "verified": true,
         "verified_type": 3
       }
