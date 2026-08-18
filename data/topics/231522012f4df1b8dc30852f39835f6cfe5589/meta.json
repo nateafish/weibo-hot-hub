@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2537407542
   },
-  "last_seen_at": "2026-08-18T23:00:00+08:00",
+  "last_seen_at": "2026-08-19T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%AE%A9%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%B6%A8%E7%B2%89%E5%85%AB%E7%99%BE%E4%B8%87%E7%9A%84%E5%8F%B0%E8%AF%8D%23%26t%3D3&title=发布媒体",
-    "show_str": "14家媒体",
+    "show_str": "16家媒体",
     "users": [
       {
         "id": 1941424392,
         "idstr": "1941424392",
         "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7422806367,
+        "idstr": "7422806367",
+        "screen_name": "中网传播",
         "verified": true,
         "verified_type": 3
       },
@@ -54,13 +61,6 @@
         "id": 2010802407,
         "idstr": "2010802407",
         "screen_name": "中国台州网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1913382117,
-        "idstr": "1913382117",
-        "screen_name": "深圳晚报",
         "verified": true,
         "verified_type": 3
       }
