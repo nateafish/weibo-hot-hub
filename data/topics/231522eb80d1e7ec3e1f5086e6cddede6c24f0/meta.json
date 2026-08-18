@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1845864154
   },
-  "last_seen_at": "2026-08-18T10:00:00+08:00",
+  "last_seen_at": "2026-08-18T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23100%E4%BD%99%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9C%A8%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%A2%AB%E6%8B%98%23%26t%3D3&title=发布媒体",
-    "show_str": "10家媒体",
+    "show_str": "15家媒体",
     "users": [
       {
         "id": 1845864154,
@@ -23,9 +23,30 @@
         "verified_type": 3
       },
       {
+        "id": 2632236847,
+        "idstr": "2632236847",
+        "screen_name": "香港文匯網",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1651428902,
+        "idstr": "1651428902",
+        "screen_name": "21世纪经济报道",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6268375888,
         "idstr": "6268375888",
         "screen_name": "看看新闻全球眼",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5145725878,
+        "idstr": "5145725878",
+        "screen_name": "沸点视频",
         "verified": true,
         "verified_type": 3
       },
@@ -40,27 +61,6 @@
         "id": 2647971081,
         "idstr": "2647971081",
         "screen_name": "时速新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1989020644,
-        "idstr": "1989020644",
-        "screen_name": "STV新闻坊",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1925878362,
-        "idstr": "1925878362",
-        "screen_name": "SMGNEWS",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1882632930,
-        "idstr": "1882632930",
-        "screen_name": "新消息报",
         "verified": true,
         "verified_type": 3
       }

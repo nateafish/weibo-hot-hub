@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 3203137375
   },
-  "last_seen_at": "2026-08-18T10:00:00+08:00",
+  "last_seen_at": "2026-08-18T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%B5%B5%E6%B5%B7%E5%B3%B0%E6%8E%A5%E5%8F%97%E8%B0%83%E6%9F%A5%23%26t%3D3&title=发布媒体",
-    "show_str": "16家媒体",
+    "show_str": "22家媒体",
     "users": [
       {
         "id": 3203137375,
         "idstr": "3203137375",
         "screen_name": "四川观察",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7476748260,
+        "idstr": "7476748260",
+        "screen_name": "大公文匯網",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2027480085,
+        "idstr": "2027480085",
+        "screen_name": "水母网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1714800385,
+        "idstr": "1714800385",
+        "screen_name": "第一帮帮团",
         "verified": true,
         "verified_type": 3
       },
@@ -40,27 +61,6 @@
         "id": 6524418706,
         "idstr": "6524418706",
         "screen_name": "四川观察新视线",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5237278176,
-        "idstr": "5237278176",
-        "screen_name": "中国城市报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2118120483,
-        "idstr": "2118120483",
-        "screen_name": "青岛日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2041117703,
-        "idstr": "2041117703",
-        "screen_name": "合肥日报",
         "verified": true,
         "verified_type": 3
       }
