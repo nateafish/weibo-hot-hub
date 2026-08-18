@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1699432410
   },
-  "last_seen_at": "2026-08-18T09:00:00+08:00",
+  "last_seen_at": "2026-08-18T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%89%8D7%E4%B8%AA%E6%9C%88%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E6%80%BB%E4%BD%93%E5%B9%B3%E7%A8%B3%E5%90%91%E6%96%B0%E5%90%91%E4%BC%98%23%26t%3D3&title=发布媒体",
-    "show_str": "45家媒体",
+    "show_str": "61家媒体",
     "users": [
       {
         "id": 1651428902,
@@ -26,6 +26,20 @@
         "id": 1699432410,
         "idstr": "1699432410",
         "screen_name": "新华社",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3275115274,
+        "idstr": "3275115274",
+        "screen_name": "中国吉林网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7041951828,
+        "idstr": "7041951828",
+        "screen_name": "民乐融媒体中心",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1867571077,
-        "idstr": "1867571077",
-        "screen_name": "听中国",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7596378100,
-        "idstr": "7596378100",
-        "screen_name": "会昌融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5608027665,
-        "idstr": "5608027665",
-        "screen_name": "中国环境",
+        "id": 2346437860,
+        "idstr": "2346437860",
+        "screen_name": "三峡融媒",
         "verified": true,
         "verified_type": 3
       }

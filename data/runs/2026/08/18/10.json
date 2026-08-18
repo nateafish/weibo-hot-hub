@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-08-18T10:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#纪念江泽民同志诞辰100周年大会#",
+      "rank": 1,
+      "title": "纪念江泽民同志诞辰100周年大会",
+      "topic_id": "231522167a9d76b133cd36e868f8f6ba2d071a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#天安门下半旗悼念朱镕基同志#",
+      "rank": 1,
+      "title": "天安门下半旗悼念朱镕基同志",
+      "topic_id": "231522dd7b2d88e45ddc246e439389268c405d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#弟弟举报哥哥案母亲首度露面#",
+      "rank": 2,
+      "title": "弟弟举报哥哥案母亲首度露面",
+      "topic_id": "23152229c0c27b32a789e0c6bb5273f5147b76"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#前7个月国民经济总体平稳向新向优#",
+      "rank": 3,
+      "title": "前7个月国民经济总体平稳向新向优",
+      "topic_id": "231522ae835ddf30d2e886ea161f03ec859cf8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#印度教授发中国街景称被印媒骗惨了#",
+      "rank": 4,
+      "title": "印度教授发中国街景称被印媒骗惨了",
+      "topic_id": "2315225e56fdf710f8d5f7f2c07bf997ce8809"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#榴莲价格彻底崩了#",
+      "rank": 5,
+      "title": "榴莲价格彻底崩了",
+      "topic_id": "231522ce22cff21e388a97473f9653eb432155"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#17岁女孩搭车路过邵阳司机下车失联被锁2小时#",
+      "rank": 6,
+      "title": "17岁女孩搭车路过邵阳司机下车失联被锁2小时",
+      "topic_id": "2315223e08b1b72b386b4ba91635f15d1373d3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#大批AI博主停更了#",
+      "rank": 7,
+      "title": "大批AI博主停更了",
+      "topic_id": "231522e406f5fa1ddbf977223d42651658d1da"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "BBA大降价 宝马5系跌至28万",
+      "rank": 8,
+      "title": "BBA大降价 宝马5系跌至28万",
+      "topic_id": "2315220b18b7973c9771433ec62c273e65fbfb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#长剧试行边改边播机制#",
+      "rank": 9,
+      "title": "长剧试行边改边播机制",
+      "topic_id": "231522e9c7701e575f84f9624bc504910a71e4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "龙餐馆 现挂",
+      "rank": 10,
+      "title": "龙餐馆 现挂",
+      "topic_id": "2315224a7f187b5d018379c82c28def2b28ac2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#许家印崩了东北富二代42个亿#",
+      "rank": 11,
+      "title": "许家印崩了东北富二代42个亿",
+      "topic_id": "231522a9cfb697498963477dae95f593f21e65"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#肖战香港被偶遇#",
+      "rank": 12,
+      "title": "肖战香港被偶遇",
+      "topic_id": "2315225d2533528c6c6578225edd3d3be122ee"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#赵海峰接受调查#",
+      "rank": 13,
+      "title": "赵海峰接受调查",
+      "topic_id": "23152202046032a17249ff258199b4f154b915"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#李嫣几乎看不见唇腭裂修复痕迹#",
+      "rank": 14,
+      "title": "李嫣几乎看不见唇腭裂修复痕迹",
+      "topic_id": "231522b9aa6c50a10e3150866069dc5a268e50"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "普通人有收入后爱弥补过去的自己",
+      "rank": 15,
+      "title": "普通人有收入后爱弥补过去的自己",
+      "topic_id": "231522a8e46cc6356f03e2e40d3d627fa9fde0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#桃黑黑说真的挺不好意思#",
+      "rank": 16,
+      "title": "桃黑黑说真的挺不好意思",
+      "topic_id": "23152273f0884a236c7c1102e746ffe9b69089"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#黄圣依离婚后首次带儿子安麟出镜#",
+      "rank": 17,
+      "title": "黄圣依离婚后首次带儿子安麟出镜",
+      "topic_id": "231522d1ed0358b8594d225ee03b6fba1a1165"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝时代少年团工作人员公费旅游#",
+      "rank": 18,
+      "title": "曝时代少年团工作人员公费旅游",
+      "topic_id": "231522465ac72538efc994a3612cc201532e5d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#李蠕蠕薛甄珠仿妆神还原#",
+      "rank": 19,
+      "title": "李蠕蠕薛甄珠仿妆神还原",
+      "topic_id": "2315220186c8f839c598a68415c57db5be4742"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#丁禹兮是在培养死士吗#",
+      "rank": 20,
+      "title": "丁禹兮是在培养死士吗",
+      "topic_id": "231522b5f7431177ab4a59b77b2dc7e243a54a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#杭州涉事高管曾是高考状元清华毕业#",
+      "rank": 21,
+      "title": "杭州涉事高管曾是高考状元清华毕业",
+      "topic_id": "2315225ef460fb4454211ef6a8685a39801343"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "照烧鳗鱼 死鳗鱼",
+      "rank": 22,
+      "title": "照烧鳗鱼 死鳗鱼",
+      "topic_id": "231522b542715c2c109897594a0afd4d549038"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#蓝盈莹承认恋情#",
+      "rank": 23,
+      "title": "蓝盈莹承认恋情",
+      "topic_id": "2315226981faa8ad31a4a1de08e7751252e523"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#多方回应女子杭州酒局遭伤害#",
+      "rank": 24,
+      "title": "多方回应女子杭州酒局遭伤害",
+      "topic_id": "231522c50bb98ea66052139cb86fdbfc7e8b71"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "曹骏初舞台人气票数倒挂",
+      "rank": 25,
+      "title": "曹骏初舞台人气票数倒挂",
+      "topic_id": "231522e2c388255c31bd4ba295f5f90e9666b9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#6岁女儿学跳舞让爸爸减了37斤#",
+      "rank": 26,
+      "title": "6岁女儿学跳舞让爸爸减了37斤",
+      "topic_id": "23152203bf99e542c8b50720e4a90ec9d159e9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "肖战 孔笙重庆号",
+      "rank": 27,
+      "title": "肖战 孔笙重庆号",
+      "topic_id": "2315225130616636622be164c62956fd65c00f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "蓝盈莹和男友刚在一起没多久",
+      "rank": 28,
+      "title": "蓝盈莹和男友刚在一起没多久",
+      "topic_id": "231522ec0c232bbd163bc7f6d69dfc0653c4e0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#泡面巨头靠涨价赚翻了#",
+      "rank": 29,
+      "title": "泡面巨头靠涨价赚翻了",
+      "topic_id": "231522deb86f594a539c24c479ad8e0a999791"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "醉鹅娘 走私",
+      "rank": 30,
+      "title": "醉鹅娘 走私",
+      "topic_id": "231522296ea42c94aa6fc5ec0bfbd8d7fcdc17"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#小狗乖乖坐挖掘机电梯出坑#",
+      "rank": 31,
+      "title": "小狗乖乖坐挖掘机电梯出坑",
+      "topic_id": "231522e409116cb4da5bc0382c6487c1baccf6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "加强中小学教师医务人员欠薪治理",
+      "rank": 32,
+      "title": "加强中小学教师医务人员欠薪治理",
+      "topic_id": "231522209f22578c392326cabbdcab54c1b92f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "童装设计 引人触摸",
+      "rank": 33,
+      "title": "童装设计 引人触摸",
+      "topic_id": "23152244f43cb15e6e3f42c02966b8f5f7e876"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女患者称被男医生猥亵揉胸#",
+      "rank": 34,
+      "title": "女患者称被男医生猥亵揉胸",
+      "topic_id": "23152291aba10972d9fbd65d7818884833515f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "井迪音乐节",
+      "rank": 35,
+      "title": "井迪音乐节",
+      "topic_id": "231522d951c334ae88dd4d1ee9cf7d1a1fc743"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女子想烫大波浪结果烫成钢丝球#",
+      "rank": 36,
+      "title": "女子想烫大波浪结果烫成钢丝球",
+      "topic_id": "231522763694fbd3c41e87f03a56b0db29f383"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "小猫一个星期拿下姥姥",
+      "rank": 37,
+      "title": "小猫一个星期拿下姥姥",
+      "topic_id": "23152261a3daff01eea706fb0d7ab6d1557317"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#100余名中国人在巴基斯坦被拘#",
+      "rank": 38,
+      "title": "100余名中国人在巴基斯坦被拘",
+      "topic_id": "231522eb80d1e7ec3e1f5086e6cddede6c24f0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "不要允许人一边使用你一边否定你",
+      "rank": 39,
+      "title": "不要允许人一边使用你一边否定你",
+      "topic_id": "231522167d71e6a3341137a2f935d8b3661f75"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝iPhone18ProMax独占可变光圈#",
+      "rank": 40,
+      "title": "曝iPhone18ProMax独占可变光圈",
+      "topic_id": "231522a68ef07ec0cad799d4da72a4c1c8e27c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "胖东来被房东逼走房东纳税了吗",
+      "rank": 41,
+      "title": "胖东来被房东逼走房东纳税了吗",
+      "topic_id": "23152201b2f170a313afa92284abfea5dca82f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#美航母多人精神崩溃想跳海#",
+      "rank": 42,
+      "title": "美航母多人精神崩溃想跳海",
+      "topic_id": "2315221e5286ab080e824c28da2e61f0192682"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#珍妮巴斯或无法继续担任湖人老板#",
+      "rank": 43,
+      "title": "珍妮巴斯或无法继续担任湖人老板",
+      "topic_id": "2315227f74a35337d4a2f6edb9dc6a2cd1fa05"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#阳光出行涉事司机已被永久下线#",
+      "rank": 44,
+      "title": "阳光出行涉事司机已被永久下线",
+      "topic_id": "231522ffc9f4626a12efd72785cff52a58bb0f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#左奇函回应身体状况#",
+      "rank": 45,
+      "title": "左奇函回应身体状况",
+      "topic_id": "2315225b273ccebd9f5a2f6271a5660454710b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王一博转圈喷香水#",
+      "rank": 46,
+      "title": "王一博转圈喷香水",
+      "topic_id": "2315223b94bc2a834f84b2e198e468329bcfa8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#学籍顶替案哥哥称不存在冒名顶替#",
+      "rank": 47,
+      "title": "学籍顶替案哥哥称不存在冒名顶替",
+      "topic_id": "231522b4657c816c1b45415a74fedc2b01525e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#郭敬明发百妖谱原始帧#",
+      "rank": 48,
+      "title": "郭敬明发百妖谱原始帧",
+      "topic_id": "231522f43b030ecb458cc35450d31e5a04b27f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#美国巨头买了3200辆中国车#",
+      "rank": 49,
+      "title": "美国巨头买了3200辆中国车",
+      "topic_id": "231522b07b728362242c0523a4781ee630246b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#男子糖尿病不忌口1年后昏迷进ICU#",
+      "rank": 50,
+      "title": "男子糖尿病不忌口1年后昏迷进ICU",
+      "topic_id": "23152211a70843ec24f26cca2dd38993054787"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
