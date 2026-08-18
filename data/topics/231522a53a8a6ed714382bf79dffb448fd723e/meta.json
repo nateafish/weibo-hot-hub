@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1784473157
   },
-  "last_seen_at": "2026-08-18T16:00:00+08:00",
+  "last_seen_at": "2026-08-18T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%98%E5%AF%B9%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%E5%BF%B5%E5%BF%B5%E4%B8%8D%E5%BF%98%23%26t%3D3&title=发布媒体",
-    "show_str": "53家媒体",
+    "show_str": "64家媒体",
     "users": [
       {
         "id": 1784473157,
         "idstr": "1784473157",
         "screen_name": "中国新闻网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6115560351,
+        "idstr": "6115560351",
+        "screen_name": "国是直通车",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +37,30 @@
         "verified_type": 3
       },
       {
+        "id": 1420157965,
+        "idstr": "1420157965",
+        "screen_name": "上游新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1893801487,
         "idstr": "1893801487",
         "screen_name": "微天下",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2647971081,
-        "idstr": "2647971081",
-        "screen_name": "时速新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2287707595,
-        "idstr": "2287707595",
-        "screen_name": "济南广播电视台",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1941424392,
-        "idstr": "1941424392",
-        "screen_name": "台州晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1887344341,
-        "idstr": "1887344341",
-        "screen_name": "观察者网",
         "verified": true,
         "verified_type": 3
       }
