@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1789681642
   },
-  "last_seen_at": "2026-08-18T17:00:00+08:00",
+  "last_seen_at": "2026-08-18T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%B7%AF%E4%BA%BA%E5%88%B6%E6%AD%A2%E7%88%B6%E4%BA%B2%E8%84%9A%E8%B8%B9%E5%A5%B3%E5%84%BF%E8%A2%AB%E6%8B%98%E8%B6%85200%E5%A4%A9%23%26t%3D3&title=发布媒体",
-    "show_str": "39家媒体",
+    "show_str": "51家媒体",
     "users": [
       {
         "id": 1789681642,
@@ -44,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 5890672121,
+        "idstr": "5890672121",
+        "screen_name": "搜狐新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2628314830,
         "idstr": "2628314830",
         "screen_name": "合肥晚报",
@@ -51,16 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1764598954,
-        "idstr": "1764598954",
-        "screen_name": "西江潮新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7308140398,
-        "idstr": "7308140398",
-        "screen_name": "大象新闻",
+        "id": 1887344341,
+        "idstr": "1887344341",
+        "screen_name": "观察者网",
         "verified": true,
         "verified_type": 3
       }
