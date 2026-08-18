@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-08-18T20:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 1,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#习近平同厄瓜多尔总统诺沃亚会谈#",
+      "rank": 1,
+      "title": "习近平同厄瓜多尔总统诺沃亚会谈",
+      "topic_id": "231522bf1f98259fd4a51761ccb882c7155515"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#朱镕基同志生平#",
+      "rank": 1,
+      "title": "朱镕基同志生平",
+      "topic_id": "231522512388f960a6a78ed9aa494706d77f08"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "公积金",
+      "rank": 2,
+      "title": "公积金",
+      "topic_id": "23152208a3b2798c57f581056460708ee86e81"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#9部门发文活跃县域消费#",
+      "rank": 3,
+      "title": "9部门发文活跃县域消费",
+      "topic_id": "231522a0784f94a913ab0b732a27aff8a9c222"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#调查组通报杭州酒局事件#",
+      "rank": 4,
+      "title": "调查组通报杭州酒局事件",
+      "topic_id": "231522667821781b529dac5ba7d5e3a80a8285"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#住房公积金新政来了#",
+      "rank": 5,
+      "title": "住房公积金新政来了",
+      "topic_id": "231522a3b043237bbd8769b6c31a69e90c06cc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "公积金条例修改",
+      "rank": 6,
+      "title": "公积金条例修改",
+      "topic_id": "2315227d5a321f050ef96de4785d191b1ec1c8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "Dior全球公关总监去世",
+      "rank": 7,
+      "title": "Dior全球公关总监去世",
+      "topic_id": "2315226b1a09bd9399363d62dcdf08cef0445a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#曝披荆斩棘小考直播#",
+      "rank": 8,
+      "title": "曝披荆斩棘小考直播",
+      "topic_id": "231522a3f6e03790334677d03077b8cd9c1561"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "书卷一梦全台陆剧收视冠军",
+      "rank": 9,
+      "title": "书卷一梦全台陆剧收视冠军",
+      "topic_id": "231522d3dac9a4a979dca328ad28cee9f111ab"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "外交部不再称靖国神社直接叫战犯神社",
+      "rank": 10,
+      "title": "外交部不再称靖国神社直接叫战犯神社",
+      "topic_id": "2315225024e95800114ee7efcafe6b8e362d81"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#刘亦菲整个团队都穿黑色#",
+      "rank": 11,
+      "title": "刘亦菲整个团队都穿黑色",
+      "topic_id": "231522182bd86a28632493ff9f1ec3dabe97d4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "重器",
+      "rank": 12,
+      "title": "重器",
+      "topic_id": "23152242c9c41ce1f392e797973005075557ce"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "冰箱里放了两年的苹果",
+      "rank": 13,
+      "title": "冰箱里放了两年的苹果",
+      "topic_id": "2315225b5839b26ee393e5ba41f5f9ff8b9713"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#中国医师节致敬不平凡的你#",
+      "rank": 14,
+      "title": "中国医师节致敬不平凡的你",
+      "topic_id": "231522846a7b9e318e47ac5f2843d5d20f9649"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#郭敬明把艾米婴儿肥减没了#",
+      "rank": 15,
+      "title": "郭敬明把艾米婴儿肥减没了",
+      "topic_id": "231522cf21a686e129d72eef92025be2d20db1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "轻伤二级已经很严重了",
+      "rank": 16,
+      "title": "轻伤二级已经很严重了",
+      "topic_id": "2315227878babb37397c77636e95db2ec0478e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "胡锡进称杭州酒局涉事者吃了豹子胆",
+      "rank": 17,
+      "title": "胡锡进称杭州酒局涉事者吃了豹子胆",
+      "topic_id": "231522da2d62dcf9219a26bd6ab6314dca8595"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "吴磊宋祖儿 京洛再无佳人",
+      "rank": 18,
+      "title": "吴磊宋祖儿 京洛再无佳人",
+      "topic_id": "23152293a2c525aafe7e15240dd8573d71e324"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#小米Q2净利润62亿#",
+      "rank": 19,
+      "title": "小米Q2净利润62亿",
+      "topic_id": "2315224427fd5a3b62bc6bc7f3539071597d9a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#手机价格涨20%以上#",
+      "rank": 20,
+      "title": "手机价格涨20%以上",
+      "topic_id": "231522fe83b85a8ae3a78ffa313f62c5650c8a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王橹杰彝族祖先姓mu#",
+      "rank": 21,
+      "title": "王橹杰彝族祖先姓mu",
+      "topic_id": "231522620bcc5f2974cebcfde986587e4b7e56"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "张俪 修图师",
+      "rank": 22,
+      "title": "张俪 修图师",
+      "topic_id": "231522eb5c616c59bcba81e605019c159ecdfe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "以为是姐弟结果是母子",
+      "rank": 23,
+      "title": "以为是姐弟结果是母子",
+      "topic_id": "231522faf61b42959925d0556c4eca2e48e6ef"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "虞书欣Esther House上线",
+      "rank": 24,
+      "title": "虞书欣Esther House上线",
+      "topic_id": "23152238ac638d10668487efcdcd74f976300b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#时代少年团工作人员行程#",
+      "rank": 25,
+      "title": "时代少年团工作人员行程",
+      "topic_id": "23152221e04efab48837fc0c7edd636ff6685f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#学籍顶替案母亲称哥哥把弟弟毁了#",
+      "rank": 26,
+      "title": "学籍顶替案母亲称哥哥把弟弟毁了",
+      "topic_id": "2315227b949ff251c80afd203a1b5dfb8e1d4d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#涉侵害女性的酒局到底发生了什么#",
+      "rank": 27,
+      "title": "涉侵害女性的酒局到底发生了什么",
+      "topic_id": "2315225e23aef38db023ded5b7f53e7d8faab9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#让迪丽热巴涨粉八百万的台词#",
+      "rank": 28,
+      "title": "让迪丽热巴涨粉八百万的台词",
+      "topic_id": "231522012f4df1b8dc30852f39835f6cfe5589"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#苹果公布16款设备将停止系统更新#",
+      "rank": 29,
+      "title": "苹果公布16款设备将停止系统更新",
+      "topic_id": "231522efc4d032744741fcb0b36757324c0cd6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#兆易创新上半年净利增超1091%#",
+      "rank": 30,
+      "title": "兆易创新上半年净利增超1091%",
+      "topic_id": "231522723ccde89f23d1a836f8a082441e17d8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#何老师出生证和教资一起发的#",
+      "rank": 31,
+      "title": "何老师出生证和教资一起发的",
+      "topic_id": "231522aa73582d032d86cb077676b1d5bbcb78"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#男子写招嫖广告获刑妻儿报复女邻居#",
+      "rank": 32,
+      "title": "男子写招嫖广告获刑妻儿报复女邻居",
+      "topic_id": "231522d6a68543850cba1a01a8e48fe37f8798"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#甲状腺最怕的坏习惯#",
+      "rank": 33,
+      "title": "甲状腺最怕的坏习惯",
+      "topic_id": "2315228f60b2e005b19714237fceea17608567"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "幸运咖 阴阳瑞幸",
+      "rank": 34,
+      "title": "幸运咖 阴阳瑞幸",
+      "topic_id": "231522c884554152f084a3dcbfb15af69af8fc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#吴泽林曾在现场情绪失控#",
+      "rank": 35,
+      "title": "吴泽林曾在现场情绪失控",
+      "topic_id": "23152221b78712c3462236792bf2a838fbaf58"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#林志颖说小儿子可能当韩国练习生#",
+      "rank": 36,
+      "title": "林志颖说小儿子可能当韩国练习生",
+      "topic_id": "23152291f4eb9afcd796dea9b81bed7f953a0a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#我真的抠抠搜搜花了很多钱#",
+      "rank": 37,
+      "title": "我真的抠抠搜搜花了很多钱",
+      "topic_id": "23152277af2bce7f5cc516454bb8b6848a3185"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "易立竞当面拆穿蓝盈莹",
+      "rank": 38,
+      "title": "易立竞当面拆穿蓝盈莹",
+      "topic_id": "2315223e8916b4d80ed89a7300fc3fee8eacfa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 7,
+      "posts": "saved",
+      "query": "#国务院最新部署#",
+      "rank": 39,
+      "title": "国务院最新部署",
+      "topic_id": "2315228c83109d6a5d669af74d400d5497e2ba"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#曝TF四代27年出道战#",
+      "rank": 40,
+      "title": "曝TF四代27年出道战",
+      "topic_id": "231522919684bd1a739277372bd25dd044e9a7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#杨国福在仅68个粉丝账号上致歉#",
+      "rank": 41,
+      "title": "杨国福在仅68个粉丝账号上致歉",
+      "topic_id": "2315227a2aa15955ccd1e6fc0c8fd3f8251e6a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#王橹杰的耳夹是发夹#",
+      "rank": 42,
+      "title": "王橹杰的耳夹是发夹",
+      "topic_id": "231522e82ce49ecc92021c301b18ee58d5f4bb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#管泽元解说iQOO发布会#",
+      "rank": 43,
+      "title": "管泽元解说iQOO发布会",
+      "topic_id": "231522909da14dc822e87cb14cb524b4157143"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#百度第二季度营收313.3亿元#",
+      "rank": 44,
+      "title": "百度第二季度营收313.3亿元",
+      "topic_id": "231522c9536b9db36475098f0f2a5e79c9e547"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "花开锦绣",
+      "rank": 45,
+      "title": "花开锦绣",
+      "topic_id": "231522e4a3aa39c0f111d6408502f8afb8c399"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#新学期宿舍开黑神器belike#",
+      "rank": 46,
+      "title": "新学期宿舍开黑神器belike",
+      "topic_id": "231522b4083bf3310dd7947c169e502036cc10"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王者840倍农作物#",
+      "rank": 47,
+      "title": "王者840倍农作物",
+      "topic_id": "2315224096f1170daba2917f9571c0cfc4192a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "小米财报",
+      "rank": 48,
+      "title": "小米财报",
+      "topic_id": "2315220e21b5e4f6c861e92f82abe894c0962b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "建议开车一定要远离马路牙子",
+      "rank": 49,
+      "title": "建议开车一定要远离马路牙子",
+      "topic_id": "231522e218fc8e94cddc4bb45fd07d22a46f55"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#租房提取公积金取消收入比例门槛#",
+      "rank": 50,
+      "title": "租房提取公积金取消收入比例门槛",
+      "topic_id": "231522740a7ce367ac4483c2d5f77d5858de73"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
