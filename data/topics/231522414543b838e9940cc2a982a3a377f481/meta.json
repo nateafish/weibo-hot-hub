@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 5396094153
   },
-  "last_seen_at": "2026-08-18T13:00:00+08:00",
+  "last_seen_at": "2026-08-18T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%AD%A6%E7%B1%8D%E9%A1%B6%E6%9B%BF%E6%A1%88%E6%AF%8D%E4%BA%B2%E7%A7%B0%E5%BC%9F%E5%BC%9F%E5%BD%93%E5%85%AC%E5%8A%A1%E5%91%98%E5%90%8E%E9%A3%98%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "23家媒体",
+    "show_str": "31家媒体",
     "users": [
       {
         "id": 5396094153,
@@ -37,6 +37,20 @@
         "verified_type": 3
       },
       {
+        "id": 1645578093,
+        "idstr": "1645578093",
+        "screen_name": "南风窗",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1893761531,
+        "idstr": "1893761531",
+        "screen_name": "闪电新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7472856103,
         "idstr": "7472856103",
         "screen_name": "点时新闻",
@@ -49,20 +63,6 @@
         "screen_name": "天眼新闻",
         "verified": true,
         "verified_type": 3
-      },
-      {
-        "id": 6590980486,
-        "idstr": "6590980486",
-        "screen_name": "捉谣记",
-        "verified": true,
-        "verified_type": 7
-      },
-      {
-        "id": 6092578444,
-        "idstr": "6092578444",
-        "screen_name": "新浪种草官",
-        "verified": true,
-        "verified_type": 7
       }
     ]
   },
