@@ -3,10 +3,10 @@
   "created_at": 1787055342,
   "first_seen_at": "2026-08-18T21:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-19T06:00:00+08:00",
+  "last_seen_at": "2026-08-19T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%85%AC%E7%A7%AF%E9%87%91%E6%96%B0%E8%A7%84+%E9%80%9A%E4%BF%97%E8%A7%A3%E8%AF%BB%23%26t%3D3&title=发布媒体",
-    "show_str": "26家媒体",
+    "show_str": "29家媒体",
     "users": [
       {
         "id": 1727472420,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 5388240201,
+        "idstr": "5388240201",
+        "screen_name": "南阳日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 3165101432,
         "idstr": "3165101432",
         "screen_name": "广元日报看广元",
@@ -47,13 +54,6 @@
         "id": 2659523842,
         "idstr": "2659523842",
         "screen_name": "黔东南新闻网官方微博",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2630281751,
-        "idstr": "2630281751",
-        "screen_name": "快报泰州",
         "verified": true,
         "verified_type": 3
       }

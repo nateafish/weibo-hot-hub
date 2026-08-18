@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-08-19T07:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 47,
+    "ai_unchanged": 3,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#习近平同厄瓜多尔总统诺沃亚会谈#",
+      "rank": 1,
+      "title": "习近平同厄瓜多尔总统诺沃亚会谈",
+      "topic_id": "231522bf1f98259fd4a51761ccb882c7155515"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#朱镕基同志生平#",
+      "rank": 1,
+      "title": "朱镕基同志生平",
+      "topic_id": "231522512388f960a6a78ed9aa494706d77f08"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "七夕",
+      "rank": 2,
+      "title": "七夕",
+      "topic_id": "2315222a7e0d7ab7a66d729af8feee0c809374"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#9部门发文活跃县域消费#",
+      "rank": 3,
+      "title": "9部门发文活跃县域消费",
+      "topic_id": "231522a0784f94a913ab0b732a27aff8a9c222"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "做事千万不要有状态洁癖",
+      "rank": 4,
+      "title": "做事千万不要有状态洁癖",
+      "topic_id": "23152275f41a0839fd55de78594fdaef4e7d5a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#胖东来招聘不包含性侵犯罪人员#",
+      "rank": 5,
+      "title": "胖东来招聘不包含性侵犯罪人员",
+      "topic_id": "231522be8099bd17a4819d0f2d52e98c2ef645"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "上海2026社保基数公布",
+      "rank": 6,
+      "title": "上海2026社保基数公布",
+      "topic_id": "231522dce6520400de5a08a2aa09ee25c505a8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "公积金新规 通俗解读",
+      "rank": 7,
+      "title": "公积金新规 通俗解读",
+      "topic_id": "23152283bcefcacce777b11883ce0683694abb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#调查组通报杭州酒局事件#",
+      "rank": 8,
+      "title": "调查组通报杭州酒局事件",
+      "topic_id": "231522667821781b529dac5ba7d5e3a80a8285"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#披荆斩棘口碑#",
+      "rank": 9,
+      "title": "披荆斩棘口碑",
+      "topic_id": "2315228b0a531918ab5322c4e2ef498a32277f"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "公积金",
+      "rank": 10,
+      "title": "公积金",
+      "topic_id": "23152208a3b2798c57f581056460708ee86e81"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#女子开门杀反遭关门杀#",
+      "rank": 11,
+      "title": "女子开门杀反遭关门杀",
+      "topic_id": "23152291e70ffa9933f24fd1e1b0684cfb1acd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 6,
+      "posts": "saved",
+      "query": "比野生狗奶还永久的存在出现了",
+      "rank": 12,
+      "title": "比野生狗奶还永久的存在出现了",
+      "topic_id": "2315222382309aeb27e327275c9fddcd2e0084"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "你的经济属于什么水平",
+      "rank": 13,
+      "title": "你的经济属于什么水平",
+      "topic_id": "231522f555dbfd73ffc3ee1c8fe39d388a0f0c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#全国首例反强拆致死判正当防卫案#",
+      "rank": 14,
+      "title": "全国首例反强拆致死判正当防卫案",
+      "topic_id": "23152258ad5f3f3747be5550fe06445a9097f2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "美股",
+      "rank": 15,
+      "title": "美股",
+      "topic_id": "231522d0df61567e5cfbf00ac015762e6d6398"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "公积金 强制缴纳",
+      "rank": 16,
+      "title": "公积金 强制缴纳",
+      "topic_id": "231522207ceeea9fa4fd7414728f9310ee3ca9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#杭州酒局事件嫌疑人会被判多久#",
+      "rank": 17,
+      "title": "杭州酒局事件嫌疑人会被判多久",
+      "topic_id": "23152252cacb605d5c617cb64f1355f0aaddf4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#吴泽林曾在现场情绪失控#",
+      "rank": 18,
+      "title": "吴泽林曾在现场情绪失控",
+      "topic_id": "23152221b78712c3462236792bf2a838fbaf58"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#现在该不该换手机#",
+      "rank": 19,
+      "title": "现在该不该换手机",
+      "topic_id": "2315228e3a675d2c6e2cce3cad0d002548a9bd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#何炅因年龄大被密室拒绝#",
+      "rank": 20,
+      "title": "何炅因年龄大被密室拒绝",
+      "topic_id": "231522948b8ee2f9ed981d4c3b138b05f15c95"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "Dior全球公关总监去世",
+      "rank": 21,
+      "title": "Dior全球公关总监去世",
+      "topic_id": "2315226b1a09bd9399363d62dcdf08cef0445a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#甲状腺最怕的坏习惯#",
+      "rank": 22,
+      "title": "甲状腺最怕的坏习惯",
+      "topic_id": "2315228f60b2e005b19714237fceea17608567"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "真心喜欢一个人是什么样的",
+      "rank": 23,
+      "title": "真心喜欢一个人是什么样的",
+      "topic_id": "23152280826eee4335665744f994fd35d7fd0b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#保送中南大学的女孩因蓝发走红#",
+      "rank": 24,
+      "title": "保送中南大学的女孩因蓝发走红",
+      "topic_id": "231522e75cbead7b0529d6bf428a5863edf49f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#杭州酒局事件涉事者未喝多#",
+      "rank": 25,
+      "title": "杭州酒局事件涉事者未喝多",
+      "topic_id": "231522ecaa1ce688ccd703b202e48c171130e2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "柯洁装弱智赢AI围棋",
+      "rank": 26,
+      "title": "柯洁装弱智赢AI围棋",
+      "topic_id": "231522140cdb38d590a3c7528cc396274bff39"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#女子看到男孩过吊桥消失吓到尖叫#",
+      "rank": 27,
+      "title": "女子看到男孩过吊桥消失吓到尖叫",
+      "topic_id": "231522aec144f16d76903f1266f4508db57d26"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#爱奇艺第二季度收入62.9亿元#",
+      "rank": 28,
+      "title": "爱奇艺第二季度收入62.9亿元",
+      "topic_id": "231522f12c83b60def73fad2d5ec48deb5decc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "我的前半生",
+      "rank": 29,
+      "title": "我的前半生",
+      "topic_id": "231522b825bb6847f062c0db8f236c3f4fae1c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "闫佩伦演技",
+      "rank": 30,
+      "title": "闫佩伦演技",
+      "topic_id": "231522426e8fb57592f96bece227f3ea919d79"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 6,
+      "posts": "saved",
+      "query": "#女子下车被电动车撞回车内双方发声#",
+      "rank": 31,
+      "title": "女子下车被电动车撞回车内双方发声",
+      "topic_id": "231522f1ceef566833270d137d4bddca88c2c9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "真正决定一个人能走多远的三种能力",
+      "rank": 32,
+      "title": "真正决定一个人能走多远的三种能力",
+      "topic_id": "23152209baed816b87ae241e9a7701ebe7bd3f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#赵某峰将被害人推倒致腰部受伤#",
+      "rank": 33,
+      "title": "赵某峰将被害人推倒致腰部受伤",
+      "topic_id": "231522668bc8280de06f29ddc91fac53ff5fb7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#25岁小伙见网恋女友失联近两年#",
+      "rank": 34,
+      "title": "25岁小伙见网恋女友失联近两年",
+      "topic_id": "23152208b4a83cc8300ba10c431e897d1de845"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#一餐馆未打码曝光多名逃单顾客照片#",
+      "rank": 35,
+      "title": "一餐馆未打码曝光多名逃单顾客照片",
+      "topic_id": "231522ed5db0644121398baf1d2b2e5d3eb52f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#青海海西发生5.6级地震#",
+      "rank": 36,
+      "title": "青海海西发生5.6级地震",
+      "topic_id": "231522bd18741c37ebf560cff73608c65bbc72"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 7,
+      "posts": "saved",
+      "query": "#狗妈妈每天叼4只崽上楼吹空调#",
+      "rank": 37,
+      "title": "狗妈妈每天叼4只崽上楼吹空调",
+      "topic_id": "231522180ef809d98f1ffdaeef27631675e3cd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "隔代遗传的杀伤力有多强",
+      "rank": 38,
+      "title": "隔代遗传的杀伤力有多强",
+      "topic_id": "231522c992ae5b89500da99e9d68f8e60c4d45"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "刘亦菲携爱宠登芭莎九月封面",
+      "rank": 39,
+      "title": "刘亦菲携爱宠登芭莎九月封面",
+      "topic_id": "2315224f17181abca87c0dc5573a1e04b99461"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#窦佳嫄去年才收到窦唯第一个红包#",
+      "rank": 40,
+      "title": "窦佳嫄去年才收到窦唯第一个红包",
+      "topic_id": "2315229fb9a2ab21640a3e6c766d19e37f067d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#杭州酒局事件受害方入院时一度昏迷#",
+      "rank": 41,
+      "title": "杭州酒局事件受害方入院时一度昏迷",
+      "topic_id": "231522cb8eb89ac55579cce148bdf8f45492c5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#演员加练功券骗走1400万#",
+      "rank": 42,
+      "title": "演员加练功券骗走1400万",
+      "topic_id": "231522f193d0261acd3b497b4cab19036e016c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#上海申花0比3北京国安#",
+      "rank": 43,
+      "title": "上海申花0比3北京国安",
+      "topic_id": "231522ba8865d54fa4ef4bbd6c539fa3c295d8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#印尼选美冠军去世年仅25岁#",
+      "rank": 44,
+      "title": "印尼选美冠军去世年仅25岁",
+      "topic_id": "2315227c47bf2f6ec39d247ae1e37e6bdb1499"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "外交部不再称靖国神社直接叫战犯神社",
+      "rank": 45,
+      "title": "外交部不再称靖国神社直接叫战犯神社",
+      "topic_id": "2315225024e95800114ee7efcafe6b8e362d81"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#七夕不关于爱情是女孩子们自己的节日#",
+      "rank": 46,
+      "title": "七夕不关于爱情是女孩子们自己的节日",
+      "topic_id": "2315229a8540bf3af4b0e63c886aada59a894c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#白鹿包场敖瑞鹏孙珍妮师兄太稳健#",
+      "rank": 47,
+      "title": "白鹿包场敖瑞鹏孙珍妮师兄太稳健",
+      "topic_id": "231522c593d1b2e83157b270c73c422cc8ea46"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#苹果大波新品泄密#",
+      "rank": 48,
+      "title": "苹果大波新品泄密",
+      "topic_id": "23152207a6b3c9e845e707d7851e091fee4d32"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "周洛汐演唱会喊话KPOP三大公司",
+      "rank": 49,
+      "title": "周洛汐演唱会喊话KPOP三大公司",
+      "topic_id": "231522be2ccf4dff44be4afa869fb5aec9b8b7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#让迪丽热巴涨粉八百万的台词#",
+      "rank": 50,
+      "title": "让迪丽热巴涨粉八百万的台词",
+      "topic_id": "231522012f4df1b8dc30852f39835f6cfe5589"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

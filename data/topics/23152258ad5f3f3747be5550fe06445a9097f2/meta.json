@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1644114654
   },
-  "last_seen_at": "2026-08-19T06:00:00+08:00",
+  "last_seen_at": "2026-08-19T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%85%A8%E5%9B%BD%E9%A6%96%E4%BE%8B%E5%8F%8D%E5%BC%BA%E6%8B%86%E8%87%B4%E6%AD%BB%E5%88%A4%E6%AD%A3%E5%BD%93%E9%98%B2%E5%8D%AB%E6%A1%88%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "7家媒体",
     "users": [
       {
         "id": 1644114654,
         "idstr": "1644114654",
         "screen_name": "新京报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6367828994,
+        "idstr": "6367828994",
+        "screen_name": "剥洋葱",
         "verified": true,
         "verified_type": 3
       },
@@ -30,9 +37,16 @@
         "verified_type": 3
       },
       {
-        "id": 6367828994,
-        "idstr": "6367828994",
-        "screen_name": "剥洋葱",
+        "id": 1324343335,
+        "idstr": "1324343335",
+        "screen_name": "新京报食物链",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5145725878,
+        "idstr": "5145725878",
+        "screen_name": "沸点视频",
         "verified": true,
         "verified_type": 3
       },
@@ -47,13 +61,6 @@
         "id": 1912032243,
         "idstr": "1912032243",
         "screen_name": "大庆晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1324343335,
-        "idstr": "1324343335",
-        "screen_name": "新京报食物链",
         "verified": true,
         "verified_type": 3
       }
