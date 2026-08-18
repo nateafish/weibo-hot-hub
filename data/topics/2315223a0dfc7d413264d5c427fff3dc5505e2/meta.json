@@ -3,10 +3,10 @@
   "created_at": 1786965285,
   "first_seen_at": "2026-08-17T20:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-18T07:00:00+08:00",
+  "last_seen_at": "2026-08-18T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8F%AA%E6%9C%89%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%89%8D%E8%83%BD%E8%AF%86%E5%88%AB%E7%9A%84%E5%8A%A0%E5%AF%86%E6%9A%97%E5%8F%B7%23%26t%3D3&title=发布媒体",
-    "show_str": "12家媒体",
+    "show_str": "18家媒体",
     "users": [
       {
         "id": 1288429914,
@@ -19,6 +19,13 @@
         "id": 1639498782,
         "idstr": "1639498782",
         "screen_name": "南方周末",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5118600252,
+        "idstr": "5118600252",
+        "screen_name": "锡盟融媒",
         "verified": true,
         "verified_type": 3
       },
@@ -47,13 +54,6 @@
         "id": 6890796357,
         "idstr": "6890796357",
         "screen_name": "日照日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5118600252,
-        "idstr": "5118600252",
-        "screen_name": "锡盟融媒",
         "verified": true,
         "verified_type": 3
       }

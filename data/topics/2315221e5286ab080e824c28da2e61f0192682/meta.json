@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2656274875
   },
-  "last_seen_at": "2026-08-18T07:00:00+08:00",
+  "last_seen_at": "2026-08-18T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%BE%8E%E8%88%AA%E6%AF%8D%E5%A4%9A%E4%BA%BA%E7%B2%BE%E7%A5%9E%E5%B4%A9%E6%BA%83%E6%83%B3%E8%B7%B3%E6%B5%B7%23%26t%3D3&title=发布媒体",
-    "show_str": "11家媒体",
+    "show_str": "32家媒体",
     "users": [
       {
         "id": 2656274875,
         "idstr": "2656274875",
         "screen_name": "央视新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,20 +37,6 @@
         "verified_type": 3
       },
       {
-        "id": 6890796357,
-        "idstr": "6890796357",
-        "screen_name": "日照日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5822206027,
-        "idstr": "5822206027",
-        "screen_name": "北斗融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 3514732862,
         "idstr": "3514732862",
         "screen_name": "广西日报",
@@ -51,16 +44,23 @@
         "verified_type": 3
       },
       {
-        "id": 2992050891,
-        "idstr": "2992050891",
-        "screen_name": "北京时间",
+        "id": 2039753857,
+        "idstr": "2039753857",
+        "screen_name": "CCTV4",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2260699671,
-        "idstr": "2260699671",
-        "screen_name": "德州日报官方微博",
+        "id": 2011075080,
+        "idstr": "2011075080",
+        "screen_name": "齐鲁晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6928905395,
+        "idstr": "6928905395",
+        "screen_name": "大风视频",
         "verified": true,
         "verified_type": 3
       }

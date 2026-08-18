@@ -10,15 +10,43 @@
     "status": 2,
     "uid": 6603206421
   },
-  "last_seen_at": "2026-08-18T07:00:00+08:00",
+  "last_seen_at": "2026-08-18T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9B%9D%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%85%AC%E8%B4%B9%E6%97%85%E6%B8%B8%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "5家媒体",
     "users": [
       {
         "id": 1406911561,
         "idstr": "1406911561",
         "screen_name": "云南广播电视台",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2115259662,
+        "idstr": "2115259662",
+        "screen_name": "洪观新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2535760180,
+        "idstr": "2535760180",
+        "screen_name": "安徽视讯",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2337985010,
+        "idstr": "2337985010",
+        "screen_name": "瑞安融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1805685140,
+        "idstr": "1805685140",
+        "screen_name": "安徽网",
         "verified": true,
         "verified_type": 3
       }

@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-08-18T09:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 2,
+    "ai_saved": 49,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#纪念江泽民同志诞辰100周年大会#",
+      "rank": 1,
+      "title": "纪念江泽民同志诞辰100周年大会",
+      "topic_id": "231522167a9d76b133cd36e868f8f6ba2d071a"
+    },
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#天安门下半旗悼念朱镕基同志#",
+      "rank": 1,
+      "title": "天安门下半旗悼念朱镕基同志",
+      "topic_id": "231522dd7b2d88e45ddc246e439389268c405d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王楚钦8857分世排第一#",
+      "rank": 2,
+      "title": "王楚钦8857分世排第一",
+      "topic_id": "231522c5067a83c7a317b4ee69e04f1bae1776"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#前7个月国民经济总体平稳向新向优#",
+      "rank": 3,
+      "title": "前7个月国民经济总体平稳向新向优",
+      "topic_id": "231522ae835ddf30d2e886ea161f03ec859cf8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#桃黑黑勘误#",
+      "rank": 4,
+      "title": "桃黑黑勘误",
+      "topic_id": "23152264698ab9426ed259e4ac7050af342f10"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#榴莲价格彻底崩了#",
+      "rank": 5,
+      "title": "榴莲价格彻底崩了",
+      "topic_id": "231522ce22cff21e388a97473f9653eb432155"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#大批AI博主停更了#",
+      "rank": 6,
+      "title": "大批AI博主停更了",
+      "topic_id": "231522e406f5fa1ddbf977223d42651658d1da"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#小狗乖乖坐挖掘机电梯出坑#",
+      "rank": 7,
+      "title": "小狗乖乖坐挖掘机电梯出坑",
+      "topic_id": "231522e409116cb4da5bc0382c6487c1baccf6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "肖战 孔笙重庆号",
+      "rank": 8,
+      "title": "肖战 孔笙重庆号",
+      "topic_id": "2315225130616636622be164c62956fd65c00f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#长剧试行边改边播机制#",
+      "rank": 9,
+      "title": "长剧试行边改边播机制",
+      "topic_id": "231522e9c7701e575f84f9624bc504910a71e4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "黄仁勋称失去中国市场美国AI必败",
+      "rank": 10,
+      "title": "黄仁勋称失去中国市场美国AI必败",
+      "topic_id": "2315229bb78e0e9f89fbb72572921355d91b38"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#多方回应女子杭州酒局遭伤害#",
+      "rank": 11,
+      "title": "多方回应女子杭州酒局遭伤害",
+      "topic_id": "231522c50bb98ea66052139cb86fdbfc7e8b71"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#许家印崩了东北富二代42个亿#",
+      "rank": 12,
+      "title": "许家印崩了东北富二代42个亿",
+      "topic_id": "231522a9cfb697498963477dae95f593f21e65"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝时代少年团工作人员公费旅游#",
+      "rank": 13,
+      "title": "曝时代少年团工作人员公费旅游",
+      "topic_id": "231522465ac72538efc994a3612cc201532e5d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#17岁女孩搭车路过邵阳司机下车失联被锁2小时#",
+      "rank": 14,
+      "title": "17岁女孩搭车路过邵阳司机下车失联被锁2小时",
+      "topic_id": "2315223e08b1b72b386b4ba91635f15d1373d3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "桃黑黑",
+      "rank": 15,
+      "title": "桃黑黑",
+      "topic_id": "231522773a77fe72cec9bcd6ef5da70f39d13a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女患者称被男医生猥亵揉胸#",
+      "rank": 16,
+      "title": "女患者称被男医生猥亵揉胸",
+      "topic_id": "23152291aba10972d9fbd65d7818884833515f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#李嫣几乎看不见唇腭裂修复痕迹#",
+      "rank": 17,
+      "title": "李嫣几乎看不见唇腭裂修复痕迹",
+      "topic_id": "231522b9aa6c50a10e3150866069dc5a268e50"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#丁禹兮是在培养死士吗#",
+      "rank": 18,
+      "title": "丁禹兮是在培养死士吗",
+      "topic_id": "231522b5f7431177ab4a59b77b2dc7e243a54a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#美航母多人精神崩溃想跳海#",
+      "rank": 19,
+      "title": "美航母多人精神崩溃想跳海",
+      "topic_id": "2315221e5286ab080e824c28da2e61f0192682"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "井迪音乐节",
+      "rank": 20,
+      "title": "井迪音乐节",
+      "topic_id": "231522d951c334ae88dd4d1ee9cf7d1a1fc743"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "彭宇案 彭宇确实碰了老人",
+      "rank": 21,
+      "title": "彭宇案 彭宇确实碰了老人",
+      "topic_id": "23152201eeefb5b9769faae3d91c819960076b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#蓝盈莹承认恋情#",
+      "rank": 22,
+      "title": "蓝盈莹承认恋情",
+      "topic_id": "2315226981faa8ad31a4a1de08e7751252e523"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "曹骏初舞台人气票数倒挂",
+      "rank": 23,
+      "title": "曹骏初舞台人气票数倒挂",
+      "topic_id": "231522e2c388255c31bd4ba295f5f90e9666b9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女子想烫大波浪结果烫成钢丝球#",
+      "rank": 24,
+      "title": "女子想烫大波浪结果烫成钢丝球",
+      "topic_id": "231522763694fbd3c41e87f03a56b0db29f383"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "只有中国人才能识别的加密暗号",
+      "rank": 25,
+      "title": "只有中国人才能识别的加密暗号",
+      "topic_id": "2315223a0dfc7d413264d5c427fff3dc5505e2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "张艺谋电影 肖战",
+      "rank": 26,
+      "title": "张艺谋电影 肖战",
+      "topic_id": "23152244faacf23a47c5f608859c3b627c1035"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "胖东来被房东逼走房东纳税了吗",
+      "rank": 27,
+      "title": "胖东来被房东逼走房东纳税了吗",
+      "topic_id": "23152201b2f170a313afa92284abfea5dca82f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "王奕 丝芭传媒",
+      "rank": 28,
+      "title": "王奕 丝芭传媒",
+      "topic_id": "231522ab4f66fa1234ab93e9ba1f60c7b631b5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#伊朗对美将从防御转向全面进攻#",
+      "rank": 29,
+      "title": "伊朗对美将从防御转向全面进攻",
+      "topic_id": "2315224b1bbe9443ea9cf8b3eb5b2b595bca87"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "曹骏 蓝盈莹",
+      "rank": 30,
+      "title": "曹骏 蓝盈莹",
+      "topic_id": "2315224cb9391a03ce1b9b37a725fe82a0c9e2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#高铁咸猪手男子被拘留#",
+      "rank": 31,
+      "title": "高铁咸猪手男子被拘留",
+      "topic_id": "231522bfe47807e32867ec5a9476ca0a4d167d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "越不操心的人越是人生赢家",
+      "rank": 32,
+      "title": "越不操心的人越是人生赢家",
+      "topic_id": "231522082505e4b6577d3e3931eb2c5bad290d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#杭州涉事高管曾是高考状元清华毕业#",
+      "rank": 33,
+      "title": "杭州涉事高管曾是高考状元清华毕业",
+      "topic_id": "2315225ef460fb4454211ef6a8685a39801343"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#学霸父母劝700分女儿读中职或更合适#",
+      "rank": 34,
+      "title": "学霸父母劝700分女儿读中职或更合适",
+      "topic_id": "231522a432434c5de04d9e30ce300c8d7aa481"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#左奇函回应身体状况#",
+      "rank": 35,
+      "title": "左奇函回应身体状况",
+      "topic_id": "2315225b273ccebd9f5a2f6271a5660454710b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#郭敬明发百妖谱原始帧#",
+      "rank": 36,
+      "title": "郭敬明发百妖谱原始帧",
+      "topic_id": "231522f43b030ecb458cc35450d31e5a04b27f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#男子糖尿病不忌口1年后昏迷进ICU#",
+      "rank": 37,
+      "title": "男子糖尿病不忌口1年后昏迷进ICU",
+      "topic_id": "23152211a70843ec24f26cca2dd38993054787"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "加强中小学教师医务人员欠薪治理",
+      "rank": 38,
+      "title": "加强中小学教师医务人员欠薪治理",
+      "topic_id": "231522209f22578c392326cabbdcab54c1b92f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝iPhone18ProMax独占可变光圈#",
+      "rank": 39,
+      "title": "曝iPhone18ProMax独占可变光圈",
+      "topic_id": "231522a68ef07ec0cad799d4da72a4c1c8e27c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#公积金用途又变多了#",
+      "rank": 40,
+      "title": "公积金用途又变多了",
+      "topic_id": "2315226c165b20ee80d1ff2f0f0f8e62416bf0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#珍妮巴斯或无法继续担任湖人老板#",
+      "rank": 41,
+      "title": "珍妮巴斯或无法继续担任湖人老板",
+      "topic_id": "2315227f74a35337d4a2f6edb9dc6a2cd1fa05"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#Jennie不得不用头发遮挡#",
+      "rank": 42,
+      "title": "Jennie不得不用头发遮挡",
+      "topic_id": "231522c45e9f2c2453840b11ffe75de280a19e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "急性子小姐和慢吞吞先生",
+      "rank": 43,
+      "title": "急性子小姐和慢吞吞先生",
+      "topic_id": "23152233918da921c4abb3acafcb2b66b9708a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#杭州涉事招商蛇口高管已被免职#",
+      "rank": 44,
+      "title": "杭州涉事招商蛇口高管已被免职",
+      "topic_id": "23152277e7c23beea170aaf193a96799b4acbb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#湘潭大学回应弟弟举报哥哥冒名顶替#",
+      "rank": 45,
+      "title": "湘潭大学回应弟弟举报哥哥冒名顶替",
+      "topic_id": "2315228c6de572ad257b6298e5f7d11f479997"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "成功要对自己狠到什么程度",
+      "rank": 46,
+      "title": "成功要对自己狠到什么程度",
+      "topic_id": "2315229d9a9f7f1fce71cd7683bbede50f1c74"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#老人剪碎146张百元钞票#",
+      "rank": 47,
+      "title": "老人剪碎146张百元钞票",
+      "topic_id": "231522e7ad6ca8f1570fa811d5683b9be019fd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#学籍顶替案哥哥称不存在冒名顶替#",
+      "rank": 48,
+      "title": "学籍顶替案哥哥称不存在冒名顶替",
+      "topic_id": "231522b4657c816c1b45415a74fedc2b01525e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#菜市场偶遇90岁李明启老师#",
+      "rank": 49,
+      "title": "菜市场偶遇90岁李明启老师",
+      "topic_id": "231522df70bc5d29f85c3586a1fc5ebd6ac2fe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#存储芯片巨头铠侠开盘大涨#",
+      "rank": 50,
+      "title": "存储芯片巨头铠侠开盘大涨",
+      "topic_id": "23152211dfba72e82a480213ca303fd1d2c96d"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
