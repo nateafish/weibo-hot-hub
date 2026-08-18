@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1642512402
   },
-  "last_seen_at": "2026-08-19T05:00:00+08:00",
+  "last_seen_at": "2026-08-19T06:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%B5%B5%E6%9F%90%E5%B3%B0%E5%B0%86%E8%A2%AB%E5%AE%B3%E4%BA%BA%E6%8E%A8%E5%80%92%E8%87%B4%E8%85%B0%E9%83%A8%E5%8F%97%E4%BC%A4%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "4家媒体",
     "users": [
       {
         "id": 1642512402,
@@ -26,6 +26,13 @@
         "id": 5822206027,
         "idstr": "5822206027",
         "screen_name": "北斗融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1912032243,
+        "idstr": "1912032243",
+        "screen_name": "大庆晚报",
         "verified": true,
         "verified_type": 3
       },
