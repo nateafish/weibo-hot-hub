@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2481441215
   },
-  "last_seen_at": "2026-08-18T11:00:00+08:00",
+  "last_seen_at": "2026-08-18T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%236%E5%B2%81%E5%A5%B3%E5%84%BF%E5%AD%A6%E8%B7%B3%E8%88%9E%E8%AE%A9%E7%88%B8%E7%88%B8%E5%87%8F%E4%BA%8637%E6%96%A4%23%26t%3D3&title=发布媒体",
-    "show_str": "45家媒体",
+    "show_str": "56家媒体",
     "users": [
       {
         "id": 2481441215,
@@ -30,9 +30,23 @@
         "verified_type": 3
       },
       {
+        "id": 2188202475,
+        "idstr": "2188202475",
+        "screen_name": "南京晨报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1562479250,
         "idstr": "1562479250",
         "screen_name": "包头新闻网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3164957712,
+        "idstr": "3164957712",
+        "screen_name": "中国网",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1403842922,
-        "idstr": "1403842922",
-        "screen_name": "琅琊新闻网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1068246700,
-        "idstr": "1068246700",
-        "screen_name": "南京零距离",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5396094153,
-        "idstr": "5396094153",
-        "screen_name": "大众新闻-大众日报",
+        "id": 1682207150,
+        "idstr": "1682207150",
+        "screen_name": "南方日报",
         "verified": true,
         "verified_type": 3
       }

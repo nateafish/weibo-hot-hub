@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2167406082
   },
-  "last_seen_at": "2026-08-18T11:00:00+08:00",
+  "last_seen_at": "2026-08-18T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%2317%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%90%AD%E8%BD%A6%E8%B7%AF%E8%BF%87%E9%82%B5%E9%98%B3%E5%8F%B8%E6%9C%BA%E4%B8%8B%E8%BD%A6%E5%A4%B1%E8%81%94%E8%A2%AB%E9%94%812%E5%B0%8F%E6%97%B6%23%26t%3D3&title=发布媒体",
-    "show_str": "44家媒体",
+    "show_str": "47家媒体",
     "users": [
       {
         "id": 2167406082,
@@ -26,6 +26,13 @@
         "id": 7141087529,
         "idstr": "7141087529",
         "screen_name": "铁骥视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -54,13 +61,6 @@
         "id": 1714800385,
         "idstr": "1714800385",
         "screen_name": "第一帮帮团",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1647210043,
-        "idstr": "1647210043",
-        "screen_name": "百姓关注",
         "verified": true,
         "verified_type": 3
       }
