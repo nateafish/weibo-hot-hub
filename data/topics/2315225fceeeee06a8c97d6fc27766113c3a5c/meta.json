@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 2318910945
   },
-  "last_seen_at": "2026-08-18T12:00:00+08:00",
+  "last_seen_at": "2026-08-18T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9D%AD%E5%B7%9E%E9%85%92%E5%B1%80%E4%BA%8B%E4%BB%B6%E5%8F%97%E5%AE%B3%E5%A5%B3%E5%AD%90%E5%AE%B6%E4%BA%BA%E5%9B%9E%E5%BA%94%23%26t%3D3&title=发布媒体",
-    "show_str": "10家媒体",
+    "show_str": "17家媒体",
     "users": [
       {
         "id": 2318910945,
         "idstr": "2318910945",
         "screen_name": "新浪热点",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1267454277,
+        "idstr": "1267454277",
+        "screen_name": "凤凰周刊",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6357456494,
+        "idstr": "6357456494",
+        "screen_name": "果然视频",
         "verified": true,
         "verified_type": 3
       },
@@ -37,13 +51,6 @@
         "verified_type": 3
       },
       {
-        "id": 2286092114,
-        "idstr": "2286092114",
-        "screen_name": "中国蓝新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 2028810631,
         "idstr": "2028810631",
         "screen_name": "新浪新闻",
@@ -51,16 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1882632930,
-        "idstr": "1882632930",
-        "screen_name": "新消息报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1714800385,
-        "idstr": "1714800385",
-        "screen_name": "第一帮帮团",
+        "id": 2011445377,
+        "idstr": "2011445377",
+        "screen_name": "齐鲁壹点",
         "verified": true,
         "verified_type": 3
       }
