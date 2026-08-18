@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1796087453
   },
-  "last_seen_at": "2026-08-18T22:00:00+08:00",
+  "last_seen_at": "2026-08-18T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%88%98%E5%AE%87%E5%AE%813%E5%B9%B44%E6%AC%A1%E5%85%A8%E5%8F%B0%E9%99%86%E5%89%A7%E6%94%B6%E8%A7%86%E5%86%A0%E5%86%9B%23%26t%3D3&title=发布媒体",
-    "show_str": "10家媒体",
+    "show_str": "12家媒体",
     "users": [
       {
         "id": 1796087453,
@@ -26,6 +26,13 @@
         "id": 2118120483,
         "idstr": "2118120483",
         "screen_name": "青岛日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1738004582,
+        "idstr": "1738004582",
+        "screen_name": "纵览新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -54,13 +61,6 @@
         "id": 6444725927,
         "idstr": "6444725927",
         "screen_name": "吉祥新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2460937233,
-        "idstr": "2460937233",
-        "screen_name": "热度新闻",
         "verified": true,
         "verified_type": 3
       }

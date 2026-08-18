@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 5553267322
   },
-  "last_seen_at": "2026-08-18T22:00:00+08:00",
+  "last_seen_at": "2026-08-18T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%93%9D%E7%9B%88%E8%8E%B9%E5%9B%A0%E4%B8%BA%E6%B5%AA%E5%A7%90%E5%87%BA%E5%9C%88%E6%8E%A5%E4%BA%863%E5%B9%B4%E7%9A%84%E6%88%8F%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "5家媒体",
     "users": [
+      {
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2118120483,
         "idstr": "2118120483",
@@ -33,6 +40,13 @@
         "id": 1897851032,
         "idstr": "1897851032",
         "screen_name": "匡庐之声",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       }
