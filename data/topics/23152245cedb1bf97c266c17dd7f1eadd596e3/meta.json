@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 7575030448
   },
-  "last_seen_at": "2026-08-18T18:00:00+08:00",
+  "last_seen_at": "2026-08-18T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%B0%8F%E7%B1%B3Q2%E8%90%A5%E6%94%B61089%E4%BA%BF%E5%85%83%23%26t%3D3&title=发布媒体",
-    "show_str": "11家媒体",
+    "show_str": "20家媒体",
     "users": [
       {
         "id": 7575030448,
         "idstr": "7575030448",
         "screen_name": "白鹿视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1738006505,
+        "idstr": "1738006505",
+        "screen_name": "机锋网",
         "verified": true,
         "verified_type": 3
       },
@@ -51,16 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 6418480627,
-        "idstr": "6418480627",
-        "screen_name": "星视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5984369937,
-        "idstr": "5984369937",
-        "screen_name": "时代报告",
+        "id": 7192225377,
+        "idstr": "7192225377",
+        "screen_name": "时代报告健康",
         "verified": true,
         "verified_type": 3
       }

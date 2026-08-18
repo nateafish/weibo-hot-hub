@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 6511458458
   },
-  "last_seen_at": "2026-08-18T18:00:00+08:00",
+  "last_seen_at": "2026-08-18T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%99%88%E9%A3%9E%E5%AE%87%E5%BC%A0%E5%AD%90%E6%9E%AB%E6%96%B0%E5%89%A7%E5%90%8C%E6%A1%86%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "5家媒体",
     "users": [
+      {
+        "id": 2106115754,
+        "idstr": "2106115754",
+        "screen_name": "北京文艺广播",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 3048800300,
         "idstr": "3048800300",
         "screen_name": "新浪圈子",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1642592432,
+        "idstr": "1642592432",
+        "screen_name": "新浪电视",
         "verified": true,
         "verified_type": 3
       },
