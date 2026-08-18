@@ -10,11 +10,33 @@
     "status": 2,
     "uid": 5819018196
   },
-  "last_seen_at": "2026-08-18T21:00:00+08:00",
+  "last_seen_at": "2026-08-18T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BD%95%E8%80%81%E5%B8%88%E5%87%BA%E7%94%9F%E8%AF%81%E5%92%8C%E6%95%99%E8%B5%84%E4%B8%80%E8%B5%B7%E5%8F%91%E7%9A%84%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "3家媒体",
+    "users": [
+      {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1636678683,
+        "idstr": "1636678683",
+        "screen_name": "长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#何老师出生证和教资一起发的#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%80%81%E5%B8%88%E5%87%BA%E7%94%9F%E8%AF%81%E5%92%8C%E6%95%99%E8%B5%84%E4%B8%80%E8%B5%B7%E5%8F%91%E7%9A%84%23",

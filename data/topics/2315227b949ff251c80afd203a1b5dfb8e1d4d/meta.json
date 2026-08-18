@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2318910945
   },
-  "last_seen_at": "2026-08-18T21:00:00+08:00",
+  "last_seen_at": "2026-08-18T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%AD%A6%E7%B1%8D%E9%A1%B6%E6%9B%BF%E6%A1%88%E6%AF%8D%E4%BA%B2%E7%A7%B0%E5%93%A5%E5%93%A5%E6%8A%8A%E5%BC%9F%E5%BC%9F%E6%AF%81%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "7家媒体",
     "users": [
       {
         "id": 2318910945,
@@ -37,9 +37,23 @@
         "verified_type": 3
       },
       {
+        "id": 2308941133,
+        "idstr": "2308941133",
+        "screen_name": "锦州播报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1714800385,
         "idstr": "1714800385",
         "screen_name": "第一帮帮团",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1644855075,
+        "idstr": "1644855075",
+        "screen_name": "华商网",
         "verified": true,
         "verified_type": 3
       },
