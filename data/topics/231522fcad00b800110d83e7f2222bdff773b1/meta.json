@@ -3,15 +3,22 @@
   "created_at": 1787108738,
   "first_seen_at": "2026-08-19T12:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-19T13:00:00+08:00",
+  "last_seen_at": "2026-08-19T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%83%96%E4%B8%9C%E6%9D%A5+%E5%88%91%E6%9C%9F%E4%BA%94%E5%B9%B4%E4%BB%A5%E4%B8%8A%E9%97%A8%E6%A7%9B%23%26t%3D3&title=发布媒体",
-    "show_str": "11家媒体",
+    "show_str": "16家媒体",
     "users": [
       {
         "id": 1744332207,
         "idstr": "1744332207",
         "screen_name": "钱江视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -23,6 +30,13 @@
         "verified_type": 3
       },
       {
+        "id": 6250824982,
+        "idstr": "6250824982",
+        "screen_name": "时间视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 5044281310,
         "idstr": "5044281310",
         "screen_name": "澎湃新闻",
@@ -30,30 +44,16 @@
         "verified_type": 3
       },
       {
+        "id": 3290708473,
+        "idstr": "3290708473",
+        "screen_name": "云听APP",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 3288875501,
         "idstr": "3288875501",
         "screen_name": "河南日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2460937233,
-        "idstr": "2460937233",
-        "screen_name": "热度新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2075245652,
-        "idstr": "2075245652",
-        "screen_name": "长春晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2041117703,
-        "idstr": "2041117703",
-        "screen_name": "合肥日报",
         "verified": true,
         "verified_type": 3
       }
