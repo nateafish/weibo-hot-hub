@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 6105713761
   },
-  "last_seen_at": "2026-08-19T18:00:00+08:00",
+  "last_seen_at": "2026-08-19T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%94%B7%E5%AD%90%E5%B0%86%E9%81%97%E4%BA%A7%E5%85%A8%E9%83%A8%E7%95%99%E7%BB%99%E5%BC%9F%E5%BC%9F%E4%B8%8D%E7%BB%99%E5%A6%BB%E5%84%BF%23%26t%3D3&title=发布媒体",
-    "show_str": "20家媒体",
+    "show_str": "41家媒体",
     "users": [
       {
         "id": 6105713761,
@@ -44,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 1960785875,
+        "idstr": "1960785875",
+        "screen_name": "津云新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6590980486,
         "idstr": "6590980486",
         "screen_name": "捉谣记",
@@ -56,13 +63,6 @@
         "screen_name": "新浪种草官",
         "verified": true,
         "verified_type": 7
-      },
-      {
-        "id": 2647971081,
-        "idstr": "2647971081",
-        "screen_name": "时速新闻",
-        "verified": true,
-        "verified_type": 3
       }
     ]
   },

@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 5538664098
   },
-  "last_seen_at": "2026-08-19T18:00:00+08:00",
+  "last_seen_at": "2026-08-19T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23Angelababy%E6%8B%BF%E7%8E%AB%E7%91%B0%E8%8A%B1%E8%87%AA%E6%8B%8D%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "5家媒体",
     "users": [
       {
         "id": 2337985010,
         "idstr": "2337985010",
         "screen_name": "瑞安融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1912416573,
+        "idstr": "1912416573",
+        "screen_name": "河南手机报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,16 +37,16 @@
         "verified_type": 3
       },
       {
-        "id": 2041117703,
-        "idstr": "2041117703",
-        "screen_name": "合肥日报",
+        "id": 2115259662,
+        "idstr": "2115259662",
+        "screen_name": "洪观新闻",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1912416573,
-        "idstr": "1912416573",
-        "screen_name": "河南手机报",
+        "id": 2041117703,
+        "idstr": "2041117703",
+        "screen_name": "合肥日报",
         "verified": true,
         "verified_type": 3
       }

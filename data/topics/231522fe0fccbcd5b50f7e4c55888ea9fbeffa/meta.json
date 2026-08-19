@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2011075080
   },
-  "last_seen_at": "2026-08-19T18:00:00+08:00",
+  "last_seen_at": "2026-08-19T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%80%81%E4%BA%BA%E9%99%A2%E5%86%85%E6%99%BE%E8%8A%B1%E7%94%9F%E9%81%AD%E5%B0%8F%E8%BD%A6%E8%BF%9B%E9%99%A2%E5%85%A8%E9%83%A8%E7%A2%BE%E7%A2%8E%23%26t%3D3&title=发布媒体",
-    "show_str": "40家媒体",
+    "show_str": "42家媒体",
     "users": [
       {
         "id": 2011075080,
@@ -26,6 +26,20 @@
         "id": 2105365573,
         "idstr": "2105365573",
         "screen_name": "威海播报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1887344341,
+        "idstr": "1887344341",
+        "screen_name": "观察者网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1723216063,
+        "idstr": "1723216063",
+        "screen_name": "佛山新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -49,20 +63,6 @@
         "screen_name": "共富财经",
         "verified": true,
         "verified_type": 3
-      },
-      {
-        "id": 6910453729,
-        "idstr": "6910453729",
-        "screen_name": "绍虞城事通网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6590980486,
-        "idstr": "6590980486",
-        "screen_name": "捉谣记",
-        "verified": true,
-        "verified_type": 7
       }
     ]
   },
