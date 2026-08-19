@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 7575030448
   },
-  "last_seen_at": "2026-08-19T16:00:00+08:00",
+  "last_seen_at": "2026-08-19T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E5%9B%9E%E5%BA%94%E4%B8%8D%E5%BD%93%E6%8B%9B%E5%BE%85%23%26t%3D3&title=发布媒体",
-    "show_str": "55家媒体",
+    "show_str": "58家媒体",
     "users": [
       {
         "id": 7575030448,
@@ -26,6 +26,13 @@
         "id": 1751714412,
         "idstr": "1751714412",
         "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7476748260,
+        "idstr": "7476748260",
+        "screen_name": "大公文匯網",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 1642088277,
+        "idstr": "1642088277",
+        "screen_name": "财经网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1497087080,
         "idstr": "1497087080",
         "screen_name": "羊城晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7761793874,
-        "idstr": "7761793874",
-        "screen_name": "白鹿科技",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7750531853,
-        "idstr": "7750531853",
-        "screen_name": "朱雀财经",
         "verified": true,
         "verified_type": 3
       }

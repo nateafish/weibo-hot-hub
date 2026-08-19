@@ -10,11 +10,19 @@
     "status": 2,
     "uid": 6511455705
   },
-  "last_seen_at": "2026-08-19T16:00:00+08:00",
+  "last_seen_at": "2026-08-19T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%B0%9A%E5%85%AC%E4%B8%BB%E5%89%A7%E5%AE%A3%E5%B0%BA%E5%BA%A6%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "1家媒体",
+    "users": [
+      {
+        "id": 1895096900,
+        "idstr": "1895096900",
+        "screen_name": "深圳新闻网",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#尚公主剧宣尺度#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E5%B0%9A%E5%85%AC%E4%B8%BB%E5%89%A7%E5%AE%A3%E5%B0%BA%E5%BA%A6%23",
