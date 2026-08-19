@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 7030322196
   },
-  "last_seen_at": "2026-08-19T22:00:00+08:00",
+  "last_seen_at": "2026-08-19T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E9%85%92%E5%B1%80%E4%BA%8B%E4%BB%B6%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "8家媒体",
     "users": [
       {
         "id": 7030322196,
         "idstr": "7030322196",
         "screen_name": "天眼新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1749990115,
+        "idstr": "1749990115",
+        "screen_name": "北京青年报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1791298665,
+        "idstr": "1791298665",
+        "screen_name": "奔流新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -33,6 +47,20 @@
         "id": 1653603955,
         "idstr": "1653603955",
         "screen_name": "扬子晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1644948230,
+        "idstr": "1644948230",
+        "screen_name": "北京头条",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1611935011,
+        "idstr": "1611935011",
+        "screen_name": "中国报道",
         "verified": true,
         "verified_type": 3
       }
