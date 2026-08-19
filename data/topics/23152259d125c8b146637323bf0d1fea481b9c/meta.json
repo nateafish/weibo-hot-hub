@@ -10,15 +10,43 @@
     "status": 2,
     "uid": 5130213751
   },
-  "last_seen_at": "2026-08-19T09:00:00+08:00",
+  "last_seen_at": "2026-08-19T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%85%8B%E6%8B%89%E6%81%8B%E4%BA%BA%E5%89%A7%E6%9C%AC%E7%85%A7%E8%BF%9B%E7%8E%B0%E5%AE%9E%23%26t%3D3&title=发布媒体",
-    "show_str": "15家媒体",
+    "show_str": "18家媒体",
     "users": [
       {
         "id": 2252846093,
         "idstr": "2252846093",
         "screen_name": "长春新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1936119834,
+        "idstr": "1936119834",
+        "screen_name": "河北长城网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1655444627,
+        "idstr": "1655444627",
+        "screen_name": "潇湘晨报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7590570074,
+        "idstr": "7590570074",
+        "screen_name": "山海视频",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2535760180,
-        "idstr": "2535760180",
-        "screen_name": "安徽视讯",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2356298087,
-        "idstr": "2356298087",
-        "screen_name": "河北经视",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2346437860,
-        "idstr": "2346437860",
-        "screen_name": "三峡融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2337985010,
-        "idstr": "2337985010",
-        "screen_name": "瑞安融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1960785875,
-        "idstr": "1960785875",
-        "screen_name": "津云新闻",
+        "id": 7452966965,
+        "idstr": "7452966965",
+        "screen_name": "阿勒泰市融媒体中心",
         "verified": true,
         "verified_type": 3
       }

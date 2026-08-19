@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 2656274875
   },
-  "last_seen_at": "2026-08-19T09:00:00+08:00",
+  "last_seen_at": "2026-08-19T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%AD%E5%9B%BD%E9%87%8D%E5%A4%8D%E4%BD%BF%E7%94%A8%E7%81%AB%E7%AE%AD%E9%99%86%E5%9C%B0%E5%9B%9E%E6%94%B6%E6%88%90%E5%8A%9F%23%26t%3D3&title=发布媒体",
-    "show_str": "207家媒体",
+    "show_str": "258家媒体",
     "users": [
       {
         "id": 2656274875,
         "idstr": "2656274875",
         "screen_name": "央视新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1651428902,
+        "idstr": "1651428902",
+        "screen_name": "21世纪经济报道",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5539777260,
+        "idstr": "5539777260",
+        "screen_name": "菏泽日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1744332207,
+        "idstr": "1744332207",
+        "screen_name": "钱江视频",
         "verified": true,
         "verified_type": 3
       },
@@ -37,30 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1651428902,
-        "idstr": "1651428902",
-        "screen_name": "21世纪经济报道",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5762845362,
-        "idstr": "5762845362",
-        "screen_name": "天中晚报新文娱",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5539777260,
-        "idstr": "5539777260",
-        "screen_name": "菏泽日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2083265421,
-        "idstr": "2083265421",
-        "screen_name": "威海晚报",
+        "id": 3881380517,
+        "idstr": "3881380517",
+        "screen_name": "新华日报",
         "verified": true,
         "verified_type": 3
       }
