@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 2656274875
   },
-  "last_seen_at": "2026-08-19T11:00:00+08:00",
+  "last_seen_at": "2026-08-19T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%AD%E5%9B%BD%E9%87%8D%E5%A4%8D%E4%BD%BF%E7%94%A8%E7%81%AB%E7%AE%AD%E9%99%86%E5%9C%B0%E5%9B%9E%E6%94%B6%E6%88%90%E5%8A%9F%23%26t%3D3&title=发布媒体",
-    "show_str": "268家媒体",
+    "show_str": "284家媒体",
     "users": [
       {
         "id": 2656274875,
         "idstr": "2656274875",
         "screen_name": "央视新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7596378100,
+        "idstr": "7596378100",
+        "screen_name": "会昌融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6013658881,
+        "idstr": "6013658881",
+        "screen_name": "视听万安",
         "verified": true,
         "verified_type": 3
       },
@@ -37,30 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 1991123083,
+        "idstr": "1991123083",
+        "screen_name": "江西日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1975995305,
         "idstr": "1975995305",
         "screen_name": "西安晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1744332207,
-        "idstr": "1744332207",
-        "screen_name": "钱江视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1887344341,
-        "idstr": "1887344341",
-        "screen_name": "观察者网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7732575151,
-        "idstr": "7732575151",
-        "screen_name": "东阿融媒",
         "verified": true,
         "verified_type": 3
       }
