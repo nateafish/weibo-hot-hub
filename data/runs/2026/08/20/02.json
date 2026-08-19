@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-08-20T02:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#总书记心系医务工作者#",
+      "rank": 1,
+      "title": "总书记心系医务工作者",
+      "topic_id": "231522749f64513c11ff5b08cb0e0f6bf0aa5c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#苏翊鸣七夕晒9图#",
+      "rank": 1,
+      "title": "苏翊鸣七夕晒9图",
+      "topic_id": "231522f2165d53993fec6b2286a789c5f409c8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#12306回应买票占座放零食这座位能让吗#",
+      "rank": 2,
+      "title": "12306回应买票占座放零食这座位能让吗",
+      "topic_id": "231522143aa8100e1f11c034eb54d875fd57b3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#这6张网与你我生活息息相关#",
+      "rank": 3,
+      "title": "这6张网与你我生活息息相关",
+      "topic_id": "231522294b034999f3ecd6062b04eb70c74608"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "空枪 李嘉诚儿子绑架案",
+      "rank": 4,
+      "title": "空枪 李嘉诚儿子绑架案",
+      "topic_id": "231522bc32667d39a6d776ce52a223b404b6b8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "姜珮瑶找凌玲像AI一样丝滑",
+      "rank": 5,
+      "title": "姜珮瑶找凌玲像AI一样丝滑",
+      "topic_id": "231522dd7e7cd13c94080b71b0e8834d16f394"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "难怪瘦的时候容易觉得疼",
+      "rank": 6,
+      "title": "难怪瘦的时候容易觉得疼",
+      "topic_id": "231522cf260d21a7d0d86831e9e88c50745a95"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "黄金",
+      "rank": 7,
+      "title": "黄金",
+      "topic_id": "23152211289a9c3dbe0fb8810cf271903fc8ac"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "笔试前13名全淘汰 倒数5名全逆袭",
+      "rank": 8,
+      "title": "笔试前13名全淘汰 倒数5名全逆袭",
+      "topic_id": "231522b8c9d3192afb3427cab2a1c8e3bdf5c1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "为什么七夕朋友圈秀恩爱的变少了",
+      "rank": 9,
+      "title": "为什么七夕朋友圈秀恩爱的变少了",
+      "topic_id": "2315228f30628a1ae7903a1a95e695a0f77336"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "胆子真是肥嘟嘟的",
+      "rank": 10,
+      "title": "胆子真是肥嘟嘟的",
+      "topic_id": "2315226294ff284e1b0f3c39480e807f7fa6df"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#女子凌晨倒掉24瓶爱心水被拍下#",
+      "rank": 11,
+      "title": "女子凌晨倒掉24瓶爱心水被拍下",
+      "topic_id": "231522ac854e31bee1cb65ebb740cefad6c168"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "说话不仅要避谶还要迎谶",
+      "rank": 12,
+      "title": "说话不仅要避谶还要迎谶",
+      "topic_id": "231522ff9ce8848428d353a84bb2b4a4f2989f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#孟子义没有给cp让路的义务#",
+      "rank": 13,
+      "title": "孟子义没有给cp让路的义务",
+      "topic_id": "2315228202ad93b61d4c465b0f162615759aa6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#Jennie发长文#",
+      "rank": 14,
+      "title": "Jennie发长文",
+      "topic_id": "231522f4e1470e9c72dc26e30f9d41dc33482b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 6,
+      "posts": "saved",
+      "query": "苏翊鸣",
+      "rank": 15,
+      "title": "苏翊鸣",
+      "topic_id": "231522c2536af255b49d00c76431d753c4e892"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#升学宴致5死主家未提前报备宴席#",
+      "rank": 16,
+      "title": "升学宴致5死主家未提前报备宴席",
+      "topic_id": "23152282df9868bac4502fc6305ece9a8bf2a0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "七夕 去情人节化",
+      "rank": 17,
+      "title": "七夕 去情人节化",
+      "topic_id": "231522d9050dce6ef4f9f26599376d247d063b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#李昀锐孟子义这是官宣还是剧宣#",
+      "rank": 18,
+      "title": "李昀锐孟子义这是官宣还是剧宣",
+      "topic_id": "2315223d077d5d2c90a2db72eeadaf2f862fc7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "吉祥空姐的发型",
+      "rank": 19,
+      "title": "吉祥空姐的发型",
+      "topic_id": "231522707a0c0237e20bcd478e54e8db6058cf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "肖战张凌赫周深 湾区升明月",
+      "rank": 20,
+      "title": "肖战张凌赫周深 湾区升明月",
+      "topic_id": "231522992744f8710208ce267920e49bd6eaac"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#金价彻底反弹了#",
+      "rank": 21,
+      "title": "金价彻底反弹了",
+      "topic_id": "231522c30307f086cd0124445c9d4a209a1af0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#旺旺官宣听劝版旺仔牛奶#",
+      "rank": 22,
+      "title": "旺旺官宣听劝版旺仔牛奶",
+      "topic_id": "231522184c7e26c5865322f5cdde392ac55023"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#汪苏泷说雨爱没报批#",
+      "rank": 23,
+      "title": "汪苏泷说雨爱没报批",
+      "topic_id": "231522812d055924c53d2c95c8b60ee60a4fb5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "七夕但不对劲",
+      "rank": 24,
+      "title": "七夕但不对劲",
+      "topic_id": "23152288d8918a8c3cacba4a9faadcc3a13c4c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#长这样的5种痣最容易癌变#",
+      "rank": 25,
+      "title": "长这样的5种痣最容易癌变",
+      "topic_id": "23152250c2cebcbbb7447277754fee208ea9c1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#弟弟称哥哥刚确诊癌症嫂子就提离婚#",
+      "rank": 26,
+      "title": "弟弟称哥哥刚确诊癌症嫂子就提离婚",
+      "topic_id": "23152296112828898d5dd2d97e3f33537bbcb5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "情侣领证男生把婚前财产都给女生",
+      "rank": 27,
+      "title": "情侣领证男生把婚前财产都给女生",
+      "topic_id": "2315226164f213774b6fee16af4fe65c229974"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "七夕",
+      "rank": 28,
+      "title": "七夕",
+      "topic_id": "2315222a7e0d7ab7a66d729af8feee0c809374"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "空枪票房",
+      "rank": 29,
+      "title": "空枪票房",
+      "topic_id": "231522c3e4ade07e5662468ab7b7ffa6e8d6cb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#公积金此次变化意味着什么#",
+      "rank": 30,
+      "title": "公积金此次变化意味着什么",
+      "topic_id": "23152238fb71c772543475806a5b461b6a5664"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "桃黑黑宣布暂时休息",
+      "rank": 31,
+      "title": "桃黑黑宣布暂时休息",
+      "topic_id": "23152278c44215975322741221fefd51dba90c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女孩买空座放零食大姐求坐被拒绝#",
+      "rank": 32,
+      "title": "女孩买空座放零食大姐求坐被拒绝",
+      "topic_id": "2315228f9ff7ca2293b260000b5ff3b5c5133a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#女子车内出现死蛇臭了三天才发现#",
+      "rank": 33,
+      "title": "女子车内出现死蛇臭了三天才发现",
+      "topic_id": "2315223619e3c97f490b18d776feee1f14d590"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "王者新英雄王维",
+      "rank": 34,
+      "title": "王者新英雄王维",
+      "topic_id": "2315226c48f0111f57a2a17bb0b33d3613c8a4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "尊界撞环卫工视频系AI伪造",
+      "rank": 35,
+      "title": "尊界撞环卫工视频系AI伪造",
+      "topic_id": "231522933d178e37ab8b2d4d06284a30422bad"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "空枪",
+      "rank": 36,
+      "title": "空枪",
+      "topic_id": "23152254439a6750829b96b6384b8eaed30706"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "丁禹兮工作室道歉",
+      "rank": 37,
+      "title": "丁禹兮工作室道歉",
+      "topic_id": "23152204bd5ceca74d28e65b89b7432e2db648"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#Xiaohu直播道歉#",
+      "rank": 38,
+      "title": "Xiaohu直播道歉",
+      "topic_id": "23152262360ae1c93119caec2015731184f000"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#新郎称不共财产不共心#",
+      "rank": 39,
+      "title": "新郎称不共财产不共心",
+      "topic_id": "23152241e32a5f3dc0dc615a75dae66764f199"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#韩国男子生活轨迹除了上班就是回家#",
+      "rank": 40,
+      "title": "韩国男子生活轨迹除了上班就是回家",
+      "topic_id": "2315224fc256fe90d17daa806ccc27e6e96687"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "上海地铁涨价",
+      "rank": 41,
+      "title": "上海地铁涨价",
+      "topic_id": "231522da61342b2aa8804fa0e4cf99d4f66bcf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#JDG锁定夏季赛胜者组#",
+      "rank": 42,
+      "title": "JDG锁定夏季赛胜者组",
+      "topic_id": "23152268eec7fd3c8e7a31ee2fda50f3efc17e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#婚宴礼金里发现假钞#",
+      "rank": 43,
+      "title": "婚宴礼金里发现假钞",
+      "topic_id": "231522e9d155fcecddeab0f559d3af6c98c208"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "孙怡魏晨合唱",
+      "rank": 44,
+      "title": "孙怡魏晨合唱",
+      "topic_id": "231522798dc3cc8ceb525d123b82b7830d7e46"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#甲状腺的5个身体求救信号#",
+      "rank": 45,
+      "title": "甲状腺的5个身体求救信号",
+      "topic_id": "23152247946c2664904ba9dbd77b6e6027af59"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#日本人烈日下大排长龙买中国相机#",
+      "rank": 46,
+      "title": "日本人烈日下大排长龙买中国相机",
+      "topic_id": "231522b96de1db799c150f4018f7ddcb38d0bb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#孔雪儿看汪苏泷演唱会#",
+      "rank": 47,
+      "title": "孔雪儿看汪苏泷演唱会",
+      "topic_id": "2315227c813d01b0d0884b183d0465c404f4b1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "甲状腺不好常吃两种水果",
+      "rank": 48,
+      "title": "甲状腺不好常吃两种水果",
+      "topic_id": "231522c1c814801e85ba453092ee3a2011b424"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#Bin重返韩服#",
+      "rank": 49,
+      "title": "Bin重返韩服",
+      "topic_id": "231522f5f2cf85d5c6ef411affba22099f3d10"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "山姆苹果干一包就是半个苹果",
+      "rank": 50,
+      "title": "山姆苹果干一包就是半个苹果",
+      "topic_id": "231522b7a3198401c65d0629c2db1b6a0b90b9"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
