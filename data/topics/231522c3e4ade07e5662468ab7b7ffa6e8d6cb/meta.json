@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 7323270704
   },
-  "last_seen_at": "2026-08-19T23:00:00+08:00",
+  "last_seen_at": "2026-08-20T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%A9%BA%E6%9E%AA%E7%A5%A8%E6%88%BF%23%26t%3D3&title=发布媒体",
-    "show_str": "7家媒体",
+    "show_str": "20家媒体",
     "users": [
       {
         "id": 1651428902,
         "idstr": "1651428902",
         "screen_name": "21世纪经济报道",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7422806367,
+        "idstr": "7422806367",
+        "screen_name": "中网传播",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +37,30 @@
         "verified_type": 3
       },
       {
-        "id": 2921799343,
-        "idstr": "2921799343",
-        "screen_name": "天下泉城",
+        "id": 7811817491,
+        "idstr": "7811817491",
+        "screen_name": "星系生活",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2460937233,
-        "idstr": "2460937233",
-        "screen_name": "热度新闻",
+        "id": 7811609806,
+        "idstr": "7811609806",
+        "screen_name": "汽车观察所",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2118120483,
-        "idstr": "2118120483",
-        "screen_name": "青岛日报",
+        "id": 7811292935,
+        "idstr": "7811292935",
+        "screen_name": "简单财经",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1959451603,
-        "idstr": "1959451603",
-        "screen_name": "锦观新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1803373067,
-        "idstr": "1803373067",
-        "screen_name": "手机报-电影爱好者",
+        "id": 7811036863,
+        "idstr": "7811036863",
+        "screen_name": "一品财经",
         "verified": true,
         "verified_type": 3
       }
