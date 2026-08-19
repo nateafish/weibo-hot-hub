@@ -3,10 +3,10 @@
   "created_at": 1787132613,
   "first_seen_at": "2026-08-19T18:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-19T20:00:00+08:00",
+  "last_seen_at": "2026-08-19T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%83%E5%A4%95+%E6%B0%91%E6%94%BF%E5%B1%80%23%26t%3D3&title=发布媒体",
-    "show_str": "18家媒体",
+    "show_str": "20家媒体",
     "users": [
       {
         "id": 1959444680,
@@ -19,6 +19,13 @@
         "id": 6380644334,
         "idstr": "6380644334",
         "screen_name": "蟹视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6344061797,
+        "idstr": "6344061797",
+        "screen_name": "JSTV荔枝视频",
         "verified": true,
         "verified_type": 3
       },
@@ -47,13 +54,6 @@
         "id": 2535760180,
         "idstr": "2535760180",
         "screen_name": "安徽视讯",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2510959054,
-        "idstr": "2510959054",
-        "screen_name": "陕西广播电视台",
         "verified": true,
         "verified_type": 3
       }

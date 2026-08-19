@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 6004281123
   },
-  "last_seen_at": "2026-08-19T17:00:00+08:00",
+  "last_seen_at": "2026-08-19T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E6%8B%9F%E5%9B%9E%E8%B4%AD286%E4%BA%BF%E7%BE%8E%E5%85%83%E8%82%A1%E4%BB%BD%23%26t%3D3&title=发布媒体",
-    "show_str": "11家媒体",
+    "show_str": "16家媒体",
     "users": [
       {
         "id": 6004281123,
         "idstr": "6004281123",
         "screen_name": "梨视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1738006505,
+        "idstr": "1738006505",
+        "screen_name": "机锋网",
         "verified": true,
         "verified_type": 3
       },
@@ -54,13 +61,6 @@
         "id": 6002842109,
         "idstr": "6002842109",
         "screen_name": "时差视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5994003317,
-        "idstr": "5994003317",
-        "screen_name": "老板联播",
         "verified": true,
         "verified_type": 3
       }

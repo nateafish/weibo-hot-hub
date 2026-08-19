@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 7422806367
   },
-  "last_seen_at": "2026-08-19T19:00:00+08:00",
+  "last_seen_at": "2026-08-19T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%8B%B1%E5%9B%BD%E7%BD%91%E7%BA%A2%E5%9C%A8%E6%96%B0%E7%96%86%E7%94%A8%E9%A3%9E%E7%8C%AA%E5%B8%AE%E5%B8%AE%E6%89%93%E5%8D%A1%E9%9D%9E%E9%81%97%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "4家媒体",
     "users": [
       {
         "id": 7422806367,
         "idstr": "7422806367",
         "screen_name": "中网传播",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2291471981,
+        "idstr": "2291471981",
+        "screen_name": "济宁新闻网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2105365573,
+        "idstr": "2105365573",
+        "screen_name": "威海播报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1939861572,
+        "idstr": "1939861572",
+        "screen_name": "新疆广播电视台",
         "verified": true,
         "verified_type": 3
       }
