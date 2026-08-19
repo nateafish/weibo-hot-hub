@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-08-19T13:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#习近平同厄瓜多尔总统会谈#",
+      "rank": 1,
+      "title": "习近平同厄瓜多尔总统会谈",
+      "topic_id": "23152288aac689d10be41e4617aabb7310c1a0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#致5死升学宴主家本不想办#",
+      "rank": 1,
+      "title": "致5死升学宴主家本不想办",
+      "topic_id": "23152299938149d49a409f29cc1e8dd0bca33d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#剩菜剩饭直接喂猪违法#",
+      "rank": 2,
+      "title": "剩菜剩饭直接喂猪违法",
+      "topic_id": "231522001f0c83110a1e3ba206eb1ee0c2a8eb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#中国重复使用火箭陆地回收成功#",
+      "rank": 3,
+      "title": "中国重复使用火箭陆地回收成功",
+      "topic_id": "231522564d6ee0baf8afca6d88c9465628279c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#孟子义李昀锐白天避嫌晚上营业#",
+      "rank": 4,
+      "title": "孟子义李昀锐白天避嫌晚上营业",
+      "topic_id": "231522ba7c273fd663686c9b527473c6865c9b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "厨房纸 致癌物",
+      "rank": 5,
+      "title": "厨房纸 致癌物",
+      "topic_id": "231522b9340f1da8b29480097966ad30a81d62"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "胖东来 刑期五年以上门槛",
+      "rank": 6,
+      "title": "胖东来 刑期五年以上门槛",
+      "topic_id": "231522fcad00b800110d83e7f2222bdff773b1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#白鹿和彭冠英常华森都有贴脸剧照#",
+      "rank": 7,
+      "title": "白鹿和彭冠英常华森都有贴脸剧照",
+      "topic_id": "231522ea44880b80294ef8cc1ba05be59109ab"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#四川一升学宴突发事故5人死亡#",
+      "rank": 8,
+      "title": "四川一升学宴突发事故5人死亡",
+      "topic_id": "23152279a2ea7adae703bf26ea0abe96b054f2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#宇树股价跳水带崩机器人板块#",
+      "rank": 9,
+      "title": "宇树股价跳水带崩机器人板块",
+      "topic_id": "231522efb577a4265c70ecfdda55d9ccc86a89"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#村民称升学宴事故主家是低保户#",
+      "rank": 10,
+      "title": "村民称升学宴事故主家是低保户",
+      "topic_id": "2315229548e9d070a5797ec9935d8a4c148cb8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "七夕 冷清",
+      "rank": 11,
+      "title": "七夕 冷清",
+      "topic_id": "231522c57fe7ba81ee94ef967072b2f4ffd76b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#孟子义李昀锐尚公主情侣自拍#",
+      "rank": 12,
+      "title": "孟子义李昀锐尚公主情侣自拍",
+      "topic_id": "231522a3624a406b0fa1549da71f8deff923d4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女孩深夜遭强奸4人均称只是协助#",
+      "rank": 13,
+      "title": "女孩深夜遭强奸4人均称只是协助",
+      "topic_id": "231522a955463b2db824fbbbb0c844382368f1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#蓝盈莹要求工作群消息尽量秒回#",
+      "rank": 14,
+      "title": "蓝盈莹要求工作群消息尽量秒回",
+      "topic_id": "231522249bdcf8e1df8cac081196b0aa7d699a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#韩国被曝性贿赂3名中国足协人士#",
+      "rank": 15,
+      "title": "韩国被曝性贿赂3名中国足协人士",
+      "topic_id": "2315224e5fb9ac51f640b52d33b33732a19bfc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "尚公主",
+      "rank": 16,
+      "title": "尚公主",
+      "topic_id": "231522380a158e1677bff6917b26d3d36216c2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#披荆斩棘一公突袭直播#",
+      "rank": 17,
+      "title": "披荆斩棘一公突袭直播",
+      "topic_id": "23152251d705d1708846693feaa865b72aabef"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "中国医师节",
+      "rank": 18,
+      "title": "中国医师节",
+      "topic_id": "231522f21348ebe8065ce0405ebc9fb6ff233c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "昀牵孟绕",
+      "rank": 19,
+      "title": "昀牵孟绕",
+      "topic_id": "231522378bfade76c1c79d38558a0edc6c070e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#iPhone17涨价倒计时#",
+      "rank": 20,
+      "title": "iPhone17涨价倒计时",
+      "topic_id": "231522fb14c5d902740f27370d39907f3fcb1b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#肖战让粉丝多喝水#",
+      "rank": 21,
+      "title": "肖战让粉丝多喝水",
+      "topic_id": "231522e1ab346cf11789a5ab976d71169adbb3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "七夕",
+      "rank": 22,
+      "title": "七夕",
+      "topic_id": "2315222a7e0d7ab7a66d729af8feee0c809374"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#宇树科技中一签赚47万#",
+      "rank": 23,
+      "title": "宇树科技中一签赚47万",
+      "topic_id": "23152280fa1b25484f6cd3a8346efb4accacf0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#窦唯女儿自曝与父亲20年无联系#",
+      "rank": 24,
+      "title": "窦唯女儿自曝与父亲20年无联系",
+      "topic_id": "23152216585712925763d33d86a4b9a44bc8e2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#章子怡套现3亿#",
+      "rank": 25,
+      "title": "章子怡套现3亿",
+      "topic_id": "231522c2d82a8d8b4857fd67fe37e2282ac3ad"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王兴兴拿下90后新首富#",
+      "rank": 26,
+      "title": "王兴兴拿下90后新首富",
+      "topic_id": "231522c58fe4c8969851b3e3049fbf17550af7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "肖战香港线下活动",
+      "rank": 27,
+      "title": "肖战香港线下活动",
+      "topic_id": "23152234e86315dc22118aedf24b7f5f812d66"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#中国新能源的审美开窍了#",
+      "rank": 28,
+      "title": "中国新能源的审美开窍了",
+      "topic_id": "2315227cc3766b04dd17237566699d4cea0297"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#升学宴致5死17伤主家亲属发声#",
+      "rank": 29,
+      "title": "升学宴致5死17伤主家亲属发声",
+      "topic_id": "23152261720efd0b6a3862874254b6f94a0e56"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#贝儿17岁才第一次剥虾#",
+      "rank": 30,
+      "title": "贝儿17岁才第一次剥虾",
+      "topic_id": "23152278f1c950248a81d6437addb530cdadec"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#升学宴逃生村民称身旁邻居当场遇难#",
+      "rank": 31,
+      "title": "升学宴逃生村民称身旁邻居当场遇难",
+      "topic_id": "231522b76decb79f0b7c3111e1e280ffa91020"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#女子买猫窝到货后爬出一只猫#",
+      "rank": 32,
+      "title": "女子买猫窝到货后爬出一只猫",
+      "topic_id": "2315226b1154365e353ce1cebf8ffa7abb2e28"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "喜欢你我也是",
+      "rank": 33,
+      "title": "喜欢你我也是",
+      "topic_id": "231522873f72d9ed6e45247f278622d43f875c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#张凌赫林允归鸾相拥海报#",
+      "rank": 34,
+      "title": "张凌赫林允归鸾相拥海报",
+      "topic_id": "2315226524fd5a9a711e6b65832311f0ddeed9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#if我消失去cafe找我#",
+      "rank": 35,
+      "title": "if我消失去cafe找我",
+      "topic_id": "2315228a6c75bcdc7b8962a84a9b55b56a0cc2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#美团闪购联名一二布布#",
+      "rank": 36,
+      "title": "美团闪购联名一二布布",
+      "topic_id": "2315226345616c3f5f875506fcbc88f2571696"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "武磊官博发文寻人",
+      "rank": 37,
+      "title": "武磊官博发文寻人",
+      "topic_id": "231522936c60e98822026c350dbf4a862cde3f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "四川升学宴 错别字",
+      "rank": 38,
+      "title": "四川升学宴 错别字",
+      "topic_id": "231522fb02b5326cd75e0c72675ce74a736fa2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "KPL",
+      "rank": 39,
+      "title": "KPL",
+      "topic_id": "231522361877035a32f3073eb1259ee15286d8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#虞书欣estherhouse崩了#",
+      "rank": 40,
+      "title": "虞书欣estherhouse崩了",
+      "topic_id": "2315221cd3cafd3e3f9c003613514f9f1a4277"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "披荆斩棘",
+      "rank": 41,
+      "title": "披荆斩棘",
+      "topic_id": "2315226e98861af2442d015976957811bc97b3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#60岁大爷20天做出一部AI动漫#",
+      "rank": 42,
+      "title": "60岁大爷20天做出一部AI动漫",
+      "topic_id": "2315223ef71ca0ac0f47e48c85b1000697680c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#受害者同事听说杭州酒局事件哭了#",
+      "rank": 43,
+      "title": "受害者同事听说杭州酒局事件哭了",
+      "topic_id": "2315228bc80d240cdbf6eb3a8e01c7186e6cb8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#尚公主杀死比赛#",
+      "rank": 44,
+      "title": "尚公主杀死比赛",
+      "topic_id": "2315227bfb6b8652ddef805c89ac932e7d6ea0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#飞猪帮帮给留学生一点小小震撼#",
+      "rank": 45,
+      "title": "飞猪帮帮给留学生一点小小震撼",
+      "topic_id": "2315228c2e8f0f072789790b6a69f7a1d55bc7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#家属发现受害人淤青才知其被猥亵#",
+      "rank": 46,
+      "title": "家属发现受害人淤青才知其被猥亵",
+      "topic_id": "2315229b685ee344c4a7b56577298fdd7ef084"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#宇树科技3位高管均为90后#",
+      "rank": 47,
+      "title": "宇树科技3位高管均为90后",
+      "topic_id": "2315229155700c2ac57e48ecef4bfce576d1bd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#电影空枪发了声明#",
+      "rank": 48,
+      "title": "电影空枪发了声明",
+      "topic_id": "2315223ad9d5c4718f950e33ac61463f197f2b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#武磊找的父子疑似遭到申花球迷围攻#",
+      "rank": 49,
+      "title": "武磊找的父子疑似遭到申花球迷围攻",
+      "topic_id": "231522fdc14599977fe200964c29d49a27009d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#顺风车司机回应为何把女孩锁车内#",
+      "rank": 50,
+      "title": "顺风车司机回应为何把女孩锁车内",
+      "topic_id": "2315220f626bdbd2544bc72f838da2d426df95"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

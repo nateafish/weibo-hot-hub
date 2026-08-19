@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2782682084
   },
-  "last_seen_at": "2026-08-19T12:00:00+08:00",
+  "last_seen_at": "2026-08-19T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%AD%9F%E5%AD%90%E4%B9%89%E6%9D%8E%E6%98%80%E9%94%90%E5%B0%9A%E5%85%AC%E4%B8%BB%E6%83%85%E4%BE%A3%E8%87%AA%E6%8B%8D%23%26t%3D3&title=发布媒体",
-    "show_str": "16家媒体",
+    "show_str": "23家媒体",
     "users": [
       {
         "id": 1895096900,
@@ -26,6 +26,13 @@
         "id": 2027480085,
         "idstr": "2027480085",
         "screen_name": "水母网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1652484947,
+        "idstr": "1652484947",
+        "screen_name": "新快报",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 6444725927,
+        "idstr": "6444725927",
+        "screen_name": "吉祥新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6105713761,
         "idstr": "6105713761",
         "screen_name": "红星新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2647971081,
-        "idstr": "2647971081",
-        "screen_name": "时速新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2535760180,
-        "idstr": "2535760180",
-        "screen_name": "安徽视讯",
         "verified": true,
         "verified_type": 3
       }
