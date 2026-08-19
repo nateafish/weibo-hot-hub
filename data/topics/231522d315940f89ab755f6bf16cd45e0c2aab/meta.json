@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1847582585
   },
-  "last_seen_at": "2026-08-19T17:00:00+08:00",
+  "last_seen_at": "2026-08-19T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%AE%87%E6%A0%91%E4%B8%8A%E5%B8%82%E6%9D%AD%E5%B7%9E%E6%89%B9%E9%87%8F%E8%AF%9E%E7%94%9F%E4%BA%BF%E4%B8%87%E5%AF%8C%E7%BF%81%23%26t%3D3&title=发布媒体",
-    "show_str": "54家媒体",
+    "show_str": "65家媒体",
     "users": [
       {
         "id": 1847582585,
@@ -30,9 +30,23 @@
         "verified_type": 3
       },
       {
-        "id": 2286092114,
-        "idstr": "2286092114",
-        "screen_name": "中国蓝新闻",
+        "id": 1938523582,
+        "idstr": "1938523582",
+        "screen_name": "宁波晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1929638045,
+        "idstr": "1929638045",
+        "screen_name": "现代金报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 6115560351,
         "idstr": "6115560351",
         "screen_name": "国是直通车",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2460937233,
-        "idstr": "2460937233",
-        "screen_name": "热度新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2097288255,
-        "idstr": "2097288255",
-        "screen_name": "都市快报大杭州",
         "verified": true,
         "verified_type": 3
       }
