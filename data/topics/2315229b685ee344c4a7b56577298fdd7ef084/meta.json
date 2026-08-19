@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1644114654
   },
-  "last_seen_at": "2026-08-19T10:00:00+08:00",
+  "last_seen_at": "2026-08-19T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%AE%B6%E5%B1%9E%E5%8F%91%E7%8E%B0%E5%8F%97%E5%AE%B3%E4%BA%BA%E6%B7%A4%E9%9D%92%E6%89%8D%E7%9F%A5%E5%85%B6%E8%A2%AB%E7%8C%A5%E4%BA%B5%23%26t%3D3&title=发布媒体",
-    "show_str": "19家媒体",
+    "show_str": "21家媒体",
     "users": [
       {
         "id": 1644114654,
         "idstr": "1644114654",
         "screen_name": "新京报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6367828994,
+        "idstr": "6367828994",
+        "screen_name": "剥洋葱",
         "verified": true,
         "verified_type": 3
       },
@@ -33,13 +40,6 @@
         "id": 6124642021,
         "idstr": "6124642021",
         "screen_name": "新京报我们视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6367828994,
-        "idstr": "6367828994",
-        "screen_name": "剥洋葱",
         "verified": true,
         "verified_type": 3
       },
