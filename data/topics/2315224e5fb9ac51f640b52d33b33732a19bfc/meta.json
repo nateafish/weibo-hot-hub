@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 3847642518
   },
-  "last_seen_at": "2026-08-19T15:00:00+08:00",
+  "last_seen_at": "2026-08-19T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%9F%A9%E5%9B%BD%E8%A2%AB%E6%9B%9D%E6%80%A7%E8%B4%BF%E8%B5%823%E5%90%8D%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E4%BA%BA%E5%A3%AB%23%26t%3D3&title=发布媒体",
-    "show_str": "68家媒体",
+    "show_str": "75家媒体",
     "users": [
       {
         "id": 1744332207,
@@ -44,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 5044281310,
+        "idstr": "5044281310",
+        "screen_name": "澎湃新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 3048800300,
         "idstr": "3048800300",
         "screen_name": "新浪圈子",
@@ -54,13 +61,6 @@
         "id": 1712686623,
         "idstr": "1712686623",
         "screen_name": "手机上的新浪",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7761793874,
-        "idstr": "7761793874",
-        "screen_name": "白鹿科技",
         "verified": true,
         "verified_type": 3
       }
