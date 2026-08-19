@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 7575030448
   },
-  "last_seen_at": "2026-08-19T14:00:00+08:00",
+  "last_seen_at": "2026-08-19T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E5%9B%9E%E5%BA%94%E4%B8%8D%E5%BD%93%E6%8B%9B%E5%BE%85%23%26t%3D3&title=发布媒体",
-    "show_str": "11家媒体",
+    "show_str": "43家媒体",
     "users": [
       {
         "id": 7575030448,
         "idstr": "7575030448",
         "screen_name": "白鹿视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2286908003,
+        "idstr": "2286908003",
+        "screen_name": "人民网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497087080,
+        "idstr": "1497087080",
+        "screen_name": "羊城晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -37,30 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1751714412,
-        "idstr": "1751714412",
-        "screen_name": "大皖新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1681831471,
-        "idstr": "1681831471",
-        "screen_name": "引力科普",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5822206027,
-        "idstr": "5822206027",
-        "screen_name": "北斗融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2660807713,
-        "idstr": "2660807713",
-        "screen_name": "财经新媒体",
+        "id": 7476748260,
+        "idstr": "7476748260",
+        "screen_name": "大公文匯網",
         "verified": true,
         "verified_type": 3
       }

@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2318910945
   },
-  "last_seen_at": "2026-08-19T14:00:00+08:00",
+  "last_seen_at": "2026-08-19T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8F%97%E5%AE%B3%E8%80%85%E5%90%8C%E4%BA%8B%E5%90%AC%E8%AF%B4%E6%9D%AD%E5%B7%9E%E9%85%92%E5%B1%80%E4%BA%8B%E4%BB%B6%E5%93%AD%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "15家媒体",
+    "show_str": "18家媒体",
     "users": [
       {
         "id": 2318910945,
@@ -44,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 1898885525,
+        "idstr": "1898885525",
+        "screen_name": "生活报新街派",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2647971081,
         "idstr": "2647971081",
         "screen_name": "时速新闻",
@@ -54,13 +61,6 @@
         "id": 2075245652,
         "idstr": "2075245652",
         "screen_name": "长春晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2041593395,
-        "idstr": "2041593395",
-        "screen_name": "搜狐济宁",
         "verified": true,
         "verified_type": 3
       }
