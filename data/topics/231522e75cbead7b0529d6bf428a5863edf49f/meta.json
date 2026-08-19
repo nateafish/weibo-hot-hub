@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2816167560
   },
-  "last_seen_at": "2026-08-19T07:00:00+08:00",
+  "last_seen_at": "2026-08-19T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BF%9D%E9%80%81%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E7%9A%84%E5%A5%B3%E5%AD%A9%E5%9B%A0%E8%93%9D%E5%8F%91%E8%B5%B0%E7%BA%A2%23%26t%3D3&title=发布媒体",
-    "show_str": "13家媒体",
+    "show_str": "26家媒体",
     "users": [
       {
         "id": 2816167560,
@@ -44,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 5145725878,
+        "idstr": "5145725878",
+        "screen_name": "沸点视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7750453817,
         "idstr": "7750453817",
         "screen_name": "第1热评",
@@ -54,13 +61,6 @@
         "id": 7738005609,
         "idstr": "7738005609",
         "screen_name": "第1眼看天下",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7735453948,
-        "idstr": "7735453948",
-        "screen_name": "第1观察",
         "verified": true,
         "verified_type": 3
       }
