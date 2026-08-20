@@ -3,11 +3,47 @@
   "created_at": 1787151198,
   "first_seen_at": "2026-08-20T00:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-20T07:00:00+08:00",
+  "last_seen_at": "2026-08-20T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%AF%B4%E8%AF%9D%E4%B8%8D%E4%BB%85%E8%A6%81%E9%81%BF%E8%B0%B6%E8%BF%98%E8%A6%81%E8%BF%8E%E8%B0%B6%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "5家媒体",
+    "users": [
+      {
+        "id": 1043320390,
+        "idstr": "1043320390",
+        "screen_name": "半岛晨报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7216381483,
+        "idstr": "7216381483",
+        "screen_name": "看成都",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1895096900,
+        "idstr": "1895096900",
+        "screen_name": "深圳新闻网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1667942985,
+        "idstr": "1667942985",
+        "screen_name": "长三角之声",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "说话不仅要避谶还要迎谶",
   "search_url": "https://s.weibo.com/weibo?q=%23%E8%AF%B4%E8%AF%9D%E4%B8%8D%E4%BB%85%E8%A6%81%E9%81%BF%E8%B0%B6%E8%BF%98%E8%A6%81%E8%BF%8E%E8%B0%B6%23",

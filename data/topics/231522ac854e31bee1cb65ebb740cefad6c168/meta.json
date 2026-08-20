@@ -10,15 +10,43 @@
     "status": 2,
     "uid": 1496814565
   },
-  "last_seen_at": "2026-08-20T07:00:00+08:00",
+  "last_seen_at": "2026-08-20T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A5%B3%E5%AD%90%E5%87%8C%E6%99%A8%E5%80%92%E6%8E%8924%E7%93%B6%E7%88%B1%E5%BF%83%E6%B0%B4%E8%A2%AB%E6%8B%8D%E4%B8%8B%23%26t%3D3&title=发布媒体",
-    "show_str": "16家媒体",
+    "show_str": "68家媒体",
     "users": [
       {
         "id": 1496814565,
         "idstr": "1496814565",
         "screen_name": "封面新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2075245652,
+        "idstr": "2075245652",
+        "screen_name": "长春晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1887344341,
+        "idstr": "1887344341",
+        "screen_name": "观察者网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1880922220,
+        "idstr": "1880922220",
+        "screen_name": "金华晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1717833412,
+        "idstr": "1717833412",
+        "screen_name": "华商报",
         "verified": true,
         "verified_type": 3
       },
@@ -33,34 +61,6 @@
         "id": 6369501744,
         "idstr": "6369501744",
         "screen_name": "封面新闻视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5876448064,
-        "idstr": "5876448064",
-        "screen_name": "青蕉视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5867962564,
-        "idstr": "5867962564",
-        "screen_name": "达州快播报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5763593746,
-        "idstr": "5763593746",
-        "screen_name": "资阳快播报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5745238615,
-        "idstr": "5745238615",
-        "screen_name": "封面快播报",
         "verified": true,
         "verified_type": 3
       }

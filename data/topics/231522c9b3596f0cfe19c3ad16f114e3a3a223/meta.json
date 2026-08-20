@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 2810373291
   },
-  "last_seen_at": "2026-08-20T07:00:00+08:00",
+  "last_seen_at": "2026-08-20T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%83%AD%E6%88%90%E5%83%8F%E5%AE%9E%E6%8B%8D%E8%AE%B0%E5%BD%95%E7%81%AB%E7%AE%AD%E4%B8%80%E5%AD%90%E7%BA%A7%E7%9D%80%E9%99%86%E8%BF%87%E7%A8%8B%23%26t%3D3&title=发布媒体",
-    "show_str": "9家媒体",
+    "show_str": "20家媒体",
     "users": [
       {
         "id": 2810373291,
         "idstr": "2810373291",
         "screen_name": "新华网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1727472420,
+        "idstr": "1727472420",
+        "screen_name": "泰山晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7753855613,
+        "idstr": "7753855613",
+        "screen_name": "即墨融媒",
         "verified": true,
         "verified_type": 3
       },
@@ -37,30 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 2291471981,
+        "idstr": "2291471981",
+        "screen_name": "济宁新闻网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2260699671,
         "idstr": "2260699671",
         "screen_name": "德州日报官方微博",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2105365573,
-        "idstr": "2105365573",
-        "screen_name": "威海播报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1912032243,
-        "idstr": "1912032243",
-        "screen_name": "大庆晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1865504713,
-        "idstr": "1865504713",
-        "screen_name": "太原晚报",
         "verified": true,
         "verified_type": 3
       }

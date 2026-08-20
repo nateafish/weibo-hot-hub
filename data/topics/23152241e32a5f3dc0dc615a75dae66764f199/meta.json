@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1655444627
   },
-  "last_seen_at": "2026-08-20T07:00:00+08:00",
+  "last_seen_at": "2026-08-20T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%96%B0%E9%83%8E%E7%A7%B0%E4%B8%8D%E5%85%B1%E8%B4%A2%E4%BA%A7%E4%B8%8D%E5%85%B1%E5%BF%83%23%26t%3D3&title=发布媒体",
-    "show_str": "11家媒体",
+    "show_str": "22家媒体",
     "users": [
       {
         "id": 1655444627,
         "idstr": "1655444627",
         "screen_name": "潇湘晨报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1720962692,
+        "idstr": "1720962692",
+        "screen_name": "极目新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,9 +37,9 @@
         "verified_type": 3
       },
       {
-        "id": 1398613133,
-        "idstr": "1398613133",
-        "screen_name": "马上资讯",
+        "id": 1895096900,
+        "idstr": "1895096900",
+        "screen_name": "深圳新闻网",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 2921799343,
-        "idstr": "2921799343",
-        "screen_name": "天下泉城",
+        "id": 1960785875,
+        "idstr": "1960785875",
+        "screen_name": "津云新闻",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2622056220,
-        "idstr": "2622056220",
-        "screen_name": "新闻大连",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2118120483,
-        "idstr": "2118120483",
-        "screen_name": "青岛日报",
+        "id": 1698857957,
+        "idstr": "1698857957",
+        "screen_name": "海峡都市报",
         "verified": true,
         "verified_type": 3
       }

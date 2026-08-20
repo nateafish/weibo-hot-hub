@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2286908003
   },
-  "last_seen_at": "2026-08-20T07:00:00+08:00",
+  "last_seen_at": "2026-08-20T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%BF%996%E5%BC%A0%E7%BD%91%E4%B8%8E%E4%BD%A0%E6%88%91%E7%94%9F%E6%B4%BB%E6%81%AF%E6%81%AF%E7%9B%B8%E5%85%B3%23%26t%3D3&title=发布媒体",
-    "show_str": "12家媒体",
+    "show_str": "22家媒体",
     "users": [
       {
         "id": 2286908003,
         "idstr": "2286908003",
         "screen_name": "人民网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5608027665,
+        "idstr": "5608027665",
+        "screen_name": "中国环境",
         "verified": true,
         "verified_type": 3
       },
@@ -37,30 +44,23 @@
         "verified_type": 3
       },
       {
-        "id": 5388240201,
-        "idstr": "5388240201",
-        "screen_name": "南阳日报",
+        "id": 7753855613,
+        "idstr": "7753855613",
+        "screen_name": "即墨融媒",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2921799343,
-        "idstr": "2921799343",
-        "screen_name": "天下泉城",
+        "id": 7523386243,
+        "idstr": "7523386243",
+        "screen_name": "南阳网官方微博",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2837359911,
-        "idstr": "2837359911",
-        "screen_name": "博尔塔拉报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2824067765,
-        "idstr": "2824067765",
-        "screen_name": "贺州日报官微",
+        "id": 7298805480,
+        "idstr": "7298805480",
+        "screen_name": "央视三农",
         "verified": true,
         "verified_type": 3
       }

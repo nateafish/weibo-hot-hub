@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 3203137375
   },
-  "last_seen_at": "2026-08-20T07:00:00+08:00",
+  "last_seen_at": "2026-08-20T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9D%A8%E5%A4%A9%E7%9C%9F%E5%AE%8B%E4%BD%B3%E8%B0%88%E5%BC%80%E6%9C%BA%E7%8E%87%E5%8F%AA%E5%89%A930%25%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "10家媒体",
     "users": [
       {
         "id": 3203137375,
         "idstr": "3203137375",
         "screen_name": "四川观察",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7708039348,
+        "idstr": "7708039348",
+        "screen_name": "北青娱见",
         "verified": true,
         "verified_type": 3
       },
@@ -44,16 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 1718950972,
-        "idstr": "1718950972",
-        "screen_name": "四川电视台新闻现场",
+        "id": 2312218165,
+        "idstr": "2312218165",
+        "screen_name": "临沂交通旅游广播",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1403842922,
-        "idstr": "1403842922",
-        "screen_name": "琅琊新闻网",
+        "id": 1938523582,
+        "idstr": "1938523582",
+        "screen_name": "宁波晚报",
         "verified": true,
         "verified_type": 3
       }

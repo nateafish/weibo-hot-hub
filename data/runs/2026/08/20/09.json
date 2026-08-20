@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-08-20T09:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#总书记心系医务工作者#",
+      "rank": 1,
+      "title": "总书记心系医务工作者",
+      "topic_id": "231522749f64513c11ff5b08cb0e0f6bf0aa5c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女子凌晨倒掉24瓶爱心水被拍下#",
+      "rank": 1,
+      "title": "女子凌晨倒掉24瓶爱心水被拍下",
+      "topic_id": "231522ac854e31bee1cb65ebb740cefad6c168"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#12306回应买票占座放零食这座位能让吗#",
+      "rank": 2,
+      "title": "12306回应买票占座放零食这座位能让吗",
+      "topic_id": "231522143aa8100e1f11c034eb54d875fd57b3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#这6张网与你我生活息息相关#",
+      "rank": 3,
+      "title": "这6张网与你我生活息息相关",
+      "topic_id": "231522294b034999f3ecd6062b04eb70c74608"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "青岛海之恋公园",
+      "rank": 4,
+      "title": "青岛海之恋公园",
+      "topic_id": "23152281c19d8cd54efcdebd64b145f0bb68f8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "空枪 李嘉诚儿子绑架案",
+      "rank": 5,
+      "title": "空枪 李嘉诚儿子绑架案",
+      "topic_id": "231522bc32667d39a6d776ce52a223b404b6b8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "七夕但不对劲",
+      "rank": 6,
+      "title": "七夕但不对劲",
+      "topic_id": "23152288d8918a8c3cacba4a9faadcc3a13c4c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "美联储",
+      "rank": 7,
+      "title": "美联储",
+      "topic_id": "2315220658b81a9181773bf3b4711ce12c903b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#骑士掘金快船交易#",
+      "rank": 8,
+      "title": "骑士掘金快船交易",
+      "topic_id": "231522d05c1623ab057de5ad3707cdce8da5a2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "台风",
+      "rank": 9,
+      "title": "台风",
+      "topic_id": "231522647d33aff1e4bb9ed725b08888cdda22"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#空枪开分9.7#",
+      "rank": 10,
+      "title": "空枪开分9.7",
+      "topic_id": "2315222eefd1d4f4abd76568a9a937edbf7d6c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#金价彻底反弹了#",
+      "rank": 11,
+      "title": "金价彻底反弹了",
+      "topic_id": "231522c30307f086cd0124445c9d4a209a1af0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "青岛男子辱骂女游客视频",
+      "rank": 12,
+      "title": "青岛男子辱骂女游客视频",
+      "topic_id": "231522366762f9676f80841653b767ad51a447"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#肖战小说都不敢这么写#",
+      "rank": 13,
+      "title": "肖战小说都不敢这么写",
+      "topic_id": "2315222b758d0bffa4c5f69ba15932496dbe96"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#新郎称不共财产不共心#",
+      "rank": 14,
+      "title": "新郎称不共财产不共心",
+      "topic_id": "23152241e32a5f3dc0dc615a75dae66764f199"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "全季酒店 再追究对我们对你都不好",
+      "rank": 15,
+      "title": "全季酒店 再追究对我们对你都不好",
+      "topic_id": "231522d800896674fafe646adbefaf6c017028"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "说话不仅要避谶还要迎谶",
+      "rank": 16,
+      "title": "说话不仅要避谶还要迎谶",
+      "topic_id": "231522ff9ce8848428d353a84bb2b4a4f2989f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#那英59岁身材#",
+      "rank": 17,
+      "title": "那英59岁身材",
+      "topic_id": "231522cbbaa32afe5202cf39b02ef450678d87"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "难怪瘦的时候容易觉得疼",
+      "rank": 18,
+      "title": "难怪瘦的时候容易觉得疼",
+      "topic_id": "231522cf260d21a7d0d86831e9e88c50745a95"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#小米人形机器人现场视频曝光#",
+      "rank": 19,
+      "title": "小米人形机器人现场视频曝光",
+      "topic_id": "231522ce9be56f0d2ed310528b5334b2af9289"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "姜珮瑶找凌玲像AI一样丝滑",
+      "rank": 20,
+      "title": "姜珮瑶找凌玲像AI一样丝滑",
+      "topic_id": "231522dd7e7cd13c94080b71b0e8834d16f394"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#弟弟称哥哥刚确诊癌症嫂子就提离婚#",
+      "rank": 21,
+      "title": "弟弟称哥哥刚确诊癌症嫂子就提离婚",
+      "topic_id": "23152296112828898d5dd2d97e3f33537bbcb5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "为什么七夕朋友圈秀恩爱的变少了",
+      "rank": 22,
+      "title": "为什么七夕朋友圈秀恩爱的变少了",
+      "topic_id": "2315228f30628a1ae7903a1a95e695a0f77336"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#3人围攻穿武磊球衣小球迷被拘#",
+      "rank": 23,
+      "title": "3人围攻穿武磊球衣小球迷被拘",
+      "topic_id": "231522047cb1b9e0c82efad3b1b57d662e7d67"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "LPL",
+      "rank": 24,
+      "title": "LPL",
+      "topic_id": "23152223dd4e72e56cad257834028401d4aa38"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#公司被曝设监狱式工位逼退员工#",
+      "rank": 25,
+      "title": "公司被曝设监狱式工位逼退员工",
+      "topic_id": "231522be7b4c51565eac53ab9a6ca386cc6b0f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#肖战在车里时就在商量怎么开车窗#",
+      "rank": 26,
+      "title": "肖战在车里时就在商量怎么开车窗",
+      "topic_id": "231522c0b2a0b526715e7b342f90e0d568a49d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "朱一龙表演 生理痛感",
+      "rank": 27,
+      "title": "朱一龙表演 生理痛感",
+      "topic_id": "2315220b9a2d18ec9feca3b0cabf1be4dd8766"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#有这5个习惯的人更容易瘦#",
+      "rank": 28,
+      "title": "有这5个习惯的人更容易瘦",
+      "topic_id": "231522c368f3f67eb031f5717d55f0ea3958c8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#孟子义没有给cp让路的义务#",
+      "rank": 29,
+      "title": "孟子义没有给cp让路的义务",
+      "topic_id": "2315228202ad93b61d4c465b0f162615759aa6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#无人机热成像实拍记录火箭一子级着陆过程#",
+      "rank": 30,
+      "title": "无人机热成像实拍记录火箭一子级着陆过程",
+      "topic_id": "231522c9b3596f0cfe19c3ad16f114e3a3a223"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#升学宴死者家属称被砸中当场去世#",
+      "rank": 31,
+      "title": "升学宴死者家属称被砸中当场去世",
+      "topic_id": "23152234dff634d9f2406ae9819c3714b3a648"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "桃黑黑宣布暂时休息",
+      "rank": 32,
+      "title": "桃黑黑宣布暂时休息",
+      "topic_id": "23152278c44215975322741221fefd51dba90c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#中国黄金协会严正声明#",
+      "rank": 33,
+      "title": "中国黄金协会严正声明",
+      "topic_id": "231522f935a395e0a3bbbea263c234432c10e2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#旺旺官宣听劝版旺仔牛奶#",
+      "rank": 34,
+      "title": "旺旺官宣听劝版旺仔牛奶",
+      "topic_id": "231522184c7e26c5865322f5cdde392ac55023"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "情侣领证男生把婚前财产都给女生",
+      "rank": 35,
+      "title": "情侣领证男生把婚前财产都给女生",
+      "topic_id": "2315226164f213774b6fee16af4fe65c229974"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#苏翊鸣七夕晒9图#",
+      "rank": 36,
+      "title": "苏翊鸣七夕晒9图",
+      "topic_id": "231522f2165d53993fec6b2286a789c5f409c8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#迪丽热巴连续3个月被传恋情#",
+      "rank": 37,
+      "title": "迪丽热巴连续3个月被传恋情",
+      "topic_id": "231522098eda1c29525badb87888f9897416d0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#婚宴礼金里发现假钞#",
+      "rank": 38,
+      "title": "婚宴礼金里发现假钞",
+      "topic_id": "231522e9d155fcecddeab0f559d3af6c98c208"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#长这样的5种痣最容易癌变#",
+      "rank": 39,
+      "title": "长这样的5种痣最容易癌变",
+      "topic_id": "23152250c2cebcbbb7447277754fee208ea9c1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "刘宇宁直播豪华配置",
+      "rank": 40,
+      "title": "刘宇宁直播豪华配置",
+      "topic_id": "23152275a3f6fd5da90f5b3656435af4e75e42"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#上海警方通报京沪赛后争议事件#",
+      "rank": 41,
+      "title": "上海警方通报京沪赛后争议事件",
+      "topic_id": "2315221cde74bb916ed79882e61c31d7eb6a8e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#全球债市遭猛烈抛售#",
+      "rank": 42,
+      "title": "全球债市遭猛烈抛售",
+      "topic_id": "231522c132671d3175315a4a326ab6e1dd8a33"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#唐嫣罗晋感情时间线#",
+      "rank": 43,
+      "title": "唐嫣罗晋感情时间线",
+      "topic_id": "23152220dea228666e15373f780169467c828f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#杨天真宋佳谈开机率只剩30%#",
+      "rank": 44,
+      "title": "杨天真宋佳谈开机率只剩30%",
+      "topic_id": "231522d1e91bf786162728570420fc651bdcd4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "尊界撞环卫工视频系AI伪造",
+      "rank": 45,
+      "title": "尊界撞环卫工视频系AI伪造",
+      "topic_id": "231522933d178e37ab8b2d4d06284a30422bad"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#刘宇宁搞浪漫没轻没重的#",
+      "rank": 46,
+      "title": "刘宇宁搞浪漫没轻没重的",
+      "topic_id": "23152213b7ae2cbbd2b108d308c8acc02a7056"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "空枪 菠萝油",
+      "rank": 47,
+      "title": "空枪 菠萝油",
+      "topic_id": "23152223bb296a5b6e98c6bfd16ee1f9d3d496"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#李昀锐孟子义这是官宣还是剧宣#",
+      "rank": 48,
+      "title": "李昀锐孟子义这是官宣还是剧宣",
+      "topic_id": "2315223d077d5d2c90a2db72eeadaf2f862fc7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#女儿拒动用十万压岁钱支付生活费#",
+      "rank": 49,
+      "title": "女儿拒动用十万压岁钱支付生活费",
+      "topic_id": "23152202426984726f1f2c6b629f0b3dddd7a0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#穆祉丞铁了心要养梦女#",
+      "rank": 50,
+      "title": "穆祉丞铁了心要养梦女",
+      "topic_id": "231522332588b81c52623fe7abb3975acde63c"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

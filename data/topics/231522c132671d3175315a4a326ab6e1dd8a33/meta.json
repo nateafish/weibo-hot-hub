@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1649173367
   },
-  "last_seen_at": "2026-08-20T07:00:00+08:00",
+  "last_seen_at": "2026-08-20T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%85%A8%E7%90%83%E5%80%BA%E5%B8%82%E9%81%AD%E7%8C%9B%E7%83%88%E6%8A%9B%E5%94%AE%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "14家媒体",
     "users": [
       {
         "id": 1649173367,
         "idstr": "1649173367",
         "screen_name": "每日经济新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1651428902,
+        "idstr": "1651428902",
+        "screen_name": "21世纪经济报道",
         "verified": true,
         "verified_type": 3
       },
@@ -30,9 +37,23 @@
         "verified_type": 3
       },
       {
+        "id": 6013508393,
+        "idstr": "6013508393",
+        "screen_name": "环球总财",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2813313591,
         "idstr": "2813313591",
         "screen_name": "中新网海南",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2292896411,
+        "idstr": "2292896411",
+        "screen_name": "中工网",
         "verified": true,
         "verified_type": 3
       },
