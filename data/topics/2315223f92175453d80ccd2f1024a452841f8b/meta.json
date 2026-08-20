@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1906553903
   },
-  "last_seen_at": "2026-08-20T10:00:00+08:00",
+  "last_seen_at": "2026-08-20T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2+%E5%8F%A4%E8%8C%97%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "5家媒体",
     "users": [
       {
         "id": 7422806367,
@@ -26,6 +26,13 @@
         "id": 2337985010,
         "idstr": "2337985010",
         "screen_name": "瑞安融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1880922220,
+        "idstr": "1880922220",
+        "screen_name": "金华晚报",
         "verified": true,
         "verified_type": 3
       },

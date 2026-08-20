@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-08-20T11:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#总书记心系医务工作者#",
+      "rank": 1,
+      "title": "总书记心系医务工作者",
+      "topic_id": "231522749f64513c11ff5b08cb0e0f6bf0aa5c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女儿拒动用十万压岁钱支付生活费#",
+      "rank": 1,
+      "title": "女儿拒动用十万压岁钱支付生活费",
+      "topic_id": "23152202426984726f1f2c6b629f0b3dddd7a0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "全季酒店 再追究对我们对你都不好",
+      "rank": 2,
+      "title": "全季酒店 再追究对我们对你都不好",
+      "topic_id": "231522d800896674fafe646adbefaf6c017028"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#7个China热词讲透中国潮#",
+      "rank": 3,
+      "title": "7个China热词讲透中国潮",
+      "topic_id": "231522cf14ea4eaa0599909a9d9d8797425b6d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "黑神话",
+      "rank": 4,
+      "title": "黑神话",
+      "topic_id": "2315228f525451a4bbef291c3aabff66ceff67"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#宇树大跌#",
+      "rank": 5,
+      "title": "宇树大跌",
+      "topic_id": "231522cfb5f0d77867910fd5ce56de0baceff8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "艾滋病检测结果不得告知配偶",
+      "rank": 6,
+      "title": "艾滋病检测结果不得告知配偶",
+      "topic_id": "2315222b9c0e42260ef0c221834ace513e28b8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#警方通报青岛男子辱骂女游客#",
+      "rank": 7,
+      "title": "警方通报青岛男子辱骂女游客",
+      "topic_id": "2315222d9c37d055c703d4405261e67e6cfb24"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "我家那闺女",
+      "rank": 8,
+      "title": "我家那闺女",
+      "topic_id": "231522ae0bd3cea71e7fcd1b7e2cdd1ec864e9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#10万亿公积金进一步激活#",
+      "rank": 9,
+      "title": "10万亿公积金进一步激活",
+      "topic_id": "2315226e400f1c7c3399edb0119a8127f60d9b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "早春晴朗",
+      "rank": 10,
+      "title": "早春晴朗",
+      "topic_id": "23152232a83557dc62513442c4c623e727e467"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#遭枪击身亡处长女儿曾遭死亡威胁#",
+      "rank": 11,
+      "title": "遭枪击身亡处长女儿曾遭死亡威胁",
+      "topic_id": "231522073047a121429cb7e56fd6a938579fce"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#彭小苒承认恋情#",
+      "rank": 12,
+      "title": "彭小苒承认恋情",
+      "topic_id": "231522134a0f40847dc97214eecfcd1f68dd25"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#肖战小说都不敢这么写#",
+      "rank": 13,
+      "title": "肖战小说都不敢这么写",
+      "topic_id": "2315222b758d0bffa4c5f69ba15932496dbe96"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#黑神话钟馗新实机#",
+      "rank": 14,
+      "title": "黑神话钟馗新实机",
+      "topic_id": "231522b7bb7b49ed488ec6a51797f5ccbd5596"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#冯骥黑神话的十条开发原则#",
+      "rank": 15,
+      "title": "冯骥黑神话的十条开发原则",
+      "topic_id": "231522b91b02302edfe447c2d8dac48e447752"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "空枪 李嘉诚儿子绑架案",
+      "rank": 16,
+      "title": "空枪 李嘉诚儿子绑架案",
+      "topic_id": "231522bc32667d39a6d776ce52a223b404b6b8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#一景区21岁水上飞人教练溺亡#",
+      "rank": 17,
+      "title": "一景区21岁水上飞人教练溺亡",
+      "topic_id": "231522ad14c2b43540b71190d4af8436cff505"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女子凌晨倒掉24瓶爱心水被拍下#",
+      "rank": 18,
+      "title": "女子凌晨倒掉24瓶爱心水被拍下",
+      "topic_id": "231522ac854e31bee1cb65ebb740cefad6c168"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#长宁要求排查整治农村老旧房屋#",
+      "rank": 19,
+      "title": "长宁要求排查整治农村老旧房屋",
+      "topic_id": "231522dde21809930324a34cb7444e6ede9c25"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#小米人形机器人现场视频曝光#",
+      "rank": 20,
+      "title": "小米人形机器人现场视频曝光",
+      "topic_id": "231522ce9be56f0d2ed310528b5334b2af9289"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#12306回应买票占座放零食这座位能让吗#",
+      "rank": 21,
+      "title": "12306回应买票占座放零食这座位能让吗",
+      "topic_id": "231522143aa8100e1f11c034eb54d875fd57b3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#冯骥杨奇分享黑神话开发心得#",
+      "rank": 22,
+      "title": "冯骥杨奇分享黑神话开发心得",
+      "topic_id": "231522adec089c92b3a62fce1549c8a733790e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "时代少年团 古茗",
+      "rank": 23,
+      "title": "时代少年团 古茗",
+      "topic_id": "2315223f92175453d80ccd2f1024a452841f8b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女儿有10万压岁钱每月还要2500生活费#",
+      "rank": 24,
+      "title": "女儿有10万压岁钱每月还要2500生活费",
+      "topic_id": "2315222fda5d096885b0d79dcee13be0298535"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#肖战看到红海的反应#",
+      "rank": 25,
+      "title": "肖战看到红海的反应",
+      "topic_id": "2315229ac59d600131c134723449c01db1ebe1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "姜珮瑶找凌玲像AI一样丝滑",
+      "rank": 26,
+      "title": "姜珮瑶找凌玲像AI一样丝滑",
+      "topic_id": "231522dd7e7cd13c94080b71b0e8834d16f394"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#宇树科技跌超15%#",
+      "rank": 27,
+      "title": "宇树科技跌超15%",
+      "topic_id": "2315229624693d24a9bb9c58a347342283c627"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王栎鑫吴雅婷儿女近照#",
+      "rank": 28,
+      "title": "王栎鑫吴雅婷儿女近照",
+      "topic_id": "231522a65c2fb94dae49abc2f22efe63941790"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "NCTDREAM全员续约",
+      "rank": 29,
+      "title": "NCTDREAM全员续约",
+      "topic_id": "231522914555cfeda11f3fd19748a4c2da7696"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "法院认定宝相花属公有纹样",
+      "rank": 30,
+      "title": "法院认定宝相花属公有纹样",
+      "topic_id": "231522b968fd4cf4c296caac96b483c82fc1ce"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#BLG首发上单Bin#",
+      "rank": 31,
+      "title": "BLG首发上单Bin",
+      "topic_id": "23152229855449a5c3ccb44d3cd4cc17772e10"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#骑士掘金快船交易#",
+      "rank": 32,
+      "title": "骑士掘金快船交易",
+      "topic_id": "231522d05c1623ab057de5ad3707cdce8da5a2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "游戏科学",
+      "rank": 33,
+      "title": "游戏科学",
+      "topic_id": "231522703628dc1ef4a796ceab36bbc70e9866"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#迪丽热巴连续3个月被传恋情#",
+      "rank": 34,
+      "title": "迪丽热巴连续3个月被传恋情",
+      "topic_id": "231522098eda1c29525badb87888f9897416d0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "总裁助理骗局",
+      "rank": 35,
+      "title": "总裁助理骗局",
+      "topic_id": "2315226d98d2576911b6331ade4fee6c510c2f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#空枪豆瓣7.1分#",
+      "rank": 36,
+      "title": "空枪豆瓣7.1分",
+      "topic_id": "2315223b1b6d2126200fe339944089ca6de051"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "县政府称赤裸女童系自行脱衣",
+      "rank": 37,
+      "title": "县政府称赤裸女童系自行脱衣",
+      "topic_id": "2315229d3d037a1378169c661079aaf4f041e9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#旺旺官宣听劝版旺仔牛奶#",
+      "rank": 38,
+      "title": "旺旺官宣听劝版旺仔牛奶",
+      "topic_id": "231522184c7e26c5865322f5cdde392ac55023"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "刘宇宁直播豪华配置",
+      "rank": 39,
+      "title": "刘宇宁直播豪华配置",
+      "topic_id": "23152275a3f6fd5da90f5b3656435af4e75e42"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 4,
+      "posts": "saved",
+      "query": "#AI客服无法为商家背锅#",
+      "rank": 40,
+      "title": "AI客服无法为商家背锅",
+      "topic_id": "231522bbee5fdbf2ad8582e54815167cf4ecde"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#有这5个习惯的人更容易瘦#",
+      "rank": 41,
+      "title": "有这5个习惯的人更容易瘦",
+      "topic_id": "231522c368f3f67eb031f5717d55f0ea3958c8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "青岛海之恋公园 精神问题成免罪牌",
+      "rank": 42,
+      "title": "青岛海之恋公园 精神问题成免罪牌",
+      "topic_id": "2315226a0c00bd3a6a658cf82ef745d9f627d1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "说话不仅要避谶还要迎谶",
+      "rank": 43,
+      "title": "说话不仅要避谶还要迎谶",
+      "topic_id": "231522ff9ce8848428d353a84bb2b4a4f2989f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#长这样的5种痣最容易癌变#",
+      "rank": 44,
+      "title": "长这样的5种痣最容易癌变",
+      "topic_id": "23152250c2cebcbbb7447277754fee208ea9c1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#3孩非亲生案大女儿已经不喊奶奶#",
+      "rank": 45,
+      "title": "3孩非亲生案大女儿已经不喊奶奶",
+      "topic_id": "231522736d6a541a20a30e38b17182d94f516f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "朱一龙表演 生理痛感",
+      "rank": 46,
+      "title": "朱一龙表演 生理痛感",
+      "topic_id": "2315220b9a2d18ec9feca3b0cabf1be4dd8766"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#中国黄金协会严正声明#",
+      "rank": 47,
+      "title": "中国黄金协会严正声明",
+      "topic_id": "231522f935a395e0a3bbbea263c234432c10e2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#空枪开分9.7#",
+      "rank": 48,
+      "title": "空枪开分9.7",
+      "topic_id": "2315222eefd1d4f4abd76568a9a937edbf7d6c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#穆祉丞铁了心要养梦女#",
+      "rank": 49,
+      "title": "穆祉丞铁了心要养梦女",
+      "topic_id": "231522332588b81c52623fe7abb3975acde63c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "桃黑黑宣布暂时休息",
+      "rank": 50,
+      "title": "桃黑黑宣布暂时休息",
+      "topic_id": "23152278c44215975322741221fefd51dba90c"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
