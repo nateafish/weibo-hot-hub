@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 2656274875
   },
-  "last_seen_at": "2026-08-20T12:00:00+08:00",
+  "last_seen_at": "2026-08-20T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%81%92%E5%A4%A7%E9%9B%86%E5%9B%A2%E8%A2%AB%E7%BD%9A88.2%E4%BA%BF%E5%85%83%23%26t%3D3&title=发布媒体",
-    "show_str": "49家媒体",
+    "show_str": "98家媒体",
     "users": [
       {
         "id": 2656274875,
         "idstr": "2656274875",
         "screen_name": "央视新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1734530730,
+        "idstr": "1734530730",
+        "screen_name": "大河报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2118120483,
+        "idstr": "2118120483",
+        "screen_name": "青岛日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1738006505,
+        "idstr": "1738006505",
+        "screen_name": "机锋网",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 1684012053,
-        "idstr": "1684012053",
-        "screen_name": "财经杂志",
+        "id": 3229962754,
+        "idstr": "3229962754",
+        "screen_name": "陕视新闻",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1497087080,
-        "idstr": "1497087080",
-        "screen_name": "羊城晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1691507817,
-        "idstr": "1691507817",
-        "screen_name": "新闻日日睇",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6365990425,
-        "idstr": "6365990425",
-        "screen_name": "大河财立方",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6115560351,
-        "idstr": "6115560351",
-        "screen_name": "国是直通车",
+        "id": 2024623547,
+        "idstr": "2024623547",
+        "screen_name": "央视一套",
         "verified": true,
         "verified_type": 3
       }
