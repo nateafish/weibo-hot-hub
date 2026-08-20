@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 1598078571
   },
-  "last_seen_at": "2026-08-20T13:00:00+08:00",
+  "last_seen_at": "2026-08-20T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%A6%8F%E5%BB%BA%E8%BF%99%E5%9C%BA%E7%BD%91%E5%AE%89%E5%A4%A7%E8%B5%9B%E9%AB%98%E6%89%8B%E4%BA%91%E9%9B%86%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "13家媒体",
     "users": [
       {
         "id": 1598078571,
         "idstr": "1598078571",
         "screen_name": "福建东南网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3275115274,
+        "idstr": "3275115274",
+        "screen_name": "中国吉林网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2109185642,
+        "idstr": "2109185642",
+        "screen_name": "厦门网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1699957812,
+        "idstr": "1699957812",
+        "screen_name": "海峡网-福建报业新媒体网站",
         "verified": true,
         "verified_type": 3
       },
@@ -30,9 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 2109185642,
-        "idstr": "2109185642",
-        "screen_name": "厦门网",
+        "id": 5395667635,
+        "idstr": "5395667635",
+        "screen_name": "厦门广电",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2729129850,
+        "idstr": "2729129850",
+        "screen_name": "海峡导报",
         "verified": true,
         "verified_type": 3
       }
