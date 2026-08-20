@@ -10,15 +10,43 @@
     "status": 2,
     "uid": 2921243620
   },
-  "last_seen_at": "2026-08-20T17:00:00+08:00",
+  "last_seen_at": "2026-08-20T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9D%A8%E5%B9%82%E6%B2%88%E8%85%BE%E5%87%BA%E5%B8%AD%E4%BA%AB%E7%95%8CG9%E5%8F%91%E5%B8%83%E4%BC%9A%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "5家媒体",
     "users": [
       {
         "id": 2921243620,
         "idstr": "2921243620",
         "screen_name": "新浪明星",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2647971081,
+        "idstr": "2647971081",
+        "screen_name": "时速新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2337985010,
+        "idstr": "2337985010",
+        "screen_name": "瑞安融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1735937570,
+        "idstr": "1735937570",
+        "screen_name": "江南都市报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1723167603,
+        "idstr": "1723167603",
+        "screen_name": "950MusicRadio",
         "verified": true,
         "verified_type": 3
       }
