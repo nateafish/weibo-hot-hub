@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1699432410
   },
-  "last_seen_at": "2026-08-20T15:00:00+08:00",
+  "last_seen_at": "2026-08-20T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%AE%B8%E5%AE%B6%E5%8D%B0%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F%23%26t%3D3&title=发布媒体",
-    "show_str": "229家媒体",
+    "show_str": "248家媒体",
     "users": [
       {
         "id": 1699432410,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 6115560351,
+        "idstr": "6115560351",
+        "screen_name": "国是直通车",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2118120483,
         "idstr": "2118120483",
         "screen_name": "青岛日报",
@@ -54,13 +61,6 @@
         "id": 1960785875,
         "idstr": "1960785875",
         "screen_name": "津云新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2087169013,
-        "idstr": "2087169013",
-        "screen_name": "法治日报",
         "verified": true,
         "verified_type": 3
       }

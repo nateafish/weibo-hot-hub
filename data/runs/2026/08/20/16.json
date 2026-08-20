@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-08-20T16:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#总书记指引宣传思想文化工作#",
+      "rank": 1,
+      "title": "总书记指引宣传思想文化工作",
+      "topic_id": "2315229a8d54a1c99aff8fe97a319489e4ed9d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#许家印一审被判无期#",
+      "rank": 1,
+      "title": "许家印一审被判无期",
+      "topic_id": "2315225a6febdf521418e14fbf77f5b515dc55"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#孕妇产检因医生疏忽误服有毒液体#",
+      "rank": 2,
+      "title": "孕妇产检因医生疏忽误服有毒液体",
+      "topic_id": "2315224c737728eabbcdb65f63c6a5f4054386"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#中非视听之约北京启幕#",
+      "rank": 3,
+      "title": "中非视听之约北京启幕",
+      "topic_id": "2315228f37fbc42958d7db2deafa5d5c65aecc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "警方通报时代峰峻楼下聚集事件",
+      "rank": 4,
+      "title": "警方通报时代峰峻楼下聚集事件",
+      "topic_id": "231522d72cbaa8cbf221f1479f7c8cdb4204fc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "月薪4000存款20w",
+      "rank": 5,
+      "title": "月薪4000存款20w",
+      "topic_id": "23152234b865b540b35a1b325f93db9c3c1ca4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "和思想贫瘠的人聊天有多痛苦",
+      "rank": 6,
+      "title": "和思想贫瘠的人聊天有多痛苦",
+      "topic_id": "231522f0e03032c25751d050faf7de1adc5193"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#我家那闺女2026官宣节奏#",
+      "rank": 7,
+      "title": "我家那闺女2026官宣节奏",
+      "topic_id": "2315226ca2c86c5608d0fed754a95d5fca09cc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#宇树总市值已跌超1500亿#",
+      "rank": 8,
+      "title": "宇树总市值已跌超1500亿",
+      "topic_id": "2315223aea1203581aeebe3bdfd5b25ea64389"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "比收到更卑微的词出现了",
+      "rank": 9,
+      "title": "比收到更卑微的词出现了",
+      "topic_id": "23152262132f085d2cfecf0777835c3d68683f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#曾辉一公没人选#",
+      "rank": 10,
+      "title": "曾辉一公没人选",
+      "topic_id": "23152253029db2ed072cc8784c6b5b5b887ce7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#李响8年3次求婚孙骁骁未果#",
+      "rank": 11,
+      "title": "李响8年3次求婚孙骁骁未果",
+      "topic_id": "2315222dc4443dbd100bf47b8e59296f3d0c51"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#青岛涉事女游客多次致歉求饶#",
+      "rank": 12,
+      "title": "青岛涉事女游客多次致歉求饶",
+      "topic_id": "231522d6fb83e7c25c70e05b22d172173da11c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#青岛遭男子辱骂女子称愿下跪道歉#",
+      "rank": 13,
+      "title": "青岛遭男子辱骂女子称愿下跪道歉",
+      "topic_id": "2315223f0b62ccc585fe635edf583e25a2e685"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "艾滋病检测结果不得告知配偶",
+      "rank": 14,
+      "title": "艾滋病检测结果不得告知配偶",
+      "topic_id": "2315222b9c0e42260ef0c221834ace513e28b8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "河北涿州 代孕机构",
+      "rank": 15,
+      "title": "河北涿州 代孕机构",
+      "topic_id": "231522c74e3a0bbe6a3ed77d9a0189331fb486"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "疑似缅北电诈园区图片曝光",
+      "rank": 16,
+      "title": "疑似缅北电诈园区图片曝光",
+      "topic_id": "2315224317f6604fb3067d931cfa27c658cc55"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#青岛文旅关闭评论区天才是真塌了#",
+      "rank": 17,
+      "title": "青岛文旅关闭评论区天才是真塌了",
+      "topic_id": "231522b16a2de49b7ba91608a246440f19a880"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#开推5拟邀阵容#",
+      "rank": 18,
+      "title": "开推5拟邀阵容",
+      "topic_id": "2315227f74ad362c585e4afd117b7c6ed45b8b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#又一家新能源汽车公司入局#",
+      "rank": 19,
+      "title": "又一家新能源汽车公司入局",
+      "topic_id": "231522919197d380110a927f284a1ea0520eae"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#华晨宇南京站连开七场#",
+      "rank": 20,
+      "title": "华晨宇南京站连开七场",
+      "topic_id": "23152295642eeac73545ba85f989ce0912d547"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#杨幂开叉皮裙#",
+      "rank": 21,
+      "title": "杨幂开叉皮裙",
+      "topic_id": "231522cf9254f4b5dbcfd0198f0e1861f48392"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#海上3个台风胚胎发展中#",
+      "rank": 22,
+      "title": "海上3个台风胚胎发展中",
+      "topic_id": "231522e3ad4be88a2338a23ba09f5b4c79cdd0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#恒大集团被罚88.2亿元#",
+      "rank": 23,
+      "title": "恒大集团被罚88.2亿元",
+      "topic_id": "231522e8eb18aa8a4a5a1bc417c77ca03eba28"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "李响 孙骁骁",
+      "rank": 24,
+      "title": "李响 孙骁骁",
+      "topic_id": "2315222e191f42e8ff468a84184c78c317a372"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#九门没了#",
+      "rank": 25,
+      "title": "九门没了",
+      "topic_id": "231522df12a75d071f5c5a4a5c825073fb8bb9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#宇树大跌中签者说幸亏全卖了#",
+      "rank": 26,
+      "title": "宇树大跌中签者说幸亏全卖了",
+      "topic_id": "2315229b93b184b88bd05f3df4d0a35c283346"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#谁在七夕送了李小冉一辆车#",
+      "rank": 27,
+      "title": "谁在七夕送了李小冉一辆车",
+      "topic_id": "231522b1191bba2d99d0a116b8c7dfaf728bbf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "我对迪丽热巴说我一辈子爱你",
+      "rank": 28,
+      "title": "我对迪丽热巴说我一辈子爱你",
+      "topic_id": "23152260c933600da5610d4c506f9a22d385c7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "存钱重要还是旅游重要",
+      "rank": 29,
+      "title": "存钱重要还是旅游重要",
+      "topic_id": "23152217cda2438e69651a409ebdd815f0f13a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#上海发布楼市沪八条#",
+      "rank": 30,
+      "title": "上海发布楼市沪八条",
+      "topic_id": "231522ce2c3fb2108443e48935c613f02f34c1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#享界G9首发800V全主动稳定杆#",
+      "rank": 31,
+      "title": "享界G9首发800V全主动稳定杆",
+      "topic_id": "231522929707e1751bc84cdf32f3ef57c60e67"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#许家印前妻信托是否被打穿#",
+      "rank": 32,
+      "title": "许家印前妻信托是否被打穿",
+      "topic_id": "2315224f91fc143d177ca30917d932736f626f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 6,
+      "posts": "saved",
+      "query": "谷歌Gemini平等地爱世人",
+      "rank": 33,
+      "title": "谷歌Gemini平等地爱世人",
+      "topic_id": "23152288544043abd34b68d12d670c6e984eb8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "建议大家去看外贸综艺",
+      "rank": 34,
+      "title": "建议大家去看外贸综艺",
+      "topic_id": "2315220894a20752ef5c021b3845cfa17761f4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#许家印前妻信托#",
+      "rank": 35,
+      "title": "许家印前妻信托",
+      "topic_id": "231522e4ab3303968bd1d4a4ee92f678bba19e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#许家印违法所得追缴不足部分责令退赔#",
+      "rank": 36,
+      "title": "许家印违法所得追缴不足部分责令退赔",
+      "topic_id": "231522581c3b13fcb5ecd031f75c7f25f2cd56"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "MRC对战成都GG",
+      "rank": 37,
+      "title": "MRC对战成都GG",
+      "topic_id": "23152251adbdcc7bd6fe8c66ad2751a010c73c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#惠英红感谢鲁豫11年前雪中送炭#",
+      "rank": 38,
+      "title": "惠英红感谢鲁豫11年前雪中送炭",
+      "topic_id": "231522f9f1a51db56e43086fa36ab54d524aa3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "好的睡眠是什么感觉",
+      "rank": 39,
+      "title": "好的睡眠是什么感觉",
+      "topic_id": "231522b78f1e9e0a7e3ba2722d463bac80b91d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#为什么日韩家庭都喜欢嵌入式冰箱#",
+      "rank": 40,
+      "title": "为什么日韩家庭都喜欢嵌入式冰箱",
+      "topic_id": "23152252aca7fbe5002872c5bfc23a0f8532c1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "减少通勤痛苦的方法",
+      "rank": 41,
+      "title": "减少通勤痛苦的方法",
+      "topic_id": "231522c729dac6bd638ffdbaa808ed664c9857"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "赵今麦美貌引外网热议",
+      "rank": 42,
+      "title": "赵今麦美貌引外网热议",
+      "topic_id": "231522857bc29dc1ccc24db80304c3b32de6a9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "空枪",
+      "rank": 43,
+      "title": "空枪",
+      "topic_id": "23152254439a6750829b96b6384b8eaed30706"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#警方回应骂人男子自称精神有问题#",
+      "rank": 44,
+      "title": "警方回应骂人男子自称精神有问题",
+      "topic_id": "2315225c1cd2ae5b5063bc7972c6ba0e02e341"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#刘亦菲把我拉过去的望周知#",
+      "rank": 45,
+      "title": "刘亦菲把我拉过去的望周知",
+      "topic_id": "2315227fcbdc2339c3f33ba6530b9ae6ea6849"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "早春晴朗亲密戏",
+      "rank": 46,
+      "title": "早春晴朗亲密戏",
+      "topic_id": "2315225993ba84839f26eeb1883ad4f7edc9d1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#宇树大跌#",
+      "rank": 47,
+      "title": "宇树大跌",
+      "topic_id": "231522cfb5f0d77867910fd5ce56de0baceff8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#内娱国产剧尺度都这么大了吗#",
+      "rank": 48,
+      "title": "内娱国产剧尺度都这么大了吗",
+      "topic_id": "2315220b1db2ccdec8097abc565f0d305c4f26"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "我这一生最大的罪是把人写成了妖",
+      "rank": 49,
+      "title": "我这一生最大的罪是把人写成了妖",
+      "topic_id": "23152289539c48dcf3915cc35071a554880d24"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "第五人格赛事超话",
+      "rank": 50,
+      "title": "第五人格赛事超话",
+      "topic_id": "231522a27cc4628ed82d9d4134bd82dc08270f"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
