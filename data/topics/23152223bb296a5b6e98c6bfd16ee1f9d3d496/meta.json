@@ -3,11 +3,33 @@
   "created_at": 1787130270,
   "first_seen_at": "2026-08-20T09:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-20T09:00:00+08:00",
+  "last_seen_at": "2026-08-20T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%A9%BA%E6%9E%AA+%E8%8F%A0%E8%90%9D%E6%B2%B9%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "3家媒体",
+    "users": [
+      {
+        "id": 1652484947,
+        "idstr": "1652484947",
+        "screen_name": "新快报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1398613133,
+        "idstr": "1398613133",
+        "screen_name": "马上资讯",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "空枪 菠萝油",
   "search_url": "https://s.weibo.com/weibo?q=%23%E7%A9%BA%E6%9E%AA%20%E8%8F%A0%E8%90%9D%E6%B2%B9%23",
