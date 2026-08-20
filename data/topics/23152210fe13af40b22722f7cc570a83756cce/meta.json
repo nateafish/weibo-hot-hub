@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 6004281123
   },
-  "last_seen_at": "2026-08-20T21:00:00+08:00",
+  "last_seen_at": "2026-08-20T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%87%80%E5%88%A9%E6%B6%A650.4%E4%BA%BF%23%26t%3D3&title=发布媒体",
-    "show_str": "15家媒体",
+    "show_str": "23家媒体",
     "users": [
       {
         "id": 6004281123,
         "idstr": "6004281123",
         "screen_name": "梨视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7399555658,
+        "idstr": "7399555658",
+        "screen_name": "红星资本局",
         "verified": true,
         "verified_type": 3
       },
@@ -47,13 +54,6 @@
         "id": 5943595658,
         "idstr": "5943595658",
         "screen_name": "一手Video",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5994003317,
-        "idstr": "5994003317",
-        "screen_name": "老板联播",
         "verified": true,
         "verified_type": 3
       },

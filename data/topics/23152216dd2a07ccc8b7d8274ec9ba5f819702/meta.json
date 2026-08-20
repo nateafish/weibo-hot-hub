@@ -3,11 +3,32 @@
   "created_at": 1787223255,
   "first_seen_at": "2026-08-20T19:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-20T21:00:00+08:00",
+  "last_seen_at": "2026-08-20T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E5%AE%B6%E9%87%8C%E6%91%86%E6%BB%A1%E4%B8%AD%E5%9B%BD%E4%B8%9C%E8%A5%BF%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "9家媒体",
     "users": [
+      {
+        "id": 2824067765,
+        "idstr": "2824067765",
+        "screen_name": "贺州日报官微",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2617970297,
+        "idstr": "2617970297",
+        "screen_name": "湖南教育电视台",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2290787940,
+        "idstr": "2290787940",
+        "screen_name": "扬州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2041117703,
         "idstr": "2041117703",
@@ -16,9 +37,16 @@
         "verified_type": 3
       },
       {
-        "id": 2001789077,
-        "idstr": "2001789077",
-        "screen_name": "兵团日报",
+        "id": 1959444680,
+        "idstr": "1959444680",
+        "screen_name": "云南网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1819638285,
+        "idstr": "1819638285",
+        "screen_name": "扬州交通广播",
         "verified": true,
         "verified_type": 3
       },
@@ -26,13 +54,6 @@
         "id": 1727472420,
         "idstr": "1727472420",
         "screen_name": "泰山晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1700720163,
-        "idstr": "1700720163",
-        "screen_name": "钱江晚报",
         "verified": true,
         "verified_type": 3
       }
