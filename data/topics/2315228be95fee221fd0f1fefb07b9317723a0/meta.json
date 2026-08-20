@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 3266943013
   },
-  "last_seen_at": "2026-08-20T19:00:00+08:00",
+  "last_seen_at": "2026-08-20T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E4%B8%9A%E5%87%89%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "66家媒体",
+    "show_str": "75家媒体",
     "users": [
       {
         "id": 3266943013,
         "idstr": "3266943013",
         "screen_name": "央视网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1727472420,
+        "idstr": "1727472420",
+        "screen_name": "泰山晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -37,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 2118120483,
+        "idstr": "2118120483",
+        "screen_name": "青岛日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1497087080,
         "idstr": "1497087080",
         "screen_name": "羊城晚报",
@@ -47,20 +61,6 @@
         "id": 7360594450,
         "idstr": "7360594450",
         "screen_name": "海客新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7354234663,
-        "idstr": "7354234663",
-        "screen_name": "大湾区之声",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3275115274,
-        "idstr": "3275115274",
-        "screen_name": "中国吉林网",
         "verified": true,
         "verified_type": 3
       }

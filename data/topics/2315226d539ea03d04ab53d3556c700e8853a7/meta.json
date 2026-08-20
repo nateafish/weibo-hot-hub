@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 7467277921
   },
-  "last_seen_at": "2026-08-20T19:00:00+08:00",
+  "last_seen_at": "2026-08-20T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%B0%86%E4%BA%AE%E7%9B%B8%E6%9D%9C%E5%A1%9E%E5%B0%94%E5%A4%9A%E5%A4%AB%E5%8F%91%E5%B8%83%E4%BC%9A%23%26t%3D3&title=发布媒体",
-    "show_str": "21家媒体",
+    "show_str": "25家媒体",
     "users": [
       {
         "id": 7467277921,
         "idstr": "7467277921",
         "screen_name": "万维视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,9 +44,9 @@
         "verified_type": 3
       },
       {
-        "id": 1913382117,
-        "idstr": "1913382117",
-        "screen_name": "深圳晚报",
+        "id": 1677991972,
+        "idstr": "1677991972",
+        "screen_name": "晶报",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 7811609806,
         "idstr": "7811609806",
         "screen_name": "汽车观察所",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7811292935,
-        "idstr": "7811292935",
-        "screen_name": "简单财经",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7811036863,
-        "idstr": "7811036863",
-        "screen_name": "一品财经",
         "verified": true,
         "verified_type": 3
       }
