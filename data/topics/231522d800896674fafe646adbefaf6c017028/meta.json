@@ -3,10 +3,10 @@
   "created_at": 1787184268,
   "first_seen_at": "2026-08-20T09:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-20T11:00:00+08:00",
+  "last_seen_at": "2026-08-20T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%85%A8%E5%AD%A3%E9%85%92%E5%BA%97+%E5%86%8D%E8%BF%BD%E7%A9%B6%E5%AF%B9%E6%88%91%E4%BB%AC%E5%AF%B9%E4%BD%A0%E9%83%BD%E4%B8%8D%E5%A5%BD%23%26t%3D3&title=发布媒体",
-    "show_str": "38家媒体",
+    "show_str": "66家媒体",
     "users": [
       {
         "id": 1280846847,
@@ -44,16 +44,16 @@
         "verified_type": 3
       },
       {
+        "id": 7596770024,
+        "idstr": "7596770024",
+        "screen_name": "共鸣视讯",
+        "verified": true,
+        "verified_type": 2
+      },
+      {
         "id": 7575030448,
         "idstr": "7575030448",
         "screen_name": "白鹿视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6966062673,
-        "idstr": "6966062673",
-        "screen_name": "大河报邻妹妹",
         "verified": true,
         "verified_type": 3
       }
