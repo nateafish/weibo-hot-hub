@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 3266943013
   },
-  "last_seen_at": "2026-08-20T18:00:00+08:00",
+  "last_seen_at": "2026-08-20T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E4%B8%9A%E5%87%89%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "48家媒体",
+    "show_str": "66家媒体",
     "users": [
       {
         "id": 3266943013,
         "idstr": "3266943013",
         "screen_name": "央视网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3645266160,
+        "idstr": "3645266160",
+        "screen_name": "巴音郭楞融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497087080,
+        "idstr": "1497087080",
+        "screen_name": "羊城晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -40,27 +61,6 @@
         "id": 3275115274,
         "idstr": "3275115274",
         "screen_name": "中国吉林网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2685336121,
-        "idstr": "2685336121",
-        "screen_name": "南宁晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1751714412,
-        "idstr": "1751714412",
-        "screen_name": "大皖新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1403842922,
-        "idstr": "1403842922",
-        "screen_name": "琅琊新闻网",
         "verified": true,
         "verified_type": 3
       }
