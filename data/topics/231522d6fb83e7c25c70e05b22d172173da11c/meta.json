@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1734530730
   },
-  "last_seen_at": "2026-08-20T16:00:00+08:00",
+  "last_seen_at": "2026-08-20T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%9D%92%E5%B2%9B%E6%B6%89%E4%BA%8B%E5%A5%B3%E6%B8%B8%E5%AE%A2%E5%A4%9A%E6%AC%A1%E8%87%B4%E6%AD%89%E6%B1%82%E9%A5%B6%23%26t%3D3&title=发布媒体",
-    "show_str": "16家媒体",
+    "show_str": "32家媒体",
     "users": [
       {
         "id": 1734530730,
         "idstr": "1734530730",
         "screen_name": "大河报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1618051664,
+        "idstr": "1618051664",
+        "screen_name": "头条新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -37,30 +44,23 @@
         "verified_type": 3
       },
       {
+        "id": 6590980486,
+        "idstr": "6590980486",
+        "screen_name": "捉谣记",
+        "verified": true,
+        "verified_type": 7
+      },
+      {
+        "id": 6092578444,
+        "idstr": "6092578444",
+        "screen_name": "新浪种草官",
+        "verified": true,
+        "verified_type": 7
+      },
+      {
         "id": 3338499784,
         "idstr": "3338499784",
         "screen_name": "大河3C",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2696533861,
-        "idstr": "2696533861",
-        "screen_name": "大河报洛阳新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1883696170,
-        "idstr": "1883696170",
-        "screen_name": "大河报商丘站",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1702883112,
-        "idstr": "1702883112",
-        "screen_name": "顶端新闻",
         "verified": true,
         "verified_type": 3
       }
