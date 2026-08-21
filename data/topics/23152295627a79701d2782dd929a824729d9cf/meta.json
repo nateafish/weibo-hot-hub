@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 5291824241
   },
-  "last_seen_at": "2026-08-21T19:00:00+08:00",
+  "last_seen_at": "2026-08-21T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%AD%E9%A4%90%E5%8E%85%E7%BB%99%E5%BC%A0%E9%9B%85%E7%90%AA%E9%85%8D%E4%BA%86%E6%97%B6%E9%92%9F%E5%90%8E%E6%9C%9F%23%26t%3D3&title=发布媒体",
-    "show_str": "34家媒体",
+    "show_str": "35家媒体",
     "users": [
       {
         "id": 1288429914,
@@ -44,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1912416573,
         "idstr": "1912416573",
         "screen_name": "河南手机报",
@@ -51,16 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1677991972,
-        "idstr": "1677991972",
-        "screen_name": "晶报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2346437860,
-        "idstr": "2346437860",
-        "screen_name": "三峡融媒",
+        "id": 2115259662,
+        "idstr": "2115259662",
+        "screen_name": "洪观新闻",
         "verified": true,
         "verified_type": 3
       }

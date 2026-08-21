@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 2318910945
   },
-  "last_seen_at": "2026-08-21T19:00:00+08:00",
+  "last_seen_at": "2026-08-21T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A5%B3%E5%AD%90%E6%B8%B8%E6%B3%B3%E9%A6%86%E5%86%85%E5%81%B7%E6%8B%8D%E4%BB%96%E4%BA%BA%E6%B4%97%E6%BE%A1%E5%8F%91%E7%BB%99%E4%B8%88%E5%A4%AB%23%26t%3D3&title=发布媒体",
-    "show_str": "28家媒体",
+    "show_str": "36家媒体",
     "users": [
       {
         "id": 2318910945,
         "idstr": "2318910945",
         "screen_name": "新浪热点",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2622056220,
+        "idstr": "2622056220",
+        "screen_name": "新闻大连",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1789681642,
+        "idstr": "1789681642",
+        "screen_name": "第一现场",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +44,23 @@
         "verified_type": 3
       },
       {
+        "id": 2230913455,
+        "idstr": "2230913455",
+        "screen_name": "搜狐视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1738004582,
+        "idstr": "1738004582",
+        "screen_name": "纵览新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6207911580,
         "idstr": "6207911580",
         "screen_name": "大河报豫视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6966062673,
-        "idstr": "6966062673",
-        "screen_name": "大河报邻妹妹",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6590980486,
-        "idstr": "6590980486",
-        "screen_name": "捉谣记",
-        "verified": true,
-        "verified_type": 7
-      },
-      {
-        "id": 6092578444,
-        "idstr": "6092578444",
-        "screen_name": "新浪种草官",
-        "verified": true,
-        "verified_type": 7
-      },
-      {
-        "id": 3901624042,
-        "idstr": "3901624042",
-        "screen_name": "山西日报",
         "verified": true,
         "verified_type": 3
       }
