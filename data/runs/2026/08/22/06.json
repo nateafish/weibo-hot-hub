@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-08-22T06:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#绿我涓滴会它千顷澄碧#",
+      "rank": 1,
+      "title": "绿我涓滴会它千顷澄碧",
+      "topic_id": "2315224024df44a5338f5a3d32edde2a61ef8b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#官方通报旅客买票占座放零食事件#",
+      "rank": 1,
+      "title": "官方通报旅客买票占座放零食事件",
+      "topic_id": "2315225060ce65b619271de852c2a8cfed7ae2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "世界杯决赛禁赛处罚出炉",
+      "rank": 2,
+      "title": "世界杯决赛禁赛处罚出炉",
+      "topic_id": "231522f709f80a27d4da04a61f8f9d9fdabc0e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#多元消费场景激发经济澎湃活力#",
+      "rank": 3,
+      "title": "多元消费场景激发经济澎湃活力",
+      "topic_id": "231522dfecc0d754a4efd87a7661e45b590e22"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "张丹丹 灵活就业本身就是一种福利",
+      "rank": 4,
+      "title": "张丹丹 灵活就业本身就是一种福利",
+      "topic_id": "231522a877cd29ba26e798d98eda66ab495c46"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#购票后未上车视为放弃席位使用权#",
+      "rank": 5,
+      "title": "购票后未上车视为放弃席位使用权",
+      "topic_id": "23152260ba0c8cc281568fe507b99e1010b8c1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张雅琪路人缘#",
+      "rank": 6,
+      "title": "张雅琪路人缘",
+      "topic_id": "231522175dcbdde66b509a62054721a5251b3a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#张彬彬曹骏李光洁吃了演员身份的亏#",
+      "rank": 7,
+      "title": "张彬彬曹骏李光洁吃了演员身份的亏",
+      "topic_id": "23152221feaa9f02c0e60838997a28344df908"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "第一次当妈妈的真实感受",
+      "rank": 8,
+      "title": "第一次当妈妈的真实感受",
+      "topic_id": "23152286baba8700ee8eb11451fa49edc09f5f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#警方通报男子KTV厕所殴打女子#",
+      "rank": 9,
+      "title": "警方通报男子KTV厕所殴打女子",
+      "topic_id": "2315224e9a312473c3e4ae7a9bbc82aa5977a0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#未检票上车第三方不能处置该席位#",
+      "rank": 10,
+      "title": "未检票上车第三方不能处置该席位",
+      "topic_id": "2315225a28a3abcc317b1836eb23892f9151e3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "河北老人养老金月领212元",
+      "rank": 11,
+      "title": "河北老人养老金月领212元",
+      "topic_id": "231522849df3f0b2e863457378f72e3fed5f4e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#丈夫拍妻子出轨却因妨害隐私获刑#",
+      "rank": 12,
+      "title": "丈夫拍妻子出轨却因妨害隐私获刑",
+      "topic_id": "231522ff52133ccc347cd6916a86d162a1ce1c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "青岛顺风车司机接单后威胁乘客加价",
+      "rank": 13,
+      "title": "青岛顺风车司机接单后威胁乘客加价",
+      "topic_id": "2315229afa3755e1e0e35ebba183e2ebe1ce6d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#开台灯遭邻居投诉影响孩子学习#",
+      "rank": 14,
+      "title": "开台灯遭邻居投诉影响孩子学习",
+      "topic_id": "231522598128ced25350f5a9227fdfa6e87b36"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "欢子 摆烂",
+      "rank": 15,
+      "title": "欢子 摆烂",
+      "topic_id": "23152223ac5efa058bacaf102110d69baf1005"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#小沈阳摔了#",
+      "rank": 16,
+      "title": "小沈阳摔了",
+      "topic_id": "231522edf6776a8875c8ad831760e9a97e0f88"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "门把手缺陷引发最大规模召回",
+      "rank": 17,
+      "title": "门把手缺陷引发最大规模召回",
+      "topic_id": "2315224da3055cce5a144b34287517f4a6f571"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#针灸师借身体检测占女护士便宜#",
+      "rank": 18,
+      "title": "针灸师借身体检测占女护士便宜",
+      "topic_id": "2315226d74289f5e886bac8a069d29a21db4d3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#沈梦辰喊了曾辉三次曾总#",
+      "rank": 19,
+      "title": "沈梦辰喊了曾辉三次曾总",
+      "topic_id": "231522c135b54e75690a4cc8d877bccd3e8601"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#阿根廷中场禁赛10场#",
+      "rank": 20,
+      "title": "阿根廷中场禁赛10场",
+      "topic_id": "2315227125cccb6ca947ea2547908c806e355b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "人绞尽脑汁不如命运随手一挥",
+      "rank": 21,
+      "title": "人绞尽脑汁不如命运随手一挥",
+      "topic_id": "23152200b870b06fe64e92eb178bc28e891297"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#女子暗恋8年终等来回应#",
+      "rank": 22,
+      "title": "女子暗恋8年终等来回应",
+      "topic_id": "2315223a794e1664c0c4c605d22d6453145a07"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "徐涛 读研贬值的只是静态价值",
+      "rank": 23,
+      "title": "徐涛 读研贬值的只是静态价值",
+      "topic_id": "2315223e93f01a878afc4bfb9e8be219ba010c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#妻子偷拍女子洗澡丈夫负责点评#",
+      "rank": 24,
+      "title": "妻子偷拍女子洗澡丈夫负责点评",
+      "topic_id": "2315220b1cd0f6758979d3a9f2bcf1888fdd46"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#成年人的世界存款才是最大的体面#",
+      "rank": 25,
+      "title": "成年人的世界存款才是最大的体面",
+      "topic_id": "231522f811210e2e711f693f1d4834670d9869"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#多家车企启动召回#",
+      "rank": 26,
+      "title": "多家车企启动召回",
+      "topic_id": "2315224d6040b412eea68ae9703f25c5bffd81"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "这就是伯牙子期",
+      "rank": 27,
+      "title": "这就是伯牙子期",
+      "topic_id": "23152220aca1ba56cdccf0dbe68859ac44859d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#LV将彻底退出贵州市场#",
+      "rank": 28,
+      "title": "LV将彻底退出贵州市场",
+      "topic_id": "23152220412d241bfa6e607941230d23b60ac1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "披荆斩棘一公分数",
+      "rank": 29,
+      "title": "披荆斩棘一公分数",
+      "topic_id": "231522e48c470759b6404da94f6c52f0d44d4b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#成都铁路局回应#",
+      "rank": 30,
+      "title": "成都铁路局回应",
+      "topic_id": "231522599f4f214ed1dd1435cd2bcd949561d8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 5,
+      "posts": "saved",
+      "query": "外国网友怀疑中国农村是AI",
+      "rank": 31,
+      "title": "外国网友怀疑中国农村是AI",
+      "topic_id": "231522f13fa55a0ba31679c870a980406953b7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#舟山爱吃蟹和烧烤的都沉默了#",
+      "rank": 32,
+      "title": "舟山爱吃蟹和烧烤的都沉默了",
+      "topic_id": "231522224a8bbdd0a919957b1dacd82df02dfb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#梵克雅宝回应女子55元捡漏项链#",
+      "rank": 33,
+      "title": "梵克雅宝回应女子55元捡漏项链",
+      "topic_id": "2315221c4037a1d08abe6f13a5d398f3b9f413"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#高校开学季#",
+      "rank": 34,
+      "title": "高校开学季",
+      "topic_id": "2315228aac67e895bcd67577ea18f8499e93d7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#鸭货为何不好卖了#",
+      "rank": 35,
+      "title": "鸭货为何不好卖了",
+      "topic_id": "231522b61c665e31308f73a23b4fe8ad0a7251"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#王者海月朵莉亚造型设计#",
+      "rank": 36,
+      "title": "王者海月朵莉亚造型设计",
+      "topic_id": "2315229fc66732114cea4b7bde606c147d859a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "为什么建议定期更换水杯",
+      "rank": 37,
+      "title": "为什么建议定期更换水杯",
+      "topic_id": "2315228cf23f89b83a6a2c128c1a2f0ff3ef24"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#第一批用上微信按住转文字的人发声#",
+      "rank": 38,
+      "title": "第一批用上微信按住转文字的人发声",
+      "topic_id": "231522d7b34b7a1eb3def012c3d4395e202fab"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#母亲被撞溺亡搜救七天花光所有积蓄#",
+      "rank": 39,
+      "title": "母亲被撞溺亡搜救七天花光所有积蓄",
+      "topic_id": "2315220108a165ee1dd9aa9c55906ad327566b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#猫咪等吹空调主人一来晚就骂骂咧咧#",
+      "rank": 40,
+      "title": "猫咪等吹空调主人一来晚就骂骂咧咧",
+      "topic_id": "23152288d86aaa68c55043c88eb3ce690591cb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#汪苏泷本人知道这件事情吗#",
+      "rank": 41,
+      "title": "汪苏泷本人知道这件事情吗",
+      "topic_id": "231522cf2d492d1fef703d9b1df40573f84309"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#艾热感觉被曾辉diss了#",
+      "rank": 42,
+      "title": "艾热感觉被曾辉diss了",
+      "topic_id": "231522952d47042718322d54c96adea9cc8fc2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#金价涨嗨了#",
+      "rank": 43,
+      "title": "金价涨嗨了",
+      "topic_id": "2315220dafd9a27d9dbe03e15d70118f8b82af"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "泰国猫咬警察被宣布为前科者",
+      "rank": 44,
+      "title": "泰国猫咬警察被宣布为前科者",
+      "topic_id": "231522753d5fd3789171e44ec0955618b4a25d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#辛纳退出美网#",
+      "rank": 45,
+      "title": "辛纳退出美网",
+      "topic_id": "231522b8b8fee0d664c0bbb718c76932b7aa1a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#升学宴不是5死17伤的原罪#",
+      "rank": 46,
+      "title": "升学宴不是5死17伤的原罪",
+      "topic_id": "23152272ef9d6479fb1578cdeb419a199962de"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张睿主持能力#",
+      "rank": 47,
+      "title": "张睿主持能力",
+      "topic_id": "231522f6e1777117c40912f40b994ef00c1605"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#边牧知道自己正在在扮演一只蜗牛#",
+      "rank": 48,
+      "title": "边牧知道自己正在在扮演一只蜗牛",
+      "topic_id": "2315224c57c53984102724f8c53166dde3ffad"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "我理想中的工作belike",
+      "rank": 49,
+      "title": "我理想中的工作belike",
+      "topic_id": "231522babcfd192959beda2933d5d6eb459df2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "微信聊天框 难看",
+      "rank": 50,
+      "title": "微信聊天框 难看",
+      "topic_id": "231522cdce8f53d278fa18969adc107bac050b"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
