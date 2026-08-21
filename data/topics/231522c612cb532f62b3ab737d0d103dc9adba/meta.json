@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2028810631
   },
-  "last_seen_at": "2026-08-21T16:00:00+08:00",
+  "last_seen_at": "2026-08-21T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%A1%A3%E6%9C%8D%E9%98%B4%E5%B9%B2%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E8%87%AD%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "9家媒体",
     "users": [
       {
         "id": 2028810631,
         "idstr": "2028810631",
         "screen_name": "新浪新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1411163204,
+        "idstr": "1411163204",
+        "screen_name": "人民日报健康客户端",
         "verified": true,
         "verified_type": 3
       },
@@ -30,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 6900707866,
+        "idstr": "6900707866",
+        "screen_name": "宜黄之窗",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 5426766895,
         "idstr": "5426766895",
         "screen_name": "青州广电",
@@ -37,16 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 3048800300,
-        "idstr": "3048800300",
-        "screen_name": "新浪圈子",
+        "id": 5041831432,
+        "idstr": "5041831432",
+        "screen_name": "牟平融媒",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2291471981,
-        "idstr": "2291471981",
-        "screen_name": "济宁新闻网",
+        "id": 3048800300,
+        "idstr": "3048800300",
+        "screen_name": "新浪圈子",
         "verified": true,
         "verified_type": 3
       }

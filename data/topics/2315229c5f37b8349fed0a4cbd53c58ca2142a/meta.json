@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2855643032
   },
-  "last_seen_at": "2026-08-21T16:00:00+08:00",
+  "last_seen_at": "2026-08-21T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%2345%E5%B2%81%E7%9A%84%E9%99%88%E5%86%A0%E5%B8%8C48%E5%B2%81%E7%9A%84%E9%BB%84%E6%99%93%E6%98%8E%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "5家媒体",
     "users": [
       {
         "id": 2992050891,
         "idstr": "2992050891",
         "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2647971081,
+        "idstr": "2647971081",
+        "screen_name": "时速新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -33,6 +40,13 @@
         "id": 1899227237,
         "idstr": "1899227237",
         "screen_name": "青岛早报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1403842922,
+        "idstr": "1403842922",
+        "screen_name": "琅琊新闻网",
         "verified": true,
         "verified_type": 3
       }

@@ -1,0 +1,213 @@
+{
+  "captured_at": "2026-08-21T17:00:00+08:00",
+  "contributors": [
+    {
+      "contribution": 14,
+      "profile_url": "https://weibo.com/u/2028810631",
+      "rank": 1,
+      "uid": "2028810631",
+      "username": "新浪新闻",
+      "verified": true,
+      "verified_type": 3
+    },
+    {
+      "contribution": 10,
+      "profile_url": "https://weibo.com/u/5681478953",
+      "rank": 2,
+      "uid": "5681478953",
+      "username": "明日头条",
+      "verified": true,
+      "verified_type": 3
+    },
+    {
+      "contribution": 10,
+      "profile_url": "https://weibo.com/u/2560432091",
+      "rank": 3,
+      "uid": "2560432091",
+      "username": "财经评论",
+      "verified": true,
+      "verified_type": 7
+    },
+    {
+      "contribution": 10,
+      "profile_url": "https://weibo.com/u/2106558073",
+      "rank": 4,
+      "uid": "2106558073",
+      "username": "河南消防",
+      "verified": true,
+      "verified_type": 1
+    },
+    {
+      "contribution": 10,
+      "profile_url": "https://weibo.com/u/2060029603",
+      "rank": 5,
+      "uid": "2060029603",
+      "username": "小浪同学敲黑板",
+      "verified": false,
+      "verified_type": -1
+    },
+    {
+      "contribution": 10,
+      "profile_url": "https://weibo.com/u/1988518703",
+      "rank": 6,
+      "uid": "1988518703",
+      "username": "冲浪新知",
+      "verified": true,
+      "verified_type": 7
+    },
+    {
+      "contribution": 10,
+      "profile_url": "https://weibo.com/u/1972541785",
+      "rank": 7,
+      "uid": "1972541785",
+      "username": "知食研究院",
+      "verified": false,
+      "verified_type": -1
+    },
+    {
+      "contribution": 10,
+      "profile_url": "https://weibo.com/u/1778758223",
+      "rank": 8,
+      "uid": "1778758223",
+      "username": "新浪看点",
+      "verified": true,
+      "verified_type": 7
+    },
+    {
+      "contribution": 10,
+      "profile_url": "https://weibo.com/u/1714462833",
+      "rank": 9,
+      "uid": "1714462833",
+      "username": "新知实验室lab",
+      "verified": true,
+      "verified_type": 0
+    },
+    {
+      "contribution": 10,
+      "profile_url": "https://weibo.com/u/1712686623",
+      "rank": 10,
+      "uid": "1712686623",
+      "username": "手机上的新浪",
+      "verified": true,
+      "verified_type": 3
+    }
+  ],
+  "contributors_scheme": "sinaweibo://cardlist?containerid=231522type%3D103%26q%3D%23%E8%A1%A3%E6%9C%8D%E9%98%B4%E5%B9%B2%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E8%87%AD%23&title=话题贡献者排行",
+  "current_boards": {
+    "hot_band": {
+      "ori": {
+        "category": "科学科普",
+        "is_boom": 0,
+        "num": 166077,
+        "onband": 1,
+        "onboard_time": 1787300961,
+        "pos": 42,
+        "subject_querys": [],
+        "transparency_tag": null
+      },
+      "scheme": "sinaweibo://pageinfo?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Drealtimehot&title=热搜榜&extparam=",
+      "sub_info": [],
+      "text": "热搜榜第42位"
+    },
+    "hot_band_24_hour": {
+      "ori": {
+        "on_band": 1
+      }
+    }
+  },
+  "exact_counts": {
+    "buy_num": 0,
+    "g_mention": 488,
+    "gone_num": 0,
+    "interact": 2889,
+    "mention": 488,
+    "ori_m": 139,
+    "ori_uv": 126,
+    "r_valid": 8047607,
+    "read": 8647894,
+    "rec_num": 0,
+    "show": 0,
+    "star": 2,
+    "t_m_num": 273,
+    "t_r_num": 8668308,
+    "wants_num": 0
+  },
+  "heat": 2,
+  "overview": {
+    "24h": {
+      "interaction": {
+        "unit": "",
+        "val": 2889
+      },
+      "mention": {
+        "unit": "",
+        "val": 488
+      },
+      "original": {
+        "unit": "",
+        "val": 139
+      },
+      "read": {
+        "unit": "万",
+        "val": 864
+      }
+    },
+    "30d": {
+      "interaction": {
+        "unit": "",
+        "val": 2889
+      },
+      "mention": {
+        "unit": "",
+        "val": 488
+      },
+      "original": {
+        "unit": "",
+        "val": 139
+      },
+      "read": {
+        "unit": "万",
+        "val": 864
+      }
+    },
+    "all": {
+      "interaction": {
+        "unit": "",
+        "val": 2889
+      },
+      "mention": {
+        "unit": "",
+        "val": 488
+      },
+      "original": {
+        "unit": "",
+        "val": 139
+      },
+      "read": {
+        "unit": "万",
+        "val": 864.8
+      }
+    }
+  },
+  "rank_history": [
+    {
+      "cate": "hot_board",
+      "cate_desc": "热搜榜",
+      "duration_hour": 0,
+      "duration_minute": 50,
+      "duration_mod_min": 50,
+      "off_board_time": "202608211718",
+      "on_board_time": "202608211629",
+      "top_pos": 37,
+      "topic_flag": 1
+    }
+  ],
+  "title": "衣服阴干为什么会臭",
+  "topic_id": "231522c612cb532f62b3ab737d0d103dc9adba",
+  "window_counts": {
+    "1h_mention": 157,
+    "1h_ori_m": 41,
+    "24h_mention": 488,
+    "24h_read": 8640233
+  }
+}
