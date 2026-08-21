@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1738004582
   },
-  "last_seen_at": "2026-08-21T20:00:00+08:00",
+  "last_seen_at": "2026-08-21T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%BD%B1%E9%99%A2%E5%8D%88%E7%9D%A12.5%E5%B0%8F%E6%97%B6%E4%BB%851%E5%85%83%E5%A4%9A%23%26t%3D3&title=发布媒体",
-    "show_str": "65家媒体",
+    "show_str": "75家媒体",
     "users": [
       {
         "id": 1738004582,
@@ -26,6 +26,13 @@
         "id": 5890672121,
         "idstr": "5890672121",
         "screen_name": "搜狐新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -47,13 +54,6 @@
         "id": 1789681642,
         "idstr": "1789681642",
         "screen_name": "第一现场",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1751714412,
-        "idstr": "1751714412",
-        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       },
