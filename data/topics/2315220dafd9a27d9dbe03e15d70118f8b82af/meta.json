@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 7399555658
   },
-  "last_seen_at": "2026-08-21T22:00:00+08:00",
+  "last_seen_at": "2026-08-21T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%87%91%E4%BB%B7%E6%B6%A8%E5%97%A8%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "16家媒体",
+    "show_str": "17家媒体",
     "users": [
+      {
+        "id": 1943154142,
+        "idstr": "1943154142",
+        "screen_name": "中安在线",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 7577335075,
         "idstr": "7577335075",
@@ -51,16 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2118120483,
-        "idstr": "2118120483",
-        "screen_name": "青岛日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2115259662,
-        "idstr": "2115259662",
-        "screen_name": "洪观新闻",
+        "id": 2291471981,
+        "idstr": "2291471981",
+        "screen_name": "济宁新闻网",
         "verified": true,
         "verified_type": 3
       }

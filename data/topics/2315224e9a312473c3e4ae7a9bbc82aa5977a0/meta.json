@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2028810631
   },
-  "last_seen_at": "2026-08-21T22:00:00+08:00",
+  "last_seen_at": "2026-08-21T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90KTV%E5%8E%95%E6%89%80%E6%AE%B4%E6%89%93%E5%A5%B3%E5%AD%90%23%26t%3D3&title=发布媒体",
-    "show_str": "21家媒体",
+    "show_str": "25家媒体",
     "users": [
       {
         "id": 2028810631,
@@ -37,6 +37,20 @@
         "verified_type": 3
       },
       {
+        "id": 1887344341,
+        "idstr": "1887344341",
+        "screen_name": "观察者网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6966062673,
         "idstr": "6966062673",
         "screen_name": "大河报邻妹妹",
@@ -47,20 +61,6 @@
         "id": 6418480627,
         "idstr": "6418480627",
         "screen_name": "星视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6207911580,
-        "idstr": "6207911580",
-        "screen_name": "大河报豫视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6115560351,
-        "idstr": "6115560351",
-        "screen_name": "国是直通车",
         "verified": true,
         "verified_type": 3
       }
