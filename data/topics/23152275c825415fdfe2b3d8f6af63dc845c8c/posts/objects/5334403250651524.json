@@ -1,0 +1,8 @@
+{
+  "body": "#DeepSeekV4视觉模型上线#\nDeepSeek上新！DeepSeek-V4-Flash-Vision-Exp 发布，相比于DeepSeek-V4-Flash增加了视觉理解能力。该模型多模态 Agent 能力已接近 Opus-4.8~\n“今天，全新的多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp 上线 DeepSeek API 平台，这是一个实验性质的模型，用户可以通过设置 model='deepseek-v4-flash-vision-exp' 访问该模型。\nTerminal Bench 2.1: 83.9\nNL2Repo: 57.7\nDeepSWE: 59.3\nDSBench-Hard: 63.6\nAutomationBench (Public): 25.7\nApexBench (Pass1): 36.5\nAgents' Last Exam: 27.3\nChartography: 64.3 (p0.95); 63.3 (p1.0)\nZeroBench (Pass5): 35.0\n* 对于公开基准测试集中的 Code Agent 文本任务，DeepSeek 系列模型使用 DeepSeek Harness 极简模式作为框架进行测试，并使用 max 档位，topp=0.95，temperature=1.0；在 ApexBench 与 Agents' Last Exam 测评中，文本模型 DeepSeek-V4-Flash 会忽略其中的多模态元素\n在纯文本能力（Agent、推理、世界知识等）方面，DeepSeek-V4-Flash-Vision-Exp 与 DeepSeek-V4-Flash 正式版持平。\n在需要视觉理解的 Agent Benchmark 上，DeepSeek-V4-Flash-Vision-Exp 相比 DeepSeek-V4-Flash 实现了大幅跃升，多模态 Agent 能力已接近 Opus-4.8。\n”",
+  "created_at_text": "Fri Aug 21 17:25:06 +0800 2026",
+  "mid": "5334403250651524",
+  "uid": "2194035935",
+  "url": "https://m.weibo.cn/detail/5334403250651524",
+  "username": "蚁工厂"
+}

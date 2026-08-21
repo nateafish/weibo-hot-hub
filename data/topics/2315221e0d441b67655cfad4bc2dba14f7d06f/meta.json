@@ -10,15 +10,43 @@
     "status": 2,
     "uid": 3234661152
   },
-  "last_seen_at": "2026-08-21T17:00:00+08:00",
+  "last_seen_at": "2026-08-21T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8E%9F%E6%9D%A5%E7%88%B1%E7%9C%9F%E7%9A%84%E5%8F%AF%E4%BB%A5%E7%BB%86%E8%85%BB%E6%88%90%E8%BF%99%E6%A0%B7%23%26t%3D3&title=发布媒体",
-    "show_str": "8家媒体",
+    "show_str": "17家媒体",
     "users": [
+      {
+        "id": 1959444680,
+        "idstr": "1959444680",
+        "screen_name": "云南网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3645266160,
+        "idstr": "3645266160",
+        "screen_name": "巴音郭楞融媒",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 3288875501,
         "idstr": "3288875501",
         "screen_name": "河南日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2789752472,
+        "idstr": "2789752472",
+        "screen_name": "新时代遇见好书",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2659523842,
+        "idstr": "2659523842",
+        "screen_name": "黔东南新闻网官方微博",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2337985010,
-        "idstr": "2337985010",
-        "screen_name": "瑞安融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2115259662,
-        "idstr": "2115259662",
-        "screen_name": "洪观新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2041117703,
-        "idstr": "2041117703",
-        "screen_name": "合肥日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1912416573,
-        "idstr": "1912416573",
-        "screen_name": "河南手机报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1828887503,
-        "idstr": "1828887503",
-        "screen_name": "大河网",
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
         "verified": true,
         "verified_type": 3
       }
