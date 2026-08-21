@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 2159714367
   },
-  "last_seen_at": "2026-08-21T18:00:00+08:00",
+  "last_seen_at": "2026-08-21T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%81%E7%A6%B9%E5%85%AE%E6%9F%AF%E6%B7%B3%E6%96%B0%E5%89%A7%E7%8A%B6%E6%80%81%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "8家媒体",
     "users": [
+      {
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2647971081,
         "idstr": "2647971081",
@@ -30,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 1899227237,
+        "idstr": "1899227237",
+        "screen_name": "青岛早报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1846116411,
         "idstr": "1846116411",
         "screen_name": "国际在线文娱",
@@ -40,6 +54,13 @@
         "id": 1723216063,
         "idstr": "1723216063",
         "screen_name": "佛山新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1652484947,
+        "idstr": "1652484947",
+        "screen_name": "新快报",
         "verified": true,
         "verified_type": 3
       }
