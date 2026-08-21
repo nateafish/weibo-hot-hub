@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2656274875
   },
-  "last_seen_at": "2026-08-21T23:00:00+08:00",
+  "last_seen_at": "2026-08-22T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%B4%E6%B2%82%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%851%E6%AD%BB2%E5%A4%B1%E8%81%94%23%26t%3D3&title=发布媒体",
-    "show_str": "36家媒体",
+    "show_str": "52家媒体",
     "users": [
       {
         "id": 2656274875,
@@ -26,6 +26,13 @@
         "id": 1686546714,
         "idstr": "1686546714",
         "screen_name": "环球网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1651428902,
+        "idstr": "1651428902",
+        "screen_name": "21世纪经济报道",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 1280846847,
-        "idstr": "1280846847",
-        "screen_name": "指尖新闻-沈阳晚报",
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 7516679696,
-        "idstr": "7516679696",
-        "screen_name": "九派新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7200280790,
-        "idstr": "7200280790",
-        "screen_name": "正观特稿",
+        "id": 1267454277,
+        "idstr": "1267454277",
+        "screen_name": "凤凰周刊",
         "verified": true,
         "verified_type": 3
       }

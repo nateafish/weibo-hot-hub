@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1642634100
   },
-  "last_seen_at": "2026-08-21T23:00:00+08:00",
+  "last_seen_at": "2026-08-22T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A4%9A%E5%AE%B6%E8%BD%A6%E4%BC%81%E5%90%AF%E5%8A%A8%E5%8F%AC%E5%9B%9E%23%26t%3D3&title=发布媒体",
-    "show_str": "18家媒体",
+    "show_str": "20家媒体",
     "users": [
       {
         "id": 1642634100,
@@ -26,6 +26,13 @@
         "id": 6976871937,
         "idstr": "6976871937",
         "screen_name": "新浪5G",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1987235622,
+        "idstr": "1987235622",
+        "screen_name": "丹阳日报",
         "verified": true,
         "verified_type": 3
       },
@@ -54,13 +61,6 @@
         "id": 6365990425,
         "idstr": "6365990425",
         "screen_name": "大河财立方",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2660807713,
-        "idstr": "2660807713",
-        "screen_name": "财经新媒体",
         "verified": true,
         "verified_type": 3
       }
