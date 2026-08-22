@@ -3,15 +3,22 @@
   "created_at": 1661006099,
   "first_seen_at": "2026-08-22T23:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-23T06:00:00+08:00",
+  "last_seen_at": "2026-08-23T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%B7%98%E6%B1%B0%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "8家媒体",
     "users": [
       {
         "id": 2081474535,
         "idstr": "2081474535",
         "screen_name": "天津交通广播",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7708039348,
+        "idstr": "7708039348",
+        "screen_name": "北青娱见",
         "verified": true,
         "verified_type": 3
       },
@@ -26,6 +33,20 @@
         "id": 2356298087,
         "idstr": "2356298087",
         "screen_name": "河北经视",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2075245652,
+        "idstr": "2075245652",
+        "screen_name": "长春晚报",
         "verified": true,
         "verified_type": 3
       },
