@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-08-22T11:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#绿我涓滴会它千顷澄碧#",
+      "rank": 1,
+      "title": "绿我涓滴会它千顷澄碧",
+      "topic_id": "2315224024df44a5338f5a3d32edde2a61ef8b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "外国网友怀疑中国农村是AI",
+      "rank": 1,
+      "title": "外国网友怀疑中国农村是AI",
+      "topic_id": "231522f13fa55a0ba31679c870a980406953b7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女星穿香奈儿无底鞋脚掌变黑#",
+      "rank": 2,
+      "title": "女星穿香奈儿无底鞋脚掌变黑",
+      "topic_id": "231522fca7e97f7d8f04ac3c87fc370c41827e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#多元消费场景激发经济澎湃活力#",
+      "rank": 3,
+      "title": "多元消费场景激发经济澎湃活力",
+      "topic_id": "231522dfecc0d754a4efd87a7661e45b590e22"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "无法对小时候的杯子祛魅",
+      "rank": 4,
+      "title": "无法对小时候的杯子祛魅",
+      "topic_id": "23152263934e9c0bbe1862ab5acbdf2dc0ced8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "临沂爆炸涉非法储存炸药",
+      "rank": 5,
+      "title": "临沂爆炸涉非法储存炸药",
+      "topic_id": "231522615b6b4d26246b296241cd86954622f2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "欢子 退赛",
+      "rank": 6,
+      "title": "欢子 退赛",
+      "topic_id": "2315221c8bf358a7e7f0561a9ad984888284fc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#全球首例为蟒蛇实施人类癌症疗法#",
+      "rank": 7,
+      "title": "全球首例为蟒蛇实施人类癌症疗法",
+      "topic_id": "231522d79a3f9986b27a3adc3c23517bb6a282"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#丈夫拍妻子出轨却因妨害隐私获刑#",
+      "rank": 8,
+      "title": "丈夫拍妻子出轨却因妨害隐私获刑",
+      "topic_id": "231522ff52133ccc347cd6916a86d162a1ce1c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#鸭货为何不好卖了#",
+      "rank": 9,
+      "title": "鸭货为何不好卖了",
+      "topic_id": "231522b61c665e31308f73a23b4fe8ad0a7251"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "浮生杀青",
+      "rank": 10,
+      "title": "浮生杀青",
+      "topic_id": "2315227276147840581d724c876a8cbf9dc44e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#曾辉手机壳是跟韩雨彤的合照#",
+      "rank": 11,
+      "title": "曾辉手机壳是跟韩雨彤的合照",
+      "topic_id": "2315225f47283b676c8f286a84bdda29403ef3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#大妈骑车戴三级头震惊辅警#",
+      "rank": 12,
+      "title": "大妈骑车戴三级头震惊辅警",
+      "topic_id": "23152219903e4d00719f7973289437bd1b3411"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#陈柏霖当庭认罪#",
+      "rank": 13,
+      "title": "陈柏霖当庭认罪",
+      "topic_id": "2315227bd9d90c8b36ba64afb1af549a4e0679"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#董璇让粉丝不要总是给小酒窝买盲盒了#",
+      "rank": 14,
+      "title": "董璇让粉丝不要总是给小酒窝买盲盒了",
+      "topic_id": "231522b079d7d2b0da361eebd8d816791aa030"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#克莱加盟热火原因#",
+      "rank": 15,
+      "title": "克莱加盟热火原因",
+      "topic_id": "23152226a55caa254f795f31f0c235239ce7aa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "张俪辞退修图师反转",
+      "rank": 16,
+      "title": "张俪辞退修图师反转",
+      "topic_id": "2315228d09b02f19a55ad2d2ccfcd782c32282"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "黑灯 弹壳",
+      "rank": 17,
+      "title": "黑灯 弹壳",
+      "topic_id": "231522089036bb484b683d3082eb3b545a4abb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#官方通报旅客买票占座放零食事件#",
+      "rank": 18,
+      "title": "官方通报旅客买票占座放零食事件",
+      "topic_id": "2315225060ce65b619271de852c2a8cfed7ae2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#诱导榜一大哥打赏2500万主播被控诈骗#",
+      "rank": 19,
+      "title": "诱导榜一大哥打赏2500万主播被控诈骗",
+      "topic_id": "231522deced8835a3fa1820270df256453024d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#94岁老战士穿外骨骼感觉年轻了#",
+      "rank": 20,
+      "title": "94岁老战士穿外骨骼感觉年轻了",
+      "topic_id": "231522b77967640b3c2ddea370ca89bab69e28"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女生暗恋被拒5年收到一箱青春档案#",
+      "rank": 21,
+      "title": "女生暗恋被拒5年收到一箱青春档案",
+      "topic_id": "23152296cde4772b6afc7d5589c82a0581b555"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "浮生",
+      "rank": 22,
+      "title": "浮生",
+      "topic_id": "2315221489c9a598876f1fcdbe8d803048c525"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#曾辉口碑#",
+      "rank": 23,
+      "title": "曾辉口碑",
+      "topic_id": "2315229833fa641ca42fc902582d07f75c062e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#诱导粉丝打赏2500万女主播父亲发声#",
+      "rank": 24,
+      "title": "诱导粉丝打赏2500万女主播父亲发声",
+      "topic_id": "23152203b68df91d30831d809dddb7d597eb4f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#美国偶遇田亮叶一茜森碟#",
+      "rank": 25,
+      "title": "美国偶遇田亮叶一茜森碟",
+      "topic_id": "23152233da1f0d471a903e669772a62f72adca"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "声音被AI侵权后反给免费配音",
+      "rank": 26,
+      "title": "声音被AI侵权后反给免费配音",
+      "topic_id": "231522c4d803fc05502dd43764a52c22f933b5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#妻子未提供精卵不享有胚胎处置权#",
+      "rank": 27,
+      "title": "妻子未提供精卵不享有胚胎处置权",
+      "topic_id": "231522d7b7bab5f5a2d736279b9262af7d7ffb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "世界杯决赛禁赛处罚出炉",
+      "rank": 28,
+      "title": "世界杯决赛禁赛处罚出炉",
+      "topic_id": "231522f709f80a27d4da04a61f8f9d9fdabc0e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#厚本新剧美成这样了#",
+      "rank": 29,
+      "title": "厚本新剧美成这样了",
+      "topic_id": "231522cc384d0630e6d2fed3fc75124e651cf3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#女婴被遗弃在福州福利院门口#",
+      "rank": 30,
+      "title": "女婴被遗弃在福州福利院门口",
+      "topic_id": "23152247348bb7314148ef304532e6124d4961"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#张彬彬曹骏李光洁吃了演员身份的亏#",
+      "rank": 31,
+      "title": "张彬彬曹骏李光洁吃了演员身份的亏",
+      "topic_id": "23152221feaa9f02c0e60838997a28344df908"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#霸总开着劳斯莱斯吃路边小馆#",
+      "rank": 32,
+      "title": "霸总开着劳斯莱斯吃路边小馆",
+      "topic_id": "2315226919632f5da434c146f10ed61221360a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#李现下意识伸手扶张婧仪#",
+      "rank": 33,
+      "title": "李现下意识伸手扶张婧仪",
+      "topic_id": "23152237b0af7da30017b285b85846f264a507"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#这7种异常和缺维生素B有关#",
+      "rank": 34,
+      "title": "这7种异常和缺维生素B有关",
+      "topic_id": "231522293d2c32a4eecc1e8178af2b36a11161"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#女子用口罩完美复刻香奈儿无底鞋#",
+      "rank": 35,
+      "title": "女子用口罩完美复刻香奈儿无底鞋",
+      "topic_id": "231522e251ed2e5c9583a9bda9314fa7e2770f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "人绞尽脑汁不如命运随手一挥",
+      "rank": 36,
+      "title": "人绞尽脑汁不如命运随手一挥",
+      "topic_id": "23152200b870b06fe64e92eb178bc28e891297"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#欢子入院治疗#",
+      "rank": 37,
+      "title": "欢子入院治疗",
+      "topic_id": "23152219dd7447003d3098b68c34ae8b17e03c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#陈妍希怼恶评#",
+      "rank": 38,
+      "title": "陈妍希怼恶评",
+      "topic_id": "231522cefc623e3d448e75b4e832aa9da2caba"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#C罗新赛季首秀即破门#",
+      "rank": 39,
+      "title": "C罗新赛季首秀即破门",
+      "topic_id": "23152298f3d96c49f0c106dba3900222707b1d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#库里2910万美元出售1650平豪宅#",
+      "rank": 40,
+      "title": "库里2910万美元出售1650平豪宅",
+      "topic_id": "2315229a935e498766db89f0d1dff2fd8c30e6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张雅琪路人缘#",
+      "rank": 41,
+      "title": "张雅琪路人缘",
+      "topic_id": "231522175dcbdde66b509a62054721a5251b3a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "樊振东 德甲联赛",
+      "rank": 42,
+      "title": "樊振东 德甲联赛",
+      "topic_id": "231522332e87e4d55c7fc35b5b15e033512cfa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "宋威龙直播",
+      "rank": 43,
+      "title": "宋威龙直播",
+      "topic_id": "231522ec8cbbc9b3524e1b035f518d96452228"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "弹壳回应黑灯调侃",
+      "rank": 44,
+      "title": "弹壳回应黑灯调侃",
+      "topic_id": "2315220d9c6203e500750a21a750985c291760"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "特朗普吐槽李在明",
+      "rank": 45,
+      "title": "特朗普吐槽李在明",
+      "topic_id": "2315222d9d36190d049859c79e1a7c99572ee9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "曝时代峰峻或面临给F1赔偿",
+      "rank": 46,
+      "title": "曝时代峰峻或面临给F1赔偿",
+      "topic_id": "2315227958fc8d53b145b3fa7a02570381e725"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曾沛慈参加浪姐瘦了14斤#",
+      "rank": 47,
+      "title": "曾沛慈参加浪姐瘦了14斤",
+      "topic_id": "2315225182375657c94537623bc08fb7ebd3db"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#德罗赞加盟掘金#",
+      "rank": 48,
+      "title": "德罗赞加盟掘金",
+      "topic_id": "23152268f0e797085d295df340ead43403e836"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#迪丽热巴猝不及防被土味情话攻击#",
+      "rank": 49,
+      "title": "迪丽热巴猝不及防被土味情话攻击",
+      "topic_id": "231522d1a59942c8a535edf3eb762b18cacecc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "门把手缺陷引发最大规模召回",
+      "rank": 50,
+      "title": "门把手缺陷引发最大规模召回",
+      "topic_id": "2315224da3055cce5a144b34287517f4a6f571"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
