@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 5182171545
   },
-  "last_seen_at": "2026-08-22T23:00:00+08:00",
+  "last_seen_at": "2026-08-23T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BA%9A%E6%9C%B5%E5%8D%96%E6%9E%95%E5%A4%B4%E8%A2%AB%E5%AD%90%E6%94%B6%E5%85%A5%E5%BF%AB%E8%B5%B6%E4%B8%8A%E9%85%92%E5%BA%97%E4%B8%BB%E4%B8%9A%23%26t%3D3&title=发布媒体",
-    "show_str": "17家媒体",
+    "show_str": "19家媒体",
     "users": [
       {
         "id": 1938424152,
@@ -44,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 2356298087,
+        "idstr": "2356298087",
+        "screen_name": "河北经视",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1975995305,
         "idstr": "1975995305",
         "screen_name": "西安晚报",
@@ -54,13 +61,6 @@
         "id": 1960601312,
         "idstr": "1960601312",
         "screen_name": "多彩贵州网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1941424392,
-        "idstr": "1941424392",
-        "screen_name": "台州晚报",
         "verified": true,
         "verified_type": 3
       }
