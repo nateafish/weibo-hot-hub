@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 5044281310
   },
-  "last_seen_at": "2026-08-22T20:00:00+08:00",
+  "last_seen_at": "2026-08-22T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%BF%85%E9%A1%BB%E5%BD%BB%E6%9F%A5%E5%A4%9A%E5%B0%91%E7%94%B2%E9%86%9B%E7%99%BD%E8%8F%9C%E5%B7%B2%E6%B5%81%E5%85%A5%E5%B8%82%E5%9C%BA%23%26t%3D3&title=发布媒体",
-    "show_str": "12家媒体",
+    "show_str": "22家媒体",
     "users": [
       {
         "id": 2286092114,
@@ -30,9 +30,23 @@
         "verified_type": 3
       },
       {
+        "id": 2118120483,
+        "idstr": "2118120483",
+        "screen_name": "青岛日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7639071132,
         "idstr": "7639071132",
         "screen_name": "篝火视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7476748260,
+        "idstr": "7476748260",
+        "screen_name": "大公文匯網",
         "verified": true,
         "verified_type": 3
       },
@@ -49,20 +63,6 @@
         "screen_name": "澎湃运动装",
         "verified": true,
         "verified_type": 3
-      },
-      {
-        "id": 5606627706,
-        "idstr": "5606627706",
-        "screen_name": "澎湃问吧",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5119282557,
-        "idstr": "5119282557",
-        "screen_name": "凤凰网安徽",
-        "verified": true,
-        "verified_type": 2
       }
     ]
   },

@@ -10,11 +10,19 @@
     "status": 2,
     "uid": 2334112451
   },
-  "last_seen_at": "2026-08-22T20:00:00+08:00",
+  "last_seen_at": "2026-08-22T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23TOP%E5%BD%A9%E6%8E%92%E5%94%B1%E4%BA%86NINEPERCENT%E7%9A%84%E6%AD%8C%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "1家媒体",
+    "users": [
+      {
+        "id": 1880922220,
+        "idstr": "1880922220",
+        "screen_name": "金华晚报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#TOP彩排唱了NINEPERCENT的歌#",
   "search_url": "https://s.weibo.com/weibo?q=%23top%E5%BD%A9%E6%8E%92%E5%94%B1%E4%BA%86ninepercent%E7%9A%84%E6%AD%8C%23",
