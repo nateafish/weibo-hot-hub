@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-08-22T22:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#一份20万字的战略擘画#",
+      "rank": 1,
+      "title": "一份20万字的战略擘画",
+      "topic_id": "2315223ee4ddfed8d14a7ca7c6b777845ba0d4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#走马太好听了#",
+      "rank": 1,
+      "title": "走马太好听了",
+      "topic_id": "231522e5bf2150f0877eb5a837c2cd98caddd6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#亚朵卖枕头被子收入快赶上酒店主业#",
+      "rank": 2,
+      "title": "亚朵卖枕头被子收入快赶上酒店主业",
+      "topic_id": "2315222fade6078e2fab8d81dfbec3a7bec11c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#越来越多宝藏小城藏不住了#",
+      "rank": 3,
+      "title": "越来越多宝藏小城藏不住了",
+      "topic_id": "231522ab90f3b434e0d3b7807af2c19e3b081e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#那英演唱会包厢堪比春晚#",
+      "rank": 4,
+      "title": "那英演唱会包厢堪比春晚",
+      "topic_id": "231522da95c14d5108b758fc12c00630d12300"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "桃酥是没有一滴水的",
+      "rank": 5,
+      "title": "桃酥是没有一滴水的",
+      "topic_id": "231522352f21909f69e1eb4b4fa72ccea1df86"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#零食占座当事人母亲发声#",
+      "rank": 6,
+      "title": "零食占座当事人母亲发声",
+      "topic_id": "23152256661bd912995bb5769158acb3715d40"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#iPhone18ProMax手机壳曝光#",
+      "rank": 7,
+      "title": "iPhone18ProMax手机壳曝光",
+      "topic_id": "231522244a68fa75f8bec21fcdf71dc67aefd7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#台湾节目嘉宾说北京没有冰箱引群嘲#",
+      "rank": 8,
+      "title": "台湾节目嘉宾说北京没有冰箱引群嘲",
+      "topic_id": "231522259a16a40bac2255e845425235aa4e0b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#肖战回应来那英演唱会的原因#",
+      "rank": 9,
+      "title": "肖战回应来那英演唱会的原因",
+      "topic_id": "231522ea4db93dd05b5dba42ddddf32448a7f5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#住破房穿20块衣服男子20年攒下789万#",
+      "rank": 10,
+      "title": "住破房穿20块衣服男子20年攒下789万",
+      "topic_id": "231522df40b2eeebe45285f93ad3799381a2ca"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#网友把蔡徐坤当路人p掉了#",
+      "rank": 11,
+      "title": "网友把蔡徐坤当路人p掉了",
+      "topic_id": "231522125922cebf1ef9e6d35bd7c673f2e7eb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "欢子入院 美容院",
+      "rank": 12,
+      "title": "欢子入院 美容院",
+      "topic_id": "2315227d0124f26aae57b6079443056d40d118"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "晋江作者大会",
+      "rank": 13,
+      "title": "晋江作者大会",
+      "topic_id": "231522f4c7b16f4f170cc9ffd74e130afd62d8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#白鹿相扑上衣#",
+      "rank": 14,
+      "title": "白鹿相扑上衣",
+      "topic_id": "23152282f759c20e38d3f8da9d285dc7ad7b7a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "披荆斩棘直播",
+      "rank": 15,
+      "title": "披荆斩棘直播",
+      "topic_id": "231522e7634c685e78e96435413624db498be5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "外国人来中国旅游的视频火了",
+      "rank": 16,
+      "title": "外国人来中国旅游的视频火了",
+      "topic_id": "2315228dd4eb3abd8dd5fbe56cddb0df4ba7f8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "SuperJunior出场太帅了",
+      "rank": 17,
+      "title": "SuperJunior出场太帅了",
+      "topic_id": "231522cc556e3843e17696d971a9970646115f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张峻豪说没有热单时严浩翔的反应#",
+      "rank": 18,
+      "title": "张峻豪说没有热单时严浩翔的反应",
+      "topic_id": "2315221b0cc89455d82fb274e96b6cd1ce2474"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#谁给王传君化的妆#",
+      "rank": 19,
+      "title": "谁给王传君化的妆",
+      "topic_id": "2315228276203f488a3441b4b49cf43375569d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "赫尔城VS曼联",
+      "rank": 20,
+      "title": "赫尔城VS曼联",
+      "topic_id": "231522994495f16c274cf7dc6f8bc77578e4dc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "墨香铜臭 亿级版权",
+      "rank": 21,
+      "title": "墨香铜臭 亿级版权",
+      "topic_id": "2315223e3bc27eed84e598cf55a47bbf81e5b4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "走马",
+      "rank": 22,
+      "title": "走马",
+      "topic_id": "231522424d9b747e5b235fc6644bb6da13341f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#多方回应23楼开灯被对面20楼投诉#",
+      "rank": 23,
+      "title": "多方回应23楼开灯被对面20楼投诉",
+      "topic_id": "23152229a6c8d3f67ae67ba0c21bf29637d23c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "巫哲顶着这张脸叫狗蛋儿",
+      "rank": 24,
+      "title": "巫哲顶着这张脸叫狗蛋儿",
+      "topic_id": "23152214f931dfb8a72a67d12cb9f7eca792fe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#Angelababy像是来和我结婚的#",
+      "rank": 25,
+      "title": "Angelababy像是来和我结婚的",
+      "topic_id": "231522a4c8fbd8da27b6c755b95683c2cd4bd0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "黄子弘凡张宥浩为惠英红吃醋",
+      "rank": 26,
+      "title": "黄子弘凡张宥浩为惠英红吃醋",
+      "topic_id": "2315225dab73ccb8ae5e6672f8ed85df941641"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "成都蓉城VS上海申花",
+      "rank": 27,
+      "title": "成都蓉城VS上海申花",
+      "topic_id": "2315228e0790a11fd7bd4e96d4bc66f7422a7f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "40万亿美债泡沫若崩盘对中国影响如何",
+      "rank": 28,
+      "title": "40万亿美债泡沫若崩盘对中国影响如何",
+      "topic_id": "231522803ef2dee0c3c4b142fdcacd39916307"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#赛考斯要与殷玉珍重逢了#",
+      "rank": 29,
+      "title": "赛考斯要与殷玉珍重逢了",
+      "topic_id": "23152269f88f87dac69d84817681c8d89df6f0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#刑释男子去年投胖东来失败今年再试#",
+      "rank": 30,
+      "title": "刑释男子去年投胖东来失败今年再试",
+      "topic_id": "231522db05d540bbd18c238725f8acc7f8ea93"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "小果冻道歉",
+      "rank": 31,
+      "title": "小果冻道歉",
+      "topic_id": "2315223a1220b6c9229b102e5c9aa2325a8cfd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "龙餐馆",
+      "rank": 32,
+      "title": "龙餐馆",
+      "topic_id": "231522022e0201c4629ae09791464eefe52bf5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张婧仪大理素颜爬山#",
+      "rank": 33,
+      "title": "张婧仪大理素颜爬山",
+      "topic_id": "231522bb8db595db72e2e533f8d09ef72fd6d1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#世界人形机器人运动会开幕#",
+      "rank": 34,
+      "title": "世界人形机器人运动会开幕",
+      "topic_id": "231522541fb13c2b2cc61f9f3d518a75da12c2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "一点没有情趣的直男震撼",
+      "rank": 35,
+      "title": "一点没有情趣的直男震撼",
+      "topic_id": "231522916a102276fd5ac7a3bb0f3c80177e29"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "唐九洲 不能再有人退赛了",
+      "rank": 36,
+      "title": "唐九洲 不能再有人退赛了",
+      "topic_id": "231522eb3e0298a13341cb0862bb588d681150"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "满江 最不油的人",
+      "rank": 37,
+      "title": "满江 最不油的人",
+      "topic_id": "23152214baf3dc5247c87231e210e3191189b1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#张家齐不想消耗全红婵#",
+      "rank": 38,
+      "title": "张家齐不想消耗全红婵",
+      "topic_id": "231522d4cd1e4af4d4f8600bef91826178833b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "数到三",
+      "rank": 39,
+      "title": "数到三",
+      "topic_id": "231522e93ead7ddf335ae0df72cf0f6cc13f89"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#少年被民警无故打伤4个月未获赔偿#",
+      "rank": 40,
+      "title": "少年被民警无故打伤4个月未获赔偿",
+      "topic_id": "231522f60a398ec3fca4cd540e0077d5e53592"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#千家兰州拉面更换门头#",
+      "rank": 41,
+      "title": "千家兰州拉面更换门头",
+      "topic_id": "23152210a1c8802a6b726763a6e7b5aa7c9fdd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "逐玉长月烬明版权费上千万",
+      "rank": 42,
+      "title": "逐玉长月烬明版权费上千万",
+      "topic_id": "231522bdc9b0af713436ee01c639d52f57df7c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王菲字体#",
+      "rank": 43,
+      "title": "王菲字体",
+      "topic_id": "2315221f2d6f8460529eae9e1d31e3c690ee32"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#NIP双杀iG#",
+      "rank": 44,
+      "title": "NIP双杀iG",
+      "topic_id": "2315227d061a762df5155c4808779408c7de89"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#手机出现这行字存款正被转走#",
+      "rank": 45,
+      "title": "手机出现这行字存款正被转走",
+      "topic_id": "231522dcbcbb26df72a4efe8bf1104a325ccf9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张凌赫贴的耳钉掉了#",
+      "rank": 46,
+      "title": "张凌赫贴的耳钉掉了",
+      "topic_id": "23152252ef94c507b2a9be3a17facde21f08cf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#汪苏泷阿信在演唱会唱了新歌#",
+      "rank": 47,
+      "title": "汪苏泷阿信在演唱会唱了新歌",
+      "topic_id": "231522ef1ccb3882a52f6fd8998a50fd2039a2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#甲醛白菜14年前就曝光了#",
+      "rank": 48,
+      "title": "甲醛白菜14年前就曝光了",
+      "topic_id": "2315226572b0f6b669baf7e11553553ce4c454"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "张宥浩追问惠英红自己是几号宝贝",
+      "rank": 49,
+      "title": "张宥浩追问惠英红自己是几号宝贝",
+      "topic_id": "231522c609cc897e922f36d73f30dc9c3c0828"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#美国男子竟大笑承认虐待并肢解少女#",
+      "rank": 50,
+      "title": "美国男子竟大笑承认虐待并肢解少女",
+      "topic_id": "2315224bdeeb663615bef65d52a71293f2ed7a"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

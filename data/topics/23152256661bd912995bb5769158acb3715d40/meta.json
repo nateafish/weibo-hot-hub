@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1796087453
   },
-  "last_seen_at": "2026-08-22T21:00:00+08:00",
+  "last_seen_at": "2026-08-22T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%9B%B6%E9%A3%9F%E5%8D%A0%E5%BA%A7%E5%BD%93%E4%BA%8B%E4%BA%BA%E6%AF%8D%E4%BA%B2%E5%8F%91%E5%A3%B0%23%26t%3D3&title=发布媒体",
-    "show_str": "74家媒体",
+    "show_str": "92家媒体",
     "users": [
       {
         "id": 1796087453,
         "idstr": "1796087453",
         "screen_name": "荔枝新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2286092114,
+        "idstr": "2286092114",
+        "screen_name": "中国蓝新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,16 +37,16 @@
         "verified_type": 3
       },
       {
-        "id": 1941424392,
-        "idstr": "1941424392",
-        "screen_name": "台州晚报",
+        "id": 1642512402,
+        "idstr": "1642512402",
+        "screen_name": "中国新闻周刊",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1642512402,
-        "idstr": "1642512402",
-        "screen_name": "中国新闻周刊",
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -54,13 +61,6 @@
         "id": 7547774763,
         "idstr": "7547774763",
         "screen_name": "荔枝看法",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6354989284,
-        "idstr": "6354989284",
-        "screen_name": "荔枝竞技",
         "verified": true,
         "verified_type": 3
       }

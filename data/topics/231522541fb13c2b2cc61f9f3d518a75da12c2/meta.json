@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 2656274875
   },
-  "last_seen_at": "2026-08-22T21:00:00+08:00",
+  "last_seen_at": "2026-08-22T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%96%E7%95%8C%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%90%E5%8A%A8%E4%BC%9A%E5%BC%80%E5%B9%95%23%26t%3D3&title=发布媒体",
-    "show_str": "55家媒体",
+    "show_str": "78家媒体",
     "users": [
       {
         "id": 2656274875,
         "idstr": "2656274875",
         "screen_name": "央视新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2039753857,
+        "idstr": "2039753857",
+        "screen_name": "CCTV4",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5539777260,
+        "idstr": "5539777260",
+        "screen_name": "菏泽日报",
         "verified": true,
         "verified_type": 3
       },
@@ -40,20 +54,6 @@
         "id": 1838672663,
         "idstr": "1838672663",
         "screen_name": "华夏时报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2460937233,
-        "idstr": "2460937233",
-        "screen_name": "热度新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1751714412,
-        "idstr": "1751714412",
-        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       },
