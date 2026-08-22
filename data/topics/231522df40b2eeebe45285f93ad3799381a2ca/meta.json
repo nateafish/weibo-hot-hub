@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 1655444627
   },
-  "last_seen_at": "2026-08-22T22:00:00+08:00",
+  "last_seen_at": "2026-08-22T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BD%8F%E7%A0%B4%E6%88%BF%E7%A9%BF20%E5%9D%97%E8%A1%A3%E6%9C%8D%E7%94%B7%E5%AD%9020%E5%B9%B4%E6%94%92%E4%B8%8B789%E4%B8%87%23%26t%3D3&title=发布媒体",
-    "show_str": "12家媒体",
+    "show_str": "20家媒体",
     "users": [
       {
         "id": 1655444627,
         "idstr": "1655444627",
         "screen_name": "潇湘晨报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1789681642,
+        "idstr": "1789681642",
+        "screen_name": "第一现场",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497087080,
+        "idstr": "1497087080",
+        "screen_name": "羊城晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -40,27 +61,6 @@
         "id": 5396094153,
         "idstr": "5396094153",
         "screen_name": "大众新闻-大众日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2318910945,
-        "idstr": "2318910945",
-        "screen_name": "新浪热点",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2118120483,
-        "idstr": "2118120483",
-        "screen_name": "青岛日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2010802407,
-        "idstr": "2010802407",
-        "screen_name": "中国台州网",
         "verified": true,
         "verified_type": 3
       }
