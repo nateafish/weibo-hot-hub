@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 2028810631
   },
-  "last_seen_at": "2026-08-22T11:00:00+08:00",
+  "last_seen_at": "2026-08-22T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%AF%B1%E5%AF%BC%E7%B2%89%E4%B8%9D%E6%89%93%E8%B5%8F2500%E4%B8%87%E5%A5%B3%E4%B8%BB%E6%92%AD%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "9家媒体",
     "users": [
       {
         "id": 2028810631,
         "idstr": "2028810631",
         "screen_name": "新浪新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2510959054,
+        "idstr": "2510959054",
+        "screen_name": "陕西广播电视台",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1909377960,
+        "idstr": "1909377960",
+        "screen_name": "起点新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -37,16 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 1734530730,
-        "idstr": "1734530730",
-        "screen_name": "大河报",
+        "id": 2291471981,
+        "idstr": "2291471981",
+        "screen_name": "济宁新闻网",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1280846847,
-        "idstr": "1280846847",
-        "screen_name": "指尖新闻-沈阳晚报",
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       }
