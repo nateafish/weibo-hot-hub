@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 7211561239
   },
-  "last_seen_at": "2026-08-22T17:00:00+08:00",
+  "last_seen_at": "2026-08-22T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%8D%A3%E8%80%80%E6%9C%BA%E5%99%A8%E4%BA%BA9%E7%A7%9232%E7%A0%B4%E4%BA%BA%E7%B1%BB%E7%99%BE%E7%B1%B3%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%23%26t%3D3&title=发布媒体",
-    "show_str": "121家媒体",
+    "show_str": "132家媒体",
     "users": [
       {
         "id": 1232121710,
         "idstr": "1232121710",
         "screen_name": "山西晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7211561239,
+        "idstr": "7211561239",
+        "screen_name": "央视频",
         "verified": true,
         "verified_type": 3
       },
@@ -37,9 +44,9 @@
         "verified_type": 3
       },
       {
-        "id": 7211561239,
-        "idstr": "7211561239",
-        "screen_name": "央视频",
+        "id": 1625232640,
+        "idstr": "1625232640",
+        "screen_name": "鲁中晨报",
         "verified": true,
         "verified_type": 3
       },
@@ -51,16 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1625232640,
-        "idstr": "1625232640",
-        "screen_name": "鲁中晨报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2105365573,
-        "idstr": "2105365573",
-        "screen_name": "威海播报",
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       }

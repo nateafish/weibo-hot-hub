@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2611791490
   },
-  "last_seen_at": "2026-08-22T17:00:00+08:00",
+  "last_seen_at": "2026-08-22T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%85%B3%E6%99%93%E5%BD%A4%E8%B5%B0%E6%9C%BA%E5%9C%BA%E4%B9%9F%E6%88%B4%E8%B4%9F%E9%87%8D%E6%89%8B%E7%8E%AF%23%26t%3D3&title=发布媒体",
-    "show_str": "9家媒体",
+    "show_str": "13家媒体",
     "users": [
       {
         "id": 1744332207,
@@ -30,9 +30,23 @@
         "verified_type": 3
       },
       {
+        "id": 7020664161,
+        "idstr": "7020664161",
+        "screen_name": "福建经济生活频道",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2647971081,
         "idstr": "2647971081",
         "screen_name": "时速新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2299460371,
+        "idstr": "2299460371",
+        "screen_name": "福建电视剧频道",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 2106115754,
         "idstr": "2106115754",
         "screen_name": "北京文艺广播",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1913382117,
-        "idstr": "1913382117",
-        "screen_name": "深圳晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1880922220,
-        "idstr": "1880922220",
-        "screen_name": "金华晚报",
         "verified": true,
         "verified_type": 3
       }
