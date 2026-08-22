@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 2286908003
   },
-  "last_seen_at": "2026-08-22T13:00:00+08:00",
+  "last_seen_at": "2026-08-22T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%231%E4%B8%AA%E8%A7%86%E9%A2%91%E7%9C%8B%E6%87%82%E5%85%AC%E7%A7%AF%E9%87%91%E6%8F%90%E5%8F%96%E6%96%B0%E8%A7%84%23%26t%3D3&title=发布媒体",
-    "show_str": "36家媒体",
+    "show_str": "46家媒体",
     "users": [
       {
         "id": 2286908003,
         "idstr": "2286908003",
         "screen_name": "人民网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7041951828,
+        "idstr": "7041951828",
+        "screen_name": "民乐融媒体中心",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6362632222,
+        "idstr": "6362632222",
+        "screen_name": "小央视频",
         "verified": true,
         "verified_type": 3
       },
@@ -30,9 +44,9 @@
         "verified_type": 3
       },
       {
-        "id": 7041951828,
-        "idstr": "7041951828",
-        "screen_name": "民乐融媒体中心",
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 3215153127,
         "idstr": "3215153127",
         "screen_name": "人民网安徽频道",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1977460817,
-        "idstr": "1977460817",
-        "screen_name": "央视网快看",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1941424392,
-        "idstr": "1941424392",
-        "screen_name": "台州晚报",
         "verified": true,
         "verified_type": 3
       }
