@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1796087453
   },
-  "last_seen_at": "2026-08-22T09:00:00+08:00",
+  "last_seen_at": "2026-08-22T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%BC%80%E5%8F%B0%E7%81%AF%E9%81%AD%E9%82%BB%E5%B1%85%E6%8A%95%E8%AF%89%E5%BD%B1%E5%93%8D%E5%AD%A9%E5%AD%90%E5%AD%A6%E4%B9%A0%23%26t%3D3&title=发布媒体",
-    "show_str": "29家媒体",
+    "show_str": "36家媒体",
     "users": [
       {
         "id": 1796087453,
         "idstr": "1796087453",
         "screen_name": "荔枝新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1744332207,
+        "idstr": "1744332207",
+        "screen_name": "钱江视频",
         "verified": true,
         "verified_type": 3
       },
@@ -37,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 1887344341,
+        "idstr": "1887344341",
+        "screen_name": "观察者网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2252846093,
         "idstr": "2252846093",
         "screen_name": "长春新闻",
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2105365573,
-        "idstr": "2105365573",
-        "screen_name": "威海播报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1738004582,
-        "idstr": "1738004582",
-        "screen_name": "纵览新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1451977335,
-        "idstr": "1451977335",
-        "screen_name": "新晚报",
+        "id": 2118120483,
+        "idstr": "2118120483",
+        "screen_name": "青岛日报",
         "verified": true,
         "verified_type": 3
       }

@@ -10,11 +10,25 @@
     "status": 2,
     "uid": 5816541819
   },
-  "last_seen_at": "2026-08-22T09:00:00+08:00",
+  "last_seen_at": "2026-08-22T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9B%BE%E8%BE%89%E5%9B%9E%E5%A4%8D%E8%89%BE%E7%83%AD%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "16家媒体",
     "users": [
+      {
+        "id": 1843633441,
+        "idstr": "1843633441",
+        "screen_name": "搜狐娱乐",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7590570074,
+        "idstr": "7590570074",
+        "screen_name": "山海视频",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2992050891,
         "idstr": "2992050891",
@@ -37,23 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 2286092114,
-        "idstr": "2286092114",
-        "screen_name": "中国蓝新闻",
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1867427515,
-        "idstr": "1867427515",
-        "screen_name": "新派新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1288429914,
-        "idstr": "1288429914",
-        "screen_name": "今视频长天新闻",
+        "id": 2232625672,
+        "idstr": "2232625672",
+        "screen_name": "安庆天天直播",
         "verified": true,
         "verified_type": 3
       }

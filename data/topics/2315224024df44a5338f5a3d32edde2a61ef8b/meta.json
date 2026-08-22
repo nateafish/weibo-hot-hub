@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1683472727
   },
-  "last_seen_at": "2026-08-22T09:00:00+08:00",
+  "last_seen_at": "2026-08-22T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%BB%BF%E6%88%91%E6%B6%93%E6%BB%B4%E4%BC%9A%E5%AE%83%E5%8D%83%E9%A1%B7%E6%BE%84%E7%A2%A7%23%26t%3D3&title=发布媒体",
-    "show_str": "7家媒体",
+    "show_str": "12家媒体",
     "users": [
       {
         "id": 1683472727,
@@ -26,6 +26,13 @@
         "id": 6587633798,
         "idstr": "6587633798",
         "screen_name": "崇义发布",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7523386243,
+        "idstr": "7523386243",
+        "screen_name": "南阳网官方微博",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 3901624042,
+        "idstr": "3901624042",
+        "screen_name": "山西日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 3198187532,
         "idstr": "3198187532",
         "screen_name": "西部法治报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2638176611,
-        "idstr": "2638176611",
-        "screen_name": "兴化发布",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1939861572,
-        "idstr": "1939861572",
-        "screen_name": "新疆广播电视台",
         "verified": true,
         "verified_type": 3
       }

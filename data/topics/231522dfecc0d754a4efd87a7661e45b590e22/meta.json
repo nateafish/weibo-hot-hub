@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 3266943013
   },
-  "last_seen_at": "2026-08-22T09:00:00+08:00",
+  "last_seen_at": "2026-08-22T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A4%9A%E5%85%83%E6%B6%88%E8%B4%B9%E5%9C%BA%E6%99%AF%E6%BF%80%E5%8F%91%E7%BB%8F%E6%B5%8E%E6%BE%8E%E6%B9%83%E6%B4%BB%E5%8A%9B%23%26t%3D3&title=发布媒体",
-    "show_str": "17家媒体",
+    "show_str": "28家媒体",
     "users": [
       {
         "id": 3266943013,
         "idstr": "3266943013",
         "screen_name": "央视网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2346437860,
+        "idstr": "2346437860",
+        "screen_name": "三峡融媒",
         "verified": true,
         "verified_type": 3
       },
@@ -37,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 1893278624,
+        "idstr": "1893278624",
+        "screen_name": "深圳特区报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1727472420,
         "idstr": "1727472420",
         "screen_name": "泰山晚报",
@@ -47,20 +61,6 @@
         "id": 7639071132,
         "idstr": "7639071132",
         "screen_name": "篝火视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6444725927,
-        "idstr": "6444725927",
-        "screen_name": "吉祥新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3251720635,
-        "idstr": "3251720635",
-        "screen_name": "邯郸网络广播电视台",
         "verified": true,
         "verified_type": 3
       }
