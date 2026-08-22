@@ -10,15 +10,43 @@
     "status": 2,
     "uid": 6511174440
   },
-  "last_seen_at": "2026-08-22T19:00:00+08:00",
+  "last_seen_at": "2026-08-22T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%94%B5%E5%AD%90%E7%AB%9E%E6%8A%80%E9%A1%B9%E7%9B%AE%E5%9B%BD%E5%AE%B6%E9%98%9F%E6%88%90%E7%AB%8B%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "13家媒体",
     "users": [
+      {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 3514732862,
         "idstr": "3514732862",
         "screen_name": "广西日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2647971081,
+        "idstr": "2647971081",
+        "screen_name": "时速新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2183542485,
+        "idstr": "2183542485",
+        "screen_name": "西安广播电视台",
         "verified": true,
         "verified_type": 3
       },
@@ -33,27 +61,6 @@
         "id": 1975995305,
         "idstr": "1975995305",
         "screen_name": "西安晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1960785875,
-        "idstr": "1960785875",
-        "screen_name": "津云新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1867427515,
-        "idstr": "1867427515",
-        "screen_name": "新派新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1652484947,
-        "idstr": "1652484947",
-        "screen_name": "新快报",
         "verified": true,
         "verified_type": 3
       }

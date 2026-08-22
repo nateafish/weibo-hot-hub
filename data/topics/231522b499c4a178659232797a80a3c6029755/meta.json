@@ -3,11 +3,18 @@
   "created_at": 1787379779,
   "first_seen_at": "2026-08-22T15:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-22T19:00:00+08:00",
+  "last_seen_at": "2026-08-22T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23ACC%E8%BE%85%E5%8A%A9%E9%A9%BE%E9%A9%B6%E8%BF%BD%E6%92%9E%E8%87%B43%E4%BA%BA%E6%AD%BB%E4%BA%A1%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "6家媒体",
     "users": [
+      {
+        "id": 5550357934,
+        "idstr": "5550357934",
+        "screen_name": "动静贵州",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 3901624042,
         "idstr": "3901624042",
@@ -26,6 +33,13 @@
         "id": 2183542485,
         "idstr": "2183542485",
         "screen_name": "西安广播电视台",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1960601312,
+        "idstr": "1960601312",
+        "screen_name": "多彩贵州网",
         "verified": true,
         "verified_type": 3
       },

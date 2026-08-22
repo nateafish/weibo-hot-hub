@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 3266943013
   },
-  "last_seen_at": "2026-08-22T16:00:00+08:00",
+  "last_seen_at": "2026-08-22T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%83%A0%E6%B0%91%E7%94%9F%E4%BF%83%E6%B6%88%E8%B4%B9%E5%8F%8C%E5%90%91%E5%8F%91%E5%8A%9B%E6%BF%80%E6%B4%BB%E5%86%85%E9%9C%80%23%26t%3D3&title=发布媒体",
-    "show_str": "8家媒体",
+    "show_str": "10家媒体",
     "users": [
       {
         "id": 3266943013,
@@ -23,9 +23,23 @@
         "verified_type": 3
       },
       {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7756551991,
         "idstr": "7756551991",
         "screen_name": "郓城融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7639071132,
+        "idstr": "7639071132",
+        "screen_name": "篝火视频",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 3901624042,
         "idstr": "3901624042",
         "screen_name": "山西日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2030806735,
-        "idstr": "2030806735",
-        "screen_name": "北方新报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1891503444,
-        "idstr": "1891503444",
-        "screen_name": "西安日报",
         "verified": true,
         "verified_type": 3
       }
