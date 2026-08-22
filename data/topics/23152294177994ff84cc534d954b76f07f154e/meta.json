@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2318910945
   },
-  "last_seen_at": "2026-08-22T14:00:00+08:00",
+  "last_seen_at": "2026-08-22T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%88%B6%E5%AD%90%E5%9B%A0iPhone%E4%BA%89%E6%89%A7%E5%9D%A0%E5%B4%96%E6%AF%8D%E4%BA%B2%E4%B9%9F%E8%B7%B3%E4%B8%8B%23%26t%3D3&title=发布媒体",
-    "show_str": "8家媒体",
+    "show_str": "11家媒体",
     "users": [
       {
         "id": 2318910945,
@@ -23,9 +23,23 @@
         "verified_type": 3
       },
       {
+        "id": 7310744124,
+        "idstr": "7310744124",
+        "screen_name": "點新聞dotdotnews",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 5550357934,
         "idstr": "5550357934",
         "screen_name": "动静贵州",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2950854882,
+        "idstr": "2950854882",
+        "screen_name": "英伦圈",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 1975995305,
         "idstr": "1975995305",
         "screen_name": "西安晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1960601312,
-        "idstr": "1960601312",
-        "screen_name": "多彩贵州网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1880922220,
-        "idstr": "1880922220",
-        "screen_name": "金华晚报",
         "verified": true,
         "verified_type": 3
       }
