@@ -3,10 +3,10 @@
   "created_at": 1787323077,
   "first_seen_at": "2026-08-21T23:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-22T07:00:00+08:00",
+  "last_seen_at": "2026-08-22T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E4%B8%80%E5%85%AC%E5%88%86%E6%95%B0%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "7家媒体",
     "users": [
       {
         "id": 1878335471,
@@ -30,9 +30,23 @@
         "verified_type": 3
       },
       {
+        "id": 1967926223,
+        "idstr": "1967926223",
+        "screen_name": "FM1031济南交通广播",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1846116411,
         "idstr": "1846116411",
         "screen_name": "国际在线文娱",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       },
