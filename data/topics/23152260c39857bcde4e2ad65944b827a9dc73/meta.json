@@ -3,10 +3,10 @@
   "created_at": 1787371419,
   "first_seen_at": "2026-08-22T14:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-22T16:00:00+08:00",
+  "last_seen_at": "2026-08-22T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BA%91%E5%8D%97+%E4%BA%8C%E6%89%8B%E7%83%9F%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "4家媒体",
     "users": [
       {
         "id": 1774057271,
@@ -26,6 +26,13 @@
         "id": 3251720635,
         "idstr": "3251720635",
         "screen_name": "邯郸网络广播电视台",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1924115501,
+        "idstr": "1924115501",
+        "screen_name": "星島網",
         "verified": true,
         "verified_type": 3
       }
