@@ -3,15 +3,22 @@
   "created_at": 1787386376,
   "first_seen_at": "2026-08-22T18:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-22T18:00:00+08:00",
+  "last_seen_at": "2026-08-22T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A2%A8%E9%A6%99%E9%93%9C%E8%87%AD+%E4%BA%BF%E7%BA%A7%E7%89%88%E6%9D%83%23%26t%3D3&title=发布媒体",
-    "show_str": "10家媒体",
+    "show_str": "14家媒体",
     "users": [
       {
         "id": 1497087080,
         "idstr": "1497087080",
         "screen_name": "羊城晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497418417,
+        "idstr": "1497418417",
+        "screen_name": "掌上温岭",
         "verified": true,
         "verified_type": 3
       },
@@ -44,16 +51,9 @@
         "verified_type": 3
       },
       {
-        "id": 2346437860,
-        "idstr": "2346437860",
-        "screen_name": "三峡融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1856446532,
-        "idstr": "1856446532",
-        "screen_name": "合新闻",
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
         "verified": true,
         "verified_type": 3
       }

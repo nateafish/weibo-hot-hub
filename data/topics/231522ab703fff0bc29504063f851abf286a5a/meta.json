@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 1744332207
   },
-  "last_seen_at": "2026-08-22T18:00:00+08:00",
+  "last_seen_at": "2026-08-22T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%A7%81%E7%94%9F%E5%B0%BE%E9%9A%8F%E7%8E%8B%E6%A9%B9%E6%9D%B0%E6%88%96%E6%B6%89%E5%AB%8C%E8%BF%9D%E6%B3%95%23%26t%3D3&title=发布媒体",
-    "show_str": "7家媒体",
+    "show_str": "13家媒体",
     "users": [
       {
         "id": 1744332207,
         "idstr": "1744332207",
         "screen_name": "钱江视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1653603955,
+        "idstr": "1653603955",
+        "screen_name": "扬子晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 2010802407,
         "idstr": "2010802407",
         "screen_name": "中国台州网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1866178881,
-        "idstr": "1866178881",
-        "screen_name": "范大姐帮忙",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1626045813,
-        "idstr": "1626045813",
-        "screen_name": "共富TV",
         "verified": true,
         "verified_type": 3
       }
