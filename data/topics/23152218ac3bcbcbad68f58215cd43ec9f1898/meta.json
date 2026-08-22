@@ -3,15 +3,29 @@
   "created_at": 1787368217,
   "first_seen_at": "2026-08-22T12:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-22T12:00:00+08:00",
+  "last_seen_at": "2026-08-22T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E6%88%90%E9%83%BD%E5%A4%96%E5%87%BA%E5%BC%9F%E5%BC%9F%E5%90%8C%E8%A1%8C%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "4家媒体",
     "users": [
       {
         "id": 3514732862,
         "idstr": "3514732862",
         "screen_name": "广西日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2535760180,
+        "idstr": "2535760180",
+        "screen_name": "安徽视讯",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       },
