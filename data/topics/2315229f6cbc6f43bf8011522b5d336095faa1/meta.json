@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 2028810631
   },
-  "last_seen_at": "2026-08-23T17:00:00+08:00",
+  "last_seen_at": "2026-08-23T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%B8%A9%E5%A9%89%E4%B8%BA%E9%81%BF%E9%A3%8E%E5%A4%B4%E4%BC%9A%E6%88%B4%E5%A2%A8%E9%95%9C%E7%9F%AD%E6%9A%82%E9%9C%B2%E8%84%B8%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "8家媒体",
     "users": [
       {
         "id": 2028810631,
         "idstr": "2028810631",
         "screen_name": "新浪新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7516679696,
+        "idstr": "7516679696",
+        "screen_name": "九派新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6357456494,
+        "idstr": "6357456494",
+        "screen_name": "果然视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3229962754,
+        "idstr": "3229962754",
+        "screen_name": "陕视新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,9 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 1712686623,
-        "idstr": "1712686623",
-        "screen_name": "手机上的新浪",
+        "id": 2011445377,
+        "idstr": "2011445377",
+        "screen_name": "齐鲁壹点",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2011075080,
+        "idstr": "2011075080",
+        "screen_name": "齐鲁晚报",
         "verified": true,
         "verified_type": 3
       }
