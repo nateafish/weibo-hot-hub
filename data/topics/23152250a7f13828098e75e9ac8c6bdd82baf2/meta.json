@@ -10,11 +10,19 @@
     "status": 2,
     "uid": 2522098777
   },
-  "last_seen_at": "2026-08-23T23:00:00+08:00",
+  "last_seen_at": "2026-08-24T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23AL%E8%99%90%E6%B3%89BLG%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "1家媒体",
+    "users": [
+      {
+        "id": 1280846847,
+        "idstr": "1280846847",
+        "screen_name": "指尖新闻-沈阳晚报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#AL虐泉BLG#",
   "search_url": "https://s.weibo.com/weibo?q=%23al%E8%99%90%E6%B3%89blg%23",
