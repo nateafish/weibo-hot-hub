@@ -3,11 +3,18 @@
   "created_at": 1787462670,
   "first_seen_at": "2026-08-23T14:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-23T14:00:00+08:00",
+  "last_seen_at": "2026-08-23T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E7%9C%8B%E5%88%B0%E5%87%8C%E7%8E%B2%E6%A2%97%E8%83%BD%E4%B8%8D%E7%AC%91%23%26t%3D3&title=发布媒体",
-    "show_str": "7家媒体",
+    "show_str": "11家媒体",
     "users": [
+      {
+        "id": 2075245652,
+        "idstr": "2075245652",
+        "screen_name": "长春晚报",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1642592432,
         "idstr": "1642592432",
@@ -23,6 +30,20 @@
         "verified_type": 3
       },
       {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2535760180,
+        "idstr": "2535760180",
+        "screen_name": "安徽视讯",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2292896411,
         "idstr": "2292896411",
         "screen_name": "中工网",
@@ -30,30 +51,9 @@
         "verified_type": 3
       },
       {
-        "id": 2075245652,
-        "idstr": "2075245652",
-        "screen_name": "长春晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1960785875,
-        "idstr": "1960785875",
-        "screen_name": "津云新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1880922220,
-        "idstr": "1880922220",
-        "screen_name": "金华晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1806503894,
-        "idstr": "1806503894",
-        "screen_name": "安徽商报",
+        "id": 2290787940,
+        "idstr": "2290787940",
+        "screen_name": "扬州晚报",
         "verified": true,
         "verified_type": 3
       }

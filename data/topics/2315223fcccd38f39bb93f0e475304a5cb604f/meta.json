@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 5182171545
   },
-  "last_seen_at": "2026-08-23T14:00:00+08:00",
+  "last_seen_at": "2026-08-23T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%9F%A9%E7%BA%A2%E5%9F%BA%E9%87%91%E4%BC%9A%E5%9B%9E%E5%BA%94%E6%95%91%E6%8A%A4%E8%BD%A6%E9%87%87%E8%B4%AD%E8%B4%A8%E7%96%91%23%26t%3D3&title=发布媒体",
-    "show_str": "22家媒体",
+    "show_str": "31家媒体",
     "users": [
       {
         "id": 5182171545,
         "idstr": "5182171545",
         "screen_name": "界面新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2632236847,
+        "idstr": "2632236847",
+        "screen_name": "香港文匯網",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2188202475,
+        "idstr": "2188202475",
+        "screen_name": "南京晨报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +44,23 @@
         "verified_type": 3
       },
       {
+        "id": 1738004582,
+        "idstr": "1738004582",
+        "screen_name": "纵览新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7373111326,
+        "idstr": "7373111326",
+        "screen_name": "正观新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2252846093,
         "idstr": "2252846093",
         "screen_name": "长春新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1845864154,
-        "idstr": "1845864154",
-        "screen_name": "看看新闻Knews",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1398613133,
-        "idstr": "1398613133",
-        "screen_name": "马上资讯",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1288429914,
-        "idstr": "1288429914",
-        "screen_name": "今视频长天新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7750453817,
-        "idstr": "7750453817",
-        "screen_name": "第1热评",
         "verified": true,
         "verified_type": 3
       }

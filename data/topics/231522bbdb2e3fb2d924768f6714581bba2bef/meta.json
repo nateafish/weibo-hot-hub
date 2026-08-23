@@ -3,11 +3,18 @@
   "created_at": 1787465096,
   "first_seen_at": "2026-08-23T14:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-23T14:00:00+08:00",
+  "last_seen_at": "2026-08-23T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%89%BE%E5%88%B0%E6%A2%81%E5%8D%9A%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "18家媒体",
+    "show_str": "26家媒体",
     "users": [
+      {
+        "id": 2075245652,
+        "idstr": "2075245652",
+        "screen_name": "长春晚报",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2992050891,
         "idstr": "2992050891",
@@ -16,9 +23,9 @@
         "verified_type": 3
       },
       {
-        "id": 2346437860,
-        "idstr": "2346437860",
-        "screen_name": "三峡融媒",
+        "id": 6444725927,
+        "idstr": "6444725927",
+        "screen_name": "吉祥新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -47,13 +54,6 @@
         "id": 5763593746,
         "idstr": "5763593746",
         "screen_name": "资阳快播报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5745238615,
-        "idstr": "5745238615",
-        "screen_name": "封面快播报",
         "verified": true,
         "verified_type": 3
       }
