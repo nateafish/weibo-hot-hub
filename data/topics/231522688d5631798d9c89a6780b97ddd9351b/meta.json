@@ -10,11 +10,40 @@
     "status": 2,
     "uid": 6445461441
   },
-  "last_seen_at": "2026-08-23T20:00:00+08:00",
+  "last_seen_at": "2026-08-23T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%BB%93%E5%A9%9A%E6%9C%89%E7%82%B9%E5%A5%BD%E7%AC%91%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "4家媒体",
+    "users": [
+      {
+        "id": 6046112792,
+        "idstr": "6046112792",
+        "screen_name": "河马视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5465565905,
+        "idstr": "5465565905",
+        "screen_name": "印象新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1073238785,
+        "idstr": "1073238785",
+        "screen_name": "经新视频",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#第一次结婚有点好笑#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%BB%93%E5%A9%9A%E6%9C%89%E7%82%B9%E5%A5%BD%E7%AC%91%23",
