@@ -10,11 +10,26 @@
     "status": 2,
     "uid": 7999113851
   },
-  "last_seen_at": "2026-08-23T19:00:00+08:00",
+  "last_seen_at": "2026-08-23T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%87%8D%E5%99%A8%E5%A4%A7%E7%BB%93%E5%B1%80%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "2家媒体",
+    "users": [
+      {
+        "id": 2105365573,
+        "idstr": "2105365573",
+        "screen_name": "威海播报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#重器大结局#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%99%A8%E5%A4%A7%E7%BB%93%E5%B1%80%23",
