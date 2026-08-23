@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 6444633552
   },
-  "last_seen_at": "2026-08-23T13:00:00+08:00",
+  "last_seen_at": "2026-08-23T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8D%A2%E6%98%B1%E6%99%93%E7%98%A6%E4%BA%86%E5%A5%BD%E5%A4%9A%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "10家媒体",
     "users": [
       {
         "id": 2921243620,
         "idstr": "2921243620",
         "screen_name": "新浪明星",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1767910704,
+        "idstr": "1767910704",
+        "screen_name": "东方卫视番茄台",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,9 +44,23 @@
         "verified_type": 3
       },
       {
-        "id": 1767910704,
-        "idstr": "1767910704",
-        "screen_name": "东方卫视番茄台",
+        "id": 1960785875,
+        "idstr": "1960785875",
+        "screen_name": "津云新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1938523582,
+        "idstr": "1938523582",
+        "screen_name": "宁波晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
         "verified": true,
         "verified_type": 3
       }

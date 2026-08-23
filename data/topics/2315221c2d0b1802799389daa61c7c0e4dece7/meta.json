@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 1496814565
   },
-  "last_seen_at": "2026-08-23T13:00:00+08:00",
+  "last_seen_at": "2026-08-23T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9D%8E%E7%BB%B4%E5%98%89%E6%9B%BE%E6%8B%92%E7%BB%9D%E7%8E%8B%E8%8F%B2%E5%8A%A0%E5%A5%BD%E5%8F%8B%23%26t%3D3&title=发布媒体",
-    "show_str": "20家媒体",
+    "show_str": "22家媒体",
     "users": [
       {
         "id": 1496814565,
         "idstr": "1496814565",
         "screen_name": "封面新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2188202475,
+        "idstr": "2188202475",
+        "screen_name": "南京晨报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7639071132,
+        "idstr": "7639071132",
+        "screen_name": "篝火视频",
         "verified": true,
         "verified_type": 3
       },
@@ -40,27 +61,6 @@
         "id": 5876448064,
         "idstr": "5876448064",
         "screen_name": "青蕉视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5867962564,
-        "idstr": "5867962564",
-        "screen_name": "达州快播报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5763593746,
-        "idstr": "5763593746",
-        "screen_name": "资阳快播报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5745238615,
-        "idstr": "5745238615",
-        "screen_name": "封面快播报",
         "verified": true,
         "verified_type": 3
       }
