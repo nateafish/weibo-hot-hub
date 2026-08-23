@@ -10,11 +10,19 @@
     "status": 2,
     "uid": 6060097900
   },
-  "last_seen_at": "2026-08-23T21:00:00+08:00",
+  "last_seen_at": "2026-08-23T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%BC%A0%E7%9D%BF%E5%AE%B6%E9%87%8C%E6%98%AF%E5%BC%80%E7%83%A7%E7%83%A4%E5%BA%97%E7%9A%84%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "1家媒体",
+    "users": [
+      {
+        "id": 6444725927,
+        "idstr": "6444725927",
+        "screen_name": "吉祥新闻",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#张睿家里是开烧烤店的#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9D%BF%E5%AE%B6%E9%87%8C%E6%98%AF%E5%BC%80%E7%83%A7%E7%83%A4%E5%BA%97%E7%9A%84%23",
