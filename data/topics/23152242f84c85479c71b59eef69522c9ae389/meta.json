@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 5705021476
   },
-  "last_seen_at": "2026-08-23T12:00:00+08:00",
+  "last_seen_at": "2026-08-23T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%AE%8B%E4%B8%B9%E4%B8%B9%E7%A9%BF20%E5%B9%B4%E5%89%8D%E5%AE%B6%E6%9C%89%E5%84%BF%E5%A5%B3%E7%9A%84%E8%A1%A3%E6%9C%8D%23%26t%3D3&title=发布媒体",
-    "show_str": "19家媒体",
+    "show_str": "21家媒体",
     "users": [
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2460937233,
         "idstr": "2460937233",
@@ -37,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 1398613133,
+        "idstr": "1398613133",
+        "screen_name": "马上资讯",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7708039348,
         "idstr": "7708039348",
         "screen_name": "北青娱见",
@@ -47,20 +61,6 @@
         "id": 7152917023,
         "idstr": "7152917023",
         "screen_name": "第一时评",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2647971081,
-        "idstr": "2647971081",
-        "screen_name": "时速新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2183542485,
-        "idstr": "2183542485",
-        "screen_name": "西安广播电视台",
         "verified": true,
         "verified_type": 3
       }
