@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1926909715
   },
-  "last_seen_at": "2026-08-23T09:00:00+08:00",
+  "last_seen_at": "2026-08-23T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%BF%BD%E8%A7%85%E5%8A%9E%E5%85%AC%E5%AE%A4%E5%A4%A7%E7%89%87%E5%B7%A5%E4%BD%8D%E9%97%B2%E7%BD%AE%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "7家媒体",
     "users": [
       {
         "id": 1926909715,
@@ -47,6 +47,13 @@
         "id": 6508016609,
         "idstr": "6508016609",
         "screen_name": "风闻社区",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3901624042,
+        "idstr": "3901624042",
+        "screen_name": "山西日报",
         "verified": true,
         "verified_type": 3
       },

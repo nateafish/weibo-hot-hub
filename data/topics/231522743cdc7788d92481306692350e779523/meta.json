@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 6105713761
   },
-  "last_seen_at": "2026-08-23T09:00:00+08:00",
+  "last_seen_at": "2026-08-23T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%BD%91%E7%BA%A2%E6%B8%A9%E5%A9%89%E5%81%B7%E7%A8%8E%E8%A2%AB%E7%BD%9A%E5%90%8E%E6%8D%A2%E5%8F%B7%E5%A4%8D%E6%B4%BB%23%26t%3D3&title=发布媒体",
-    "show_str": "26家媒体",
+    "show_str": "72家媒体",
     "users": [
       {
         "id": 6105713761,
         "idstr": "6105713761",
         "screen_name": "红星新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2628314830,
+        "idstr": "2628314830",
+        "screen_name": "合肥晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2337985010,
+        "idstr": "2337985010",
+        "screen_name": "瑞安融媒",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 1867427515,
-        "idstr": "1867427515",
-        "screen_name": "新派新闻",
+        "id": 2647971081,
+        "idstr": "2647971081",
+        "screen_name": "时速新闻",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 7282830801,
-        "idstr": "7282830801",
-        "screen_name": "一点资讯财经",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6351705477,
-        "idstr": "6351705477",
-        "screen_name": "北京新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5822206027,
-        "idstr": "5822206027",
-        "screen_name": "北斗融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5145725878,
-        "idstr": "5145725878",
-        "screen_name": "沸点视频",
+        "id": 2191398120,
+        "idstr": "2191398120",
+        "screen_name": "成都商报美食",
         "verified": true,
         "verified_type": 3
       }

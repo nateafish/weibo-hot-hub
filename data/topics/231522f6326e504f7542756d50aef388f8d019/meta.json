@@ -10,11 +10,61 @@
     "status": 2,
     "uid": 2995631244
   },
-  "last_seen_at": "2026-08-23T09:00:00+08:00",
+  "last_seen_at": "2026-08-23T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8E%9F%E6%9D%A5%E6%98%8E%E5%AA%9A%E5%8F%88%E5%BC%80%E6%9C%97%E7%9A%84%E5%A5%B3%E7%94%9F%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "10家媒体",
+    "users": [
+      {
+        "id": 3288875501,
+        "idstr": "3288875501",
+        "screen_name": "河南日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2647971081,
+        "idstr": "2647971081",
+        "screen_name": "时速新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2535760180,
+        "idstr": "2535760180",
+        "screen_name": "安徽视讯",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2041117703,
+        "idstr": "2041117703",
+        "screen_name": "合肥日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2027480085,
+        "idstr": "2027480085",
+        "screen_name": "水母网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1960785875,
+        "idstr": "1960785875",
+        "screen_name": "津云新闻",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#原来明媚又开朗的女生是这样的#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%98%8E%E5%AA%9A%E5%8F%88%E5%BC%80%E6%9C%97%E7%9A%84%E5%A5%B3%E7%94%9F%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%23",
