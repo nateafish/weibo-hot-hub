@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 3266943013
   },
-  "last_seen_at": "2026-08-23T07:00:00+08:00",
+  "last_seen_at": "2026-08-23T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%80%E4%BB%BD20%E4%B8%87%E5%AD%97%E7%9A%84%E6%88%98%E7%95%A5%E6%93%98%E7%94%BB%23%26t%3D3&title=发布媒体",
-    "show_str": "12家媒体",
+    "show_str": "13家媒体",
     "users": [
       {
         "id": 3266943013,
@@ -26,6 +26,13 @@
         "id": 6587633798,
         "idstr": "6587633798",
         "screen_name": "崇义发布",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5608027665,
+        "idstr": "5608027665",
+        "screen_name": "中国环境",
         "verified": true,
         "verified_type": 3
       },
@@ -47,13 +54,6 @@
         "id": 2046576145,
         "idstr": "2046576145",
         "screen_name": "商丘日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5608027665,
-        "idstr": "5608027665",
-        "screen_name": "中国环境",
         "verified": true,
         "verified_type": 3
       },
