@@ -3,11 +3,18 @@
   "created_at": "1409541786",
   "first_seen_at": "2026-08-23T17:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-23T18:00:00+08:00",
+  "last_seen_at": "2026-08-23T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%96%E7%95%8C%E7%BE%BD%E6%AF%9B%E7%90%83%E9%94%A6%E6%A0%87%E8%B5%9B%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "6家媒体",
     "users": [
+      {
+        "id": 5167503212,
+        "idstr": "5167503212",
+        "screen_name": "贵州日报官微",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2188202475,
         "idstr": "2188202475",
@@ -16,9 +23,30 @@
         "verified_type": 3
       },
       {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1867427515,
+        "idstr": "1867427515",
+        "screen_name": "新派新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1703762423,
         "idstr": "1703762423",
         "screen_name": "广东文体广播",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1677991972,
+        "idstr": "1677991972",
+        "screen_name": "晶报",
         "verified": true,
         "verified_type": 3
       }

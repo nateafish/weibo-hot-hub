@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1784473157
   },
-  "last_seen_at": "2026-08-23T18:00:00+08:00",
+  "last_seen_at": "2026-08-23T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%E9%80%9A%E6%8A%A57%E4%BD%8D%E4%B8%93%E5%AE%B6%E8%A2%AB%E5%A4%84%E7%90%86%23%26t%3D3&title=发布媒体",
-    "show_str": "34家媒体",
+    "show_str": "38家媒体",
     "users": [
       {
         "id": 1784473157,
@@ -23,9 +23,23 @@
         "verified_type": 3
       },
       {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1642088277,
         "idstr": "1642088277",
         "screen_name": "财经网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2087875965,
+        "idstr": "2087875965",
+        "screen_name": "法治网",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 7728270349,
-        "idstr": "7728270349",
-        "screen_name": "新闻种草官",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5822206027,
-        "idstr": "5822206027",
-        "screen_name": "北斗融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3604378011,
-        "idstr": "3604378011",
-        "screen_name": "中国新闻社",
+        "id": 1267454277,
+        "idstr": "1267454277",
+        "screen_name": "凤凰周刊",
         "verified": true,
         "verified_type": 3
       }

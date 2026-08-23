@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-08-23T19:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#总书记为何强调文和旅的融合#",
+      "rank": 1,
+      "title": "总书记为何强调文和旅的融合",
+      "topic_id": "2315226453895a5ef1ed1f54ea556e1617ef88"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#3姐弟太饿报警求助民警上门做饭#",
+      "rank": 1,
+      "title": "3姐弟太饿报警求助民警上门做饭",
+      "topic_id": "2315229b63100bb4bc3ee81b5b1e9fc81e8d96"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "新华社战地记者唐师曾因病离世",
+      "rank": 2,
+      "title": "新华社战地记者唐师曾因病离世",
+      "topic_id": "23152217d39cde6613035bcb93c660cbcf3f8e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#见证中国具身智能产业的冰丝带时刻#",
+      "rank": 3,
+      "title": "见证中国具身智能产业的冰丝带时刻",
+      "topic_id": "231522584323856d0e0e96417b2601adac789f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#唐师曾去世前白血球几乎为零#",
+      "rank": 4,
+      "title": "唐师曾去世前白血球几乎为零",
+      "topic_id": "2315221e1d0653a61ce7085b3a81cf6abbb6c0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "世界羽毛球锦标赛",
+      "rank": 5,
+      "title": "世界羽毛球锦标赛",
+      "topic_id": "23152240e648c324b665795ffcb3623c35e338"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "HR笑了半天才给她办入职",
+      "rank": 6,
+      "title": "HR笑了半天才给她办入职",
+      "topic_id": "2315228b5f53f8485dbc748910200205d7519d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#董宇辉走后东方甄选扭亏为盈赚5.44亿#",
+      "rank": 7,
+      "title": "董宇辉走后东方甄选扭亏为盈赚5.44亿",
+      "topic_id": "2315227ef319f45bc66fa98c549a0c96490241"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#女子溺亡十几个摄像头拍不到肇事船#",
+      "rank": 8,
+      "title": "女子溺亡十几个摄像头拍不到肇事船",
+      "topic_id": "231522bed8f2bbb5997d70a267fd0b6cba5f53"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#国家卫健委通报7位专家被处理#",
+      "rank": 9,
+      "title": "国家卫健委通报7位专家被处理",
+      "topic_id": "23152281e794ad2f408d4e60cc26fd8e382644"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "看到孙颖莎这么开心就放心了",
+      "rank": 10,
+      "title": "看到孙颖莎这么开心就放心了",
+      "topic_id": "231522bef76a4cca05b2f6643b6204efba94ce"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#芒果新人撞脸王一博#",
+      "rank": 11,
+      "title": "芒果新人撞脸王一博",
+      "topic_id": "2315222c73198090c51ac51eee50e382caa7bc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "哈兰德剪头发了",
+      "rank": 12,
+      "title": "哈兰德剪头发了",
+      "topic_id": "231522687d80e0d9ac28e7b4f818733c84310c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#杨幂平地摔#",
+      "rank": 13,
+      "title": "杨幂平地摔",
+      "topic_id": "231522a0de9eb9a36c7d2981591b8811d0e9ab"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "王传君 乔任梁",
+      "rank": 14,
+      "title": "王传君 乔任梁",
+      "topic_id": "231522352b355bfba46d53b7591a3f8dac69f6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#我的前半生删去原著罗子君女儿#",
+      "rank": 15,
+      "title": "我的前半生删去原著罗子君女儿",
+      "topic_id": "23152225ce0a90b6557fc078eef2c3d6d1dbd3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#最近是全体教师最脆弱的时候#",
+      "rank": 16,
+      "title": "最近是全体教师最脆弱的时候",
+      "topic_id": "2315228a1fefa702b123b6d884fa304299e738"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#台湾艺人疑破坏日本文物被捕#",
+      "rank": 17,
+      "title": "台湾艺人疑破坏日本文物被捕",
+      "topic_id": "23152258f9e7c082d69d53f1a70bf821984f4c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#你好星期六这回真放母带了#",
+      "rank": 18,
+      "title": "你好星期六这回真放母带了",
+      "topic_id": "23152284fd99bfd1c9fdfbe8014a3aa7e7d447"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "ACT对战FPX.ZQ",
+      "rank": 19,
+      "title": "ACT对战FPX.ZQ",
+      "topic_id": "231522c638023b128ce5b88e344367cfae8926"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "TF四代听到退票的反应",
+      "rank": 20,
+      "title": "TF四代听到退票的反应",
+      "topic_id": "2315222b456873293c51c57f7ea8884e644f61"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#杨幂下回别再拍了#",
+      "rank": 21,
+      "title": "杨幂下回别再拍了",
+      "topic_id": "231522564c2ca5e88a6ec80721eea8e0a744a0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#涉事银行回应老农被贷款千万#",
+      "rank": 22,
+      "title": "涉事银行回应老农被贷款千万",
+      "topic_id": "231522dc649437f9e284dd6c10aa06043d72da"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#终于懂为什么大家对容貌有执念了#",
+      "rank": 23,
+      "title": "终于懂为什么大家对容貌有执念了",
+      "topic_id": "231522e967a8da033c2c6e3d5cfed0dbe74ad9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#甜馨否认恋爱#",
+      "rank": 24,
+      "title": "甜馨否认恋爱",
+      "topic_id": "2315225afdca07287e217dc74c975870b42172"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "你以为的低精力和真正的低精力",
+      "rank": 25,
+      "title": "你以为的低精力和真正的低精力",
+      "topic_id": "2315229a24252cc6028d2045d51d290d77c094"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张元英TIMA主持#",
+      "rank": 26,
+      "title": "张元英TIMA主持",
+      "topic_id": "2315229400aadc1a15f6bec29c5b3ae7be846a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "卫生巾居然能卷成这样",
+      "rank": 27,
+      "title": "卫生巾居然能卷成这样",
+      "topic_id": "231522d9d20cfcda02e53bdaa710760d163f2b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#金价反弹重要原因#",
+      "rank": 28,
+      "title": "金价反弹重要原因",
+      "topic_id": "231522aeddc352d7721cd1bb7243aad0ef67de"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "时代少年团七周年演唱会选址排除法",
+      "rank": 29,
+      "title": "时代少年团七周年演唱会选址排除法",
+      "topic_id": "2315229a680cb565b14ce159ec0f8e2a9f2f84"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "胡锡进称正规媒体应惭愧",
+      "rank": 30,
+      "title": "胡锡进称正规媒体应惭愧",
+      "topic_id": "23152292a1d9e82c679fa4761feaef387a3c64"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#一张成人票困住独自乘车的孩子#",
+      "rank": 31,
+      "title": "一张成人票困住独自乘车的孩子",
+      "topic_id": "2315228b56043c1b298dbc95f43965c80720c2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#万茜腰臀比#",
+      "rank": 32,
+      "title": "万茜腰臀比",
+      "topic_id": "231522b990cea0cfe2ad305ef6fe9681efebcf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#丁禹兮孟子义拍了电梯抱#",
+      "rank": 33,
+      "title": "丁禹兮孟子义拍了电梯抱",
+      "topic_id": "23152285b8033b23ad50c6f21ba6051ec063d1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#处暑撞上出伏这几件事记得做#",
+      "rank": 34,
+      "title": "处暑撞上出伏这几件事记得做",
+      "topic_id": "231522c9dac82b2b75f7e2da8e547433093eba"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "难怪进郭敬明剧组瘦一圈",
+      "rank": 35,
+      "title": "难怪进郭敬明剧组瘦一圈",
+      "topic_id": "23152221c583f8825e2c40bbad1de9f2ab55a0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "诬告强奸是否真零成本",
+      "rank": 36,
+      "title": "诬告强奸是否真零成本",
+      "topic_id": "231522699c027f210179b7ed7d24836a8fbbfc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#张远维权五代彩带#",
+      "rank": 37,
+      "title": "张远维权五代彩带",
+      "topic_id": "2315225a8a51161399f44789289e6966d5660d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "AG对战WB",
+      "rank": 38,
+      "title": "AG对战WB",
+      "topic_id": "231522f9aeb184ab2c8f2bd7bb6cedee6b2389"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曹骏二公分组#",
+      "rank": 39,
+      "title": "曹骏二公分组",
+      "topic_id": "231522747ca819eb67f4d4018a57ffc2bea50c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#警方回应巴西女子遭多重器械囚禁#",
+      "rank": 40,
+      "title": "警方回应巴西女子遭多重器械囚禁",
+      "topic_id": "23152252c6d9ad78060aabb636cafe79c59f5e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#肖战刚上班就想下班了#",
+      "rank": 41,
+      "title": "肖战刚上班就想下班了",
+      "topic_id": "231522581d0926877867638b37964d7b902671"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#黄灿灿让张月买单被经纪人骂#",
+      "rank": 42,
+      "title": "黄灿灿让张月买单被经纪人骂",
+      "topic_id": "231522e2af3f3182c8530aa12c6acbf21f6e56"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "原来我小时候就吃的这么好",
+      "rank": 43,
+      "title": "原来我小时候就吃的这么好",
+      "topic_id": "2315226a052773c2a8e8e48bfebc6f4c26adaa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#对栀子花的认知还是太少了#",
+      "rank": 44,
+      "title": "对栀子花的认知还是太少了",
+      "topic_id": "23152281d623591836dbfb7ff40de25c53488f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#商场一奔驰展车撞碎护栏险坠楼#",
+      "rank": 45,
+      "title": "商场一奔驰展车撞碎护栏险坠楼",
+      "topic_id": "2315220cc6f637a96b5116cea097955c32efec"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "张凌赫差点又抛媚眼给瞎子看",
+      "rank": 46,
+      "title": "张凌赫差点又抛媚眼给瞎子看",
+      "topic_id": "231522e0e22a3d7ad6b39a42a790bd586876c4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "你不是想死你是不想痛苦了",
+      "rank": 47,
+      "title": "你不是想死你是不想痛苦了",
+      "topic_id": "2315229c7ce5566be16ea7a7d294f1e97f5392"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#重器大结局#",
+      "rank": 48,
+      "title": "重器大结局",
+      "topic_id": "2315220a97b7d73510d7bb31b4b6ae09502d66"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#小米官宣新一代玄戒芯片技术发布会#",
+      "rank": 49,
+      "title": "小米官宣新一代玄戒芯片技术发布会",
+      "topic_id": "2315225564d2ecf844e00255cec3aecc6c3d2c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#严浩翔张峻豪实力难分高低#",
+      "rank": 50,
+      "title": "严浩翔张峻豪实力难分高低",
+      "topic_id": "231522d821207dae7997cdcd3aed9181a1dd37"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
