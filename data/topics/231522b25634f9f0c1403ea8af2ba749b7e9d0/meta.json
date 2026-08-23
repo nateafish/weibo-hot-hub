@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 6196105965
   },
-  "last_seen_at": "2026-08-24T00:00:00+08:00",
+  "last_seen_at": "2026-08-24T01:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BB%8E140%E7%98%A6%E5%88%B0%E4%BA%8695%E6%96%A4%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "5家媒体",
     "users": [
       {
         "id": 2630281751,
@@ -26,6 +26,13 @@
         "id": 1656737654,
         "idstr": "1656737654",
         "screen_name": "现代快报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1411163204,
+        "idstr": "1411163204",
+        "screen_name": "人民日报健康客户端",
         "verified": true,
         "verified_type": 3
       },
