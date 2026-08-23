@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1657846147
   },
-  "last_seen_at": "2026-08-24T06:00:00+08:00",
+  "last_seen_at": "2026-08-24T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%80%E4%BB%A3%E4%BA%BA%E6%9C%89%E4%B8%80%E4%BB%A3%E4%BA%BA%E7%9A%84%E9%9A%90%E5%BD%A2%E5%AE%B6%E5%8A%A1%23%26t%3D3&title=发布媒体",
-    "show_str": "11家媒体",
+    "show_str": "12家媒体",
     "users": [
       {
         "id": 3288875501,
@@ -26,6 +26,13 @@
         "id": 2075245652,
         "idstr": "2075245652",
         "screen_name": "长春晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2813313591,
+        "idstr": "2813313591",
+        "screen_name": "中新网海南",
         "verified": true,
         "verified_type": 3
       },
@@ -54,13 +61,6 @@
         "id": 1987235622,
         "idstr": "1987235622",
         "screen_name": "丹阳日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1747728084,
-        "idstr": "1747728084",
-        "screen_name": "北京城市广播FM1025",
         "verified": true,
         "verified_type": 3
       }
