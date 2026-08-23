@@ -10,11 +10,61 @@
     "status": 2,
     "uid": 2284130703
   },
-  "last_seen_at": "2026-08-23T16:00:00+08:00",
+  "last_seen_at": "2026-08-23T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%91%8A%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E9%83%BD%E8%A6%81%E6%8E%92%E9%98%9F%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "7家媒体",
+    "users": [
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2647971081,
+        "idstr": "2647971081",
+        "screen_name": "时速新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1960785875,
+        "idstr": "1960785875",
+        "screen_name": "津云新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1938523582,
+        "idstr": "1938523582",
+        "screen_name": "宁波晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1867427515,
+        "idstr": "1867427515",
+        "screen_name": "新派新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1652484947,
+        "idstr": "1652484947",
+        "screen_name": "新快报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497087080,
+        "idstr": "1497087080",
+        "screen_name": "羊城晚报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#告时代峰峻都要排队#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E5%91%8A%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E9%83%BD%E8%A6%81%E6%8E%92%E9%98%9F%23",

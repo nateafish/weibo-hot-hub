@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1771221871
   },
-  "last_seen_at": "2026-08-23T16:00:00+08:00",
+  "last_seen_at": "2026-08-23T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%80%E5%BC%A0%E6%88%90%E4%BA%BA%E7%A5%A8%E5%9B%B0%E4%BD%8F%E7%8B%AC%E8%87%AA%E4%B9%98%E8%BD%A6%E7%9A%84%E5%AD%A9%E5%AD%90%23%26t%3D3&title=发布媒体",
-    "show_str": "16家媒体",
+    "show_str": "28家媒体",
     "users": [
       {
         "id": 1771221871,
         "idstr": "1771221871",
         "screen_name": "大象评论",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1887344341,
+        "idstr": "1887344341",
+        "screen_name": "观察者网",
         "verified": true,
         "verified_type": 3
       },
@@ -37,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 2318910945,
+        "idstr": "2318910945",
+        "screen_name": "新浪热点",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1909377960,
         "idstr": "1909377960",
         "screen_name": "起点新闻",
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 3901624042,
-        "idstr": "3901624042",
-        "screen_name": "山西日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3266943013,
-        "idstr": "3266943013",
-        "screen_name": "央视网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2535760180,
-        "idstr": "2535760180",
-        "screen_name": "安徽视讯",
+        "id": 2028810631,
+        "idstr": "2028810631",
+        "screen_name": "新浪新闻",
         "verified": true,
         "verified_type": 3
       }

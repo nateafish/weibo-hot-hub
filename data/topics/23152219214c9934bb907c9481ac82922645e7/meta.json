@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 5705021476
   },
-  "last_seen_at": "2026-08-23T16:00:00+08:00",
+  "last_seen_at": "2026-08-23T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%BC%A0%E6%99%BA%E9%9C%96%E5%84%BF%E5%AD%90%E6%8B%85%E4%BB%BB%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%89%E4%BB%96%E6%89%8B%23%26t%3D3&title=发布媒体",
-    "show_str": "9家媒体",
+    "show_str": "11家媒体",
     "users": [
       {
         "id": 1943154142,
@@ -26,6 +26,13 @@
         "id": 2346437860,
         "idstr": "2346437860",
         "screen_name": "三峡融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6536846182,
+        "idstr": "6536846182",
+        "screen_name": "现代快报快快看视频",
         "verified": true,
         "verified_type": 3
       },
@@ -54,13 +61,6 @@
         "id": 2045624511,
         "idstr": "2045624511",
         "screen_name": "济南音乐广播Music887",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1899227237,
-        "idstr": "1899227237",
-        "screen_name": "青岛早报",
         "verified": true,
         "verified_type": 3
       }
