@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 7276216181
   },
-  "last_seen_at": "2026-08-23T22:00:00+08:00",
+  "last_seen_at": "2026-08-23T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%95%99%E5%87%A0%E6%89%8B%E6%96%A5%E8%B4%A3%E5%82%85%E9%A6%96%E5%B0%94%E5%89%8D%E5%A4%AB%E6%AC%BA%E8%BD%AF%E6%80%95%E7%A1%AC%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "3家媒体",
     "users": [
       {
         "id": 7708039348,
         "idstr": "7708039348",
         "screen_name": "北青娱见",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2535760180,
+        "idstr": "2535760180",
+        "screen_name": "安徽视讯",
         "verified": true,
         "verified_type": 3
       },

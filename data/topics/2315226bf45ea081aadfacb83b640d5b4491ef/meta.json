@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 5556111165
   },
-  "last_seen_at": "2026-08-23T22:00:00+08:00",
+  "last_seen_at": "2026-08-23T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8E%9F%E6%9D%A5%E5%86%85%E5%90%91%E7%9A%84%E4%BA%BA%E9%83%BD%E6%98%AF%E8%BF%99%E6%A0%B7%E4%BA%A4%E6%9C%8B%E5%8F%8B%E7%9A%84%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "6家媒体",
     "users": [
       {
         "id": 1288429914,
         "idstr": "1288429914",
         "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2535760180,
+        "idstr": "2535760180",
+        "screen_name": "安徽视讯",
         "verified": true,
         "verified_type": 3
       },
@@ -33,6 +40,20 @@
         "id": 1913382117,
         "idstr": "1913382117",
         "screen_name": "深圳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1747728084,
+        "idstr": "1747728084",
+        "screen_name": "北京城市广播FM1025",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1406911561,
+        "idstr": "1406911561",
+        "screen_name": "云南广播电视台",
         "verified": true,
         "verified_type": 3
       }

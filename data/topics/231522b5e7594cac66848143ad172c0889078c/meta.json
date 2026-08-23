@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2803301701
   },
-  "last_seen_at": "2026-08-23T22:00:00+08:00",
+  "last_seen_at": "2026-08-23T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%232%E4%B8%87%E4%BB%B6%E4%B8%AD%E5%A4%AE%E6%95%91%E7%81%BE%E7%89%A9%E8%B5%84%E6%94%AF%E6%8C%81%E5%B9%BF%E8%A5%BF%23%26t%3D3&title=发布媒体",
-    "show_str": "31家媒体",
+    "show_str": "36家媒体",
     "users": [
       {
         "id": 2803301701,
@@ -26,6 +26,13 @@
         "id": 2685336121,
         "idstr": "2685336121",
         "screen_name": "南宁晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1727472420,
+        "idstr": "1727472420",
+        "screen_name": "泰山晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 7211561239,
+        "idstr": "7211561239",
+        "screen_name": "央视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7126605018,
         "idstr": "7126605018",
         "screen_name": "各界新闻网官微",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6304381077,
-        "idstr": "6304381077",
-        "screen_name": "老友记TV",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6115560351,
-        "idstr": "6115560351",
-        "screen_name": "国是直通车",
         "verified": true,
         "verified_type": 3
       }
