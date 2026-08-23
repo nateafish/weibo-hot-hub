@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 5291824241
   },
-  "last_seen_at": "2026-08-23T11:00:00+08:00",
+  "last_seen_at": "2026-08-23T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9D%8E%E7%8E%B0%E7%AB%A0%E8%8B%A5%E6%A5%A0%E4%B8%80%E8%B5%B7%E7%9C%8B%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%BC%94%E5%94%B1%E4%BC%9A%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "9家媒体",
     "users": [
+      {
+        "id": 7422806367,
+        "idstr": "7422806367",
+        "screen_name": "中网传播",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 3514732862,
         "idstr": "3514732862",
@@ -37,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 1960785875,
+        "idstr": "1960785875",
+        "screen_name": "津云新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1496814565,
         "idstr": "1496814565",
         "screen_name": "封面新闻",
@@ -44,9 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1043320390,
-        "idstr": "1043320390",
-        "screen_name": "半岛晨报",
+        "id": 1406911561,
+        "idstr": "1406911561",
+        "screen_name": "云南广播电视台",
         "verified": true,
         "verified_type": 3
       }

@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2995631244
   },
-  "last_seen_at": "2026-08-23T11:00:00+08:00",
+  "last_seen_at": "2026-08-23T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8E%9F%E6%9D%A5%E6%98%8E%E5%AA%9A%E5%8F%88%E5%BC%80%E6%9C%97%E7%9A%84%E5%A5%B3%E7%94%9F%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%23%26t%3D3&title=发布媒体",
-    "show_str": "10家媒体",
+    "show_str": "13家媒体",
     "users": [
       {
         "id": 3288875501,
@@ -26,6 +26,13 @@
         "id": 2685336121,
         "idstr": "2685336121",
         "screen_name": "南宁晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2659523842,
+        "idstr": "2659523842",
+        "screen_name": "黔东南新闻网官方微博",
         "verified": true,
         "verified_type": 3
       },
@@ -54,13 +61,6 @@
         "id": 2027480085,
         "idstr": "2027480085",
         "screen_name": "水母网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1960785875,
-        "idstr": "1960785875",
-        "screen_name": "津云新闻",
         "verified": true,
         "verified_type": 3
       }
