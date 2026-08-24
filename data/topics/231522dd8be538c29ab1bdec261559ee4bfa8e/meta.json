@@ -3,15 +3,15 @@
   "created_at": 1787549310,
   "first_seen_at": "2026-08-24T14:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-24T17:00:00+08:00",
+  "last_seen_at": "2026-08-24T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%8E%8B%E4%BB%A5%E5%A4%AA%E8%A2%AB%E6%8A%AB%E5%93%A5%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%90%90%E6%A7%BD%23%26t%3D3&title=发布媒体",
-    "show_str": "17家媒体",
+    "show_str": "22家媒体",
     "users": [
       {
-        "id": 2075245652,
-        "idstr": "2075245652",
-        "screen_name": "长春晚报",
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -19,6 +19,13 @@
         "id": 1288429914,
         "idstr": "1288429914",
         "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7590570074,
+        "idstr": "7590570074",
+        "screen_name": "山海视频",
         "verified": true,
         "verified_type": 3
       },
@@ -44,18 +51,11 @@
         "verified_type": 3
       },
       {
-        "id": 7590570074,
-        "idstr": "7590570074",
-        "screen_name": "山海视频",
+        "id": 6590980486,
+        "idstr": "6590980486",
+        "screen_name": "捉谣记",
         "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6444725927,
-        "idstr": "6444725927",
-        "screen_name": "吉祥新闻",
-        "verified": true,
-        "verified_type": 3
+        "verified_type": 7
       }
     ]
   },
