@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 5039775130
   },
-  "last_seen_at": "2026-08-24T12:00:00+08:00",
+  "last_seen_at": "2026-08-24T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%BC%A0%E5%AD%90%E6%9E%AB%E5%A5%BD%E8%96%84%E7%9A%84%E4%B8%80%E7%89%87%23%26t%3D3&title=发布媒体",
-    "show_str": "10家媒体",
+    "show_str": "11家媒体",
     "users": [
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 7708039348,
         "idstr": "7708039348",
@@ -54,13 +61,6 @@
         "id": 1960785875,
         "idstr": "1960785875",
         "screen_name": "津云新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1959444680,
-        "idstr": "1959444680",
-        "screen_name": "云南网",
         "verified": true,
         "verified_type": 3
       }

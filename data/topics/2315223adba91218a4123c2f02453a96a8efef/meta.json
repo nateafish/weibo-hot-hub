@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 1644114654
   },
-  "last_seen_at": "2026-08-24T12:00:00+08:00",
+  "last_seen_at": "2026-08-24T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%AE%98%E6%96%B9%E6%8F%90%E5%87%BA%E8%A1%A5%E8%B4%B4%E5%B8%AE%E6%89%B6%E8%80%81%E4%BA%BA%E9%81%AD%E7%B4%A2%E8%B5%94%E5%BA%97%E5%AE%B6%23%26t%3D3&title=发布媒体",
-    "show_str": "40家媒体",
+    "show_str": "57家媒体",
     "users": [
       {
         "id": 1644114654,
         "idstr": "1644114654",
         "screen_name": "新京报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1744332207,
+        "idstr": "1744332207",
+        "screen_name": "钱江视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1642088277,
+        "idstr": "1642088277",
+        "screen_name": "财经网",
         "verified": true,
         "verified_type": 3
       },
@@ -40,20 +54,6 @@
         "id": 1887790981,
         "idstr": "1887790981",
         "screen_name": "广州日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1267454277,
-        "idstr": "1267454277",
-        "screen_name": "凤凰周刊",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1941424392,
-        "idstr": "1941424392",
-        "screen_name": "台州晚报",
         "verified": true,
         "verified_type": 3
       },

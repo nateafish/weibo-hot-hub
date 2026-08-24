@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1789681642
   },
-  "last_seen_at": "2026-08-24T12:00:00+08:00",
+  "last_seen_at": "2026-08-24T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%A4%BE%E5%8C%BA%E5%9B%9E%E5%BA%94%E8%80%81%E4%BA%BA%E5%BA%97%E5%86%85%E7%A6%BB%E4%B8%96%E8%A2%AB%E7%B4%A2%E8%B5%9410%E4%B8%87%23%26t%3D3&title=发布媒体",
-    "show_str": "9家媒体",
+    "show_str": "13家媒体",
     "users": [
       {
         "id": 1789681642,
@@ -44,23 +44,23 @@
         "verified_type": 2
       },
       {
+        "id": 2217754287,
+        "idstr": "2217754287",
+        "screen_name": "桂林晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2118120483,
+        "idstr": "2118120483",
+        "screen_name": "青岛日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1859550620,
         "idstr": "1859550620",
         "screen_name": "深圳新闻广播",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1764598954,
-        "idstr": "1764598954",
-        "screen_name": "西江潮新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1750070171,
-        "idstr": "1750070171",
-        "screen_name": "36氪",
         "verified": true,
         "verified_type": 3
       }

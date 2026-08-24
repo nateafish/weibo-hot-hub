@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 3779587905
   },
-  "last_seen_at": "2026-08-24T12:00:00+08:00",
+  "last_seen_at": "2026-08-24T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%82%96%E6%88%98%E4%BB%8E%E8%BF%99%E9%87%8C%E9%97%AA%E8%80%80%E4%B8%8A%E7%BA%BF%23%26t%3D3&title=发布媒体",
-    "show_str": "18家媒体",
+    "show_str": "21家媒体",
     "users": [
       {
         "id": 2992050891,
@@ -23,9 +23,23 @@
         "verified_type": 3
       },
       {
+        "id": 1899227237,
+        "idstr": "1899227237",
+        "screen_name": "青岛早报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7422806367,
         "idstr": "7422806367",
         "screen_name": "中网传播",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7211561239,
+        "idstr": "7211561239",
+        "screen_name": "央视频",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 6832629459,
         "idstr": "6832629459",
         "screen_name": "麦穗财经",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6373459851,
-        "idstr": "6373459851",
-        "screen_name": "麦穗视频快快看",
-        "verified": true,
-        "verified_type": 7
-      },
-      {
-        "id": 5984369937,
-        "idstr": "5984369937",
-        "screen_name": "时代报告",
         "verified": true,
         "verified_type": 3
       }
