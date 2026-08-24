@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-08-24T11:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#此情寄山水#",
+      "rank": 1,
+      "title": "此情寄山水",
+      "topic_id": "2315222b9c6c5a56fb9a0b1d5b7c7ca75fcbdc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#派出所回应扶老人被索赔10万事件#",
+      "rank": 1,
+      "title": "派出所回应扶老人被索赔10万事件",
+      "topic_id": "231522cd530df66cd286dade31efcdf19cbded"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "无座票为何和二等座同价",
+      "rank": 2,
+      "title": "无座票为何和二等座同价",
+      "topic_id": "23152211a1dc22342a5947d744808dc5d7c78e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#世界人形机器人运动会现场画面#",
+      "rank": 3,
+      "title": "世界人形机器人运动会现场画面",
+      "topic_id": "231522c47cdd706525321e9204da05132231f6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "105岁老妈说85岁儿子这辈子完了",
+      "rank": 4,
+      "title": "105岁老妈说85岁儿子这辈子完了",
+      "topic_id": "23152285fa3eb42d7acf2918daf408844a8af8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#不愿换座女生称读书必须给你让座吗#",
+      "rank": 5,
+      "title": "不愿换座女生称读书必须给你让座吗",
+      "topic_id": "231522d3b3fc6edab3960f878f94c6a23c63b5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "这些叫不出来的东西真有名字",
+      "rank": 6,
+      "title": "这些叫不出来的东西真有名字",
+      "topic_id": "2315226440d5b99e9541f5d767ae9e098ab203"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "427万辆召回 没有一款油车",
+      "rank": 7,
+      "title": "427万辆召回 没有一款油车",
+      "topic_id": "231522b2b3bbf170455da0585e0a71a8493079"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "四六级成绩",
+      "rank": 8,
+      "title": "四六级成绩",
+      "topic_id": "231522cea8de46da531e3d55c2dbbf92609e8c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "花开锦绣女主被指双标",
+      "rank": 9,
+      "title": "花开锦绣女主被指双标",
+      "topic_id": "231522f0a64d317b83a07a13f7b81e1567ce75"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张韶涵演唱会突发心脏不适#",
+      "rank": 10,
+      "title": "张韶涵演唱会突发心脏不适",
+      "topic_id": "231522b5f8af4140438ed589d3701cf4d7f169"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "黄金",
+      "rank": 11,
+      "title": "黄金",
+      "topic_id": "23152211289a9c3dbe0fb8810cf271903fc8ac"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#韩沛颖让王晓晨道歉#",
+      "rank": 12,
+      "title": "韩沛颖让王晓晨道歉",
+      "topic_id": "2315226549b8c04a4066dc0e75eaa901ce8ddb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#四川长宁地震#",
+      "rank": 13,
+      "title": "四川长宁地震",
+      "topic_id": "23152242d8e63afefbd518987f47363993352c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "宋亚轩 得物账号",
+      "rank": 14,
+      "title": "宋亚轩 得物账号",
+      "topic_id": "23152252676d299c2e1001ef96273214b1fbc1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "A股",
+      "rank": 15,
+      "title": "A股",
+      "topic_id": "2315229ff55ef4a3e846e498a336fdeb06cbdb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张韶涵因心脏病找母亲要医疗费未果#",
+      "rank": 16,
+      "title": "张韶涵因心脏病找母亲要医疗费未果",
+      "topic_id": "23152242d3890ec28da27f015010ca37d905c6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#官方提出补贴帮扶老人遭索赔店家#",
+      "rank": 17,
+      "title": "官方提出补贴帮扶老人遭索赔店家",
+      "topic_id": "2315223adba91218a4123c2f02453a96a8efef"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#丁程鑫机场被点名#",
+      "rank": 18,
+      "title": "丁程鑫机场被点名",
+      "topic_id": "2315223d06a93b10e85abe9a8777168a36b434"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "千万不要冲动买养老房",
+      "rank": 19,
+      "title": "千万不要冲动买养老房",
+      "topic_id": "231522dab653fe2265e93b2d1595d13fdd9964"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "早春晴朗will选刘畅好对味",
+      "rank": 20,
+      "title": "早春晴朗will选刘畅好对味",
+      "topic_id": "231522257f79d5c5e86eab8081fb6d76e73e58"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#主角剧宣时韩沛颖对刘浩存的态度#",
+      "rank": 21,
+      "title": "主角剧宣时韩沛颖对刘浩存的态度",
+      "topic_id": "2315222257e52162ce364ae17c55484847c1ce"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#四十多岁女丁克想生孩子#",
+      "rank": 22,
+      "title": "四十多岁女丁克想生孩子",
+      "topic_id": "23152211832fdaedd6b996a2a7d7f7c0c14e09"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#扶老人遭索赔10万牌馆已停业#",
+      "rank": 23,
+      "title": "扶老人遭索赔10万牌馆已停业",
+      "topic_id": "231522c0bcd5f084f7cda1b000abfd745f790f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#敌敌畏消杀涉绿茶餐厅#",
+      "rank": 24,
+      "title": "敌敌畏消杀涉绿茶餐厅",
+      "topic_id": "231522fdb1fab2476cb1a89d4cd55236e0bafc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "楚嘉禾 加戏",
+      "rank": 25,
+      "title": "楚嘉禾 加戏",
+      "topic_id": "2315226bb25b8f74c9f5fd643950397093ee27"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#官方回应长宁地震预警偏差#",
+      "rank": 26,
+      "title": "官方回应长宁地震预警偏差",
+      "topic_id": "2315224cb6236f2030937210e45f0ecb4443dc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#26岁销售员验DNA成了比利时王子#",
+      "rank": 27,
+      "title": "26岁销售员验DNA成了比利时王子",
+      "topic_id": "2315221f92d10e3d40e1e5513b61ab8ceb4696"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#从140瘦到了95斤#",
+      "rank": 28,
+      "title": "从140瘦到了95斤",
+      "topic_id": "231522b25634f9f0c1403ea8af2ba749b7e9d0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#白鹿曾买了835张宋雨琦数字专辑#",
+      "rank": 29,
+      "title": "白鹿曾买了835张宋雨琦数字专辑",
+      "topic_id": "2315228b3006dee8d18135c9059907a335849b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "六级 写译我讨厌你",
+      "rank": 30,
+      "title": "六级 写译我讨厌你",
+      "topic_id": "2315229e0128b2f6069120367f021f73e874bb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#李登科聊金晨退圈#",
+      "rank": 31,
+      "title": "李登科聊金晨退圈",
+      "topic_id": "23152298e72ab08f45ad1e42c0e82004e4fa1c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张子枫好薄的一片#",
+      "rank": 32,
+      "title": "张子枫好薄的一片",
+      "topic_id": "231522a0f091bf1c46ad5ed4e8862d9ff85bd7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "台风",
+      "rank": 33,
+      "title": "台风",
+      "topic_id": "231522647d33aff1e4bb9ed725b08888cdda22"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "破产姐妹史上最长售后",
+      "rank": 34,
+      "title": "破产姐妹史上最长售后",
+      "topic_id": "2315228cf99fffcfab068c6e83ed7877057247"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#巴西连颅女婴分离手术后相继去世#",
+      "rank": 35,
+      "title": "巴西连颅女婴分离手术后相继去世",
+      "topic_id": "2315224d74eb23b986f0018ff734b2b9cc32c9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#金晨瘦成这样居然还有肌肉#",
+      "rank": 36,
+      "title": "金晨瘦成这样居然还有肌肉",
+      "topic_id": "231522c15f0fe3b95c56632035e68701e8126c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "梁伟铿王昶世锦赛夺冠憋了很久",
+      "rank": 37,
+      "title": "梁伟铿王昶世锦赛夺冠憋了很久",
+      "topic_id": "23152216b2bf972e2d46ab776f0a982cbdb371"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#孙珍妮艾米合照#",
+      "rank": 38,
+      "title": "孙珍妮艾米合照",
+      "topic_id": "2315221dc382bd1ffd2a1436eb94898d48604e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#阿信抓到李现章若楠爬墙#",
+      "rank": 39,
+      "title": "阿信抓到李现章若楠爬墙",
+      "topic_id": "231522a771b5ab5d26a9781b826b2968f56ecd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#羞答答的机器人跑了第一#",
+      "rank": 40,
+      "title": "羞答答的机器人跑了第一",
+      "topic_id": "23152233d70678d6ad3a7f8ba387f81bb14ac6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "页岩气开采 地震",
+      "rank": 41,
+      "title": "页岩气开采 地震",
+      "topic_id": "231522658704b56274b9410f0cc0b4e2081ef6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#苹果发布会预计时间#",
+      "rank": 42,
+      "title": "苹果发布会预计时间",
+      "topic_id": "23152239aff2e8ca5eca13cfd1ccd6141717cb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#爸爸拉一车西瓜带女儿进藏自驾游#",
+      "rank": 43,
+      "title": "爸爸拉一车西瓜带女儿进藏自驾游",
+      "topic_id": "231522d713e91c6c79e1856de5aff3a9f74754"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "阿尔瓦雷斯 彻底闹掰",
+      "rank": 44,
+      "title": "阿尔瓦雷斯 彻底闹掰",
+      "topic_id": "231522e4056d775aae578486f851da76013a4c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "美债风暴席卷全球",
+      "rank": 45,
+      "title": "美债风暴席卷全球",
+      "topic_id": "231522ec02b3bf13549ee69185f3cf50ab2400"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#韦东奕账号下架新书已售3万多#",
+      "rank": 46,
+      "title": "韦东奕账号下架新书已售3万多",
+      "topic_id": "2315223de0a1fbef97c249190dc86ab804a08e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#曝刺棠女主是镶边的角色#",
+      "rank": 47,
+      "title": "曝刺棠女主是镶边的角色",
+      "topic_id": "231522ffc231c354e5b493f7789b8543bf52c8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#马竞让阿尔瓦雷斯不要参与谢场#",
+      "rank": 48,
+      "title": "马竞让阿尔瓦雷斯不要参与谢场",
+      "topic_id": "23152288e3fd938fa8fbc0bc20948907bcf2a7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#早春晴朗选角最神的来了#",
+      "rank": 49,
+      "title": "早春晴朗选角最神的来了",
+      "topic_id": "231522a3c89d67a171df2586c59c141837057b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#父亲直播目睹儿子篮球赛倒地后离世#",
+      "rank": 50,
+      "title": "父亲直播目睹儿子篮球赛倒地后离世",
+      "topic_id": "231522b59875fb992a6859cac249ca6db3eda1"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

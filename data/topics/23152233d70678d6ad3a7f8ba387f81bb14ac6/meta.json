@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 2656274875
   },
-  "last_seen_at": "2026-08-24T09:00:00+08:00",
+  "last_seen_at": "2026-08-24T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%BE%9E%E7%AD%94%E7%AD%94%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%91%E4%BA%86%E7%AC%AC%E4%B8%80%23%26t%3D3&title=发布媒体",
-    "show_str": "75家媒体",
+    "show_str": "106家媒体",
     "users": [
       {
         "id": 2656274875,
         "idstr": "2656274875",
         "screen_name": "央视新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2210869832,
+        "idstr": "2210869832",
+        "screen_name": "科技头版",
+        "verified": true,
+        "verified_type": 2
+      },
+      {
+        "id": 7756551991,
+        "idstr": "7756551991",
+        "screen_name": "郓城融媒",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 2024623547,
         "idstr": "2024623547",
         "screen_name": "央视一套",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1880922220,
-        "idstr": "1880922220",
-        "screen_name": "金华晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1847123567,
-        "idstr": "1847123567",
-        "screen_name": "香港商報",
         "verified": true,
         "verified_type": 3
       }

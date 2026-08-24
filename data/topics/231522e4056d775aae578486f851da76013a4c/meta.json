@@ -3,11 +3,18 @@
   "created_at": 1787522492,
   "first_seen_at": "2026-08-24T09:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-24T09:00:00+08:00",
+  "last_seen_at": "2026-08-24T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%98%BF%E5%B0%94%E7%93%A6%E9%9B%B7%E6%96%AF+%E5%BD%BB%E5%BA%95%E9%97%B9%E6%8E%B0%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "7家媒体",
     "users": [
+      {
+        "id": 7467277921,
+        "idstr": "7467277921",
+        "screen_name": "万维视频",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 7441318559,
         "idstr": "7441318559",
@@ -42,6 +49,13 @@
         "screen_name": "咪咕剧场",
         "verified": true,
         "verified_type": 3
+      },
+      {
+        "id": 1638781994,
+        "idstr": "1638781994",
+        "screen_name": "新浪体育",
+        "verified": true,
+        "verified_type": 7
       }
     ]
   },
