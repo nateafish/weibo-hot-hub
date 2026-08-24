@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 7516679696
   },
-  "last_seen_at": "2026-08-24T21:00:00+08:00",
+  "last_seen_at": "2026-08-24T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%80%81%E4%BA%BA%E5%BA%97%E5%86%85%E7%A6%BB%E4%B8%96%E4%BA%8B%E4%BB%B6%E7%9B%AE%E5%87%BB%E8%80%85%E8%AE%B2%E8%BF%B0%E7%BB%8F%E8%BF%87%23%26t%3D3&title=发布媒体",
-    "show_str": "30家媒体",
+    "show_str": "60家媒体",
     "users": [
       {
         "id": 7516679696,
         "idstr": "7516679696",
         "screen_name": "九派新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2118120483,
+        "idstr": "2118120483",
+        "screen_name": "青岛日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2460937233,
+        "idstr": "2460937233",
+        "screen_name": "热度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7476748260,
+        "idstr": "7476748260",
+        "screen_name": "大公文匯網",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 7020664161,
-        "idstr": "7020664161",
-        "screen_name": "福建经济生活频道",
+        "id": 1618051664,
+        "idstr": "1618051664",
+        "screen_name": "头条新闻",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 6485704310,
-        "idstr": "6485704310",
-        "screen_name": "贵港广播电视台",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6253454836,
-        "idstr": "6253454836",
-        "screen_name": "郑报融媒体中心",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6105713761,
-        "idstr": "6105713761",
-        "screen_name": "红星新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5110439722,
-        "idstr": "5110439722",
-        "screen_name": "哈尔滨经济广播电台",
+        "id": 5550357934,
+        "idstr": "5550357934",
+        "screen_name": "动静贵州",
         "verified": true,
         "verified_type": 3
       }

@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1909377960
   },
-  "last_seen_at": "2026-08-24T21:00:00+08:00",
+  "last_seen_at": "2026-08-24T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A9%9A%E7%A4%BC%E7%AC%AC%E4%BA%8C%E5%A4%A9%E6%96%B0%E5%A8%98%E6%8C%87%E7%BA%B9%E8%A2%AB%E7%88%B8%E7%88%B8%E5%88%A0%E6%8E%89%23%26t%3D3&title=发布媒体",
-    "show_str": "29家媒体",
+    "show_str": "40家媒体",
     "users": [
       {
         "id": 1909377960,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 1725252714,
+        "idstr": "1725252714",
+        "screen_name": "温度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1644855075,
         "idstr": "1644855075",
         "screen_name": "华商网",
@@ -54,13 +61,6 @@
         "id": 6481500300,
         "idstr": "6481500300",
         "screen_name": "一点视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6344061797,
-        "idstr": "6344061797",
-        "screen_name": "JSTV荔枝视频",
         "verified": true,
         "verified_type": 3
       }
