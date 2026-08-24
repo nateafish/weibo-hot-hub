@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 5371906414
   },
-  "last_seen_at": "2026-08-24T15:00:00+08:00",
+  "last_seen_at": "2026-08-24T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%94%AF%E4%BB%98%E5%AE%9D%E5%B9%B8%E8%BF%90%E5%92%96%E5%85%8D%E5%8D%95%E7%AD%94%E6%A1%88%E6%B5%81%E5%87%BA%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "7家媒体",
     "users": [
       {
         "id": 6105713761,
@@ -30,6 +30,13 @@
         "verified_type": 3
       },
       {
+        "id": 7756551991,
+        "idstr": "7756551991",
+        "screen_name": "郓城融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6890796357,
         "idstr": "6890796357",
         "screen_name": "日照日报",
@@ -40,6 +47,20 @@
         "id": 1959451603,
         "idstr": "1959451603",
         "screen_name": "锦观新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1709951635,
+        "idstr": "1709951635",
+        "screen_name": "哈尔滨日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1406911561,
+        "idstr": "1406911561",
+        "screen_name": "云南广播电视台",
         "verified": true,
         "verified_type": 3
       }

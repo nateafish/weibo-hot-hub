@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 7575030448
   },
-  "last_seen_at": "2026-08-24T15:00:00+08:00",
+  "last_seen_at": "2026-08-24T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%B0%8F%E7%B1%B3%E7%8E%84%E6%88%92O3%E5%8F%91%E5%B8%83%23%26t%3D3&title=发布媒体",
-    "show_str": "29家媒体",
+    "show_str": "32家媒体",
     "users": [
       {
         "id": 7575030448,
@@ -26,6 +26,20 @@
         "id": 1826017320,
         "idstr": "1826017320",
         "screen_name": "IT之家",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7520789718,
+        "idstr": "7520789718",
+        "screen_name": "铁骥视频科技频道",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1893821087,
+        "idstr": "1893821087",
+        "screen_name": "天极网华南",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 7723774651,
         "idstr": "7723774651",
         "screen_name": "星财经Pro",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7723617113,
-        "idstr": "7723617113",
-        "screen_name": "星娱乐star",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7723479601,
-        "idstr": "7723479601",
-        "screen_name": "star星视距",
         "verified": true,
         "verified_type": 3
       }
