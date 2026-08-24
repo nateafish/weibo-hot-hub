@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2620088113
   },
-  "last_seen_at": "2026-08-25T05:00:00+08:00",
+  "last_seen_at": "2026-08-25T06:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%A9%BE%E8%BD%A6%E6%92%9E%E5%85%A5%E7%BE%8A%E7%BE%A4%E8%87%B453%E5%8F%AA%E6%AD%BB%E4%BC%A4%E6%AF%8F%E5%8F%AA%E8%B5%941600%23%26t%3D3&title=发布媒体",
-    "show_str": "10家媒体",
+    "show_str": "11家媒体",
     "users": [
       {
         "id": 2620088113,
         "idstr": "2620088113",
         "screen_name": "海报新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2000016880,
+        "idstr": "2000016880",
+        "screen_name": "逐浪新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -47,13 +54,6 @@
         "id": 2026044661,
         "idstr": "2026044661",
         "screen_name": "大众网东营",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2000016880,
-        "idstr": "2000016880",
-        "screen_name": "逐浪新闻",
         "verified": true,
         "verified_type": 3
       },
