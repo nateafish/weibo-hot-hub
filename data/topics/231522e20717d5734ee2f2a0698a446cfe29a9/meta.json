@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2028810631
   },
-  "last_seen_at": "2026-08-24T23:00:00+08:00",
+  "last_seen_at": "2026-08-25T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E6%B3%B0%E5%9B%BD%E9%81%AD%E7%BB%91%E8%AD%A6%E6%96%B9%E6%8A%93%E6%8D%95%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "6家媒体",
     "users": [
       {
         "id": 2028810631,
         "idstr": "2028810631",
         "screen_name": "新浪新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2647971081,
+        "idstr": "2647971081",
+        "screen_name": "时速新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -33,6 +40,20 @@
         "id": 1712686623,
         "idstr": "1712686623",
         "screen_name": "手机上的新浪",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1645578093,
+        "idstr": "1645578093",
+        "screen_name": "南风窗",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1611935011,
+        "idstr": "1611935011",
+        "screen_name": "中国报道",
         "verified": true,
         "verified_type": 3
       }

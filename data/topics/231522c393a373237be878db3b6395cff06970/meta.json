@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 6311417880
   },
-  "last_seen_at": "2026-08-24T23:00:00+08:00",
+  "last_seen_at": "2026-08-25T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9D%8E%E9%87%91%E9%93%AD%E5%A8%84%E8%89%BA%E6%BD%87%E9%82%93%E5%AE%B6%E4%BD%B3%E5%90%88%E4%BD%93%23%26t%3D3&title=发布媒体",
-    "show_str": "9家媒体",
+    "show_str": "10家媒体",
     "users": [
       {
         "id": 1642591402,
@@ -26,6 +26,13 @@
         "id": 7708039348,
         "idstr": "7708039348",
         "screen_name": "北青娱见",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7467277921,
+        "idstr": "7467277921",
+        "screen_name": "万维视频",
         "verified": true,
         "verified_type": 3
       },
@@ -44,13 +51,6 @@
         "verified_type": 3
       },
       {
-        "id": 2685336121,
-        "idstr": "2685336121",
-        "screen_name": "南宁晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 2535760180,
         "idstr": "2535760180",
         "screen_name": "安徽视讯",
@@ -58,9 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1960785875,
-        "idstr": "1960785875",
-        "screen_name": "津云新闻",
+        "id": 1967926223,
+        "idstr": "1967926223",
+        "screen_name": "FM1031济南交通广播",
         "verified": true,
         "verified_type": 3
       }

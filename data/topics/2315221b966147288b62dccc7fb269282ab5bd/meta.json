@@ -1,5 +1,5 @@
 {
-  "category": "明星",
+  "category": "综艺",
   "created_at": 1787568962,
   "first_seen_at": "2026-08-24T23:00:00+08:00",
   "host": {
@@ -10,16 +10,24 @@
     "status": 2,
     "uid": 5597175755
   },
-  "last_seen_at": "2026-08-24T23:00:00+08:00",
+  "last_seen_at": "2026-08-25T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E7%8E%B0%E5%8F%914%E8%B7%B3%E8%88%9E%E8%B7%AF%E9%80%8F%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "1家媒体",
+    "users": [
+      {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#王楚然现发4跳舞路透#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E7%8E%B0%E5%8F%914%E8%B7%B3%E8%88%9E%E8%B7%AF%E9%80%8F%23",
   "sub_category": null,
-  "summary": "",
+  "summary": "王楚然在现发玩得好开心呀！",
   "title": "王楚然现发4跳舞路透",
   "topic_id": "2315221b966147288b62dccc7fb269282ab5bd"
 }
