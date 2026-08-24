@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1720962692
   },
-  "last_seen_at": "2026-08-24T07:00:00+08:00",
+  "last_seen_at": "2026-08-24T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%88%B6%E4%BA%B2%E7%9B%B4%E6%92%AD%E7%9B%AE%E7%9D%B9%E5%84%BF%E5%AD%90%E7%AF%AE%E7%90%83%E8%B5%9B%E5%80%92%E5%9C%B0%E5%90%8E%E7%A6%BB%E4%B8%96%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "13家媒体",
     "users": [
       {
         "id": 1720962692,
         "idstr": "1720962692",
         "screen_name": "极目新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5145725878,
+        "idstr": "5145725878",
+        "screen_name": "沸点视频",
         "verified": true,
         "verified_type": 3
       },
@@ -30,30 +37,30 @@
         "verified_type": 3
       },
       {
-        "id": 2105365573,
-        "idstr": "2105365573",
-        "screen_name": "威海播报",
+        "id": 5822206027,
+        "idstr": "5822206027",
+        "screen_name": "北斗融媒",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1734530730,
-        "idstr": "1734530730",
-        "screen_name": "大河报",
+        "id": 3275115274,
+        "idstr": "3275115274",
+        "screen_name": "中国吉林网",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1704185933,
-        "idstr": "1704185933",
-        "screen_name": "聊城晚报",
+        "id": 2010802407,
+        "idstr": "2010802407",
+        "screen_name": "中国台州网",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1700720163,
-        "idstr": "1700720163",
-        "screen_name": "钱江晚报",
+        "id": 1738004582,
+        "idstr": "1738004582",
+        "screen_name": "纵览新闻",
         "verified": true,
         "verified_type": 3
       }

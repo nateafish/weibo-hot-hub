@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-08-24T09:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 1,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#此情寄山水#",
+      "rank": 1,
+      "title": "此情寄山水",
+      "topic_id": "2315222b9c6c5a56fb9a0b1d5b7c7ca75fcbdc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "四川长宁地震",
+      "rank": 1,
+      "title": "四川长宁地震",
+      "topic_id": "23152242d8e63afefbd518987f47363993352c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#扶老人遭索赔10万店主儿子发声#",
+      "rank": 2,
+      "title": "扶老人遭索赔10万店主儿子发声",
+      "topic_id": "2315221cdea041427670148d066ce6841cdf1f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#2万件中央救灾物资支持广西#",
+      "rank": 3,
+      "title": "2万件中央救灾物资支持广西",
+      "topic_id": "231522b5e7594cac66848143ad172c0889078c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "长宁地震预警误报",
+      "rank": 4,
+      "title": "长宁地震预警误报",
+      "topic_id": "231522771c485d6be2da672d73daf05b1c1271"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "这些叫不出来的东西真有名字",
+      "rank": 5,
+      "title": "这些叫不出来的东西真有名字",
+      "topic_id": "2315226440d5b99e9541f5d767ae9e098ab203"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "无座票为何和二等座同价",
+      "rank": 6,
+      "title": "无座票为何和二等座同价",
+      "topic_id": "23152211a1dc22342a5947d744808dc5d7c78e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "四六级成绩",
+      "rank": 7,
+      "title": "四六级成绩",
+      "topic_id": "231522cea8de46da531e3d55c2dbbf92609e8c"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张韶涵演唱会突发心脏不适#",
+      "rank": 8,
+      "title": "张韶涵演唱会突发心脏不适",
+      "topic_id": "231522b5f8af4140438ed589d3701cf4d7f169"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "花开锦绣女主被指双标",
+      "rank": 9,
+      "title": "花开锦绣女主被指双标",
+      "topic_id": "231522f0a64d317b83a07a13f7b81e1567ce75"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#官方回应长宁地震预警偏差#",
+      "rank": 10,
+      "title": "官方回应长宁地震预警偏差",
+      "topic_id": "2315224cb6236f2030937210e45f0ecb4443dc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#韩沛颖让王晓晨道歉#",
+      "rank": 11,
+      "title": "韩沛颖让王晓晨道歉",
+      "topic_id": "2315226549b8c04a4066dc0e75eaa901ce8ddb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "宋亚轩 得物账号",
+      "rank": 12,
+      "title": "宋亚轩 得物账号",
+      "topic_id": "23152252676d299c2e1001ef96273214b1fbc1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#从140瘦到了95斤#",
+      "rank": 13,
+      "title": "从140瘦到了95斤",
+      "topic_id": "231522b25634f9f0c1403ea8af2ba749b7e9d0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张韶涵因心脏病找母亲要医疗费未果#",
+      "rank": 14,
+      "title": "张韶涵因心脏病找母亲要医疗费未果",
+      "topic_id": "23152242d3890ec28da27f015010ca37d905c6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "地震预警 吓晕",
+      "rank": 15,
+      "title": "地震预警 吓晕",
+      "topic_id": "23152244f78e3f969784722bdb9e6c30b8a58b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#被裁硕士生称一天要打五六千个螺丝#",
+      "rank": 16,
+      "title": "被裁硕士生称一天要打五六千个螺丝",
+      "topic_id": "23152201a8afde66e99de0ed75aefa7b110a43"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "亲密关系和婚育制度绑定太深",
+      "rank": 17,
+      "title": "亲密关系和婚育制度绑定太深",
+      "topic_id": "231522e4aa2d97b9ba44e8167c30b16bc67d63"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "破产姐妹史上最长售后",
+      "rank": 18,
+      "title": "破产姐妹史上最长售后",
+      "topic_id": "2315228cf99fffcfab068c6e83ed7877057247"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "美债风暴席卷全球",
+      "rank": 19,
+      "title": "美债风暴席卷全球",
+      "topic_id": "231522ec02b3bf13549ee69185f3cf50ab2400"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#羞答答的机器人跑了第一#",
+      "rank": 20,
+      "title": "羞答答的机器人跑了第一",
+      "topic_id": "23152233d70678d6ad3a7f8ba387f81bb14ac6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#韩沛颖说刘浩存14岁就跟某某某导了#",
+      "rank": 21,
+      "title": "韩沛颖说刘浩存14岁就跟某某某导了",
+      "topic_id": "2315228158022c1951c185f8f0bada4a7b1595"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#四十多岁女丁克想生孩子#",
+      "rank": 22,
+      "title": "四十多岁女丁克想生孩子",
+      "topic_id": "23152211832fdaedd6b996a2a7d7f7c0c14e09"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "千万不要冲动买养老房",
+      "rank": 23,
+      "title": "千万不要冲动买养老房",
+      "topic_id": "231522dab653fe2265e93b2d1595d13fdd9964"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "地震预警",
+      "rank": 24,
+      "title": "地震预警",
+      "topic_id": "231522b924e87d2072170eb74c3ff093847b8e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#白鹿曾买了835张宋雨琦数字专辑#",
+      "rank": 25,
+      "title": "白鹿曾买了835张宋雨琦数字专辑",
+      "topic_id": "2315228b3006dee8d18135c9059907a335849b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "台风",
+      "rank": 26,
+      "title": "台风",
+      "topic_id": "231522647d33aff1e4bb9ed725b08888cdda22"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#阿信抓到李现章若楠爬墙#",
+      "rank": 27,
+      "title": "阿信抓到李现章若楠爬墙",
+      "topic_id": "231522a771b5ab5d26a9781b826b2968f56ecd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "张元英走路姿势",
+      "rank": 28,
+      "title": "张元英走路姿势",
+      "topic_id": "231522d097d5e1a6dc35010a2e634335f8e957"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#金价三个月新高#",
+      "rank": 29,
+      "title": "金价三个月新高",
+      "topic_id": "231522612d2929c97f12fa9fd316afe8e5b813"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "早春晴朗will选刘畅好对味",
+      "rank": 30,
+      "title": "早春晴朗will选刘畅好对味",
+      "topic_id": "231522257f79d5c5e86eab8081fb6d76e73e58"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "105岁老妈说85岁儿子这辈子完了",
+      "rank": 31,
+      "title": "105岁老妈说85岁儿子这辈子完了",
+      "topic_id": "23152285fa3eb42d7acf2918daf408844a8af8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "阿尔瓦雷斯 彻底闹掰",
+      "rank": 32,
+      "title": "阿尔瓦雷斯 彻底闹掰",
+      "topic_id": "231522e4056d775aae578486f851da76013a4c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "六级 写译我讨厌你",
+      "rank": 33,
+      "title": "六级 写译我讨厌你",
+      "topic_id": "2315229e0128b2f6069120367f021f73e874bb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#傅首尔前夫发文怼留几手#",
+      "rank": 34,
+      "title": "傅首尔前夫发文怼留几手",
+      "topic_id": "231522abe2ef2786204e6cfa270bb03a5baf39"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#金晨瘦成这样居然还有肌肉#",
+      "rank": 35,
+      "title": "金晨瘦成这样居然还有肌肉",
+      "topic_id": "231522c15f0fe3b95c56632035e68701e8126c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#扶老人遭索赔10万女子身体严重不适#",
+      "rank": 36,
+      "title": "扶老人遭索赔10万女子身体严重不适",
+      "topic_id": "231522d86b71eb9246d17eff00dd044c0a93c8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "一定要珍惜你身体里尚存的欲望",
+      "rank": 37,
+      "title": "一定要珍惜你身体里尚存的欲望",
+      "topic_id": "231522f5eb8043de7d683153388035fa355d43"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#韩红基金会救护车供应商大门紧闭#",
+      "rank": 38,
+      "title": "韩红基金会救护车供应商大门紧闭",
+      "topic_id": "231522eeb9cc03773864a0d44a6e81ee7ba85c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#高芙辛辛那提赛冠军#",
+      "rank": 39,
+      "title": "高芙辛辛那提赛冠军",
+      "topic_id": "231522d5baa8a2993e7a72728b014cb389cfb1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#李登科聊金晨退圈#",
+      "rank": 40,
+      "title": "李登科聊金晨退圈",
+      "topic_id": "23152298e72ab08f45ad1e42c0e82004e4fa1c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#父亲直播目睹儿子篮球赛倒地后离世#",
+      "rank": 41,
+      "title": "父亲直播目睹儿子篮球赛倒地后离世",
+      "topic_id": "231522b59875fb992a6859cac249ca6db3eda1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "黄金",
+      "rank": 42,
+      "title": "黄金",
+      "topic_id": "23152211289a9c3dbe0fb8810cf271903fc8ac"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#宋亚轩身上没有展示位了#",
+      "rank": 43,
+      "title": "宋亚轩身上没有展示位了",
+      "topic_id": "2315220559540f20e1f725a8bff8327cb153ff"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "成都震感",
+      "rank": 44,
+      "title": "成都震感",
+      "topic_id": "231522eadab1a0886d90d66a87d4cbf272ae6b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#中国产味噌汤让日本破防#",
+      "rank": 45,
+      "title": "中国产味噌汤让日本破防",
+      "topic_id": "231522e00aac6c0de1f80c7c36e82961cd1937"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#老刘离婚后从未说过傅首尔坏话#",
+      "rank": 46,
+      "title": "老刘离婚后从未说过傅首尔坏话",
+      "topic_id": "2315227171d7c0f86c7cef1c1419624a35937f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#李昀锐可以去参加披荆斩棘了#",
+      "rank": 47,
+      "title": "李昀锐可以去参加披荆斩棘了",
+      "topic_id": "231522728c54a75b4d36249210b61ad44d48e8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#天工团队回应机器人捂脸跑#",
+      "rank": 48,
+      "title": "天工团队回应机器人捂脸跑",
+      "topic_id": "23152201efabe5c48128e61bd20f5afce7c692"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张睿披哥一公唯一出圈舞台#",
+      "rank": 49,
+      "title": "张睿披哥一公唯一出圈舞台",
+      "topic_id": "2315226bdf3726d27fb8882a204c54b206e968"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "那英演唱会感谢了肖战和肖战工作室",
+      "rank": 50,
+      "title": "那英演唱会感谢了肖战和肖战工作室",
+      "topic_id": "231522c9dd982e6a4d2cdbbeb5d18ce1d49532"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

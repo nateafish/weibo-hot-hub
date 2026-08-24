@@ -10,15 +10,50 @@
     "status": 2,
     "uid": 5816541819
   },
-  "last_seen_at": "2026-08-24T07:00:00+08:00",
+  "last_seen_at": "2026-08-24T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9D%8E%E6%98%80%E9%94%90%E5%8F%AF%E4%BB%A5%E5%8E%BB%E5%8F%82%E5%8A%A0%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "6家媒体",
     "users": [
       {
         "id": 1867427515,
         "idstr": "1867427515",
         "screen_name": "新派新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7313242117,
+        "idstr": "7313242117",
+        "screen_name": "深度视频",
+        "verified": false,
+        "verified_type": -1
+      },
+      {
+        "id": 5821006161,
+        "idstr": "5821006161",
+        "screen_name": "AI科技融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1802564537,
+        "idstr": "1802564537",
+        "screen_name": "新派观察",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1677991972,
+        "idstr": "1677991972",
+        "screen_name": "晶报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1656737654,
+        "idstr": "1656737654",
+        "screen_name": "现代快报",
         "verified": true,
         "verified_type": 3
       }

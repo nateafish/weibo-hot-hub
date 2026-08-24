@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2803301701
   },
-  "last_seen_at": "2026-08-24T07:00:00+08:00",
+  "last_seen_at": "2026-08-24T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%232%E4%B8%87%E4%BB%B6%E4%B8%AD%E5%A4%AE%E6%95%91%E7%81%BE%E7%89%A9%E8%B5%84%E6%94%AF%E6%8C%81%E5%B9%BF%E8%A5%BF%23%26t%3D3&title=发布媒体",
-    "show_str": "40家媒体",
+    "show_str": "54家媒体",
     "users": [
       {
         "id": 2803301701,
         "idstr": "2803301701",
         "screen_name": "人民日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1867571077,
+        "idstr": "1867571077",
+        "screen_name": "听中国",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +37,30 @@
         "verified_type": 3
       },
       {
-        "id": 1727472420,
-        "idstr": "1727472420",
-        "screen_name": "泰山晚报",
+        "id": 2286460094,
+        "idstr": "2286460094",
+        "screen_name": "资阳观察",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 7516679696,
-        "idstr": "7516679696",
-        "screen_name": "九派新闻",
+        "id": 1968407017,
+        "idstr": "1968407017",
+        "screen_name": "江西晨报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 7308140398,
-        "idstr": "7308140398",
-        "screen_name": "大象新闻",
+        "id": 1960601312,
+        "idstr": "1960601312",
+        "screen_name": "多彩贵州网",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 7211561239,
-        "idstr": "7211561239",
-        "screen_name": "央视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7126605018,
-        "idstr": "7126605018",
-        "screen_name": "各界新闻网官微",
+        "id": 1915671961,
+        "idstr": "1915671961",
+        "screen_name": "陕西都市快报",
         "verified": true,
         "verified_type": 3
       }
