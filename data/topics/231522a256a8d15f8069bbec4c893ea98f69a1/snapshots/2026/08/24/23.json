@@ -1,0 +1,292 @@
+{
+  "captured_at": "2026-08-24T23:00:00+08:00",
+  "contributors": [
+    {
+      "contribution": 12,
+      "profile_url": "https://weibo.com/u/1618051664",
+      "rank": 1,
+      "uid": "1618051664",
+      "username": "头条新闻",
+      "verified": true,
+      "verified_type": 3
+    },
+    {
+      "contribution": 10,
+      "profile_url": "https://weibo.com/u/7906533359",
+      "rank": 2,
+      "uid": "7906533359",
+      "username": "绝情殿首席大人",
+      "verified": false,
+      "verified_type": -1
+    },
+    {
+      "contribution": 10,
+      "profile_url": "https://weibo.com/u/7896902241",
+      "rank": 3,
+      "uid": "7896902241",
+      "username": "年糕福袋鱼籽烧",
+      "verified": true,
+      "verified_type": 0
+    },
+    {
+      "contribution": 10,
+      "profile_url": "https://weibo.com/u/7754623084",
+      "rank": 4,
+      "uid": "7754623084",
+      "username": "Kirishima_墨泠",
+      "verified": true,
+      "verified_type": 0
+    },
+    {
+      "contribution": 6,
+      "profile_url": "https://weibo.com/u/7807179117",
+      "rank": 5,
+      "uid": "7807179117",
+      "username": "嘟嘟软萌圆",
+      "verified": true,
+      "verified_type": 0
+    },
+    {
+      "contribution": 6,
+      "profile_url": "https://weibo.com/u/2201915244",
+      "rank": 6,
+      "uid": "2201915244",
+      "username": "Messifanobserver",
+      "verified": true,
+      "verified_type": 0
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/8405337686",
+      "rank": 7,
+      "uid": "8405337686",
+      "username": "事事玉米排骨汤",
+      "verified": true,
+      "verified_type": 0
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/8003433052",
+      "rank": 8,
+      "uid": "8003433052",
+      "username": "才不想当咸鱼呢",
+      "verified": true,
+      "verified_type": 0
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/7974975363",
+      "rank": 9,
+      "uid": "7974975363",
+      "username": "巅峰体育",
+      "verified": true,
+      "verified_type": 7
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/7973873207",
+      "rank": 10,
+      "uid": "7973873207",
+      "username": "喵呜叫的小兔叽",
+      "verified": true,
+      "verified_type": 0
+    }
+  ],
+  "contributors_scheme": "sinaweibo://cardlist?containerid=231522type%3D103%26q%3D%23%E4%BD%95%E7%8C%B7%E5%90%9B%E6%99%92%E4%B8%8EC%E7%BD%97%E5%90%88%E7%85%A7%23&title=话题贡献者排行",
+  "current_boards": {
+    "fun_band": {
+      "ori": {
+        "category": "艺人,体育",
+        "is_boom": 0,
+        "onband": 1,
+        "pos": 32,
+        "subject_querys": [
+          {
+            "scheme_query": "",
+            "subject_query": "C罗",
+            "subject_type": "非明星人物"
+          },
+          {
+            "scheme_query": "",
+            "subject_query": "何猷君",
+            "subject_type": "明星人物"
+          }
+        ]
+      },
+      "scheme": "sinaweibo://pageinfo?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Dfun&title=文娱榜&extparam=",
+      "sub_info": [],
+      "text": "文娱榜第32位"
+    },
+    "hot_band": {
+      "ori": {
+        "category": "艺人,体育",
+        "is_boom": 0,
+        "num": 137164,
+        "onband": 1,
+        "onboard_time": 1787581942,
+        "pos": 46,
+        "subject_querys": [
+          {
+            "scheme_query": "沙特联赛",
+            "subject_query": "沙特联赛",
+            "subject_type": "event"
+          }
+        ],
+        "transparency_tag": null
+      },
+      "scheme": "sinaweibo://pageinfo?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Drealtimehot&title=热搜榜&extparam=",
+      "sub_info": [
+        {
+          "scheme": "sinaweibo://wbox?id=u57z5izf0g&page=pages/hotsearchpage/hotsearchpage_native&containerid=106003_-_type%3A25_-_filter_type%3Acollectionmini&trend_word=%E6%B2%99%E7%89%B9%E8%81%94%E8%B5%9B&time_filter_id=d30",
+          "text": "事件 | 沙特联赛"
+        }
+      ],
+      "text": "热搜榜第46位"
+    },
+    "hot_band_24_hour": {
+      "ori": {
+        "on_band": 1
+      }
+    },
+    "sports_band": {
+      "ori": {
+        "category": "艺人,体育",
+        "is_boom": 0,
+        "onband": 1,
+        "pos": 3,
+        "subject_querys": [
+          {
+            "scheme_query": "沙特联赛",
+            "subject_query": "沙特联赛",
+            "subject_type": "event"
+          }
+        ]
+      },
+      "scheme": "sinaweibo://pageinfo?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Dsportnav&title=体育榜&extparam=",
+      "sub_info": [
+        {
+          "scheme": "sinaweibo://wbox?id=u57z5izf0g&page=pages/hotsearchpage/hotsearchpage_native&containerid=106003_-_type%3A25_-_filter_type%3Acollectionmini&trend_word=%E6%B2%99%E7%89%B9%E8%81%94%E8%B5%9B&time_filter_id=d30",
+          "text": "事件 | 沙特联赛"
+        }
+      ],
+      "text": "体育榜第3位"
+    }
+  },
+  "exact_counts": {
+    "buy_num": 0,
+    "g_mention": 400,
+    "gone_num": 0,
+    "interact": 2118,
+    "mention": 400,
+    "ori_m": 114,
+    "ori_uv": 109,
+    "r_valid": 4802871,
+    "read": 5273222,
+    "rec_num": 0,
+    "show": 0,
+    "star": 2,
+    "t_m_num": 3,
+    "t_r_num": 148527,
+    "wants_num": 0
+  },
+  "heat": 2,
+  "overview": {
+    "24h": {
+      "interaction": {
+        "unit": "",
+        "val": 2118
+      },
+      "mention": {
+        "unit": "",
+        "val": 400
+      },
+      "original": {
+        "unit": "",
+        "val": 114
+      },
+      "read": {
+        "unit": "万",
+        "val": 525.8
+      }
+    },
+    "30d": {
+      "interaction": {
+        "unit": "",
+        "val": 2118
+      },
+      "mention": {
+        "unit": "",
+        "val": 400
+      },
+      "original": {
+        "unit": "",
+        "val": 114
+      },
+      "read": {
+        "unit": "万",
+        "val": 525.8
+      }
+    },
+    "all": {
+      "interaction": {
+        "unit": "",
+        "val": 2118
+      },
+      "mention": {
+        "unit": "",
+        "val": 400
+      },
+      "original": {
+        "unit": "",
+        "val": 114
+      },
+      "read": {
+        "unit": "万",
+        "val": 527.3
+      }
+    }
+  },
+  "rank_history": [
+    {
+      "cate": "hot_board",
+      "cate_desc": "热搜榜",
+      "duration_hour": 1,
+      "duration_minute": 82,
+      "duration_mod_min": 22,
+      "off_board_time": "202608250002",
+      "on_board_time": "202608242232",
+      "top_pos": 33,
+      "topic_flag": 1
+    },
+    {
+      "cate": "enter_board",
+      "cate_desc": "文娱榜",
+      "duration_hour": 1,
+      "duration_minute": 93,
+      "duration_mod_min": 33,
+      "off_board_time": "202608250003",
+      "on_board_time": "202608242231",
+      "top_pos": 24,
+      "topic_flag": 1
+    },
+    {
+      "cate": "sport_board",
+      "cate_desc": "体育榜",
+      "duration_hour": 1,
+      "duration_minute": 117,
+      "duration_mod_min": 57,
+      "off_board_time": "202608250003",
+      "on_board_time": "202608242205",
+      "top_pos": 2,
+      "topic_flag": 1
+    }
+  ],
+  "title": "何猷君晒与c罗合照",
+  "topic_id": "231522a256a8d15f8069bbec4c893ea98f69a1",
+  "window_counts": {
+    "1h_mention": 152,
+    "1h_ori_m": 35,
+    "24h_mention": 400,
+    "24h_read": 5257999
+  }
+}

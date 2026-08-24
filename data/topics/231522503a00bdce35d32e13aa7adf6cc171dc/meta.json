@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 3266943013
   },
-  "last_seen_at": "2026-08-24T22:00:00+08:00",
+  "last_seen_at": "2026-08-24T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A4%AE%E8%A7%86%E7%BD%91%E8%AF%84%E6%B9%96%E5%8D%97%E6%89%B6%E8%80%81%E4%BA%BA%E8%A2%AB%E7%B4%A2%E8%B5%94%E4%BA%8B%E4%BB%B6%23%26t%3D3&title=发布媒体",
-    "show_str": "41家媒体",
+    "show_str": "64家媒体",
     "users": [
       {
         "id": 3266943013,
@@ -26,6 +26,20 @@
         "id": 1714800385,
         "idstr": "1714800385",
         "screen_name": "第一帮帮团",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1644948230,
+        "idstr": "1644948230",
+        "screen_name": "北京头条",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2118120483,
+        "idstr": "2118120483",
+        "screen_name": "青岛日报",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1497087080,
-        "idstr": "1497087080",
-        "screen_name": "羊城晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2118120483,
-        "idstr": "2118120483",
-        "screen_name": "青岛日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1898885525,
-        "idstr": "1898885525",
-        "screen_name": "生活报新街派",
+        "id": 1651428902,
+        "idstr": "1651428902",
+        "screen_name": "21世纪经济报道",
         "verified": true,
         "verified_type": 3
       }

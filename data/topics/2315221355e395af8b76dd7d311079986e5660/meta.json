@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1997509257
   },
-  "last_seen_at": "2026-08-24T22:00:00+08:00",
+  "last_seen_at": "2026-08-24T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23AI%E7%9C%BC%E9%95%9C%E6%88%90%E4%B8%BA%E9%9A%90%E7%A7%81%E9%87%8D%E7%81%BE%E5%8C%BA%23%26t%3D3&title=发布媒体",
-    "show_str": "16家媒体",
+    "show_str": "18家媒体",
     "users": [
       {
         "id": 1913382117,
         "idstr": "1913382117",
         "screen_name": "深圳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1642088277,
+        "idstr": "1642088277",
+        "screen_name": "财经网",
         "verified": true,
         "verified_type": 3
       },
@@ -54,13 +61,6 @@
         "id": 3242792887,
         "idstr": "3242792887",
         "screen_name": "吉林日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2460937233,
-        "idstr": "2460937233",
-        "screen_name": "热度新闻",
         "verified": true,
         "verified_type": 3
       }
