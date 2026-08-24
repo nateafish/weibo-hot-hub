@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1655444627
   },
-  "last_seen_at": "2026-08-24T11:00:00+08:00",
+  "last_seen_at": "2026-08-24T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%88%B8%E7%88%B8%E6%8B%89%E4%B8%80%E8%BD%A6%E8%A5%BF%E7%93%9C%E5%B8%A6%E5%A5%B3%E5%84%BF%E8%BF%9B%E8%97%8F%E8%87%AA%E9%A9%BE%E6%B8%B8%23%26t%3D3&title=发布媒体",
-    "show_str": "12家媒体",
+    "show_str": "25家媒体",
     "users": [
       {
         "id": 1655444627,
         "idstr": "1655444627",
         "screen_name": "潇湘晨报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 2566396732,
-        "idstr": "2566396732",
-        "screen_name": "潇湘晨报96360",
+        "id": 5822206027,
+        "idstr": "5822206027",
+        "screen_name": "北斗融媒",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1867427515,
-        "idstr": "1867427515",
-        "screen_name": "新派新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1812379667,
-        "idstr": "1812379667",
-        "screen_name": "梧州零距离网",
+        "id": 2647971081,
+        "idstr": "2647971081",
+        "screen_name": "时速新闻",
         "verified": true,
         "verified_type": 3
       }

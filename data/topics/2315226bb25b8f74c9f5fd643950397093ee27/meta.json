@@ -3,15 +3,50 @@
   "created_at": 1787538894,
   "first_seen_at": "2026-08-24T11:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-24T11:00:00+08:00",
+  "last_seen_at": "2026-08-24T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%A5%9A%E5%98%89%E7%A6%BE+%E5%8A%A0%E6%88%8F%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "6家媒体",
     "users": [
+      {
+        "id": 1960785875,
+        "idstr": "1960785875",
+        "screen_name": "津云新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1959444680,
+        "idstr": "1959444680",
+        "screen_name": "云南网",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1751714412,
         "idstr": "1751714412",
         "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1738004582,
+        "idstr": "1738004582",
+        "screen_name": "纵览新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1652484947,
+        "idstr": "1652484947",
+        "screen_name": "新快报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1451977335,
+        "idstr": "1451977335",
+        "screen_name": "新晚报",
         "verified": true,
         "verified_type": 3
       }

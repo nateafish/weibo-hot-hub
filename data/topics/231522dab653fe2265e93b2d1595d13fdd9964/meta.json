@@ -3,22 +3,29 @@
   "created_at": 1787532562,
   "first_seen_at": "2026-08-24T09:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-24T11:00:00+08:00",
+  "last_seen_at": "2026-08-24T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E5%86%B2%E5%8A%A8%E4%B9%B0%E5%85%BB%E8%80%81%E6%88%BF%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "3家媒体",
     "users": [
-      {
-        "id": 3048800300,
-        "idstr": "3048800300",
-        "screen_name": "新浪圈子",
-        "verified": true,
-        "verified_type": 3
-      },
       {
         "id": 1926909715,
         "idstr": "1926909715",
         "screen_name": "第一财经日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3901624042,
+        "idstr": "3901624042",
+        "screen_name": "山西日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3048800300,
+        "idstr": "3048800300",
+        "screen_name": "新浪圈子",
         "verified": true,
         "verified_type": 3
       }
