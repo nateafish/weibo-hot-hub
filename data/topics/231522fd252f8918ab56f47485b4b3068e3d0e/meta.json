@@ -3,11 +3,32 @@
   "created_at": 1787539769,
   "first_seen_at": "2026-08-24T12:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-24T13:00:00+08:00",
+  "last_seen_at": "2026-08-24T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%92%80%E7%92%A8%E4%B9%8B%E4%B8%8A+%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "7家媒体",
     "users": [
+      {
+        "id": 7590570074,
+        "idstr": "7590570074",
+        "screen_name": "山海视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7422806367,
+        "idstr": "7422806367",
+        "screen_name": "中网传播",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 3645266160,
         "idstr": "3645266160",
@@ -19,13 +40,6 @@
         "id": 2308711425,
         "idstr": "2308711425",
         "screen_name": "新疆日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1912416573,
-        "idstr": "1912416573",
-        "screen_name": "河南手机报",
         "verified": true,
         "verified_type": 3
       },
