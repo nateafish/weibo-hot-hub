@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 6418480627
   },
-  "last_seen_at": "2026-08-24T18:00:00+08:00",
+  "last_seen_at": "2026-08-24T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%94%90%E5%B0%9A%E7%8F%BA%E5%85%AD%E7%BA%A7453%E5%88%86%23%26t%3D3&title=发布媒体",
-    "show_str": "10家媒体",
+    "show_str": "14家媒体",
     "users": [
       {
         "id": 6418480627,
         "idstr": "6418480627",
         "screen_name": "星视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1677991972,
+        "idstr": "1677991972",
+        "screen_name": "晶报",
         "verified": true,
         "verified_type": 3
       },
@@ -54,13 +61,6 @@
         "id": 2259880587,
         "idstr": "2259880587",
         "screen_name": "内蒙古广播电视台",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2118120483,
-        "idstr": "2118120483",
-        "screen_name": "青岛日报",
         "verified": true,
         "verified_type": 3
       }

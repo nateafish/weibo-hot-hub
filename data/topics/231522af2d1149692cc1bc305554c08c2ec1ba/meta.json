@@ -3,15 +3,29 @@
   "created_at": 1787560879,
   "first_seen_at": "2026-08-24T18:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-24T18:00:00+08:00",
+  "last_seen_at": "2026-08-24T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9D%8E%E7%8E%AB%E7%91%BE%E5%BB%BA%E8%AE%AE%E6%89%B6%E8%80%81%E8%A2%AB%E8%AE%B9%E6%8C%89%E6%95%B2%E8%AF%88%E5%8B%92%E7%B4%A2%E8%B5%B7%E8%AF%89%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "3家媒体",
     "users": [
+      {
+        "id": 5822206027,
+        "idstr": "5822206027",
+        "screen_name": "北斗融媒",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2118120483,
         "idstr": "2118120483",
         "screen_name": "青岛日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       }
