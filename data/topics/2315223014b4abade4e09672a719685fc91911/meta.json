@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2028810631
   },
-  "last_seen_at": "2026-08-24T20:00:00+08:00",
+  "last_seen_at": "2026-08-24T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%86%8D%E5%A4%BA%E5%A5%B3%E5%8D%95%E4%B8%96%E6%8E%92%E7%AC%AC1%23%26t%3D3&title=发布媒体",
-    "show_str": "20家媒体",
+    "show_str": "28家媒体",
     "users": [
       {
         "id": 2028810631,
@@ -30,6 +30,20 @@
         "verified_type": 3
       },
       {
+        "id": 1497087080,
+        "idstr": "1497087080",
+        "screen_name": "羊城晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1725252714,
+        "idstr": "1725252714",
+        "screen_name": "温度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7575030448,
         "idstr": "7575030448",
         "screen_name": "白鹿视频",
@@ -37,30 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 3645266160,
+        "idstr": "3645266160",
+        "screen_name": "巴音郭楞融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2992050891,
         "idstr": "2992050891",
         "screen_name": "北京时间",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2812209690,
-        "idstr": "2812209690",
-        "screen_name": "黄石日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2252846093,
-        "idstr": "2252846093",
-        "screen_name": "长春新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2232625672,
-        "idstr": "2232625672",
-        "screen_name": "安庆天天直播",
         "verified": true,
         "verified_type": 3
       }

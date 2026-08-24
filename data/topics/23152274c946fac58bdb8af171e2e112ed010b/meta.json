@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 7516679696
   },
-  "last_seen_at": "2026-08-24T20:00:00+08:00",
+  "last_seen_at": "2026-08-24T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%80%81%E4%BA%BA%E5%BA%97%E5%86%85%E7%A6%BB%E4%B8%96%E4%BA%8B%E4%BB%B6%E7%9B%AE%E5%87%BB%E8%80%85%E8%AE%B2%E8%BF%B0%E7%BB%8F%E8%BF%87%23%26t%3D3&title=发布媒体",
-    "show_str": "9家媒体",
+    "show_str": "30家媒体",
     "users": [
       {
         "id": 7516679696,
         "idstr": "7516679696",
         "screen_name": "九派新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7020664161,
+        "idstr": "7020664161",
+        "screen_name": "福建经济生活频道",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2292899701,
-        "idstr": "2292899701",
-        "screen_name": "浪涨新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1898885525,
-        "idstr": "1898885525",
-        "screen_name": "生活报新街派",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1769216315,
-        "idstr": "1769216315",
-        "screen_name": "小莉帮忙",
+        "id": 5110439722,
+        "idstr": "5110439722",
+        "screen_name": "哈尔滨经济广播电台",
         "verified": true,
         "verified_type": 3
       }

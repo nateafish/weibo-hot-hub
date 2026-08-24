@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 6418480627
   },
-  "last_seen_at": "2026-08-24T20:00:00+08:00",
+  "last_seen_at": "2026-08-24T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%8E%8B%E6%98%B6%E5%A4%BA%E5%86%A0%E9%92%B1%E5%A4%A9%E4%B8%80%E5%91%98%E5%B7%A5%E6%AF%94%E5%A5%B9%E8%BF%98%E6%BF%80%E5%8A%A8%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "10家媒体",
     "users": [
       {
         "id": 6418480627,
         "idstr": "6418480627",
         "screen_name": "星视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -44,16 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 1750353804,
-        "idstr": "1750353804",
-        "screen_name": "合肥交通广播",
+        "id": 7575030448,
+        "idstr": "7575030448",
+        "screen_name": "白鹿视频",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1727747885,
-        "idstr": "1727747885",
-        "screen_name": "大湖观察",
+        "id": 6299534218,
+        "idstr": "6299534218",
+        "screen_name": "北青体育",
         "verified": true,
         "verified_type": 3
       }
