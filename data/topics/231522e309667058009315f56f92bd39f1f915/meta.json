@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 6511455704
   },
-  "last_seen_at": "2026-08-24T19:00:00+08:00",
+  "last_seen_at": "2026-08-24T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%8E%8B%E6%98%B6%E5%BF%83%E5%BF%83%E5%BF%B5%E5%BF%B5%E7%9A%84%E9%87%91%E7%89%8C%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "5家媒体",
     "users": [
       {
         "id": 7211561239,
         "idstr": "7211561239",
         "screen_name": "央视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1727472420,
+        "idstr": "1727472420",
+        "screen_name": "泰山晚报",
         "verified": true,
         "verified_type": 3
       },
