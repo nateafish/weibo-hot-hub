@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 6105713761
   },
-  "last_seen_at": "2026-08-26T01:00:00+08:00",
+  "last_seen_at": "2026-08-26T02:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9D%80%E5%AE%B3%E5%9C%A8%E9%9F%A9%E5%A5%B3%E7%94%9F%E5%AB%8C%E7%96%91%E4%BA%BA%E6%9B%BE%E8%87%AA%E7%A7%B0%E7%94%B7%E5%8F%8B%E6%8A%A5%E8%AD%A6%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "6家媒体",
     "users": [
       {
         "id": 6105713761,
@@ -33,6 +33,20 @@
         "id": 1974335820,
         "idstr": "1974335820",
         "screen_name": "成都商报报料",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1805685140,
+        "idstr": "1805685140",
+        "screen_name": "安徽网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1700720163,
+        "idstr": "1700720163",
+        "screen_name": "钱江晚报",
         "verified": true,
         "verified_type": 3
       },
