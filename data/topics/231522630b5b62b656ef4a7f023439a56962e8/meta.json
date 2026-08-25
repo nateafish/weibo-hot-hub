@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 7467277921
   },
-  "last_seen_at": "2026-08-25T09:00:00+08:00",
+  "last_seen_at": "2026-08-25T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9D%8E%E4%BD%B3%E8%88%AA%E5%9B%9E%E5%BA%94%E6%9D%8E%E9%87%91%E9%93%AD%E5%A8%84%E8%89%BA%E6%BD%87%E9%82%93%E5%AE%B6%E4%BD%B3%E5%90%88%E4%BD%93%23%26t%3D3&title=发布媒体",
-    "show_str": "38家媒体",
+    "show_str": "60家媒体",
     "users": [
       {
         "id": 7467277921,
         "idstr": "7467277921",
         "screen_name": "万维视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497418417,
+        "idstr": "1497418417",
+        "screen_name": "掌上温岭",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2115259662,
+        "idstr": "2115259662",
+        "screen_name": "洪观新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -37,30 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1288429914,
-        "idstr": "1288429914",
-        "screen_name": "今视频长天新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2460937233,
-        "idstr": "2460937233",
-        "screen_name": "热度新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1960785875,
-        "idstr": "1960785875",
-        "screen_name": "津云新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1720962692,
-        "idstr": "1720962692",
-        "screen_name": "极目新闻",
+        "id": 2054900587,
+        "idstr": "2054900587",
+        "screen_name": "三农频道",
         "verified": true,
         "verified_type": 3
       }

@@ -3,11 +3,18 @@
   "created_at": 1787613901,
   "first_seen_at": "2026-08-25T09:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-25T09:00:00+08:00",
+  "last_seen_at": "2026-08-25T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%83%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%AD%A6%E6%AE%B5%E8%A1%94%E6%8E%A5%E9%97%AE%E7%AD%94%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "17家媒体",
     "users": [
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2409482243,
         "idstr": "2409482243",
@@ -23,16 +30,30 @@
         "verified_type": 3
       },
       {
-        "id": 1978093697,
-        "idstr": "1978093697",
-        "screen_name": "平顶山日报",
+        "id": 1895096900,
+        "idstr": "1895096900",
+        "screen_name": "深圳新闻网",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1943154142,
-        "idstr": "1943154142",
-        "screen_name": "中安在线",
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7488186809,
+        "idstr": "7488186809",
+        "screen_name": "响水融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6251413869,
+        "idstr": "6251413869",
+        "screen_name": "教育家杂志官微",
         "verified": true,
         "verified_type": 3
       }
