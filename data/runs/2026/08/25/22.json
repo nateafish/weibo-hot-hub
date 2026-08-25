@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-08-25T22:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 1,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#习主席同约旦国王谈了这些大事#",
+      "rank": 1,
+      "title": "习主席同约旦国王谈了这些大事",
+      "topic_id": "23152213447029c182add3e5f6b2d3b1ee89f5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 21,
+      "posts": "saved",
+      "query": "#在韩失联女生已遇害#",
+      "rank": 1,
+      "title": "在韩失联女生已遇害",
+      "topic_id": "23152208c1d40ea5b7bf45e9d843c20c31291c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 21,
+      "posts": "saved",
+      "query": "#奔驰宝马发短片讽刺速成车#",
+      "rank": 2,
+      "title": "奔驰宝马发短片讽刺速成车",
+      "topic_id": "23152214d9edb34b44f3a9b9f79451a9f05a5f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#读懂下半年中国经济发力方向#",
+      "rank": 3,
+      "title": "读懂下半年中国经济发力方向",
+      "topic_id": "2315225a836e848614569d7334d3472ec58ab9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#赴韩失联女生父母至今仍不知情#",
+      "rank": 4,
+      "title": "赴韩失联女生父母至今仍不知情",
+      "topic_id": "23152239cb451e92a89fe21e8697575dcdd586"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 20,
+      "posts": "saved",
+      "query": "#杭州警方通报女子称在电梯遭骚扰#",
+      "rank": 5,
+      "title": "杭州警方通报女子称在电梯遭骚扰",
+      "topic_id": "231522aba019031b7121fff434722734aeb7be"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#在韩失联中国女生死因或涉暴力犯罪#",
+      "rank": 6,
+      "title": "在韩失联中国女生死因或涉暴力犯罪",
+      "topic_id": "231522e31f4c81e734fcad4db3d38dcd088cb2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "金鹰奖提名名单",
+      "rank": 7,
+      "title": "金鹰奖提名名单",
+      "topic_id": "231522d0d5f7218d6206d4d4a2ca34708febe2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "原来大家都是这样防止被套话的",
+      "rank": 8,
+      "title": "原来大家都是这样防止被套话的",
+      "topic_id": "2315220808ff32cc2d8f207a95fccb75f00974"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "原来只有我上班在乱穿",
+      "rank": 9,
+      "title": "原来只有我上班在乱穿",
+      "topic_id": "2315228ee224f584dac5926af9b5aca3b8b6ed"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "惠英红撞车戏 朱莉跳楼戏",
+      "rank": 10,
+      "title": "惠英红撞车戏 朱莉跳楼戏",
+      "topic_id": "231522ebda217b950ea61f05cb60b2027a335b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#赵丽颖突发身体不适#",
+      "rank": 11,
+      "title": "赵丽颖突发身体不适",
+      "topic_id": "23152276b4a9307f8865b14e496e96eb5a44d5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "韩国愈演愈烈的失踪事件",
+      "rank": 12,
+      "title": "韩国愈演愈烈的失踪事件",
+      "topic_id": "231522869a80f722ee254b19729ae6d100116d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#刘亦菲茜茜公主大片#",
+      "rank": 13,
+      "title": "刘亦菲茜茜公主大片",
+      "topic_id": "23152232c98dfa86e7b4de829123d8ae2ee3b4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "goodthings 难听",
+      "rank": 14,
+      "title": "goodthings 难听",
+      "topic_id": "231522d5f37862c4c53a3a627d21caf6576504"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#乳房触诊当事医生称已起诉#",
+      "rank": 15,
+      "title": "乳房触诊当事医生称已起诉",
+      "topic_id": "2315226b160985d43634c18ce13190dd06f5a2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "宋威龙赵丽颖被AI漫剧融脸",
+      "rank": 16,
+      "title": "宋威龙赵丽颖被AI漫剧融脸",
+      "topic_id": "231522f4dab6958c8a1705a4e5d2cf554db651"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#在韩失联女生已在国内找到工作#",
+      "rank": 17,
+      "title": "在韩失联女生已在国内找到工作",
+      "topic_id": "231522af921bff28bfe110e11e4a798f077772"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "张伟打开还珠格格爱上李晟",
+      "rank": 18,
+      "title": "张伟打开还珠格格爱上李晟",
+      "topic_id": "23152257153864e05eee2ae15ddb35c093b9fd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#警方确认失联中国女生无韩出境记录#",
+      "rank": 19,
+      "title": "警方确认失联中国女生无韩出境记录",
+      "topic_id": "23152260b72167647554b5ba871acd544710c6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#13岁上海女孩靠AI三天赚1.8万元#",
+      "rank": 20,
+      "title": "13岁上海女孩靠AI三天赚1.8万元",
+      "topic_id": "231522aa4272627569d95fe513036b97417716"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "爱情公寓 王冠",
+      "rank": 21,
+      "title": "爱情公寓 王冠",
+      "topic_id": "2315228e25f2311fb8adea8d2e48757761c73e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "考公女子在星巴克撑伞备考",
+      "rank": 22,
+      "title": "考公女子在星巴克撑伞备考",
+      "topic_id": "2315223908e281c38677c43183b4766059c00a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 22,
+      "posts": "saved",
+      "query": "台风",
+      "rank": 23,
+      "title": "台风",
+      "topic_id": "231522647d33aff1e4bb9ed725b08888cdda22"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 20,
+      "posts": "saved",
+      "query": "#内娱十年前真的很流行谈恋爱和结婚#",
+      "rank": 24,
+      "title": "内娱十年前真的很流行谈恋爱和结婚",
+      "topic_id": "231522b166f732d8a92c1d6fea0b5f37395b4d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "原来这种身材是天选种地人",
+      "rank": 25,
+      "title": "原来这种身材是天选种地人",
+      "topic_id": "231522eb8128b470fc55aa3d19a9cc539d6920"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "什么行为让你觉得朋友不能深交",
+      "rank": 26,
+      "title": "什么行为让你觉得朋友不能深交",
+      "topic_id": "231522397dc8f5f798ed8a0000d27a09188901"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#97%教师存在职业健康困扰#",
+      "rank": 27,
+      "title": "97%教师存在职业健康困扰",
+      "topic_id": "23152228312b758ce1213a451a01767acc0160"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "七星彩 鞠婧祎",
+      "rank": 28,
+      "title": "七星彩 鞠婧祎",
+      "topic_id": "231522b456c3298651ef12a510be85241465cc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#在韩失联女生姐姐发声#",
+      "rank": 29,
+      "title": "在韩失联女生姐姐发声",
+      "topic_id": "231522ca44be53020fd7f855da5f52ef4adb49"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#王楚钦孙颖莎出战中国大满贯#",
+      "rank": 30,
+      "title": "王楚钦孙颖莎出战中国大满贯",
+      "topic_id": "231522cbba33c27ea2fc36207ea88932bec7da"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "时代少年团直播",
+      "rank": 31,
+      "title": "时代少年团直播",
+      "topic_id": "2315222bc1e17707b9a8dbe60c5febfa2ef535"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "爱情公寓",
+      "rank": 32,
+      "title": "爱情公寓",
+      "topic_id": "231522f2a5950140a9a56f310cdec075dd2e9e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "成都天府新区房价腰斩",
+      "rank": 33,
+      "title": "成都天府新区房价腰斩",
+      "topic_id": "2315227b3e09bd4b65afea516d002041c47231"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#金鹰奖热门男女主掉提名单#",
+      "rank": 34,
+      "title": "金鹰奖热门男女主掉提名单",
+      "topic_id": "23152203b91831de6cfc36d04b3d60ee1131b3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#苹果发布两款Mac新品#",
+      "rank": 35,
+      "title": "苹果发布两款Mac新品",
+      "topic_id": "23152249786c5e5a7fe1344f6872319ed262da"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#网传爱情公寓回归季阵容#",
+      "rank": 36,
+      "title": "网传爱情公寓回归季阵容",
+      "topic_id": "231522bc3226223ced28e3cd4ff2135ac202c9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "金鹰奖 错别字",
+      "rank": 37,
+      "title": "金鹰奖 错别字",
+      "topic_id": "231522f0bc87741470871e6107c82e59929ba4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#国乒WTT中国大满贯名单#",
+      "rank": 38,
+      "title": "国乒WTT中国大满贯名单",
+      "topic_id": "2315226441f59755d52b22229a077049f3f579"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "杨幂掉提",
+      "rank": 39,
+      "title": "杨幂掉提",
+      "topic_id": "231522a4b30d2cb603ae2afa7ce65a4ce68ad6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#魏大勋紧身裤界最严厉的父亲#",
+      "rank": 40,
+      "title": "魏大勋紧身裤界最严厉的父亲",
+      "topic_id": "231522099d6d2a41eb3c9e73c3810ef545adc2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#乳房触诊20多次后发现结节摸不到#",
+      "rank": 41,
+      "title": "乳房触诊20多次后发现结节摸不到",
+      "topic_id": "231522ce7cd87541ef415a3e230072a67ab850"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#肖战金鹰掉提#",
+      "rank": 42,
+      "title": "肖战金鹰掉提",
+      "topic_id": "231522ced3f7243adddf5524b5992f184f9e0f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#TOP两周年有在好好长大#",
+      "rank": 43,
+      "title": "TOP两周年有在好好长大",
+      "topic_id": "2315221e368be89aec07e1d94a7294c2083a24"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#6天已有4个台风接连生成#",
+      "rank": 44,
+      "title": "6天已有4个台风接连生成",
+      "topic_id": "2315222b82eae258534158d1a4969463595524"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#这种黑色小飞虫是移动病菌库#",
+      "rank": 45,
+      "title": "这种黑色小飞虫是移动病菌库",
+      "topic_id": "23152201aab3e6f138fd5abfec8d603b4ccc8d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#官方通报星宇股份解聘应届生#",
+      "rank": 46,
+      "title": "官方通报星宇股份解聘应届生",
+      "topic_id": "231522da6d4cd47528d973f10bfc74e2169fc3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#1家6口挤出租屋妻子打赏主播27万#",
+      "rank": 47,
+      "title": "1家6口挤出租屋妻子打赏主播27万",
+      "topic_id": "231522c5d3c6cd28bc46471fafb214eb52540a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#中国女子在泰被绑架丢路边监控曝光#",
+      "rank": 48,
+      "title": "中国女子在泰被绑架丢路边监控曝光",
+      "topic_id": "231522cc146c700e49ce67bd2c723fbdcd434d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "白鹿未获金鹰奖提名",
+      "rank": 49,
+      "title": "白鹿未获金鹰奖提名",
+      "topic_id": "231522506bef6fafc82d94dcbee82d80aead5c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 20,
+      "posts": "saved",
+      "query": "#一架美国军用运输机降落莫斯科#",
+      "rank": 50,
+      "title": "一架美国军用运输机降落莫斯科",
+      "topic_id": "2315222971aa566aba87d9f5298e4321f0a7d5"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

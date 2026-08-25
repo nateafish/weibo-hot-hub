@@ -3,15 +3,22 @@
   "created_at": 1784007706,
   "first_seen_at": "2026-08-25T18:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-25T21:00:00+08:00",
+  "last_seen_at": "2026-08-25T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8E%9F%E6%9D%A5%E5%A4%A7%E5%AE%B6%E9%83%BD%E6%98%AF%E8%BF%99%E6%A0%B7%E9%98%B2%E6%AD%A2%E8%A2%AB%E5%A5%97%E8%AF%9D%E7%9A%84%23%26t%3D3&title=发布媒体",
-    "show_str": "17家媒体",
+    "show_str": "20家媒体",
     "users": [
       {
         "id": 2075245652,
         "idstr": "2075245652",
         "screen_name": "长春晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1727472420,
+        "idstr": "1727472420",
+        "screen_name": "泰山晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 6477929648,
+        "idstr": "6477929648",
+        "screen_name": "晶视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 5828047833,
         "idstr": "5828047833",
         "screen_name": "观天下",
@@ -40,20 +54,6 @@
         "id": 5550357934,
         "idstr": "5550357934",
         "screen_name": "动静贵州",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2425315932,
-        "idstr": "2425315932",
-        "screen_name": "陕西天天网事",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2041117703,
-        "idstr": "2041117703",
-        "screen_name": "合肥日报",
         "verified": true,
         "verified_type": 3
       }
