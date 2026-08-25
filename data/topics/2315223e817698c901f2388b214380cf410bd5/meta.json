@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 3266943013
   },
-  "last_seen_at": "2026-08-26T06:00:00+08:00",
+  "last_seen_at": "2026-08-26T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A4%9A%E5%AE%B6%E5%A4%96%E5%AA%92%E7%B4%A7%E7%9B%AF%E6%AD%BC16%E5%AF%B9%E6%8A%97%E9%98%B5%E9%A3%8E%E8%A1%A8%E7%8E%B0%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "7家媒体",
     "users": [
       {
         "id": 3266943013,
@@ -44,9 +44,23 @@
         "verified_type": 3
       },
       {
+        "id": 1625232640,
+        "idstr": "1625232640",
+        "screen_name": "鲁中晨报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1598078571,
         "idstr": "1598078571",
         "screen_name": "福建东南网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1280846847,
+        "idstr": "1280846847",
+        "screen_name": "指尖新闻-沈阳晚报",
         "verified": true,
         "verified_type": 3
       }

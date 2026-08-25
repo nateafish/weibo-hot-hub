@@ -3,11 +3,18 @@
   "created_at": 1787666394,
   "first_seen_at": "2026-08-25T22:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-26T06:00:00+08:00",
+  "last_seen_at": "2026-08-26T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23goodthings+%E9%9A%BE%E5%90%AC%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "3家媒体",
     "users": [
+      {
+        "id": 2356298087,
+        "idstr": "2356298087",
+        "screen_name": "河北经视",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2535760180,
         "idstr": "2535760180",
@@ -16,9 +23,9 @@
         "verified_type": 3
       },
       {
-        "id": 2356298087,
-        "idstr": "2356298087",
-        "screen_name": "河北经视",
+        "id": 2115259662,
+        "idstr": "2115259662",
+        "screen_name": "洪观新闻",
         "verified": true,
         "verified_type": 3
       }
