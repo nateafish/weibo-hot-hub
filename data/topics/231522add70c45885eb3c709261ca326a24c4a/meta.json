@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1744332207
   },
-  "last_seen_at": "2026-08-25T23:00:00+08:00",
+  "last_seen_at": "2026-08-26T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%2325%E5%B2%81%E5%A4%B1%E8%81%94%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E4%B8%8D%E5%A4%AA%E4%BC%9A%E8%AF%B4%E9%9F%A9%E8%AF%AD%23%26t%3D3&title=发布媒体",
-    "show_str": "12家媒体",
+    "show_str": "16家媒体",
     "users": [
       {
         "id": 1744332207,
@@ -26,6 +26,13 @@
         "id": 7466959462,
         "idstr": "7466959462",
         "screen_name": "钱江频道-九点半",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6105713761,
+        "idstr": "6105713761",
+        "screen_name": "红星新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 2118120483,
+        "idstr": "2118120483",
+        "screen_name": "青岛日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2076296802,
         "idstr": "2076296802",
         "screen_name": "浙江名医馆",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1943154142,
-        "idstr": "1943154142",
-        "screen_name": "中安在线",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1866178881,
-        "idstr": "1866178881",
-        "screen_name": "范大姐帮忙",
         "verified": true,
         "verified_type": 3
       }
