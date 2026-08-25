@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 1644088831
   },
-  "last_seen_at": "2026-08-25T13:00:00+08:00",
+  "last_seen_at": "2026-08-25T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%8A%B6%E6%80%81%E8%BF%9D%E6%B3%95%E7%94%B1%E8%BD%A6%E4%BC%81%E6%8B%85%E8%B4%A3%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "13家媒体",
     "users": [
+      {
+        "id": 2210869832,
+        "idstr": "2210869832",
+        "screen_name": "科技头版",
+        "verified": true,
+        "verified_type": 2
+      },
       {
         "id": 1750070171,
         "idstr": "1750070171",
@@ -30,6 +37,20 @@
         "verified_type": 3
       },
       {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2118120483,
+        "idstr": "2118120483",
+        "screen_name": "青岛日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1939861572,
         "idstr": "1939861572",
         "screen_name": "新疆广播电视台",
@@ -37,16 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1497418417,
-        "idstr": "1497418417",
-        "screen_name": "掌上温岭",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1288429914,
-        "idstr": "1288429914",
-        "screen_name": "今视频长天新闻",
+        "id": 1912032243,
+        "idstr": "1912032243",
+        "screen_name": "大庆晚报",
         "verified": true,
         "verified_type": 3
       }
