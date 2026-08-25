@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-08-26T04:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#习主席同约旦国王谈了这些大事#",
+      "rank": 1,
+      "title": "习主席同约旦国王谈了这些大事",
+      "topic_id": "23152213447029c182add3e5f6b2d3b1ee89f5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "过得好的人最明显的标志",
+      "rank": 1,
+      "title": "过得好的人最明显的标志",
+      "topic_id": "231522b87658b11745e343728eabcef22e0407"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#中国公民尽快撤离斯威士兰#",
+      "rank": 2,
+      "title": "中国公民尽快撤离斯威士兰",
+      "topic_id": "231522a983b410f58f6592375c82535d20b835"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#6张网建设进度条刷新#",
+      "rank": 3,
+      "title": "6张网建设进度条刷新",
+      "topic_id": "231522a729b43a7b09c798551ad2e7d093522b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#刘亦菲掉提金鹰奖最佳女主#",
+      "rank": 4,
+      "title": "刘亦菲掉提金鹰奖最佳女主",
+      "topic_id": "231522c5a5094fe08d3ba0fb5370d811035c7a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#30多国准备派兵乌克兰#",
+      "rank": 5,
+      "title": "30多国准备派兵乌克兰",
+      "topic_id": "231522b8dd2cd15a754b92a52e50fe95e7e5d6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#13岁上海女孩靠AI三天赚1.8万元#",
+      "rank": 6,
+      "title": "13岁上海女孩靠AI三天赚1.8万元",
+      "topic_id": "231522aa4272627569d95fe513036b97417716"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#在嫌疑人住处发现在韩遇害女生遗体#",
+      "rank": 7,
+      "title": "在嫌疑人住处发现在韩遇害女生遗体",
+      "topic_id": "23152259925deaced57736ce641850df9c63c7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#这种黑色小飞虫是移动病菌库#",
+      "rank": 8,
+      "title": "这种黑色小飞虫是移动病菌库",
+      "topic_id": "23152201aab3e6f138fd5abfec8d603b4ccc8d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "原来只有我上班在乱穿",
+      "rank": 9,
+      "title": "原来只有我上班在乱穿",
+      "topic_id": "2315228ee224f584dac5926af9b5aca3b8b6ed"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#爱情公寓网传名单没有陈赫王传君金世佳#",
+      "rank": 10,
+      "title": "爱情公寓网传名单没有陈赫王传君金世佳",
+      "topic_id": "2315228920059c587a37dc380707a8920529b6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "洪崖洞",
+      "rank": 11,
+      "title": "洪崖洞",
+      "topic_id": "231522ee6beeafb829b2460bf15fb572d36c2d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#杀害在韩女生嫌疑人曾自称男友报警#",
+      "rank": 12,
+      "title": "杀害在韩女生嫌疑人曾自称男友报警",
+      "topic_id": "231522e076973822b356c791bca8da374a17b5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#医生谈1米67女孩101斤被认定偏重#",
+      "rank": 13,
+      "title": "医生谈1米67女孩101斤被认定偏重",
+      "topic_id": "231522ed8fc44799f18989c300edd6bba36152"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#赴韩失联女生父母至今仍不知情#",
+      "rank": 14,
+      "title": "赴韩失联女生父母至今仍不知情",
+      "topic_id": "23152239cb451e92a89fe21e8697575dcdd586"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#杭州警方通报女子称在电梯遭骚扰#",
+      "rank": 15,
+      "title": "杭州警方通报女子称在电梯遭骚扰",
+      "topic_id": "231522aba019031b7121fff434722734aeb7be"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#在韩失联中国女生死因或涉暴力犯罪#",
+      "rank": 16,
+      "title": "在韩失联中国女生死因或涉暴力犯罪",
+      "topic_id": "231522e31f4c81e734fcad4db3d38dcd088cb2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "爱情公寓",
+      "rank": 17,
+      "title": "爱情公寓",
+      "topic_id": "231522f2a5950140a9a56f310cdec075dd2e9e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "金鹰奖提名名单",
+      "rank": 18,
+      "title": "金鹰奖提名名单",
+      "topic_id": "231522d0d5f7218d6206d4d4a2ca34708febe2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "早春晴朗",
+      "rank": 19,
+      "title": "早春晴朗",
+      "topic_id": "23152232a83557dc62513442c4c623e727e467"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#我驻釜山总领事馆要求严惩凶手#",
+      "rank": 20,
+      "title": "我驻釜山总领事馆要求严惩凶手",
+      "topic_id": "23152223bd02919fe83b2e9a0f9b15a61a363e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "灵活就业 社保压力",
+      "rank": 21,
+      "title": "灵活就业 社保压力",
+      "topic_id": "231522d9c8714b5259b23c53a0660c91bbc48b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "goodthings 难听",
+      "rank": 22,
+      "title": "goodthings 难听",
+      "topic_id": "231522d5f37862c4c53a3a627d21caf6576504"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#在韩失联女生已遇害#",
+      "rank": 23,
+      "title": "在韩失联女生已遇害",
+      "topic_id": "23152208c1d40ea5b7bf45e9d843c20c31291c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#白鹿的奖运#",
+      "rank": 24,
+      "title": "白鹿的奖运",
+      "topic_id": "231522a43a62299d88f334561f62860724c734"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#内娱十年前真的很流行谈恋爱和结婚#",
+      "rank": 25,
+      "title": "内娱十年前真的很流行谈恋爱和结婚",
+      "topic_id": "231522b166f732d8a92c1d6fea0b5f37395b4d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "考公女子在星巴克撑伞备考",
+      "rank": 26,
+      "title": "考公女子在星巴克撑伞备考",
+      "topic_id": "2315223908e281c38677c43183b4766059c00a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "13岁用AI接百万商单",
+      "rank": 27,
+      "title": "13岁用AI接百万商单",
+      "topic_id": "231522f7744a35af496feec114a04f915eade5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "人真是环境的产物",
+      "rank": 28,
+      "title": "人真是环境的产物",
+      "topic_id": "231522c6137a310c1a66993f8cb6896fa7dd0d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "原来这种身材是天选种地人",
+      "rank": 29,
+      "title": "原来这种身材是天选种地人",
+      "topic_id": "231522eb8128b470fc55aa3d19a9cc539d6920"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "小米阔折叠原型机加了风扇",
+      "rank": 30,
+      "title": "小米阔折叠原型机加了风扇",
+      "topic_id": "2315222a9f2df543da1e002c39f7324e91924b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#韩警方将对遇害女生遗体进行尸检#",
+      "rank": 31,
+      "title": "韩警方将对遇害女生遗体进行尸检",
+      "topic_id": "2315225acc41bf9eee0ac51b406e7f5fe70317"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "台风",
+      "rank": 32,
+      "title": "台风",
+      "topic_id": "231522647d33aff1e4bb9ed725b08888cdda22"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "高考英语40分成邮轮双语主持人",
+      "rank": 33,
+      "title": "高考英语40分成邮轮双语主持人",
+      "topic_id": "2315222bc52e5a627986affe0ed4941af7981e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "这份卤肉教程堪比一篇论文",
+      "rank": 34,
+      "title": "这份卤肉教程堪比一篇论文",
+      "topic_id": "231522efd1fae69010b5e2811d901fbe253c55"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#何以悬空寺爆火#",
+      "rank": 35,
+      "title": "何以悬空寺爆火",
+      "topic_id": "23152258f92b9da92048caee0eead651cd1b09"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 6,
+      "posts": "saved",
+      "query": "约8500名朝鲜兵员部署至俄乌前线",
+      "rank": 36,
+      "title": "约8500名朝鲜兵员部署至俄乌前线",
+      "topic_id": "2315227ca59c9b08539a43d45aea500594d512"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#朱志鑫cue到troublemaker#",
+      "rank": 37,
+      "title": "朱志鑫cue到troublemaker",
+      "topic_id": "23152218d48165a12260c81a8127384e4fc163"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#邻居否认牌馆去世老人与店主不熟#",
+      "rank": 38,
+      "title": "邻居否认牌馆去世老人与店主不熟",
+      "topic_id": "231522b635198b4810629e6f34f98dc196f7b1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "律师解读电梯骚扰事件女子被立案",
+      "rank": 39,
+      "title": "律师解读电梯骚扰事件女子被立案",
+      "topic_id": "2315220d5d680072ed6af56697ac0c9bbdfac3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#乳房触诊当事医生称已起诉#",
+      "rank": 40,
+      "title": "乳房触诊当事医生称已起诉",
+      "topic_id": "2315226b160985d43634c18ce13190dd06f5a2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "不要反复咀嚼不舒服的人和事",
+      "rank": 41,
+      "title": "不要反复咀嚼不舒服的人和事",
+      "topic_id": "231522fc3e8e188bceaeb6af36424b2690128e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#亚运会预算超标#",
+      "rank": 42,
+      "title": "亚运会预算超标",
+      "topic_id": "23152298d8778fb844b261895da2ca27a2b5f8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#小伙把腹胀当胃病查出肝癌晚期#",
+      "rank": 43,
+      "title": "小伙把腹胀当胃病查出肝癌晚期",
+      "topic_id": "2315223214b3c76d334d1f9d75847cf9f02fa5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#去世老人家距涉事牌馆不足500米#",
+      "rank": 44,
+      "title": "去世老人家距涉事牌馆不足500米",
+      "topic_id": "23152250358854d080054dd7e02040505436f9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 7,
+      "posts": "saved",
+      "query": "#女子腰上冒水疱确诊带状疱疹#",
+      "rank": 45,
+      "title": "女子腰上冒水疱确诊带状疱疹",
+      "topic_id": "2315229f0a5d5e20a40a810b1bccce30e4b323"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#苹果M6芯片#",
+      "rank": 46,
+      "title": "苹果M6芯片",
+      "topic_id": "2315227c19f5b155196c1e46fdef0343f64a7f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#女子因裁员焦虑每天通宵学习#",
+      "rank": 47,
+      "title": "女子因裁员焦虑每天通宵学习",
+      "topic_id": "2315228424bb3bf450ced1584d2c121f4779d2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "爱情公寓 王冠",
+      "rank": 48,
+      "title": "爱情公寓 王冠",
+      "topic_id": "2315228e25f2311fb8adea8d2e48757761c73e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#提醒中国公民暂勿前往斯威士兰#",
+      "rank": 49,
+      "title": "提醒中国公民暂勿前往斯威士兰",
+      "topic_id": "2315222aa9ba34ef3578fdbf9b5e6b6a41c799"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "金鹰奖 这个人真叫袁子弹吗",
+      "rank": 50,
+      "title": "金鹰奖 这个人真叫袁子弹吗",
+      "topic_id": "23152212fafba379f576519ac2303c84a9aec1"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

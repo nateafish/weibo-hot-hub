@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1668589317
   },
-  "last_seen_at": "2026-08-25T23:00:00+08:00",
+  "last_seen_at": "2026-08-26T04:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%9A%82%E5%8B%BF%E5%89%8D%E5%BE%80%E6%96%AF%E5%A8%81%E5%A3%AB%E5%85%B0%23%26t%3D3&title=发布媒体",
-    "show_str": "11家媒体",
+    "show_str": "12家媒体",
     "users": [
       {
         "id": 1668589317,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 1893892941,
+        "idstr": "1893892941",
+        "screen_name": "北京日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6115560351,
         "idstr": "6115560351",
         "screen_name": "国是直通车",
@@ -54,13 +61,6 @@
         "id": 5325240805,
         "idstr": "5325240805",
         "screen_name": "铁骥视频海外频道",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3253939390,
-        "idstr": "3253939390",
-        "screen_name": "半岛新闻",
         "verified": true,
         "verified_type": 3
       }
