@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1653603955
   },
-  "last_seen_at": "2026-08-25T10:00:00+08:00",
+  "last_seen_at": "2026-08-25T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%94%B7%E5%AD%90%E6%B1%82%E5%A4%8D%E5%90%88%E9%81%AD%E6%8B%92%E5%89%B2%E5%96%89%E5%89%8D%E5%A5%B3%E5%8F%8B%E6%8D%85%E6%95%B0%E5%8D%81%E5%88%80%23%26t%3D3&title=发布媒体",
-    "show_str": "47家媒体",
+    "show_str": "59家媒体",
     "users": [
       {
         "id": 1653603955,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 1497418417,
+        "idstr": "1497418417",
+        "screen_name": "掌上温岭",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2620088113,
         "idstr": "2620088113",
         "screen_name": "海报新闻",
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 1645578093,
-        "idstr": "1645578093",
-        "screen_name": "南风窗",
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 5200047156,
-        "idstr": "5200047156",
-        "screen_name": "扬子晚报泰州频道",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3275115274,
-        "idstr": "3275115274",
-        "screen_name": "中国吉林网",
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
         "verified": true,
         "verified_type": 3
       }
