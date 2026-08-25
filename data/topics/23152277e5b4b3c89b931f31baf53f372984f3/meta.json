@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 7308140398
   },
-  "last_seen_at": "2026-08-25T11:00:00+08:00",
+  "last_seen_at": "2026-08-25T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%B0%B4%E5%8A%A1%E5%B1%80%E5%9B%9E%E5%BA%94%E9%83%91%E5%B7%9E%E5%8C%97%E9%BE%99%E6%B9%96%E7%96%91%E7%8E%B0%E5%B7%A8%E5%9E%8B%E5%A4%A7%E9%B1%BC%23%26t%3D3&title=发布媒体",
-    "show_str": "9家媒体",
+    "show_str": "14家媒体",
     "users": [
       {
         "id": 7308140398,
@@ -30,6 +30,20 @@
         "verified_type": 3
       },
       {
+        "id": 7472856103,
+        "idstr": "7472856103",
+        "screen_name": "点时新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5822206027,
+        "idstr": "5822206027",
+        "screen_name": "北斗融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 5145725878,
         "idstr": "5145725878",
         "screen_name": "沸点视频",
@@ -37,30 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 1704185933,
-        "idstr": "1704185933",
-        "screen_name": "聊城晚报",
+        "id": 3901624042,
+        "idstr": "3901624042",
+        "screen_name": "山西日报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1667942985,
-        "idstr": "1667942985",
-        "screen_name": "长三角之声",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1398613133,
-        "idstr": "1398613133",
-        "screen_name": "马上资讯",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1280846847,
-        "idstr": "1280846847",
-        "screen_name": "指尖新闻-沈阳晚报",
+        "id": 2118120483,
+        "idstr": "2118120483",
+        "screen_name": "青岛日报",
         "verified": true,
         "verified_type": 3
       }

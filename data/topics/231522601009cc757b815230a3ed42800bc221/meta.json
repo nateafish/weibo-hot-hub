@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1699432410
   },
-  "last_seen_at": "2026-08-25T11:00:00+08:00",
+  "last_seen_at": "2026-08-25T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%94%B5%E5%8A%A8%E8%87%AA%E8%A1%8C%E8%BD%A6%E6%9C%80%E9%AB%98%E6%97%B6%E9%80%9F%E6%8F%90%E8%87%B320%E5%85%AC%E9%87%8C%23%26t%3D3&title=发布媒体",
-    "show_str": "35家媒体",
+    "show_str": "59家媒体",
     "users": [
       {
         "id": 1699432410,
         "idstr": "1699432410",
         "screen_name": "新华社",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 1288429914,
-        "idstr": "1288429914",
-        "screen_name": "今视频长天新闻",
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 7614671444,
-        "idstr": "7614671444",
-        "screen_name": "道路交通管理杂志",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6982382342,
-        "idstr": "6982382342",
-        "screen_name": "搜狐科技",
+        "id": 1975995305,
+        "idstr": "1975995305",
+        "screen_name": "西安晚报",
         "verified": true,
         "verified_type": 3
       }

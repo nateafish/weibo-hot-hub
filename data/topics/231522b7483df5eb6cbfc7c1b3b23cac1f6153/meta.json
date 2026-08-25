@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1642634100
   },
-  "last_seen_at": "2026-08-25T11:00:00+08:00",
+  "last_seen_at": "2026-08-25T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BD%99%E6%89%BF%E4%B8%9C%E5%AE%98%E5%AE%A3%E5%85%A8%E6%96%B0%E4%B8%89%E6%8A%98%E5%8F%A0%23%26t%3D3&title=发布媒体",
-    "show_str": "9家媒体",
+    "show_str": "11家媒体",
     "users": [
       {
         "id": 1642634100,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 1750852843,
+        "idstr": "1750852843",
+        "screen_name": "PChome",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6982382342,
         "idstr": "6982382342",
         "screen_name": "搜狐科技",
@@ -54,13 +61,6 @@
         "id": 6070849931,
         "idstr": "6070849931",
         "screen_name": "山东财经报道-经济导报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2660940103,
-        "idstr": "2660940103",
-        "screen_name": "环球网科技频道",
         "verified": true,
         "verified_type": 3
       }

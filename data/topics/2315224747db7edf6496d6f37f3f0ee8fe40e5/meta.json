@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 4014512978
   },
-  "last_seen_at": "2026-08-25T11:00:00+08:00",
+  "last_seen_at": "2026-08-25T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8D%83%E5%A4%9C%E5%A5%87%E8%B0%AD%E5%AE%98%E5%AE%A3%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "12家媒体",
     "users": [
+      {
+        "id": 1843633441,
+        "idstr": "1843633441",
+        "screen_name": "搜狐娱乐",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1642592432,
         "idstr": "1642592432",
@@ -40,6 +47,20 @@
         "id": 6192935507,
         "idstr": "6192935507",
         "screen_name": "青流娱乐",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5168259491,
+        "idstr": "5168259491",
+        "screen_name": "听听FM",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
         "verified": true,
         "verified_type": 3
       }
