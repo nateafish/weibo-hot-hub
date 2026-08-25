@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1988800805
   },
-  "last_seen_at": "2026-08-25T18:00:00+08:00",
+  "last_seen_at": "2026-08-25T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%AE%87%E6%A0%91%E7%A0%94%E5%8F%91%E8%B4%B9%E7%94%A8%E6%88%96%E6%AF%94%E7%89%A7%E5%8E%9F%E5%85%BB%E7%8C%AA%E7%BB%8F%E8%B4%B9%E4%BD%8E%23%26t%3D3&title=发布媒体",
-    "show_str": "10家媒体",
+    "show_str": "12家媒体",
     "users": [
       {
         "id": 1988800805,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 6928905395,
+        "idstr": "6928905395",
+        "screen_name": "大风视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 5864631680,
         "idstr": "5864631680",
         "screen_name": "科技猩球",
@@ -54,13 +61,6 @@
         "id": 2177386743,
         "idstr": "2177386743",
         "screen_name": "Tech星球",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2075245652,
-        "idstr": "2075245652",
-        "screen_name": "长春晚报",
         "verified": true,
         "verified_type": 3
       }

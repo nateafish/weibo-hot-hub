@@ -3,11 +3,25 @@
   "created_at": 1784007706,
   "first_seen_at": "2026-08-25T18:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-25T18:00:00+08:00",
+  "last_seen_at": "2026-08-25T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8E%9F%E6%9D%A5%E5%A4%A7%E5%AE%B6%E9%83%BD%E6%98%AF%E8%BF%99%E6%A0%B7%E9%98%B2%E6%AD%A2%E8%A2%AB%E5%A5%97%E8%AF%9D%E7%9A%84%23%26t%3D3&title=发布媒体",
-    "show_str": "9家媒体",
+    "show_str": "10家媒体",
     "users": [
+      {
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5828047833,
+        "idstr": "5828047833",
+        "screen_name": "观天下",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 5550357934,
         "idstr": "5550357934",
@@ -23,13 +37,6 @@
         "verified_type": 3
       },
       {
-        "id": 2360016402,
-        "idstr": "2360016402",
-        "screen_name": "宁波日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 1960601312,
         "idstr": "1960601312",
         "screen_name": "多彩贵州网",
@@ -37,9 +44,9 @@
         "verified_type": 3
       },
       {
-        "id": 1912416573,
-        "idstr": "1912416573",
-        "screen_name": "河南手机报",
+        "id": 1915671961,
+        "idstr": "1915671961",
+        "screen_name": "陕西都市快报",
         "verified": true,
         "verified_type": 3
       },
@@ -47,13 +54,6 @@
         "id": 1893892941,
         "idstr": "1893892941",
         "screen_name": "北京日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1805685140,
-        "idstr": "1805685140",
-        "screen_name": "安徽网",
         "verified": true,
         "verified_type": 3
       }
