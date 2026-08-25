@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1653603955
   },
-  "last_seen_at": "2026-08-25T14:00:00+08:00",
+  "last_seen_at": "2026-08-25T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%9B%91%E6%8E%A7%E6%8B%8D%E4%B8%8B%E7%94%B7%E5%AD%90%E5%89%B2%E5%96%89%E6%9D%80%E5%AE%B3%E5%89%8D%E5%A5%B3%E5%8F%8B%E8%BF%87%E7%A8%8B%23%26t%3D3&title=发布媒体",
-    "show_str": "15家媒体",
+    "show_str": "18家媒体",
     "users": [
       {
         "id": 1653603955,
@@ -26,6 +26,13 @@
         "id": 5145725878,
         "idstr": "5145725878",
         "screen_name": "沸点视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1960785875,
+        "idstr": "1960785875",
+        "screen_name": "津云新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -54,13 +61,6 @@
         "id": 3877613768,
         "idstr": "3877613768",
         "screen_name": "爱济南发布",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2744190984,
-        "idstr": "2744190984",
-        "screen_name": "家长大学堂",
         "verified": true,
         "verified_type": 3
       }
