@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1618051664
   },
-  "last_seen_at": "2026-08-25T19:00:00+08:00",
+  "last_seen_at": "2026-08-25T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B9%B3%E6%88%BF%E8%A7%A6%E8%AF%8A%E5%BD%93%E4%BA%8B%E5%8C%BB%E7%94%9F%E7%A7%B0%E5%B7%B2%E6%8F%90%E4%BA%A4%E8%AF%8A%E5%AE%A4%E8%A7%86%E9%A2%91%23%26t%3D3&title=发布媒体",
-    "show_str": "8家媒体",
+    "show_str": "16家媒体",
     "users": [
       {
         "id": 1618051664,
@@ -30,11 +30,25 @@
         "verified_type": 7
       },
       {
+        "id": 1644855075,
+        "idstr": "1644855075",
+        "screen_name": "华商网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6092578444,
         "idstr": "6092578444",
         "screen_name": "新浪种草官",
         "verified": true,
         "verified_type": 7
+      },
+      {
+        "id": 5145725878,
+        "idstr": "5145725878",
+        "screen_name": "沸点视频",
+        "verified": true,
+        "verified_type": 3
       },
       {
         "id": 5119282557,
@@ -44,23 +58,9 @@
         "verified_type": 2
       },
       {
-        "id": 2252846093,
-        "idstr": "2252846093",
-        "screen_name": "长春新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2118120483,
-        "idstr": "2118120483",
-        "screen_name": "青岛日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2028810631,
-        "idstr": "2028810631",
-        "screen_name": "新浪新闻",
+        "id": 5116298586,
+        "idstr": "5116298586",
+        "screen_name": "昆明日报掌上春城",
         "verified": true,
         "verified_type": 3
       }

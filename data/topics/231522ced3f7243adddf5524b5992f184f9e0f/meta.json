@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2804016714
   },
-  "last_seen_at": "2026-08-25T19:00:00+08:00",
+  "last_seen_at": "2026-08-25T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%82%96%E6%88%98%E9%87%91%E9%B9%B0%E6%8E%89%E6%8F%90%23%26t%3D3&title=发布媒体",
-    "show_str": "18家媒体",
+    "show_str": "19家媒体",
     "users": [
       {
         "id": 7708039348,
@@ -44,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 2647971081,
+        "idstr": "2647971081",
+        "screen_name": "时速新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2027480085,
         "idstr": "2027480085",
         "screen_name": "水母网",
@@ -54,13 +61,6 @@
         "id": 1941424392,
         "idstr": "1941424392",
         "screen_name": "台州晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1867427515,
-        "idstr": "1867427515",
-        "screen_name": "新派新闻",
         "verified": true,
         "verified_type": 3
       }

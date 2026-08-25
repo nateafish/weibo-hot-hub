@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 6152730031
   },
-  "last_seen_at": "2026-08-25T19:00:00+08:00",
+  "last_seen_at": "2026-08-25T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%87%91%E9%B9%B0%E5%A5%96%E7%83%AD%E9%97%A8%E7%94%B7%E5%A5%B3%E4%B8%BB%E6%8E%89%E6%8F%90%E5%90%8D%E5%8D%95%23%26t%3D3&title=发布媒体",
-    "show_str": "7家媒体",
+    "show_str": "10家媒体",
     "users": [
+      {
+        "id": 2647971081,
+        "idstr": "2647971081",
+        "screen_name": "时速新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2027480085,
         "idstr": "2027480085",
@@ -30,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 1898885525,
+        "idstr": "1898885525",
+        "screen_name": "生活报新街派",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1751714412,
         "idstr": "1751714412",
         "screen_name": "大皖新闻",
@@ -37,30 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 1725252714,
+        "idstr": "1725252714",
+        "screen_name": "温度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1698857957,
         "idstr": "1698857957",
         "screen_name": "海峡都市报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1656737654,
-        "idstr": "1656737654",
-        "screen_name": "现代快报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1496814565,
-        "idstr": "1496814565",
-        "screen_name": "封面新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1280846847,
-        "idstr": "1280846847",
-        "screen_name": "指尖新闻-沈阳晚报",
         "verified": true,
         "verified_type": 3
       }

@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2656274875
   },
-  "last_seen_at": "2026-08-25T19:00:00+08:00",
+  "last_seen_at": "2026-08-25T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%87%91%E4%BB%B7%E9%A3%9E%E6%B6%A8%E5%8E%9F%E5%9B%A0%23%26t%3D3&title=发布媒体",
-    "show_str": "132家媒体",
+    "show_str": "136家媒体",
     "users": [
       {
         "id": 2656274875,
@@ -26,6 +26,13 @@
         "id": 1651428902,
         "idstr": "1651428902",
         "screen_name": "21世纪经济报道",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1727472420,
+        "idstr": "1727472420",
+        "screen_name": "泰山晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -54,13 +61,6 @@
         "id": 1751714412,
         "idstr": "1751714412",
         "screen_name": "大皖新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1420157965,
-        "idstr": "1420157965",
-        "screen_name": "上游新闻",
         "verified": true,
         "verified_type": 3
       }
