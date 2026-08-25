@@ -1,0 +1,173 @@
+{
+  "captured_at": "2026-08-26T05:00:00+08:00",
+  "contributors": [
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/9169049902",
+      "rank": 1,
+      "uid": "9169049902",
+      "username": "任敏领秀胡xj",
+      "verified": false,
+      "verified_type": -1
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/7900487181",
+      "rank": 2,
+      "uid": "7900487181",
+      "username": "电台播放器",
+      "verified": false,
+      "verified_type": -1
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/6769814923",
+      "rank": 3,
+      "uid": "6769814923",
+      "username": "瑶瑶的小云朵",
+      "verified": true,
+      "verified_type": 0
+    }
+  ],
+  "contributors_scheme": "sinaweibo://cardlist?containerid=231522type%3D103%26q%3D%23%E5%8E%BB%E4%B8%96%E8%80%81%E4%BA%BA%E5%AE%B6%E8%B7%9D%E6%B6%89%E4%BA%8B%E7%89%8C%E9%A6%86%E4%B8%8D%E8%B6%B3500%E7%B1%B3%23&title=话题贡献者排行",
+  "current_boards": {
+    "hot_band": {
+      "ori": {
+        "category": "舆论监督",
+        "is_boom": 0,
+        "num": 28573,
+        "onband": 1,
+        "onboard_time": 1787689334,
+        "pos": 40,
+        "subject_querys": [],
+        "transparency_tag": null
+      },
+      "scheme": "sinaweibo://pageinfo?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Drealtimehot&title=热搜榜&extparam=",
+      "sub_info": [],
+      "text": "热搜榜第40位"
+    },
+    "hot_band_24_hour": {
+      "ori": {
+        "on_band": 1
+      }
+    },
+    "social_band": {
+      "ori": {
+        "category": "舆论监督",
+        "is_boom": 0,
+        "onband": 1,
+        "pos": 30,
+        "subject_querys": []
+      },
+      "scheme": "sinaweibo://pageinfo?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Dsocial&title=社会榜&extparam=",
+      "sub_info": [],
+      "text": "社会榜第30位"
+    }
+  },
+  "exact_counts": {
+    "buy_num": 0,
+    "g_mention": 113,
+    "gone_num": 0,
+    "interact": 1521,
+    "mention": 113,
+    "ori_m": 14,
+    "ori_uv": 11,
+    "r_valid": 390743,
+    "read": 980816,
+    "rec_num": 0,
+    "show": 0,
+    "star": 1.5,
+    "t_m_num": 5,
+    "t_r_num": 980922,
+    "wants_num": 0
+  },
+  "heat": 1,
+  "overview": {
+    "24h": {
+      "interaction": {
+        "unit": "",
+        "val": 1521
+      },
+      "mention": {
+        "unit": "",
+        "val": 113
+      },
+      "original": {
+        "unit": "",
+        "val": 14
+      },
+      "read": {
+        "unit": "万",
+        "val": 98
+      }
+    },
+    "30d": {
+      "interaction": {
+        "unit": "",
+        "val": 1521
+      },
+      "mention": {
+        "unit": "",
+        "val": 113
+      },
+      "original": {
+        "unit": "",
+        "val": 14
+      },
+      "read": {
+        "unit": "万",
+        "val": 98
+      }
+    },
+    "all": {
+      "interaction": {
+        "unit": "",
+        "val": 1521
+      },
+      "mention": {
+        "unit": "",
+        "val": 113
+      },
+      "original": {
+        "unit": "",
+        "val": 14
+      },
+      "read": {
+        "unit": "万",
+        "val": 98.1
+      }
+    }
+  },
+  "rank_history": [
+    {
+      "cate": "hot_board",
+      "cate_desc": "热搜榜",
+      "duration_hour": 0,
+      "duration_minute": 49,
+      "duration_mod_min": 49,
+      "off_board_time": "202608260516",
+      "on_board_time": "202608260422",
+      "top_pos": 42,
+      "topic_flag": 1
+    },
+    {
+      "cate": "society_board",
+      "cate_desc": "社会榜",
+      "duration_hour": 2,
+      "duration_minute": 141,
+      "duration_mod_min": 21,
+      "off_board_time": "202608260517",
+      "on_board_time": "202608260236",
+      "top_pos": 28,
+      "topic_flag": 1
+    }
+  ],
+  "title": "去世老人家距涉事牌馆不足500米",
+  "topic_id": "23152250358854d080054dd7e02040505436f9",
+  "window_counts": {
+    "1h_mention": 24,
+    "1h_ori_m": 1,
+    "24h_mention": 113,
+    "24h_read": 979708
+  }
+}
