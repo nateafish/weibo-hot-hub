@@ -3,15 +3,36 @@
   "created_at": 1787633015,
   "first_seen_at": "2026-08-25T14:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-25T15:00:00+08:00",
+  "last_seen_at": "2026-08-25T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BD%99%E7%A7%80%E5%8D%8E%E5%B8%8C%E6%9C%9B%E4%B8%80%E7%99%BE%E5%B9%B4%E5%90%8E%E4%BA%BA%E7%B1%BB%E7%81%AD%E4%BA%A1%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "8家媒体",
     "users": [
+      {
+        "id": 2659523842,
+        "idstr": "2659523842",
+        "screen_name": "黔东南新闻网官方微博",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2337985010,
         "idstr": "2337985010",
         "screen_name": "瑞安融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2041117703,
+        "idstr": "2041117703",
+        "screen_name": "合肥日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1968407017,
+        "idstr": "1968407017",
+        "screen_name": "江西晨报",
         "verified": true,
         "verified_type": 3
       },
@@ -23,9 +44,16 @@
         "verified_type": 3
       },
       {
-        "id": 1279746217,
-        "idstr": "1279746217",
-        "screen_name": "经理人杂志",
+        "id": 1882632930,
+        "idstr": "1882632930",
+        "screen_name": "新消息报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497418417,
+        "idstr": "1497418417",
+        "screen_name": "掌上温岭",
         "verified": true,
         "verified_type": 3
       }

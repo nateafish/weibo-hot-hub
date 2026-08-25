@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 7575030448
   },
-  "last_seen_at": "2026-08-25T14:00:00+08:00",
+  "last_seen_at": "2026-08-25T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%B5%8E%E5%85%AC4%E5%88%B6%E7%89%87%E4%BA%BA%E8%AF%B4%E5%AF%B9%E7%BD%91%E7%BA%A2%E4%B8%8D%E6%84%9F%E5%86%92%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "6家媒体",
     "users": [
+      {
+        "id": 7575030448,
+        "idstr": "7575030448",
+        "screen_name": "白鹿视频",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 7761793874,
         "idstr": "7761793874",
@@ -30,16 +37,23 @@
         "verified_type": 3
       },
       {
-        "id": 7575030448,
-        "idstr": "7575030448",
-        "screen_name": "白鹿视频",
+        "id": 1681831471,
+        "idstr": "1681831471",
+        "screen_name": "引力科普",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1681831471,
-        "idstr": "1681831471",
-        "screen_name": "引力科普",
+        "id": 2027480085,
+        "idstr": "2027480085",
+        "screen_name": "水母网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       }

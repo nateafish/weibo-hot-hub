@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 1931238691
   },
-  "last_seen_at": "2026-08-25T15:00:00+08:00",
+  "last_seen_at": "2026-08-25T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%2385%E5%B2%81%E7%88%B7%E7%88%B7%E6%8A%8A8%E5%B2%81%E8%87%AA%E9%97%AD%E5%AD%99%E5%AD%90%E5%BD%93%E6%AD%A3%E5%B8%B8%E5%A8%83%E5%B8%A6%23%26t%3D3&title=发布媒体",
-    "show_str": "49家媒体",
+    "show_str": "60家媒体",
     "users": [
       {
         "id": 1931238691,
         "idstr": "1931238691",
         "screen_name": "先锋新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1789681642,
+        "idstr": "1789681642",
+        "screen_name": "第一现场",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5341241739,
+        "idstr": "5341241739",
+        "screen_name": "网易健康",
         "verified": true,
         "verified_type": 3
       },
@@ -37,30 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7200280790,
         "idstr": "7200280790",
         "screen_name": "正观特稿",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7030322196,
-        "idstr": "7030322196",
-        "screen_name": "天眼新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6715513747,
-        "idstr": "6715513747",
-        "screen_name": "宁县融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6380644334,
-        "idstr": "6380644334",
-        "screen_name": "蟹视频",
         "verified": true,
         "verified_type": 3
       }

@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 6436652527
   },
-  "last_seen_at": "2026-08-25T15:00:00+08:00",
+  "last_seen_at": "2026-08-25T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%83%A0%E8%8B%B1%E7%BA%A2%E5%90%83%E7%BA%B8%E8%BF%99%E6%AE%B5%E7%9C%8B%E5%BE%97%E4%BA%BA%E5%A4%B4%E7%9A%AE%E5%8F%91%E9%BA%BB%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "2家媒体",
     "users": [
       {
         "id": 7122462629,
         "idstr": "7122462629",
         "screen_name": "咪咕文娱",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1882632930,
+        "idstr": "1882632930",
+        "screen_name": "新消息报",
         "verified": true,
         "verified_type": 3
       }
