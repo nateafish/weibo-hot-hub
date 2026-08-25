@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 5525448506
   },
-  "last_seen_at": "2026-08-25T16:00:00+08:00",
+  "last_seen_at": "2026-08-25T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%B8%80%E9%A5%AD%E5%B0%81%E7%A5%9E2%23%26t%3D3&title=发布媒体",
-    "show_str": "11家媒体",
+    "show_str": "14家媒体",
     "users": [
       {
         "id": 1744332207,
@@ -26,6 +26,13 @@
         "id": 1878335471,
         "idstr": "1878335471",
         "screen_name": "新浪综艺",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7152917023,
+        "idstr": "7152917023",
+        "screen_name": "第一时评",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 2286092114,
+        "idstr": "2286092114",
+        "screen_name": "中国蓝新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2045624511,
         "idstr": "2045624511",
         "screen_name": "济南音乐广播Music887",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1959451603,
-        "idstr": "1959451603",
-        "screen_name": "锦观新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1941424392,
-        "idstr": "1941424392",
-        "screen_name": "台州晚报",
         "verified": true,
         "verified_type": 3
       }
