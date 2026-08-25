@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1784473157
   },
-  "last_seen_at": "2026-08-25T22:00:00+08:00",
+  "last_seen_at": "2026-08-25T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E5%87%BA%E6%88%98%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF%23%26t%3D3&title=发布媒体",
-    "show_str": "17家媒体",
+    "show_str": "20家媒体",
     "users": [
       {
         "id": 1784473157,
         "idstr": "1784473157",
         "screen_name": "中国新闻网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7476748260,
+        "idstr": "7476748260",
+        "screen_name": "大公文匯網",
         "verified": true,
         "verified_type": 3
       },
@@ -33,13 +40,6 @@
         "id": 1913382117,
         "idstr": "1913382117",
         "screen_name": "深圳晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7476748260,
-        "idstr": "7476748260",
-        "screen_name": "大公文匯網",
         "verified": true,
         "verified_type": 3
       },

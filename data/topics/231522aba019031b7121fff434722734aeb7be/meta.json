@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 7516679696
   },
-  "last_seen_at": "2026-08-25T22:00:00+08:00",
+  "last_seen_at": "2026-08-25T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9D%AD%E5%B7%9E%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%9C%A8%E7%94%B5%E6%A2%AF%E9%81%AD%E9%AA%9A%E6%89%B0%23%26t%3D3&title=发布媒体",
-    "show_str": "49家媒体",
+    "show_str": "57家媒体",
     "users": [
       {
         "id": 7516679696,
@@ -44,23 +44,23 @@
         "verified_type": 3
       },
       {
+        "id": 1618051664,
+        "idstr": "1618051664",
+        "screen_name": "头条新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7308140398,
+        "idstr": "7308140398",
+        "screen_name": "大象新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6536846182,
         "idstr": "6536846182",
         "screen_name": "现代快报快快看视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3840768703,
-        "idstr": "3840768703",
-        "screen_name": "工人日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2118120483,
-        "idstr": "2118120483",
-        "screen_name": "青岛日报",
         "verified": true,
         "verified_type": 3
       }

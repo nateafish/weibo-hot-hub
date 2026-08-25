@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1314608344
   },
-  "last_seen_at": "2026-08-25T22:00:00+08:00",
+  "last_seen_at": "2026-08-25T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%2313%E5%B2%81%E4%B8%8A%E6%B5%B7%E5%A5%B3%E5%AD%A9%E9%9D%A0AI%E4%B8%89%E5%A4%A9%E8%B5%9A1.8%E4%B8%87%E5%85%83%23%26t%3D3&title=发布媒体",
-    "show_str": "14家媒体",
+    "show_str": "19家媒体",
     "users": [
       {
         "id": 1314608344,
@@ -26,6 +26,13 @@
         "id": 1941424392,
         "idstr": "1941424392",
         "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1651428902,
+        "idstr": "1651428902",
+        "screen_name": "21世纪经济报道",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 2308941133,
+        "idstr": "2308941133",
+        "screen_name": "锦州播报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2252846093,
         "idstr": "2252846093",
         "screen_name": "长春新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2118205862,
-        "idstr": "2118205862",
-        "screen_name": "宁夏新闻网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2118120483,
-        "idstr": "2118120483",
-        "screen_name": "青岛日报",
         "verified": true,
         "verified_type": 3
       }

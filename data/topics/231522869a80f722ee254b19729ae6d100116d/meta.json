@@ -3,10 +3,10 @@
   "created_at": 1787659409,
   "first_seen_at": "2026-08-25T20:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-25T22:00:00+08:00",
+  "last_seen_at": "2026-08-25T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%9F%A9%E5%9B%BD%E6%84%88%E6%BC%94%E6%84%88%E7%83%88%E7%9A%84%E5%A4%B1%E8%B8%AA%E4%BA%8B%E4%BB%B6%23%26t%3D3&title=发布媒体",
-    "show_str": "12家媒体",
+    "show_str": "17家媒体",
     "users": [
       {
         "id": 1497418417,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 2535760180,
+        "idstr": "2535760180",
+        "screen_name": "安徽视讯",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2460937233,
         "idstr": "2460937233",
         "screen_name": "热度新闻",
@@ -47,13 +54,6 @@
         "id": 2318910945,
         "idstr": "2318910945",
         "screen_name": "新浪热点",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2290787940,
-        "idstr": "2290787940",
-        "screen_name": "扬州晚报",
         "verified": true,
         "verified_type": 3
       }
