@@ -10,11 +10,40 @@
     "status": 2,
     "uid": 3485951707
   },
-  "last_seen_at": "2026-08-25T12:00:00+08:00",
+  "last_seen_at": "2026-08-25T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8F%8C%E4%B8%96%E5%AE%A0%E5%A6%83%E7%94%B7%E5%A5%B3%E4%B8%BB%E7%8E%B0%E7%8A%B6%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "4家媒体",
+    "users": [
+      {
+        "id": 7590570074,
+        "idstr": "7590570074",
+        "screen_name": "山海视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2041117703,
+        "idstr": "2041117703",
+        "screen_name": "合肥日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497418417,
+        "idstr": "1497418417",
+        "screen_name": "掌上温岭",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#双世宠妃男女主现状#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E5%8F%8C%E4%B8%96%E5%AE%A0%E5%A6%83%E7%94%B7%E5%A5%B3%E4%B8%BB%E7%8E%B0%E7%8A%B6%23",
