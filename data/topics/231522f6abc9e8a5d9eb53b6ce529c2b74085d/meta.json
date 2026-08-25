@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 6105713761
   },
-  "last_seen_at": "2026-08-25T07:00:00+08:00",
+  "last_seen_at": "2026-08-25T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%83%AD%E4%BA%8C%E5%A8%83%E6%8A%A5%E5%A4%8D%E4%B8%BE%E6%8A%A5%E4%BA%BA%E8%87%B4%E5%85%B6%E6%AD%BB%E4%BA%A1%23%26t%3D3&title=发布媒体",
-    "show_str": "9家媒体",
+    "show_str": "15家媒体",
     "users": [
       {
         "id": 6105713761,
         "idstr": "6105713761",
         "screen_name": "红星新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5145725878,
+        "idstr": "5145725878",
+        "screen_name": "沸点视频",
         "verified": true,
         "verified_type": 3
       },
@@ -37,9 +44,9 @@
         "verified_type": 3
       },
       {
-        "id": 5145725878,
-        "idstr": "5145725878",
-        "screen_name": "沸点视频",
+        "id": 5822206027,
+        "idstr": "5822206027",
+        "screen_name": "北斗融媒",
         "verified": true,
         "verified_type": 3
       },
@@ -51,16 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1974335820,
-        "idstr": "1974335820",
-        "screen_name": "成都商报报料",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1960785875,
-        "idstr": "1960785875",
-        "screen_name": "津云新闻",
+        "id": 2000016880,
+        "idstr": "2000016880",
+        "screen_name": "逐浪新闻",
         "verified": true,
         "verified_type": 3
       }

@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 1796087453
   },
-  "last_seen_at": "2026-08-25T07:00:00+08:00",
+  "last_seen_at": "2026-08-25T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%A1%95%E5%A3%AB%E8%A2%AB%E5%AE%89%E6%8E%92%E6%89%93%E8%9E%BA%E4%B8%9D300%E4%BA%BA%E8%A2%AB%E8%BF%AB%E7%A6%BB%E8%81%8C%23%26t%3D3&title=发布媒体",
-    "show_str": "9家媒体",
+    "show_str": "40家媒体",
     "users": [
       {
         "id": 1796087453,
         "idstr": "1796087453",
         "screen_name": "荔枝新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1727472420,
+        "idstr": "1727472420",
+        "screen_name": "泰山晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1720962692,
+        "idstr": "1720962692",
+        "screen_name": "极目新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -37,30 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 6354989284,
-        "idstr": "6354989284",
-        "screen_name": "荔枝竞技",
+        "id": 6715513747,
+        "idstr": "6715513747",
+        "screen_name": "宁县融媒",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 6344061797,
-        "idstr": "6344061797",
-        "screen_name": "JSTV荔枝视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3901624042,
-        "idstr": "3901624042",
-        "screen_name": "山西日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3562298415,
-        "idstr": "3562298415",
-        "screen_name": "荔枝网",
+        "id": 6369501744,
+        "idstr": "6369501744",
+        "screen_name": "封面新闻视频",
         "verified": true,
         "verified_type": 3
       }

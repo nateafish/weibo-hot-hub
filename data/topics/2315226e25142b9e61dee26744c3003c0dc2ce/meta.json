@@ -10,15 +10,43 @@
     "status": 2,
     "uid": 1649173367
   },
-  "last_seen_at": "2026-08-25T07:00:00+08:00",
+  "last_seen_at": "2026-08-25T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8D%E5%B8%83%E7%BD%AE%E4%B9%A6%E9%9D%A2%E5%AE%B6%E5%BA%AD%E4%BD%9C%E4%B8%9A%23%26t%3D3&title=发布媒体",
-    "show_str": "9家媒体",
+    "show_str": "25家媒体",
     "users": [
       {
         "id": 1649173367,
         "idstr": "1649173367",
         "screen_name": "每日经济新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2409482243,
+        "idstr": "2409482243",
+        "screen_name": "未来网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2035321844,
+        "idstr": "2035321844",
+        "screen_name": "河池融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1684012053,
+        "idstr": "1684012053",
+        "screen_name": "财经杂志",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1280846847,
+        "idstr": "1280846847",
+        "screen_name": "指尖新闻-沈阳晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 5110439722,
-        "idstr": "5110439722",
-        "screen_name": "哈尔滨经济广播电台",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2105365573,
-        "idstr": "2105365573",
-        "screen_name": "威海播报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2056962703,
-        "idstr": "2056962703",
-        "screen_name": "NBD汽车",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1943154142,
-        "idstr": "1943154142",
-        "screen_name": "中安在线",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1915671961,
-        "idstr": "1915671961",
-        "screen_name": "陕西都市快报",
+        "id": 6393904893,
+        "idstr": "6393904893",
+        "screen_name": "燃新闻",
         "verified": true,
         "verified_type": 3
       }
