@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 1642512402
   },
-  "last_seen_at": "2026-08-26T09:00:00+08:00",
+  "last_seen_at": "2026-08-26T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%87%8D%E5%BA%86%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A52%E8%A1%8C%E4%BA%BA%E7%96%91%E8%A7%A6%E7%94%B5%23%26t%3D3&title=发布媒体",
-    "show_str": "61家媒体",
+    "show_str": "102家媒体",
     "users": [
       {
         "id": 1642512402,
         "idstr": "1642512402",
         "screen_name": "中国新闻周刊",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497418417,
+        "idstr": "1497418417",
+        "screen_name": "掌上温岭",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1882632930,
+        "idstr": "1882632930",
+        "screen_name": "新消息报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 1651428902,
+        "idstr": "1651428902",
+        "screen_name": "21世纪经济报道",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1642088277,
         "idstr": "1642088277",
         "screen_name": "财经网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5822206027,
-        "idstr": "5822206027",
-        "screen_name": "北斗融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2014655005,
-        "idstr": "2014655005",
-        "screen_name": "玉林广播电视台",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1991123083,
-        "idstr": "1991123083",
-        "screen_name": "江西日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1749990115,
-        "idstr": "1749990115",
-        "screen_name": "北京青年报",
         "verified": true,
         "verified_type": 3
       }
