@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1656737654
   },
-  "last_seen_at": "2026-08-26T12:00:00+08:00",
+  "last_seen_at": "2026-08-26T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9D%80%E5%AE%B3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E5%AB%8C%E7%8A%AF%E7%94%B7%E6%89%AE%E5%A5%B3%E8%A3%85%E6%B7%B7%E6%B7%86%E8%AD%A6%E6%96%B9%23%26t%3D3&title=发布媒体",
-    "show_str": "49家媒体",
+    "show_str": "85家媒体",
     "users": [
       {
         "id": 1656737654,
         "idstr": "1656737654",
         "screen_name": "现代快报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1744332207,
+        "idstr": "1744332207",
+        "screen_name": "钱江视频",
         "verified": true,
         "verified_type": 3
       },
@@ -37,30 +44,23 @@
         "verified_type": 3
       },
       {
+        "id": 7476748260,
+        "idstr": "7476748260",
+        "screen_name": "大公文匯網",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2632236847,
+        "idstr": "2632236847",
+        "screen_name": "香港文匯網",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7516679696,
         "idstr": "7516679696",
         "screen_name": "九派新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1734530730,
-        "idstr": "1734530730",
-        "screen_name": "大河报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2318910945,
-        "idstr": "2318910945",
-        "screen_name": "新浪热点",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7647806002,
-        "idstr": "7647806002",
-        "screen_name": "后浪视频",
         "verified": true,
         "verified_type": 3
       }

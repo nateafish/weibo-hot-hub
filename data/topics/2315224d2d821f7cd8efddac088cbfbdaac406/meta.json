@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 5611783716
   },
-  "last_seen_at": "2026-08-26T12:00:00+08:00",
+  "last_seen_at": "2026-08-26T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%99%88%E8%B5%AB%E8%A2%AB%E9%97%AE%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E5%9B%9E%E5%BD%92%E5%AD%A3%23%26t%3D3&title=发布媒体",
-    "show_str": "57家媒体",
+    "show_str": "65家媒体",
     "users": [
       {
         "id": 1642591402,
         "idstr": "1642591402",
         "screen_name": "新浪娱乐",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7590570074,
+        "idstr": "7590570074",
+        "screen_name": "山海视频",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 7590570074,
-        "idstr": "7590570074",
-        "screen_name": "山海视频",
+        "id": 6900707866,
+        "idstr": "6900707866",
+        "screen_name": "宜黄之窗",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2337985010,
-        "idstr": "2337985010",
-        "screen_name": "瑞安融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2054900587,
-        "idstr": "2054900587",
-        "screen_name": "三农频道",
+        "id": 2188202475,
+        "idstr": "2188202475",
+        "screen_name": "南京晨报",
         "verified": true,
         "verified_type": 3
       }
