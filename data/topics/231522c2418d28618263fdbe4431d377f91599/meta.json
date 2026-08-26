@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 1642634100
   },
-  "last_seen_at": "2026-08-26T07:00:00+08:00",
+  "last_seen_at": "2026-08-26T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E9%87%8F%E4%BA%A72nm%E8%8A%AF%E7%89%87%23%26t%3D3&title=发布媒体",
-    "show_str": "8家媒体",
+    "show_str": "35家媒体",
     "users": [
       {
         "id": 1642634100,
         "idstr": "1642634100",
         "screen_name": "新浪科技",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1638782947,
+        "idstr": "1638782947",
+        "screen_name": "新浪财经",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6982382342,
+        "idstr": "6982382342",
+        "screen_name": "搜狐科技",
         "verified": true,
         "verified_type": 3
       },
@@ -37,30 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1638782947,
-        "idstr": "1638782947",
-        "screen_name": "新浪财经",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6982382342,
-        "idstr": "6982382342",
-        "screen_name": "搜狐科技",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5821241824,
-        "idstr": "5821241824",
-        "screen_name": "奇点财经",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1885454921,
-        "idstr": "1885454921",
-        "screen_name": "蓝鲸新闻",
+        "id": 7811817491,
+        "idstr": "7811817491",
+        "screen_name": "星系生活",
         "verified": true,
         "verified_type": 3
       }
