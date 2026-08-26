@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1749990115
   },
-  "last_seen_at": "2026-08-26T19:00:00+08:00",
+  "last_seen_at": "2026-08-26T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BF%84%E7%BD%97%E6%96%AF%E7%81%AB%E7%81%BE%E8%87%B4%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%916%E6%AD%BB9%E5%A4%B1%E8%81%94%23%26t%3D3&title=发布媒体",
-    "show_str": "15家媒体",
+    "show_str": "23家媒体",
     "users": [
       {
         "id": 1749990115,
         "idstr": "1749990115",
         "screen_name": "北京青年报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5820973786,
+        "idstr": "5820973786",
+        "screen_name": "互因科技",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 3901624042,
+        "idstr": "3901624042",
+        "screen_name": "山西日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 3502957945,
         "idstr": "3502957945",
         "screen_name": "青流视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2747175561,
-        "idstr": "2747175561",
-        "screen_name": "北青深一度",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2118205862,
-        "idstr": "2118205862",
-        "screen_name": "宁夏新闻网",
         "verified": true,
         "verified_type": 3
       }
