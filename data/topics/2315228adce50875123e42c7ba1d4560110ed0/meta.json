@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1699432410
   },
-  "last_seen_at": "2026-08-26T22:00:00+08:00",
+  "last_seen_at": "2026-08-26T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%8C%97%E9%83%A8%E5%B1%B1%E6%B4%AA%E8%87%B4%E8%BF%91400%E4%BA%BA%E5%A4%B1%E8%81%94%23%26t%3D3&title=发布媒体",
-    "show_str": "110家媒体",
+    "show_str": "119家媒体",
     "users": [
       {
         "id": 1699432410,
         "idstr": "1699432410",
         "screen_name": "新华社",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7476748260,
+        "idstr": "7476748260",
+        "screen_name": "大公文匯網",
         "verified": true,
         "verified_type": 3
       },
@@ -44,9 +51,9 @@
         "verified_type": 3
       },
       {
-        "id": 7476748260,
-        "idstr": "7476748260",
-        "screen_name": "大公文匯網",
+        "id": 1991123083,
+        "idstr": "1991123083",
+        "screen_name": "江西日报",
         "verified": true,
         "verified_type": 3
       },
@@ -54,13 +61,6 @@
         "id": 1644948230,
         "idstr": "1644948230",
         "screen_name": "北京头条",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1497418417,
-        "idstr": "1497418417",
-        "screen_name": "掌上温岭",
         "verified": true,
         "verified_type": 3
       }
