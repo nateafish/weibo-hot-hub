@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-08-27T00:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 1,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#习近平出席2026上合峰会#",
+      "rank": 1,
+      "title": "习近平出席2026上合峰会",
+      "topic_id": "231522170ed4aea13da8d8e3df7f36b6ac92f9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#西藏泥石流265人失联3人遇难#",
+      "rank": 1,
+      "title": "西藏泥石流265人失联3人遇难",
+      "topic_id": "2315220b3bdaa46e72beef2c23ea76ad3159cb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "早春晴朗口碑",
+      "rank": 2,
+      "title": "早春晴朗口碑",
+      "topic_id": "231522ebca880f33de3c08dbdd437139fdea94"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#未来五年加快打造新兴支柱产业#",
+      "rank": 3,
+      "title": "未来五年加快打造新兴支柱产业",
+      "topic_id": "231522ed98bcf9063e708ac255a1934a12e809"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#台湾童星徐杰去世#",
+      "rank": 4,
+      "title": "台湾童星徐杰去世",
+      "topic_id": "231522b920d9c031d985b928560b959a4939d5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "男频和女频的区别",
+      "rank": 5,
+      "title": "男频和女频的区别",
+      "topic_id": "23152235021afadb11d86864f44c635f7062b0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "学费被家长充错成话费了",
+      "rank": 6,
+      "title": "学费被家长充错成话费了",
+      "topic_id": "231522b7f6b7dc1da1a6a48b1681e802e6a1fa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#中国游客泥石流逃生朋友失联#",
+      "rank": 7,
+      "title": "中国游客泥石流逃生朋友失联",
+      "topic_id": "231522fbf474616c70d89aa2e69f36b04d3056"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "年轻人不会被电诈的原因",
+      "rank": 8,
+      "title": "年轻人不会被电诈的原因",
+      "topic_id": "2315220d0025a6e4805af7c408a786ff1bf927"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#惠英红回应郭晓婷长得像#",
+      "rank": 9,
+      "title": "惠英红回应郭晓婷长得像",
+      "topic_id": "231522e14dc03340e95ca75111d3552070510b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#尼泊尔山洪遇难人数升至72人#",
+      "rank": 10,
+      "title": "尼泊尔山洪遇难人数升至72人",
+      "topic_id": "23152284c2f40ea16343bb03ba1d238c9f0fa2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "吉隆口岸",
+      "rank": 11,
+      "title": "吉隆口岸",
+      "topic_id": "231522b5d020d339044bfa2b031cb02fb1c554"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#西藏泥石流救援现场#",
+      "rank": 12,
+      "title": "西藏泥石流救援现场",
+      "topic_id": "231522c4db36ec3ed27a140c8608a9701be933"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#尼泊尔北部山洪致近400人失联#",
+      "rank": 13,
+      "title": "尼泊尔北部山洪致近400人失联",
+      "topic_id": "2315228adce50875123e42c7ba1d4560110ed0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#侯卓成起诉王垲智#",
+      "rank": 14,
+      "title": "侯卓成起诉王垲智",
+      "topic_id": "231522ba05abee225d5798aa8bb217487bda53"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#西部战区空军派无人机赴吉隆勘察#",
+      "rank": 15,
+      "title": "西部战区空军派无人机赴吉隆勘察",
+      "topic_id": "231522a0cdb814d50fc42a0a14859123cc5638"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#安踏前CEO前脚说爱国扭头搬家美国#",
+      "rank": 16,
+      "title": "安踏前CEO前脚说爱国扭头搬家美国",
+      "topic_id": "2315229abe31f5703f2a8876882b3948753f76"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "张桂源什么时候营业",
+      "rank": 17,
+      "title": "张桂源什么时候营业",
+      "topic_id": "231522a9b68b60982069553401ff7a4750ed72"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#海南大学失联女研究生最后现身桥下#",
+      "rank": 18,
+      "title": "海南大学失联女研究生最后现身桥下",
+      "topic_id": "231522d5c8e0753ceb008ee0e3b533f2280a96"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#特斯拉中国报警#",
+      "rank": 19,
+      "title": "特斯拉中国报警",
+      "topic_id": "23152288d745fbd1199153c67b841a4e6767b0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#俄罗斯火灾致中国公民6死9失联#",
+      "rank": 20,
+      "title": "俄罗斯火灾致中国公民6死9失联",
+      "topic_id": "231522d46306504f502b3380a15a2a2b839df5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#500万人口政务App每天仅60人用#",
+      "rank": 21,
+      "title": "500万人口政务App每天仅60人用",
+      "topic_id": "2315223228dcbf74e7594bf6f8394e1271f3fa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#包文婧曾说再信包贝尔一次#",
+      "rank": 22,
+      "title": "包文婧曾说再信包贝尔一次",
+      "topic_id": "231522841675af8cfd7cbd487963181c51f8a4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#成毅用工作人员肩膀压腿#",
+      "rank": 23,
+      "title": "成毅用工作人员肩膀压腿",
+      "topic_id": "231522d2aa6dccd040ad1033a9797696918bde"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "磁场干净的人有奶香味",
+      "rank": 24,
+      "title": "磁场干净的人有奶香味",
+      "topic_id": "231522ff7a7a93a24e0ddcf546a3735f775bb9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#侯卓成说亏欠杨汝晴#",
+      "rank": 25,
+      "title": "侯卓成说亏欠杨汝晴",
+      "topic_id": "231522ed03e35c04f615484e35c1e29756b403"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#吉隆口岸仍处于失联状态#",
+      "rank": 26,
+      "title": "吉隆口岸仍处于失联状态",
+      "topic_id": "231522dde583dcd3bef48e13c18da9767e5601"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#包贝尔内娱第一位许愿柳使用者#",
+      "rank": 27,
+      "title": "包贝尔内娱第一位许愿柳使用者",
+      "topic_id": "2315222d3b4cd3658495c8ecac8b080a32bcb5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#章子怡短发狼尾#",
+      "rank": 28,
+      "title": "章子怡短发狼尾",
+      "topic_id": "2315226996e59ee545e9e1f394df57e807ebfb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "黄金价格持续上涨",
+      "rank": 29,
+      "title": "黄金价格持续上涨",
+      "topic_id": "23152239ae61a8dced3c0cd81fa61cbf27d87f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#爱情公寓官方换头像#",
+      "rank": 30,
+      "title": "爱情公寓官方换头像",
+      "topic_id": "231522e03ac990a69d13983cc67d8b68ade715"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#麦迪娜减肥的方法太狠了#",
+      "rank": 31,
+      "title": "麦迪娜减肥的方法太狠了",
+      "topic_id": "231522758cdda887914af9d9843a51da12001f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#尼泊尔方面找到97具山洪遇难者遗体#",
+      "rank": 32,
+      "title": "尼泊尔方面找到97具山洪遇难者遗体",
+      "topic_id": "231522b0f1a4737b932db903cdc976a7c1600d"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "千万不要把秘密留在行李箱",
+      "rank": 33,
+      "title": "千万不要把秘密留在行李箱",
+      "topic_id": "231522e51a8ea0c133224b770feeefddd8158b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#包文婧曾找赵奕欢当面对峙#",
+      "rank": 34,
+      "title": "包文婧曾找赵奕欢当面对峙",
+      "topic_id": "231522840296c61dd25fe8bdb7ecdab2ce032e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#欢子搞错被告了#",
+      "rank": 35,
+      "title": "欢子搞错被告了",
+      "topic_id": "231522d9c9538d69aac5b74b79ce05d82f7602"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#原配称想不通第三者比自己大10岁#",
+      "rank": 36,
+      "title": "原配称想不通第三者比自己大10岁",
+      "topic_id": "23152259797fbe0d52180a17b17113c91c76b1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "娜扎演技 进步",
+      "rank": 37,
+      "title": "娜扎演技 进步",
+      "topic_id": "2315222b942fdcd116958fc246d8858ea0da78"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#警方通报女骑手高速狂飙时速超200公里#",
+      "rank": 38,
+      "title": "警方通报女骑手高速狂飙时速超200公里",
+      "topic_id": "231522996cf46dfffad7e663f770d05fee4d0b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#宋雨琦肿成蜜蜂小狗#",
+      "rank": 39,
+      "title": "宋雨琦肿成蜜蜂小狗",
+      "topic_id": "231522dad090c197b71b952ce35553cd1f27ac"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "欢子起诉湖南卫视",
+      "rank": 40,
+      "title": "欢子起诉湖南卫视",
+      "topic_id": "23152214e12a7b25d125948d1a9cb1bdbf3c49"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#小天才还要逼疯多少家长#",
+      "rank": 41,
+      "title": "小天才还要逼疯多少家长",
+      "topic_id": "231522d380ba24abfe30ec6155db8d186d9abf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "现在就出发",
+      "rank": 42,
+      "title": "现在就出发",
+      "topic_id": "231522ebc4a6bc810b42c0d6b455c3cf10a2a5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#婚礼41天丧夫女子被赶出婆家#",
+      "rank": 43,
+      "title": "婚礼41天丧夫女子被赶出婆家",
+      "topic_id": "231522c9406b4ff367401dbcf2f286f0479113"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "社保有多厉害可能超乎你的想象",
+      "rank": 44,
+      "title": "社保有多厉害可能超乎你的想象",
+      "topic_id": "231522ffa0bc77263a938c0c780f4d1a967c0f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "肖战一次的勇敢换来一生的内向",
+      "rank": 45,
+      "title": "肖战一次的勇敢换来一生的内向",
+      "topic_id": "231522ac7bd55eb8b3ae5fc3722678b159acb1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "Gucci官旗给宁艺卓P了裤子",
+      "rank": 46,
+      "title": "Gucci官旗给宁艺卓P了裤子",
+      "topic_id": "23152232a82f7432e1bb0df20d754a95683f20"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "DYG周边 贵",
+      "rank": 47,
+      "title": "DYG周边 贵",
+      "topic_id": "231522c4e3ea63e86de06f05e404d90d90c1a4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#老凤祥业绩#",
+      "rank": 48,
+      "title": "老凤祥业绩",
+      "topic_id": "231522d85196f222e9d13b6d1e6eb21c7d6ef8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#宁静力挺湖南卫视#",
+      "rank": 49,
+      "title": "宁静力挺湖南卫视",
+      "topic_id": "231522eb1944cb1fe1703b376db9cf6af062aa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王安宇晒与贾冰白敬亭合照放C位#",
+      "rank": 50,
+      "title": "王安宇晒与贾冰白敬亭合照放C位",
+      "topic_id": "231522abdfb2a6e7434932c7e6dc24c7893259"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
