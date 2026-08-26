@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 2992050891
   },
-  "last_seen_at": "2026-08-26T15:00:00+08:00",
+  "last_seen_at": "2026-08-26T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%88%E5%A4%AB%E5%B8%A6%E5%A9%9A%E5%86%85%E5%AD%A9%E5%AD%90%E5%8E%BB%E7%9C%8B%E5%87%BA%E8%BD%A8%E7%94%9F%E7%9A%84%E5%AD%A9%E5%AD%90%23%26t%3D3&title=发布媒体",
-    "show_str": "10家媒体",
+    "show_str": "25家媒体",
     "users": [
       {
         "id": 2992050891,
         "idstr": "2992050891",
         "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7472856103,
+        "idstr": "7472856103",
+        "screen_name": "点时新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1789681642,
+        "idstr": "1789681642",
+        "screen_name": "第一现场",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7030322196,
+        "idstr": "7030322196",
+        "screen_name": "天眼新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -40,27 +61,6 @@
         "id": 6275620464,
         "idstr": "6275620464",
         "screen_name": "BRTV-we-young",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6275620459,
-        "idstr": "6275620459",
-        "screen_name": "北京时间拍客",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6250824982,
-        "idstr": "6250824982",
-        "screen_name": "时间视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6219631602,
-        "idstr": "6219631602",
-        "screen_name": "北京Video",
         "verified": true,
         "verified_type": 3
       }

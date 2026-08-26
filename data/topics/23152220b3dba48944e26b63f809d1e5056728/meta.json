@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 1618051664
   },
-  "last_seen_at": "2026-08-26T15:00:00+08:00",
+  "last_seen_at": "2026-08-26T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9B%9D%E6%9D%80%E5%AE%B3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E5%AB%8C%E7%8A%AF%E6%9B%BE%E5%A8%81%E8%83%81%E5%AD%A6%E7%94%9F%E5%BB%B6%E6%AF%95%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "14家媒体",
     "users": [
       {
         "id": 1618051664,
         "idstr": "1618051664",
         "screen_name": "头条新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1887344341,
+        "idstr": "1887344341",
+        "screen_name": "观察者网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7516679696,
+        "idstr": "7516679696",
+        "screen_name": "九派新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -37,9 +51,16 @@
         "verified_type": 7
       },
       {
-        "id": 1280846847,
-        "idstr": "1280846847",
-        "screen_name": "指尖新闻-沈阳晚报",
+        "id": 1789681642,
+        "idstr": "1789681642",
+        "screen_name": "第一现场",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1667942985,
+        "idstr": "1667942985",
+        "screen_name": "长三角之声",
         "verified": true,
         "verified_type": 3
       }

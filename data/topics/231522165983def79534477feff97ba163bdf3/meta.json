@@ -10,11 +10,61 @@
     "status": 2,
     "uid": 1752854062
   },
-  "last_seen_at": "2026-08-26T15:00:00+08:00",
+  "last_seen_at": "2026-08-26T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BA%95%E6%9F%8F%E7%84%B6%E5%AD%97%E4%BD%93%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "9家媒体",
+    "users": [
+      {
+        "id": 1280846847,
+        "idstr": "1280846847",
+        "screen_name": "指尖新闻-沈阳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7750531853,
+        "idstr": "7750531853",
+        "screen_name": "朱雀财经",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7575030448,
+        "idstr": "7575030448",
+        "screen_name": "白鹿视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2115259662,
+        "idstr": "2115259662",
+        "screen_name": "洪观新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1744332207,
+        "idstr": "1744332207",
+        "screen_name": "钱江视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1681831471,
+        "idstr": "1681831471",
+        "screen_name": "引力科普",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "井柏然字体",
   "search_url": "https://s.weibo.com/weibo/%23%E4%BA%95%E6%9F%8F%E7%84%B6%E5%AD%97%E4%BD%93%23",
