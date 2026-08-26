@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 2284130703
   },
-  "last_seen_at": "2026-08-26T21:00:00+08:00",
+  "last_seen_at": "2026-08-26T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8C%85%E6%96%87%E5%A9%A7%E8%BD%AC%E5%8F%91%E5%8C%BA%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "7家媒体",
     "users": [
+      {
+        "id": 1735937570,
+        "idstr": "1735937570",
+        "screen_name": "江南都市报",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2027480085,
         "idstr": "2027480085",
@@ -37,9 +44,23 @@
         "verified_type": 3
       },
       {
+        "id": 1796996883,
+        "idstr": "1796996883",
+        "screen_name": "988陕西音乐广播",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1751714412,
         "idstr": "1751714412",
         "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1657914910,
+        "idstr": "1657914910",
+        "screen_name": "烟台日报社大小新闻",
         "verified": true,
         "verified_type": 3
       }

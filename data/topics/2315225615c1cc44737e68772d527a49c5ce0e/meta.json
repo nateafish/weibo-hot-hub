@@ -3,11 +3,26 @@
   "created_at": 1787739779,
   "first_seen_at": "2026-08-26T19:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-26T19:00:00+08:00",
+  "last_seen_at": "2026-08-26T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97+%E9%80%89%E8%A7%92%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "2家媒体",
+    "users": [
+      {
+        "id": 1657914910,
+        "idstr": "1657914910",
+        "screen_name": "烟台日报社大小新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1655444627,
+        "idstr": "1655444627",
+        "screen_name": "潇湘晨报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "早春晴朗 选角",
   "search_url": "https://s.weibo.com/weibo?q=%23%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%20%E9%80%89%E8%A7%92%23",
