@@ -10,7 +10,7 @@
     "status": 2,
     "uid": 2656274875
   },
-  "last_seen_at": "2026-08-27T00:00:00+08:00",
+  "last_seen_at": "2026-08-27T03:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD2026%E4%B8%8A%E5%90%88%E5%B3%B0%E4%BC%9A%23%26t%3D3&title=发布媒体",
     "show_str": "12家媒体",
@@ -26,6 +26,13 @@
         "id": 2039753857,
         "idstr": "2039753857",
         "screen_name": "CCTV4",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5539777260,
+        "idstr": "5539777260",
+        "screen_name": "菏泽日报",
         "verified": true,
         "verified_type": 3
       },
@@ -47,13 +54,6 @@
         "id": 6587633798,
         "idstr": "6587633798",
         "screen_name": "崇义发布",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5539777260,
-        "idstr": "5539777260",
-        "screen_name": "菏泽日报",
         "verified": true,
         "verified_type": 3
       },
