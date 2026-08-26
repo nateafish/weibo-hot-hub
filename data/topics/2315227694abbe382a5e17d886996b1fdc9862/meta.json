@@ -3,11 +3,33 @@
   "created_at": 1787718453,
   "first_seen_at": "2026-08-26T13:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-26T13:00:00+08:00",
+  "last_seen_at": "2026-08-26T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8E%9F%E6%9D%A5%E7%9C%9F%E7%9A%84%E6%9C%89%E4%BA%BA%E5%8F%AF%E4%BB%A5%E5%AE%A1%E7%BE%8E%E8%BF%99%E4%B9%88%E5%A5%BD%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "3家媒体",
+    "users": [
+      {
+        "id": 1768470921,
+        "idstr": "1768470921",
+        "screen_name": "青岛新闻网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2115259662,
+        "idstr": "2115259662",
+        "screen_name": "洪观新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1880087643,
+        "idstr": "1880087643",
+        "screen_name": "北京新闻广播",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "原来真的有人可以审美这么好",
   "search_url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%9C%9F%E7%9A%84%E6%9C%89%E4%BA%BA%E5%8F%AF%E4%BB%A5%E5%AE%A1%E7%BE%8E%E8%BF%99%E4%B9%88%E5%A5%BD%23",

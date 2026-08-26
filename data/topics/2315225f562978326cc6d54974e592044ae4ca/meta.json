@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2656274875
   },
-  "last_seen_at": "2026-08-26T13:00:00+08:00",
+  "last_seen_at": "2026-08-26T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%8A%8A%E6%AD%A3%E7%A1%AE%E6%94%BF%E7%BB%A9%E8%A7%82%E6%A0%91%E8%B5%B7%E6%9D%A5%E8%B7%B5%E8%A1%8C%E5%A5%BD%23%26t%3D3&title=发布媒体",
-    "show_str": "19家媒体",
+    "show_str": "21家媒体",
     "users": [
       {
         "id": 2656274875,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 1863222751,
+        "idstr": "1863222751",
+        "screen_name": "当代广西杂志",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7578981475,
         "idstr": "7578981475",
         "screen_name": "我爱五指山官方",
@@ -54,13 +61,6 @@
         "id": 7493290650,
         "idstr": "7493290650",
         "screen_name": "三师融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7460070880,
-        "idstr": "7460070880",
-        "screen_name": "昌江融媒体中心",
         "verified": true,
         "verified_type": 3
       }
