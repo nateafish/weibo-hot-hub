@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2656274875
   },
-  "last_seen_at": "2026-08-26T16:00:00+08:00",
+  "last_seen_at": "2026-08-26T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%93%A6%E8%BE%B9%E6%89%8B%E5%8A%9E%E4%B9%B1%E8%B1%A1%23%26t%3D3&title=发布媒体",
-    "show_str": "76家媒体",
+    "show_str": "125家媒体",
     "users": [
       {
         "id": 2656274875,
         "idstr": "2656274875",
         "screen_name": "央视新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1642088277,
+        "idstr": "1642088277",
+        "screen_name": "财经网",
         "verified": true,
         "verified_type": 3
       },
@@ -30,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 5476386628,
+        "idstr": "5476386628",
+        "screen_name": "侠客岛",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2360016402,
         "idstr": "2360016402",
         "screen_name": "宁波日报",
@@ -37,30 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 2252846093,
-        "idstr": "2252846093",
-        "screen_name": "长春新闻",
+        "id": 2001789077,
+        "idstr": "2001789077",
+        "screen_name": "兵团日报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2035321844,
-        "idstr": "2035321844",
-        "screen_name": "河池融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1727472420,
-        "idstr": "1727472420",
-        "screen_name": "泰山晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1699540307,
-        "idstr": "1699540307",
-        "screen_name": "中国之声",
+        "id": 1562479250,
+        "idstr": "1562479250",
+        "screen_name": "包头新闻网",
         "verified": true,
         "verified_type": 3
       }

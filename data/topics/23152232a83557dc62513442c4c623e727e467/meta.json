@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 8019620761
   },
-  "last_seen_at": "2026-08-26T15:00:00+08:00",
+  "last_seen_at": "2026-08-26T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%23%26t%3D3&title=发布媒体",
-    "show_str": "65家媒体",
+    "show_str": "66家媒体",
     "users": [
       {
         "id": 1763415704,
@@ -44,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 1843633441,
+        "idstr": "1843633441",
+        "screen_name": "搜狐娱乐",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1283367840,
         "idstr": "1283367840",
         "screen_name": "每日文艺播报",
@@ -54,13 +61,6 @@
         "id": 2534059880,
         "idstr": "2534059880",
         "screen_name": "中青网文娱",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1703762423,
-        "idstr": "1703762423",
-        "screen_name": "广东文体广播",
         "verified": true,
         "verified_type": 3
       }

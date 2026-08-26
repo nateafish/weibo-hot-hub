@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2022990945
   },
-  "last_seen_at": "2026-08-26T16:00:00+08:00",
+  "last_seen_at": "2026-08-26T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%B0%8F%E9%85%92%E7%AA%9D%E7%BB%99%E6%9D%9C%E5%8D%8E%E5%A5%B3%E5%84%BF%E8%AE%A9C%E4%BD%8D%23%26t%3D3&title=发布媒体",
-    "show_str": "10家媒体",
+    "show_str": "9家媒体",
     "users": [
       {
         "id": 1288429914,
@@ -26,6 +26,13 @@
         "id": 2337985010,
         "idstr": "2337985010",
         "screen_name": "瑞安融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1636678683,
+        "idstr": "1636678683",
+        "screen_name": "长天新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -54,13 +61,6 @@
         "id": 1960785875,
         "idstr": "1960785875",
         "screen_name": "津云新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1941424392,
-        "idstr": "1941424392",
-        "screen_name": "台州晚报",
         "verified": true,
         "verified_type": 3
       }
