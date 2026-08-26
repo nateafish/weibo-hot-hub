@@ -3,18 +3,11 @@
   "created_at": 1787729154,
   "first_seen_at": "2026-08-26T16:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-26T17:00:00+08:00",
+  "last_seen_at": "2026-08-26T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%99%9E%E4%B9%A6%E6%AC%A3+%E4%B8%9D%E5%B7%BE%E5%BD%93%E6%8A%B9%E8%83%B8%E7%A9%BF%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "6家媒体",
     "users": [
-      {
-        "id": 2337985010,
-        "idstr": "2337985010",
-        "screen_name": "瑞安融媒",
-        "verified": true,
-        "verified_type": 3
-      },
       {
         "id": 7708039348,
         "idstr": "7708039348",
@@ -30,6 +23,13 @@
         "verified_type": 3
       },
       {
+        "id": 2000016880,
+        "idstr": "2000016880",
+        "screen_name": "逐浪新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1913382117,
         "idstr": "1913382117",
         "screen_name": "深圳晚报",
@@ -40,6 +40,13 @@
         "id": 1723216063,
         "idstr": "1723216063",
         "screen_name": "佛山新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1043320390,
+        "idstr": "1043320390",
+        "screen_name": "半岛晨报",
         "verified": true,
         "verified_type": 3
       }

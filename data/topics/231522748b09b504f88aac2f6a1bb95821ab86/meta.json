@@ -1,5 +1,5 @@
 {
-  "category": "时事",
+  "category": "社会",
   "created_at": null,
   "first_seen_at": "2026-08-26T16:00:00+08:00",
   "host": {
@@ -10,18 +10,11 @@
     "status": 2,
     "uid": 2656274875
   },
-  "last_seen_at": "2026-08-26T17:00:00+08:00",
+  "last_seen_at": "2026-08-26T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81%23%26t%3D3&title=发布媒体",
-    "show_str": "107家媒体",
+    "show_str": "219家媒体",
     "users": [
-      {
-        "id": 1744332207,
-        "idstr": "1744332207",
-        "screen_name": "钱江视频",
-        "verified": true,
-        "verified_type": 3
-      },
       {
         "id": 2656274875,
         "idstr": "2656274875",
@@ -30,16 +23,23 @@
         "verified_type": 3
       },
       {
-        "id": 1727472420,
-        "idstr": "1727472420",
-        "screen_name": "泰山晚报",
+        "id": 1744332207,
+        "idstr": "1744332207",
+        "screen_name": "钱江视频",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1497418417,
-        "idstr": "1497418417",
-        "screen_name": "掌上温岭",
+        "id": 2028810631,
+        "idstr": "2028810631",
+        "screen_name": "新浪新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2286908003,
+        "idstr": "2286908003",
+        "screen_name": "人民网",
         "verified": true,
         "verified_type": 3
       },
@@ -51,22 +51,22 @@
         "verified_type": 3
       },
       {
-        "id": 1644948230,
-        "idstr": "1644948230",
-        "screen_name": "北京头条",
+        "id": 1847123567,
+        "idstr": "1847123567",
+        "screen_name": "香港商報",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1403611582,
-        "idstr": "1403611582",
-        "screen_name": "市场星报",
+        "id": 1497087080,
+        "idstr": "1497087080",
+        "screen_name": "羊城晚报",
         "verified": true,
         "verified_type": 3
       }
     ]
   },
-  "query": "西藏泥石流",
+  "query": "#西藏泥石流#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81%23",
   "sub_category": null,
   "summary": "8月26日10时30分许，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。",
