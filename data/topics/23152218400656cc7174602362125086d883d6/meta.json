@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 5762891674
   },
-  "last_seen_at": "2026-08-26T14:00:00+08:00",
+  "last_seen_at": "2026-08-26T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%9B%BD%E5%AE%B6%E5%8F%8D%E8%AF%88%E4%B8%AD%E5%BF%83%E6%B5%8B%E5%87%BA%E5%BE%B7%E8%8A%99%E5%A3%B0%E6%98%8E%E6%98%AFAI%23%26t%3D3&title=发布媒体",
-    "show_str": "27家媒体",
+    "show_str": "61家媒体",
     "users": [
       {
         "id": 5762891674,
@@ -37,6 +37,20 @@
         "verified_type": 3
       },
       {
+        "id": 5608027665,
+        "idstr": "5608027665",
+        "screen_name": "中国环境",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1647210043,
         "idstr": "1647210043",
         "screen_name": "百姓关注",
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 7216381483,
-        "idstr": "7216381483",
-        "screen_name": "看成都",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6207911580,
-        "idstr": "6207911580",
-        "screen_name": "大河报豫视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6168007956,
-        "idstr": "6168007956",
-        "screen_name": "搜狐千里眼",
+        "id": 7750531853,
+        "idstr": "7750531853",
+        "screen_name": "朱雀财经",
         "verified": true,
         "verified_type": 3
       }
@@ -69,7 +69,7 @@
   "query": "#国家反诈中心测出德芙声明是AI#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8F%8D%E8%AF%88%E4%B8%AD%E5%BF%83%E6%B5%8B%E5%87%BA%E5%BE%B7%E8%8A%99%E5%A3%B0%E6%98%8E%E6%98%AFai%23",
   "sub_category": null,
-  "summary": "",
+  "summary": "8月25日晚，@德芙悦时刻 发致歉声明，在国家反诈中心APP文本AI检测报告显示该声明为AI生成。",
   "title": "国家反诈中心测出德芙声明是ai",
   "topic_id": "23152218400656cc7174602362125086d883d6"
 }
