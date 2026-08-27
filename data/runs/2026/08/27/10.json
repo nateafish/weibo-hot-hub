@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-08-27T10:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#千方百计搜救西藏泥石流失联人员#",
+      "rank": 1,
+      "title": "千方百计搜救西藏泥石流失联人员",
+      "topic_id": "2315229c29a747a5ed004fb43dc68e5ee2b602"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#西藏泥石流遇难3人失联558人#",
+      "rank": 1,
+      "title": "西藏泥石流遇难3人失联558人",
+      "topic_id": "2315220e67723387f18b82c487137d5078909e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#草间弥生去世#",
+      "rank": 2,
+      "title": "草间弥生去世",
+      "topic_id": "2315221d3a43f6c217ac98e1715ac1bda2194a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#西部战区空军投入西藏吉隆泥石流救援#",
+      "rank": 3,
+      "title": "西部战区空军投入西藏吉隆泥石流救援",
+      "topic_id": "2315228ce8aac6cb89a8b15f3c413b98f57523"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#去世老人几乎每天都来涉事牌馆#",
+      "rank": 4,
+      "title": "去世老人几乎每天都来涉事牌馆",
+      "topic_id": "231522c84cf28da403cf5b88da00f634442269"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#刘翔说没有第三条路给我选#",
+      "rank": 5,
+      "title": "刘翔说没有第三条路给我选",
+      "topic_id": "23152273e47f023466b5a77023016cf7a745c5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#西藏吉隆口岸方向发现堰塞湖#",
+      "rank": 6,
+      "title": "西藏吉隆口岸方向发现堰塞湖",
+      "topic_id": "231522b371643ad0cf8b3a4c04f6e1eb611511"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#苹果首款折叠屏手机将亮相#",
+      "rank": 7,
+      "title": "苹果首款折叠屏手机将亮相",
+      "topic_id": "231522533d1ee623851518c15e17f216a1cf12"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#办事大厅被拍空岗后禁群众带手机进入#",
+      "rank": 8,
+      "title": "办事大厅被拍空岗后禁群众带手机进入",
+      "topic_id": "2315225edfbe431e2fbdc3c08d66448d03f014"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#沈腾范丞丞合照帅成AI了#",
+      "rank": 9,
+      "title": "沈腾范丞丞合照帅成AI了",
+      "topic_id": "2315229d52c29f8fd9c5b179420bb0034871a6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#惠英红回应郭晓婷长得像#",
+      "rank": 10,
+      "title": "惠英红回应郭晓婷长得像",
+      "topic_id": "231522e14dc03340e95ca75111d3552070510b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#尼泊尔山洪已致157死#",
+      "rank": 11,
+      "title": "尼泊尔山洪已致157死",
+      "topic_id": "231522356783d9fe1d0278294231a28e050674"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#何炅自曝断交的人不超过4个#",
+      "rank": 12,
+      "title": "何炅自曝断交的人不超过4个",
+      "topic_id": "231522483a18d051891601499cea8d53d3432c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#周杰伦拒绝打球签名拍照#",
+      "rank": 13,
+      "title": "周杰伦拒绝打球签名拍照",
+      "topic_id": "23152211b432dd208c3fcf831e0c22d7a90a38"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#西藏吉隆泥石流成功救出2人#",
+      "rank": 14,
+      "title": "西藏吉隆泥石流成功救出2人",
+      "topic_id": "23152225325f734c2d20402033b8fa5edb119d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#吴青峰长文#",
+      "rank": 15,
+      "title": "吴青峰长文",
+      "topic_id": "23152217114cbd4aacce1ff2ae458527f8c3bb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "济州岛",
+      "rank": 16,
+      "title": "济州岛",
+      "topic_id": "2315226b066fc3238855fc4514ac9112fd97d4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#星宇股份给被劝退同学发3个月补贴#",
+      "rank": 17,
+      "title": "星宇股份给被劝退同学发3个月补贴",
+      "topic_id": "2315226a99de2e8406918c21cb91143fee20b8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#西藏泥石流救援现场#",
+      "rank": 18,
+      "title": "西藏泥石流救援现场",
+      "topic_id": "231522c4db36ec3ed27a140c8608a9701be933"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#比尔盖茨发12页长文警告AI风险#",
+      "rank": 19,
+      "title": "比尔盖茨发12页长文警告AI风险",
+      "topic_id": "231522c97eaa4c8bc8e0bbff36db2ceaa7d97a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#九寨沟否认为录制现在就出发4清场#",
+      "rank": 20,
+      "title": "九寨沟否认为录制现在就出发4清场",
+      "topic_id": "2315227e788098295d23a2665f320cb3ca5b34"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "包贝尔 包文婧",
+      "rank": 21,
+      "title": "包贝尔 包文婧",
+      "topic_id": "231522a447d695b67f3bef3b481d452ce9d6a5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "苹果发布会定档",
+      "rank": 22,
+      "title": "苹果发布会定档",
+      "topic_id": "23152291c5920199d48eee27b908cf950c6254"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "尼泊尔泥石流",
+      "rank": 23,
+      "title": "尼泊尔泥石流",
+      "topic_id": "231522c2b22d2a9adf85f481803fac241e8d50"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#侯卓成杨汝晴推迟订婚了#",
+      "rank": 24,
+      "title": "侯卓成杨汝晴推迟订婚了",
+      "topic_id": "23152295e1b1d612204f19d449f45595a9f10f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#6个症状要警惕胃癌前兆#",
+      "rank": 25,
+      "title": "6个症状要警惕胃癌前兆",
+      "topic_id": "231522834c7acc13bff522edf1370559062327"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#夫妻退房抱走酒店被子被当场拦下#",
+      "rank": 26,
+      "title": "夫妻退房抱走酒店被子被当场拦下",
+      "topic_id": "23152275d092cd0fc70bd075681ee88085f530"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#国际奥委会回顾刘翔夺冠瞬间#",
+      "rank": 27,
+      "title": "国际奥委会回顾刘翔夺冠瞬间",
+      "topic_id": "231522ed0be04cb05162c1912bb86b2b0d87f9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王安宇把沈腾编辑进小图#",
+      "rank": 28,
+      "title": "王安宇把沈腾编辑进小图",
+      "topic_id": "231522e76b3296ff78dace527a800a9c915459"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张予曦工作室来高人了#",
+      "rank": 29,
+      "title": "张予曦工作室来高人了",
+      "topic_id": "23152245064647af5e0618ea23e24a2a464d7c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#包文婧曾说再信包贝尔一次#",
+      "rank": 30,
+      "title": "包文婧曾说再信包贝尔一次",
+      "topic_id": "231522841675af8cfd7cbd487963181c51f8a4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#刘翔110米栏奥运纪录仍无人打破#",
+      "rank": 31,
+      "title": "刘翔110米栏奥运纪录仍无人打破",
+      "topic_id": "23152208bfa05d325fdcbf38a10bb7a80c06f4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "罗永浩和车评人杠上了",
+      "rank": 32,
+      "title": "罗永浩和车评人杠上了",
+      "topic_id": "23152207186575af834e46b1af2adcf7c5c6af"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#金价大涨终于熬出头#",
+      "rank": 33,
+      "title": "金价大涨终于熬出头",
+      "topic_id": "231522fa31a2b551cc79445bf6c1b1b17fd5a1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "吉隆口岸",
+      "rank": 34,
+      "title": "吉隆口岸",
+      "topic_id": "231522b5d020d339044bfa2b031cb02fb1c554"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#机器人立定跳远名场面#",
+      "rank": 35,
+      "title": "机器人立定跳远名场面",
+      "topic_id": "231522972649a7f94075a3bf60704db4610a50"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#台湾童星徐杰去世#",
+      "rank": 36,
+      "title": "台湾童星徐杰去世",
+      "topic_id": "231522b920d9c031d985b928560b959a4939d5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#店主帮扶老人被索赔1.9万元新进展#",
+      "rank": 37,
+      "title": "店主帮扶老人被索赔1.9万元新进展",
+      "topic_id": "231522c5a3fc5e6b83da1403d157da58918ae1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#小天才还要逼疯多少家长#",
+      "rank": 38,
+      "title": "小天才还要逼疯多少家长",
+      "topic_id": "231522d380ba24abfe30ec6155db8d186d9abf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#江西银行已报案#",
+      "rank": 39,
+      "title": "江西银行已报案",
+      "topic_id": "231522a3e2d4ab7398173ab65abe1808e0c9e5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "聊斋",
+      "rank": 40,
+      "title": "聊斋",
+      "topic_id": "23152217be538e661dcb48d667e79c7745cb4b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "穆里尼奥 伯纳乌首秀",
+      "rank": 41,
+      "title": "穆里尼奥 伯纳乌首秀",
+      "topic_id": "2315221d57dab1adb7682a7743613f18dd7037"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#专家称尼泊尔山洪发生速度太快#",
+      "rank": 42,
+      "title": "专家称尼泊尔山洪发生速度太快",
+      "topic_id": "231522d75dc453a0b508e21b28fb9877d164a6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#江西整治农村高额彩礼#",
+      "rank": 43,
+      "title": "江西整治农村高额彩礼",
+      "topic_id": "231522e7896ab889d9991f7d2b8bf4e2919f26"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#赵心童希望易烊千玺饰演自己#",
+      "rank": 44,
+      "title": "赵心童希望易烊千玺饰演自己",
+      "topic_id": "23152207a36c4a0adb9c038ad97c2e795cdd7b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张智霖回应儿子担任演唱会吉他手#",
+      "rank": 45,
+      "title": "张智霖回应儿子担任演唱会吉他手",
+      "topic_id": "231522d6f6882cf3c7516589c97d9e3c6191bd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#3万件物资支持西藏救灾#",
+      "rank": 46,
+      "title": "3万件物资支持西藏救灾",
+      "topic_id": "231522824c57396b4437624e9a78061ea212ba"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#郭晓婷早春晴朗出场镜头#",
+      "rank": 47,
+      "title": "郭晓婷早春晴朗出场镜头",
+      "topic_id": "231522248ca8471bd72eb46172b9d659ab46c6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#九门庆功宴#",
+      "rank": 48,
+      "title": "九门庆功宴",
+      "topic_id": "2315226b39b9808c551323e404a61d485984e0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "男频和女频的区别",
+      "rank": 49,
+      "title": "男频和女频的区别",
+      "topic_id": "23152235021afadb11d86864f44c635f7062b0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#中国大爷击败日本选手刷新亚洲纪录#",
+      "rank": 50,
+      "title": "中国大爷击败日本选手刷新亚洲纪录",
+      "topic_id": "231522eb2c666fe0ba30b72bf524b6762c1d1e"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
