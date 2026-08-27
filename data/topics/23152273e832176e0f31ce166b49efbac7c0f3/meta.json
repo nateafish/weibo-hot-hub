@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1699432410
   },
-  "last_seen_at": "2026-08-27T17:00:00+08:00",
+  "last_seen_at": "2026-08-27T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9D%8E%E5%BC%BA%E6%8A%B5%E8%BE%BE%E5%90%89%E9%9A%86%E6%8C%87%E5%AF%BC%E6%8A%A2%E9%99%A9%E6%95%91%E7%81%BE%23%26t%3D3&title=发布媒体",
-    "show_str": "65家媒体",
+    "show_str": "97家媒体",
     "users": [
       {
         "id": 1699432410,
@@ -30,9 +30,23 @@
         "verified_type": 3
       },
       {
+        "id": 1403842922,
+        "idstr": "1403842922",
+        "screen_name": "琅琊新闻网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7739029497,
         "idstr": "7739029497",
         "screen_name": "中国军号",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2280198017,
+        "idstr": "2280198017",
+        "screen_name": "解放军报",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 2810373291,
         "idstr": "2810373291",
         "screen_name": "新华网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2375086267,
-        "idstr": "2375086267",
-        "screen_name": "参考消息",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2280198017,
-        "idstr": "2280198017",
-        "screen_name": "解放军报",
         "verified": true,
         "verified_type": 3
       }
