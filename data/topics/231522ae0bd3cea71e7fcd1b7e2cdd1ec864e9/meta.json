@@ -1,12 +1,19 @@
 {
-  "category": "综艺-内地综艺",
+  "category": "综艺",
   "created_at": "1531592917",
   "first_seen_at": "2026-08-20T11:00:00+08:00",
-  "host": null,
-  "last_seen_at": "2026-08-20T14:00:00+08:00",
+  "host": {
+    "claim_time": "2026.08.20-至今",
+    "created_at": "2026-08-20 18:42:32",
+    "is_claim": true,
+    "screen_name": "我家那闺女官微",
+    "status": 2,
+    "uid": 6885088428
+  },
+  "last_seen_at": "2026-08-27T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3%23%26t%3D3&title=发布媒体",
-    "show_str": "90家媒体",
+    "show_str": "100家媒体",
     "users": [
       {
         "id": 1878335471,
@@ -23,16 +30,16 @@
         "verified_type": 3
       },
       {
-        "id": 1801631655,
-        "idstr": "1801631655",
-        "screen_name": "北青网娱乐",
+        "id": 2072579737,
+        "idstr": "2072579737",
+        "screen_name": "湖南国际频道",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2072579737,
-        "idstr": "2072579737",
-        "screen_name": "湖南国际频道",
+        "id": 1801631655,
+        "idstr": "1801631655",
+        "screen_name": "北青网娱乐",
         "verified": true,
         "verified_type": 3
       },
@@ -51,9 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1967926223,
-        "idstr": "1967926223",
-        "screen_name": "FM1031济南交通广播",
+        "id": 1843633441,
+        "idstr": "1843633441",
+        "screen_name": "搜狐娱乐",
         "verified": true,
         "verified_type": 3
       }
@@ -62,7 +69,7 @@
   "query": "我家那闺女",
   "search_url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3%23",
   "sub_category": null,
-  "summary": "",
+  "summary": "你们的闺闺已就位！《我家那闺女2026》8月23日中午12点芒果TV首播！",
   "title": "我家那闺女",
   "topic_id": "231522ae0bd3cea71e7fcd1b7e2cdd1ec864e9"
 }
