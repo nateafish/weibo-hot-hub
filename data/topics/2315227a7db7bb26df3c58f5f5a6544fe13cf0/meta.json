@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 6364463717
   },
-  "last_seen_at": "2026-08-28T04:00:00+08:00",
+  "last_seen_at": "2026-08-28T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E5%8D%A1%E5%A1%94%E5%B0%94%E7%94%B7%E7%AF%AE%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "14家媒体",
     "users": [
       {
         "id": 6364463717,
         "idstr": "6364463717",
         "screen_name": "咪咕篮球",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3048800300,
+        "idstr": "3048800300",
+        "screen_name": "新浪圈子",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2921799343,
+        "idstr": "2921799343",
+        "screen_name": "天下泉城",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2803301701,
+        "idstr": "2803301701",
+        "screen_name": "人民日报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,30 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 1913382117,
-        "idstr": "1913382117",
-        "screen_name": "深圳晚报",
+        "id": 2105365573,
+        "idstr": "2105365573",
+        "screen_name": "威海播报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1737961042,
-        "idstr": "1737961042",
-        "screen_name": "中国篮球",
-        "verified": true,
-        "verified_type": 7
-      },
-      {
-        "id": 1677991972,
-        "idstr": "1677991972",
-        "screen_name": "晶报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1497418417,
-        "idstr": "1497418417",
-        "screen_name": "掌上温岭",
+        "id": 2028810631,
+        "idstr": "2028810631",
+        "screen_name": "新浪新闻",
         "verified": true,
         "verified_type": 3
       }

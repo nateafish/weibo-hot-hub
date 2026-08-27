@@ -3,11 +3,61 @@
   "created_at": 1787796942,
   "first_seen_at": "2026-08-28T04:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-28T04:00:00+08:00",
+  "last_seen_at": "2026-08-28T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E6%95%91%E6%8F%B4%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "10家媒体",
+    "users": [
+      {
+        "id": 3840768703,
+        "idstr": "3840768703",
+        "screen_name": "工人日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2286092114,
+        "idstr": "2286092114",
+        "screen_name": "中国蓝新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1960785875,
+        "idstr": "1960785875",
+        "screen_name": "津云新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1943154142,
+        "idstr": "1943154142",
+        "screen_name": "中安在线",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1867571077,
+        "idstr": "1867571077",
+        "screen_name": "听中国",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1854570915,
+        "idstr": "1854570915",
+        "screen_name": "青年报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1805685140,
+        "idstr": "1805685140",
+        "screen_name": "安徽网",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "西藏吉隆泥石流救援",
   "search_url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E6%95%91%E6%8F%B4%23",
