@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1769216315
   },
-  "last_seen_at": "2026-08-27T21:00:00+08:00",
+  "last_seen_at": "2026-08-28T04:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A5%B3%E5%AD%90%E7%94%9F%E4%B8%8B4%E8%83%9E%E8%83%8E%E4%B8%88%E5%A4%AB%E6%84%9F%E6%85%A8%E7%9C%81%E4%BA%86%E5%87%A0%E5%8D%81%E4%B8%87%23%26t%3D3&title=发布媒体",
-    "show_str": "10家媒体",
+    "show_str": "15家媒体",
     "users": [
       {
         "id": 1769216315,
@@ -26,6 +26,20 @@
         "id": 1941424392,
         "idstr": "1941424392",
         "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1738004582,
+        "idstr": "1738004582",
+        "screen_name": "纵览新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 2242064182,
         "idstr": "2242064182",
         "screen_name": "桂宝贝",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2188202475,
-        "idstr": "2188202475",
-        "screen_name": "南京晨报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2105365573,
-        "idstr": "2105365573",
-        "screen_name": "威海播报",
         "verified": true,
         "verified_type": 3
       }

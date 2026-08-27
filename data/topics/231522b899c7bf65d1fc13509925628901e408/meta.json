@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1371701597
   },
-  "last_seen_at": "2026-08-27T21:00:00+08:00",
+  "last_seen_at": "2026-08-28T04:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%B1%B1%E6%B4%AA359%E4%BA%BA%E6%AD%BB%E4%BA%A1910%E4%BA%BA%E5%A4%B1%E8%81%94%23%26t%3D3&title=发布媒体",
-    "show_str": "16家媒体",
+    "show_str": "36家媒体",
     "users": [
       {
         "id": 1371701597,
         "idstr": "1371701597",
         "screen_name": "CCTV国际时讯",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7422806367,
+        "idstr": "7422806367",
+        "screen_name": "中网传播",
         "verified": true,
         "verified_type": 3
       },
@@ -37,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 5145725878,
+        "idstr": "5145725878",
+        "screen_name": "沸点视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2024623547,
         "idstr": "2024623547",
         "screen_name": "央视一套",
@@ -47,20 +61,6 @@
         "id": 1749990115,
         "idstr": "1749990115",
         "screen_name": "北京青年报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3840768703,
-        "idstr": "3840768703",
-        "screen_name": "工人日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2921799343,
-        "idstr": "2921799343",
-        "screen_name": "天下泉城",
         "verified": true,
         "verified_type": 3
       }
