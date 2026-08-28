@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2803301701
   },
-  "last_seen_at": "2026-08-28T07:00:00+08:00",
+  "last_seen_at": "2026-08-28T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9F%B3%E5%B7%9E%E5%9C%B0%E9%9C%87%23%26t%3D3&title=发布媒体",
-    "show_str": "268家媒体",
+    "show_str": "269家媒体",
     "users": [
       {
         "id": 2803301701,
@@ -44,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 1744332207,
+        "idstr": "1744332207",
+        "screen_name": "钱江视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 3653935805,
         "idstr": "3653935805",
         "screen_name": "广西头条NEWS",
@@ -54,13 +61,6 @@
         "id": 1966478617,
         "idstr": "1966478617",
         "screen_name": "广西新闻频道",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1899950161,
-        "idstr": "1899950161",
-        "screen_name": "南国早报",
         "verified": true,
         "verified_type": 3
       }

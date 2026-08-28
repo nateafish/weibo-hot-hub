@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-08-28T10:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 1,
+    "metrics_saved": 51,
+    "posts_saved": 50
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#当务之急是千方百计搜救失联人员#",
+      "rank": 1,
+      "title": "当务之急是千方百计搜救失联人员",
+      "topic_id": "23152223c3ea6039f92bca08d1e231facf7ebf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#沙德尔在浙江台州登陆#",
+      "rank": 1,
+      "title": "沙德尔在浙江台州登陆",
+      "topic_id": "231522ef9cf0f7e09afd81d472dd974387af66"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#苹果6款新品前瞻#",
+      "rank": 2,
+      "title": "苹果6款新品前瞻",
+      "topic_id": "231522e183491a79673dc6a15cec4275beb754"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#从绿色算力到词元经济#",
+      "rank": 3,
+      "title": "从绿色算力到词元经济",
+      "topic_id": "2315224eef4aa6223f043e9cac63ce25dff52a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "越用codex越觉得可怕",
+      "rank": 4,
+      "title": "越用codex越觉得可怕",
+      "topic_id": "23152212a8fce1abfb524a1b3fb05be8ccc4a4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "有事没事就庆祝一下的家族",
+      "rank": 5,
+      "title": "有事没事就庆祝一下的家族",
+      "topic_id": "231522f54bffd0dc8ddd39fd2ae31f6c0aecd2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "小边牧到家第一天就开始牧猫了",
+      "rank": 6,
+      "title": "小边牧到家第一天就开始牧猫了",
+      "topic_id": "2315224e8553a2cbb026a18d0425fc3d99d61e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "台风 李隆基",
+      "rank": 7,
+      "title": "台风 李隆基",
+      "topic_id": "231522751d425cd4def84c982d455c089ad090"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#尼泊尔山洪已致389死#",
+      "rank": 8,
+      "title": "尼泊尔山洪已致389死",
+      "topic_id": "231522c23d32ecb6c83d89ae0e2dccc2cb5aae"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "数到三",
+      "rank": 9,
+      "title": "数到三",
+      "topic_id": "231522e93ead7ddf335ae0df72cf0f6cc13f89"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#金鹰奖延期#",
+      "rank": 10,
+      "title": "金鹰奖延期",
+      "topic_id": "2315226033f141cf0be848d29411bd68c44a1b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#9岁男孩小区内遭垃圾车碾轧身亡#",
+      "rank": 11,
+      "title": "9岁男孩小区内遭垃圾车碾轧身亡",
+      "topic_id": "231522c5703f52dcc1f5042880717330bda43e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "GTA6",
+      "rank": 12,
+      "title": "GTA6",
+      "topic_id": "2315229f1fb2b70fa2e8a21d1460181c40e137"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "清华美院 丑画",
+      "rank": 13,
+      "title": "清华美院 丑画",
+      "topic_id": "23152206e565159a2ff28cfff8c203db628e68"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#特朗普签行政令改安大略湖为美国湖#",
+      "rank": 14,
+      "title": "特朗普签行政令改安大略湖为美国湖",
+      "topic_id": "231522ecb07a59bb438ea699327405705f4800"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#兔子警官回应辅警身份争议#",
+      "rank": 15,
+      "title": "兔子警官回应辅警身份争议",
+      "topic_id": "2315221dd60b3fea18c91d3261b36cd415faf4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "台风",
+      "rank": 16,
+      "title": "台风",
+      "topic_id": "231522647d33aff1e4bb9ed725b08888cdda22"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#台风沙德尔二次登陆#",
+      "rank": 17,
+      "title": "台风沙德尔二次登陆",
+      "topic_id": "2315221b9641a80345278c9b7498a1d77187b6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "王源全面禁跟机",
+      "rank": 18,
+      "title": "王源全面禁跟机",
+      "topic_id": "231522144b7a66789b92a33291dadc692b987d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "尼泊尔山洪幸存者讲述恐怖瞬间",
+      "rank": 19,
+      "title": "尼泊尔山洪幸存者讲述恐怖瞬间",
+      "topic_id": "23152232938abf64579b55a19188cd1e7e646b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#杨雪带16岁女儿测骨龄#",
+      "rank": 20,
+      "title": "杨雪带16岁女儿测骨龄",
+      "topic_id": "231522c630af738c5a130e7b4c715beff3df1f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#西藏吉隆泥石流#",
+      "rank": 21,
+      "title": "西藏吉隆泥石流",
+      "topic_id": "231522b9c0fbbde8c840ee1892cef54fafbb6c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "RemoteProtocolError: Server disconnected without sending a response.",
+      "query": "如果没有探头根本不会相信",
+      "rank": 22,
+      "title": "如果没有探头根本不会相信",
+      "topic_id": "2315221c207798764e2a96e9aeb08b032991ef"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#尼泊尔2男子偷走遇难者金饰被捕#",
+      "rank": 23,
+      "title": "尼泊尔2男子偷走遇难者金饰被捕",
+      "topic_id": "231522f6760a085fb26716aeda318c2286242b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#9岁儿子疯狂沉迷手机单亲妈妈急哭#",
+      "rank": 24,
+      "title": "9岁儿子疯狂沉迷手机单亲妈妈急哭",
+      "topic_id": "23152247a636a634a2284a04e2e970e1766a63"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#康佳将主动退市#",
+      "rank": 25,
+      "title": "康佳将主动退市",
+      "topic_id": "231522788f0c901b90e7625303e8ce1f4af038"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "台湾高中语文露骨内容引争议",
+      "rank": 26,
+      "title": "台湾高中语文露骨内容引争议",
+      "topic_id": "231522ee0277fb02f93886bd703b5e57993be5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#杨瀚森15分9篮板1助攻#",
+      "rank": 27,
+      "title": "杨瀚森15分9篮板1助攻",
+      "topic_id": "23152238d42811849b77824deabbe010b18097"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#好喜欢看娜扎逗欧豪#",
+      "rank": 28,
+      "title": "好喜欢看娜扎逗欧豪",
+      "topic_id": "23152252a230d547d2a2348993daa047b03e31"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#郑钦文美网决胜轮因雨推迟#",
+      "rank": 29,
+      "title": "郑钦文美网决胜轮因雨推迟",
+      "topic_id": "231522d367800ddcf61bfcd9db49fced8fede6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "曼城抽签结果",
+      "rank": 30,
+      "title": "曼城抽签结果",
+      "topic_id": "2315220b6ed9d772a6d1cff1f8546366af0c12"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张继科直播官宣百分大战第三站时间#",
+      "rank": 31,
+      "title": "张继科直播官宣百分大战第三站时间",
+      "topic_id": "231522cd8c1adb4b137f18dffb47f50b3a2ecd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#赵心童登顶世界第一#",
+      "rank": 32,
+      "title": "赵心童登顶世界第一",
+      "topic_id": "2315225d304d784e68422148edb317139e66b2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#玉环坎门2个月3次登陆台风#",
+      "rank": 33,
+      "title": "玉环坎门2个月3次登陆台风",
+      "topic_id": "231522856fc3dcb1e32f8e61d05b207aab2148"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "沙德尔",
+      "rank": 34,
+      "title": "沙德尔",
+      "topic_id": "231522d941c631b0bb0e628001a7e74a0ba6f1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#GTA6实机预告#",
+      "rank": 35,
+      "title": "GTA6实机预告",
+      "topic_id": "231522157a66d52788a4f3266089ae0d3a8b76"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#这种胃病做胃镜也很难发现#",
+      "rank": 36,
+      "title": "这种胃病做胃镜也很难发现",
+      "topic_id": "231522aa851b8f9a3811bc00b9ef5f7fbeef2f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#西藏吉隆口岸最新航拍画面#",
+      "rank": 37,
+      "title": "西藏吉隆口岸最新航拍画面",
+      "topic_id": "231522870690b1a8988adf16ab8a73a28934a7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#肉店老板连杀3人一审被判死刑#",
+      "rank": 38,
+      "title": "肉店老板连杀3人一审被判死刑",
+      "topic_id": "2315224896696174a299b384a88ee4c6262f74"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#擎天柱配音彼得库伦去世#",
+      "rank": 39,
+      "title": "擎天柱配音彼得库伦去世",
+      "topic_id": "231522cb3d63db7ea02e55082a74f28192acf4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "曼联欧冠联赛阶段对手出炉",
+      "rank": 40,
+      "title": "曼联欧冠联赛阶段对手出炉",
+      "topic_id": "231522e5681244cd2bd391b55a767d39535556"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#上海偶遇池昌旭吃火锅#",
+      "rank": 41,
+      "title": "上海偶遇池昌旭吃火锅",
+      "topic_id": "231522af77132c558a83996b00726af45413f0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#赵本山女儿直播掉美颜#",
+      "rank": 42,
+      "title": "赵本山女儿直播掉美颜",
+      "topic_id": "2315221e94f3f9db487c75410ba3730f9de2fa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#武警继续向泥石流核心受灾区挺进#",
+      "rank": 43,
+      "title": "武警继续向泥石流核心受灾区挺进",
+      "topic_id": "231522c314beee83dc1bb0a3800a94a785cfae"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#女子河边摆摊按摩15分钟19.9元#",
+      "rank": 44,
+      "title": "女子河边摆摊按摩15分钟19.9元",
+      "topic_id": "231522a579eb26baf9fa1d41b7b6facab971de"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "柳州地震",
+      "rank": 45,
+      "title": "柳州地震",
+      "topic_id": "23152228ad04594a4aa34f76e908fede433e5a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "佳偶天成回款2.51亿",
+      "rank": 46,
+      "title": "佳偶天成回款2.51亿",
+      "topic_id": "231522425cfc69211c856513d35d1855257673"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曾沛慈也知道薛甄珠#",
+      "rank": 47,
+      "title": "曾沛慈也知道薛甄珠",
+      "topic_id": "23152260c5de3a36ffbd68aeb92ab1cc679b28"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "哥哥被垃圾车碾轧妹妹打电话求救",
+      "rank": 48,
+      "title": "哥哥被垃圾车碾轧妹妹打电话求救",
+      "topic_id": "2315227c4fb2af24d291c95677cc0c44033cc4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "中国男篮vs卡塔尔男篮",
+      "rank": 49,
+      "title": "中国男篮vs卡塔尔男篮",
+      "topic_id": "2315227a7db7bb26df3c58f5f5a6544fe13cf0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#欧冠抽签#",
+      "rank": 50,
+      "title": "欧冠抽签",
+      "topic_id": "23152213568d403298ca7c7c9a8bd2aa3a785f"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 0.9803921568627451
+    }
+  }
+}

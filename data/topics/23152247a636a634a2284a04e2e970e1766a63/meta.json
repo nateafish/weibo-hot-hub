@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 1769216315
   },
-  "last_seen_at": "2026-08-28T07:00:00+08:00",
+  "last_seen_at": "2026-08-28T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%239%E5%B2%81%E5%84%BF%E5%AD%90%E7%96%AF%E7%8B%82%E6%B2%89%E8%BF%B7%E6%89%8B%E6%9C%BA%E5%8D%95%E4%BA%B2%E5%A6%88%E5%A6%88%E6%80%A5%E5%93%AD%23%26t%3D3&title=发布媒体",
-    "show_str": "54家媒体",
+    "show_str": "73家媒体",
     "users": [
+      {
+        "id": 2286092114,
+        "idstr": "2286092114",
+        "screen_name": "中国蓝新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1769216315,
         "idstr": "1769216315",
@@ -30,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 1975995305,
+        "idstr": "1975995305",
+        "screen_name": "西安晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7141087529,
         "idstr": "7141087529",
         "screen_name": "铁骥视频",
@@ -37,30 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 1856446532,
-        "idstr": "1856446532",
-        "screen_name": "合新闻",
+        "id": 5396094153,
+        "idstr": "5396094153",
+        "screen_name": "大众新闻-大众日报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1796087453,
-        "idstr": "1796087453",
-        "screen_name": "荔枝新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1789681642,
-        "idstr": "1789681642",
-        "screen_name": "第一现场",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1771221871,
-        "idstr": "1771221871",
-        "screen_name": "大象评论",
+        "id": 1959444680,
+        "idstr": "1959444680",
+        "screen_name": "云南网",
         "verified": true,
         "verified_type": 3
       }
