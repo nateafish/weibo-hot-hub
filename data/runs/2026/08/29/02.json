@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-08-29T02:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 47,
+    "ai_unchanged": 3,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#向吉隆泥石流灾害遇难人员默哀#",
+      "rank": 1,
+      "title": "向吉隆泥石流灾害遇难人员默哀",
+      "topic_id": "23152296f2d096707ad04923544371c20d925f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 53,
+      "posts": "saved",
+      "query": "房贷",
+      "rank": 1,
+      "title": "房贷",
+      "topic_id": "231522194332b57b30cd4a665ae426f0e19e93"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 43,
+      "posts": "saved",
+      "query": "青簪行",
+      "rank": 2,
+      "title": "青簪行",
+      "topic_id": "2315229d5d7377bdf7c414c1cb25742aa93fdf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 27,
+      "posts": "saved",
+      "query": "#消防救援队已抵达受灾核心区#",
+      "rank": 3,
+      "title": "消防救援队已抵达受灾核心区",
+      "topic_id": "23152220346e4bd54bddb585b4d93b745449b7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 29,
+      "posts": "saved",
+      "query": "#白敬亭P图为井柏然剧宣#",
+      "rank": 4,
+      "title": "白敬亭P图为井柏然剧宣",
+      "topic_id": "231522980a4aad6a1ed3cea0c1778b73feeab9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "胡连馨 京洛再无佳人",
+      "rank": 5,
+      "title": "胡连馨 京洛再无佳人",
+      "topic_id": "231522de3ff07ad129daeb4640fe850307854d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 52,
+      "posts": "saved",
+      "query": "#尼泊尔山洪已致579死1924失联#",
+      "rank": 6,
+      "title": "尼泊尔山洪已致579死1924失联",
+      "topic_id": "2315225ca16f67e5eac1da7fe059f126cff44a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#英国姑娘打假中国留学生的切面包#",
+      "rank": 7,
+      "title": "英国姑娘打假中国留学生的切面包",
+      "topic_id": "231522bd9fc90392b66c8a75438c2d08ae5ac3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 52,
+      "posts": "saved",
+      "query": "黄金",
+      "rank": 8,
+      "title": "黄金",
+      "topic_id": "23152211289a9c3dbe0fb8810cf271903fc8ac"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 26,
+      "posts": "saved",
+      "query": "青簪行天价版权",
+      "rank": 9,
+      "title": "青簪行天价版权",
+      "topic_id": "231522090933901419e4fa37eec80e3029480a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "失望性情感隔离",
+      "rank": 10,
+      "title": "失望性情感隔离",
+      "topic_id": "231522e4d822b3e6619422eb43142fd5f716bc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#吉隆口岸警察的笑让网友哭了#",
+      "rank": 11,
+      "title": "吉隆口岸警察的笑让网友哭了",
+      "topic_id": "23152247b28f7a3af32a8ea1cf869b97f83492"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 50,
+      "posts": "saved",
+      "query": "#白敬亭没放过井柏然#",
+      "rank": 12,
+      "title": "白敬亭没放过井柏然",
+      "topic_id": "2315222b6f3629e3701558fd80491f8551f628"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 22,
+      "posts": "saved",
+      "query": "#100万房贷月供可减少635元#",
+      "rank": 13,
+      "title": "100万房贷月供可减少635元",
+      "topic_id": "231522a8ce79b3a26cf86e39b6c668f67f42d7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 52,
+      "posts": "saved",
+      "query": "#低分班教师被安排耻辱合影官方致歉#",
+      "rank": 14,
+      "title": "低分班教师被安排耻辱合影官方致歉",
+      "topic_id": "231522a2c32949959f2df89ed65fc96a1919b4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "原来还有这么多小众的工作",
+      "rank": 15,
+      "title": "原来还有这么多小众的工作",
+      "topic_id": "23152279fd08ad2d7bc44c101f71ed2be644d5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 21,
+      "posts": "saved",
+      "query": "2025年中国新生儿792万人",
+      "rank": 16,
+      "title": "2025年中国新生儿792万人",
+      "topic_id": "231522c2167236dfdc635d470419e5c0601a31"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 45,
+      "posts": "saved",
+      "query": "李思潼金鹿奖影后",
+      "rank": 17,
+      "title": "李思潼金鹿奖影后",
+      "topic_id": "23152272b7c0daaac7400574ff235567d8f4d9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#炫神LPL二路疑似被收回#",
+      "rank": 18,
+      "title": "炫神LPL二路疑似被收回",
+      "topic_id": "231522f013971d8136c5d5934264ef4bf66703"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 55,
+      "posts": "saved",
+      "query": "#蒋奇明檀健次金鹿奖影帝#",
+      "rank": 19,
+      "title": "蒋奇明檀健次金鹿奖影帝",
+      "topic_id": "23152269fd105eaacfcc5f66b2df1c382c77b0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 22,
+      "posts": "saved",
+      "query": "#吉隆口岸泥石流可视化还原#",
+      "rank": 20,
+      "title": "吉隆口岸泥石流可视化还原",
+      "topic_id": "231522a9551364202a095efd5c53503d391f16"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#女子怀孕6个月发现肺癌晚期#",
+      "rank": 21,
+      "title": "女子怀孕6个月发现肺癌晚期",
+      "topic_id": "231522e710b5012d48966bd717dcc94e65179e"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 21,
+      "posts": "saved",
+      "query": "原来男生的喜欢真的很明显",
+      "rank": 22,
+      "title": "原来男生的喜欢真的很明显",
+      "topic_id": "2315223e52246f570f26d146a3fcf65da330e0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#女子备孕放弃复查孕中期发现患癌#",
+      "rank": 23,
+      "title": "女子备孕放弃复查孕中期发现患癌",
+      "topic_id": "231522298b511b6b622d7dcdaf88454ae3fb98"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#41岁爸爸长相太年轻与女儿像兄妹#",
+      "rank": 24,
+      "title": "41岁爸爸长相太年轻与女儿像兄妹",
+      "topic_id": "2315224f21195a8b5347dc0eacecd04cee0ad0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 52,
+      "posts": "saved",
+      "query": "吉隆泥石流",
+      "rank": 25,
+      "title": "吉隆泥石流",
+      "topic_id": "23152282bd32885c036f988465d15aac0bae4d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 51,
+      "posts": "saved",
+      "query": "美联储",
+      "rank": 26,
+      "title": "美联储",
+      "topic_id": "2315220658b81a9181773bf3b4711ce12c903b"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#炫神力挺TheShy#",
+      "rank": 27,
+      "title": "炫神力挺TheShy",
+      "topic_id": "23152262d30ca30968fad3a82c957f2afb8fc8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 51,
+      "posts": "saved",
+      "query": "金鹿奖获奖名单",
+      "rank": 28,
+      "title": "金鹿奖获奖名单",
+      "topic_id": "231522c33a667690bd0ae443ce2cf5e7ed5198"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "#吉隆泥石流出现罕见逆流而上现象#",
+      "rank": 29,
+      "title": "吉隆泥石流出现罕见逆流而上现象",
+      "topic_id": "231522c39f0b366063f57c01397621cf8383d7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#海南大学失联女研究生确认离世#",
+      "rank": 30,
+      "title": "海南大学失联女研究生确认离世",
+      "topic_id": "231522e607b773d2114dc23f63972620faddb7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 21,
+      "posts": "saved",
+      "query": "#3分钟动画解析吉隆泥石流灾害全过程#",
+      "rank": 31,
+      "title": "3分钟动画解析吉隆泥石流灾害全过程",
+      "topic_id": "23152221d0b24a4c67dd403d82199e1ce3004a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#吉隆村民与7名家人失联抱民警痛哭#",
+      "rank": 32,
+      "title": "吉隆村民与7名家人失联抱民警痛哭",
+      "topic_id": "2315221f42ca403d003bb213912f6b74a72465"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#在香港得到乖狗证的萨摩耶#",
+      "rank": 33,
+      "title": "在香港得到乖狗证的萨摩耶",
+      "topic_id": "23152273240be216aeed4dd5192739d691d00b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#房贷月供不超收入50%#",
+      "rank": 34,
+      "title": "房贷月供不超收入50%",
+      "topic_id": "23152206fa98f7fc9e815717f5f94b4d5498f0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#龙餐馆恭喜蒋奇明获影帝#",
+      "rank": 35,
+      "title": "龙餐馆恭喜蒋奇明获影帝",
+      "topic_id": "231522badc78844c5e5d1a4c56a24b127be207"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#尼泊尔受灾区域被大量泥浆覆盖#",
+      "rank": 36,
+      "title": "尼泊尔受灾区域被大量泥浆覆盖",
+      "topic_id": "231522dfea28216629026dd8fc79b88ac2aca2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#西藏泥石流第三天救援进展汇总#",
+      "rank": 37,
+      "title": "西藏泥石流第三天救援进展汇总",
+      "topic_id": "231522658d4b5cdc14919d4e40e1bf462bc9ba"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#开始以为阿姨上台来搞笑的#",
+      "rank": 38,
+      "title": "开始以为阿姨上台来搞笑的",
+      "topic_id": "2315229898791be70ad133a33d2d323e3cb292"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#赵心童前7次决赛7次夺冠#",
+      "rank": 39,
+      "title": "赵心童前7次决赛7次夺冠",
+      "topic_id": "231522f0bb0f580650b5143c1a5ab1c9bce12f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 31,
+      "posts": "saved",
+      "query": "#中国女排3比0胜越南#",
+      "rank": 40,
+      "title": "中国女排3比0胜越南",
+      "topic_id": "231522d04390dadc4c03d259c92bec930a140c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "李思潼首作即影后",
+      "rank": 41,
+      "title": "李思潼首作即影后",
+      "topic_id": "231522cb0c1ca2a8bb26ec35f10ffbc9586bd2"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 53,
+      "posts": "saved",
+      "query": "#个人住房贷款期限不超40年#",
+      "rank": 42,
+      "title": "个人住房贷款期限不超40年",
+      "topic_id": "231522a18d9c993210055ab4aad731542ca857"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 28,
+      "posts": "saved",
+      "query": "#羞辱式抓教育换不来成绩#",
+      "rank": 43,
+      "title": "羞辱式抓教育换不来成绩",
+      "topic_id": "2315225ce647bf54ae2ff612e0959a1c9d7481"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "美联储主席沃什就任后首次讲话",
+      "rank": 44,
+      "title": "美联储主席沃什就任后首次讲话",
+      "topic_id": "2315228f45fd7f630d5580b712c58b16fa33e0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#孔笙夸肖战#",
+      "rank": 45,
+      "title": "孔笙夸肖战",
+      "topic_id": "231522552da4878b527abfffc7c57ea3dda0aa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 21,
+      "posts": "saved",
+      "query": "小俞戈娅五杀",
+      "rank": 46,
+      "title": "小俞戈娅五杀",
+      "topic_id": "231522d80328dddfe413a0eac39fb067657304"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "朱志鑫现场激光笔",
+      "rank": 47,
+      "title": "朱志鑫现场激光笔",
+      "topic_id": "231522d5506cfd89404386b686fd9314a4de21"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#联合调查组已进驻雷波县#",
+      "rank": 48,
+      "title": "联合调查组已进驻雷波县",
+      "topic_id": "231522a87dd9002c67a10848a9beb35070e1a6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#重庆官方再通报2人触电事故#",
+      "rank": 49,
+      "title": "重庆官方再通报2人触电事故",
+      "topic_id": "2315224243ce72b73643df895a6585f64e3634"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#女儿配型救母发现自己非亲生#",
+      "rank": 50,
+      "title": "女儿配型救母发现自己非亲生",
+      "topic_id": "231522d2ae88640b66af86ab0952f31afbacad"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
