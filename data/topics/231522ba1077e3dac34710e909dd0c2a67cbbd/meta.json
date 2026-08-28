@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2803301701
   },
-  "last_seen_at": "2026-08-28T13:00:00+08:00",
+  "last_seen_at": "2026-08-28T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%B6%88%E9%98%B2%E6%95%91%E6%8F%B4%E5%8A%9B%E9%87%8F%E5%90%91%E5%8F%97%E7%81%BE%E6%A0%B8%E5%BF%83%E5%8C%BA%E6%8C%BA%E8%BF%9B%23%26t%3D3&title=发布媒体",
-    "show_str": "40家媒体",
+    "show_str": "63家媒体",
     "users": [
       {
         "id": 2803301701,
@@ -26,6 +26,13 @@
         "id": 2921799343,
         "idstr": "2921799343",
         "screen_name": "天下泉城",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2810373291,
+        "idstr": "2810373291",
+        "screen_name": "新华网",
         "verified": true,
         "verified_type": 3
       },
@@ -51,16 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1651428902,
-        "idstr": "1651428902",
-        "screen_name": "21世纪经济报道",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1497087080,
-        "idstr": "1497087080",
-        "screen_name": "羊城晚报",
+        "id": 2057327125,
+        "idstr": "2057327125",
+        "screen_name": "人民视频",
         "verified": true,
         "verified_type": 3
       }
