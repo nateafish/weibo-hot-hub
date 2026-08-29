@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1649173367
   },
-  "last_seen_at": "2026-08-29T23:00:00+08:00",
+  "last_seen_at": "2026-08-30T01:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%94%A8%E8%BF%99%E7%A7%8D%E5%BE%AE%E4%BF%A1%E5%A4%B4%E5%83%8F%E6%88%96%E8%A2%AB%E5%B0%81%E5%8F%B7%23%26t%3D3&title=发布媒体",
-    "show_str": "53家媒体",
+    "show_str": "55家媒体",
     "users": [
       {
         "id": 1649173367,
         "idstr": "1649173367",
         "screen_name": "每日经济新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -37,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 2035321844,
+        "idstr": "2035321844",
+        "screen_name": "河池融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1974576991,
         "idstr": "1974576991",
         "screen_name": "环球时报",
@@ -47,20 +61,6 @@
         "id": 1941424392,
         "idstr": "1941424392",
         "screen_name": "台州晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1885454921,
-        "idstr": "1885454921",
-        "screen_name": "蓝鲸新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6452231600,
-        "idstr": "6452231600",
-        "screen_name": "NBD视频",
         "verified": true,
         "verified_type": 3
       }

@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 3266943013
   },
-  "last_seen_at": "2026-08-29T23:00:00+08:00",
+  "last_seen_at": "2026-08-30T01:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%B9%B8%E5%AD%98%E8%80%85%E7%A7%B0%E6%A0%B9%E6%9C%AC%E6%9D%A5%E4%B8%8D%E5%8F%8A%E9%80%83%E7%94%9F%23%26t%3D3&title=发布媒体",
-    "show_str": "9家媒体",
+    "show_str": "14家媒体",
     "users": [
       {
         "id": 3266943013,
         "idstr": "3266943013",
         "screen_name": "央视网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1734530730,
+        "idstr": "1734530730",
+        "screen_name": "大河报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1675961211,
+        "idstr": "1675961211",
+        "screen_name": "新闻夜航",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1749990115,
+        "idstr": "1749990115",
+        "screen_name": "北京青年报",
         "verified": true,
         "verified_type": 3
       },
@@ -40,27 +61,6 @@
         "id": 1678528194,
         "idstr": "1678528194",
         "screen_name": "东北网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1675961211,
-        "idstr": "1675961211",
-        "screen_name": "新闻夜航",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2118205862,
-        "idstr": "2118205862",
-        "screen_name": "宁夏新闻网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2118120483,
-        "idstr": "2118120483",
-        "screen_name": "青岛日报",
         "verified": true,
         "verified_type": 3
       }

@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 5044281310
   },
-  "last_seen_at": "2026-08-29T23:00:00+08:00",
+  "last_seen_at": "2026-08-30T01:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%E5%B0%8F%E9%82%AC%E8%AD%A6%E5%AE%98%E7%A1%AE%E8%AE%A4%E5%B9%B3%E5%AE%89%23%26t%3D3&title=发布媒体",
-    "show_str": "36家媒体",
+    "show_str": "49家媒体",
     "users": [
       {
         "id": 5044281310,
         "idstr": "5044281310",
         "screen_name": "澎湃新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1734530730,
+        "idstr": "1734530730",
+        "screen_name": "大河报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,13 +37,6 @@
         "verified_type": 3
       },
       {
-        "id": 1887344341,
-        "idstr": "1887344341",
-        "screen_name": "观察者网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 1708763410,
         "idstr": "1708763410",
         "screen_name": "浙江日报",
@@ -44,23 +44,23 @@
         "verified_type": 3
       },
       {
+        "id": 1887344341,
+        "idstr": "1887344341",
+        "screen_name": "观察者网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1652484947,
+        "idstr": "1652484947",
+        "screen_name": "新快报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6275620474,
         "idstr": "6275620474",
         "screen_name": "World湃",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6107645180,
-        "idstr": "6107645180",
-        "screen_name": "澎湃运动装",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5606627706,
-        "idstr": "5606627706",
-        "screen_name": "澎湃问吧",
         "verified": true,
         "verified_type": 3
       }

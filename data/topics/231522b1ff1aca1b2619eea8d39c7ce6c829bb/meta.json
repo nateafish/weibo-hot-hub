@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1893892941
   },
-  "last_seen_at": "2026-08-29T23:00:00+08:00",
+  "last_seen_at": "2026-08-30T01:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%E5%85%A5%E8%AD%A61%E5%B9%B4%E6%A8%8A%E4%B9%90%E4%B9%90%E5%A4%B1%E8%81%94%23%26t%3D3&title=发布媒体",
-    "show_str": "17家媒体",
+    "show_str": "25家媒体",
     "users": [
       {
         "id": 1744332207,
@@ -26,6 +26,13 @@
         "id": 1893892941,
         "idstr": "1893892941",
         "screen_name": "北京日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1734530730,
+        "idstr": "1734530730",
+        "screen_name": "大河报",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 5155365012,
-        "idstr": "5155365012",
-        "screen_name": "康巴卫视",
+        "id": 1703371307,
+        "idstr": "1703371307",
+        "screen_name": "北京晚报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 3275115274,
-        "idstr": "3275115274",
-        "screen_name": "中国吉林网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2622056220,
-        "idstr": "2622056220",
-        "screen_name": "新闻大连",
+        "id": 7542252663,
+        "idstr": "7542252663",
+        "screen_name": "北京质量报告",
         "verified": true,
         "verified_type": 3
       }
