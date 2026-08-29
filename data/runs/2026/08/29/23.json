@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-08-29T23:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 1,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#习近平主席推动上海精神焕发时代光彩#",
+      "rank": 1,
+      "title": "习近平主席推动上海精神焕发时代光彩",
+      "topic_id": "231522c14af90c9b3bdf693f873c1fabf41645"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 52,
+      "posts": "saved",
+      "query": "#樊振东2比3户上隼辅#",
+      "rank": 1,
+      "title": "樊振东2比3户上隼辅",
+      "topic_id": "23152247c1e8bf71d546ebbce037d31747875b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#吉隆口岸小邬警官确认平安#",
+      "rank": 2,
+      "title": "吉隆口岸小邬警官确认平安",
+      "topic_id": "23152291372afeef64eef1db1c58da8feee4a5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#中国成功研制近200项AI关键标准#",
+      "rank": 3,
+      "title": "中国成功研制近200项AI关键标准",
+      "topic_id": "2315227306003f2ebb2fb2ba5554366d276ea4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#黄景瑜疯狂拥抱宋亚东#",
+      "rank": 4,
+      "title": "黄景瑜疯狂拥抱宋亚东",
+      "topic_id": "2315221d062bfed35ddf7b3a138d269ea21208"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 35,
+      "posts": "saved",
+      "query": "#宋亚东KO乌马尔#",
+      "rank": 5,
+      "title": "宋亚东KO乌马尔",
+      "topic_id": "231522c1abe7e1c5c29a7c9d79f17da4d203b2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 22,
+      "posts": "saved",
+      "query": "#房子薄成这样原来真的有人住在里面#",
+      "rank": 6,
+      "title": "房子薄成这样原来真的有人住在里面",
+      "topic_id": "2315227d2523b2fc9074baea24851b7342f7c6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#樊振东无缘德国杯8强#",
+      "rank": 7,
+      "title": "樊振东无缘德国杯8强",
+      "topic_id": "231522b0b78d72e8744cba45e1e2ffb881cc9d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#吉隆口岸入警1年樊乐乐失联#",
+      "rank": 8,
+      "title": "吉隆口岸入警1年樊乐乐失联",
+      "topic_id": "231522b1ff1aca1b2619eea8d39c7ce6c829bb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "被井柏然吻技演技迷住了",
+      "rank": 9,
+      "title": "被井柏然吻技演技迷住了",
+      "topic_id": "231522ad5173bf07318cfc8504dc73ef5b8214"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "数到三 给爸妈来点震撼",
+      "rank": 10,
+      "title": "数到三 给爸妈来点震撼",
+      "topic_id": "2315229392dcecfecb282ce75983efa9700009"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "央视曝光保温杯造假套路",
+      "rank": 11,
+      "title": "央视曝光保温杯造假套路",
+      "topic_id": "231522ea54ef27892b41ca2fb004e5e9934b37"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#面馆偶遇王菲李嫣#",
+      "rank": 12,
+      "title": "面馆偶遇王菲李嫣",
+      "topic_id": "231522ed37ba050827dbbef938dc1f0c363c31"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 51,
+      "posts": "saved",
+      "query": "#王一博ins素颜自拍#",
+      "rank": 13,
+      "title": "王一博ins素颜自拍",
+      "topic_id": "231522cf1cf291aca349e755c9467eedb34211"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 52,
+      "posts": "saved",
+      "query": "#吉隆口岸大楼只剩钢筋骨架#",
+      "rank": 14,
+      "title": "吉隆口岸大楼只剩钢筋骨架",
+      "topic_id": "2315226a83826f3b29014deb2ae96841165dbf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#火星哥喊话朴彩英#",
+      "rank": 15,
+      "title": "火星哥喊话朴彩英",
+      "topic_id": "231522712ea9af50d2d65c959f619c713a0b87"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 52,
+      "posts": "saved",
+      "query": "#西藏泥石流救援#",
+      "rank": 16,
+      "title": "西藏泥石流救援",
+      "topic_id": "231522027f633332333d90c78db58060626bb2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 50,
+      "posts": "saved",
+      "query": "#王菲李嫣看窦靖童音乐节#",
+      "rank": 17,
+      "title": "王菲李嫣看窦靖童音乐节",
+      "topic_id": "23152294bf7c2df81b32a23d5c233f4c6cbaef"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#TES要打iG了#",
+      "rank": 18,
+      "title": "TES要打iG了",
+      "topic_id": "23152252b7816e87ecdb089f6bbb4e631569f4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#用这种微信头像或被封号#",
+      "rank": 19,
+      "title": "用这种微信头像或被封号",
+      "topic_id": "231522cdc81a674026208427e134c2f8448d78"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#尼泊尔泥石流2426人失联#",
+      "rank": 20,
+      "title": "尼泊尔泥石流2426人失联",
+      "topic_id": "2315228dea11f4022fc547ccdbdc9023e7f805"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 33,
+      "posts": "saved",
+      "query": "代孕合法后女性就会变商品",
+      "rank": 21,
+      "title": "代孕合法后女性就会变商品",
+      "topic_id": "231522102c9ff1c76d6897cd3ce99af7c6505a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#孕妈吃2斤小龙虾感染紧急剖宫产#",
+      "rank": 22,
+      "title": "孕妈吃2斤小龙虾感染紧急剖宫产",
+      "topic_id": "2315220c1401ed0d6c4837773a5d65498ce97e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#男子婚后第三天自愿给房子加妻子名字#",
+      "rank": 23,
+      "title": "男子婚后第三天自愿给房子加妻子名字",
+      "topic_id": "2315223db304937c18d8d4f27a95ad3e25dfab"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#冲锋衣选颜色邪修大法#",
+      "rank": 24,
+      "title": "冲锋衣选颜色邪修大法",
+      "topic_id": "23152277331744d639354fc501d413428b0270"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "小米18Fold",
+      "rank": 25,
+      "title": "小米18Fold",
+      "topic_id": "231522d2a1927739db85a6abd50de3569eb7bc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#尼泊尔幸存者称根本来不及逃生#",
+      "rank": 26,
+      "title": "尼泊尔幸存者称根本来不及逃生",
+      "topic_id": "23152237b45dbd02a7d436eb1f758701b4309c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#山姆回应女子用脱毛仪样品脱腋毛#",
+      "rank": 27,
+      "title": "山姆回应女子用脱毛仪样品脱腋毛",
+      "topic_id": "231522ebf321038be7d599761d70f0082048e0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 26,
+      "posts": "saved",
+      "query": "#刘宇宁林一下意识保护王玉雯#",
+      "rank": 28,
+      "title": "刘宇宁林一下意识保护王玉雯",
+      "topic_id": "2315228a9b993515d14aebc827247c754518b6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#尼泊尔洪水来袭绿色小楼屹立不倒#",
+      "rank": 29,
+      "title": "尼泊尔洪水来袭绿色小楼屹立不倒",
+      "topic_id": "2315223dd0014472ccf8d06b349c48358e8dc0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 21,
+      "posts": "saved",
+      "query": "#早春晴朗要开虐了#",
+      "rank": 30,
+      "title": "早春晴朗要开虐了",
+      "topic_id": "231522b305196515207b1e0c477c362877285d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 25,
+      "posts": "saved",
+      "query": "#苏新皓疑似身体不舒服#",
+      "rank": 31,
+      "title": "苏新皓疑似身体不舒服",
+      "topic_id": "2315224c1431b4cf291212ae5adadc3d296329"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 51,
+      "posts": "saved",
+      "query": "中国女排3比0伊朗女排",
+      "rank": 32,
+      "title": "中国女排3比0伊朗女排",
+      "topic_id": "231522c13efb1740950a8a2b22ae095a185f16"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 41,
+      "posts": "saved",
+      "query": "张极哭了",
+      "rank": 33,
+      "title": "张极哭了",
+      "topic_id": "231522f8e2c0c3e687bc5ac596e18823ee9671"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 30,
+      "posts": "saved",
+      "query": "#王俊凯贴了眉钉#",
+      "rank": 34,
+      "title": "王俊凯贴了眉钉",
+      "topic_id": "2315223a88e8cef660a5bfc207505cf92c482d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#这5种常见蔬菜是抗炎高手#",
+      "rank": 35,
+      "title": "这5种常见蔬菜是抗炎高手",
+      "topic_id": "231522782fe4efe38386e123e5f948db83593a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "早春晴朗",
+      "rank": 36,
+      "title": "早春晴朗",
+      "topic_id": "23152232a83557dc62513442c4c623e727e467"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 23,
+      "posts": "saved",
+      "query": "KPL",
+      "rank": 37,
+      "title": "KPL",
+      "topic_id": "231522361877035a32f3073eb1259ee15286d8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "中国女排晋级决赛",
+      "rank": 38,
+      "title": "中国女排晋级决赛",
+      "topic_id": "231522955ab7d430230e474eaeedef13e0518b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 20,
+      "posts": "saved",
+      "query": "#张凌赫泡面老吃家#",
+      "rank": 39,
+      "title": "张凌赫泡面老吃家",
+      "topic_id": "2315222e37210dbed923f7d6f6d1b99bd4dbd8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 29,
+      "posts": "saved",
+      "query": "#TES巅峰对决狼队#",
+      "rank": 40,
+      "title": "TES巅峰对决狼队",
+      "topic_id": "23152242d5d95e0c46f64bd21d8eda220027b1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "刘翔 安置",
+      "rank": 41,
+      "title": "刘翔 安置",
+      "topic_id": "23152211ebe6f3684f2b201b4bc70d5b11e0f1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 24,
+      "posts": "saved",
+      "query": "#邹市明给冉莹颖惊喜惹怒岳母#",
+      "rank": 42,
+      "title": "邹市明给冉莹颖惊喜惹怒岳母",
+      "topic_id": "23152219a68e06a2d650be245ca133f0e89da6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#喝咖啡时加杯奶双倍抗炎#",
+      "rank": 43,
+      "title": "喝咖啡时加杯奶双倍抗炎",
+      "topic_id": "231522cef4f403168963c6a87a6371bb429ef2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#建议大家生吃这6种食物#",
+      "rank": 44,
+      "title": "建议大家生吃这6种食物",
+      "topic_id": "2315229a22a8627faa88dd07282522d9969377"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#JackeyLove力竭#",
+      "rank": 45,
+      "title": "JackeyLove力竭",
+      "topic_id": "231522748cbead5b6740deea81d9c7ac4c4aec"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 28,
+      "posts": "saved",
+      "query": "LGD战胜TES",
+      "rank": 46,
+      "title": "LGD战胜TES",
+      "topic_id": "231522ce5b3f5d27ca72d7b89dd18eda2d8fdc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 38,
+      "posts": "saved",
+      "query": "樊振东vs户上隼辅",
+      "rank": 47,
+      "title": "樊振东vs户上隼辅",
+      "topic_id": "231522aeb92dca2b0fe2bc27f86f9eab411f80"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "宋妍霏看阿那亚音乐节",
+      "rank": 48,
+      "title": "宋妍霏看阿那亚音乐节",
+      "topic_id": "23152227328df2e9825702c24094222800936e"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#法院回应镇政府涉纠纷案账户冻结#",
+      "rank": 49,
+      "title": "法院回应镇政府涉纠纷案账户冻结",
+      "topic_id": "231522d4dd5b7c9118b25090a56723f03018d9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#尼日尔爆发军人哗变#",
+      "rank": 50,
+      "title": "尼日尔爆发军人哗变",
+      "topic_id": "231522ab264b810059a76ebfe8b9ac94cb63e7"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
