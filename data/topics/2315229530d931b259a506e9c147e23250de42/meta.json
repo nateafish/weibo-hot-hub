@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1649173367
   },
-  "last_seen_at": "2026-08-30T05:00:00+08:00",
+  "last_seen_at": "2026-08-30T06:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%87%91%E4%BB%B71%E5%B0%8F%E6%97%B6%E8%BF%9E%E9%99%8D4%E6%AC%A1%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "5家媒体",
     "users": [
       {
         "id": 6452231600,
@@ -23,9 +23,23 @@
         "verified_type": 3
       },
       {
+        "id": 2105365573,
+        "idstr": "2105365573",
+        "screen_name": "威海播报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2056962703,
         "idstr": "2056962703",
         "screen_name": "NBD汽车",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1912032243,
+        "idstr": "1912032243",
+        "screen_name": "大庆晚报",
         "verified": true,
         "verified_type": 3
       },
