@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 6511175048
   },
-  "last_seen_at": "2026-08-29T10:00:00+08:00",
+  "last_seen_at": "2026-08-29T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%B0%B7%E7%88%B1%E5%87%8C%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8%E8%B7%AF%E9%80%8F%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "3家媒体",
     "users": [
       {
         "id": 1936119834,
         "idstr": "1936119834",
         "screen_name": "河北长城网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2045624511,
+        "idstr": "2045624511",
+        "screen_name": "济南音乐广播Music887",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1043320390,
+        "idstr": "1043320390",
+        "screen_name": "半岛晨报",
         "verified": true,
         "verified_type": 3
       }

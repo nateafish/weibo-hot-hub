@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-08-29T17:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 1,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#只要有一线希望就尽最大努力救援#",
+      "rank": 1,
+      "title": "只要有一线希望就尽最大努力救援",
+      "topic_id": "231522f6d45851e443be8ea12ba49fb413f319"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 42,
+      "posts": "saved",
+      "query": "#吉隆口岸大楼只剩钢筋骨架#",
+      "rank": 1,
+      "title": "吉隆口岸大楼只剩钢筋骨架",
+      "topic_id": "2315226a83826f3b29014deb2ae96841165dbf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 52,
+      "posts": "saved",
+      "query": "长鑫存储",
+      "rank": 2,
+      "title": "长鑫存储",
+      "topic_id": "2315220862786853942f3b5587e4637d3de5e6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#武警一边搜救一边开辟道路#",
+      "rank": 3,
+      "title": "武警一边搜救一边开辟道路",
+      "topic_id": "2315221e2b7eefe0a1c37d2e6e01e12c89d922"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#井柏然破万海报慷慨且大方#",
+      "rank": 4,
+      "title": "井柏然破万海报慷慨且大方",
+      "topic_id": "231522d80188677888eac55a67e36b45c9ec60"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 33,
+      "posts": "saved",
+      "query": "所有感情好的情侣都有一个共同点",
+      "rank": 5,
+      "title": "所有感情好的情侣都有一个共同点",
+      "topic_id": "2315224d0dafb3d862131bebb2ebf7d012e745"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 42,
+      "posts": "saved",
+      "query": "#官方回应建议取消ETC设备使用#",
+      "rank": 6,
+      "title": "官方回应建议取消ETC设备使用",
+      "topic_id": "23152282e0960377d917550e214f18b0205ad7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 29,
+      "posts": "saved",
+      "query": "#古茗爆单#",
+      "rank": 7,
+      "title": "古茗爆单",
+      "topic_id": "231522eac09724a65deb9d52090b788305fbf9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 26,
+      "posts": "saved",
+      "query": "#现在的月饼都这么卷了吗#",
+      "rank": 8,
+      "title": "现在的月饼都这么卷了吗",
+      "topic_id": "231522e45e3f7d51c6c2211781b7e15ce4ef8e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "早春晴朗",
+      "rank": 9,
+      "title": "早春晴朗",
+      "topic_id": "23152232a83557dc62513442c4c623e727e467"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#上海用纸片买面包太超前了#",
+      "rank": 10,
+      "title": "上海用纸片买面包太超前了",
+      "topic_id": "231522a18352ef298d20d3070855d69e72f7c5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 32,
+      "posts": "saved",
+      "query": "#还以为姜妍生娃了#",
+      "rank": 11,
+      "title": "还以为姜妍生娃了",
+      "topic_id": "231522eb5a341d3787aafe6e15a38190abe1f9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 21,
+      "posts": "saved",
+      "query": "#孙千腰以下全是腿#",
+      "rank": 12,
+      "title": "孙千腰以下全是腿",
+      "topic_id": "231522b71dd15628aa94459aeb425c21bb33d8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "新生儿792万 性别比改善",
+      "rank": 13,
+      "title": "新生儿792万 性别比改善",
+      "topic_id": "2315228255fad39625b82c85f07e90f056f59a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 28,
+      "posts": "saved",
+      "query": "#余承东上手华为全新三折叠#",
+      "rank": 14,
+      "title": "余承东上手华为全新三折叠",
+      "topic_id": "231522000a4b05671bd01256db32b231058ca7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "以为迪丽热巴要媚原来衣服挂到了",
+      "rank": 15,
+      "title": "以为迪丽热巴要媚原来衣服挂到了",
+      "topic_id": "231522ba0edb6e2a7badb037a9b39492cf8142"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 54,
+      "posts": "saved",
+      "query": "早春晴朗破万",
+      "rank": 16,
+      "title": "早春晴朗破万",
+      "topic_id": "231522cb416d15bf76f8c6cc4f4c8898e37707"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#美官员与书记员接吻被指同事友好互动#",
+      "rank": 17,
+      "title": "美官员与书记员接吻被指同事友好互动",
+      "topic_id": "2315225dc3db18ff240e3aee509d55f5459de1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#花开锦绣是正常S级项目#",
+      "rank": 18,
+      "title": "花开锦绣是正常S级项目",
+      "topic_id": "231522b76d0eb19f5427752188ddea81c3fff2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 54,
+      "posts": "saved",
+      "query": "#小米玄戒O3支持长鑫LPDDR6#",
+      "rank": 19,
+      "title": "小米玄戒O3支持长鑫LPDDR6",
+      "topic_id": "2315227f25843e8d09a0e4d5355e614b9e5efd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 40,
+      "posts": "saved",
+      "query": "#乒协同意王楚钦等放弃亚锦赛选拔资格#",
+      "rank": 20,
+      "title": "乒协同意王楚钦等放弃亚锦赛选拔资格",
+      "topic_id": "2315227e4cece78d1cc6864c732cbe8cf166da"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "包贝尔 包文婧",
+      "rank": 21,
+      "title": "包贝尔 包文婧",
+      "topic_id": "231522a447d695b67f3bef3b481d452ce9d6a5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#商家把鲜花插蛋糕上引出35.97亿罚单#",
+      "rank": 22,
+      "title": "商家把鲜花插蛋糕上引出35.97亿罚单",
+      "topic_id": "2315229f7aac2f6ab871520416ad1cf02ba66a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 36,
+      "posts": "saved",
+      "query": "#白鹿更改简介#",
+      "rank": 23,
+      "title": "白鹿更改简介",
+      "topic_id": "23152290fdc1e2aa3680facd6700b54e4792d8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#虞书欣帮粉丝挡胳膊肉#",
+      "rank": 24,
+      "title": "虞书欣帮粉丝挡胳膊肉",
+      "topic_id": "231522768138182a292a942a7980de11042640"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "录音的基本原理",
+      "rank": 25,
+      "title": "录音的基本原理",
+      "topic_id": "23152294897131760761f5618031a86e34cbe8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "韩素希哽咽说以前太为他人而活",
+      "rank": 26,
+      "title": "韩素希哽咽说以前太为他人而活",
+      "topic_id": "2315225aaffe96902ef0da4735a68de80c7587"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "日常抗炎饮食与作息心得",
+      "rank": 27,
+      "title": "日常抗炎饮食与作息心得",
+      "topic_id": "23152233162917564f0efca665a46952c420c1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 29,
+      "posts": "saved",
+      "query": "#一觉醒来金价快速下跌#",
+      "rank": 28,
+      "title": "一觉醒来金价快速下跌",
+      "topic_id": "231522cefdb8e37f2854c8ef34c221a116932a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#你好星期六8月29日推迟播出#",
+      "rank": 29,
+      "title": "你好星期六8月29日推迟播出",
+      "topic_id": "2315228738b68ae5556259c479200a491304ad"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#加紧抢通吉隆口岸道路#",
+      "rank": 30,
+      "title": "加紧抢通吉隆口岸道路",
+      "topic_id": "23152232cc3e2fe2673810ca64d44d834e5657"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "突然意识到自己上年纪的瞬间",
+      "rank": 31,
+      "title": "突然意识到自己上年纪的瞬间",
+      "topic_id": "23152265570a4aa8c69b035be3ed6b40ffcbf5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "#管泽元或无缘世界赛#",
+      "rank": 32,
+      "title": "管泽元或无缘世界赛",
+      "topic_id": "231522117191f27d39eb2dbf0ed0a6bac23c39"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "距离尼泊尔洪水现场最近的实拍影像",
+      "rank": 33,
+      "title": "距离尼泊尔洪水现场最近的实拍影像",
+      "topic_id": "2315225ffd9eb159d14dfc944aa3e3ebe9fa7a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#刘国梁参加国际乒联会议#",
+      "rank": 34,
+      "title": "刘国梁参加国际乒联会议",
+      "topic_id": "231522ab3c50d065b4017b934784777d022174"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 31,
+      "posts": "saved",
+      "query": "#我们都在各自热爱里发光#",
+      "rank": 35,
+      "title": "我们都在各自热爱里发光",
+      "topic_id": "231522d3c7ceb9c929832e54098acee4f1265d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 24,
+      "posts": "saved",
+      "query": "YSL官方发的肖战香港活动",
+      "rank": 36,
+      "title": "YSL官方发的肖战香港活动",
+      "topic_id": "231522cb75a6e74c7542d8b5bd60b78cf2c15b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#谷爱凌线下活动路透#",
+      "rank": 37,
+      "title": "谷爱凌线下活动路透",
+      "topic_id": "231522b64d95df95561952a503a04f38405f77"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#女子遭丈夫杀害母亲变了个人#",
+      "rank": 38,
+      "title": "女子遭丈夫杀害母亲变了个人",
+      "topic_id": "2315223aabefe6a352112bbbeec402bfdd1803"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "吉隆堰塞湖无法爆破泄流",
+      "rank": 39,
+      "title": "吉隆堰塞湖无法爆破泄流",
+      "topic_id": "23152237b62fbb22bbbb3f6b9ca9af07b5053b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "爸妈给的十二斤水果被我扔车站了",
+      "rank": 40,
+      "title": "爸妈给的十二斤水果被我扔车站了",
+      "topic_id": "231522bc87191a5f0eb8865ca348d9da234fb9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#长鑫存储起诉五角大楼#",
+      "rank": 41,
+      "title": "长鑫存储起诉五角大楼",
+      "topic_id": "231522383ff9d099cde7ded2350930ae8f8788"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#刘宇宁泼水之前先给哥哥们道歉#",
+      "rank": 42,
+      "title": "刘宇宁泼水之前先给哥哥们道歉",
+      "topic_id": "231522de8b011fbb24b188e8aeeb08879777af"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 25,
+      "posts": "saved",
+      "query": "吉隆口岸道路抢通",
+      "rank": 43,
+      "title": "吉隆口岸道路抢通",
+      "topic_id": "2315222edd41d536e88a115562b093f05e8728"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#吉隆口岸开展拉网式不间断搜救#",
+      "rank": 44,
+      "title": "吉隆口岸开展拉网式不间断搜救",
+      "topic_id": "231522179c991ead1294b4bcebbe6850387b31"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 32,
+      "posts": "saved",
+      "query": "#虞书欣姐姐都已经30了还陪你们玩这些#",
+      "rank": 45,
+      "title": "虞书欣姐姐都已经30了还陪你们玩这些",
+      "topic_id": "231522b722036a0b8a9de971f908999d3032c2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#老钱风见多了第一次见老田风#",
+      "rank": 46,
+      "title": "老钱风见多了第一次见老田风",
+      "topic_id": "23152257d5a0593e2b2b7a540c270820e51f5f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 51,
+      "posts": "saved",
+      "query": "恋与深空",
+      "rank": 47,
+      "title": "恋与深空",
+      "topic_id": "23152212815f543b6754a64be7a4f150402e82"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "惠英红为救张宥浩撞裂六根肋骨",
+      "rank": 48,
+      "title": "惠英红为救张宥浩撞裂六根肋骨",
+      "topic_id": "2315223c6b5cc6745d69d58649c6dfe3d5ca88"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#孙怡问林一上过热搜吗#",
+      "rank": 49,
+      "title": "孙怡问林一上过热搜吗",
+      "topic_id": "231522ddb0e387e8d05a2919d262744e2ee2ac"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "把利益往对方推一点看清一个人",
+      "rank": 50,
+      "title": "把利益往对方推一点看清一个人",
+      "topic_id": "231522629ef79ed176098f7dd72a53b5e42cfb"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
