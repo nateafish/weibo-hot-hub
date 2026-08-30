@@ -3,15 +3,29 @@
   "created_at": 1788100168,
   "first_seen_at": "2026-08-31T01:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-31T06:00:00+08:00",
+  "last_seen_at": "2026-08-31T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A4%96%E8%80%97%E7%9A%84%E4%BA%BA%E4%B9%9F%E9%95%BF%E7%BB%93%E8%8A%82%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "3家媒体",
     "users": [
       {
         "id": 3514732862,
         "idstr": "3514732862",
         "screen_name": "广西日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2683684161,
+        "idstr": "2683684161",
+        "screen_name": "亳州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1653603955,
+        "idstr": "1653603955",
+        "screen_name": "扬子晚报",
         "verified": true,
         "verified_type": 3
       }
