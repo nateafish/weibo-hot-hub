@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 7308140398
   },
-  "last_seen_at": "2026-08-30T08:00:00+08:00",
+  "last_seen_at": "2026-08-30T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%94%A1%E4%BE%9D%E6%9E%97%E5%9B%9E%E5%BA%947%E7%82%B9%E5%85%B3%E6%9C%BA9%E7%82%B9%E5%8D%8A%E7%9D%A1%E8%A7%89%23%26t%3D3&title=发布媒体",
-    "show_str": "8家媒体",
+    "show_str": "13家媒体",
     "users": [
       {
         "id": 7308140398,
@@ -26,6 +26,13 @@
         "id": 7571346388,
         "idstr": "7571346388",
         "screen_name": "云上河南",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3514732862,
+        "idstr": "3514732862",
+        "screen_name": "广西日报",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1867427515,
         "idstr": "1867427515",
         "screen_name": "新派新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1688864597,
-        "idstr": "1688864597",
-        "screen_name": "河南之声",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1672519561,
-        "idstr": "1672519561",
-        "screen_name": "猛犸新闻",
         "verified": true,
         "verified_type": 3
       }

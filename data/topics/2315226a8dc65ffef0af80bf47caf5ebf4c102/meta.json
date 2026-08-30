@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2028810631
   },
-  "last_seen_at": "2026-08-30T08:00:00+08:00",
+  "last_seen_at": "2026-08-30T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E4%B9%8B%E5%89%8D%E6%9C%89%E4%BA%BA%E7%9B%B4%E6%8E%A5%E6%B8%85%E4%BB%93%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "10家媒体",
     "users": [
       {
         "id": 2028810631,
@@ -23,9 +23,30 @@
         "verified_type": 3
       },
       {
+        "id": 6477929648,
+        "idstr": "6477929648",
+        "screen_name": "晶视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2217754287,
         "idstr": "2217754287",
         "screen_name": "桂林晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2075245652,
+        "idstr": "2075245652",
+        "screen_name": "长春晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -40,20 +61,6 @@
         "id": 1712686623,
         "idstr": "1712686623",
         "screen_name": "手机上的新浪",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1677991972,
-        "idstr": "1677991972",
-        "screen_name": "晶报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1651428902,
-        "idstr": "1651428902",
-        "screen_name": "21世纪经济报道",
         "verified": true,
         "verified_type": 3
       }

@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 2656274875
   },
-  "last_seen_at": "2026-08-30T08:00:00+08:00",
+  "last_seen_at": "2026-08-30T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%B1%B1%E6%B4%AA%E5%B7%B2%E8%87%B4675%E6%AD%BB2498%E5%A4%B1%E8%81%94%23%26t%3D3&title=发布媒体",
-    "show_str": "40家媒体",
+    "show_str": "63家媒体",
     "users": [
       {
         "id": 2656274875,
         "idstr": "2656274875",
         "screen_name": "央视新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3514732862,
+        "idstr": "3514732862",
+        "screen_name": "广西日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1406911561,
+        "idstr": "1406911561",
+        "screen_name": "云南广播电视台",
         "verified": true,
         "verified_type": 3
       },
@@ -30,20 +44,6 @@
         "verified_type": 3
       },
       {
-        "id": 1943154142,
-        "idstr": "1943154142",
-        "screen_name": "中安在线",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1686546714,
-        "idstr": "1686546714",
-        "screen_name": "环球网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 7354234663,
         "idstr": "7354234663",
         "screen_name": "大湾区之声",
@@ -51,16 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 5044281310,
-        "idstr": "5044281310",
-        "screen_name": "澎湃新闻",
+        "id": 5890672121,
+        "idstr": "5890672121",
+        "screen_name": "搜狐新闻",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 3514732862,
-        "idstr": "3514732862",
-        "screen_name": "广西日报",
+        "id": 2337985010,
+        "idstr": "2337985010",
+        "screen_name": "瑞安融媒",
         "verified": true,
         "verified_type": 3
       }
