@@ -3,15 +3,22 @@
   "created_at": 1722543455,
   "first_seen_at": "2026-08-31T00:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-31T05:00:00+08:00",
+  "last_seen_at": "2026-08-31T06:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A5%B3%E6%8E%92+%E6%9C%B1%E5%A9%B7%23%26t%3D3&title=发布媒体",
-    "show_str": "15家媒体",
+    "show_str": "16家媒体",
     "users": [
       {
         "id": 2460937233,
         "idstr": "2460937233",
         "screen_name": "热度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5388240201,
+        "idstr": "5388240201",
+        "screen_name": "南阳日报",
         "verified": true,
         "verified_type": 3
       },
@@ -47,13 +54,6 @@
         "id": 1943154142,
         "idstr": "1943154142",
         "screen_name": "中安在线",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1941424392,
-        "idstr": "1941424392",
-        "screen_name": "台州晚报",
         "verified": true,
         "verified_type": 3
       }

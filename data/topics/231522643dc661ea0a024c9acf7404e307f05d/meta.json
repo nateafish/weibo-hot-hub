@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1974576991
   },
-  "last_seen_at": "2026-08-31T05:00:00+08:00",
+  "last_seen_at": "2026-08-31T06:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%B0%BC%E6%B3%8A%E5%B0%94%E9%87%8D%E5%A4%A7%E7%81%BE%E5%AE%B3%E6%98%AF%E5%86%B0%E5%9C%88%E6%9D%BE%E5%8A%A8%E9%A2%84%E8%AD%A6%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "4家媒体",
     "users": [
       {
         "id": 1974576991,
@@ -23,9 +23,23 @@
         "verified_type": 3
       },
       {
+        "id": 5388240201,
+        "idstr": "5388240201",
+        "screen_name": "南阳日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 5325717502,
         "idstr": "5325717502",
         "screen_name": "长江国际传播中心",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1893892941,
+        "idstr": "1893892941",
+        "screen_name": "北京日报",
         "verified": true,
         "verified_type": 3
       }
