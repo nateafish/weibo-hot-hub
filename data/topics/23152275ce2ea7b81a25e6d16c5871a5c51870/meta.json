@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1974576991
   },
-  "last_seen_at": "2026-08-30T06:00:00+08:00",
+  "last_seen_at": "2026-08-30T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BC%8A%E6%9C%97%E5%8F%91%E4%BA%86%E4%B8%80%E4%B8%AA%E5%98%B2%E8%AE%BD%E7%BE%8E%E5%9B%BD%E7%9A%84%E7%A5%9E%E8%A7%86%E9%A2%91%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "5家媒体",
     "users": [
       {
         "id": 1974576991,
@@ -23,9 +23,30 @@
         "verified_type": 3
       },
       {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1943154142,
         "idstr": "1943154142",
         "screen_name": "中安在线",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1821499183,
+        "idstr": "1821499183",
+        "screen_name": "大连日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1625232640,
+        "idstr": "1625232640",
+        "screen_name": "鲁中晨报",
         "verified": true,
         "verified_type": 3
       }

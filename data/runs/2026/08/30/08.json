@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-08-30T08:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 48,
+    "ai_unchanged": 2,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#习近平主席推动上海精神焕发时代光彩#",
+      "rank": 1,
+      "title": "习近平主席推动上海精神焕发时代光彩",
+      "topic_id": "231522c14af90c9b3bdf693f873c1fabf41645"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 21,
+      "posts": "saved",
+      "query": "#吉隆口岸小邬警官确认平安#",
+      "rank": 1,
+      "title": "吉隆口岸小邬警官确认平安",
+      "topic_id": "23152291372afeef64eef1db1c58da8feee4a5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 54,
+      "posts": "saved",
+      "query": "#樊振东2比3户上隼辅#",
+      "rank": 2,
+      "title": "樊振东2比3户上隼辅",
+      "topic_id": "23152247c1e8bf71d546ebbce037d31747875b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#AI赋能新电商发展#",
+      "rank": 3,
+      "title": "AI赋能新电商发展",
+      "topic_id": "231522dcaae07ceaf2d9ad7841038e5b663c1a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 32,
+      "posts": "saved",
+      "query": "长大后先对什么祛魅了",
+      "rank": 4,
+      "title": "长大后先对什么祛魅了",
+      "topic_id": "231522b016631e897bd74d4a64fa9e8e36f543"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "小说男女主照进现实了",
+      "rank": 5,
+      "title": "小说男女主照进现实了",
+      "topic_id": "23152275ebd5100bde200e3942680ceec22367"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 21,
+      "posts": "saved",
+      "query": "#户上隼辅回应3比2樊振东#",
+      "rank": 6,
+      "title": "户上隼辅回应3比2樊振东",
+      "topic_id": "23152249341e29ef510289db27da6cf388434c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#吉隆口岸沿途挂满衣物碎片#",
+      "rank": 7,
+      "title": "吉隆口岸沿途挂满衣物碎片",
+      "topic_id": "23152205ecd99f8621afe7601e14f3d9b3da7f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 31,
+      "posts": "saved",
+      "query": "#黄景瑜疯狂拥抱宋亚东#",
+      "rank": 8,
+      "title": "黄景瑜疯狂拥抱宋亚东",
+      "topic_id": "2315221d062bfed35ddf7b3a138d269ea21208"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "剧里看到朴允浩整容成柳俊烈",
+      "rank": 9,
+      "title": "剧里看到朴允浩整容成柳俊烈",
+      "topic_id": "2315228bcc0003bb9b9995eb7d075b9c70d01a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#官方通报博主称拔钉被以扬尘叫停#",
+      "rank": 10,
+      "title": "官方通报博主称拔钉被以扬尘叫停",
+      "topic_id": "2315229d09cc5e26d1f04512c1b1dfe6f0d9f9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#吉隆口岸救援挖掘机履带没入急流#",
+      "rank": 11,
+      "title": "吉隆口岸救援挖掘机履带没入急流",
+      "topic_id": "231522e0b08f1b82a768bd962e42b6f74db821"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "#王一博征服西欧最高峰#",
+      "rank": 12,
+      "title": "王一博征服西欧最高峰",
+      "topic_id": "231522568cc989a05b58994426467f59fe7390"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#医生回应女孩游泳后全身长20多个疣#",
+      "rank": 13,
+      "title": "医生回应女孩游泳后全身长20多个疣",
+      "topic_id": "2315222c9d0bde8cc4e90bec01ab18247a60bb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#金价暴跌之前有人直接清仓#",
+      "rank": 14,
+      "title": "金价暴跌之前有人直接清仓",
+      "topic_id": "2315226a8dc65ffef0af80bf47caf5ebf4c102"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "被井柏然吻技演技迷住了",
+      "rank": 15,
+      "title": "被井柏然吻技演技迷住了",
+      "topic_id": "231522ad5173bf07318cfc8504dc73ef5b8214"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "尼泊尔山洪 民众误判",
+      "rank": 16,
+      "title": "尼泊尔山洪 民众误判",
+      "topic_id": "231522e053b7897e9c8224eb00e464af4905b4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#女乘客航班上遭邻座暴力殴打#",
+      "rank": 17,
+      "title": "女乘客航班上遭邻座暴力殴打",
+      "topic_id": "2315227b23998d00a95d1d8b3b6bac63e542e0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 8,
+      "posts": "saved",
+      "query": "14家央国企将开放超60亿条高价值数据",
+      "rank": 18,
+      "title": "14家央国企将开放超60亿条高价值数据",
+      "topic_id": "23152204dc91535c4e55ee8a70b28288e98be6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#王菲躲镜头#",
+      "rank": 19,
+      "title": "王菲躲镜头",
+      "topic_id": "231522b7670161fd958b29c14ab342bc0ac4ba"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#比包贝尔回应先来的是他新剧#",
+      "rank": 20,
+      "title": "比包贝尔回应先来的是他新剧",
+      "topic_id": "23152205393e637ea09bd26dca30f4eb8cc1ae"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#这5种常见蔬菜是抗炎高手#",
+      "rank": 21,
+      "title": "这5种常见蔬菜是抗炎高手",
+      "topic_id": "231522782fe4efe38386e123e5f948db83593a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 30,
+      "posts": "saved",
+      "query": "#苏新皓深夜发文#",
+      "rank": 22,
+      "title": "苏新皓深夜发文",
+      "topic_id": "231522a5643eb59f494915731d04d426cb4e30"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#尼泊尔山洪已致675死2498失联#",
+      "rank": 23,
+      "title": "尼泊尔山洪已致675死2498失联",
+      "topic_id": "231522862c791f203721226d2c7234af9f1a1e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#全球第99高峰一半冰层坠入山谷#",
+      "rank": 24,
+      "title": "全球第99高峰一半冰层坠入山谷",
+      "topic_id": "231522f3fd4e65fc452892d8af47b681d013e8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "#常冰玉击败赵心童夺冠#",
+      "rank": 25,
+      "title": "常冰玉击败赵心童夺冠",
+      "topic_id": "231522061c07861a5c75d88d26bd7b83460482"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#白敬亭孙千待播剧#",
+      "rank": 26,
+      "title": "白敬亭孙千待播剧",
+      "topic_id": "231522988df6bcb4c4591dc4a3cc9a16e35c4f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#睡前喝一杯就能睡得好的真相#",
+      "rank": 27,
+      "title": "睡前喝一杯就能睡得好的真相",
+      "topic_id": "231522286d1d58eab1298181d6ea7a2fb989a8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#蔡依林回应7点关机9点半睡觉#",
+      "rank": 28,
+      "title": "蔡依林回应7点关机9点半睡觉",
+      "topic_id": "231522ac2ac908945a610ce8a8c32e0f20f4f8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#伊朗发了一个嘲讽美国的神视频#",
+      "rank": 29,
+      "title": "伊朗发了一个嘲讽美国的神视频",
+      "topic_id": "23152275ce2ea7b81a25e6d16c5871a5c51870"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 38,
+      "posts": "saved",
+      "query": "苏新皓哭了",
+      "rank": 30,
+      "title": "苏新皓哭了",
+      "topic_id": "231522795b6caf769ad4a3a93258297b57b954"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 33,
+      "posts": "saved",
+      "query": "KPL",
+      "rank": 31,
+      "title": "KPL",
+      "topic_id": "231522361877035a32f3073eb1259ee15286d8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#现实版爷爷和7个葫芦娃火了#",
+      "rank": 32,
+      "title": "现实版爷爷和7个葫芦娃火了",
+      "topic_id": "231522063ba329534897bd2487b0a9a9efc80f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#尼泊尔幸存者称根本来不及逃生#",
+      "rank": 33,
+      "title": "尼泊尔幸存者称根本来不及逃生",
+      "topic_id": "23152237b45dbd02a7d436eb1f758701b4309c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 23,
+      "posts": "saved",
+      "query": "#面馆偶遇王菲李嫣#",
+      "rank": 34,
+      "title": "面馆偶遇王菲李嫣",
+      "topic_id": "231522ed37ba050827dbbef938dc1f0c363c31"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#丽江胁迫游客消费导游被行拘#",
+      "rank": 35,
+      "title": "丽江胁迫游客消费导游被行拘",
+      "topic_id": "2315220f7dd85ac63a7ca77a563d945a5b2677"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#赵心童恭喜常冰玉#",
+      "rank": 36,
+      "title": "赵心童恭喜常冰玉",
+      "topic_id": "2315227f967cd8463dc0949ae2beb37ed0a7eb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "管泽元 BLG",
+      "rank": 37,
+      "title": "管泽元 BLG",
+      "topic_id": "23152208b7e7ae7450eb31481239fe9caceadf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#吉隆口岸入警1年樊乐乐失联#",
+      "rank": 38,
+      "title": "吉隆口岸入警1年樊乐乐失联",
+      "topic_id": "231522b1ff1aca1b2619eea8d39c7ce6c829bb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#李嫣窦靖童宋妍霏再次同框#",
+      "rank": 39,
+      "title": "李嫣窦靖童宋妍霏再次同框",
+      "topic_id": "23152228848d6f683f2694ff2b17acb397dc8d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#萨摩耶坐飞机超重都不耶了#",
+      "rank": 40,
+      "title": "萨摩耶坐飞机超重都不耶了",
+      "topic_id": "231522955950bbfc3f17f45227a3d35426ca80"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#南极水银释放量激增550%#",
+      "rank": 41,
+      "title": "南极水银释放量激增550%",
+      "topic_id": "23152283c6cb33674c9fcb8564116a1258722e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "是我妈在发帖吗",
+      "rank": 42,
+      "title": "是我妈在发帖吗",
+      "topic_id": "2315224d3d0a811c83fca2e7f7a140cdfe264e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女孩咳了一个月肺里竟取出1颗牙#",
+      "rank": 43,
+      "title": "女孩咳了一个月肺里竟取出1颗牙",
+      "topic_id": "2315228d5fe1c8b5a4af50ffc0f00cd6329d6b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#90后守国门警花文燕仍无音信#",
+      "rank": 44,
+      "title": "90后守国门警花文燕仍无音信",
+      "topic_id": "231522d944f963028ca3e930f0ba71d03365cb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#上海通报2名男子高架竞速被抓#",
+      "rank": 45,
+      "title": "上海通报2名男子高架竞速被抓",
+      "topic_id": "231522b09ae6f378f0a4c30d1c382fd72df124"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "田曦薇顶级出装一套比一套美",
+      "rank": 46,
+      "title": "田曦薇顶级出装一套比一套美",
+      "topic_id": "23152206781f27cb502a05a0638808055586ea"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "小米18Fold",
+      "rank": 47,
+      "title": "小米18Fold",
+      "topic_id": "231522d2a1927739db85a6abd50de3569eb7bc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "印度男子被两人当街砍死",
+      "rank": 48,
+      "title": "印度男子被两人当街砍死",
+      "topic_id": "23152229e0bade888372167f67e8ce98ce2be7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#张翰朱梓骁好久不见再坐一桌#",
+      "rank": 49,
+      "title": "张翰朱梓骁好久不见再坐一桌",
+      "topic_id": "231522c92d52001a31749a823e6040ac302869"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 22,
+      "posts": "saved",
+      "query": "云旗老吃家了",
+      "rank": 50,
+      "title": "云旗老吃家了",
+      "topic_id": "2315228403e033b3d51485edcb5365993b7c22"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
