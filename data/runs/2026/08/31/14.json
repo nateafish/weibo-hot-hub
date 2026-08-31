@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-08-31T14:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 1,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#习近平同吉尔吉斯斯坦总统小范围晤谈#",
+      "rank": 1,
+      "title": "习近平同吉尔吉斯斯坦总统小范围晤谈",
+      "topic_id": "231522935f7ba1ee4c5214532081fdcdaaef2f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 52,
+      "posts": "saved",
+      "query": "银行该不该午休",
+      "rank": 1,
+      "title": "银行该不该午休",
+      "topic_id": "231522eaba6900c3494ff68cd9d5ad7338ecdf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#绝味鸭脖为啥卖不动了#",
+      "rank": 2,
+      "title": "绝味鸭脖为啥卖不动了",
+      "topic_id": "231522832a25ed3b7b944be1bcb5c39da4e641"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#争分夺秒打通口岸关键通道#",
+      "rank": 3,
+      "title": "争分夺秒打通口岸关键通道",
+      "topic_id": "2315222fef79691aef71a69a86c462030c79bf"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 53,
+      "posts": "saved",
+      "query": "#尼泊尔泥石流已致903遇难4247失联#",
+      "rank": 4,
+      "title": "尼泊尔泥石流已致903遇难4247失联",
+      "topic_id": "231522ebbcc5c5da15214c975e902c2e8552ce"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "被邻居的6个车位气笑了",
+      "rank": 5,
+      "title": "被邻居的6个车位气笑了",
+      "topic_id": "23152223439a5e3830aabd2664a092f0ae5af8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "芭莎之夜 阵容",
+      "rank": 6,
+      "title": "芭莎之夜 阵容",
+      "topic_id": "231522dc7bb4e4a0d3238bc3d126f3b17ba026"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 27,
+      "posts": "saved",
+      "query": "#井柏然花少下沉口碑#",
+      "rank": 7,
+      "title": "井柏然花少下沉口碑",
+      "topic_id": "231522180206e0658fb9958363bd208b752c40"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 34,
+      "posts": "saved",
+      "query": "#花少2只有陈意涵杨洋是真来旅行的#",
+      "rank": 8,
+      "title": "花少2只有陈意涵杨洋是真来旅行的",
+      "topic_id": "231522ee0b55da112078f6fb5dc116312f006f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 46,
+      "posts": "saved",
+      "query": "英雄联盟",
+      "rank": 9,
+      "title": "英雄联盟",
+      "topic_id": "23152254838a6bbae2a14b0fb0c7905f6a070a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 51,
+      "posts": "saved",
+      "query": "熬夜之后如何正确恢复身体",
+      "rank": 10,
+      "title": "熬夜之后如何正确恢复身体",
+      "topic_id": "2315229c850f61afb9cd643a17a729ff076165"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#多家医院通知解聘#",
+      "rank": 11,
+      "title": "多家医院通知解聘",
+      "topic_id": "2315224acc42bb336dab28aabddbfeaabbcc67"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#蒋欣经纪人说蒋欣吃凉拌黄瓜都会胖#",
+      "rank": 12,
+      "title": "蒋欣经纪人说蒋欣吃凉拌黄瓜都会胖",
+      "topic_id": "231522bc539c374e7c52540abebe5e50b5c2e5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#巩俐易烊千玺无双大片#",
+      "rank": 13,
+      "title": "巩俐易烊千玺无双大片",
+      "topic_id": "23152217c078ebff1bb11491efd557999e8acc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#买完瑞幸出门摔倒致后脑勺出血#",
+      "rank": 14,
+      "title": "买完瑞幸出门摔倒致后脑勺出血",
+      "topic_id": "231522afd2bd9020c15e415209d34a78ee91dc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "早春晴朗",
+      "rank": 15,
+      "title": "早春晴朗",
+      "topic_id": "23152232a83557dc62513442c4c623e727e467"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 23,
+      "posts": "saved",
+      "query": "#Ryan是王菲早期大粉#",
+      "rank": 16,
+      "title": "Ryan是王菲早期大粉",
+      "topic_id": "231522efde4ce65454135d0099a0c1050a5ec1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#尼泊尔900名学生泥石流10秒前撤离#",
+      "rank": 17,
+      "title": "尼泊尔900名学生泥石流10秒前撤离",
+      "topic_id": "2315221e8628fcd59f8f082dc550895995eba7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "中美角逐乌兰察布",
+      "rank": 18,
+      "title": "中美角逐乌兰察布",
+      "topic_id": "231522a0e05f3648f0a31408e21f70a01fc8ef"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 31,
+      "posts": "saved",
+      "query": "#华为三折叠采用全新展翼形态#",
+      "rank": 19,
+      "title": "华为三折叠采用全新展翼形态",
+      "topic_id": "231522d7576b381b625bda29bb4d56e9ac207d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 52,
+      "posts": "saved",
+      "query": "#曝成毅不玩手机被群嘲#",
+      "rank": 20,
+      "title": "曝成毅不玩手机被群嘲",
+      "topic_id": "231522bf36b2bb906b06a8224dcf260d54add6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "三甲医院 解聘",
+      "rank": 21,
+      "title": "三甲医院 解聘",
+      "topic_id": "2315221fd888fddbdc1f2a1b19908632c355d3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#央视曝光医美注射乱象#",
+      "rank": 22,
+      "title": "央视曝光医美注射乱象",
+      "topic_id": "231522cffd09acf8b5cfef69c31ec6118983c4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 27,
+      "posts": "saved",
+      "query": "#Ryan对欧阳娜娜也是搂搂抱抱#",
+      "rank": 23,
+      "title": "Ryan对欧阳娜娜也是搂搂抱抱",
+      "topic_id": "23152220be6d4373c2ccb7e2c69607c7553a76"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "ZmjjKK 我觉得这个世界疯了",
+      "rank": 24,
+      "title": "ZmjjKK 我觉得这个世界疯了",
+      "topic_id": "231522acc86b26da13f0ed85351b1747edcff0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#女性出现4种异常就要查妇科#",
+      "rank": 25,
+      "title": "女性出现4种异常就要查妇科",
+      "topic_id": "231522dfda8b20af50ffeaeacbe2b49f236e35"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 30,
+      "posts": "saved",
+      "query": "#巴黎欧莱雅美发代言人张凌赫#",
+      "rank": 26,
+      "title": "巴黎欧莱雅美发代言人张凌赫",
+      "topic_id": "231522fb04e42f048fb713254110d9b7aadef3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "东北虎你吃吧我实在吃不下了",
+      "rank": 27,
+      "title": "东北虎你吃吧我实在吃不下了",
+      "topic_id": "231522848fced3ab8e7e4b6db8ca66fbf9fc30"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#薛甄珠演过家有儿女#",
+      "rank": 28,
+      "title": "薛甄珠演过家有儿女",
+      "topic_id": "2315222c314b4e637d855795d6806a969888d8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 27,
+      "posts": "saved",
+      "query": "#许晴宁愿付违约金也要退出#",
+      "rank": 29,
+      "title": "许晴宁愿付违约金也要退出",
+      "topic_id": "23152286812821a7cc334b8158f445a87b63ec"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 52,
+      "posts": "saved",
+      "query": "#西藏吉隆泥石流#",
+      "rank": 30,
+      "title": "西藏吉隆泥石流",
+      "topic_id": "231522b9c0fbbde8c840ee1892cef54fafbb6c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "谁来管管现在的小说",
+      "rank": 31,
+      "title": "谁来管管现在的小说",
+      "topic_id": "23152246183bd7dd0c0fcb2756c32f4d7151ac"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "举报代孕机构疑有内鬼泄密",
+      "rank": 32,
+      "title": "举报代孕机构疑有内鬼泄密",
+      "topic_id": "2315229282b942613f1145627c1810446aa5c2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 44,
+      "posts": "saved",
+      "query": "#优酷5年7部破万现偶剧#",
+      "rank": 33,
+      "title": "优酷5年7部破万现偶剧",
+      "topic_id": "23152238c21e6e283e7ce8574eaf67341160de"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#被踢出工作群女生加班证据有几个G#",
+      "rank": 34,
+      "title": "被踢出工作群女生加班证据有几个G",
+      "topic_id": "2315221d26d9d8792923a9506eb887d956db89"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "KPL",
+      "rank": 35,
+      "title": "KPL",
+      "topic_id": "231522361877035a32f3073eb1259ee15286d8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#易坦子融花婚礼合体#",
+      "rank": 36,
+      "title": "易坦子融花婚礼合体",
+      "topic_id": "231522b82c608acf23232d7a5fa0020ba1e4a1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "A股收官之战",
+      "rank": 37,
+      "title": "A股收官之战",
+      "topic_id": "231522754592fd50b45109ac2321a23f6d0a89"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "高铁偶遇失联70年的亲人",
+      "rank": 38,
+      "title": "高铁偶遇失联70年的亲人",
+      "topic_id": "2315221e3037fd816b879aa870600d97c5c40b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#网红刘二狗宣布停播#",
+      "rank": 39,
+      "title": "网红刘二狗宣布停播",
+      "topic_id": "231522feecb94e616e92018d34d1cdde1ab9c4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#全北京最有腔调的男人#",
+      "rank": 40,
+      "title": "全北京最有腔调的男人",
+      "topic_id": "231522180ad42c5131feb7c1a31450702e7a1f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 20,
+      "posts": "saved",
+      "query": "#德约科维奇2比3纳沃内#",
+      "rank": 41,
+      "title": "德约科维奇2比3纳沃内",
+      "topic_id": "231522335acfae61db8804ef06b630e35eaf25"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#关晓彤吃无米版徐福烩饭#",
+      "rank": 42,
+      "title": "关晓彤吃无米版徐福烩饭",
+      "topic_id": "231522c2354382eb505452a54adb9098b831cd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#一吉隆海关人员陪母就医躲过泥石流#",
+      "rank": 43,
+      "title": "一吉隆海关人员陪母就医躲过泥石流",
+      "topic_id": "23152298d9ec2abd4c148929e6a878fc07c14d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 31,
+      "posts": "saved",
+      "query": "银行午休被指服务意识不足",
+      "rank": 44,
+      "title": "银行午休被指服务意识不足",
+      "topic_id": "2315220f3f57ca5a417030787d0851319c892f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "人一旦去过一次新疆",
+      "rank": 45,
+      "title": "人一旦去过一次新疆",
+      "topic_id": "231522b63ffa3239112f9dae9a67482cbadec4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 24,
+      "posts": "saved",
+      "query": "#陈妍希一天的饭量是我的一顿#",
+      "rank": 46,
+      "title": "陈妍希一天的饭量是我的一顿",
+      "topic_id": "231522db670af58dae645f3c0c636d607d9e60"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 23,
+      "posts": "saved",
+      "query": "旺仔小乔解封未道歉",
+      "rank": 47,
+      "title": "旺仔小乔解封未道歉",
+      "topic_id": "231522c74d85434c85d826284849701d407dd0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 28,
+      "posts": "saved",
+      "query": "#中国男人正在抛弃皮鞋#",
+      "rank": 48,
+      "title": "中国男人正在抛弃皮鞋",
+      "topic_id": "231522910033e15055752a13a30ac6e70c1671"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#小黄豆水果店被吐槽太贵#",
+      "rank": 49,
+      "title": "小黄豆水果店被吐槽太贵",
+      "topic_id": "2315228c3877071d61c836d8552aa6cb599fcf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 25,
+      "posts": "saved",
+      "query": "关晓彤陈星旭拥吻路透",
+      "rank": 50,
+      "title": "关晓彤陈星旭拥吻路透",
+      "topic_id": "2315224888aca821984aa11c7a593e5751b1eb"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

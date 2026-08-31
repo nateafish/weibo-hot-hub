@@ -3,10 +3,10 @@
   "created_at": 1788131902,
   "first_seen_at": "2026-08-31T13:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-08-31T13:00:00+08:00",
+  "last_seen_at": "2026-08-31T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%86%AC%E5%A4%9C%E4%B9%8B%E5%90%8E%E5%A6%82%E4%BD%95%E6%AD%A3%E7%A1%AE%E6%81%A2%E5%A4%8D%E8%BA%AB%E4%BD%93%23%26t%3D3&title=发布媒体",
-    "show_str": "136家媒体",
+    "show_str": "144家媒体",
     "users": [
       {
         "id": 1774057271,
@@ -30,6 +30,13 @@
         "verified_type": 3
       },
       {
+        "id": 1744332207,
+        "idstr": "1744332207",
+        "screen_name": "钱江视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1727472420,
         "idstr": "1727472420",
         "screen_name": "泰山晚报",
@@ -47,13 +54,6 @@
         "id": 2252846093,
         "idstr": "2252846093",
         "screen_name": "长春新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3514732862,
-        "idstr": "3514732862",
-        "screen_name": "广西日报",
         "verified": true,
         "verified_type": 3
       }
