@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2286092114
   },
-  "last_seen_at": "2026-08-31T07:00:00+08:00",
+  "last_seen_at": "2026-08-31T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%8E%8B%E6%99%B6%E7%9B%B4%E8%A8%80%E5%86%85%E5%A8%B1%E9%A1%B6%E6%B5%81%E9%83%BD%E4%B8%8D%E4%BC%9A%E6%BC%94%E6%88%8F%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "12家媒体",
     "users": [
       {
         "id": 2286092114,
@@ -23,9 +23,23 @@
         "verified_type": 3
       },
       {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1280846847,
         "idstr": "1280846847",
         "screen_name": "指尖新闻-沈阳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -44,9 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1763569030,
-        "idstr": "1763569030",
-        "screen_name": "新闻深一度",
+        "id": 1821499183,
+        "idstr": "1821499183",
+        "screen_name": "大连日报",
         "verified": true,
         "verified_type": 3
       }
