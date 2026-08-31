@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-08-31T20:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 48,
+    "ai_unchanged": 2,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#习近平同扎帕罗夫会谈#",
+      "rank": 1,
+      "title": "习近平同扎帕罗夫会谈",
+      "topic_id": "2315227e29d1b93b9a592cc369b71b1169cf65"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#吉隆口岸唯一能看到的建筑#",
+      "rank": 1,
+      "title": "吉隆口岸唯一能看到的建筑",
+      "topic_id": "2315224a308c8c0495370bcdc0e034945d7c68"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 21,
+      "posts": "saved",
+      "query": "#子涵梓萱的时代已成过去式#",
+      "rank": 2,
+      "title": "子涵梓萱的时代已成过去式",
+      "topic_id": "23152250d9dd0f34aa618c29d57fbffb74ded6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 5,
+      "posts": "saved",
+      "query": "#中吉环保合作结出务实成果#",
+      "rank": 3,
+      "title": "中吉环保合作结出务实成果",
+      "topic_id": "231522631d0e0ef3f5cea705804989acb4a6a0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 31,
+      "posts": "saved",
+      "query": "重案六组",
+      "rank": 4,
+      "title": "重案六组",
+      "topic_id": "2315225f5db254716223fcc0656651f377f1c1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 49,
+      "posts": "saved",
+      "query": "中国男篮vs黎巴嫩男篮",
+      "rank": 5,
+      "title": "中国男篮vs黎巴嫩男篮",
+      "topic_id": "23152285ede931ad7d652859f41fd21f24dc46"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 37,
+      "posts": "saved",
+      "query": "#华为上半年营收4678亿元#",
+      "rank": 6,
+      "title": "华为上半年营收4678亿元",
+      "topic_id": "231522301acd450bb0a0a65d1e21117bcbe2ef"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#山姆9个月卖了100万个会员#",
+      "rank": 7,
+      "title": "山姆9个月卖了100万个会员",
+      "topic_id": "231522cf1107950effc090f3f583933e50b23a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 30,
+      "posts": "saved",
+      "query": "#2026芭莎之夜阵容官宣#",
+      "rank": 8,
+      "title": "2026芭莎之夜阵容官宣",
+      "topic_id": "2315220a3c9b9532c51d1b9adc3e90aa153411"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "还我季洁",
+      "rank": 9,
+      "title": "还我季洁",
+      "topic_id": "231522bb783d3d9816f295693c4964329262e8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 30,
+      "posts": "saved",
+      "query": "#网红店回应两块榴莲370元#",
+      "rank": 10,
+      "title": "网红店回应两块榴莲370元",
+      "topic_id": "23152249828332f02b74299ccfe499cf402255"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 41,
+      "posts": "saved",
+      "query": "#王鸥回复李小冉#",
+      "rank": 11,
+      "title": "王鸥回复李小冉",
+      "topic_id": "2315227ef2fc1859b323fb60a0a861a8ab8780"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "两小时演唱会休息了80分钟",
+      "rank": 12,
+      "title": "两小时演唱会休息了80分钟",
+      "topic_id": "231522e5e96d771362b232f99bb01a845664d1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "对帅有了新的认知",
+      "rank": 13,
+      "title": "对帅有了新的认知",
+      "topic_id": "23152288f884f9477ee50e21ddaa5a34b4b09b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 23,
+      "posts": "saved",
+      "query": "#九成美考研上岸了#",
+      "rank": 14,
+      "title": "九成美考研上岸了",
+      "topic_id": "2315224e49be91681f0697a3ecfc929e34fb44"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 22,
+      "posts": "saved",
+      "query": "装腔启示录",
+      "rank": 15,
+      "title": "装腔启示录",
+      "topic_id": "2315229ab336a9ed2fa6cfe18d53c83c611ad6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#钱存公积金账户可能比银行利息高#",
+      "rank": 16,
+      "title": "钱存公积金账户可能比银行利息高",
+      "topic_id": "231522e95abd1026709eed882d0dda30075035"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 21,
+      "posts": "saved",
+      "query": "#黄磊回应做饭不好吃#",
+      "rank": 17,
+      "title": "黄磊回应做饭不好吃",
+      "topic_id": "231522a882aa62a400608e71b31b26f4ba3d3c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#马嘉祺鸡蛋歌叫冰箱没有鸡蛋#",
+      "rank": 18,
+      "title": "马嘉祺鸡蛋歌叫冰箱没有鸡蛋",
+      "topic_id": "23152289ae3fc83383db6323748a012a23ec09"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 26,
+      "posts": "saved",
+      "query": "人一旦决定开始省钱",
+      "rank": 19,
+      "title": "人一旦决定开始省钱",
+      "topic_id": "2315228354828aadefd658d37b509c7756b96c"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#20项措施推动消费扩容升级#",
+      "rank": 20,
+      "title": "20项措施推动消费扩容升级",
+      "topic_id": "2315229c35a5b58d866d71a3831a65acf76c0c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "王鸥 我目前独自养育一个孩子",
+      "rank": 21,
+      "title": "王鸥 我目前独自养育一个孩子",
+      "topic_id": "2315227f3d6a33fb51de756d1c6c3ffc7158a7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#耿同学曝有论文工厂直播买卖论文#",
+      "rank": 22,
+      "title": "耿同学曝有论文工厂直播买卖论文",
+      "topic_id": "23152248564b4994a0e0461f94a66284d53253"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "出生人口 双休落实",
+      "rank": 23,
+      "title": "出生人口 双休落实",
+      "topic_id": "23152232a454dd41248933a4436b46ec1ece1a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#曝科大讯飞公关副总裁被解职#",
+      "rank": 24,
+      "title": "曝科大讯飞公关副总裁被解职",
+      "topic_id": "2315221224f9154e668507632075e76867f72b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "三甲医院 解聘",
+      "rank": 25,
+      "title": "三甲医院 解聘",
+      "topic_id": "2315221fd888fddbdc1f2a1b19908632c355d3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "清华美院把航天员画成发面馒头",
+      "rank": 26,
+      "title": "清华美院把航天员画成发面馒头",
+      "topic_id": "2315225094a2ab872355a52d52d984676bc662"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#女子误诊抑郁病治疗3个月暴瘦20斤#",
+      "rank": 27,
+      "title": "女子误诊抑郁病治疗3个月暴瘦20斤",
+      "topic_id": "231522918118855ca10a1bd24db4642e891bc1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 53,
+      "posts": "saved",
+      "query": "#至今不知道杨洋丢失那一晚发生了什么#",
+      "rank": 28,
+      "title": "至今不知道杨洋丢失那一晚发生了什么",
+      "topic_id": "23152298a270d2e9fb0caedfac1e424f326b8f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#白鹿跟小时候有什么区别#",
+      "rank": 29,
+      "title": "白鹿跟小时候有什么区别",
+      "topic_id": "2315221b0a7bd9e3637fd589b1dcbebf9f7a7e"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 53,
+      "posts": "saved",
+      "query": "#尼泊尔泥石流已致903遇难4247失联#",
+      "rank": 30,
+      "title": "尼泊尔泥石流已致903遇难4247失联",
+      "topic_id": "231522ebbcc5c5da15214c975e902c2e8552ce"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#孙千腿长震惊韩网#",
+      "rank": 31,
+      "title": "孙千腿长震惊韩网",
+      "topic_id": "231522b28f3feeb347bc4b34fed32112ca42fc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 52,
+      "posts": "saved",
+      "query": "第五人格",
+      "rank": 32,
+      "title": "第五人格",
+      "topic_id": "2315228fef4f8eac269bed1cd09eb50312ce52"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "#杨洋花少2前后资源#",
+      "rank": 33,
+      "title": "杨洋花少2前后资源",
+      "topic_id": "2315222abea3451fcfd4b1d1795eec153ca38d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 46,
+      "posts": "saved",
+      "query": "#中国羽毛球协会副主席夏煊泽被查#",
+      "rank": 34,
+      "title": "中国羽毛球协会副主席夏煊泽被查",
+      "topic_id": "231522d17c72e7ffa51f658b4b34e3d19b9435"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "后西游记",
+      "rank": 35,
+      "title": "后西游记",
+      "topic_id": "23152211e05d056c5295906fec68205786660c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#多架次直升机驰援吉隆灾区#",
+      "rank": 36,
+      "title": "多架次直升机驰援吉隆灾区",
+      "topic_id": "2315226ed2f76f882547e7ef556770d461f00c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 33,
+      "posts": "saved",
+      "query": "#华为上半年研发投入1213亿元#",
+      "rank": 37,
+      "title": "华为上半年研发投入1213亿元",
+      "topic_id": "231522dd0d931a5c3aecaac5e10bb9034566f9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "冰块也有鄙视链",
+      "rank": 38,
+      "title": "冰块也有鄙视链",
+      "topic_id": "23152206ad6943833adde335a3c4bedbe718b1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "澳门第四起诬告强奸案",
+      "rank": 39,
+      "title": "澳门第四起诬告强奸案",
+      "topic_id": "231522ef8420e1f30aec2debe08cb1d12ea543"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "出生人口 教育没变轻松",
+      "rank": 40,
+      "title": "出生人口 教育没变轻松",
+      "topic_id": "23152249421a4fa57ef89d10ea55831abcd45a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#TF四代新剧收官自拍#",
+      "rank": 41,
+      "title": "TF四代新剧收官自拍",
+      "topic_id": "231522a35e5e4352f1782f4e7fec5aad5e6af8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 39,
+      "posts": "saved",
+      "query": "KPL",
+      "rank": 42,
+      "title": "KPL",
+      "topic_id": "231522361877035a32f3073eb1259ee15286d8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#9图读懂上合组织峰会#",
+      "rank": 43,
+      "title": "9图读懂上合组织峰会",
+      "topic_id": "2315227d354b824cae70c3d024a0e8c36c1f33"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#商场保洁刚拖地孕晚期女子滑倒#",
+      "rank": 44,
+      "title": "商场保洁刚拖地孕晚期女子滑倒",
+      "topic_id": "23152220ca048e9b834c3219a391ad468b5f60"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#小黄豆回应水果店被吐槽贵#",
+      "rank": 45,
+      "title": "小黄豆回应水果店被吐槽贵",
+      "topic_id": "231522163b16df56f7febbc4ee1c2f8a66f9bc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#冰箱制冰已经进化成这样了#",
+      "rank": 46,
+      "title": "冰箱制冰已经进化成这样了",
+      "topic_id": "2315221b413d0d6ed6c7749cf9a69d031872ed"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "出生人口 生育补贴",
+      "rank": 47,
+      "title": "出生人口 生育补贴",
+      "topic_id": "231522d971830fa9da61e208a6a501c02b0dff"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#吉林一事业单位招聘多岗位高分断层#",
+      "rank": 48,
+      "title": "吉林一事业单位招聘多岗位高分断层",
+      "topic_id": "2315225c8d853f2265910261c749aa23467912"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#谁教范丞丞这样倒数的#",
+      "rank": 49,
+      "title": "谁教范丞丞这样倒数的",
+      "topic_id": "231522621386b4b32179c068a71a727b8e8469"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 29,
+      "posts": "saved",
+      "query": "#开学军训硬核防晒防暑神器#",
+      "rank": 50,
+      "title": "开学军训硬核防晒防暑神器",
+      "topic_id": "2315228546878b50f5dd9e845974c88260ba0c"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
