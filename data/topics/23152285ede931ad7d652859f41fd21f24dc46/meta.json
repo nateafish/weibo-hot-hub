@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 6364463717
   },
-  "last_seen_at": "2026-08-31T21:00:00+08:00",
+  "last_seen_at": "2026-08-31T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E9%BB%8E%E5%B7%B4%E5%AB%A9%E7%94%B7%E7%AF%AE%23%26t%3D3&title=发布媒体",
-    "show_str": "69家媒体",
+    "show_str": "112家媒体",
     "users": [
       {
         "id": 6364463717,
@@ -28,6 +28,13 @@
         "screen_name": "中国篮球",
         "verified": true,
         "verified_type": 7
+      },
+      {
+        "id": 1744332207,
+        "idstr": "1744332207",
+        "screen_name": "钱江视频",
+        "verified": true,
+        "verified_type": 3
       },
       {
         "id": 1901333207,
@@ -51,18 +58,11 @@
         "verified_type": 3
       },
       {
-        "id": 1409416544,
-        "idstr": "1409416544",
-        "screen_name": "篮球杂志",
+        "id": 1638781994,
+        "idstr": "1638781994",
+        "screen_name": "新浪体育",
         "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3171897472,
-        "idstr": "3171897472",
-        "screen_name": "直播吧篮球",
-        "verified": true,
-        "verified_type": 3
+        "verified_type": 7
       }
     ]
   },
