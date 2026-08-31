@@ -10,22 +10,15 @@
     "status": 2,
     "uid": 2656274875
   },
-  "last_seen_at": "2026-08-31T20:00:00+08:00",
+  "last_seen_at": "2026-08-31T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A4%9A%E6%9E%B6%E6%AC%A1%E7%9B%B4%E5%8D%87%E6%9C%BA%E9%A9%B0%E6%8F%B4%E5%90%89%E9%9A%86%E7%81%BE%E5%8C%BA%23%26t%3D3&title=发布媒体",
-    "show_str": "43家媒体",
+    "show_str": "56家媒体",
     "users": [
       {
         "id": 2656274875,
         "idstr": "2656274875",
         "screen_name": "央视新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1420157965,
-        "idstr": "1420157965",
-        "screen_name": "上游新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -37,9 +30,23 @@
         "verified_type": 3
       },
       {
+        "id": 1420157965,
+        "idstr": "1420157965",
+        "screen_name": "上游新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1789681642,
         "idstr": "1789681642",
         "screen_name": "第一现场",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -54,13 +61,6 @@
         "id": 3365993480,
         "idstr": "3365993480",
         "screen_name": "福建日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2612146692,
-        "idstr": "2612146692",
-        "screen_name": "凉山日报",
         "verified": true,
         "verified_type": 3
       }
