@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-01T04:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#习近平用吉尔吉斯语向仪仗队员问好#",
+      "rank": 1,
+      "title": "习近平用吉尔吉斯语向仪仗队员问好",
+      "topic_id": "2315222797cbd565a6428a0f32f74ae92f86c8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#郑钦文2比1柳托娃#",
+      "rank": 1,
+      "title": "郑钦文2比1柳托娃",
+      "topic_id": "23152221175a4ee7ffd9bf678a05b4206fe7b0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "一个超好用的情绪控制技巧",
+      "rank": 2,
+      "title": "一个超好用的情绪控制技巧",
+      "topic_id": "2315226789a767d9539947633db21fbd950de9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#20项措施推动消费扩容升级#",
+      "rank": 3,
+      "title": "20项措施推动消费扩容升级",
+      "topic_id": "2315229c35a5b58d866d71a3831a65acf76c0c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#特朗普称伊朗已死#",
+      "rank": 4,
+      "title": "特朗普称伊朗已死",
+      "topic_id": "231522832bfc1c5c1276fef9667299dc381ec3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#阿根廷国家队致敬队长#",
+      "rank": 5,
+      "title": "阿根廷国家队致敬队长",
+      "topic_id": "23152233a3c2e566a8723632fef5cce6f73507"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "好直观的降本增效",
+      "rank": 6,
+      "title": "好直观的降本增效",
+      "topic_id": "2315225fb0b436ca025336198eecb4d87926d2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#尼泊尔泥石流已致939遇难3925失联#",
+      "rank": 7,
+      "title": "尼泊尔泥石流已致939遇难3925失联",
+      "topic_id": "231522f22db3a462d477fe5dabec7e64d9ade1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 45,
+      "posts": "saved",
+      "query": "还我季洁",
+      "rank": 8,
+      "title": "还我季洁",
+      "topic_id": "231522bb783d3d9816f295693c4964329262e8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 52,
+      "posts": "saved",
+      "query": "杨瀚森绝杀",
+      "rank": 9,
+      "title": "杨瀚森绝杀",
+      "topic_id": "2315228adcaf742dda630572f74ed05ca33487"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 53,
+      "posts": "saved",
+      "query": "早春晴朗",
+      "rank": 10,
+      "title": "早春晴朗",
+      "topic_id": "23152232a83557dc62513442c4c623e727e467"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "两小时演唱会休息了80分钟",
+      "rank": 11,
+      "title": "两小时演唱会休息了80分钟",
+      "topic_id": "231522e5e96d771362b232f99bb01a845664d1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#日本男星回应电车内性侵高中女生#",
+      "rank": 12,
+      "title": "日本男星回应电车内性侵高中女生",
+      "topic_id": "231522ce7ea53b3f8c5b54327a9b13b3ef9dbd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#郑钦文vs柳托娃#",
+      "rank": 13,
+      "title": "郑钦文vs柳托娃",
+      "topic_id": "231522b477f0b071fdb9ce7b20463d16ee13bf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#沈腾回应关晓彤无米版徐福烩饭#",
+      "rank": 14,
+      "title": "沈腾回应关晓彤无米版徐福烩饭",
+      "topic_id": "2315220be361e5770343f7ecb584989b2e5879"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#美国炸鸡巨头上海首店代排费150#",
+      "rank": 15,
+      "title": "美国炸鸡巨头上海首店代排费150",
+      "topic_id": "231522339e866d5722b737da091a342d6c550b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#中国男篮绝杀黎巴嫩男篮#",
+      "rank": 16,
+      "title": "中国男篮绝杀黎巴嫩男篮",
+      "topic_id": "2315225f39f16a88bb94a52e83c9c7543bffc9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "重案六组",
+      "rank": 17,
+      "title": "重案六组",
+      "topic_id": "2315225f5db254716223fcc0656651f377f1c1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#郑钦文美网首轮#",
+      "rank": 18,
+      "title": "郑钦文美网首轮",
+      "topic_id": "2315227e40ff309c9b5255304aa5492a063e1e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#子涵梓萱的时代已成过去式#",
+      "rank": 19,
+      "title": "子涵梓萱的时代已成过去式",
+      "topic_id": "23152250d9dd0f34aa618c29d57fbffb74ded6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝科大讯飞公关副总裁被解职#",
+      "rank": 20,
+      "title": "曝科大讯飞公关副总裁被解职",
+      "topic_id": "2315221224f9154e668507632075e76867f72b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "中国影坛最担心的事来了",
+      "rank": 21,
+      "title": "中国影坛最担心的事来了",
+      "topic_id": "23152269e9e2acc263178e66fb189210204e0f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "办婚礼未领证男方去世判决结果",
+      "rank": 22,
+      "title": "办婚礼未领证男方去世判决结果",
+      "topic_id": "231522623f2a348d7abf191f7280071bf2fd2b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "经常看书与不看书的差距有多大",
+      "rank": 23,
+      "title": "经常看书与不看书的差距有多大",
+      "topic_id": "231522d54cce621565e3e975cd4962c4acfd3c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#郑钦文预测胜率低于柳托娃#",
+      "rank": 24,
+      "title": "郑钦文预测胜率低于柳托娃",
+      "topic_id": "231522665fac2bc9e7ea2d33b1f9eca51ba987"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#吉隆口岸唯一能看到的建筑#",
+      "rank": 25,
+      "title": "吉隆口岸唯一能看到的建筑",
+      "topic_id": "2315224a308c8c0495370bcdc0e034945d7c68"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#杨瀚森回应绝杀黎巴嫩男篮#",
+      "rank": 26,
+      "title": "杨瀚森回应绝杀黎巴嫩男篮",
+      "topic_id": "2315221ce5cd8d8039b12fe701706860c99db7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#六大行房贷余额少了5000多亿#",
+      "rank": 27,
+      "title": "六大行房贷余额少了5000多亿",
+      "topic_id": "2315222f3fbf99caad249d04d597eef919f520"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "出生人口 双休落实",
+      "rank": 28,
+      "title": "出生人口 双休落实",
+      "topic_id": "23152232a454dd41248933a4436b46ec1ece1a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#多架次直升机驰援吉隆灾区#",
+      "rank": 29,
+      "title": "多架次直升机驰援吉隆灾区",
+      "topic_id": "2315226ed2f76f882547e7ef556770d461f00c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 22,
+      "posts": "saved",
+      "query": "早春晴朗25.6",
+      "rank": 30,
+      "title": "早春晴朗25.6",
+      "topic_id": "2315222e571afd45576a1d50595af7af8b00cf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "iG王者荣耀分部",
+      "rank": 31,
+      "title": "iG王者荣耀分部",
+      "topic_id": "23152219965a12d7fbc5c3faf651a4971ae067"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "沈腾评论关晓彤无米版徐福烩饭",
+      "rank": 32,
+      "title": "沈腾评论关晓彤无米版徐福烩饭",
+      "topic_id": "2315222056caf4ea56088d84accbb00f4eda88"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 52,
+      "posts": "saved",
+      "query": "第五人格",
+      "rank": 33,
+      "title": "第五人格",
+      "topic_id": "2315228fef4f8eac269bed1cd09eb50312ce52"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#16岁女孩车祸离世母亲恳求归还手机#",
+      "rank": 34,
+      "title": "16岁女孩车祸离世母亲恳求归还手机",
+      "topic_id": "231522f50303d389cedd539b8070922a6e76f3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "一种燃脂不掉肌肉的吃饭方法",
+      "rank": 35,
+      "title": "一种燃脂不掉肌肉的吃饭方法",
+      "topic_id": "2315220e00d8129816cdc7557f1efc9374f092"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#消化了这段话你就能少走五年弯路#",
+      "rank": 36,
+      "title": "消化了这段话你就能少走五年弯路",
+      "topic_id": "231522ae2170c90583f9ffdfb30f5904dcf644"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 4,
+      "posts": "saved",
+      "query": "#这取啥名#",
+      "rank": 37,
+      "title": "这取啥名",
+      "topic_id": "2315224da690c66ece4688db4adab6c4b2c54d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 7,
+      "posts": "saved",
+      "query": "#新加坡女童申请不要弟妹#",
+      "rank": 38,
+      "title": "新加坡女童申请不要弟妹",
+      "topic_id": "2315229699e7971155f21d94bb6575610c44b4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#女子接收诈骗犯男友261万判不用还#",
+      "rank": 39,
+      "title": "女子接收诈骗犯男友261万判不用还",
+      "topic_id": "231522c47ef2608aad770ae2fc7b7b1afce16a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#AI长剧后西游记收视第一#",
+      "rank": 40,
+      "title": "AI长剧后西游记收视第一",
+      "topic_id": "2315228d85144c427cf28d3ea149273aef5106"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "这得看多少集AI漫剧才演这么像",
+      "rank": 41,
+      "title": "这得看多少集AI漫剧才演这么像",
+      "topic_id": "231522a91ab80ab6c1bb8c61b5f0bd67b8632c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#山姆9个月卖了100万个会员#",
+      "rank": 42,
+      "title": "山姆9个月卖了100万个会员",
+      "topic_id": "231522cf1107950effc090f3f583933e50b23a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#中方回应尼政府拒绝外国救援队#",
+      "rank": 43,
+      "title": "中方回应尼政府拒绝外国救援队",
+      "topic_id": "231522d198544e68dbc63f6d5257379fa39533"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#吉隆泥石流搜救犬爪子肿了#",
+      "rank": 44,
+      "title": "吉隆泥石流搜救犬爪子肿了",
+      "topic_id": "231522248e0f633193ed2cff149259d6969dd7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#90元一桶的炸鸡代排费要150元#",
+      "rank": 45,
+      "title": "90元一桶的炸鸡代排费要150元",
+      "topic_id": "231522567037c3eaf2cec8e79e0b3dc60f5e4d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#杨瀚森打出NBA级竞技水平#",
+      "rank": 46,
+      "title": "杨瀚森打出NBA级竞技水平",
+      "topic_id": "231522065bca98ae0cd05740ff371996855820"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "出生人口连锁反应",
+      "rank": 47,
+      "title": "出生人口连锁反应",
+      "topic_id": "2315223f2130c702701a318e23550af8ce71df"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "半是蜜糖半是伤 于中中巅峰",
+      "rank": 48,
+      "title": "半是蜜糖半是伤 于中中巅峰",
+      "topic_id": "231522b80895e2fc08098027ac5f21281c14b7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#严丝合缝的两只小狗#",
+      "rank": 49,
+      "title": "严丝合缝的两只小狗",
+      "topic_id": "2315229c0d178d834b077f901f60121724c02c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#吉隆口岸抢通最后1公里#",
+      "rank": 50,
+      "title": "吉隆口岸抢通最后1公里",
+      "topic_id": "23152214b05db4ba35cf999bef205659fa74f0"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
