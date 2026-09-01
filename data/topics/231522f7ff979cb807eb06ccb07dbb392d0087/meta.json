@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1774057271
   },
-  "last_seen_at": "2026-09-01T16:00:00+08:00",
+  "last_seen_at": "2026-09-01T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9C%88%E7%BB%8F3%E5%A4%A9%E5%92%8C%E6%9C%88%E7%BB%8F7%E5%A4%A9%E5%93%AA%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%81%A5%E5%BA%B7%23%26t%3D3&title=发布媒体",
-    "show_str": "39家媒体",
+    "show_str": "55家媒体",
     "users": [
       {
         "id": 1774057271,
         "idstr": "1774057271",
         "screen_name": "生命时报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1677991972,
+        "idstr": "1677991972",
+        "screen_name": "晶报",
         "verified": true,
         "verified_type": 3
       },
@@ -37,13 +44,6 @@
         "verified_type": 3
       },
       {
-        "id": 1677991972,
-        "idstr": "1677991972",
-        "screen_name": "晶报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 2027480085,
         "idstr": "2027480085",
         "screen_name": "水母网",
@@ -58,9 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 5341241739,
-        "idstr": "5341241739",
-        "screen_name": "网易健康",
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       }

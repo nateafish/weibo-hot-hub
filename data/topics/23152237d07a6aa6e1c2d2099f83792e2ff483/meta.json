@@ -3,10 +3,10 @@
   "created_at": null,
   "first_seen_at": "2026-09-01T12:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-01T16:00:00+08:00",
+  "last_seen_at": "2026-09-01T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%86%85%E5%AD%98%E6%B6%A8%E4%BB%B7%23%26t%3D3&title=发布媒体",
-    "show_str": "90家媒体",
+    "show_str": "107家媒体",
     "users": [
       {
         "id": 1826017320,
@@ -37,13 +37,6 @@
         "verified_type": 3
       },
       {
-        "id": 3275115274,
-        "idstr": "3275115274",
-        "screen_name": "中国吉林网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 2075245652,
         "idstr": "2075245652",
         "screen_name": "长春晚报",
@@ -51,11 +44,18 @@
         "verified_type": 3
       },
       {
-        "id": 2163365571,
-        "idstr": "2163365571",
-        "screen_name": "3DMGAME官方微博",
+        "id": 1677991972,
+        "idstr": "1677991972",
+        "screen_name": "晶报",
         "verified": true,
-        "verified_type": 7
+        "verified_type": 3
+      },
+      {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
+        "verified": true,
+        "verified_type": 3
       }
     ]
   },

@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 6060623902
   },
-  "last_seen_at": "2026-09-01T16:00:00+08:00",
+  "last_seen_at": "2026-09-01T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8F%AF%E5%8F%AF%E9%87%8C%E5%B0%8F%E5%A7%90%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E9%97%AD%E5%BA%97%23%26t%3D3&title=发布媒体",
-    "show_str": "24家媒体",
+    "show_str": "35家媒体",
     "users": [
+      {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1856446532,
         "idstr": "1856446532",
@@ -23,16 +30,16 @@
         "verified_type": 3
       },
       {
-        "id": 2183542485,
-        "idstr": "2183542485",
-        "screen_name": "西安广播电视台",
+        "id": 1677991972,
+        "idstr": "1677991972",
+        "screen_name": "晶报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1677991972,
-        "idstr": "1677991972",
-        "screen_name": "晶报",
+        "id": 2183542485,
+        "idstr": "2183542485",
+        "screen_name": "西安广播电视台",
         "verified": true,
         "verified_type": 3
       },
@@ -56,13 +63,6 @@
         "screen_name": "密度新闻",
         "verified": true,
         "verified_type": 3
-      },
-      {
-        "id": 5665811463,
-        "idstr": "5665811463",
-        "screen_name": "板扎在线",
-        "verified": true,
-        "verified_type": 7
       }
     ]
   },
