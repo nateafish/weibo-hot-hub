@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2318910945
   },
-  "last_seen_at": "2026-09-01T07:00:00+08:00",
+  "last_seen_at": "2026-09-01T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%97%A5%E6%9C%AC%E7%94%B7%E6%98%9F%E5%9B%9E%E5%BA%94%E7%94%B5%E8%BD%A6%E5%86%85%E6%80%A7%E4%BE%B5%E9%AB%98%E4%B8%AD%E5%A5%B3%E7%94%9F%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "23家媒体",
     "users": [
       {
         "id": 2318910945,
         "idstr": "2318910945",
         "screen_name": "新浪热点",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -44,9 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 1805685140,
-        "idstr": "1805685140",
-        "screen_name": "安徽网",
+        "id": 1267454277,
+        "idstr": "1267454277",
+        "screen_name": "凤凰周刊",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6369501744,
+        "idstr": "6369501744",
+        "screen_name": "封面新闻视频",
         "verified": true,
         "verified_type": 3
       }
