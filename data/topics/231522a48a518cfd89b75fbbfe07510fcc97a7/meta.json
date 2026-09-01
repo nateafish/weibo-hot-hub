@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 5291824241
   },
-  "last_seen_at": "2026-09-01T18:00:00+08:00",
+  "last_seen_at": "2026-09-01T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BA%95%E6%9F%8F%E7%84%B6%E6%A0%BE%E5%BF%B5%E8%A2%AB%E5%90%8E%E8%83%8C%E5%90%BB%E7%9A%84%E8%A1%A8%E6%83%85%23%26t%3D3&title=发布媒体",
-    "show_str": "7家媒体",
+    "show_str": "11家媒体",
     "users": [
+      {
+        "id": 1280846847,
+        "idstr": "1280846847",
+        "screen_name": "指尖新闻-沈阳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 7590570074,
         "idstr": "7590570074",
@@ -26,6 +33,13 @@
         "id": 2992050891,
         "idstr": "2992050891",
         "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2683684161,
+        "idstr": "2683684161",
+        "screen_name": "亳州晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 1943154142,
         "idstr": "1943154142",
         "screen_name": "中安在线",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1867427515,
-        "idstr": "1867427515",
-        "screen_name": "新派新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1751714412,
-        "idstr": "1751714412",
-        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       }
