@@ -3,15 +3,22 @@
   "created_at": 1788278392,
   "first_seen_at": "2026-09-02T01:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-02T05:00:00+08:00",
+  "last_seen_at": "2026-09-02T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%8B%B9%E6%9E%9CCEO%E7%89%B9%E5%8A%AA%E6%96%AF%E5%85%A5%E9%A9%BB%E5%BE%AE%E5%8D%9A%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "8家媒体",
     "users": [
       {
         "id": 6418480627,
         "idstr": "6418480627",
         "screen_name": "星视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1649173367,
+        "idstr": "1649173367",
+        "screen_name": "每日经济新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -33,6 +40,20 @@
         "id": 7723479601,
         "idstr": "7723479601",
         "screen_name": "star星视距",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7575030448,
+        "idstr": "7575030448",
+        "screen_name": "白鹿视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
         "verified": true,
         "verified_type": 3
       }
