@@ -10,11 +10,61 @@
     "status": 2,
     "uid": 1923808317
   },
-  "last_seen_at": "2026-09-01T04:00:00+08:00",
+  "last_seen_at": "2026-09-01T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%83%91%E9%92%A6%E6%96%872%E6%AF%941%E6%9F%B3%E6%89%98%E5%A8%83%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "46家媒体",
+    "users": [
+      {
+        "id": 1234849602,
+        "idstr": "1234849602",
+        "screen_name": "新浪网球",
+        "verified": true,
+        "verified_type": 7
+      },
+      {
+        "id": 2356298087,
+        "idstr": "2356298087",
+        "screen_name": "河北经视",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1960785875,
+        "idstr": "1960785875",
+        "screen_name": "津云新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1936119834,
+        "idstr": "1936119834",
+        "screen_name": "河北长城网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7728270349,
+        "idstr": "7728270349",
+        "screen_name": "新闻种草官",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7354234663,
+        "idstr": "7354234663",
+        "screen_name": "大湾区之声",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6115560351,
+        "idstr": "6115560351",
+        "screen_name": "国是直通车",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#郑钦文2比1柳托娃#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%872%E6%AF%941%E6%9F%B3%E6%89%98%E5%A8%83%23",
