@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 6511539524
   },
-  "last_seen_at": "2026-09-01T12:00:00+08:00",
+  "last_seen_at": "2026-09-01T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%89%93%E6%AD%8C2026%E5%AE%98%E5%AE%A3%E5%AE%9A%E6%A1%A3%23%26t%3D3&title=发布媒体",
-    "show_str": "17家媒体",
+    "show_str": "21家媒体",
     "users": [
       {
         "id": 1843633441,
         "idstr": "1843633441",
         "screen_name": "搜狐娱乐",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1796087453,
+        "idstr": "1796087453",
+        "screen_name": "荔枝新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -37,13 +44,6 @@
         "verified_type": 3
       },
       {
-        "id": 1796087453,
-        "idstr": "1796087453",
-        "screen_name": "荔枝新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 1785051807,
         "idstr": "1785051807",
         "screen_name": "江苏音乐台",
@@ -51,16 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 2685336121,
-        "idstr": "2685336121",
-        "screen_name": "南宁晚报",
+        "id": 3514732862,
+        "idstr": "3514732862",
+        "screen_name": "广西日报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1657914910,
-        "idstr": "1657914910",
-        "screen_name": "烟台日报社大小新闻",
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
         "verified": true,
         "verified_type": 3
       }

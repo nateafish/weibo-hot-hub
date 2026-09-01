@@ -3,15 +3,57 @@
   "created_at": 1788235631,
   "first_seen_at": "2026-09-01T12:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-01T12:00:00+08:00",
+  "last_seen_at": "2026-09-01T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%8A%96%E9%9F%B3+%E8%AF%AF%E5%85%A5%E4%B8%AD%E8%80%81%E5%B9%B4%E9%A2%91%E9%81%93%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "8家媒体",
     "users": [
       {
         "id": 2685336121,
         "idstr": "2685336121",
         "screen_name": "南宁晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2075245652,
+        "idstr": "2075245652",
+        "screen_name": "长春晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1043320390,
+        "idstr": "1043320390",
+        "screen_name": "半岛晨报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3288875501,
+        "idstr": "3288875501",
+        "screen_name": "河南日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2183542485,
+        "idstr": "2183542485",
+        "screen_name": "西安广播电视台",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2118120483,
+        "idstr": "2118120483",
+        "screen_name": "青岛日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2115259662,
+        "idstr": "2115259662",
+        "screen_name": "洪观新闻",
         "verified": true,
         "verified_type": 3
       }

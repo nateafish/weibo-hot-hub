@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1699432410
   },
-  "last_seen_at": "2026-09-01T12:00:00+08:00",
+  "last_seen_at": "2026-09-01T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%A5%BF%E8%97%8F%E6%82%BC%E5%BF%B5%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BE%E5%AE%B3%E9%81%87%E9%9A%BE%E8%80%85%23%26t%3D3&title=发布媒体",
-    "show_str": "159家媒体",
+    "show_str": "165家媒体",
     "users": [
       {
         "id": 1699432410,
@@ -26,6 +26,13 @@
         "id": 2286092114,
         "idstr": "2286092114",
         "screen_name": "中国蓝新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1708763410,
+        "idstr": "1708763410",
+        "screen_name": "浙江日报",
         "verified": true,
         "verified_type": 3
       },
@@ -54,13 +61,6 @@
         "id": 1941424392,
         "idstr": "1941424392",
         "screen_name": "台州晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3203137375,
-        "idstr": "3203137375",
-        "screen_name": "四川观察",
         "verified": true,
         "verified_type": 3
       }
