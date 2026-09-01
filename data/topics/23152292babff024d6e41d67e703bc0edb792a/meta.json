@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 3203137375
   },
-  "last_seen_at": "2026-09-02T02:00:00+08:00",
+  "last_seen_at": "2026-09-02T05:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%BE%90%E5%B7%9E12345%E6%B6%8C%E5%85%A5%E4%B8%87%E4%BB%B6%E6%BC%94%E5%94%B1%E4%BC%9A%E8%AF%89%E6%B1%82%23%26t%3D3&title=发布媒体",
-    "show_str": "10家媒体",
+    "show_str": "11家媒体",
     "users": [
       {
         "id": 3203137375,
         "idstr": "3203137375",
         "screen_name": "四川观察",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7141087529,
+        "idstr": "7141087529",
+        "screen_name": "铁骥视频",
         "verified": true,
         "verified_type": 3
       },
@@ -30,9 +37,16 @@
         "verified_type": 3
       },
       {
-        "id": 7141087529,
-        "idstr": "7141087529",
-        "screen_name": "铁骥视频",
+        "id": 2647971081,
+        "idstr": "2647971081",
+        "screen_name": "时速新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1611935011,
+        "idstr": "1611935011",
+        "screen_name": "中国报道",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 6524697382,
         "idstr": "6524697382",
         "screen_name": "四川观察新闻眼",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6524418706,
-        "idstr": "6524418706",
-        "screen_name": "四川观察新视线",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2647971081,
-        "idstr": "2647971081",
-        "screen_name": "时速新闻",
         "verified": true,
         "verified_type": 3
       }
