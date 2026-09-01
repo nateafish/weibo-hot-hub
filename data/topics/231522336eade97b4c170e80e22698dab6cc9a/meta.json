@@ -3,10 +3,10 @@
   "created_at": 1788269112,
   "first_seen_at": "2026-09-01T22:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-01T23:00:00+08:00",
+  "last_seen_at": "2026-09-02T01:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%9A%87%E9%A9%AC+%E4%B8%AD%E5%9B%BD%E8%A5%BF%E8%97%8F%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "6家媒体",
     "users": [
       {
         "id": 7476748260,
@@ -23,9 +23,30 @@
         "verified_type": 3
       },
       {
-        "id": 2685336121,
-        "idstr": "2685336121",
-        "screen_name": "南宁晚报",
+        "id": 6268375888,
+        "idstr": "6268375888",
+        "screen_name": "看看新闻全球眼",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1989020644,
+        "idstr": "1989020644",
+        "screen_name": "STV新闻坊",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1925878362,
+        "idstr": "1925878362",
+        "screen_name": "SMGNEWS",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1845864154,
+        "idstr": "1845864154",
+        "screen_name": "看看新闻Knews",
         "verified": true,
         "verified_type": 3
       }

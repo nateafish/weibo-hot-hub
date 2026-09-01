@@ -3,15 +3,22 @@
   "created_at": 1788263949,
   "first_seen_at": "2026-09-01T22:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-01T23:00:00+08:00",
+  "last_seen_at": "2026-09-02T01:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8F%AF%E5%8F%AF%E9%87%8C%E5%B0%8F%E5%A7%90%E4%BD%8E%E4%BB%B7%E8%B5%B0%E9%87%8F%E6%92%91%E4%B8%8D%E4%BD%8F%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "6家媒体",
     "users": [
       {
         "id": 1913382117,
         "idstr": "1913382117",
         "screen_name": "深圳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497418417,
+        "idstr": "1497418417",
+        "screen_name": "掌上温岭",
         "verified": true,
         "verified_type": 3
       },
