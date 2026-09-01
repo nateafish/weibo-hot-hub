@@ -3,15 +3,36 @@
   "created_at": null,
   "first_seen_at": "2026-09-01T12:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-01T13:00:00+08:00",
+  "last_seen_at": "2026-09-01T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%86%85%E5%AD%98%E6%B6%A8%E4%BB%B7%23%26t%3D3&title=发布媒体",
-    "show_str": "52家媒体",
+    "show_str": "90家媒体",
     "users": [
       {
         "id": 1826017320,
         "idstr": "1826017320",
         "screen_name": "IT之家",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1744332207,
+        "idstr": "1744332207",
+        "screen_name": "钱江视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2286092114,
+        "idstr": "2286092114",
+        "screen_name": "中国蓝新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -23,39 +44,18 @@
         "verified_type": 3
       },
       {
+        "id": 2075245652,
+        "idstr": "2075245652",
+        "screen_name": "长春晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2163365571,
         "idstr": "2163365571",
         "screen_name": "3DMGAME官方微博",
         "verified": true,
         "verified_type": 7
-      },
-      {
-        "id": 1750852843,
-        "idstr": "1750852843",
-        "screen_name": "PChome",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1649672924,
-        "idstr": "1649672924",
-        "screen_name": "机圈说",
-        "verified": true,
-        "verified_type": 0
-      },
-      {
-        "id": 6028520184,
-        "idstr": "6028520184",
-        "screen_name": "维度新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5286142904,
-        "idstr": "5286142904",
-        "screen_name": "极果",
-        "verified": true,
-        "verified_type": 3
       }
     ]
   },
