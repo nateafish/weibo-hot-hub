@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 3203137375
   },
-  "last_seen_at": "2026-09-01T22:00:00+08:00",
+  "last_seen_at": "2026-09-01T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%B7%B1%E5%9C%B3%E6%A0%A1%E6%9C%8D%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BC%95%E5%8F%91%E7%BD%91%E5%8F%8B%E5%85%B1%E9%B8%A3%23%26t%3D3&title=发布媒体",
-    "show_str": "17家媒体",
+    "show_str": "28家媒体",
     "users": [
       {
         "id": 3203137375,
         "idstr": "3203137375",
         "screen_name": "四川观察",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1789681642,
+        "idstr": "1789681642",
+        "screen_name": "第一现场",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1280846847,
+        "idstr": "1280846847",
+        "screen_name": "指尖新闻-沈阳晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 6524418706,
         "idstr": "6524418706",
         "screen_name": "四川观察新视线",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1796087453,
-        "idstr": "1796087453",
-        "screen_name": "荔枝新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1789681642,
-        "idstr": "1789681642",
-        "screen_name": "第一现场",
         "verified": true,
         "verified_type": 3
       }
