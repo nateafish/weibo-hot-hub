@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-01T22:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#习近平出席上合+会议#",
+      "rank": 1,
+      "title": "习近平出席上合+会议",
+      "topic_id": "23152266012a9ffd47b82bad0778586db9f3e4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "手机涨价 卖不动",
+      "rank": 1,
+      "title": "手机涨价 卖不动",
+      "topic_id": "2315227707f9a200b0470bad5027ea6fafb212"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "手机涨价",
+      "rank": 2,
+      "title": "手机涨价",
+      "topic_id": "23152259b7decb7b3cca47422922d38b286180"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#吉隆新增12座应急基站#",
+      "rank": 3,
+      "title": "吉隆新增12座应急基站",
+      "topic_id": "231522236de4d56ac0f510f87af05c8e3334db"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 36,
+      "posts": "saved",
+      "query": "那个用防窥屏的朋友",
+      "rank": 4,
+      "title": "那个用防窥屏的朋友",
+      "topic_id": "231522a3bfc719cdcf05abd905d773e76c73b6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 39,
+      "posts": "saved",
+      "query": "#深圳校服为什么引发网友共鸣#",
+      "rank": 5,
+      "title": "深圳校服为什么引发网友共鸣",
+      "topic_id": "231522daed66d5d2d5366bbf13525aa57109f5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 53,
+      "posts": "saved",
+      "query": "开学第一课",
+      "rank": 6,
+      "title": "开学第一课",
+      "topic_id": "23152238de4709668fd7a9f060bcf00017023e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 51,
+      "posts": "saved",
+      "query": "生逢其时定档",
+      "rank": 7,
+      "title": "生逢其时定档",
+      "topic_id": "231522bdc4c8dbf1290cc925bec34c4a971c2f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "#砸杨瀚森球迷已被批评教育#",
+      "rank": 8,
+      "title": "砸杨瀚森球迷已被批评教育",
+      "topic_id": "23152276bf77937de7c00d68a70e377a6c2cf8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 25,
+      "posts": "saved",
+      "query": "#陈丽君主演首部电视剧要来了#",
+      "rank": 9,
+      "title": "陈丽君主演首部电视剧要来了",
+      "topic_id": "23152226c5289161c516e360e9b57350999342"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 35,
+      "posts": "saved",
+      "query": "#多家车企公布8月交付量#",
+      "rank": 10,
+      "title": "多家车企公布8月交付量",
+      "topic_id": "231522c5e417f9b5f0acd7eac3ed75ddc2bbd9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "皇马 中国西藏",
+      "rank": 11,
+      "title": "皇马 中国西藏",
+      "topic_id": "231522336eade97b4c170e80e22698dab6cc9a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 51,
+      "posts": "saved",
+      "query": "年轻人断亲潮",
+      "rank": 12,
+      "title": "年轻人断亲潮",
+      "topic_id": "2315223dfd6ae72a0326bde6824d5112fbc701"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 26,
+      "posts": "saved",
+      "query": "网传花少2许晴是来救场的",
+      "rank": 13,
+      "title": "网传花少2许晴是来救场的",
+      "topic_id": "231522c473cfa0a23ada44aed54cdff7de18e0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 33,
+      "posts": "saved",
+      "query": "#曝赵樱子得抑郁症了#",
+      "rank": 14,
+      "title": "曝赵樱子得抑郁症了",
+      "topic_id": "2315225fac985d0b3577deb4dcb6a912adb3ee"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 28,
+      "posts": "saved",
+      "query": "家长撕孩子作业老师怎么回复",
+      "rank": 15,
+      "title": "家长撕孩子作业老师怎么回复",
+      "topic_id": "23152233247b84591ea839b80fcd309cb9c387"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 42,
+      "posts": "saved",
+      "query": "可可里小姐低价走量撑不住了",
+      "rank": 16,
+      "title": "可可里小姐低价走量撑不住了",
+      "topic_id": "231522875a633f61dcc1c0bbbe8739a60e5e5a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 35,
+      "posts": "saved",
+      "query": "#李杰灵870万买了个离海只有30米的房子#",
+      "rank": 17,
+      "title": "李杰灵870万买了个离海只有30米的房子",
+      "topic_id": "231522940607242eef395fb3783169d6e58b9d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张晔子问亲孙千的后背吗#",
+      "rank": 18,
+      "title": "张晔子问亲孙千的后背吗",
+      "topic_id": "2315228965664d1fe87958c55df19897bfe3c6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#虎跳峡4分钟山体滑坡画面曝光#",
+      "rank": 19,
+      "title": "虎跳峡4分钟山体滑坡画面曝光",
+      "topic_id": "2315220c364adc8f4df2e2185f8c46791d8c0e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 51,
+      "posts": "saved",
+      "query": "足协杯",
+      "rank": 20,
+      "title": "足协杯",
+      "topic_id": "23152206d48ad98ba519019c048b25ac93abba"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 31,
+      "posts": "saved",
+      "query": "#李敏镐回春了#",
+      "rank": 21,
+      "title": "李敏镐回春了",
+      "topic_id": "2315225df4e7f044cfa846c16efe0665423bdf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "可可里小姐闭店 女装退货率",
+      "rank": 22,
+      "title": "可可里小姐闭店 女装退货率",
+      "topic_id": "2315222df7f76e25d3cd2ef9f434c6ac84d22a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#皇马将西藏与尼泊尔并列拒绝改正#",
+      "rank": 23,
+      "title": "皇马将西藏与尼泊尔并列拒绝改正",
+      "topic_id": "2315228d2176fc44fcc412d61abfb269f8661d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 29,
+      "posts": "saved",
+      "query": "井柏然的吻戏是弯腰往上亲",
+      "rank": 24,
+      "title": "井柏然的吻戏是弯腰往上亲",
+      "topic_id": "2315223a6ad3060bf24d49ecba361579089860"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#找了29年的人已离世24年男子崩溃大哭#",
+      "rank": 25,
+      "title": "找了29年的人已离世24年男子崩溃大哭",
+      "topic_id": "2315222c8eb9be72871de769f9c66f36a58a13"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "被父母全力托举的孩子会不会被养废",
+      "rank": 26,
+      "title": "被父母全力托举的孩子会不会被养废",
+      "topic_id": "231522564dcde77326bbafe64d782189dc0ea1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#白鹿白裙蘑菇头#",
+      "rank": 27,
+      "title": "白鹿白裙蘑菇头",
+      "topic_id": "23152247adc454f2d0a1baa8fb76b501ef178e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#尼泊尔一村庄洪水来袭全过程#",
+      "rank": 28,
+      "title": "尼泊尔一村庄洪水来袭全过程",
+      "topic_id": "231522b277a408d5b1cf65133ce5cc6ce5f8b8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#04年女老师第一次当班主任#",
+      "rank": 29,
+      "title": "04年女老师第一次当班主任",
+      "topic_id": "231522691048007b6961ea2f74fa1f4c6b85f0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#中方回应俄愿将免签制度转为永久性#",
+      "rank": 30,
+      "title": "中方回应俄愿将免签制度转为永久性",
+      "topic_id": "23152265a812824f90ca3fb1f691c5c6b5db32"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 23,
+      "posts": "saved",
+      "query": "#妹妹被扔土崖致死姐姐靠吃药入睡#",
+      "rank": 31,
+      "title": "妹妹被扔土崖致死姐姐靠吃药入睡",
+      "topic_id": "231522a9e95402ebd28f1fe0553b4452ce3a3c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 21,
+      "posts": "saved",
+      "query": "#Angelababy15岁写真#",
+      "rank": 32,
+      "title": "Angelababy15岁写真",
+      "topic_id": "23152283f3aa4f3a73778ab1175d9e143c0157"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "一个狗狗找不到主人的视频火了",
+      "rank": 33,
+      "title": "一个狗狗找不到主人的视频火了",
+      "topic_id": "23152244054df75707cec055ce6036afbb963e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 20,
+      "posts": "saved",
+      "query": "#苹果或将下架11款设备#",
+      "rank": 34,
+      "title": "苹果或将下架11款设备",
+      "topic_id": "231522838ce6d478a53a074e51c32cdcf338dd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "土崖杀妻案",
+      "rank": 35,
+      "title": "土崖杀妻案",
+      "topic_id": "231522b1db7669f64c061209f7d9c8fb69e2be"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 22,
+      "posts": "saved",
+      "query": "#井柏然栾念被后背吻的表情#",
+      "rank": 36,
+      "title": "井柏然栾念被后背吻的表情",
+      "topic_id": "231522a48a518cfd89b75fbbfe07510fcc97a7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 22,
+      "posts": "saved",
+      "query": "#孙千你好辣#",
+      "rank": 37,
+      "title": "孙千你好辣",
+      "topic_id": "2315229b84e4aca7205f0bdffa95cb72372d52"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#香港大药房不仅是骗财更是害人#",
+      "rank": 38,
+      "title": "香港大药房不仅是骗财更是害人",
+      "topic_id": "231522eb673b159aee4a29beb813cae9855853"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#T1晋级S16全球总决赛#",
+      "rank": 39,
+      "title": "T1晋级S16全球总决赛",
+      "topic_id": "2315222a5f64214526a256418968662bdb8817"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#皇马请使用中国西藏#",
+      "rank": 40,
+      "title": "皇马请使用中国西藏",
+      "topic_id": "2315226ef78ef1ef0fe69ad7f426e0f711b06b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#国安题材这尺度国产剧第一次#",
+      "rank": 41,
+      "title": "国安题材这尺度国产剧第一次",
+      "topic_id": "2315220411b3f6c6ede1900f4ea7e449106a55"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#家长质疑花钱请保洁被老师禁言#",
+      "rank": 42,
+      "title": "家长质疑花钱请保洁被老师禁言",
+      "topic_id": "231522a856ced829dc3416e35aaf9ac89b783e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#高圆圆希望自己先走赵又廷收拾后续#",
+      "rank": 43,
+      "title": "高圆圆希望自己先走赵又廷收拾后续",
+      "topic_id": "2315224eb19a3fe09583e7dd7f553fecf899aa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#AG晋级夏季赛六强#",
+      "rank": 44,
+      "title": "AG晋级夏季赛六强",
+      "topic_id": "2315229b557e0091cf7400d95355598583f653"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#才知道老一辈做饭比我们更狠#",
+      "rank": 45,
+      "title": "才知道老一辈做饭比我们更狠",
+      "topic_id": "2315224944f198901eb7a0acfa649d47c681de"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#GEN送T1进世界赛#",
+      "rank": 46,
+      "title": "GEN送T1进世界赛",
+      "topic_id": "2315220db3fd6fb534d3d6de47cdd2563be9ea"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#埃及首都主干道挂起中国国旗#",
+      "rank": 47,
+      "title": "埃及首都主干道挂起中国国旗",
+      "topic_id": "2315223e4cc02aaceb0244a46702bb9981e3c8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 23,
+      "posts": "saved",
+      "query": "#栾念哭给我狠狠哭#",
+      "rank": 48,
+      "title": "栾念哭给我狠狠哭",
+      "topic_id": "231522bb1987ad824f2194f4d64b8cb09b8f74"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#AI一键脱衣教程公然售卖#",
+      "rank": 49,
+      "title": "AI一键脱衣教程公然售卖",
+      "topic_id": "231522babf109e5285dc421882a688f13f3da9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#于东来晒胖东来业绩#",
+      "rank": 50,
+      "title": "于东来晒胖东来业绩",
+      "topic_id": "2315220a8422d9c355cf223462b932b41acd1d"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

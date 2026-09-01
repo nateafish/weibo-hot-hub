@@ -10,11 +10,54 @@
     "status": 2,
     "uid": 2572247607
   },
-  "last_seen_at": "2026-09-01T20:00:00+08:00",
+  "last_seen_at": "2026-09-01T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9D%8E%E6%95%8F%E9%95%90%E5%9B%9E%E6%98%A5%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "6家媒体",
+    "users": [
+      {
+        "id": 1882632930,
+        "idstr": "1882632930",
+        "screen_name": "新消息报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1967926223,
+        "idstr": "1967926223",
+        "screen_name": "FM1031济南交通广播",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1856446532,
+        "idstr": "1856446532",
+        "screen_name": "合新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497418417,
+        "idstr": "1497418417",
+        "screen_name": "掌上温岭",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#李敏镐回春了#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%95%8F%E9%95%90%E5%9B%9E%E6%98%A5%E4%BA%86%23",
