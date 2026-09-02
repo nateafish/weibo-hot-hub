@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 1997509257
   },
-  "last_seen_at": "2026-09-02T19:00:00+08:00",
+  "last_seen_at": "2026-09-02T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%8B%B9%E6%9E%9C%E5%AE%98%E6%96%B9X%E8%B4%A6%E5%8F%B7%E5%8F%96%E5%85%B3%E5%BA%93%E5%85%8B%23%26t%3D3&title=发布媒体",
-    "show_str": "21家媒体",
+    "show_str": "27家媒体",
     "users": [
       {
         "id": 2028810631,
         "idstr": "2028810631",
         "screen_name": "新浪新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7467277921,
+        "idstr": "7467277921",
+        "screen_name": "万维视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1712686623,
+        "idstr": "1712686623",
+        "screen_name": "手机上的新浪",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1642088277,
+        "idstr": "1642088277",
+        "screen_name": "财经网",
         "verified": true,
         "verified_type": 3
       },
@@ -40,27 +61,6 @@
         "id": 7811292935,
         "idstr": "7811292935",
         "screen_name": "简单财经",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7811036863,
-        "idstr": "7811036863",
-        "screen_name": "一品财经",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7805314855,
-        "idstr": "7805314855",
-        "screen_name": "天选视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7746451627,
-        "idstr": "7746451627",
-        "screen_name": "大树财经",
         "verified": true,
         "verified_type": 3
       }

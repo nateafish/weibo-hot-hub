@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 7211346514
   },
-  "last_seen_at": "2026-09-02T19:00:00+08:00",
+  "last_seen_at": "2026-09-02T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BA%95%E6%9F%8F%E7%84%B6Luke%E5%9B%BD%E8%B4%B8%E4%B8%8B%E7%8F%AD%E5%A4%A7%E7%89%87%23%26t%3D3&title=发布媒体",
-    "show_str": "13家媒体",
+    "show_str": "30家媒体",
     "users": [
       {
         "id": 1677991972,
         "idstr": "1677991972",
         "screen_name": "晶报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1725252714,
+        "idstr": "1725252714",
+        "screen_name": "温度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1723167603,
+        "idstr": "1723167603",
+        "screen_name": "950MusicRadio",
         "verified": true,
         "verified_type": 3
       },
@@ -30,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 2647971081,
+        "idstr": "2647971081",
+        "screen_name": "时速新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2535760180,
         "idstr": "2535760180",
         "screen_name": "安徽视讯",
@@ -37,30 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2217754287,
-        "idstr": "2217754287",
-        "screen_name": "桂林晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2106115754,
-        "idstr": "2106115754",
-        "screen_name": "北京文艺广播",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1843633441,
-        "idstr": "1843633441",
-        "screen_name": "搜狐娱乐",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1751714412,
-        "idstr": "1751714412",
-        "screen_name": "大皖新闻",
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
         "verified": true,
         "verified_type": 3
       }

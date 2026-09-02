@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1699432410
   },
-  "last_seen_at": "2026-09-02T19:00:00+08:00",
+  "last_seen_at": "2026-09-02T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E5%9F%83%E5%8F%8A%E6%80%BB%E7%BB%9F%E5%A1%9E%E8%A5%BF%E4%BC%9A%E8%B0%88%23%26t%3D3&title=发布媒体",
-    "show_str": "28家媒体",
+    "show_str": "33家媒体",
     "users": [
       {
         "id": 1699432410,
@@ -26,6 +26,20 @@
         "id": 2810373291,
         "idstr": "2810373291",
         "screen_name": "新华网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3037284894,
+        "idstr": "3037284894",
+        "screen_name": "经济日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3515639462,
+        "idstr": "3515639462",
+        "screen_name": "科技日报",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1402977920,
-        "idstr": "1402977920",
-        "screen_name": "光明日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3515639462,
-        "idstr": "3515639462",
-        "screen_name": "科技日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6587633798,
-        "idstr": "6587633798",
-        "screen_name": "崇义发布",
+        "id": 1752825395,
+        "idstr": "1752825395",
+        "screen_name": "光明网",
         "verified": true,
         "verified_type": 3
       }
