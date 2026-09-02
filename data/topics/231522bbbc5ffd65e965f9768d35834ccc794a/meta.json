@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2656274875
   },
-  "last_seen_at": "2026-09-02T12:00:00+08:00",
+  "last_seen_at": "2026-09-02T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%87%8D%E5%9E%8B%E6%9C%BA%E6%A2%B0%E5%B7%B2%E6%8A%B5%E8%BE%BE%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%E5%A4%A7%E6%A5%BC%23%26t%3D3&title=发布媒体",
-    "show_str": "52家媒体",
+    "show_str": "84家媒体",
     "users": [
       {
         "id": 2656274875,
@@ -26,6 +26,13 @@
         "id": 2460937233,
         "idstr": "2460937233",
         "screen_name": "热度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3365993480,
+        "idstr": "3365993480",
+        "screen_name": "福建日报",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 1699540307,
-        "idstr": "1699540307",
-        "screen_name": "中国之声",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7596378100,
-        "idstr": "7596378100",
-        "screen_name": "会昌融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 7354234663,
         "idstr": "7354234663",
         "screen_name": "大湾区之声",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1974576991,
+        "idstr": "1974576991",
+        "screen_name": "环球时报",
         "verified": true,
         "verified_type": 3
       }
