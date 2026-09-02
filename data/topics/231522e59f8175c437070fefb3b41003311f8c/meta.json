@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 5182171545
   },
-  "last_seen_at": "2026-09-02T17:00:00+08:00",
+  "last_seen_at": "2026-09-02T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E6%98%8E%E5%B9%B4%E5%BA%95AI%E9%80%9A%E5%90%83%E6%95%B0%E5%AD%97%E9%A2%86%E5%9F%9F%E5%B7%A5%E4%BD%9C%23%26t%3D3&title=发布媒体",
-    "show_str": "12家媒体",
+    "show_str": "13家媒体",
     "users": [
       {
         "id": 1738006505,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 1750070171,
+        "idstr": "1750070171",
+        "screen_name": "36氪",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7030322196,
         "idstr": "7030322196",
         "screen_name": "天眼新闻",
@@ -54,13 +61,6 @@
         "id": 5167503212,
         "idstr": "5167503212",
         "screen_name": "贵州日报官微",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2992050891,
-        "idstr": "2992050891",
-        "screen_name": "北京时间",
         "verified": true,
         "verified_type": 3
       }

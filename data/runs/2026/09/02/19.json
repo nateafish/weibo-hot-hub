@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-02T19:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 1,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#习近平同埃及总统塞西会谈#",
+      "rank": 1,
+      "title": "习近平同埃及总统塞西会谈",
+      "topic_id": "231522e9919f9294c5b9b5fc79b9f2c7c3f0cc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#律师回应我国劳动法没强制双休#",
+      "rank": 1,
+      "title": "律师回应我国劳动法没强制双休",
+      "topic_id": "231522610fafe1e24b338c63d10cda4e411c02"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#温州苍南特大暴雨致积涝#",
+      "rank": 2,
+      "title": "温州苍南特大暴雨致积涝",
+      "topic_id": "231522d29dbb043fde7bbb9629081e7b03460b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 25,
+      "posts": "saved",
+      "query": "#吉隆口岸核心区救援通道已抢通#",
+      "rank": 3,
+      "title": "吉隆口岸核心区救援通道已抢通",
+      "topic_id": "231522fd7d08258a9777f3cb24e384344bc8a5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "菅田将晖 山上彻也",
+      "rank": 4,
+      "title": "菅田将晖 山上彻也",
+      "topic_id": "23152204a7939e1964f7d0e7228c302835df73"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#5000美军登陆芭堤雅#",
+      "rank": 5,
+      "title": "5000美军登陆芭堤雅",
+      "topic_id": "23152218e91ac6677c1980672dc73c33c1d089"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 24,
+      "posts": "saved",
+      "query": "直观感受到长期大量阅读的好处",
+      "rank": 6,
+      "title": "直观感受到长期大量阅读的好处",
+      "topic_id": "23152228764de477511a40f7aed3a21cb301e3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 36,
+      "posts": "saved",
+      "query": "#反中乱港分子黄之锋当庭认罪#",
+      "rank": 7,
+      "title": "反中乱港分子黄之锋当庭认罪",
+      "topic_id": "23152250e6c97587fdabe7b43bbcb898426301"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 50,
+      "posts": "saved",
+      "query": "#花儿与少年2026官宣#",
+      "rank": 8,
+      "title": "花儿与少年2026官宣",
+      "topic_id": "231522b8f7df3cc40ae319936721402acf1cd8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 53,
+      "posts": "saved",
+      "query": "#手机涨价以为会疯抢结果询价都没人#",
+      "rank": 9,
+      "title": "手机涨价以为会疯抢结果询价都没人",
+      "topic_id": "2315224225ff80e1987ebc44778d27655a2782"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#国台办回应周子瑜来内地发展#",
+      "rank": 10,
+      "title": "国台办回应周子瑜来内地发展",
+      "topic_id": "231522f22e936b72aa4fdb878e2faea4d542d6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "撞羊赔偿 羊不能带走",
+      "rank": 11,
+      "title": "撞羊赔偿 羊不能带走",
+      "topic_id": "231522199b89ee226d8ef634dd90059f8874ee"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#井柏然Luke国贸下班大片#",
+      "rank": 12,
+      "title": "井柏然Luke国贸下班大片",
+      "topic_id": "23152272f215edcd79ba1a7c9969118eb43ef1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 21,
+      "posts": "saved",
+      "query": "#只有花少4搭了一季帐篷#",
+      "rank": 13,
+      "title": "只有花少4搭了一季帐篷",
+      "topic_id": "2315226275ed14171d97228d19edb1294dbe8e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#当街殴打扒裤女子被刑拘#",
+      "rank": 14,
+      "title": "当街殴打扒裤女子被刑拘",
+      "topic_id": "231522ed7163177a4847d83539b2f45326d317"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "买不到化疗药直接联系制药公司成功",
+      "rank": 15,
+      "title": "买不到化疗药直接联系制药公司成功",
+      "topic_id": "231522ae36163109f8e317f6fa34b63d7ec77f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 36,
+      "posts": "saved",
+      "query": "我的前半生真瓜主来了",
+      "rank": 16,
+      "title": "我的前半生真瓜主来了",
+      "topic_id": "231522b2be60edfd83a3e8d88e57edf0df97b5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "没有性生活也有必要打HPV疫苗",
+      "rank": 17,
+      "title": "没有性生活也有必要打HPV疫苗",
+      "topic_id": "231522dd140a43485df6dad671fb65848a3dc1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 22,
+      "posts": "saved",
+      "query": "马斯克称明年底AI通吃数字领域工作",
+      "rank": 18,
+      "title": "马斯克称明年底AI通吃数字领域工作",
+      "topic_id": "231522e59f8175c437070fefb3b41003311f8c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#外国人来中国抗癌#",
+      "rank": 19,
+      "title": "外国人来中国抗癌",
+      "topic_id": "2315220f12dcb2d6fd20a730d657bf76370486"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "早春晴朗 女性向",
+      "rank": 20,
+      "title": "早春晴朗 女性向",
+      "topic_id": "2315225c9c19e7c63842dea94464f3538b6556"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 30,
+      "posts": "saved",
+      "query": "撞羊赔偿84800元",
+      "rank": 21,
+      "title": "撞羊赔偿84800元",
+      "topic_id": "231522d99f87542416a5360084c5abdd782195"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "突然发现有车之后心态变了",
+      "rank": 22,
+      "title": "突然发现有车之后心态变了",
+      "topic_id": "2315227574f0597796c41696d4c2ae8fbc613a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "#孙艺珍玄彬儿子都这么大了#",
+      "rank": 23,
+      "title": "孙艺珍玄彬儿子都这么大了",
+      "topic_id": "231522d9318e6044e7f31e5b438092db2004de"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#毛不易怎么瘦了这么多#",
+      "rank": 24,
+      "title": "毛不易怎么瘦了这么多",
+      "topic_id": "231522cacbd3759820b25ec36dec1ba1d83dac"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 40,
+      "posts": "saved",
+      "query": "#教体局介入家长群提议集资请保洁#",
+      "rank": 25,
+      "title": "教体局介入家长群提议集资请保洁",
+      "topic_id": "231522813ceac983d99f6c4daff39531fc9e6a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "外网脊椎专家一个视频治疗腰痛",
+      "rank": 26,
+      "title": "外网脊椎专家一个视频治疗腰痛",
+      "topic_id": "231522dec18001d735edc648b01e191e5bc035"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#女子喝冰冻可乐瞬间满嘴血#",
+      "rank": 27,
+      "title": "女子喝冰冻可乐瞬间满嘴血",
+      "topic_id": "231522860ab877a35102a1f816c04153af87f7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 54,
+      "posts": "saved",
+      "query": "#宁静回应杨洋走丢#",
+      "rank": 28,
+      "title": "宁静回应杨洋走丢",
+      "topic_id": "2315227780d7f90db5c9f98330e049bf693b08"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#终于知道什么是沉没成本不参与重大决策了#",
+      "rank": 29,
+      "title": "终于知道什么是沉没成本不参与重大决策了",
+      "topic_id": "2315220863737a99fd7cb0481ec326fa422223"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 43,
+      "posts": "saved",
+      "query": "#失联人员深埋巨石和淤泥之下#",
+      "rank": 30,
+      "title": "失联人员深埋巨石和淤泥之下",
+      "topic_id": "2315220f5756b35397570c1a1833e1f14c1eff"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 20,
+      "posts": "saved",
+      "query": "#苹果官方X账号取关库克#",
+      "rank": 31,
+      "title": "苹果官方X账号取关库克",
+      "topic_id": "2315229d6d8f00aa8c4b59a2354367e6f95a06"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#婆婆摔碗控诉儿媳被儿子制止教育#",
+      "rank": 32,
+      "title": "婆婆摔碗控诉儿媳被儿子制止教育",
+      "topic_id": "231522baf82073e155c90c9c0847b509254512"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "老年痴呆开始的征兆是爱说这几句话",
+      "rank": 33,
+      "title": "老年痴呆开始的征兆是爱说这几句话",
+      "topic_id": "231522bb8db5c0ecabc66d29ff70b9ab557df5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 21,
+      "posts": "saved",
+      "query": "#倪妮井柏然工作室曾发双人图#",
+      "rank": 34,
+      "title": "倪妮井柏然工作室曾发双人图",
+      "topic_id": "231522440a9167eebd6569bf7d63df9c0a0851"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 37,
+      "posts": "saved",
+      "query": "#许晴当年花少2发的动态#",
+      "rank": 35,
+      "title": "许晴当年花少2发的动态",
+      "topic_id": "23152217858535500c3a4c617899681e797ac7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#富爸爸穷爸爸作者自曝负债12亿美元#",
+      "rank": 36,
+      "title": "富爸爸穷爸爸作者自曝负债12亿美元",
+      "topic_id": "231522194f16ae1ccde3e4ab46142a3f4e1284"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#孙千不接古偶仙侠剧的原因#",
+      "rank": 37,
+      "title": "孙千不接古偶仙侠剧的原因",
+      "topic_id": "231522159d3e20786903a1afaaaabf2bffefed"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝安倍遇刺事件将拍成电影#",
+      "rank": 38,
+      "title": "曝安倍遇刺事件将拍成电影",
+      "topic_id": "23152263f0f6e178335149e2d7894562d6b2e3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#星宇股份董事长称正在政府指导下整改#",
+      "rank": 39,
+      "title": "星宇股份董事长称正在政府指导下整改",
+      "topic_id": "231522c9d6845e69e270090306e30fd6e3322e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#中方对G20会议未发表公报深表遗憾#",
+      "rank": 40,
+      "title": "中方对G20会议未发表公报深表遗憾",
+      "topic_id": "231522844feafea696ba6a35ae055d859de480"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#警方呼吁不转发被扒裤女子相关视频#",
+      "rank": 41,
+      "title": "警方呼吁不转发被扒裤女子相关视频",
+      "topic_id": "23152261255b4b42199da655552e21726cee52"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 35,
+      "posts": "saved",
+      "query": "家长投诉老师婚姻状况",
+      "rank": 42,
+      "title": "家长投诉老师婚姻状况",
+      "topic_id": "231522db94802f0fde6ab9edbaa5e71bff7842"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "美国地勤不拔油管扯爆国航油箱",
+      "rank": 43,
+      "title": "美国地勤不拔油管扯爆国航油箱",
+      "topic_id": "231522113ae8865fe229a2a79d27b8f3733e95"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#T1虐泉HLE#",
+      "rank": 44,
+      "title": "T1虐泉HLE",
+      "topic_id": "2315221214730c742d9927ab77c22bf59aa39e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 27,
+      "posts": "saved",
+      "query": "#幼儿园里别人是水杯他是奶瓶#",
+      "rank": 45,
+      "title": "幼儿园里别人是水杯他是奶瓶",
+      "topic_id": "23152229e67889811b9edd2497c610ff604e8f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "李现晒汪苏泷演唱会vlog",
+      "rank": 46,
+      "title": "李现晒汪苏泷演唱会vlog",
+      "topic_id": "2315224719dcaa0299bd9fa95647e00172843e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 50,
+      "posts": "saved",
+      "query": "#小米18Fold西野红#",
+      "rank": 47,
+      "title": "小米18Fold西野红",
+      "topic_id": "231522b2ccd54c82d98aa79e2bd76a62af5c3b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 23,
+      "posts": "saved",
+      "query": "孙颖莎被小学教科书收录",
+      "rank": 48,
+      "title": "孙颖莎被小学教科书收录",
+      "topic_id": "2315226f72158411fc04da01140e371d0f6313"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 47,
+      "posts": "saved",
+      "query": "#洗碗机真的比手洗更省水吗#",
+      "rank": 49,
+      "title": "洗碗机真的比手洗更省水吗",
+      "topic_id": "231522e55b3afbe4b8ccfac6adde4b802b1d15"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "HLE对战T1",
+      "rank": 50,
+      "title": "HLE对战T1",
+      "topic_id": "231522361342f81f766d94a2cad7d1ac37ddc5"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
