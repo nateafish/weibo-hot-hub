@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 6147191568
   },
-  "last_seen_at": "2026-09-02T21:00:00+08:00",
+  "last_seen_at": "2026-09-02T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%AD%99%E5%8D%83%E4%B8%8D%E6%8E%A5%E5%8F%A4%E5%81%B6%E4%BB%99%E4%BE%A0%E5%89%A7%E7%9A%84%E5%8E%9F%E5%9B%A0%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "5家媒体",
     "users": [
       {
         "id": 7708039348,
@@ -30,9 +30,23 @@
         "verified_type": 3
       },
       {
-        "id": 2041117703,
-        "idstr": "2041117703",
-        "screen_name": "合肥日报",
+        "id": 1899227237,
+        "idstr": "1899227237",
+        "screen_name": "青岛早报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1308708761,
+        "idstr": "1308708761",
+        "screen_name": "千山晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1280846847,
+        "idstr": "1280846847",
+        "screen_name": "指尖新闻-沈阳晚报",
         "verified": true,
         "verified_type": 3
       }

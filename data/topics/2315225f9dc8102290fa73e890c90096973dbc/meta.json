@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 7467277921
   },
-  "last_seen_at": "2026-09-02T21:00:00+08:00",
+  "last_seen_at": "2026-09-02T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%BC%A0%E9%9B%AA%E6%83%8A%E8%AE%B697%E5%B2%81%E6%9D%8E%E9%94%A6%E8%AE%B0%E6%8E%8C%E9%97%A8%E4%BA%BA%E5%96%9D%E5%86%B0%E5%8F%AF%E4%B9%90%23%26t%3D3&title=发布媒体",
-    "show_str": "13家媒体",
+    "show_str": "26家媒体",
     "users": [
       {
         "id": 7467277921,
         "idstr": "7467277921",
         "screen_name": "万维视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2337985010,
+        "idstr": "2337985010",
+        "screen_name": "瑞安融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1887344341,
+        "idstr": "1887344341",
+        "screen_name": "观察者网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1847123567,
+        "idstr": "1847123567",
+        "screen_name": "香港商報",
         "verified": true,
         "verified_type": 3
       },
@@ -40,27 +61,6 @@
         "id": 7811817491,
         "idstr": "7811817491",
         "screen_name": "星系生活",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7811609806,
-        "idstr": "7811609806",
-        "screen_name": "汽车观察所",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7811292935,
-        "idstr": "7811292935",
-        "screen_name": "简单财经",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7811036863,
-        "idstr": "7811036863",
-        "screen_name": "一品财经",
         "verified": true,
         "verified_type": 3
       }

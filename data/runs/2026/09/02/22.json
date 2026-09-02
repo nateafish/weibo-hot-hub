@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-02T22:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 1,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#习近平同埃及总统塞西会谈#",
+      "rank": 1,
+      "title": "习近平同埃及总统塞西会谈",
+      "topic_id": "231522e9919f9294c5b9b5fc79b9f2c7c3f0cc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "#微信新功能专治各种看不见#",
+      "rank": 1,
+      "title": "微信新功能专治各种看不见",
+      "topic_id": "2315225425ebb93b9bc391894d8ceb56e8354d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#吉隆泥石流遇难21人失联541人#",
+      "rank": 2,
+      "title": "吉隆泥石流遇难21人失联541人",
+      "topic_id": "231522e76eba7b241c3f1af4c41e5d48252606"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#开局之年看山西#",
+      "rank": 3,
+      "title": "开局之年看山西",
+      "topic_id": "2315228ee6f27a39e0da24c068753a0ce3f933"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 51,
+      "posts": "saved",
+      "query": "#花少2毛阿敏放现在算虐待老人#",
+      "rank": 4,
+      "title": "花少2毛阿敏放现在算虐待老人",
+      "topic_id": "23152285e21aefec1f325036d8b616c679dbe3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张雪惊讶97岁李锦记掌门人喝冰可乐#",
+      "rank": 5,
+      "title": "张雪惊讶97岁李锦记掌门人喝冰可乐",
+      "topic_id": "2315225f9dc8102290fa73e890c90096973dbc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 31,
+      "posts": "saved",
+      "query": "#富爸爸穷爸爸作者自曝负债12亿美元#",
+      "rank": 6,
+      "title": "富爸爸穷爸爸作者自曝负债12亿美元",
+      "topic_id": "231522194f16ae1ccde3e4ab46142a3f4e1284"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 51,
+      "posts": "saved",
+      "query": "直观感受到长期大量阅读的好处",
+      "rank": 7,
+      "title": "直观感受到长期大量阅读的好处",
+      "topic_id": "23152228764de477511a40f7aed3a21cb301e3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#HLE让二追三T1#",
+      "rank": 8,
+      "title": "HLE让二追三T1",
+      "topic_id": "231522483eea461a0ae31f2f3e17498be3e219"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#一针99万元外国人来中国抗癌#",
+      "rank": 9,
+      "title": "一针99万元外国人来中国抗癌",
+      "topic_id": "2315223a64207602c2c985f2a052d5cadd32f4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#花少4开始一个杨幂结束七个杨幂#",
+      "rank": 10,
+      "title": "花少4开始一个杨幂结束七个杨幂",
+      "topic_id": "231522880fdfb12ff8beca24673e1640e563ce"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "韩国电视台公开嫌犯抛尸监控未打码",
+      "rank": 11,
+      "title": "韩国电视台公开嫌犯抛尸监控未打码",
+      "topic_id": "231522fe0df1ca925e8e3046a976820615aa79"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 35,
+      "posts": "saved",
+      "query": "#戚薇回应做AI授权是因为缺钱#",
+      "rank": 12,
+      "title": "戚薇回应做AI授权是因为缺钱",
+      "topic_id": "231522887b5fdf64ac7ea306a88dfdb37d248e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#EXO十二人亲签报价高达百万#",
+      "rank": 13,
+      "title": "EXO十二人亲签报价高达百万",
+      "topic_id": "231522dd789b00e136c5ab3fe3d16152d9a848"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "没有性生活也有必要打HPV疫苗",
+      "rank": 14,
+      "title": "没有性生活也有必要打HPV疫苗",
+      "topic_id": "231522dd140a43485df6dad671fb65848a3dc1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 23,
+      "posts": "saved",
+      "query": "#网红白冰败诉#",
+      "rank": 15,
+      "title": "网红白冰败诉",
+      "topic_id": "231522ce33c4205efc7344f0dff092f99dafee"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 29,
+      "posts": "saved",
+      "query": "#孙千不接古偶仙侠剧的原因#",
+      "rank": 16,
+      "title": "孙千不接古偶仙侠剧的原因",
+      "topic_id": "231522159d3e20786903a1afaaaabf2bffefed"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 20,
+      "posts": "saved",
+      "query": "#中国人14年浴血奋战换来日本投降#",
+      "rank": 17,
+      "title": "中国人14年浴血奋战换来日本投降",
+      "topic_id": "231522bb9c15fa5f079b55d42990385c8d26c3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 26,
+      "posts": "saved",
+      "query": "#井柏然Luke国贸下班大片#",
+      "rank": 18,
+      "title": "井柏然Luke国贸下班大片",
+      "topic_id": "23152272f215edcd79ba1a7c9969118eb43ef1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "青甘大环线撞羊 赔偿",
+      "rank": 19,
+      "title": "青甘大环线撞羊 赔偿",
+      "topic_id": "231522aa42b00cead98613b65f5de397636fbe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 37,
+      "posts": "saved",
+      "query": "#只有花少4搭了一季帐篷#",
+      "rank": 20,
+      "title": "只有花少4搭了一季帐篷",
+      "topic_id": "2315226275ed14171d97228d19edb1294dbe8e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "突然发现有车之后心态变了",
+      "rank": 21,
+      "title": "突然发现有车之后心态变了",
+      "topic_id": "2315227574f0597796c41696d4c2ae8fbc613a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#王俊凯特别设置专场#",
+      "rank": 22,
+      "title": "王俊凯特别设置专场",
+      "topic_id": "231522e091714866fe02d133093e350b5b79c4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 53,
+      "posts": "saved",
+      "query": "#手机涨价以为会疯抢结果询价都没人#",
+      "rank": 23,
+      "title": "手机涨价以为会疯抢结果询价都没人",
+      "topic_id": "2315224225ff80e1987ebc44778d27655a2782"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#女子穿二次元服装酒店喝茶被拒入内#",
+      "rank": 24,
+      "title": "女子穿二次元服装酒店喝茶被拒入内",
+      "topic_id": "2315226c0bd50183025fc3e91c45edc936c7ef"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#爸爸以为妈妈接住了不料宝宝摔落在地#",
+      "rank": 25,
+      "title": "爸爸以为妈妈接住了不料宝宝摔落在地",
+      "topic_id": "231522bccc923edf82f7163195fc4b1178741e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 30,
+      "posts": "saved",
+      "query": "#井柏然曾在家里吻别倪妮#",
+      "rank": 26,
+      "title": "井柏然曾在家里吻别倪妮",
+      "topic_id": "231522d6cabd08b849abb75d946f3ee6e67239"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "普通体检检查这些项目就够了",
+      "rank": 27,
+      "title": "普通体检检查这些项目就够了",
+      "topic_id": "231522c5388abd691543a540148ff0d714bf8e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "汪苏泷回复李现",
+      "rank": 28,
+      "title": "汪苏泷回复李现",
+      "topic_id": "231522aa80becc92c158f2a5021ca3b34c3775"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 33,
+      "posts": "saved",
+      "query": "#3899元的戴森牙刷真不坑穷人#",
+      "rank": 29,
+      "title": "3899元的戴森牙刷真不坑穷人",
+      "topic_id": "231522c8a09d21db92fc6d43327f091b2b211e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#吉隆泥石流灾区发现遗物847件#",
+      "rank": 30,
+      "title": "吉隆泥石流灾区发现遗物847件",
+      "topic_id": "231522c3d325b39a859f8db9bbc73671464029"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "小潮院长致歉",
+      "rank": 31,
+      "title": "小潮院长致歉",
+      "topic_id": "231522ba13821ebc7bc4f1759e84882f410b86"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 41,
+      "posts": "saved",
+      "query": "#教体局介入家长群提议集资请保洁#",
+      "rank": 32,
+      "title": "教体局介入家长群提议集资请保洁",
+      "topic_id": "231522813ceac983d99f6c4daff39531fc9e6a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#何超琼说现在的艺人人设都是包装的#",
+      "rank": 33,
+      "title": "何超琼说现在的艺人人设都是包装的",
+      "topic_id": "231522453d4f4493993d56bd0bab7a1cb4d2c9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#果然年轻人开店活人感就是重#",
+      "rank": 34,
+      "title": "果然年轻人开店活人感就是重",
+      "topic_id": "231522f044a3e260b71ff0137bdd14c97b0b67"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 22,
+      "posts": "saved",
+      "query": "#杨洋花少2里唯一一次无理要求#",
+      "rank": 35,
+      "title": "杨洋花少2里唯一一次无理要求",
+      "topic_id": "231522e4be22c89fa1a80a92e6d69bcc700317"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#孙千拒绝入职李川推荐新公司#",
+      "rank": 36,
+      "title": "孙千拒绝入职李川推荐新公司",
+      "topic_id": "23152240a174769b5b674144564f13646082ca"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#皇马公然挑战中国人的底线#",
+      "rank": 37,
+      "title": "皇马公然挑战中国人的底线",
+      "topic_id": "23152217bce2f4d245f17b12382caa2748a64b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 50,
+      "posts": "saved",
+      "query": "#花儿与少年2026官宣#",
+      "rank": 38,
+      "title": "花儿与少年2026官宣",
+      "topic_id": "231522b8f7df3cc40ae319936721402acf1cd8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 40,
+      "posts": "saved",
+      "query": "#温州苍南特大暴雨致积涝#",
+      "rank": 39,
+      "title": "温州苍南特大暴雨致积涝",
+      "topic_id": "231522d29dbb043fde7bbb9629081e7b03460b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女子喝冰冻可乐瞬间满嘴血#",
+      "rank": 40,
+      "title": "女子喝冰冻可乐瞬间满嘴血",
+      "topic_id": "231522860ab877a35102a1f816c04153af87f7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#婆婆摔碗控诉儿媳被儿子制止教育#",
+      "rank": 41,
+      "title": "婆婆摔碗控诉儿媳被儿子制止教育",
+      "topic_id": "231522baf82073e155c90c9c0847b509254512"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#尼泊尔一栋楼内发现24具遗体#",
+      "rank": 42,
+      "title": "尼泊尔一栋楼内发现24具遗体",
+      "topic_id": "231522a0e29dc2d0c5fa948d95bf00c51c59b5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#国航CA982航班飞机部件损伤#",
+      "rank": 43,
+      "title": "国航CA982航班飞机部件损伤",
+      "topic_id": "231522968d7d768c4ddfcd44080283101fa5b6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#卡萨帝和西门子怎么选#",
+      "rank": 44,
+      "title": "卡萨帝和西门子怎么选",
+      "topic_id": "231522ac59bffa17466095142d0e18fe99da55"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#早春晴朗在外网爆火的原因#",
+      "rank": 45,
+      "title": "早春晴朗在外网爆火的原因",
+      "topic_id": "2315225542121ae4b99e5b3ead8158590e4633"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#九寨沟偶遇林心如#",
+      "rank": 46,
+      "title": "九寨沟偶遇林心如",
+      "topic_id": "2315221585b9deef2950d92f588adbe3a1a9a6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#爸爸牺牲妈妈瞒10年儿子考上军校#",
+      "rank": 47,
+      "title": "爸爸牺牲妈妈瞒10年儿子考上军校",
+      "topic_id": "2315225907ca767efb621f3faff1dfe2043985"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "早春晴朗 奥美",
+      "rank": 48,
+      "title": "早春晴朗 奥美",
+      "topic_id": "2315226b4f1a75fb8b52852d75602879df76a6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#韩凶手抛尸时神态异常平静#",
+      "rank": 49,
+      "title": "韩凶手抛尸时神态异常平静",
+      "topic_id": "231522ecf1cb31fd2e04e1d7919a1e1a3244fa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#孟子义丁禹兮掐脸吻#",
+      "rank": 50,
+      "title": "孟子义丁禹兮掐脸吻",
+      "topic_id": "231522e4f2fc7a1292ee10f5961720092cb5fc"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
