@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1744332207
   },
-  "last_seen_at": "2026-09-02T08:00:00+08:00",
+  "last_seen_at": "2026-09-02T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%B7%B1%E5%9C%B3%E6%A0%A1%E6%9C%8D%E7%81%AB%E4%BA%86%E8%83%8C%E5%90%8E%E6%98%AF%E6%95%99%E8%82%B2%E8%BE%B9%E7%95%8C%E9%97%AE%E9%A2%98%23%26t%3D3&title=发布媒体",
-    "show_str": "13家媒体",
+    "show_str": "39家媒体",
     "users": [
       {
         "id": 1744332207,
         "idstr": "1744332207",
         "screen_name": "钱江视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3229962754,
+        "idstr": "3229962754",
+        "screen_name": "陕视新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7466959462,
         "idstr": "7466959462",
         "screen_name": "钱江频道-九点半",
@@ -37,30 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 6715513747,
+        "idstr": "6715513747",
+        "screen_name": "宁县融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 5822206027,
         "idstr": "5822206027",
         "screen_name": "北斗融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5325240805,
-        "idstr": "5325240805",
-        "screen_name": "铁骥视频海外频道",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2076296802,
-        "idstr": "2076296802",
-        "screen_name": "浙江名医馆",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2011805155,
-        "idstr": "2011805155",
-        "screen_name": "烟台音乐广播",
         "verified": true,
         "verified_type": 3
       }

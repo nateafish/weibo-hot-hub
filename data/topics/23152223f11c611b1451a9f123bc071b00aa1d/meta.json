@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2656274875
   },
-  "last_seen_at": "2026-09-02T08:00:00+08:00",
+  "last_seen_at": "2026-09-02T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%8C%AB%E7%A0%82%E4%BC%81%E4%B8%9A%E8%AF%B7%E4%BA%8648%E4%B8%AA%E7%8C%AB%E5%91%98%E5%B7%A5%23%26t%3D3&title=发布媒体",
-    "show_str": "17家媒体",
+    "show_str": "34家媒体",
     "users": [
       {
         "id": 2656274875,
         "idstr": "2656274875",
         "screen_name": "央视新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +37,30 @@
         "verified_type": 3
       },
       {
-        "id": 6351317189,
-        "idstr": "6351317189",
-        "screen_name": "鞍山广播电视台",
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 3919603060,
-        "idstr": "3919603060",
-        "screen_name": "内蒙古日报",
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 3624248184,
-        "idstr": "3624248184",
-        "screen_name": "陕西网",
+        "id": 7756786365,
+        "idstr": "7756786365",
+        "screen_name": "文登融媒",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 3275115274,
-        "idstr": "3275115274",
-        "screen_name": "中国吉林网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2921799343,
-        "idstr": "2921799343",
-        "screen_name": "天下泉城",
+        "id": 7532425705,
+        "idstr": "7532425705",
+        "screen_name": "嘉祥融媒",
         "verified": true,
         "verified_type": 3
       }
