@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1893892941
   },
-  "last_seen_at": "2026-09-02T09:00:00+08:00",
+  "last_seen_at": "2026-09-02T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%9A%87%E9%A9%AC%E5%B0%86%E8%A5%BF%E8%97%8F%E4%B8%8E%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%B9%B6%E5%88%97%E6%8B%92%E7%BB%9D%E6%94%B9%E6%AD%A3%23%26t%3D3&title=发布媒体",
-    "show_str": "28家媒体",
+    "show_str": "40家媒体",
     "users": [
       {
         "id": 1893892941,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 1697601814,
+        "idstr": "1697601814",
+        "screen_name": "长安街知事",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2685336121,
         "idstr": "2685336121",
         "screen_name": "南宁晚报",
@@ -47,13 +54,6 @@
         "id": 2632236847,
         "idstr": "2632236847",
         "screen_name": "香港文匯網",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1697601814,
-        "idstr": "1697601814",
-        "screen_name": "长安街知事",
         "verified": true,
         "verified_type": 3
       },

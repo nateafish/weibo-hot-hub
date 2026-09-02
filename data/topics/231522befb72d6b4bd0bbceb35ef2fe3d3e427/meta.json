@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2656274875
   },
-  "last_seen_at": "2026-09-02T09:00:00+08:00",
+  "last_seen_at": "2026-09-02T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%97%A5%E6%9C%AC%E6%8A%95%E9%99%8D%E4%BB%AA%E5%BC%8F%E7%BB%93%E6%9D%9F%E5%9C%A89%E6%97%B618%E5%88%86%23%26t%3D3&title=发布媒体",
-    "show_str": "100家媒体",
+    "show_str": "179家媒体",
     "users": [
       {
         "id": 2656274875,
         "idstr": "2656274875",
         "screen_name": "央视新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -37,9 +44,9 @@
         "verified_type": 3
       },
       {
-        "id": 1420157965,
-        "idstr": "1420157965",
-        "screen_name": "上游新闻",
+        "id": 3266943013,
+        "idstr": "3266943013",
+        "screen_name": "央视网",
         "verified": true,
         "verified_type": 3
       },
@@ -51,16 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 3840768703,
-        "idstr": "3840768703",
-        "screen_name": "工人日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2280198017,
-        "idstr": "2280198017",
-        "screen_name": "解放军报",
+        "id": 1420157965,
+        "idstr": "1420157965",
+        "screen_name": "上游新闻",
         "verified": true,
         "verified_type": 3
       }
