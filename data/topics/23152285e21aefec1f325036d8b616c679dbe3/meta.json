@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 3485951707
   },
-  "last_seen_at": "2026-09-02T22:00:00+08:00",
+  "last_seen_at": "2026-09-02T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%8A%B1%E5%B0%912%E6%AF%9B%E9%98%BF%E6%95%8F%E6%94%BE%E7%8E%B0%E5%9C%A8%E7%AE%97%E8%99%90%E5%BE%85%E8%80%81%E4%BA%BA%23%26t%3D3&title=发布媒体",
-    "show_str": "15家媒体",
+    "show_str": "18家媒体",
     "users": [
+      {
+        "id": 2075245652,
+        "idstr": "2075245652",
+        "screen_name": "长春晚报",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 7308140398,
         "idstr": "7308140398",
@@ -26,6 +33,13 @@
         "id": 5168259491,
         "idstr": "5168259491",
         "screen_name": "听听FM",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2535760180,
+        "idstr": "2535760180",
+        "screen_name": "安徽视讯",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 2292899701,
         "idstr": "2292899701",
         "screen_name": "浪涨新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2286092114,
-        "idstr": "2286092114",
-        "screen_name": "中国蓝新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1960785875,
-        "idstr": "1960785875",
-        "screen_name": "津云新闻",
         "verified": true,
         "verified_type": 3
       }
