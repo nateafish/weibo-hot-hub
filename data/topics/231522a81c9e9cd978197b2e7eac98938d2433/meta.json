@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 1699432410
   },
-  "last_seen_at": "2026-09-03T05:00:00+08:00",
+  "last_seen_at": "2026-09-03T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%86%E6%BB%A1%E7%BB%93%E6%9D%9F%E5%AF%B9%E5%9F%83%E5%8F%8A%E7%9A%84%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "7家媒体",
     "users": [
       {
         "id": 1699432410,
         "idstr": "1699432410",
         "screen_name": "新华社",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1663072851,
+        "idstr": "1663072851",
+        "screen_name": "中国日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6890796357,
+        "idstr": "6890796357",
+        "screen_name": "日照日报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,9 +44,16 @@
         "verified_type": 3
       },
       {
-        "id": 1663072851,
-        "idstr": "1663072851",
-        "screen_name": "中国日报",
+        "id": 2280198017,
+        "idstr": "2280198017",
+        "screen_name": "解放军报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1784473157,
+        "idstr": "1784473157",
+        "screen_name": "中国新闻网",
         "verified": true,
         "verified_type": 3
       },
