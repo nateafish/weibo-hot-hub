@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 1653603955
   },
-  "last_seen_at": "2026-09-03T21:00:00+08:00",
+  "last_seen_at": "2026-09-03T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E%E7%BD%91%E7%BA%A2%E8%B4%A6%E5%8F%B7%E6%9C%AA%E8%A2%AB%E5%B0%81%E7%A6%81%23%26t%3D3&title=发布媒体",
-    "show_str": "11家媒体",
+    "show_str": "15家媒体",
     "users": [
+      {
+        "id": 7467277921,
+        "idstr": "7467277921",
+        "screen_name": "万维视频",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1653603955,
         "idstr": "1653603955",
@@ -23,9 +30,16 @@
         "verified_type": 3
       },
       {
-        "id": 7467277921,
-        "idstr": "7467277921",
-        "screen_name": "万维视频",
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2308941133,
+        "idstr": "2308941133",
+        "screen_name": "锦州播报",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 2744190984,
         "idstr": "2744190984",
         "screen_name": "家长大学堂",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2576743032,
-        "idstr": "2576743032",
-        "screen_name": "扬子壹财经",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2056346650,
-        "idstr": "2056346650",
-        "screen_name": "中国江苏网",
         "verified": true,
         "verified_type": 3
       }

@@ -10,11 +10,26 @@
     "status": 2,
     "uid": 2572247607
   },
-  "last_seen_at": "2026-09-03T21:00:00+08:00",
+  "last_seen_at": "2026-09-03T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9D%8E%E6%98%80%E9%94%90%E5%BE%90%E8%8B%A5%E6%99%97%E6%B1%A0%E6%98%8C%E6%97%AD%E5%90%8C%E6%A1%86%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "2家媒体",
+    "users": [
+      {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1912416573,
+        "idstr": "1912416573",
+        "screen_name": "河南手机报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#李昀锐徐若晗池昌旭同框#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%E5%BE%90%E8%8B%A5%E6%99%97%E6%B1%A0%E6%98%8C%E6%97%AD%E5%90%8C%E6%A1%86%23",

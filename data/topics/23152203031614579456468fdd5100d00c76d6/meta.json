@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 2318910945
   },
-  "last_seen_at": "2026-09-03T21:00:00+08:00",
+  "last_seen_at": "2026-09-03T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%BB%84%E6%B8%A4%E9%AA%A8%E6%8A%98%23%26t%3D3&title=发布媒体",
-    "show_str": "61家媒体",
+    "show_str": "75家媒体",
     "users": [
       {
         "id": 1941424392,
         "idstr": "1941424392",
         "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1406911561,
+        "idstr": "1406911561",
+        "screen_name": "云南广播电视台",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2318910945,
+        "idstr": "2318910945",
+        "screen_name": "新浪热点",
         "verified": true,
         "verified_type": 3
       },
@@ -37,30 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2318910945,
-        "idstr": "2318910945",
-        "screen_name": "新浪热点",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7467277921,
-        "idstr": "7467277921",
-        "screen_name": "万维视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 3048800300,
         "idstr": "3048800300",
         "screen_name": "新浪圈子",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1712686623,
-        "idstr": "1712686623",
-        "screen_name": "手机上的新浪",
         "verified": true,
         "verified_type": 3
       }

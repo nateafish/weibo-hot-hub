@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-03T23:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#习近平为践行全球治理倡议凝心聚力#",
+      "rank": 1,
+      "title": "习近平为践行全球治理倡议凝心聚力",
+      "topic_id": "231522dc7da143c285fb30085a877859707fb9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 53,
+      "posts": "saved",
+      "query": "#武大通报教师曾某某被举报#",
+      "rank": 1,
+      "title": "武大通报教师曾某某被举报",
+      "topic_id": "231522119b605a439ce2c81d69ea7cd76d8ff8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "微信 液态玻璃",
+      "rank": 2,
+      "title": "微信 液态玻璃",
+      "topic_id": "23152287c25bd5e119221f69ad4208acebfa92"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#195名消防员轮流深度搜救#",
+      "rank": 3,
+      "title": "195名消防员轮流深度搜救",
+      "topic_id": "2315228c32e335039728ad1ca4835fbd889bc9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "长生 退役",
+      "rank": 4,
+      "title": "长生 退役",
+      "topic_id": "231522b12454b80ccf2eb4ceede27a94dbd58e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "长生说打完今年不想打了",
+      "rank": 5,
+      "title": "长生说打完今年不想打了",
+      "topic_id": "2315224818a4f5e99a96cb140f94b1f41ddcc4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "#原来洗洁精是这么用来洗碗的#",
+      "rank": 6,
+      "title": "原来洗洁精是这么用来洗碗的",
+      "topic_id": "23152245847845767d4422b850bc9b86b110d3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "早春晴朗 结束肮脏的令人作呕的关系",
+      "rank": 7,
+      "title": "早春晴朗 结束肮脏的令人作呕的关系",
+      "topic_id": "2315221a66c78a45dd6d7b043ba0889f81dca5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "微信 单删提示",
+      "rank": 8,
+      "title": "微信 单删提示",
+      "topic_id": "2315220a1a2866ac8ed2d45f6d2046e332c293"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 52,
+      "posts": "saved",
+      "query": "四川地震",
+      "rank": 9,
+      "title": "四川地震",
+      "topic_id": "23152209fd7e1f3b6649e5c9902174538b3770"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "TF家族 新音",
+      "rank": 10,
+      "title": "TF家族 新音",
+      "topic_id": "2315220cab14210861e253d375e6fba5e10c71"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 35,
+      "posts": "saved",
+      "query": "朴时宇给中国菜打低分",
+      "rank": 11,
+      "title": "朴时宇给中国菜打低分",
+      "topic_id": "231522e22818e9713aa2c57faef9b93804b748"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 36,
+      "posts": "saved",
+      "query": "#小米18Fold真机全球首秀#",
+      "rank": 12,
+      "title": "小米18Fold真机全球首秀",
+      "topic_id": "23152222249853a3505b139fc2e9f58b437bbd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 52,
+      "posts": "saved",
+      "query": "TTG战胜AG",
+      "rank": 13,
+      "title": "TTG战胜AG",
+      "topic_id": "231522a7d17451829ea0e11c810df812ea6d7c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "一年级 陈学冬综艺",
+      "rank": 14,
+      "title": "一年级 陈学冬综艺",
+      "topic_id": "231522e47484b19f23bfa629d3fc28351dfac5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "美国癌症治疗",
+      "rank": 15,
+      "title": "美国癌症治疗",
+      "topic_id": "23152214bc5171f9d3c25d451b7bec0bbc56d1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 30,
+      "posts": "saved",
+      "query": "#曝时代峰峻下半年将资源重整#",
+      "rank": 16,
+      "title": "曝时代峰峻下半年将资源重整",
+      "topic_id": "2315229d0ad16343c7938287ee92236736440d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#尼方不会向中国寻求气候正义赔偿#",
+      "rank": 17,
+      "title": "尼方不会向中国寻求气候正义赔偿",
+      "topic_id": "231522191c818e52c5c2c01772d0b4628d6dca"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 48,
+      "posts": "saved",
+      "query": "#李登科说孙千不会升咖#",
+      "rank": 18,
+      "title": "李登科说孙千不会升咖",
+      "topic_id": "231522da8c1b091c2cce20b99b4b5f5ad0e15a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 21,
+      "posts": "saved",
+      "query": "#吉隆口岸救援人员吃上热乎饭#",
+      "rank": 19,
+      "title": "吉隆口岸救援人员吃上热乎饭",
+      "topic_id": "23152213d0dca2254be34ba762a38b5796ae2a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "西安震感",
+      "rank": 20,
+      "title": "西安震感",
+      "topic_id": "2315222cb343ad8df03636b725cd3769a86b2c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 25,
+      "posts": "saved",
+      "query": "#刘雯点赞井柏然国贸大片#",
+      "rank": 21,
+      "title": "刘雯点赞井柏然国贸大片",
+      "topic_id": "231522bcc7323ccc7c6bd6d0b211b49a18299c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#外卖明厨亮灶有直播让人眼前一黑#",
+      "rank": 22,
+      "title": "外卖明厨亮灶有直播让人眼前一黑",
+      "topic_id": "2315228e99e55b9a31799358456b0d80b51aad"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 20,
+      "posts": "saved",
+      "query": "#山东一产妇剖宫产身亡#",
+      "rank": 23,
+      "title": "山东一产妇剖宫产身亡",
+      "topic_id": "231522c3e494c8a9994c87b33ea325624167d2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "#黄渤骨折#",
+      "rank": 24,
+      "title": "黄渤骨折",
+      "topic_id": "23152203031614579456468fdd5100d00c76d6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#李昀锐池昌旭一个敢跳一个敢学#",
+      "rank": 25,
+      "title": "李昀锐池昌旭一个敢跳一个敢学",
+      "topic_id": "231522106edb3a6bcf27f8b35f1540db0c44e9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#香港一家五口花了372块的晚餐#",
+      "rank": 26,
+      "title": "香港一家五口花了372块的晚餐",
+      "topic_id": "2315227b6a4a1351168c93f1bb73b844f656c1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "#芒果或将推出乘风破浪的妹妹#",
+      "rank": 27,
+      "title": "芒果或将推出乘风破浪的妹妹",
+      "topic_id": "231522a3ab603a2bc1fc0a2c97b984541ef9e7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#关晓彤生逢其时首播收视率#",
+      "rank": 28,
+      "title": "关晓彤生逢其时首播收视率",
+      "topic_id": "2315221d04a503bf4291176033e5cdcf3fdca0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#全球股市狂欢或暂停#",
+      "rank": 29,
+      "title": "全球股市狂欢或暂停",
+      "topic_id": "231522ac1a569d7cc6ca5307a892e1aa5592c8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#上海女子住300平大平层花11万收纳#",
+      "rank": 30,
+      "title": "上海女子住300平大平层花11万收纳",
+      "topic_id": "231522f8a216a5751ad0fbaebeba69bda10622"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "井柏然夸刘雯素颜张艺凡震惊",
+      "rank": 31,
+      "title": "井柏然夸刘雯素颜张艺凡震惊",
+      "topic_id": "231522d61dc67d04e2cb5a6e7d106e36502719"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 30,
+      "posts": "saved",
+      "query": "#韩安冉宋浩然一起为女儿庆生#",
+      "rank": 32,
+      "title": "韩安冉宋浩然一起为女儿庆生",
+      "topic_id": "23152201337f0d44bae0618b3961524c717d27"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "住了十年的房子开始报复我",
+      "rank": 33,
+      "title": "住了十年的房子开始报复我",
+      "topic_id": "231522b3d181bfb5b779d0c4bace240c7ba4d0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#宝妈回应11个月宝宝凌晨偷玩手机#",
+      "rank": 34,
+      "title": "宝妈回应11个月宝宝凌晨偷玩手机",
+      "topic_id": "231522b78001fbb8292d282e0e5b59d6e4b2cd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#希望韩国政府切实践行一个中国原则#",
+      "rank": 35,
+      "title": "希望韩国政府切实践行一个中国原则",
+      "topic_id": "231522bfb40e2acfbbe2dbb455a9e12964fd65"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 49,
+      "posts": "saved",
+      "query": "#朴彩英拒绝100亿韩元中国奶茶代言#",
+      "rank": 36,
+      "title": "朴彩英拒绝100亿韩元中国奶茶代言",
+      "topic_id": "23152279d8f7839136a644cfc599aa43f7e8f6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#陈瑶的生活我的梦#",
+      "rank": 37,
+      "title": "陈瑶的生活我的梦",
+      "topic_id": "2315222d7e5a0b5d8c60c695a580434ee8037e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#3岁男童长期吃隔夜菜中毒住进PICU#",
+      "rank": 38,
+      "title": "3岁男童长期吃隔夜菜中毒住进PICU",
+      "topic_id": "23152201006eba07a00a94b61f1064bc39f974"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#孔雪儿天行九歌紫女出妆#",
+      "rank": 39,
+      "title": "孔雪儿天行九歌紫女出妆",
+      "topic_id": "231522ae050db22b05444370f9c9c8fce4004f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 26,
+      "posts": "saved",
+      "query": "#李昀锐徐若晗池昌旭同框#",
+      "rank": 40,
+      "title": "李昀锐徐若晗池昌旭同框",
+      "topic_id": "2315222e4139b0d0758802dbcf4f9092e2b45c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "AG纪录片看哭了",
+      "rank": 41,
+      "title": "AG纪录片看哭了",
+      "topic_id": "2315226dc532d2adc29233b2713e8dcbc9c914"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 21,
+      "posts": "saved",
+      "query": "#段奕宏盛赞神行者8有底气#",
+      "rank": 42,
+      "title": "段奕宏盛赞神行者8有底气",
+      "topic_id": "23152226999cfafabb80128a18471393f90467"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#特斯拉预告新时代即将到来#",
+      "rank": 43,
+      "title": "特斯拉预告新时代即将到来",
+      "topic_id": "23152242f067ead24294994bff12ea1ae8e2f3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "#偷税漏税网红账号未被封禁#",
+      "rank": 44,
+      "title": "偷税漏税网红账号未被封禁",
+      "topic_id": "231522bce314aa25dbd2222ab80bbb5c1f45be"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 34,
+      "posts": "saved",
+      "query": "严浩翔进行曲",
+      "rank": 45,
+      "title": "严浩翔进行曲",
+      "topic_id": "231522fd4cf74592227e14b9c0f25c60c5b6d9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 21,
+      "posts": "saved",
+      "query": "爷爷生前偷偷给我买的保险叫美满一生",
+      "rank": 46,
+      "title": "爷爷生前偷偷给我买的保险叫美满一生",
+      "topic_id": "231522f22a850604d29fde6b9596b15161a15d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#尚之桃竞聘失败#",
+      "rank": 47,
+      "title": "尚之桃竞聘失败",
+      "topic_id": "2315225b66eb0ae175a4258387535540a56fc2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#网传沈月林允参加乘风破浪的妹妹#",
+      "rank": 48,
+      "title": "网传沈月林允参加乘风破浪的妹妹",
+      "topic_id": "231522464d809d0ef3fbf2c81274547333858f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "康佳主动退市",
+      "rank": 49,
+      "title": "康佳主动退市",
+      "topic_id": "231522f9148f0ff2aa214884aa8df789b5f88a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "孙千 升咖",
+      "rank": 50,
+      "title": "孙千 升咖",
+      "topic_id": "23152218ee6a9ef8d575d8f8184c4af41178f6"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 6343987153
   },
-  "last_seen_at": "2026-09-03T21:00:00+08:00",
+  "last_seen_at": "2026-09-03T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9D%8E%E7%99%BB%E7%A7%91%E8%AF%B4%E5%AD%99%E5%8D%83%E4%B8%8D%E4%BC%9A%E5%8D%87%E5%92%96%23%26t%3D3&title=发布媒体",
-    "show_str": "11家媒体",
+    "show_str": "13家媒体",
     "users": [
       {
         "id": 2115259662,
         "idstr": "2115259662",
         "screen_name": "洪观新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1280846847,
+        "idstr": "1280846847",
+        "screen_name": "指尖新闻-沈阳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2356298087,
+        "idstr": "2356298087",
+        "screen_name": "河北经视",
         "verified": true,
         "verified_type": 3
       },
@@ -40,27 +61,6 @@
         "id": 1941424392,
         "idstr": "1941424392",
         "screen_name": "台州晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1880922220,
-        "idstr": "1880922220",
-        "screen_name": "金华晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1856446532,
-        "idstr": "1856446532",
-        "screen_name": "合新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1725252714,
-        "idstr": "1725252714",
-        "screen_name": "温度新闻",
         "verified": true,
         "verified_type": 3
       }
