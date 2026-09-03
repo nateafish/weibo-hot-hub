@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1699432410
   },
-  "last_seen_at": "2026-09-03T23:00:00+08:00",
+  "last_seen_at": "2026-09-04T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%B8%8C%E6%9C%9B%E9%9F%A9%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%88%87%E5%AE%9E%E8%B7%B5%E8%A1%8C%E4%B8%80%E4%B8%AA%E4%B8%AD%E5%9B%BD%E5%8E%9F%E5%88%99%23%26t%3D3&title=发布媒体",
-    "show_str": "14家媒体",
+    "show_str": "16家媒体",
     "users": [
       {
         "id": 1699432410,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 1893892941,
+        "idstr": "1893892941",
+        "screen_name": "北京日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1749990115,
         "idstr": "1749990115",
         "screen_name": "北京青年报",
@@ -54,13 +61,6 @@
         "id": 1618051664,
         "idstr": "1618051664",
         "screen_name": "头条新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6115560351,
-        "idstr": "6115560351",
-        "screen_name": "国是直通车",
         "verified": true,
         "verified_type": 3
       }
