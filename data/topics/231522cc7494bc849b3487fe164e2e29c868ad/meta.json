@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1644114654
   },
-  "last_seen_at": "2026-09-03T13:00:00+08:00",
+  "last_seen_at": "2026-09-03T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BF%84%E7%BD%97%E6%96%AF%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%81%AD%E6%8E%A8%E6%90%A1%E5%90%8E%E9%A3%9E%E8%B8%A2%E9%A1%BE%E5%AE%A2%23%26t%3D3&title=发布媒体",
-    "show_str": "65家媒体",
+    "show_str": "69家媒体",
     "users": [
       {
         "id": 1644114654,
@@ -44,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 5539777260,
+        "idstr": "5539777260",
+        "screen_name": "菏泽日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 5336533996,
         "idstr": "5336533996",
         "screen_name": "世面",
@@ -54,13 +61,6 @@
         "id": 2647971081,
         "idstr": "2647971081",
         "screen_name": "时速新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2000016880,
-        "idstr": "2000016880",
-        "screen_name": "逐浪新闻",
         "verified": true,
         "verified_type": 3
       }

@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 2087169013
   },
-  "last_seen_at": "2026-09-03T13:00:00+08:00",
+  "last_seen_at": "2026-09-03T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%95%86%E5%AE%B6%E8%AF%AF%E6%8A%8AID%E8%B4%A6%E5%8F%B7%E5%BD%93%E9%92%B1%E5%85%85%E5%80%BC2600%E5%A4%9A%E4%B8%87%E4%BA%BF%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "13家媒体",
     "users": [
       {
         "id": 2087169013,
         "idstr": "2087169013",
         "screen_name": "法治日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7613700701,
+        "idstr": "7613700701",
+        "screen_name": "共富财经",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6982382342,
+        "idstr": "6982382342",
+        "screen_name": "搜狐科技",
         "verified": true,
         "verified_type": 3
       },
@@ -30,30 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 3165101432,
+        "idstr": "3165101432",
+        "screen_name": "广元日报看广元",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2685336121,
         "idstr": "2685336121",
         "screen_name": "南宁晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2647971081,
-        "idstr": "2647971081",
-        "screen_name": "时速新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1960785875,
-        "idstr": "1960785875",
-        "screen_name": "津云新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1288429914,
-        "idstr": "1288429914",
-        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       }
