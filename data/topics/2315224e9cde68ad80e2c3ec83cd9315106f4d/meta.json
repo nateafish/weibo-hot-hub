@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 1789681642
   },
-  "last_seen_at": "2026-09-03T14:00:00+08:00",
+  "last_seen_at": "2026-09-03T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%2341%E5%B2%81%E9%80%81%E5%A5%B3%E5%87%BA%E5%AB%81%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%94%E6%97%A9%E8%82%B2%23%26t%3D3&title=发布媒体",
-    "show_str": "32家媒体",
+    "show_str": "56家媒体",
     "users": [
       {
         "id": 1789681642,
         "idstr": "1789681642",
         "screen_name": "第一现场",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1645578093,
-        "idstr": "1645578093",
-        "screen_name": "南风窗",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7745699370,
-        "idstr": "7745699370",
-        "screen_name": "粤广中视网",
-        "verified": true,
-        "verified_type": 2
-      },
-      {
-        "id": 7472681405,
-        "idstr": "7472681405",
-        "screen_name": "陕西广播电视报",
+        "id": 2535760180,
+        "idstr": "2535760180",
+        "screen_name": "安徽视讯",
         "verified": true,
         "verified_type": 3
       }

@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 2022990945
   },
-  "last_seen_at": "2026-09-03T14:00:00+08:00",
+  "last_seen_at": "2026-09-03T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%8A%B1%E5%B0%912%E6%9D%A8%E6%B4%8B%E4%B8%8A%E5%8E%95%E6%89%80%E7%9C%8B%E9%98%BF%E8%A1%B0%23%26t%3D3&title=发布媒体",
-    "show_str": "8家媒体",
+    "show_str": "16家媒体",
     "users": [
+      {
+        "id": 7590570074,
+        "idstr": "7590570074",
+        "screen_name": "山海视频",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 7192225377,
         "idstr": "7192225377",
@@ -37,6 +44,13 @@
         "verified_type": 7
       },
       {
+        "id": 6040549176,
+        "idstr": "6040549176",
+        "screen_name": "究竟视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 5984369937,
         "idstr": "5984369937",
         "screen_name": "时代报告",
@@ -49,20 +63,6 @@
         "screen_name": "麦穗视频",
         "verified": true,
         "verified_type": 7
-      },
-      {
-        "id": 3493071261,
-        "idstr": "3493071261",
-        "screen_name": "时代报告地方频道",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1952433323,
-        "idstr": "1952433323",
-        "screen_name": "平顶山身边事",
-        "verified": true,
-        "verified_type": 3
       }
     ]
   },
