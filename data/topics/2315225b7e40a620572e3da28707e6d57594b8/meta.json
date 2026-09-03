@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 5044281310
   },
-  "last_seen_at": "2026-09-03T07:00:00+08:00",
+  "last_seen_at": "2026-09-03T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%AE%B6%E9%95%BF%E5%9C%A8%E7%8F%AD%E7%BA%A7%E7%BE%A4%E8%87%AA%E6%8A%A5%E5%B9%B2%E9%83%A8%E8%BA%AB%E4%BB%BD%23%26t%3D3&title=发布媒体",
-    "show_str": "14家媒体",
+    "show_str": "24家媒体",
     "users": [
       {
         "id": 5044281310,
         "idstr": "5044281310",
         "screen_name": "澎湃新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5890672121,
+        "idstr": "5890672121",
+        "screen_name": "搜狐新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,16 +37,9 @@
         "verified_type": 3
       },
       {
-        "id": 1280846847,
-        "idstr": "1280846847",
-        "screen_name": "指尖新闻-沈阳晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6598638080,
-        "idstr": "6598638080",
-        "screen_name": "阜阳新闻综合频道",
+        "id": 1682207150,
+        "idstr": "1682207150",
+        "screen_name": "南方日报",
         "verified": true,
         "verified_type": 3
       },
@@ -51,16 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 6066193547,
-        "idstr": "6066193547",
-        "screen_name": "锋线视频",
+        "id": 2660807713,
+        "idstr": "2660807713",
+        "screen_name": "财经新媒体",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 6004281123,
-        "idstr": "6004281123",
-        "screen_name": "梨视频",
+        "id": 1280846847,
+        "idstr": "1280846847",
+        "screen_name": "指尖新闻-沈阳晚报",
         "verified": true,
         "verified_type": 3
       }
