@@ -1,12 +1,14 @@
 {
-  "checked_at": "2026-09-03T19:14:13+08:00",
+  "checked_at": "2026-09-04T00:45:34+08:00",
   "mobile": {
-    "reason": "RuntimeError: /api/config data.login != true",
-    "status": "invalid"
+    "login": true,
+    "sample_posts": 16,
+    "sample_status": "valid",
+    "status": "valid"
   },
   "pc": {
-    "reason": "LoginRequired: No hot topics found; Cookie may be invalid or page changed",
-    "status": "invalid"
+    "hotlist_topics": 51,
+    "status": "valid"
   },
-  "status": "invalid"
+  "status": "valid"
 }
