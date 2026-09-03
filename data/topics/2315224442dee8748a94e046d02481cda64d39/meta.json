@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2620088113
   },
-  "last_seen_at": "2026-09-04T06:00:00+08:00",
+  "last_seen_at": "2026-09-04T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%90%83%E6%B0%B4%E6%B4%97%E9%B8%A1%E8%9B%8B%E5%90%8E%E9%9B%86%E4%BD%93%E4%B8%AD%E6%AF%92%23%26t%3D3&title=发布媒体",
-    "show_str": "7家媒体",
+    "show_str": "8家媒体",
     "users": [
       {
         "id": 2620088113,
@@ -44,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1874271142,
         "idstr": "1874271142",
         "screen_name": "烟台广播电视台",
@@ -54,13 +61,6 @@
         "id": 1725743971,
         "idstr": "1725743971",
         "screen_name": "大众网潍坊官方微博",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1704185933,
-        "idstr": "1704185933",
-        "screen_name": "聊城晚报",
         "verified": true,
         "verified_type": 3
       }

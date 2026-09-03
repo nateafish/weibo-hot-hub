@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1887344341
   },
-  "last_seen_at": "2026-09-04T06:00:00+08:00",
+  "last_seen_at": "2026-09-04T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%B1%9F%E5%AD%A6%E5%8B%A4%E8%AF%B4%E8%A6%81%E5%90%91%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E9%81%93%E6%AD%89%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "2家媒体",
     "users": [
       {
         "id": 1887344341,
         "idstr": "1887344341",
         "screen_name": "观察者网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
         "verified": true,
         "verified_type": 3
       }
