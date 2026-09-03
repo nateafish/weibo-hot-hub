@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-03T13:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#时光见证中埃情谊历久弥新#",
+      "rank": 1,
+      "title": "时光见证中埃情谊历久弥新",
+      "topic_id": "23152209afdb18295acbcc25d5879436622bc6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "微信 单删提示",
+      "rank": 1,
+      "title": "微信 单删提示",
+      "topic_id": "2315220a1a2866ac8ed2d45f6d2046e332c293"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 21,
+      "posts": "saved",
+      "query": "#充1000元误到账26419933亿余元#",
+      "rank": 2,
+      "title": "充1000元误到账26419933亿余元",
+      "topic_id": "2315223a5c8887a850005702b1fdf5999768fe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#19人搜救突击队如何挺进灾害核心区#",
+      "rank": 3,
+      "title": "19人搜救突击队如何挺进灾害核心区",
+      "topic_id": "2315229ffc5ade1f06d395e61f6b455d833b37"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 52,
+      "posts": "saved",
+      "query": "#陈意涵说杨洋走丢就是看的那样#",
+      "rank": 4,
+      "title": "陈意涵说杨洋走丢就是看的那样",
+      "topic_id": "2315225af98dc90587a2de1a23d32155d9b158"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 40,
+      "posts": "saved",
+      "query": "#家长群自报干部身份纪检组介入调查#",
+      "rank": 5,
+      "title": "家长群自报干部身份纪检组介入调查",
+      "topic_id": "231522b27a43716b133f4de77e7c4eb4225293"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "井柏然 升咖",
+      "rank": 6,
+      "title": "井柏然 升咖",
+      "topic_id": "2315226372123fe43d832e4d3edfb95c26a119"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "这辈子最想撤回的一条外卖聊天记录",
+      "rank": 7,
+      "title": "这辈子最想撤回的一条外卖聊天记录",
+      "topic_id": "231522ea5918c048538a9b4f922cce83decbe0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "花少4 被低估",
+      "rank": 8,
+      "title": "花少4 被低估",
+      "topic_id": "231522ac3202cc44cdb920a8008bbc1b9c07ad"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "这么多车位没一个你喜欢的吗",
+      "rank": 9,
+      "title": "这么多车位没一个你喜欢的吗",
+      "topic_id": "2315226edd07fca0745da920bdd5a46dd691d4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 29,
+      "posts": "saved",
+      "query": "#中考历史不计入总分我们在担心什么#",
+      "rank": 10,
+      "title": "中考历史不计入总分我们在担心什么",
+      "topic_id": "23152227a1c1258d98dd07c0dab2a8226b0fd5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 26,
+      "posts": "saved",
+      "query": "#朴彩英拒绝100亿韩元中国奶茶代言#",
+      "rank": 11,
+      "title": "朴彩英拒绝100亿韩元中国奶茶代言",
+      "topic_id": "23152279d8f7839136a644cfc599aa43f7e8f6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "早春晴朗 爆剧爆人",
+      "rank": 12,
+      "title": "早春晴朗 爆剧爆人",
+      "topic_id": "231522fb20cabf153c2132fcb4d62da4d827fb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "美国结婚不谈彩礼谈婚前协议",
+      "rank": 13,
+      "title": "美国结婚不谈彩礼谈婚前协议",
+      "topic_id": "2315229046790d3598d9d7868996ca94c2293a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 48,
+      "posts": "saved",
+      "query": "#宁静透露陈意涵在花少2被人摆脸色#",
+      "rank": 14,
+      "title": "宁静透露陈意涵在花少2被人摆脸色",
+      "topic_id": "231522747e2bea0b382397acef3c771e7639a3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "金鹰奖 于和伟",
+      "rank": 15,
+      "title": "金鹰奖 于和伟",
+      "topic_id": "231522892d9acedf22184a5d135ff0a13b91de"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#星宇股份107名应届生解约再调查#",
+      "rank": 16,
+      "title": "星宇股份107名应届生解约再调查",
+      "topic_id": "2315223967817402ddc24da7eb8daa1a463526"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 22,
+      "posts": "saved",
+      "query": "#俄罗斯机器人遭推搡后飞踢顾客#",
+      "rank": 17,
+      "title": "俄罗斯机器人遭推搡后飞踢顾客",
+      "topic_id": "231522cc7494bc849b3487fe164e2e29c868ad"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#特朗普儿子晒新护照印父亲画像签名#",
+      "rank": 18,
+      "title": "特朗普儿子晒新护照印父亲画像签名",
+      "topic_id": "2315228aa066fff1f2e36fba7e78d613aa0f4a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "博雅 偷税漏税",
+      "rank": 19,
+      "title": "博雅 偷税漏税",
+      "topic_id": "2315225212caeb7cfa2bae6e2fbf17136e7dc3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#41岁送女出嫁父亲回应早育#",
+      "rank": 20,
+      "title": "41岁送女出嫁父亲回应早育",
+      "topic_id": "2315224e9cde68ad80e2c3ec83cd9315106f4d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "张鑫杀妻案",
+      "rank": 21,
+      "title": "张鑫杀妻案",
+      "topic_id": "231522bf9882ccb154c2d784e78c12aa3febbe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 8,
+      "posts": "saved",
+      "query": "#花278万整改消防后消防栓竟没水#",
+      "rank": 22,
+      "title": "花278万整改消防后消防栓竟没水",
+      "topic_id": "231522c44c1c83172f68d99ba59682c5bd59b2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#商家误把ID账号当钱充值2600多万亿#",
+      "rank": 23,
+      "title": "商家误把ID账号当钱充值2600多万亿",
+      "topic_id": "231522b35c81fe22df75e734c2a70f3dc2cb29"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "人到中年爱好逐渐离谱",
+      "rank": 24,
+      "title": "人到中年爱好逐渐离谱",
+      "topic_id": "231522ea11229ae653f7fdd1065f5922fbf274"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#男子充1000元收到数千万亿充值金额#",
+      "rank": 25,
+      "title": "男子充1000元收到数千万亿充值金额",
+      "topic_id": "231522dc05e6a01d00a8065873fa8162435931"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 22,
+      "posts": "saved",
+      "query": "#娄艺潇被积压12年的剧要播了#",
+      "rank": 26,
+      "title": "娄艺潇被积压12年的剧要播了",
+      "topic_id": "231522ae7bb9859fe3ef3818a99a193978aad7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 20,
+      "posts": "saved",
+      "query": "#何超琼凌晨三点家庭早餐惊呆章泽天#",
+      "rank": 27,
+      "title": "何超琼凌晨三点家庭早餐惊呆章泽天",
+      "topic_id": "2315228843987198f75b5becdbaa8cca159868"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#美国突发大规模枪击事件#",
+      "rank": 28,
+      "title": "美国突发大规模枪击事件",
+      "topic_id": "231522755e0e507fb2e004a437bbef8f6ed377"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#留几手说葛夕需要道歉才能分他遗产#",
+      "rank": 29,
+      "title": "留几手说葛夕需要道歉才能分他遗产",
+      "topic_id": "2315221a7db035ae363fa76d589b6da6ef3608"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "金鹰奖",
+      "rank": 30,
+      "title": "金鹰奖",
+      "topic_id": "231522c6f1ef9fdfb7f6a7220b2b1c6496735d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "首饰戴了和没戴是两回事",
+      "rank": 31,
+      "title": "首饰戴了和没戴是两回事",
+      "topic_id": "231522442efa4a8101e272db36a2237fdf2e68"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#工作人员称杜某已卸任该院纪委书记#",
+      "rank": 32,
+      "title": "工作人员称杜某已卸任该院纪委书记",
+      "topic_id": "231522e4b875ebdaec71f76213b99a96992788"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 38,
+      "posts": "saved",
+      "query": "#女子发生性关系后称遭强奸勒索19.5万#",
+      "rank": 33,
+      "title": "女子发生性关系后称遭强奸勒索19.5万",
+      "topic_id": "231522fed727db30bd8e1f870490dfeefa2413"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#周冬雨上花少马思纯紧张#",
+      "rank": 34,
+      "title": "周冬雨上花少马思纯紧张",
+      "topic_id": "231522f3f11402b708586b6f05b51ac4a6898b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#员工误把16位账号ID当充值金额输入#",
+      "rank": 35,
+      "title": "员工误把16位账号ID当充值金额输入",
+      "topic_id": "231522a59e03dca02494696939dbe5535f5d93"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "运气好的人最大的特点",
+      "rank": 36,
+      "title": "运气好的人最大的特点",
+      "topic_id": "231522adfc7f50a486491fc8425c0a4d263e29"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 31,
+      "posts": "saved",
+      "query": "#学姐雨琦限定回归#",
+      "rank": 37,
+      "title": "学姐雨琦限定回归",
+      "topic_id": "23152278bf50701a0c18385980eb56e335b1ce"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#谭松韵47集从丫鬟演到主母#",
+      "rank": 38,
+      "title": "谭松韵47集从丫鬟演到主母",
+      "topic_id": "231522b77195dfd0e4cc7bb621d9408be6dfe1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#iPhoneUltra正面首次曝光#",
+      "rank": 39,
+      "title": "iPhoneUltra正面首次曝光",
+      "topic_id": "231522754fcc2ab43196507a311459565a6faf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#鞋厂鞋子被冲上街捡走目前无人送回#",
+      "rank": 40,
+      "title": "鞋厂鞋子被冲上街捡走目前无人送回",
+      "topic_id": "231522403bbbc8501e7d7b05e97295ab80b366"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#北电开学有经纪公司校门口选角#",
+      "rank": 41,
+      "title": "北电开学有经纪公司校门口选角",
+      "topic_id": "2315221a45a36947fc8c940cdf97f0e963ff93"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 25,
+      "posts": "saved",
+      "query": "#众星宣传关晓彤新剧生逢其时#",
+      "rank": 42,
+      "title": "众星宣传关晓彤新剧生逢其时",
+      "topic_id": "23152210faafa6dbcda02bdf8fec341375c2bf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#央视网曝光职校实习黑产#",
+      "rank": 43,
+      "title": "央视网曝光职校实习黑产",
+      "topic_id": "231522a8d05fc5828ffa3fc81081eeb0558821"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "评论区才是真正破案的地方",
+      "rank": 44,
+      "title": "评论区才是真正破案的地方",
+      "topic_id": "231522a93ff79e208bb49accc8a4b296eca3d4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#日本缩水#",
+      "rank": 45,
+      "title": "日本缩水",
+      "topic_id": "231522476b89372d585ca33d2293ab65454738"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "陈奕恒红包",
+      "rank": 46,
+      "title": "陈奕恒红包",
+      "topic_id": "23152279fd7dd484b9acf79dd8d62547c681db"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#毛阿敏总结花少2#",
+      "rank": 47,
+      "title": "毛阿敏总结花少2",
+      "topic_id": "2315224de33baad5f840712e9b415b297db27a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#多地持币者及家属遭绑架甚至杀害#",
+      "rank": 48,
+      "title": "多地持币者及家属遭绑架甚至杀害",
+      "topic_id": "231522b1f61666b83e21d682ce476763799e52"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "吴易昺vs阿尔卡拉斯",
+      "rank": 49,
+      "title": "吴易昺vs阿尔卡拉斯",
+      "topic_id": "23152245e94ff7d0893e732516a2bcf2cc399b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 31,
+      "posts": "saved",
+      "query": "#小米18Fold三大尖端科技#",
+      "rank": 50,
+      "title": "小米18Fold三大尖端科技",
+      "topic_id": "23152220c175501b2d3c10208dd0f12083f8a1"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
