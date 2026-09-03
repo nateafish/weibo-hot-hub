@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 1644114654
   },
-  "last_seen_at": "2026-09-03T09:00:00+08:00",
+  "last_seen_at": "2026-09-03T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BF%84%E7%BD%97%E6%96%AF%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%81%AD%E6%8E%A8%E6%90%A1%E5%90%8E%E9%A3%9E%E8%B8%A2%E9%A1%BE%E5%AE%A2%23%26t%3D3&title=发布媒体",
-    "show_str": "17家媒体",
+    "show_str": "60家媒体",
     "users": [
       {
         "id": 1644114654,
         "idstr": "1644114654",
         "screen_name": "新京报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1738006505,
+        "idstr": "1738006505",
+        "screen_name": "机锋网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2028810631,
+        "idstr": "2028810631",
+        "screen_name": "新浪新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 6982382342,
-        "idstr": "6982382342",
-        "screen_name": "搜狐科技",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3901624042,
-        "idstr": "3901624042",
-        "screen_name": "山西日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2747175561,
-        "idstr": "2747175561",
-        "screen_name": "北青深一度",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2649732781,
-        "idstr": "2649732781",
-        "screen_name": "阳信融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 2647971081,
         "idstr": "2647971081",
         "screen_name": "时速新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
         "verified": true,
         "verified_type": 3
       }
