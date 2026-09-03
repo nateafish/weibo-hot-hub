@@ -3,11 +3,54 @@
   "created_at": null,
   "first_seen_at": "2026-09-04T02:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-04T05:00:00+08:00",
+  "last_seen_at": "2026-09-04T06:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%BE%8E%E7%BD%91%E5%A5%B3%E5%8D%95%E7%AC%AC%E4%BA%8C%E8%BD%AE%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "6家媒体",
+    "users": [
+      {
+        "id": 7542252663,
+        "idstr": "7542252663",
+        "screen_name": "北京质量报告",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2145917613,
+        "idstr": "2145917613",
+        "screen_name": "北京日报都视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1893892941,
+        "idstr": "1893892941",
+        "screen_name": "北京日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1703371307,
+        "idstr": "1703371307",
+        "screen_name": "北京晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1697601814,
+        "idstr": "1697601814",
+        "screen_name": "长安街知事",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1617264814,
+        "idstr": "1617264814",
+        "screen_name": "京报网_北京日报官方网站",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "美网女单第二轮",
   "search_url": "https://s.weibo.com/weibo/%23%E7%BE%8E%E7%BD%91%E5%A5%B3%E5%8D%95%E7%AC%AC%E4%BA%8C%E8%BD%AE%23",
