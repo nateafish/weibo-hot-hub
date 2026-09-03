@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 2656274875
   },
-  "last_seen_at": "2026-09-03T08:00:00+08:00",
+  "last_seen_at": "2026-09-03T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%B2%99%E5%BE%B7%E5%B0%94%E7%AC%AC3%E6%AC%A1%E7%99%BB%E9%99%86%23%26t%3D3&title=发布媒体",
-    "show_str": "40家媒体",
+    "show_str": "134家媒体",
     "users": [
       {
         "id": 2656274875,
         "idstr": "2656274875",
         "screen_name": "央视新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2815224714,
+        "idstr": "2815224714",
+        "screen_name": "海博TV",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1744332207,
+        "idstr": "1744332207",
+        "screen_name": "钱江视频",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +44,23 @@
         "verified_type": 3
       },
       {
-        "id": 1700720163,
-        "idstr": "1700720163",
-        "screen_name": "钱江晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1644114654,
-        "idstr": "1644114654",
-        "screen_name": "新京报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7739029497,
-        "idstr": "7739029497",
-        "screen_name": "中国军号",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5044281310,
-        "idstr": "5044281310",
-        "screen_name": "澎湃新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 3365993480,
         "idstr": "3365993480",
         "screen_name": "福建日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1420157965,
+        "idstr": "1420157965",
+        "screen_name": "上游新闻",
         "verified": true,
         "verified_type": 3
       }

@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1642634100
   },
-  "last_seen_at": "2026-09-03T08:00:00+08:00",
+  "last_seen_at": "2026-09-03T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%98%8E%E6%98%9F%E5%A4%AB%E5%A6%87%E4%BD%93%E9%AA%8C%E5%B0%8A%E7%95%8C%E6%8C%A5%E6%89%8B%E5%85%B3%E9%97%A8%E7%BF%BB%E8%BD%A6%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "4家媒体",
     "users": [
       {
         "id": 1642634100,
@@ -33,6 +33,13 @@
         "id": 6976871937,
         "idstr": "6976871937",
         "screen_name": "新浪5G",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3169721372,
+        "idstr": "3169721372",
+        "screen_name": "巨流视频",
         "verified": true,
         "verified_type": 3
       }
