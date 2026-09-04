@@ -1,9 +1,9 @@
 {
-  "checked_at": "2026-09-05T00:26:16+08:00",
+  "checked_at": "2026-09-05T04:45:56+08:00",
   "mobile": {
     "login": true,
-    "sample_reason": "ParseError: Mobile API failed after 5 attempts: Client error '403 ' for url 'https://m.weibo.cn/api/container/getIndex?containerid=100103type%3D1%26q%3D%23%E5%BE%AE%E5%8D%9A%E7%83%AD%E6%90%9C%23&page_type=searchall&page=1'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP",
-    "sample_status": "unavailable",
+    "sample_posts": 16,
+    "sample_status": "valid",
     "status": "valid"
   },
   "pc": {
