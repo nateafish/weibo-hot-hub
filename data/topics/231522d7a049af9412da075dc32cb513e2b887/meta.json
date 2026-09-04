@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2656274875
   },
-  "last_seen_at": "2026-09-04T20:00:00+08:00",
+  "last_seen_at": "2026-09-04T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%87%B4%E4%BF%A1%E7%A5%9D%E8%B4%BA%E5%B0%8F%E5%96%87%E5%8F%AD%E5%BC%80%E6%92%AD70%E5%91%A8%E5%B9%B4%23%26t%3D3&title=发布媒体",
-    "show_str": "16家媒体",
+    "show_str": "20家媒体",
     "users": [
       {
         "id": 2656274875,
         "idstr": "2656274875",
         "screen_name": "央视新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2039753857,
+        "idstr": "2039753857",
+        "screen_name": "CCTV4",
         "verified": true,
         "verified_type": 3
       },
@@ -37,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 2921799343,
+        "idstr": "2921799343",
+        "screen_name": "天下泉城",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2409482243,
         "idstr": "2409482243",
         "screen_name": "未来网",
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2039753857,
-        "idstr": "2039753857",
-        "screen_name": "CCTV4",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7493290650,
-        "idstr": "7493290650",
-        "screen_name": "三师融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6621183843,
-        "idstr": "6621183843",
-        "screen_name": "央视社教",
+        "id": 2024623547,
+        "idstr": "2024623547",
+        "screen_name": "央视一套",
         "verified": true,
         "verified_type": 3
       }

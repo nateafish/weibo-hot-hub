@@ -10,11 +10,19 @@
     "status": 2,
     "uid": 5538664098
   },
-  "last_seen_at": "2026-09-04T20:00:00+08:00",
+  "last_seen_at": "2026-09-04T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%BF%99%E4%BA%9B%E5%B1%85%E7%84%B6%E9%83%BD%E6%98%AF%E5%85%B3%E6%99%93%E5%BD%A4%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "1家媒体",
+    "users": [
+      {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#这些居然都是关晓彤#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E5%B1%85%E7%84%B6%E9%83%BD%E6%98%AF%E5%85%B3%E6%99%93%E5%BD%A4%23",

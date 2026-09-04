@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 6074356560
   },
-  "last_seen_at": "2026-08-22T23:00:00+08:00",
+  "last_seen_at": "2026-09-04T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%8B%BC%E9%98%9F%E5%AF%B9%E6%88%98JDG%23%26t%3D3&title=发布媒体",
-    "show_str": "11家媒体",
+    "show_str": "16家媒体",
     "users": [
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 7791215292,
         "idstr": "7791215292",
@@ -23,9 +30,9 @@
         "verified_type": 3
       },
       {
-        "id": 1288429914,
-        "idstr": "1288429914",
-        "screen_name": "今视频长天新闻",
+        "id": 5788578441,
+        "idstr": "5788578441",
+        "screen_name": "丝路电竞",
         "verified": true,
         "verified_type": 3
       },
@@ -56,17 +63,10 @@
         "screen_name": "ING直播",
         "verified": true,
         "verified_type": 3
-      },
-      {
-        "id": 6004281123,
-        "idstr": "6004281123",
-        "screen_name": "梨视频",
-        "verified": true,
-        "verified_type": 3
       }
     ]
   },
-  "query": "#狼队对战JDG#",
+  "query": "狼队对战JDG",
   "search_url": "https://s.weibo.com/weibo?q=%23%E7%8B%BC%E9%98%9F%E5%AF%B9%E6%88%98jdg%23",
   "sub_category": null,
   "summary": "20:00 重庆狼队 vs 北京JDG（S组，重庆）",
