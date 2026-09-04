@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 2028810631
   },
-  "last_seen_at": "2026-09-04T14:00:00+08:00",
+  "last_seen_at": "2026-09-04T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%B7%B2%E8%BF%9E%E7%BB%AD%E9%80%80%E5%87%BA%E5%A4%9A%E7%AB%99%E6%AF%94%E8%B5%9B%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "9家媒体",
     "users": [
       {
         "id": 2028810631,
         "idstr": "2028810631",
         "screen_name": "新浪新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2054900587,
+        "idstr": "2054900587",
+        "screen_name": "三农频道",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6715513747,
+        "idstr": "6715513747",
+        "screen_name": "宁县融媒",
         "verified": true,
         "verified_type": 3
       },
@@ -30,9 +44,23 @@
         "verified_type": 3
       },
       {
-        "id": 1712686623,
-        "idstr": "1712686623",
-        "screen_name": "手机上的新浪",
+        "id": 2075245652,
+        "idstr": "2075245652",
+        "screen_name": "长春晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1938523582,
+        "idstr": "1938523582",
+        "screen_name": "宁波晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1789681642,
+        "idstr": "1789681642",
+        "screen_name": "第一现场",
         "verified": true,
         "verified_type": 3
       }

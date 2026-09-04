@@ -1,0 +1,8 @@
+{
+  "body": "今天拿到Y700 无极之后的8个小时，做了这些事：\n1，打开USB调试，用ADB安装F-Droid版Termux，配置好ssh\n2，开一个电脑的kimi code session，同时打通ADB调试和SSH Termux，并用这个Session构建好proot-distro ubuntu容器\n3，在容器内部署kimi code + adb，adb无线调试本机成功\n4，克隆MAA的Linux-aarch64动态库，构建WebUI，复制了Windows MAA的配置，实现本机明日方舟长草\n5，在原MAA WebUI基础上，增加资源库更新和软件更新功能，固化后续使用\n6，克隆最新的Winlator 11.2代码，为其更新中文显示、安预置中文输入法，并配置支持zh_CN.utf8的glibc，测试某汉化视觉小说软件通过\n7，安装MTools，实测RPG Maker模拟器通过\n然后我朋友问我，你买了Y700 无极，你用下来感觉怎么样\n我说我不知道啊……我的用法不是正常人用法啊",
+  "created_at_text": "Thu Sep 03 18:06:08 +0800 2026",
+  "mid": "5339124618759739",
+  "uid": "7751248678",
+  "url": "https://m.weibo.cn/detail/5339124618759739",
+  "username": "村民F_"
+}

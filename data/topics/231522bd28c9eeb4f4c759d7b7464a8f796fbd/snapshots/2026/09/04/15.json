@@ -1,0 +1,268 @@
+{
+  "captured_at": "2026-09-04T15:00:00+08:00",
+  "contributors": [
+    {
+      "contribution": 15,
+      "profile_url": "https://weibo.com/u/7778810576",
+      "rank": 1,
+      "uid": "7778810576",
+      "username": "Au加州信",
+      "verified": false,
+      "verified_type": -1
+    },
+    {
+      "contribution": 12,
+      "profile_url": "https://weibo.com/u/1796087453",
+      "rank": 2,
+      "uid": "1796087453",
+      "username": "荔枝新闻",
+      "verified": true,
+      "verified_type": 3
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/9112455168",
+      "rank": 3,
+      "uid": "9112455168",
+      "username": "青竹刃",
+      "verified": true,
+      "verified_type": 0
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/8011158342",
+      "rank": 4,
+      "uid": "8011158342",
+      "username": "噜啦噜噜lululu",
+      "verified": false,
+      "verified_type": -1
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/7926319224",
+      "rank": 5,
+      "uid": "7926319224",
+      "username": "第十三行",
+      "verified": false,
+      "verified_type": -1
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/7860203820",
+      "rank": 6,
+      "uid": "7860203820",
+      "username": "遥柒木",
+      "verified": true,
+      "verified_type": 0
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/7804321301",
+      "rank": 7,
+      "uid": "7804321301",
+      "username": "My是萱萱子哇",
+      "verified": false,
+      "verified_type": -1
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/7770106212",
+      "rank": 8,
+      "uid": "7770106212",
+      "username": "希希的紫",
+      "verified": false,
+      "verified_type": -1
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/7753498033",
+      "rank": 9,
+      "uid": "7753498033",
+      "username": "hebxiagxk",
+      "verified": false,
+      "verified_type": -1
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/7744603436",
+      "rank": 10,
+      "uid": "7744603436",
+      "username": "静观-使者",
+      "verified": false,
+      "verified_type": -1
+    }
+  ],
+  "contributors_scheme": "sinaweibo://cardlist?containerid=231522type%3D103%26q%3D%23%E8%8E%86%E7%94%B0%E4%B8%80%E5%9C%9F%E6%9C%A8%E6%A5%BC%E8%A2%AB%E6%B0%B4%E6%B7%B9%E8%BD%B0%E7%84%B6%E5%9D%8D%E5%A1%8C%23&title=话题贡献者排行",
+  "current_boards": {
+    "hot_band": {
+      "ori": {
+        "category": "突发/灾害",
+        "is_boom": 0,
+        "num": 261221,
+        "onband": 1,
+        "onboard_time": 1788506061,
+        "pos": 25,
+        "subject_querys": [
+          {
+            "scheme_query": "福建福鼎暴雨",
+            "subject_query": "福建暴雨洪水内涝",
+            "subject_type": "event"
+          }
+        ],
+        "transparency_tag": null
+      },
+      "scheme": "sinaweibo://pageinfo?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Drealtimehot&title=热搜榜&extparam=",
+      "sub_info": [
+        {
+          "scheme": "sinaweibo://wbox?id=u57z5izf0g&page=pages/hotsearchpage/hotsearchpage_native&containerid=106003_-_type%3A25_-_filter_type%3Acollectionmini&trend_word=%E7%A6%8F%E5%BB%BA%E7%A6%8F%E9%BC%8E%E6%9A%B4%E9%9B%A8&time_filter_id=d30",
+          "text": "事件 | 福建暴雨洪水内涝"
+        }
+      ],
+      "text": "热搜榜第25位"
+    },
+    "hot_band_24_hour": {
+      "ori": {
+        "on_band": 1
+      }
+    },
+    "hot_region_band": {
+      "ori": {
+        "code": "800863503",
+        "num": 28,
+        "onband": 1,
+        "pos": 2
+      },
+      "scheme": "sinaweibo://pageinfo?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Dregion&extparam=lcate%3D300%26ext_pos%3D800863503%26more%3D1",
+      "text": "莆田同城榜TOP2"
+    },
+    "social_band": {
+      "ori": {
+        "category": "突发/灾害",
+        "is_boom": 0,
+        "onband": 1,
+        "pos": 14,
+        "subject_querys": [
+          {
+            "scheme_query": "福建福鼎暴雨",
+            "subject_query": "福建暴雨洪水内涝",
+            "subject_type": "event"
+          }
+        ]
+      },
+      "scheme": "sinaweibo://pageinfo?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Dsocial&title=社会榜&extparam=",
+      "sub_info": [
+        {
+          "scheme": "sinaweibo://wbox?id=u57z5izf0g&page=pages/hotsearchpage/hotsearchpage_native&containerid=106003_-_type%3A25_-_filter_type%3Acollectionmini&trend_word=%E7%A6%8F%E5%BB%BA%E7%A6%8F%E9%BC%8E%E6%9A%B4%E9%9B%A8&time_filter_id=d30",
+          "text": "事件 | 福建暴雨洪水内涝"
+        }
+      ],
+      "text": "社会榜第14位"
+    }
+  },
+  "exact_counts": {
+    "buy_num": 0,
+    "g_mention": 136,
+    "gone_num": 0,
+    "interact": 363,
+    "mention": 136,
+    "ori_m": 68,
+    "ori_uv": 64,
+    "r_valid": 1056697,
+    "read": 1331953,
+    "rec_num": 0,
+    "show": 0,
+    "star": 1.5,
+    "t_m_num": 87,
+    "t_r_num": 1337747,
+    "wants_num": 0
+  },
+  "heat": 2,
+  "overview": {
+    "24h": {
+      "interaction": {
+        "unit": "",
+        "val": 363
+      },
+      "mention": {
+        "unit": "",
+        "val": 136
+      },
+      "original": {
+        "unit": "",
+        "val": 68
+      },
+      "read": {
+        "unit": "万",
+        "val": 132.7
+      }
+    },
+    "30d": {
+      "interaction": {
+        "unit": "",
+        "val": 363
+      },
+      "mention": {
+        "unit": "",
+        "val": 136
+      },
+      "original": {
+        "unit": "",
+        "val": 68
+      },
+      "read": {
+        "unit": "万",
+        "val": 132.7
+      }
+    },
+    "all": {
+      "interaction": {
+        "unit": "",
+        "val": 363
+      },
+      "mention": {
+        "unit": "",
+        "val": 136
+      },
+      "original": {
+        "unit": "",
+        "val": 68
+      },
+      "read": {
+        "unit": "万",
+        "val": 133.2
+      }
+    }
+  },
+  "rank_history": [
+    {
+      "cate": "hot_board",
+      "cate_desc": "热搜榜",
+      "duration_hour": 0,
+      "duration_minute": 21,
+      "duration_mod_min": 21,
+      "off_board_time": "202609041534",
+      "on_board_time": "202609041514",
+      "top_pos": 19,
+      "topic_flag": 1
+    },
+    {
+      "cate": "society_board",
+      "cate_desc": "社会榜",
+      "duration_hour": 0,
+      "duration_minute": 26,
+      "duration_mod_min": 26,
+      "off_board_time": "202609041535",
+      "on_board_time": "202609041510",
+      "top_pos": 9,
+      "topic_flag": 1
+    }
+  ],
+  "title": "莆田一土木楼被水淹轰然坍塌",
+  "topic_id": "231522bd28c9eeb4f4c759d7b7464a8f796fbd",
+  "window_counts": {
+    "1h_mention": 116,
+    "1h_ori_m": 54,
+    "24h_mention": 136,
+    "24h_read": 1314145
+  }
+}

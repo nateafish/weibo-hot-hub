@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 5777227559
   },
-  "last_seen_at": "2026-09-04T14:00:00+08:00",
+  "last_seen_at": "2026-09-04T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23AGI%E6%97%B6%E4%BB%A3%E7%9C%9F%E7%9A%84%E6%9D%A5%E4%BA%86%E5%90%97%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "10家媒体",
     "users": [
       {
         "id": 1723167603,
         "idstr": "1723167603",
         "screen_name": "950MusicRadio",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7572918188,
+        "idstr": "7572918188",
+        "screen_name": "新华网财经",
         "verified": true,
         "verified_type": 3
       },
@@ -30,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 6013508393,
+        "idstr": "6013508393",
+        "screen_name": "环球总财",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 5465565905,
         "idstr": "5465565905",
         "screen_name": "印象新闻",
@@ -37,16 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 1893892941,
-        "idstr": "1893892941",
-        "screen_name": "北京日报",
+        "id": 5396094153,
+        "idstr": "5396094153",
+        "screen_name": "大众新闻-大众日报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1073238785,
-        "idstr": "1073238785",
-        "screen_name": "经新视频",
+        "id": 2375086267,
+        "idstr": "2375086267",
+        "screen_name": "参考消息",
         "verified": true,
         "verified_type": 3
       }
