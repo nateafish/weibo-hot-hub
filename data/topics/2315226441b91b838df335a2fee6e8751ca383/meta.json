@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2620088113
   },
-  "last_seen_at": "2026-09-05T04:00:00+08:00",
+  "last_seen_at": "2026-09-05T06:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%232%E5%B2%81%E7%94%B7%E7%AB%A5%E6%8A%8A%E5%AE%B6%E4%B8%AD%E7%99%BE%E8%8D%89%E6%9E%AF%E5%BD%93%E9%A5%AE%E6%96%99%E5%96%9D%E4%B8%8B%23%26t%3D3&title=发布媒体",
-    "show_str": "8家媒体",
+    "show_str": "10家媒体",
     "users": [
       {
         "id": 2620088113,
         "idstr": "2620088113",
         "screen_name": "海报新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1389537561,
+        "idstr": "1389537561",
+        "screen_name": "都市时报",
         "verified": true,
         "verified_type": 3
       },
@@ -51,16 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2026044661,
-        "idstr": "2026044661",
-        "screen_name": "大众网东营",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1771221871,
-        "idstr": "1771221871",
-        "screen_name": "大象评论",
+        "id": 2105365573,
+        "idstr": "2105365573",
+        "screen_name": "威海播报",
         "verified": true,
         "verified_type": 3
       }

@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-05T06:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#习近平致信祝贺小喇叭开播70周年#",
+      "rank": 1,
+      "title": "习近平致信祝贺小喇叭开播70周年",
+      "topic_id": "231522d7a049af9412da075dc32cb513e2b887"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#2岁男童把家中百草枯当饮料喝下#",
+      "rank": 1,
+      "title": "2岁男童把家中百草枯当饮料喝下",
+      "topic_id": "2315226441b91b838df335a2fee6e8751ca383"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "日本请求俄拆纪念碑菊花纹章遭拒",
+      "rank": 2,
+      "title": "日本请求俄拆纪念碑菊花纹章遭拒",
+      "topic_id": "231522590cdf16c53de7f782c13864f387a233"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#全国多地迎来丰收季#",
+      "rank": 3,
+      "title": "全国多地迎来丰收季",
+      "topic_id": "23152222b8f86d18ff33833a9ed3370c3b4537"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 23,
+      "posts": "saved",
+      "query": "为什么现在这么流行耳夹式耳机",
+      "rank": 4,
+      "title": "为什么现在这么流行耳夹式耳机",
+      "topic_id": "2315223fc4a3ce9808cb2dd7194ba46dd3bdd0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "极限挑战 重拍",
+      "rank": 5,
+      "title": "极限挑战 重拍",
+      "topic_id": "2315222eb2ca935ba5b664ee067b62c87cce1a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 27,
+      "posts": "saved",
+      "query": "#莆田暴雨亲历者饿得受不了#",
+      "rank": 6,
+      "title": "莆田暴雨亲历者饿得受不了",
+      "topic_id": "231522ddb7defc2a651e95dd63a7e8ee5f2d0b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "张雪机车法国站排位赛包揽前二",
+      "rank": 7,
+      "title": "张雪机车法国站排位赛包揽前二",
+      "topic_id": "2315227e27ad573a7171c6e609fb637d5871bc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#这是真正凭本事吃饭的行业#",
+      "rank": 8,
+      "title": "这是真正凭本事吃饭的行业",
+      "topic_id": "231522325aeda4486639a7feb9aab66c2ef9ed"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "披哥二公排名",
+      "rank": 9,
+      "title": "披哥二公排名",
+      "topic_id": "2315221fb4e2530518f2490745ace5424c4b55"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 33,
+      "posts": "saved",
+      "query": "#花少2嘉宾干活表#",
+      "rank": 10,
+      "title": "花少2嘉宾干活表",
+      "topic_id": "2315225579337c35c560d0b56e63ede236cb88"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#王楚钦退赛1000卫冕积分即将清零#",
+      "rank": 11,
+      "title": "王楚钦退赛1000卫冕积分即将清零",
+      "topic_id": "2315227f1798f5fadc0a80ca7bd1566d33322e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "2015湖南台综艺有多神",
+      "rank": 12,
+      "title": "2015湖南台综艺有多神",
+      "topic_id": "231522a364a2bcfddbcd8d70a6b33509abefa3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#松岛辉空或将登顶世界第一#",
+      "rank": 13,
+      "title": "松岛辉空或将登顶世界第一",
+      "topic_id": "231522fc28e1fe124fe3eb3090c5a418d04f05"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "萨巴伦卡晋级美网16强",
+      "rank": 14,
+      "title": "萨巴伦卡晋级美网16强",
+      "topic_id": "23152237e2bc6e77c98da028c04042b231124c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 22,
+      "posts": "saved",
+      "query": "#多方回应18岁女孩疑被已婚男友打死#",
+      "rank": 15,
+      "title": "多方回应18岁女孩疑被已婚男友打死",
+      "topic_id": "2315223df3e36fa767d7f7b4f0a8afe55a7c51"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#上海到成都被订硬座还打卡女子拒出差#",
+      "rank": 16,
+      "title": "上海到成都被订硬座还打卡女子拒出差",
+      "topic_id": "23152258ed8a1810a79563bde8260108862580"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 29,
+      "posts": "saved",
+      "query": "28岁的人生应该是什么样呢",
+      "rank": 17,
+      "title": "28岁的人生应该是什么样呢",
+      "topic_id": "2315224123b938d0f694bc1672d20c4f7206f8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 27,
+      "posts": "saved",
+      "query": "郑钦文vs凯斯比赛时间",
+      "rank": 18,
+      "title": "郑钦文vs凯斯比赛时间",
+      "topic_id": "231522127c29a413bb04ec8c1021eef4d6e53a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 30,
+      "posts": "saved",
+      "query": "#寿司郎给孩子接小便的家长回应#",
+      "rank": 19,
+      "title": "寿司郎给孩子接小便的家长回应",
+      "topic_id": "2315220374d9437304b3e79fc984cb8c1a2b67"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "想找大结果先自己成为大结果",
+      "rank": 20,
+      "title": "想找大结果先自己成为大结果",
+      "topic_id": "2315225eeecc9b716849682f3c44b63ae57778"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "将40岁的身体恢复到25岁的方法",
+      "rank": 21,
+      "title": "将40岁的身体恢复到25岁的方法",
+      "topic_id": "231522ad7fd18aa3edcbc7134be3819db918a6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 26,
+      "posts": "saved",
+      "query": "出轨跟纸片人啥关系",
+      "rank": 22,
+      "title": "出轨跟纸片人啥关系",
+      "topic_id": "2315227805f2319dae552f0c85dc7ae7108351"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "贝蒂斯VS皇马",
+      "rank": 23,
+      "title": "贝蒂斯VS皇马",
+      "topic_id": "2315229317ebe461cc5a7882687576abc99a45"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 51,
+      "posts": "saved",
+      "query": "美网第三轮",
+      "rank": 24,
+      "title": "美网第三轮",
+      "topic_id": "2315226beb57697d9694389b745e8624f899f3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "中国女篮 到底练什么了",
+      "rank": 25,
+      "title": "中国女篮 到底练什么了",
+      "topic_id": "23152240189ffaeb1875ec21ca422bc73465ab"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 45,
+      "posts": "saved",
+      "query": "#教育部回应教师不敢管学生#",
+      "rank": 26,
+      "title": "教育部回应教师不敢管学生",
+      "topic_id": "23152237833b1dc1c731fad387952bc8776e5b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#妈妈震惊女儿发箍标价1490元#",
+      "rank": 27,
+      "title": "妈妈震惊女儿发箍标价1490元",
+      "topic_id": "231522484973ade238738d7efbdb96cd151532"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 23,
+      "posts": "saved",
+      "query": "#曹骏回应难听#",
+      "rank": 28,
+      "title": "曹骏回应难听",
+      "topic_id": "2315229878fba015718831b98bb538db24e6cd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "花少8开局就是地狱难度",
+      "rank": 29,
+      "title": "花少8开局就是地狱难度",
+      "topic_id": "2315222317d8b0524d8d8b52780d7933070fd7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 27,
+      "posts": "saved",
+      "query": "#莆田部分区域严重内涝停水停电#",
+      "rank": 30,
+      "title": "莆田部分区域严重内涝停水停电",
+      "topic_id": "23152214278aa036eb9cce1252df597ec02521"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#俄罗斯建粉碎大日本帝国纪念碑#",
+      "rank": 31,
+      "title": "俄罗斯建粉碎大日本帝国纪念碑",
+      "topic_id": "2315227bd351bbc8dd7366157ef18cc8f535d9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#原来高定是直接把人请到总部量身定制#",
+      "rank": 32,
+      "title": "原来高定是直接把人请到总部量身定制",
+      "topic_id": "231522e5f251278622867c781a64a8d412e3a0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#孙千听到今天星期五的反应#",
+      "rank": 33,
+      "title": "孙千听到今天星期五的反应",
+      "topic_id": "231522731167fa45862e157a8a53594442aa8b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 44,
+      "posts": "saved",
+      "query": "同花顺",
+      "rank": 34,
+      "title": "同花顺",
+      "topic_id": "23152271f5d2e78c573132aee5b9407333c642"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张雪机车回应排位赛包揽前2#",
+      "rank": 35,
+      "title": "张雪机车回应排位赛包揽前2",
+      "topic_id": "231522f0facef424f569c913fb7dfcce052ebc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#印度2只流浪狗吓退性侵者#",
+      "rank": 36,
+      "title": "印度2只流浪狗吓退性侵者",
+      "topic_id": "2315222ec2351688aa91fed9bb55bc96d9e61c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "德比斯摔车后夺杆位",
+      "rank": 37,
+      "title": "德比斯摔车后夺杆位",
+      "topic_id": "231522deb806126881e534155af305e592722a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 24,
+      "posts": "saved",
+      "query": "#特朗普称美联储应该降息#",
+      "rank": 38,
+      "title": "特朗普称美联储应该降息",
+      "topic_id": "231522adc177d2c14f17af3d64811d572341d2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "要你管 难听",
+      "rank": 39,
+      "title": "要你管 难听",
+      "topic_id": "2315228b76a10183f6a76924558c42dadfc719"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#配型发现非亲生女儿称妈妈常问我死了吗#",
+      "rank": 40,
+      "title": "配型发现非亲生女儿称妈妈常问我死了吗",
+      "topic_id": "231522ec1ee8ee64112e7e8137de03fad38cde"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 51,
+      "posts": "saved",
+      "query": "中国女篮vs美国女篮",
+      "rank": 41,
+      "title": "中国女篮vs美国女篮",
+      "topic_id": "231522ced760a2779ef24e52fc1e4881ecfc40"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "张雪机车 WSBK法国站",
+      "rank": 42,
+      "title": "张雪机车 WSBK法国站",
+      "topic_id": "2315224a4a49435ad4f048b6092c4583d3c3a2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 23,
+      "posts": "saved",
+      "query": "#路人根本没兴趣和耐心回看花少6#",
+      "rank": 43,
+      "title": "路人根本没兴趣和耐心回看花少6",
+      "topic_id": "23152276657c6775a38bb31cc21fe3e0193207"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "张雪机车排位赛包揽前二",
+      "rank": 44,
+      "title": "张雪机车排位赛包揽前二",
+      "topic_id": "231522a48631fd2e8b6f6d4b46ede33513000f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "韩国学校挂明星不挂科学家",
+      "rank": 45,
+      "title": "韩国学校挂明星不挂科学家",
+      "topic_id": "2315224ae598e93eea3070db7f12ed9f3bd1cc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#配型非亲生女儿称报警基因检测全没用#",
+      "rank": 46,
+      "title": "配型非亲生女儿称报警基因检测全没用",
+      "topic_id": "2315229b3e48a25821fb325cb4db202d5b943c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "TES iG首发名单",
+      "rank": 47,
+      "title": "TES iG首发名单",
+      "topic_id": "23152270d84f917ebdb93c4538fbb9f997c603"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 40,
+      "posts": "saved",
+      "query": "中国女篮不敌美国女篮",
+      "rank": 48,
+      "title": "中国女篮不敌美国女篮",
+      "topic_id": "2315221664ec4303f94721ede5369adee398bf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#本西蒙斯重返NBA#",
+      "rank": 49,
+      "title": "本西蒙斯重返NBA",
+      "topic_id": "2315226fbee0621e33533579197cdcdecb64ce"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "Pro Max命名被吐槽泛滥",
+      "rank": 50,
+      "title": "Pro Max命名被吐槽泛滥",
+      "topic_id": "231522802777ed7dfcd58a971129925e30380d"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
