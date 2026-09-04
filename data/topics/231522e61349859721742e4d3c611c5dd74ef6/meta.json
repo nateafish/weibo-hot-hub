@@ -3,11 +3,18 @@
   "created_at": 1788501392,
   "first_seen_at": "2026-09-04T14:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-04T17:00:00+08:00",
+  "last_seen_at": "2026-09-04T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9C%89%E4%BA%BA%E6%83%B3%E9%9D%A0%E5%A4%8D%E7%9B%98%E8%8A%B1%E5%B0%916%E6%B4%97%E7%99%BD%23%26t%3D3&title=发布媒体",
-    "show_str": "12家媒体",
+    "show_str": "14家媒体",
     "users": [
+      {
+        "id": 2617970297,
+        "idstr": "2617970297",
+        "screen_name": "湖南教育电视台",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1288429914,
         "idstr": "1288429914",
@@ -47,13 +54,6 @@
         "id": 2992050891,
         "idstr": "2992050891",
         "screen_name": "北京时间",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2647971081,
-        "idstr": "2647971081",
-        "screen_name": "时速新闻",
         "verified": true,
         "verified_type": 3
       }

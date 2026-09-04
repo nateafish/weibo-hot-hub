@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 5705021476
   },
-  "last_seen_at": "2026-09-04T17:00:00+08:00",
+  "last_seen_at": "2026-09-04T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%8E%8B%E8%AF%97%E6%99%B4%E8%AF%95%E7%AE%A1%E6%80%80%E5%AD%95%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "7家媒体",
     "users": [
       {
         "id": 7467277921,
@@ -30,6 +30,13 @@
         "verified_type": 3
       },
       {
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1882632930,
         "idstr": "1882632930",
         "screen_name": "新消息报",
@@ -40,6 +47,20 @@
         "id": 1288429914,
         "idstr": "1288429914",
         "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1280846847,
+        "idstr": "1280846847",
+        "screen_name": "指尖新闻-沈阳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1043320390,
+        "idstr": "1043320390",
+        "screen_name": "半岛晨报",
         "verified": true,
         "verified_type": 3
       }

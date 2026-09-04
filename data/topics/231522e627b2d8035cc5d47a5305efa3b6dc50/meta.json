@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 3645457357
   },
-  "last_seen_at": "2026-09-04T17:00:00+08:00",
+  "last_seen_at": "2026-09-04T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%90%B4%E5%90%9B%E5%A6%82%E7%9C%BC%E7%A5%9E%E5%B0%B1%E6%B2%A1%E7%A6%BB%E5%BC%80%E9%82%93%E4%B8%BA%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "7家媒体",
     "users": [
       {
         "id": 2535760180,
         "idstr": "2535760180",
         "screen_name": "安徽视讯",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2145932164,
+        "idstr": "2145932164",
+        "screen_name": "东莞日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1912416573,
+        "idstr": "1912416573",
+        "screen_name": "河南手机报",
         "verified": true,
         "verified_type": 3
       },
@@ -33,6 +54,13 @@
         "id": 1738004582,
         "idstr": "1738004582",
         "screen_name": "纵览新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1677991972,
+        "idstr": "1677991972",
+        "screen_name": "晶报",
         "verified": true,
         "verified_type": 3
       }
