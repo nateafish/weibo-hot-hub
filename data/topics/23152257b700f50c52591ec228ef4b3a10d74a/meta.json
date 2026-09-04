@@ -3,29 +3,29 @@
   "created_at": 1788514438,
   "first_seen_at": "2026-09-04T18:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-04T18:00:00+08:00",
+  "last_seen_at": "2026-09-04T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%A6%8F%E5%BB%BA%E5%8F%97%E7%81%BE%E4%B8%A5%E9%87%8D%23%26t%3D3&title=发布媒体",
-    "show_str": "11家媒体",
+    "show_str": "46家媒体",
     "users": [
+      {
+        "id": 2286092114,
+        "idstr": "2286092114",
+        "screen_name": "中国蓝新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1618051664,
+        "idstr": "1618051664",
+        "screen_name": "头条新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 7476748260,
         "idstr": "7476748260",
         "screen_name": "大公文匯網",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5237278176,
-        "idstr": "5237278176",
-        "screen_name": "中国城市报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3266943013,
-        "idstr": "3266943013",
-        "screen_name": "央视网",
         "verified": true,
         "verified_type": 3
       },
@@ -37,25 +37,25 @@
         "verified_type": 3
       },
       {
-        "id": 2292896411,
-        "idstr": "2292896411",
-        "screen_name": "中工网",
+        "id": 6590980486,
+        "idstr": "6590980486",
+        "screen_name": "捉谣记",
+        "verified": true,
+        "verified_type": 7
+      },
+      {
+        "id": 6444725927,
+        "idstr": "6444725927",
+        "screen_name": "吉祥新闻",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1893892941,
-        "idstr": "1893892941",
-        "screen_name": "北京日报",
+        "id": 6092578444,
+        "idstr": "6092578444",
+        "screen_name": "新浪种草官",
         "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1753234175,
-        "idstr": "1753234175",
-        "screen_name": "泰安日报",
-        "verified": true,
-        "verified_type": 3
+        "verified_type": 7
       }
     ]
   },

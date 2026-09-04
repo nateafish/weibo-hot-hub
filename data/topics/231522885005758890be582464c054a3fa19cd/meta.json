@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2460937233
   },
-  "last_seen_at": "2026-09-04T18:00:00+08:00",
+  "last_seen_at": "2026-09-04T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%8B%8D%E4%B8%8B%E5%AF%BF%E5%8F%B8%E9%83%8E%E5%84%BF%E7%AB%A5%E5%B0%8F%E4%BE%BF%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%86%8D%E5%8F%91%E5%A3%B0%23%26t%3D3&title=发布媒体",
-    "show_str": "19家媒体",
+    "show_str": "28家媒体",
     "users": [
       {
         "id": 2460937233,
         "idstr": "2460937233",
         "screen_name": "热度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -37,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 7614350023,
+        "idstr": "7614350023",
+        "screen_name": "锦绣大运",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6536846182,
         "idstr": "6536846182",
         "screen_name": "现代快报快快看视频",
@@ -47,20 +61,6 @@
         "id": 3921819799,
         "idstr": "3921819799",
         "screen_name": "即刻观察",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2630281751,
-        "idstr": "2630281751",
-        "screen_name": "快报泰州",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2118120483,
-        "idstr": "2118120483",
-        "screen_name": "青岛日报",
         "verified": true,
         "verified_type": 3
       }
