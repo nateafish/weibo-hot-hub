@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2656274875
   },
-  "last_seen_at": "2026-09-04T15:00:00+08:00",
+  "last_seen_at": "2026-09-04T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%E4%B8%B4%E6%97%B6%E4%BE%9B%E7%94%B5%E7%BA%BF%E8%B7%AF%E5%B7%B2%E6%8A%A2%E9%80%9A%23%26t%3D3&title=发布媒体",
-    "show_str": "21家媒体",
+    "show_str": "41家媒体",
     "users": [
       {
         "id": 2656274875,
@@ -30,6 +30,13 @@
         "verified_type": 3
       },
       {
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1988645095,
         "idstr": "1988645095",
         "screen_name": "北京商报",
@@ -37,30 +44,23 @@
         "verified_type": 3
       },
       {
-        "id": 6444725927,
-        "idstr": "6444725927",
-        "screen_name": "吉祥新闻",
+        "id": 7373111326,
+        "idstr": "7373111326",
+        "screen_name": "正观新闻",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 6304381077,
-        "idstr": "6304381077",
-        "screen_name": "老友记TV",
+        "id": 7308140398,
+        "idstr": "7308140398",
+        "screen_name": "大象新闻",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2921799343,
-        "idstr": "2921799343",
-        "screen_name": "天下泉城",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2632236847,
-        "idstr": "2632236847",
-        "screen_name": "香港文匯網",
+        "id": 7211561239,
+        "idstr": "7211561239",
+        "screen_name": "央视频",
         "verified": true,
         "verified_type": 3
       }
