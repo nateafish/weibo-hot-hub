@@ -3,10 +3,10 @@
   "created_at": null,
   "first_seen_at": "2026-09-04T17:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-04T19:00:00+08:00",
+  "last_seen_at": "2026-09-04T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%96%B0%E9%9F%B3%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "5家媒体",
     "users": [
       {
         "id": 1655444627,
@@ -28,6 +28,20 @@
         "screen_name": "西安广播电视台",
         "verified": true,
         "verified_type": 3
+      },
+      {
+        "id": 1960332210,
+        "idstr": "1960332210",
+        "screen_name": "大河新乡网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1791493774,
+        "idstr": "1791493774",
+        "screen_name": "每日质量报道网",
+        "verified": true,
+        "verified_type": 2
       }
     ]
   },

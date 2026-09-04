@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 5396094153
   },
-  "last_seen_at": "2026-09-04T19:00:00+08:00",
+  "last_seen_at": "2026-09-04T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%8E%86%E7%94%B0%E6%9A%B4%E9%9B%A8%E4%B8%80%E8%BE%86SUV%E5%BC%80%E4%B8%8A%E4%BA%BA%E8%A1%8C%E5%A4%A9%E6%A1%A5%23%26t%3D3&title=发布媒体",
-    "show_str": "18家媒体",
+    "show_str": "28家媒体",
     "users": [
+      {
+        "id": 1725252714,
+        "idstr": "1725252714",
+        "screen_name": "温度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 5396094153,
         "idstr": "5396094153",
         "screen_name": "大众新闻-大众日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1847123567,
+        "idstr": "1847123567",
+        "screen_name": "香港商報",
         "verified": true,
         "verified_type": 3
       },
@@ -37,30 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2921799343,
-        "idstr": "2921799343",
-        "screen_name": "天下泉城",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2703033997,
-        "idstr": "2703033997",
-        "screen_name": "海峡都市报莆田新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2318910945,
-        "idstr": "2318910945",
-        "screen_name": "新浪热点",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2107036715,
-        "idstr": "2107036715",
-        "screen_name": "黄三角早报-东营",
+        "id": 5116298586,
+        "idstr": "5116298586",
+        "screen_name": "昆明日报掌上春城",
         "verified": true,
         "verified_type": 3
       }
