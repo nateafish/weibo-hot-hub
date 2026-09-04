@@ -10,7 +10,7 @@
     "status": 2,
     "uid": 1642634100
   },
-  "last_seen_at": "2026-09-04T22:00:00+08:00",
+  "last_seen_at": "2026-09-04T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8D%8E%E4%B8%BA%E4%BD%95%E5%BA%AD%E6%B3%A2%E5%86%8D%E6%9B%B4%E6%96%B0%E9%9F%AC%E5%AE%9A%E5%BE%8B%E8%AE%BA%E6%96%87%23%26t%3D3&title=发布媒体",
     "show_str": "4家媒体",
@@ -19,6 +19,13 @@
         "id": 1642634100,
         "idstr": "1642634100",
         "screen_name": "新浪科技",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1638782947,
+        "idstr": "1638782947",
+        "screen_name": "新浪财经",
         "verified": true,
         "verified_type": 3
       },
@@ -33,13 +40,6 @@
         "id": 1926909715,
         "idstr": "1926909715",
         "screen_name": "第一财经日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1638782947,
-        "idstr": "1638782947",
-        "screen_name": "新浪财经",
         "verified": true,
         "verified_type": 3
       }
