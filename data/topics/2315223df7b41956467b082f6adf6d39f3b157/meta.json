@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 6320391439
   },
-  "last_seen_at": "2026-09-04T07:00:00+08:00",
+  "last_seen_at": "2026-09-04T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%83%91%E9%92%A6%E6%96%87vs%E5%87%AF%E6%96%AF%23%26t%3D3&title=发布媒体",
-    "show_str": "13家媒体",
+    "show_str": "26家媒体",
     "users": [
       {
         "id": 7051979649,
         "idstr": "7051979649",
         "screen_name": "咪咕冰雪",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3229962754,
+        "idstr": "3229962754",
+        "screen_name": "陕视新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1960785875,
+        "idstr": "1960785875",
+        "screen_name": "津云新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2297008700,
-        "idstr": "2297008700",
-        "screen_name": "七星体育",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2105365573,
-        "idstr": "2105365573",
-        "screen_name": "威海播报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2010802407,
-        "idstr": "2010802407",
-        "screen_name": "中国台州网",
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
         "verified": true,
         "verified_type": 3
       }

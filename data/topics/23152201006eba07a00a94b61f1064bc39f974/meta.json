@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 7308140398
   },
-  "last_seen_at": "2026-09-04T07:00:00+08:00",
+  "last_seen_at": "2026-09-04T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%233%E5%B2%81%E7%94%B7%E7%AB%A5%E9%95%BF%E6%9C%9F%E5%90%83%E9%9A%94%E5%A4%9C%E8%8F%9C%E4%B8%AD%E6%AF%92%E4%BD%8F%E8%BF%9BPICU%23%26t%3D3&title=发布媒体",
-    "show_str": "26家媒体",
+    "show_str": "44家媒体",
     "users": [
       {
         "id": 7308140398,
@@ -26,6 +26,13 @@
         "id": 1751714412,
         "idstr": "1751714412",
         "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5110439722,
+        "idstr": "5110439722",
+        "screen_name": "哈尔滨经济广播电台",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 5110439722,
-        "idstr": "5110439722",
-        "screen_name": "哈尔滨经济广播电台",
+        "id": 6508016609,
+        "idstr": "6508016609",
+        "screen_name": "风闻社区",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1791298665,
-        "idstr": "1791298665",
-        "screen_name": "奔流新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1704185933,
-        "idstr": "1704185933",
-        "screen_name": "聊城晚报",
+        "id": 5426766895,
+        "idstr": "5426766895",
+        "screen_name": "青州广电",
         "verified": true,
         "verified_type": 3
       }

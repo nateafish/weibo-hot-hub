@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1683472727
   },
-  "last_seen_at": "2026-09-04T07:00:00+08:00",
+  "last_seen_at": "2026-09-04T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%B9%BF%E5%B7%9E%E5%8F%96%E6%B6%88%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%A0%A1%E6%9C%8D%E7%BB%9F%E4%B8%80%E8%AE%A2%E8%B4%AD%23%26t%3D3&title=发布媒体",
-    "show_str": "13家媒体",
+    "show_str": "24家媒体",
     "users": [
       {
         "id": 1683472727,
         "idstr": "1683472727",
         "screen_name": "央广网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1789681642,
+        "idstr": "1789681642",
+        "screen_name": "第一现场",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +37,30 @@
         "verified_type": 3
       },
       {
-        "id": 2813313591,
-        "idstr": "2813313591",
-        "screen_name": "中新网海南",
+        "id": 2291471981,
+        "idstr": "2291471981",
+        "screen_name": "济宁新闻网",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2105365573,
-        "idstr": "2105365573",
-        "screen_name": "威海播报",
+        "id": 1895096900,
+        "idstr": "1895096900",
+        "screen_name": "深圳新闻网",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2011805155,
-        "idstr": "2011805155",
-        "screen_name": "烟台音乐广播",
+        "id": 1651428902,
+        "idstr": "1651428902",
+        "screen_name": "21世纪经济报道",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1915671961,
-        "idstr": "1915671961",
-        "screen_name": "陕西都市快报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1912416573,
-        "idstr": "1912416573",
-        "screen_name": "河南手机报",
+        "id": 1650111241,
+        "idstr": "1650111241",
+        "screen_name": "中国经营报",
         "verified": true,
         "verified_type": 3
       }

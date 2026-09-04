@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 6154234421
   },
-  "last_seen_at": "2026-09-04T07:00:00+08:00",
+  "last_seen_at": "2026-09-04T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%99%AE%E9%80%9A%E4%BA%BA%E6%B2%A1%E5%BF%85%E8%A6%81%E8%BF%BD%E6%B1%82%E7%94%B5%E5%AD%90%E4%BA%A7%E5%93%81%E9%A1%B6%E9%85%8D%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "9家媒体",
     "users": [
       {
         "id": 6154234421,
@@ -26,6 +26,20 @@
         "id": 1926909715,
         "idstr": "1926909715",
         "screen_name": "第一财经日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7472661262,
+        "idstr": "7472661262",
+        "screen_name": "人民网消费",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3288875501,
+        "idstr": "3288875501",
+        "screen_name": "河南日报",
         "verified": true,
         "verified_type": 3
       },
@@ -47,13 +61,6 @@
         "id": 1667942985,
         "idstr": "1667942985",
         "screen_name": "长三角之声",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1649173367,
-        "idstr": "1649173367",
-        "screen_name": "每日经济新闻",
         "verified": true,
         "verified_type": 3
       }

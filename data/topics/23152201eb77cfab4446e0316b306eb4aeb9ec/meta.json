@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1893892941
   },
-  "last_seen_at": "2026-09-04T07:00:00+08:00",
+  "last_seen_at": "2026-09-04T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%E6%B7%A4%E6%B3%A5%E9%87%8C%E5%8F%91%E7%8E%B0%E8%AD%A6%E6%9C%8D%23%26t%3D3&title=发布媒体",
-    "show_str": "13家媒体",
+    "show_str": "58家媒体",
     "users": [
       {
         "id": 1893892941,
         "idstr": "1893892941",
         "screen_name": "北京日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1727472420,
+        "idstr": "1727472420",
+        "screen_name": "泰山晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +37,30 @@
         "verified_type": 3
       },
       {
-        "id": 7542252663,
-        "idstr": "7542252663",
-        "screen_name": "北京质量报告",
+        "id": 3266943013,
+        "idstr": "3266943013",
+        "screen_name": "央视网",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 6890796357,
-        "idstr": "6890796357",
-        "screen_name": "日照日报",
+        "id": 7476748260,
+        "idstr": "7476748260",
+        "screen_name": "大公文匯網",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2145917613,
-        "idstr": "2145917613",
-        "screen_name": "北京日报都视频",
+        "id": 1867571077,
+        "idstr": "1867571077",
+        "screen_name": "听中国",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2118205862,
-        "idstr": "2118205862",
-        "screen_name": "宁夏新闻网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1975995305,
-        "idstr": "1975995305",
-        "screen_name": "西安晚报",
+        "id": 1644114654,
+        "idstr": "1644114654",
+        "screen_name": "新京报",
         "verified": true,
         "verified_type": 3
       }

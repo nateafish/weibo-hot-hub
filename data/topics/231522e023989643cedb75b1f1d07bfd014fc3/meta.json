@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 1496814565
   },
-  "last_seen_at": "2026-09-04T07:00:00+08:00",
+  "last_seen_at": "2026-09-04T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%BA%E6%95%91%E6%AF%8D%E5%8F%91%E7%8E%B0%E9%9D%9E%E4%BA%B2%E7%94%9F%E5%A5%B3%E5%AD%90%E5%8F%91%E5%A3%B0%23%26t%3D3&title=发布媒体",
-    "show_str": "13家媒体",
+    "show_str": "31家媒体",
     "users": [
+      {
+        "id": 2286092114,
+        "idstr": "2286092114",
+        "screen_name": "中国蓝新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1496814565,
         "idstr": "1496814565",
         "screen_name": "封面新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1887344341,
+        "idstr": "1887344341",
+        "screen_name": "观察者网",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 5763593746,
         "idstr": "5763593746",
         "screen_name": "资阳快播报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5745238615,
-        "idstr": "5745238615",
-        "screen_name": "封面快播报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5743709752,
-        "idstr": "5743709752",
-        "screen_name": "绵阳快播报",
         "verified": true,
         "verified_type": 3
       }
