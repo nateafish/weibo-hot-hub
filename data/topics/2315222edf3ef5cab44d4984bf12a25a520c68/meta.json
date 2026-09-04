@@ -3,11 +3,18 @@
   "created_at": 1788491515,
   "first_seen_at": "2026-09-04T13:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-04T13:00:00+08:00",
+  "last_seen_at": "2026-09-04T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%9C%8B%E5%AE%8C%E8%8A%B1%E5%B0%913%E5%90%8E%E5%B9%B3%E7%AD%89%E7%9C%8B%E4%B8%8D%E9%A1%BA%E7%9C%BC%E6%89%80%E6%9C%89%E8%89%BA%E4%BA%BA%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "6家媒体",
     "users": [
+      {
+        "id": 7708039348,
+        "idstr": "7708039348",
+        "screen_name": "北青娱见",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2647971081,
         "idstr": "2647971081",
@@ -26,6 +33,13 @@
         "id": 1653603955,
         "idstr": "1653603955",
         "screen_name": "扬子晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1647210043,
+        "idstr": "1647210043",
+        "screen_name": "百姓关注",
         "verified": true,
         "verified_type": 3
       },

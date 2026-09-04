@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1668769021
   },
-  "last_seen_at": "2026-09-04T13:00:00+08:00",
+  "last_seen_at": "2026-09-04T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%AA%81%E7%84%B6%E5%8F%91%E7%8E%B0%E5%A4%A7%E5%AE%B6%E9%83%BD%E6%9C%89%E7%9C%81%E9%92%B1%E6%84%8F%E8%AF%86%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "14家媒体",
+    "show_str": "18家媒体",
     "users": [
       {
         "id": 6154234421,
         "idstr": "6154234421",
         "screen_name": "万像新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5465565905,
+        "idstr": "5465565905",
+        "screen_name": "印象新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -37,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 1926909715,
+        "idstr": "1926909715",
+        "screen_name": "第一财经日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6860871423,
         "idstr": "6860871423",
         "screen_name": "四川日报报业集团人力资源报",
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 5993531560,
-        "idstr": "5993531560",
-        "screen_name": "中新经纬",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3275115274,
-        "idstr": "3275115274",
-        "screen_name": "中国吉林网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2292896411,
-        "idstr": "2292896411",
-        "screen_name": "中工网",
+        "id": 6046112792,
+        "idstr": "6046112792",
+        "screen_name": "河马视频",
         "verified": true,
         "verified_type": 3
       }
