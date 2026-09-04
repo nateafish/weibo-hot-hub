@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1642512402
   },
-  "last_seen_at": "2026-09-04T23:00:00+08:00",
+  "last_seen_at": "2026-09-05T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%8E%86%E7%94%B0%E8%A2%AB%E5%9B%B0%E8%80%81%E4%BA%BA%E7%A7%B0%E5%B7%B2%E6%96%AD%E6%B0%B4%E6%96%AD%E7%B2%AE%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "3家媒体",
     "users": [
       {
         "id": 1642512402,
         "idstr": "1642512402",
         "screen_name": "中国新闻周刊",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3901624042,
+        "idstr": "3901624042",
+        "screen_name": "山西日报",
         "verified": true,
         "verified_type": 3
       },
