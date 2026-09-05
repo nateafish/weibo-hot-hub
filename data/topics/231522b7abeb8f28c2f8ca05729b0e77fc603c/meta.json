@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 6389872027
   },
-  "last_seen_at": "2026-09-05T20:00:00+08:00",
+  "last_seen_at": "2026-09-05T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%82%96%E6%88%98%E7%BB%99%E6%9D%8E%E5%AE%87%E6%98%A5%E5%8C%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A%E9%80%81%E8%8A%B1%E7%AF%AE%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "9家媒体",
     "users": [
+      {
+        "id": 7090942012,
+        "idstr": "7090942012",
+        "screen_name": "星同事",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 6579479312,
         "idstr": "6579479312",
@@ -30,16 +37,30 @@
         "verified_type": 2
       },
       {
-        "id": 1880922220,
-        "idstr": "1880922220",
-        "screen_name": "金华晚报",
+        "id": 2535760180,
+        "idstr": "2535760180",
+        "screen_name": "安徽视讯",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1266269835,
-        "idstr": "1266269835",
-        "screen_name": "新浪音乐",
+        "id": 2106115754,
+        "idstr": "2106115754",
+        "screen_name": "北京文艺广播",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1725252714,
+        "idstr": "1725252714",
+        "screen_name": "温度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1655444627,
+        "idstr": "1655444627",
+        "screen_name": "潇湘晨报",
         "verified": true,
         "verified_type": 3
       }
