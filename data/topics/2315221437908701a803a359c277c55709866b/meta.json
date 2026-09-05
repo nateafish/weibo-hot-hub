@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 1744332207
   },
-  "last_seen_at": "2026-09-05T17:00:00+08:00",
+  "last_seen_at": "2026-09-05T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%AC%AC%E4%B8%80%E6%89%B9%E6%88%B4%E8%BF%90%E5%8A%A8%E6%89%8B%E7%8E%AF%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "98家媒体",
+    "show_str": "106家媒体",
     "users": [
       {
         "id": 1744332207,
         "idstr": "1744332207",
         "screen_name": "钱江视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6115560351,
+        "idstr": "6115560351",
+        "screen_name": "国是直通车",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -37,13 +51,6 @@
         "verified_type": 3
       },
       {
-        "id": 6115560351,
-        "idstr": "6115560351",
-        "screen_name": "国是直通车",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 3514732862,
         "idstr": "3514732862",
         "screen_name": "广西日报",
@@ -51,16 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1913382117,
-        "idstr": "1913382117",
-        "screen_name": "深圳晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2001789077,
-        "idstr": "2001789077",
-        "screen_name": "兵团日报",
+        "id": 2010802407,
+        "idstr": "2010802407",
+        "screen_name": "中国台州网",
         "verified": true,
         "verified_type": 3
       }
