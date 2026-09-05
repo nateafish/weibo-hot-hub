@@ -10,11 +10,25 @@
     "status": 2,
     "uid": 6580611042
   },
-  "last_seen_at": "2026-09-05T12:00:00+08:00",
+  "last_seen_at": "2026-09-05T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%AD%9F%E5%AD%90%E4%B9%89%E5%BC%A0%E6%9C%88%E5%85%AC%E4%B8%BB%E9%80%A0%E5%9E%8B%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "5家媒体",
     "users": [
+      {
+        "id": 1960785875,
+        "idstr": "1960785875",
+        "screen_name": "津云新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2685336121,
         "idstr": "2685336121",
@@ -23,9 +37,9 @@
         "verified_type": 3
       },
       {
-        "id": 1880922220,
-        "idstr": "1880922220",
-        "screen_name": "金华晚报",
+        "id": 1636678683,
+        "idstr": "1636678683",
+        "screen_name": "长天新闻",
         "verified": true,
         "verified_type": 3
       },
