@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 6342912608
   },
-  "last_seen_at": "2026-08-25T07:00:00+08:00",
+  "last_seen_at": "2026-09-06T04:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%BE%8E%E7%BD%912026%23%26t%3D3&title=发布媒体",
-    "show_str": "8家媒体",
+    "show_str": "43家媒体",
     "users": [
+      {
+        "id": 6299534218,
+        "idstr": "6299534218",
+        "screen_name": "北青体育",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1819318401,
         "idstr": "1819318401",
         "screen_name": "央视网体育",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1436891042,
+        "idstr": "1436891042",
+        "screen_name": "体坛报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 1234849602,
+        "idstr": "1234849602",
+        "screen_name": "新浪网球",
+        "verified": true,
+        "verified_type": 7
+      },
+      {
         "id": 1677991972,
         "idstr": "1677991972",
         "screen_name": "晶报",
@@ -37,30 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 6299534218,
-        "idstr": "6299534218",
-        "screen_name": "北青体育",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2144584133,
-        "idstr": "2144584133",
-        "screen_name": "人民体育",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1913382117,
-        "idstr": "1913382117",
-        "screen_name": "深圳晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1655068234,
-        "idstr": "1655068234",
-        "screen_name": "东方体育日报",
+        "id": 7051979649,
+        "idstr": "7051979649",
+        "screen_name": "咪咕冰雪",
         "verified": true,
         "verified_type": 3
       }
