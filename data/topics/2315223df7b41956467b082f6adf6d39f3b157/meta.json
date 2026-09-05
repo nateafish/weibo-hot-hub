@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 6320391439
   },
-  "last_seen_at": "2026-09-04T08:00:00+08:00",
+  "last_seen_at": "2026-09-05T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%83%91%E9%92%A6%E6%96%87vs%E5%87%AF%E6%96%AF%23%26t%3D3&title=发布媒体",
-    "show_str": "26家媒体",
+    "show_str": "32家媒体",
     "users": [
+      {
+        "id": 1960785875,
+        "idstr": "1960785875",
+        "screen_name": "津云新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 7051979649,
         "idstr": "7051979649",
@@ -30,9 +37,23 @@
         "verified_type": 3
       },
       {
-        "id": 1960785875,
-        "idstr": "1960785875",
-        "screen_name": "津云新闻",
+        "id": 2217754287,
+        "idstr": "2217754287",
+        "screen_name": "桂林晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1819318401,
+        "idstr": "1819318401",
+        "screen_name": "央视网体育",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -40,27 +61,6 @@
         "id": 7728270349,
         "idstr": "7728270349",
         "screen_name": "新闻种草官",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5822206027,
-        "idstr": "5822206027",
-        "screen_name": "北斗融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3048800300,
-        "idstr": "3048800300",
-        "screen_name": "新浪圈子",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2685336121,
-        "idstr": "2685336121",
-        "screen_name": "南宁晚报",
         "verified": true,
         "verified_type": 3
       }

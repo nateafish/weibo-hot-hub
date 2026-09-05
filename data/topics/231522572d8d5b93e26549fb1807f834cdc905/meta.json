@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 6511184518
   },
-  "last_seen_at": "2026-09-05T21:00:00+08:00",
+  "last_seen_at": "2026-09-05T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%89%8D%E7%9F%A5%E9%81%93%E9%99%88%E5%A6%8D%E5%B8%8C%E5%84%BF%E5%AD%90%E5%90%8D%E5%AD%97%E9%99%88%E7%9D%A6%E8%BE%B0%23%26t%3D3&title=发布媒体",
-    "show_str": "15家媒体",
+    "show_str": "16家媒体",
     "users": [
       {
         "id": 1288429914,
         "idstr": "1288429914",
         "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2356298087,
+        "idstr": "2356298087",
+        "screen_name": "河北经视",
         "verified": true,
         "verified_type": 3
       },
@@ -33,13 +40,6 @@
         "id": 2535760180,
         "idstr": "2535760180",
         "screen_name": "安徽视讯",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2356298087,
-        "idstr": "2356298087",
-        "screen_name": "河北经视",
         "verified": true,
         "verified_type": 3
       },
