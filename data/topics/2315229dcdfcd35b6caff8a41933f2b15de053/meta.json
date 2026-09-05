@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1744332207
   },
-  "last_seen_at": "2026-09-05T18:00:00+08:00",
+  "last_seen_at": "2026-09-05T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A5%B3%E5%AD%90%E5%90%83%E9%81%BF%E5%AD%95%E8%8D%AF%E5%90%8E%E4%B9%85%E5%9D%90%E6%97%85%E6%B8%B8%E6%82%A3%E8%82%BA%E6%A0%93%E5%A1%9E%23%26t%3D3&title=发布媒体",
-    "show_str": "31家媒体",
+    "show_str": "50家媒体",
     "users": [
       {
         "id": 1744332207,
@@ -23,9 +23,23 @@
         "verified_type": 3
       },
       {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2027480085,
         "idstr": "2027480085",
         "screen_name": "水母网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1959444680,
+        "idstr": "1959444680",
+        "screen_name": "云南网",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1398613133,
-        "idstr": "1398613133",
-        "screen_name": "马上资讯",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1618051664,
-        "idstr": "1618051664",
-        "screen_name": "头条新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7466959462,
-        "idstr": "7466959462",
-        "screen_name": "钱江频道-九点半",
+        "id": 6900707866,
+        "idstr": "6900707866",
+        "screen_name": "宜黄之窗",
         "verified": true,
         "verified_type": 3
       }
