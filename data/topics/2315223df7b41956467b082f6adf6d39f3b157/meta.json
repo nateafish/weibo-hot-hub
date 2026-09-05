@@ -10,22 +10,22 @@
     "status": 2,
     "uid": 6320391439
   },
-  "last_seen_at": "2026-09-05T23:00:00+08:00",
+  "last_seen_at": "2026-09-06T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%83%91%E9%92%A6%E6%96%87vs%E5%87%AF%E6%96%AF%23%26t%3D3&title=发布媒体",
-    "show_str": "32家媒体",
+    "show_str": "33家媒体",
     "users": [
-      {
-        "id": 1960785875,
-        "idstr": "1960785875",
-        "screen_name": "津云新闻",
-        "verified": true,
-        "verified_type": 3
-      },
       {
         "id": 7051979649,
         "idstr": "7051979649",
         "screen_name": "咪咕冰雪",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1960785875,
+        "idstr": "1960785875",
+        "screen_name": "津云新闻",
         "verified": true,
         "verified_type": 3
       },
