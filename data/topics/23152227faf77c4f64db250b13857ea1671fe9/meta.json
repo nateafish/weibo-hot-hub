@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2656274875
   },
-  "last_seen_at": "2026-09-05T13:00:00+08:00",
+  "last_seen_at": "2026-09-05T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%231%E5%B2%81%E8%A3%B8%E4%BD%93%E7%94%B7%E7%AB%A5%E6%B2%99%E6%BC%A0%E8%B5%B0%E5%A4%B112%E5%B0%8F%E6%97%B6%23%26t%3D3&title=发布媒体",
-    "show_str": "136家媒体",
+    "show_str": "160家媒体",
     "users": [
       {
         "id": 2656274875,
         "idstr": "2656274875",
         "screen_name": "央视新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1704185933,
+        "idstr": "1704185933",
+        "screen_name": "聊城晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 2337985010,
-        "idstr": "2337985010",
-        "screen_name": "瑞安融媒",
+        "id": 2460937233,
+        "idstr": "2460937233",
+        "screen_name": "热度新闻",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2001789077,
-        "idstr": "2001789077",
-        "screen_name": "兵团日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1420157965,
-        "idstr": "1420157965",
-        "screen_name": "上游新闻",
+        "id": 1406911561,
+        "idstr": "1406911561",
+        "screen_name": "云南广播电视台",
         "verified": true,
         "verified_type": 3
       }
