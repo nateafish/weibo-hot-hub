@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-05T08:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#习近平致信祝贺小喇叭开播70周年#",
+      "rank": 1,
+      "title": "习近平致信祝贺小喇叭开播70周年",
+      "topic_id": "231522d7a049af9412da075dc32cb513e2b887"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 31,
+      "posts": "saved",
+      "query": "#2岁男童把家中百草枯当饮料喝下#",
+      "rank": 1,
+      "title": "2岁男童把家中百草枯当饮料喝下",
+      "topic_id": "2315226441b91b838df335a2fee6e8751ca383"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 20,
+      "posts": "saved",
+      "query": "日本请求俄拆纪念碑菊花纹章遭拒",
+      "rank": 2,
+      "title": "日本请求俄拆纪念碑菊花纹章遭拒",
+      "topic_id": "231522590cdf16c53de7f782c13864f387a233"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#全国多地迎来丰收季#",
+      "rank": 3,
+      "title": "全国多地迎来丰收季",
+      "topic_id": "23152222b8f86d18ff33833a9ed3370c3b4537"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "极限挑战 重拍",
+      "rank": 4,
+      "title": "极限挑战 重拍",
+      "topic_id": "2315222eb2ca935ba5b664ee067b62c87cce1a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "皇马 姆巴佩",
+      "rank": 5,
+      "title": "皇马 姆巴佩",
+      "topic_id": "2315221cf2879838e92480d3c5ad47eb071dc3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#在夜市买了一只很可爱的串串小狗#",
+      "rank": 6,
+      "title": "在夜市买了一只很可爱的串串小狗",
+      "topic_id": "231522b2ce297dc657385ee0280bdd63ca0a01"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "为什么现在这么流行耳夹式耳机",
+      "rank": 7,
+      "title": "为什么现在这么流行耳夹式耳机",
+      "topic_id": "2315223fc4a3ce9808cb2dd7194ba46dd3bdd0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 24,
+      "posts": "saved",
+      "query": "#许晴被骂毛阿敏心疼#",
+      "rank": 8,
+      "title": "许晴被骂毛阿敏心疼",
+      "topic_id": "2315225549d16fc36b573efa63733fa541fc9f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#上海到成都被订硬座还打卡女子拒出差#",
+      "rank": 9,
+      "title": "上海到成都被订硬座还打卡女子拒出差",
+      "topic_id": "23152258ed8a1810a79563bde8260108862580"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#男子被打持刀反抗却遭压制窒息而死#",
+      "rank": 10,
+      "title": "男子被打持刀反抗却遭压制窒息而死",
+      "topic_id": "2315220f88fd4fe5d1217be9e4db19fddab6bf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "刘雯 避嫌",
+      "rank": 11,
+      "title": "刘雯 避嫌",
+      "topic_id": "231522ee287c0b72189cf0f431d16c9af432e8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 51,
+      "posts": "saved",
+      "query": "罗志祥复出争议",
+      "rank": 12,
+      "title": "罗志祥复出争议",
+      "topic_id": "231522f8e4c5d45be875cab40e4f2d040365fa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 32,
+      "posts": "saved",
+      "query": "#寿司郎给孩子接小便的家长回应#",
+      "rank": 13,
+      "title": "寿司郎给孩子接小便的家长回应",
+      "topic_id": "2315220374d9437304b3e79fc984cb8c1a2b67"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#安静公主说王俊凯粉丝既要又要#",
+      "rank": 14,
+      "title": "安静公主说王俊凯粉丝既要又要",
+      "topic_id": "231522d30583c5f7ccdc9320536e3a90ce37b6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#葫芦娃爷爷30天后要拆掉葫芦#",
+      "rank": 15,
+      "title": "葫芦娃爷爷30天后要拆掉葫芦",
+      "topic_id": "231522d4044c7c5394e2d453bf1d01ed1ea0fb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 51,
+      "posts": "saved",
+      "query": "#刘雯评论区#",
+      "rank": 16,
+      "title": "刘雯评论区",
+      "topic_id": "231522fd608328474c7a485306e48b0d774a91"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "佟丽娅陈思诚边界感",
+      "rank": 17,
+      "title": "佟丽娅陈思诚边界感",
+      "topic_id": "2315226ad87f2019fb44ab266e62e3b62af07e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 27,
+      "posts": "saved",
+      "query": "张雪机车法国站排位赛包揽前二",
+      "rank": 18,
+      "title": "张雪机车法国站排位赛包揽前二",
+      "topic_id": "2315227e27ad573a7171c6e609fb637d5871bc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "#俄罗斯建粉碎大日本帝国纪念碑#",
+      "rank": 19,
+      "title": "俄罗斯建粉碎大日本帝国纪念碑",
+      "topic_id": "2315227bd351bbc8dd7366157ef18cc8f535d9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "AI编程时代最黑暗的一晚",
+      "rank": 20,
+      "title": "AI编程时代最黑暗的一晚",
+      "topic_id": "231522e28b4cf4351373891434320d79aa3a66"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 32,
+      "posts": "saved",
+      "query": "#井柏然孙千cp粉现状#",
+      "rank": 21,
+      "title": "井柏然孙千cp粉现状",
+      "topic_id": "231522b80223c82eecb0350fbaa2d39a661816"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#怀念极限挑战不等于忽视失德艺人#",
+      "rank": 22,
+      "title": "怀念极限挑战不等于忽视失德艺人",
+      "topic_id": "231522137a397e94b74803ae360f9524c9f185"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#吉隆这个幼儿园外墙让记者泪崩#",
+      "rank": 23,
+      "title": "吉隆这个幼儿园外墙让记者泪崩",
+      "topic_id": "231522ea5ba93125cd61731f38b6ff6c0fbcdf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "早春晴朗 剧粉",
+      "rank": 24,
+      "title": "早春晴朗 剧粉",
+      "topic_id": "231522d9e565d8415816467e22eee3f178169c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 22,
+      "posts": "saved",
+      "query": "披哥二公排名",
+      "rank": 25,
+      "title": "披哥二公排名",
+      "topic_id": "2315221fb4e2530518f2490745ace5424c4b55"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#超1万册永乐大典副本下落不明#",
+      "rank": 26,
+      "title": "超1万册永乐大典副本下落不明",
+      "topic_id": "231522e1729f7280b3de37bd519c36b54ae026"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 21,
+      "posts": "saved",
+      "query": "#王一博加油的管子都是绿的#",
+      "rank": 27,
+      "title": "王一博加油的管子都是绿的",
+      "topic_id": "23152297be0310af04a0413a8cd5422405bfa6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#为什么人上了年纪脸会变宽#",
+      "rank": 28,
+      "title": "为什么人上了年纪脸会变宽",
+      "topic_id": "231522de41f1f00e413b5ccf9624b1d68e4576"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "非农数据 黄金",
+      "rank": 29,
+      "title": "非农数据 黄金",
+      "topic_id": "231522e825a4e9ffc4d45883ad919bef180154"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#王楚钦退赛1000卫冕积分即将清零#",
+      "rank": 30,
+      "title": "王楚钦退赛1000卫冕积分即将清零",
+      "topic_id": "2315227f1798f5fadc0a80ca7bd1566d33322e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 22,
+      "posts": "saved",
+      "query": "#宋雨琦瘦成啥了#",
+      "rank": 31,
+      "title": "宋雨琦瘦成啥了",
+      "topic_id": "231522851b8cbf75e2836a7f5b16b37a5e15af"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#松岛辉空或将登顶世界第一#",
+      "rank": 32,
+      "title": "松岛辉空或将登顶世界第一",
+      "topic_id": "231522fc28e1fe124fe3eb3090c5a418d04f05"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王传君老了才知芒果好#",
+      "rank": 33,
+      "title": "王传君老了才知芒果好",
+      "topic_id": "2315224ded6a619bc3ab549e7f78d71431297a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#贝林厄姆为姆巴佩出头#",
+      "rank": 34,
+      "title": "贝林厄姆为姆巴佩出头",
+      "topic_id": "231522463b7793f445b853f2ae81da4469a113"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "2015湖南台综艺有多神",
+      "rank": 35,
+      "title": "2015湖南台综艺有多神",
+      "topic_id": "231522a364a2bcfddbcd8d70a6b33509abefa3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "将40岁的身体恢复到25岁的方法",
+      "rank": 36,
+      "title": "将40岁的身体恢复到25岁的方法",
+      "topic_id": "231522ad7fd18aa3edcbc7134be3819db918a6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "导师要求学生开门保持1.5米",
+      "rank": 37,
+      "title": "导师要求学生开门保持1.5米",
+      "topic_id": "231522e386ffe23aa6609be6acca8c5ae564c7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#栾念扑倒压尚之桃身上#",
+      "rank": 38,
+      "title": "栾念扑倒压尚之桃身上",
+      "topic_id": "2315222a83d86025366f79bcc0d6d89219aa65"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#泰国芭提雅提前扫黄#",
+      "rank": 39,
+      "title": "泰国芭提雅提前扫黄",
+      "topic_id": "2315227bd12df17e5690e4a005f91557635a87"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#宇宙最大医院连续三任院长落马#",
+      "rank": 40,
+      "title": "宇宙最大医院连续三任院长落马",
+      "topic_id": "2315224e57b4d62b7b310cb942f1e193dc45fe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#出锅前放盐才是隐藏控盐高手#",
+      "rank": 41,
+      "title": "出锅前放盐才是隐藏控盐高手",
+      "topic_id": "231522f8c77f4a47b2d075c2dde5e3e49cd4d1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#美存储芯片光通信集体暴涨#",
+      "rank": 42,
+      "title": "美存储芯片光通信集体暴涨",
+      "topic_id": "231522c59e745d02819e863c9b6c83e2d63aa3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 44,
+      "posts": "saved",
+      "query": "#花少2嘉宾干活表#",
+      "rank": 43,
+      "title": "花少2嘉宾干活表",
+      "topic_id": "2315225579337c35c560d0b56e63ede236cb88"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 21,
+      "posts": "saved",
+      "query": "#迪丽热巴2026金九封面#",
+      "rank": 44,
+      "title": "迪丽热巴2026金九封面",
+      "topic_id": "231522d71f11ac9cd2ebd97d225be039f620c4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张雪机车再获第1名#",
+      "rank": 45,
+      "title": "张雪机车再获第1名",
+      "topic_id": "231522193b18bff3a06650d147471fe59eefa6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#这是真正凭本事吃饭的行业#",
+      "rank": 46,
+      "title": "这是真正凭本事吃饭的行业",
+      "topic_id": "231522325aeda4486639a7feb9aab66c2ef9ed"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#吴易昺0比3阿尔卡拉斯#",
+      "rank": 47,
+      "title": "吴易昺0比3阿尔卡拉斯",
+      "topic_id": "231522b087157f6f365771448126ee2e06f7fc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#印度2只流浪狗吓退性侵者#",
+      "rank": 48,
+      "title": "印度2只流浪狗吓退性侵者",
+      "topic_id": "2315222ec2351688aa91fed9bb55bc96d9e61c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#原来高定是直接把人请到总部量身定制#",
+      "rank": 49,
+      "title": "原来高定是直接把人请到总部量身定制",
+      "topic_id": "231522e5f251278622867c781a64a8d412e3a0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#特斯拉无人驾驶电车每公里成本0.8元#",
+      "rank": 50,
+      "title": "特斯拉无人驾驶电车每公里成本0.8元",
+      "topic_id": "231522237d57c58dc3188c909b3eabef9817b9"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 2656274875
   },
-  "last_seen_at": "2026-09-05T06:00:00+08:00",
+  "last_seen_at": "2026-09-05T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%85%A8%E5%9B%BD%E5%A4%9A%E5%9C%B0%E8%BF%8E%E6%9D%A5%E4%B8%B0%E6%94%B6%E5%AD%A3%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "12家媒体",
     "users": [
       {
         "id": 2656274875,
         "idstr": "2656274875",
         "screen_name": "央视新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1727472420,
+        "idstr": "1727472420",
+        "screen_name": "泰山晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1725252714,
+        "idstr": "1725252714",
+        "screen_name": "温度新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,9 +44,23 @@
         "verified_type": 3
       },
       {
-        "id": 1791805181,
-        "idstr": "1791805181",
-        "screen_name": "中国网新闻中心",
+        "id": 7298805480,
+        "idstr": "7298805480",
+        "screen_name": "央视三农",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3251720635,
+        "idstr": "3251720635",
+        "screen_name": "邯郸网络广播电视台",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2813313591,
+        "idstr": "2813313591",
+        "screen_name": "中新网海南",
         "verified": true,
         "verified_type": 3
       }

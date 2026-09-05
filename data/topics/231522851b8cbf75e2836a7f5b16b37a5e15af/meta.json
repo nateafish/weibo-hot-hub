@@ -10,11 +10,19 @@
     "status": 2,
     "uid": 2332566353
   },
-  "last_seen_at": "2026-09-05T00:00:00+08:00",
+  "last_seen_at": "2026-09-05T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E7%98%A6%E6%88%90%E5%95%A5%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "1家媒体",
+    "users": [
+      {
+        "id": 1704653603,
+        "idstr": "1704653603",
+        "screen_name": "鞍山日报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#宋雨琦瘦成啥了#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E7%98%A6%E6%88%90%E5%95%A5%E4%BA%86%23",
