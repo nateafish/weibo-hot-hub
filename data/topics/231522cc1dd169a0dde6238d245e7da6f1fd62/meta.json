@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2589483787
   },
-  "last_seen_at": "2026-09-06T20:00:00+08:00",
+  "last_seen_at": "2026-09-06T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%BF%99%E5%A4%A7%E6%A6%82%E5%B0%B1%E6%98%AFAI%E5%8F%91%E5%B1%95%E7%9A%84%E6%84%8F%E4%B9%89%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "7家媒体",
     "users": [
       {
         "id": 7422806367,
         "idstr": "7422806367",
         "screen_name": "中网传播",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3229962754,
+        "idstr": "3229962754",
+        "screen_name": "陕视新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -44,9 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 1280846847,
-        "idstr": "1280846847",
-        "screen_name": "指尖新闻-沈阳晚报",
+        "id": 1732802301,
+        "idstr": "1732802301",
+        "screen_name": "河南交通广播",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1699258907,
+        "idstr": "1699258907",
+        "screen_name": "春城晚报",
         "verified": true,
         "verified_type": 3
       }
