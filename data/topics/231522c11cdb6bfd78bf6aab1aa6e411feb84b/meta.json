@@ -10,11 +10,19 @@
     "status": 2,
     "uid": 5556111165
   },
-  "last_seen_at": "2026-09-06T11:00:00+08:00",
+  "last_seen_at": "2026-09-06T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%8E%B0%E5%9C%A8%E5%81%9A%E5%BC%80%E5%8F%91%E7%9C%9F%E7%9A%84%E5%BE%88%E9%9A%BE%E5%AE%8C%E5%85%A8%E4%B8%8D%E7%94%A8AI%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "1家媒体",
+    "users": [
+      {
+        "id": 1677991972,
+        "idstr": "1677991972",
+        "screen_name": "晶报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "现在做开发真的很难完全不用AI",
   "search_url": "https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E5%81%9A%E5%BC%80%E5%8F%91%E7%9C%9F%E7%9A%84%E5%BE%88%E9%9A%BE%E5%AE%8C%E5%85%A8%E4%B8%8D%E7%94%A8ai%23",
