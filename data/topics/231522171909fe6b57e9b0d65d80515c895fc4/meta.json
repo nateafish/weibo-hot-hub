@@ -10,11 +10,61 @@
     "status": 2,
     "uid": 5794519372
   },
-  "last_seen_at": "2026-09-06T17:00:00+08:00",
+  "last_seen_at": "2026-09-06T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23iG%E7%BB%9D%E5%A2%83%E7%BF%BB%E7%9B%98WE%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "8家媒体",
+    "users": [
+      {
+        "id": 1677991972,
+        "idstr": "1677991972",
+        "screen_name": "晶报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7723774651,
+        "idstr": "7723774651",
+        "screen_name": "星财经Pro",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7723617113,
+        "idstr": "7723617113",
+        "screen_name": "星娱乐star",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7723479601,
+        "idstr": "7723479601",
+        "screen_name": "star星视距",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5822206027,
+        "idstr": "5822206027",
+        "screen_name": "北斗融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1652484947,
+        "idstr": "1652484947",
+        "screen_name": "新快报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#iG绝境翻盘WE#",
   "search_url": "https://s.weibo.com/weibo?q=%23ig%E7%BB%9D%E5%A2%83%E7%BF%BB%E7%9B%98we%23",
