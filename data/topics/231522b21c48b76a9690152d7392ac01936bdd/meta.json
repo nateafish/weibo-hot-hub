@@ -10,11 +10,25 @@
     "status": 2,
     "uid": 3739095604
   },
-  "last_seen_at": "2026-09-06T15:00:00+08:00",
+  "last_seen_at": "2026-09-06T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%99%88%E5%A6%8D%E5%B8%8C%E5%92%8C%E5%84%BF%E5%AD%90%E8%B5%B7%E4%BA%89%E6%89%A7%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "10家媒体",
     "users": [
+      {
+        "id": 2647971081,
+        "idstr": "2647971081",
+        "screen_name": "时速新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2346437860,
+        "idstr": "2346437860",
+        "screen_name": "三峡融媒",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 7708039348,
         "idstr": "7708039348",
@@ -26,6 +40,27 @@
         "id": 2992050891,
         "idstr": "2992050891",
         "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1943154142,
+        "idstr": "1943154142",
+        "screen_name": "中安在线",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1744332207,
+        "idstr": "1744332207",
+        "screen_name": "钱江视频",
         "verified": true,
         "verified_type": 3
       }

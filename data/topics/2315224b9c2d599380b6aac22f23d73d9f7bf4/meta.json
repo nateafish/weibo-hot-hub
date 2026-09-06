@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2656274875
   },
-  "last_seen_at": "2026-09-06T15:00:00+08:00",
+  "last_seen_at": "2026-09-06T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9C%BA%E5%9C%BA%E6%89%93%E8%BD%A6%E6%81%B6%E6%84%8F%E7%94%A9%E5%AE%A2%E7%99%BE%E4%BD%99%E4%BA%BA%E8%A2%AB%E8%A1%8C%E6%8B%98%23%26t%3D3&title=发布媒体",
-    "show_str": "53家媒体",
+    "show_str": "67家媒体",
     "users": [
       {
         "id": 2656274875,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2337985010,
         "idstr": "2337985010",
         "screen_name": "瑞安融媒",
@@ -47,13 +54,6 @@
         "id": 1885454921,
         "idstr": "1885454921",
         "screen_name": "蓝鲸新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2685336121,
-        "idstr": "2685336121",
-        "screen_name": "南宁晚报",
         "verified": true,
         "verified_type": 3
       },
