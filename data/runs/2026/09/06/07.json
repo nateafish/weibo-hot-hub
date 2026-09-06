@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-06T07:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#习近平主席中亚中东之旅难忘瞬间#",
+      "rank": 1,
+      "title": "习近平主席中亚中东之旅难忘瞬间",
+      "topic_id": "231522bbe1712a3012132a8e62629838ce47af"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 54,
+      "posts": "saved",
+      "query": "#郑钦文美网惊天逆转#",
+      "rank": 1,
+      "title": "郑钦文美网惊天逆转",
+      "topic_id": "2315229a3089407d59ffca31f8bf6028d5e00e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 21,
+      "posts": "saved",
+      "query": "#葫芦娃爷爷把葫芦剪掉了目击者发声#",
+      "rank": 2,
+      "title": "葫芦娃爷爷把葫芦剪掉了目击者发声",
+      "topic_id": "231522c1c7672b457d8a81c2f0d85822bb8efe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#青春华章#",
+      "rank": 3,
+      "title": "青春华章",
+      "topic_id": "231522c6274638692ada5e9d69cbcd1c63db98"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 26,
+      "posts": "saved",
+      "query": "编制不等于绝对稳定",
+      "rank": 4,
+      "title": "编制不等于绝对稳定",
+      "topic_id": "231522249ae01a0da0e7fac74c61f615df2448"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女子回应5岁女儿病历上被医生标注刁蛮#",
+      "rank": 5,
+      "title": "女子回应5岁女儿病历上被医生标注刁蛮",
+      "topic_id": "231522fb884494696a68a42ab12703d535915f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#樊振东德甲输掉的全都赢回来了#",
+      "rank": 6,
+      "title": "樊振东德甲输掉的全都赢回来了",
+      "topic_id": "231522f5a66d5613f4e78a8a01b6576de7551b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 22,
+      "posts": "saved",
+      "query": "#美网官推称郑钦文是奇迹本迹#",
+      "rank": 7,
+      "title": "美网官推称郑钦文是奇迹本迹",
+      "topic_id": "23152291fb21ef49f36dcf5144221a23201aee"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 20,
+      "posts": "saved",
+      "query": "#鞠婧祎扇巴掌给我看爽了#",
+      "rank": 8,
+      "title": "鞠婧祎扇巴掌给我看爽了",
+      "topic_id": "2315227327582003abf960230068688dd306d4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 24,
+      "posts": "saved",
+      "query": "郑钦文vs斯瓦泰克",
+      "rank": 9,
+      "title": "郑钦文vs斯瓦泰克",
+      "topic_id": "2315222d7571cdd9bddfde729a847de688da55"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 53,
+      "posts": "saved",
+      "query": "叶润泽淘汰",
+      "rank": 10,
+      "title": "叶润泽淘汰",
+      "topic_id": "231522a95c9f16f89af23ce59f3aafd455a9db"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 38,
+      "posts": "saved",
+      "query": "#贵中医二附院被捅伤医生仍在抢救#",
+      "rank": 11,
+      "title": "贵中医二附院被捅伤医生仍在抢救",
+      "topic_id": "231522b7eaf9193c8a62da0edce893ab40a175"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#小学靠吼初中靠忍高中靠哄大学靠钱#",
+      "rank": 12,
+      "title": "小学靠吼初中靠忍高中靠哄大学靠钱",
+      "topic_id": "2315222f3d5a5dcbb0e9908634b6941853d7f1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#冉莹颖给爸爸三婚妻子塞钱#",
+      "rank": 13,
+      "title": "冉莹颖给爸爸三婚妻子塞钱",
+      "topic_id": "231522dee7bb35ccf9594088cf7f5f153bfb05"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#获救中国公民爬到了隧道最高处#",
+      "rank": 14,
+      "title": "获救中国公民爬到了隧道最高处",
+      "topic_id": "2315227d003ab503c35a02f20c7eb52e89ec59"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "披荆斩棘三公分组",
+      "rank": 15,
+      "title": "披荆斩棘三公分组",
+      "topic_id": "231522ee95e9c17321568b2231abae50880275"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 26,
+      "posts": "saved",
+      "query": "#汤家凤对历史不计入中考总分深感痛心#",
+      "rank": 16,
+      "title": "汤家凤对历史不计入中考总分深感痛心",
+      "topic_id": "23152242703ee0980e360290e27ef7b6391408"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#栾念看到前男友气到嚼冰块#",
+      "rank": 17,
+      "title": "栾念看到前男友气到嚼冰块",
+      "topic_id": "2315224d0964039ae949b74e683f00c4962c6a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 24,
+      "posts": "saved",
+      "query": "披荆斩棘排名",
+      "rank": 18,
+      "title": "披荆斩棘排名",
+      "topic_id": "2315228a15dfa01f797bc2db12366e9147d7c8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 52,
+      "posts": "saved",
+      "query": "#苹果折叠手机价格#",
+      "rank": 19,
+      "title": "苹果折叠手机价格",
+      "topic_id": "23152215a1ed39d945854c2969c7f21e028c68"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#美军袭击三艘伊朗油轮#",
+      "rank": 20,
+      "title": "美军袭击三艘伊朗油轮",
+      "topic_id": "231522499f2a762326a6365f1b6daad816fda8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "取消英语主科 教育公平争议",
+      "rank": 21,
+      "title": "取消英语主科 教育公平争议",
+      "topic_id": "231522e304cb8e6aa916691d0724b6007819bb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 52,
+      "posts": "saved",
+      "query": "#周杰伦回应郑钦文惊天大逆转#",
+      "rank": 22,
+      "title": "周杰伦回应郑钦文惊天大逆转",
+      "topic_id": "231522434870a3f964c5a489b16ea3988aa861"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "容易生气背后的深层原因",
+      "rank": 23,
+      "title": "容易生气背后的深层原因",
+      "topic_id": "231522fbe38c28f84be88ff2fee913dbb1926b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "医生说坚持为了那8%",
+      "rank": 24,
+      "title": "医生说坚持为了那8%",
+      "topic_id": "231522b216e41695052c869faa790a4983233e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#辽宁处长被枪击案唯一目击证人发声#",
+      "rank": 25,
+      "title": "辽宁处长被枪击案唯一目击证人发声",
+      "topic_id": "231522239ab626945ed2d3643dbd06e28eca6a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#童锦程不情愿给抚养费#",
+      "rank": 26,
+      "title": "童锦程不情愿给抚养费",
+      "topic_id": "2315225a2c2a13672d9c4eccec7ae59b460428"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 52,
+      "posts": "saved",
+      "query": "心动的信号",
+      "rank": 27,
+      "title": "心动的信号",
+      "topic_id": "231522b1ce0f529e79ccf1ed944e7afa8c2e1d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#泽连斯基称将停止袭击莫斯科三天#",
+      "rank": 28,
+      "title": "泽连斯基称将停止袭击莫斯科三天",
+      "topic_id": "2315228169732594619ac29dc3d17ad73b9f1f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 35,
+      "posts": "saved",
+      "query": "第21届金鹿奖获奖名单",
+      "rank": 29,
+      "title": "第21届金鹿奖获奖名单",
+      "topic_id": "2315228595cc5e696f0a0dfb2f8edd77ff1fa1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 51,
+      "posts": "saved",
+      "query": "取消英语主科利弊",
+      "rank": 30,
+      "title": "取消英语主科利弊",
+      "topic_id": "231522ca986a8c4393d93e88d4b71af3ffd089"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "有氧运动对男性有多重要",
+      "rank": 31,
+      "title": "有氧运动对男性有多重要",
+      "topic_id": "231522f71014293bcf0b7b5c35549abeca3c70"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "8个动作赶走脂肪肝",
+      "rank": 32,
+      "title": "8个动作赶走脂肪肝",
+      "topic_id": "231522e4df97aea8563f7ef3f7d74f699f1fc9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 29,
+      "posts": "saved",
+      "query": "小县城的房子买了没人住",
+      "rank": 33,
+      "title": "小县城的房子买了没人住",
+      "topic_id": "231522c757c1af2673d440c16c4b56ca1e3e57"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "严子怡68米42夺冠",
+      "rank": 34,
+      "title": "严子怡68米42夺冠",
+      "topic_id": "23152289755b3b150d6191882ba2ac7113af33"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#担心游客安全爷爷把7个葫芦收回家#",
+      "rank": 35,
+      "title": "担心游客安全爷爷把7个葫芦收回家",
+      "topic_id": "231522b792a95ef0cdb051ae4caf8f4d050393"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 26,
+      "posts": "saved",
+      "query": "刘琳琳金哥对质",
+      "rank": 36,
+      "title": "刘琳琳金哥对质",
+      "topic_id": "2315222f34debac1e56570ac70bceb6b39c8f3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "凯斯赛后坦言心理恐慌",
+      "rank": 37,
+      "title": "凯斯赛后坦言心理恐慌",
+      "topic_id": "231522f166b8e3e10a30d262e151811a79db2e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 51,
+      "posts": "saved",
+      "query": "美网",
+      "rank": 38,
+      "title": "美网",
+      "topic_id": "23152259a397b263ebadee15a3510c791ce7d2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 32,
+      "posts": "saved",
+      "query": "早春晴朗全员补拍",
+      "rank": 39,
+      "title": "早春晴朗全员补拍",
+      "topic_id": "231522557bd9dc116c32f64ad88a25d54af07d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "剧本杀 色情服务",
+      "rank": 40,
+      "title": "剧本杀 色情服务",
+      "topic_id": "231522fd94acf712aef61fb1eea7327193305c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#前阿里高管在美失联身亡警方介入#",
+      "rank": 41,
+      "title": "前阿里高管在美失联身亡警方介入",
+      "topic_id": "23152278a3dc387e1ed182d07775ddc9816409"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#小猫会精准找到最忙的那个人#",
+      "rank": 42,
+      "title": "小猫会精准找到最忙的那个人",
+      "topic_id": "2315220d71e49063bdbaaf9633b98471917cb3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "郑钦文逆转球迷换台",
+      "rank": 43,
+      "title": "郑钦文逆转球迷换台",
+      "topic_id": "2315227f2a476313e3becdd9dd301756397fb7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "刘雯 避嫌",
+      "rank": 44,
+      "title": "刘雯 避嫌",
+      "topic_id": "231522ee287c0b72189cf0f431d16c9af432e8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "陈丽君 祝姑娘路透",
+      "rank": 45,
+      "title": "陈丽君 祝姑娘路透",
+      "topic_id": "231522ac102546095ed2d8a02bb95880743140"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 38,
+      "posts": "saved",
+      "query": "女子停捐不到一个月被催捐",
+      "rank": 46,
+      "title": "女子停捐不到一个月被催捐",
+      "topic_id": "231522d85f7ef0a819ffce393dd065034d0ffa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 51,
+      "posts": "saved",
+      "query": "蒙娜丽莎的舞蹈呢",
+      "rank": 47,
+      "title": "蒙娜丽莎的舞蹈呢",
+      "topic_id": "231522d25075b9bbdfef5c49ad641b0f6128ec"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 21,
+      "posts": "saved",
+      "query": "#尼泊尔官员回应中国公民获救原因#",
+      "rank": 48,
+      "title": "尼泊尔官员回应中国公民获救原因",
+      "topic_id": "231522a4a075565c529b1ff3acd147f645940a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "#曝iPhone18Pro灵动岛大瘦身#",
+      "rank": 49,
+      "title": "曝iPhone18Pro灵动岛大瘦身",
+      "topic_id": "23152239bbfc92d3983075a1b7faa0f0c285c9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#OpenAI新模型能直接操作电脑#",
+      "rank": 50,
+      "title": "OpenAI新模型能直接操作电脑",
+      "topic_id": "231522e6bd54222f0c65db2bad426222113401"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
