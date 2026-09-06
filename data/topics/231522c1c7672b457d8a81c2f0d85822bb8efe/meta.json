@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1655444627
   },
-  "last_seen_at": "2026-09-06T07:00:00+08:00",
+  "last_seen_at": "2026-09-06T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%91%AB%E8%8A%A6%E5%A8%83%E7%88%B7%E7%88%B7%E6%8A%8A%E8%91%AB%E8%8A%A6%E5%89%AA%E6%8E%89%E4%BA%86%E7%9B%AE%E5%87%BB%E8%80%85%E5%8F%91%E5%A3%B0%23%26t%3D3&title=发布媒体",
-    "show_str": "38家媒体",
+    "show_str": "199家媒体",
     "users": [
       {
         "id": 1655444627,
         "idstr": "1655444627",
         "screen_name": "潇湘晨报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,16 +37,9 @@
         "verified_type": 3
       },
       {
-        "id": 6910453729,
-        "idstr": "6910453729",
-        "screen_name": "绍虞城事通网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2252846093,
-        "idstr": "2252846093",
-        "screen_name": "长春新闻",
+        "id": 2460937233,
+        "idstr": "2460937233",
+        "screen_name": "热度新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -51,16 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 1821499183,
-        "idstr": "1821499183",
-        "screen_name": "大连日报",
+        "id": 1926909715,
+        "idstr": "1926909715",
+        "screen_name": "第一财经日报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 6294758863,
-        "idstr": "6294758863",
-        "screen_name": "紫牛新闻",
+        "id": 1682207150,
+        "idstr": "1682207150",
+        "screen_name": "南方日报",
         "verified": true,
         "verified_type": 3
       }
