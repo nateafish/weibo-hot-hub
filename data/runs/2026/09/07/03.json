@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-07T03:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#习近平心系青年科技工作者#",
+      "rank": 1,
+      "title": "习近平心系青年科技工作者",
+      "topic_id": "231522b9ba0cff8ad40cf7bb0530e54e775bde"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 43,
+      "posts": "saved",
+      "query": "#工作人员曾反复劝阻女孩赴港看演唱会#",
+      "rank": 1,
+      "title": "工作人员曾反复劝阻女孩赴港看演唱会",
+      "topic_id": "2315224fb6495a303b9a7d7c48e62537f55b78"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 34,
+      "posts": "saved",
+      "query": "#大家不爱住民宿了吗#",
+      "rank": 2,
+      "title": "大家不爱住民宿了吗",
+      "topic_id": "231522b98cdaa87f72053ea14c9a75f0c28877"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "青春华章向新而行",
+      "rank": 3,
+      "title": "青春华章向新而行",
+      "topic_id": "231522e783dda8939a095ff026ad599ac4621c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 21,
+      "posts": "saved",
+      "query": "#肖战背后拍爸妈看李宇春演唱会#",
+      "rank": 4,
+      "title": "肖战背后拍爸妈看李宇春演唱会",
+      "topic_id": "231522044026fe14b78f293eb977e7b6ec7877"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 28,
+      "posts": "saved",
+      "query": "#花少2摄影师曾劝杨洋明天跑吧#",
+      "rank": 5,
+      "title": "花少2摄影师曾劝杨洋明天跑吧",
+      "topic_id": "231522afd922d19728a8e94cfd3c72c3412336"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 44,
+      "posts": "saved",
+      "query": "#爷爷提前剪葫芦是给流量的一记耳光#",
+      "rank": 6,
+      "title": "爷爷提前剪葫芦是给流量的一记耳光",
+      "topic_id": "231522a080cd98610122cf7dffe49f7ae3f8fd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "萨巴伦卡vs汤森德",
+      "rank": 7,
+      "title": "萨巴伦卡vs汤森德",
+      "topic_id": "231522dd02a0fba613554a0029204413c9ed2c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 52,
+      "posts": "saved",
+      "query": "交锋",
+      "rank": 8,
+      "title": "交锋",
+      "topic_id": "231522b80d49a31e7a7d6db5bde7999a681317"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#半个娱乐圈明星都去李宇春演唱会#",
+      "rank": 9,
+      "title": "半个娱乐圈明星都去李宇春演唱会",
+      "topic_id": "231522c0fcdb445d8a7f540961cd5e575d27c7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#中国女篮大概率小组出线#",
+      "rank": 10,
+      "title": "中国女篮大概率小组出线",
+      "topic_id": "231522b1daf39a69d590f770cfbb4c30ff0092"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#婚内强奸案男子性侵妻子拍下视频#",
+      "rank": 11,
+      "title": "婚内强奸案男子性侵妻子拍下视频",
+      "topic_id": "2315222f67de02b33051f8bb20030640221356"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "葫芦娃爷爷 流量暴力",
+      "rank": 12,
+      "title": "葫芦娃爷爷 流量暴力",
+      "topic_id": "231522331069b75bd57e751eecc19eabc238e7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "阿森纳切尔西 互捅局",
+      "rank": 13,
+      "title": "阿森纳切尔西 互捅局",
+      "topic_id": "23152219ef99c694f0103ba6cca451b23e5ae6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#LPL四强出炉#",
+      "rank": 14,
+      "title": "LPL四强出炉",
+      "topic_id": "2315223c8f56cff0c1e2ba1e33d306b24a4794"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 50,
+      "posts": "saved",
+      "query": "阿森纳2比1切尔西",
+      "rank": 15,
+      "title": "阿森纳2比1切尔西",
+      "topic_id": "23152264db608830dbbdc13329eeef752136c4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#腿上冒出小鼓包要注意了#",
+      "rank": 16,
+      "title": "腿上冒出小鼓包要注意了",
+      "topic_id": "231522c0c8872daa9bed0d83529215866b6a48"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#陈妍希想认林心如女儿做儿媳妇#",
+      "rank": 17,
+      "title": "陈妍希想认林心如女儿做儿媳妇",
+      "topic_id": "2315229a1bdc6b8748f5b2c2968be2582a4427"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 34,
+      "posts": "saved",
+      "query": "#杨舒予绝平#",
+      "rank": 18,
+      "title": "杨舒予绝平",
+      "topic_id": "231522eeafcc5ff29ae820b9176d70a7df9441"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "中国博主伦敦直播遭外籍青年挑衅殴打",
+      "rank": 19,
+      "title": "中国博主伦敦直播遭外籍青年挑衅殴打",
+      "topic_id": "23152227ea3b9514f427be84eb316bb0a58f58"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "电视台 卖药",
+      "rank": 20,
+      "title": "电视台 卖药",
+      "topic_id": "231522da35bc47f836996f8ad85c5018bf5cd9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "iPhone18Pro 配色",
+      "rank": 21,
+      "title": "iPhone18Pro 配色",
+      "topic_id": "2315222b3d8538179e3fd3be8f42263c9e4bed"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#医生提醒轻微智障有5个表现#",
+      "rank": 22,
+      "title": "医生提醒轻微智障有5个表现",
+      "topic_id": "231522588a6291a35b2344fce44d09a36005d3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#动物园员工被鳄鱼咬腿1小时身亡#",
+      "rank": 23,
+      "title": "动物园员工被鳄鱼咬腿1小时身亡",
+      "topic_id": "2315223918fc96cae729622a8974f58dd0fee5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#熬夜是在点燃全身炎症炸弹#",
+      "rank": 24,
+      "title": "熬夜是在点燃全身炎症炸弹",
+      "topic_id": "231522096fcbd94048c6e107bbfd5109ed1ce1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "维斯塔潘",
+      "rank": 25,
+      "title": "维斯塔潘",
+      "topic_id": "231522a29f9132e86e9242cd9fae6939964e3e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "终南山怪虫",
+      "rank": 26,
+      "title": "终南山怪虫",
+      "topic_id": "23152280076ccf7909928c8267595ffdccc4c0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "女儿用豆包抄答案家长只用了一招",
+      "rank": 27,
+      "title": "女儿用豆包抄答案家长只用了一招",
+      "topic_id": "2315221170cf853defa094a90c317abc5cece6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 53,
+      "posts": "saved",
+      "query": "雷军向所有品牌表达感谢",
+      "rank": 28,
+      "title": "雷军向所有品牌表达感谢",
+      "topic_id": "231522366de50cd8cf457299d177233bce4e0e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 51,
+      "posts": "saved",
+      "query": "中国女篮vs捷克女篮",
+      "rank": 29,
+      "title": "中国女篮vs捷克女篮",
+      "topic_id": "231522edf8c272e531c0c2ecb7b3d8247b9cf6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 53,
+      "posts": "saved",
+      "query": "#财政部将向中国人寿集团注资350亿#",
+      "rank": 30,
+      "title": "财政部将向中国人寿集团注资350亿",
+      "topic_id": "23152254fcce52135eb76a55c3083d66d11f5e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#Tangyuan赛后哽咽感谢IG前辈#",
+      "rank": 31,
+      "title": "Tangyuan赛后哽咽感谢IG前辈",
+      "topic_id": "231522bb2e84c8d48f8de9b34db2903de0d80b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#美国71岁老妇在警局开枪被击毙#",
+      "rank": 32,
+      "title": "美国71岁老妇在警局开枪被击毙",
+      "topic_id": "231522282a606c9e0daf12271f50dfcd4ef64c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 23,
+      "posts": "saved",
+      "query": "#无畏年总见#",
+      "rank": 33,
+      "title": "无畏年总见",
+      "topic_id": "231522e919705c2a53e5781cef7a9a924c3e9e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "清融 昊昊互动",
+      "rank": 34,
+      "title": "清融 昊昊互动",
+      "topic_id": "231522de4f70518d246bca053cd92af69d014d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 34,
+      "posts": "saved",
+      "query": "埃弗顿绝平曼联",
+      "rank": 35,
+      "title": "埃弗顿绝平曼联",
+      "topic_id": "23152217b68e580e36d19cded86576b85c32cb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "敏感的人往往看不见自己的珍贵",
+      "rank": 36,
+      "title": "敏感的人往往看不见自己的珍贵",
+      "topic_id": "231522e44f0ae30d762be16de93b3a48d12f9a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#美国男子持刀欲轻生被警方开枪击毙#",
+      "rank": 37,
+      "title": "美国男子持刀欲轻生被警方开枪击毙",
+      "topic_id": "2315222a21b8c2932ab439d1aeaddb613deb59"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#Tangyuan赛后哽咽#",
+      "rank": 38,
+      "title": "Tangyuan赛后哽咽",
+      "topic_id": "231522ec11e77a55f42e46762ced5e421f14b8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#单亲妈妈月捐数年无人问停捐后遭催捐#",
+      "rank": 39,
+      "title": "单亲妈妈月捐数年无人问停捐后遭催捐",
+      "topic_id": "2315229bac5586d1c8a4409a4a30660fd27a03"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 29,
+      "posts": "saved",
+      "query": "#TTG决赛见#",
+      "rank": 40,
+      "title": "TTG决赛见",
+      "topic_id": "23152286670f9c102dfdd05234e6369b521e22"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#TheShy等来Crisp#",
+      "rank": 41,
+      "title": "TheShy等来Crisp",
+      "topic_id": "2315225256966dae1ccc8c3804ad47d049f332"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#以为是偏心没想到是贫穷#",
+      "rank": 42,
+      "title": "以为是偏心没想到是贫穷",
+      "topic_id": "23152230d68470d97c4c66d19e55e24e9b0789"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#郑钦文美网一天烧掉5万#",
+      "rank": 43,
+      "title": "郑钦文美网一天烧掉5万",
+      "topic_id": "23152254e84a6b7f169f524d8452d3b81e4b8e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 22,
+      "posts": "saved",
+      "query": "#LGD晋级LPL四强#",
+      "rank": 44,
+      "title": "LGD晋级LPL四强",
+      "topic_id": "231522a612b7e7827c427ecf7028560f6efe06"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "网友曝电视台卖药现状",
+      "rank": 45,
+      "title": "网友曝电视台卖药现状",
+      "topic_id": "231522400310ef675030502c88462569fdb08e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#王安宇黄子弘凡听到搞旅综的反应#",
+      "rank": 46,
+      "title": "王安宇黄子弘凡听到搞旅综的反应",
+      "topic_id": "231522e47213f132e6e12608b13896e91909a9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 44,
+      "posts": "saved",
+      "query": "埃弗顿2比2曼联",
+      "rank": 47,
+      "title": "埃弗顿2比2曼联",
+      "topic_id": "231522a0f5aac35760d7542bed418bab6968e8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 26,
+      "posts": "saved",
+      "query": "#杨舒予个人能力#",
+      "rank": 48,
+      "title": "杨舒予个人能力",
+      "topic_id": "231522a1d7b308eba1a49bc822abe5f75ba332"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "拉塞尔 质疑梅奔策略",
+      "rank": 49,
+      "title": "拉塞尔 质疑梅奔策略",
+      "topic_id": "231522a7d7bb782c9470562bafed5b7761c287"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 42,
+      "posts": "saved",
+      "query": "JDG纪录片",
+      "rank": 50,
+      "title": "JDG纪录片",
+      "topic_id": "231522738ddbf928a8d8e4a44a109f455df76a"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
