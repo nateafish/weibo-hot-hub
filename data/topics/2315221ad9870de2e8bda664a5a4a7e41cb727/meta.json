@@ -3,15 +3,29 @@
   "created_at": 1788663858,
   "first_seen_at": "2026-09-06T12:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-06T13:00:00+08:00",
+  "last_seen_at": "2026-09-06T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%91%AB%E8%8A%A6%E5%A8%83%E7%88%B7%E7%88%B7%E4%BA%8B%E4%BB%B6+%E5%8F%98%E5%91%B3%23%26t%3D3&title=发布媒体",
-    "show_str": "23家媒体",
+    "show_str": "37家媒体",
     "users": [
       {
         "id": 1700720163,
         "idstr": "1700720163",
         "screen_name": "钱江晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6715513747,
+        "idstr": "6715513747",
+        "screen_name": "宁县融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6444725927,
+        "idstr": "6444725927",
+        "screen_name": "吉祥新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -37,23 +51,9 @@
         "verified_type": 3
       },
       {
-        "id": 2460937233,
-        "idstr": "2460937233",
-        "screen_name": "热度新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2356298087,
-        "idstr": "2356298087",
-        "screen_name": "河北经视",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2252846093,
-        "idstr": "2252846093",
-        "screen_name": "长春新闻",
+        "id": 2648560444,
+        "idstr": "2648560444",
+        "screen_name": "楚雄州融媒体中心",
         "verified": true,
         "verified_type": 3
       }

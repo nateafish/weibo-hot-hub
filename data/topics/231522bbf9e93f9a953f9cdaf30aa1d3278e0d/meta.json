@@ -3,15 +3,22 @@
   "created_at": 1788662968,
   "first_seen_at": "2026-09-06T11:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-06T13:00:00+08:00",
+  "last_seen_at": "2026-09-06T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%AB%A0%E6%B3%BD%E5%A4%A9%E9%87%87%E8%AE%BF+%E6%B2%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E8%8F%9C%E5%85%A5%E5%91%B3%23%26t%3D3&title=发布媒体",
-    "show_str": "10家媒体",
+    "show_str": "12家媒体",
     "users": [
       {
         "id": 2286092114,
         "idstr": "2286092114",
         "screen_name": "中国蓝新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1956700750,
+        "idstr": "1956700750",
+        "screen_name": "电商派",
         "verified": true,
         "verified_type": 3
       },
@@ -23,6 +30,13 @@
         "verified_type": 3
       },
       {
+        "id": 2647971081,
+        "idstr": "2647971081",
+        "screen_name": "时速新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2356298087,
         "idstr": "2356298087",
         "screen_name": "河北经视",
@@ -30,30 +44,16 @@
         "verified_type": 3
       },
       {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1288429914,
         "idstr": "1288429914",
         "screen_name": "今视频长天新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2685336121,
-        "idstr": "2685336121",
-        "screen_name": "南宁晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2183542485,
-        "idstr": "2183542485",
-        "screen_name": "西安广播电视台",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2041117703,
-        "idstr": "2041117703",
-        "screen_name": "合肥日报",
         "verified": true,
         "verified_type": 3
       }
