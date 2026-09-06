@@ -10,15 +10,43 @@
     "status": 2,
     "uid": 1496814565
   },
-  "last_seen_at": "2026-09-06T21:00:00+08:00",
+  "last_seen_at": "2026-09-06T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%9B%BE%E5%8F%8D%E5%A4%8D%E5%8A%9D%E9%98%BB%E5%A5%B3%E5%AD%A9%E8%B5%B4%E6%B8%AF%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%23%26t%3D3&title=发布媒体",
-    "show_str": "37家媒体",
+    "show_str": "51家媒体",
     "users": [
       {
         "id": 1496814565,
         "idstr": "1496814565",
         "screen_name": "封面新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1451977335,
+        "idstr": "1451977335",
+        "screen_name": "新晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1642512402,
+        "idstr": "1642512402",
+        "screen_name": "中国新闻周刊",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2217754287,
+        "idstr": "2217754287",
+        "screen_name": "桂林晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -33,34 +61,6 @@
         "id": 5876448064,
         "idstr": "5876448064",
         "screen_name": "青蕉视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5867962564,
-        "idstr": "5867962564",
-        "screen_name": "达州快播报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5763593746,
-        "idstr": "5763593746",
-        "screen_name": "资阳快播报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5745238615,
-        "idstr": "5745238615",
-        "screen_name": "封面快播报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5743709752,
-        "idstr": "5743709752",
-        "screen_name": "绵阳快播报",
         "verified": true,
         "verified_type": 3
       }

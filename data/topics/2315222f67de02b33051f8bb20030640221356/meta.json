@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2318910945
   },
-  "last_seen_at": "2026-09-06T21:00:00+08:00",
+  "last_seen_at": "2026-09-06T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A9%9A%E5%86%85%E5%BC%BA%E5%A5%B8%E6%A1%88%E7%94%B7%E5%AD%90%E6%80%A7%E4%BE%B5%E5%A6%BB%E5%AD%90%E6%8B%8D%E4%B8%8B%E8%A7%86%E9%A2%91%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "11家媒体",
     "users": [
       {
         "id": 2318910945,
         "idstr": "2318910945",
         "screen_name": "新浪热点",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1887344341,
+        "idstr": "1887344341",
+        "screen_name": "观察者网",
         "verified": true,
         "verified_type": 3
       },
@@ -30,9 +37,30 @@
         "verified_type": 3
       },
       {
-        "id": 1704185933,
-        "idstr": "1704185933",
-        "screen_name": "聊城晚报",
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2188202475,
+        "idstr": "2188202475",
+        "screen_name": "南京晨报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2035321844,
+        "idstr": "2035321844",
+        "screen_name": "河池融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1967926223,
+        "idstr": "1967926223",
+        "screen_name": "FM1031济南交通广播",
         "verified": true,
         "verified_type": 3
       }
