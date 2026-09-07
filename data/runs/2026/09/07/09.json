@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-07T09:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#习近平心系青年科技工作者#",
+      "rank": 1,
+      "title": "习近平心系青年科技工作者",
+      "topic_id": "231522b9ba0cff8ad40cf7bb0530e54e775bde"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 53,
+      "posts": "saved",
+      "query": "#官方回应赴港看演唱会被取消全家低保#",
+      "rank": 1,
+      "title": "官方回应赴港看演唱会被取消全家低保",
+      "topic_id": "2315222b103881f28fafbeaf960bc50b3530e2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#单亲妈妈月捐数年无人问停捐后遭催捐#",
+      "rank": 2,
+      "title": "单亲妈妈月捐数年无人问停捐后遭催捐",
+      "topic_id": "2315229bac5586d1c8a4409a4a30660fd27a03"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#安徽造车F4齐聚中国科大#",
+      "rank": 3,
+      "title": "安徽造车F4齐聚中国科大",
+      "topic_id": "2315227d3da9e1c3fd3b76a5cf23d8773e511f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 50,
+      "posts": "saved",
+      "query": "#大家不爱住民宿了吗#",
+      "rank": 4,
+      "title": "大家不爱住民宿了吗",
+      "topic_id": "231522b98cdaa87f72053ea14c9a75f0c28877"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "早春晴朗",
+      "rank": 5,
+      "title": "早春晴朗",
+      "topic_id": "23152232a83557dc62513442c4c623e727e467"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#10大含微塑料的日用品#",
+      "rank": 6,
+      "title": "10大含微塑料的日用品",
+      "topic_id": "23152219d686c6499645fed4b13f78137d2ab9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "为啥大家不穿皮鞋了",
+      "rank": 7,
+      "title": "为啥大家不穿皮鞋了",
+      "topic_id": "2315223c1a9c516d67838485e4bc338f50e56b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 34,
+      "posts": "saved",
+      "query": "#詹青云宣传早春晴朗被吐槽#",
+      "rank": 8,
+      "title": "詹青云宣传早春晴朗被吐槽",
+      "topic_id": "231522fa203caa8eaa7e4da481cab28709e021"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 49,
+      "posts": "saved",
+      "query": "#工作人员曾反复劝阻女孩赴港看演唱会#",
+      "rank": 9,
+      "title": "工作人员曾反复劝阻女孩赴港看演唱会",
+      "topic_id": "2315224fb6495a303b9a7d7c48e62537f55b78"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 42,
+      "posts": "saved",
+      "query": "#肖战背后拍爸妈看李宇春演唱会#",
+      "rank": 10,
+      "title": "肖战背后拍爸妈看李宇春演唱会",
+      "topic_id": "231522044026fe14b78f293eb977e7b6ec7877"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 53,
+      "posts": "saved",
+      "query": "#陈晓陈妍希好体面#",
+      "rank": 11,
+      "title": "陈晓陈妍希好体面",
+      "topic_id": "23152258965958f9d020991f08b86a66448f55"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 33,
+      "posts": "saved",
+      "query": "#婚内强奸案男子性侵妻子拍下视频#",
+      "rank": 12,
+      "title": "婚内强奸案男子性侵妻子拍下视频",
+      "topic_id": "2315222f67de02b33051f8bb20030640221356"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#井柏然口误#",
+      "rank": 13,
+      "title": "井柏然口误",
+      "topic_id": "231522580fa5fc671cc5bf7e1029d13c6669d1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "交锋 尺度大",
+      "rank": 14,
+      "title": "交锋 尺度大",
+      "topic_id": "231522673203610340bc2a9da035ff69e13a6d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 27,
+      "posts": "saved",
+      "query": "#张家齐一直在被妈妈吐槽#",
+      "rank": 15,
+      "title": "张家齐一直在被妈妈吐槽",
+      "topic_id": "23152218f4677dbc49c638c47b50b0e1ccb5f8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 52,
+      "posts": "saved",
+      "query": "#王一博赛车被撞调查结果#",
+      "rank": 16,
+      "title": "王一博赛车被撞调查结果",
+      "topic_id": "231522f3b6d388462350e883fc3c67dd8db92e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 46,
+      "posts": "saved",
+      "query": "#陈晓妈妈仍会帮陈妍希带孩子#",
+      "rank": 17,
+      "title": "陈晓妈妈仍会帮陈妍希带孩子",
+      "topic_id": "231522ad4efb1f28712a373f001c4386f54e11"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "华为 韬定律",
+      "rank": 18,
+      "title": "华为 韬定律",
+      "topic_id": "2315228fa52b26848ed2bd7e60103da983fa82"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#伊朗将宣布霍尔木兹海峡禁区#",
+      "rank": 19,
+      "title": "伊朗将宣布霍尔木兹海峡禁区",
+      "topic_id": "231522f9e5f2f1c30d544ecff91875f54af317"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "毛阿敏工作室早期博文 活人感",
+      "rank": 20,
+      "title": "毛阿敏工作室早期博文 活人感",
+      "topic_id": "231522806f8b96d6a1b3b5fcd4263f65702703"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 52,
+      "posts": "saved",
+      "query": "白露",
+      "rank": 21,
+      "title": "白露",
+      "topic_id": "2315222094f0a31a1a6465c18b89983d3de104"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 51,
+      "posts": "saved",
+      "query": "王一博事故调查诉求",
+      "rank": 22,
+      "title": "王一博事故调查诉求",
+      "topic_id": "231522ad8b22726b9b6cf20ecd6b3bfea20edb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#中国女篮晋级8强附加赛#",
+      "rank": 23,
+      "title": "中国女篮晋级8强附加赛",
+      "topic_id": "231522623725da3e72d435edbf8d58ef2863d4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#医生提醒轻微智障有5个表现#",
+      "rank": 24,
+      "title": "医生提醒轻微智障有5个表现",
+      "topic_id": "231522588a6291a35b2344fce44d09a36005d3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "特斯拉降价",
+      "rank": 25,
+      "title": "特斯拉降价",
+      "topic_id": "2315222030afbf08b682388e305b16286362e3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#刘耀文说错话丁程鑫的表情#",
+      "rank": 26,
+      "title": "刘耀文说错话丁程鑫的表情",
+      "topic_id": "231522c1b9a26312b41de94a6238040226397d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "华为 北方华创",
+      "rank": 27,
+      "title": "华为 北方华创",
+      "topic_id": "23152277b0a4cb97f6c36c6e5b6f0a4ff809e9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#中秋国庆共4天3倍工资#",
+      "rank": 28,
+      "title": "中秋国庆共4天3倍工资",
+      "topic_id": "231522c8c8e9031c9fe617433030d5bf0134ec"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#美国女篮3分险胜意大利#",
+      "rank": 29,
+      "title": "美国女篮3分险胜意大利",
+      "topic_id": "23152258bf8a219a435d52d9c85311e8bb024b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#肖战和爸爸看演唱会戴的是亲子帽#",
+      "rank": 30,
+      "title": "肖战和爸爸看演唱会戴的是亲子帽",
+      "topic_id": "231522f4003159ef6b5bfe79bc9ac5d14dd27e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 47,
+      "posts": "saved",
+      "query": "#爷爷提前剪葫芦是给流量的一记耳光#",
+      "rank": 31,
+      "title": "爷爷提前剪葫芦是给流量的一记耳光",
+      "topic_id": "231522a080cd98610122cf7dffe49f7ae3f8fd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#美网认证郑钦文Queen#",
+      "rank": 32,
+      "title": "美网认证郑钦文Queen",
+      "topic_id": "2315229c46fba2ea34e450863d7be0ac822cd1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#3女孩暑假接连失联最大仅14岁#",
+      "rank": 33,
+      "title": "3女孩暑假接连失联最大仅14岁",
+      "topic_id": "23152274b961ddb04abc9535a96a2bb3ceec82"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张纪中妻子称已进入良性循环#",
+      "rank": 34,
+      "title": "张纪中妻子称已进入良性循环",
+      "topic_id": "231522b7364c8a1e9da04b03eff17a8b6acbde"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#熬夜是在点燃全身炎症炸弹#",
+      "rank": 35,
+      "title": "熬夜是在点燃全身炎症炸弹",
+      "topic_id": "231522096fcbd94048c6e107bbfd5109ed1ce1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "iPhone18Pro 17Pro",
+      "rank": 36,
+      "title": "iPhone18Pro 17Pro",
+      "topic_id": "23152284ef12a1f0ad6338397f7a454510eedb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#小米汽车累计交付量超80万辆#",
+      "rank": 37,
+      "title": "小米汽车累计交付量超80万辆",
+      "topic_id": "23152227a41142b73cbfe62261d3491c26e8d6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "iPhone18Pro 配色",
+      "rank": 38,
+      "title": "iPhone18Pro 配色",
+      "topic_id": "2315222b3d8538179e3fd3be8f42263c9e4bed"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 52,
+      "posts": "saved",
+      "query": "#郑钦文重返美网中心球场#",
+      "rank": 39,
+      "title": "郑钦文重返美网中心球场",
+      "topic_id": "231522bc45f26d9a3705059c632d809d4ba827"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#母亲哄睡3岁儿子外出喝酒儿子坠亡#",
+      "rank": 40,
+      "title": "母亲哄睡3岁儿子外出喝酒儿子坠亡",
+      "topic_id": "231522c5ed2427d1d34d610ef5293ef3874645"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "#半个娱乐圈明星都去李宇春演唱会#",
+      "rank": 41,
+      "title": "半个娱乐圈明星都去李宇春演唱会",
+      "topic_id": "231522c0fcdb445d8a7f540961cd5e575d27c7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#田曦薇网速最快的一次#",
+      "rank": 42,
+      "title": "田曦薇网速最快的一次",
+      "topic_id": "23152266abdbd27936b8525f67cef7a1d339a5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#动物园员工被鳄鱼咬腿1小时身亡#",
+      "rank": 43,
+      "title": "动物园员工被鳄鱼咬腿1小时身亡",
+      "topic_id": "2315223918fc96cae729622a8974f58dd0fee5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "毛阿敏许晴 旅行的意义",
+      "rank": 44,
+      "title": "毛阿敏许晴 旅行的意义",
+      "topic_id": "2315221510f07bac830b684df544de8d56b43e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "敏感的人往往看不见自己的珍贵",
+      "rank": 45,
+      "title": "敏感的人往往看不见自己的珍贵",
+      "topic_id": "231522e44f0ae30d762be16de93b3a48d12f9a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 33,
+      "posts": "saved",
+      "query": "#花少2摄影师曾劝杨洋明天跑吧#",
+      "rank": 46,
+      "title": "花少2摄影师曾劝杨洋明天跑吧",
+      "topic_id": "231522afd922d19728a8e94cfd3c72c3412336"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "中国博主伦敦直播遭外籍青年挑衅殴打",
+      "rank": 47,
+      "title": "中国博主伦敦直播遭外籍青年挑衅殴打",
+      "topic_id": "23152227ea3b9514f427be84eb316bb0a58f58"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "汪苏泷演唱会被抓伤",
+      "rank": 48,
+      "title": "汪苏泷演唱会被抓伤",
+      "topic_id": "23152200c1dc0df7c30607578c45ed11df90b9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#美国一飞机冲出跑道致5死#",
+      "rank": 49,
+      "title": "美国一飞机冲出跑道致5死",
+      "topic_id": "2315226000300713ed6a59d76ddbd9abf121c3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 25,
+      "posts": "saved",
+      "query": "中国进出口银行获注资300亿",
+      "rank": 50,
+      "title": "中国进出口银行获注资300亿",
+      "topic_id": "2315222da03f7262493cd46cc5292d9198f776"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

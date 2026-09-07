@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 2332566353
   },
-  "last_seen_at": "2026-09-07T07:00:00+08:00",
+  "last_seen_at": "2026-09-07T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8D%8A%E4%B8%AA%E5%A8%B1%E4%B9%90%E5%9C%88%E6%98%8E%E6%98%9F%E9%83%BD%E5%8E%BB%E6%9D%8E%E5%AE%87%E6%98%A5%E6%BC%94%E5%94%B1%E4%BC%9A%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "10家媒体",
     "users": [
       {
         "id": 2992050891,
         "idstr": "2992050891",
         "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2359224985,
+        "idstr": "2359224985",
+        "screen_name": "青岛晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -33,6 +47,13 @@
         "id": 1899227237,
         "idstr": "1899227237",
         "screen_name": "青岛早报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1845864154,
+        "idstr": "1845864154",
+        "screen_name": "看看新闻Knews",
         "verified": true,
         "verified_type": 3
       },
