@@ -10,22 +10,22 @@
     "status": 2,
     "uid": 7838228255
   },
-  "last_seen_at": "2026-09-07T14:00:00+08:00",
+  "last_seen_at": "2026-09-07T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%BC%A0%E9%A6%A8%E4%BA%88%E7%98%A6%E6%88%90%E5%95%A5%E6%A0%B7%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "15家媒体",
     "users": [
-      {
-        "id": 1406911561,
-        "idstr": "1406911561",
-        "screen_name": "云南广播电视台",
-        "verified": true,
-        "verified_type": 3
-      },
       {
         "id": 1288429914,
         "idstr": "1288429914",
         "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1406911561,
+        "idstr": "1406911561",
+        "screen_name": "云南广播电视台",
         "verified": true,
         "verified_type": 3
       },
@@ -44,16 +44,23 @@
         "verified_type": 3
       },
       {
-        "id": 2594662033,
-        "idstr": "2594662033",
-        "screen_name": "BRTV纪实科教",
+        "id": 1704653603,
+        "idstr": "1704653603",
+        "screen_name": "鞍山日报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2286092114,
-        "idstr": "2286092114",
-        "screen_name": "中国蓝新闻",
+        "id": 6900707866,
+        "idstr": "6900707866",
+        "screen_name": "宜黄之窗",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6444725927,
+        "idstr": "6444725927",
+        "screen_name": "吉祥新闻",
         "verified": true,
         "verified_type": 3
       }

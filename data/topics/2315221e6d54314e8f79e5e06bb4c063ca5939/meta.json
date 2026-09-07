@@ -3,11 +3,40 @@
   "created_at": 1788757354,
   "first_seen_at": "2026-09-07T14:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-07T14:00:00+08:00",
+  "last_seen_at": "2026-09-07T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%8C%AA%E8%82%BE%E7%BB%AD%E5%91%BD9%E4%B8%AA%E6%9C%88%E7%AD%89%E6%9D%A5%E4%BA%86%E4%BA%BA%E8%82%BE%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "4家媒体",
+    "users": [
+      {
+        "id": 1744332207,
+        "idstr": "1744332207",
+        "screen_name": "钱江视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3684007222,
+        "idstr": "3684007222",
+        "screen_name": "自主汽车网",
+        "verified": true,
+        "verified_type": 7
+      },
+      {
+        "id": 1784392831,
+        "idstr": "1784392831",
+        "screen_name": "海峡都市报闽南版",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "猪肾续命9个月等来了人肾",
   "search_url": "https://s.weibo.com/weibo?q=%23%E7%8C%AA%E8%82%BE%E7%BB%AD%E5%91%BD9%E4%B8%AA%E6%9C%88%E7%AD%89%E6%9D%A5%E4%BA%86%E4%BA%BA%E8%82%BE%23",
