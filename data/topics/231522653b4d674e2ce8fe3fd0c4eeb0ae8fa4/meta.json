@@ -3,10 +3,10 @@
   "created_at": 1599538587,
   "first_seen_at": "2026-09-07T12:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-07T12:00:00+08:00",
+  "last_seen_at": "2026-09-07T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%8E%8B%E4%BF%8A%E5%87%AF+%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "6家媒体",
     "users": [
       {
         "id": 7422806367,
@@ -23,9 +23,30 @@
         "verified_type": 3
       },
       {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1712686623,
         "idstr": "1712686623",
         "screen_name": "手机上的新浪",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1657914910,
+        "idstr": "1657914910",
+        "screen_name": "烟台日报社大小新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1655444627,
+        "idstr": "1655444627",
+        "screen_name": "潇湘晨报",
         "verified": true,
         "verified_type": 3
       }
