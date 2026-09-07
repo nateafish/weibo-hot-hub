@@ -10,11 +10,26 @@
     "status": 2,
     "uid": 1923808317
   },
-  "last_seen_at": "2026-09-08T05:00:00+08:00",
+  "last_seen_at": "2026-09-08T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%83%91%E9%92%A6%E6%96%87%E4%B8%89%E8%BF%9B%E7%BE%8E%E7%BD%918%E5%BC%BA%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "2家媒体",
+    "users": [
+      {
+        "id": 1234849602,
+        "idstr": "1234849602",
+        "screen_name": "新浪网球",
+        "verified": true,
+        "verified_type": 7
+      },
+      {
+        "id": 6355176006,
+        "idstr": "6355176006",
+        "screen_name": "勋章节目组",
+        "verified": true,
+        "verified_type": 7
+      }
+    ]
   },
   "query": "#郑钦文三进美网8强#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E4%B8%89%E8%BF%9B%E7%BE%8E%E7%BD%918%E5%BC%BA%23",
