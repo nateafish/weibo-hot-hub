@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-07T12:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#习主席中亚中东行的三点启示#",
+      "rank": 1,
+      "title": "习主席中亚中东行的三点启示",
+      "topic_id": "2315224e33c39c4a261d342172277ce68c7fbb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#星宇车灯处罚公告#",
+      "rank": 1,
+      "title": "星宇车灯处罚公告",
+      "topic_id": "2315224a13155a4162205fa7aadca07f4e9f56"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 50,
+      "posts": "saved",
+      "query": "#贫困生能不能追星#",
+      "rank": 2,
+      "title": "贫困生能不能追星",
+      "topic_id": "23152288ff50070954735a21a76c925a2a7b98"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#失去双腿的他说继续冲锋#",
+      "rank": 3,
+      "title": "失去双腿的他说继续冲锋",
+      "topic_id": "2315221222943e26fdf66ebeb64e95897be9bc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 37,
+      "posts": "saved",
+      "query": "#中秋放假3天不调休高速不免费#",
+      "rank": 4,
+      "title": "中秋放假3天不调休高速不免费",
+      "topic_id": "231522413af3d602f4f0ef723db5d4633745a2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 52,
+      "posts": "saved",
+      "query": "#官方回应赴港看演唱会被取消全家低保#",
+      "rank": 5,
+      "title": "官方回应赴港看演唱会被取消全家低保",
+      "topic_id": "2315222b103881f28fafbeaf960bc50b3530e2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "黄金 散户",
+      "rank": 6,
+      "title": "黄金 散户",
+      "topic_id": "231522b3c2a1a152b838cc700b9decae6a68b9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 28,
+      "posts": "saved",
+      "query": "#单亲妈妈说没钱再捐后公益机构笑了#",
+      "rank": 7,
+      "title": "单亲妈妈说没钱再捐后公益机构笑了",
+      "topic_id": "23152294efc2f1025d37e8e18882cfb97ebb86"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#葫芦娃爷爷隔壁咖啡店挂了7个葫芦#",
+      "rank": 8,
+      "title": "葫芦娃爷爷隔壁咖啡店挂了7个葫芦",
+      "topic_id": "23152264f525097b1ffd58c60ce526e9123333"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 53,
+      "posts": "saved",
+      "query": "#詹青云宣传早春晴朗被吐槽#",
+      "rank": 9,
+      "title": "詹青云宣传早春晴朗被吐槽",
+      "topic_id": "231522fa203caa8eaa7e4da481cab28709e021"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#平儿扮演者在中戏迎新晚会上跳舞#",
+      "rank": 10,
+      "title": "平儿扮演者在中戏迎新晚会上跳舞",
+      "topic_id": "23152219e515ec7eea3b8421c781d24f9d0b90"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 39,
+      "posts": "saved",
+      "query": "和贫困生喝咖啡一样的困境",
+      "rank": 11,
+      "title": "和贫困生喝咖啡一样的困境",
+      "topic_id": "231522d05c39c6b34fe30ce17a17ea23b31f0b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "陈晓 陈妍希",
+      "rank": 12,
+      "title": "陈晓 陈妍希",
+      "topic_id": "231522fd384cbc6a0c4f5f61a785a1ebb63067"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 24,
+      "posts": "saved",
+      "query": "#母亲哄睡3岁儿子外出喝酒儿子坠亡#",
+      "rank": 13,
+      "title": "母亲哄睡3岁儿子外出喝酒儿子坠亡",
+      "topic_id": "231522c5ed2427d1d34d610ef5293ef3874645"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 51,
+      "posts": "saved",
+      "query": "特斯拉降价无人维权",
+      "rank": 14,
+      "title": "特斯拉降价无人维权",
+      "topic_id": "23152216edd6b01bb47ff167657bed2e696523"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 38,
+      "posts": "saved",
+      "query": "#詹青云删除宣传早春晴朗视频#",
+      "rank": 15,
+      "title": "詹青云删除宣传早春晴朗视频",
+      "topic_id": "23152296550dce10d4590c11b147cfc6c5f3fb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 33,
+      "posts": "saved",
+      "query": "#曝王晓慧结婚了#",
+      "rank": 16,
+      "title": "曝王晓慧结婚了",
+      "topic_id": "231522c9e6d52a2c705a92e1a7b9baf16fa66a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 20,
+      "posts": "saved",
+      "query": "#特朗普发图称月球是美国的#",
+      "rank": 17,
+      "title": "特朗普发图称月球是美国的",
+      "topic_id": "2315222e6850dfa8b155c98d8670a52c388fb1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 26,
+      "posts": "saved",
+      "query": "#张靓颖三国志玩家身份被曝#",
+      "rank": 18,
+      "title": "张靓颖三国志玩家身份被曝",
+      "topic_id": "231522b239915a953a1100e999d64de15d1965"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#7个采水点没采集一滴真实地下水#",
+      "rank": 19,
+      "title": "7个采水点没采集一滴真实地下水",
+      "topic_id": "231522b1bda246a8034b44178e80845a789676"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 43,
+      "posts": "saved",
+      "query": "#早春晴朗删掉的亲密戏#",
+      "rank": 20,
+      "title": "早春晴朗删掉的亲密戏",
+      "topic_id": "231522219a4788cf61116c5a43a9377f4ae0a2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "身体的炎症全部消失的方法",
+      "rank": 21,
+      "title": "身体的炎症全部消失的方法",
+      "topic_id": "2315222656e4ce3ce9accb104a8871eec8d597"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "小狗被咬死主人骑车追撞大狗",
+      "rank": 22,
+      "title": "小狗被咬死主人骑车追撞大狗",
+      "topic_id": "2315222d65a0d60745dce5b8e93cfb28a0ceb6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 22,
+      "posts": "saved",
+      "query": "#赵丽颖梦回杉杉来了#",
+      "rank": 23,
+      "title": "赵丽颖梦回杉杉来了",
+      "topic_id": "2315229b98310b9f2512c57fb77ce11d606024"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 52,
+      "posts": "saved",
+      "query": "#曝井柏然刘雯结婚了#",
+      "rank": 24,
+      "title": "曝井柏然刘雯结婚了",
+      "topic_id": "2315226f8def369d9dc4cf8d1af5e681b34674"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "网红Tiny泰国手术失败去世",
+      "rank": 25,
+      "title": "网红Tiny泰国手术失败去世",
+      "topic_id": "231522f19238e50a9e23bcdc4122703ef9ec27"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 25,
+      "posts": "saved",
+      "query": "李沐宸道歉",
+      "rank": 26,
+      "title": "李沐宸道歉",
+      "topic_id": "231522fa38b1d600bb9191ccc0af8153e2a5e9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 20,
+      "posts": "saved",
+      "query": "#韦世豪妻子称已报警#",
+      "rank": 27,
+      "title": "韦世豪妻子称已报警",
+      "topic_id": "231522c8a92eb5addb5c03a14f1e82bcca59ec"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 36,
+      "posts": "saved",
+      "query": "赵丽颖长发",
+      "rank": 28,
+      "title": "赵丽颖长发",
+      "topic_id": "2315223b2b7bb52776430e54368b3a9b98d836"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 42,
+      "posts": "saved",
+      "query": "鸡蛋歌",
+      "rank": 29,
+      "title": "鸡蛋歌",
+      "topic_id": "231522eba4a029045337c5f08124fb8e38fcf4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 25,
+      "posts": "saved",
+      "query": "迪丽热巴太帅了",
+      "rank": 30,
+      "title": "迪丽热巴太帅了",
+      "topic_id": "2315221a98e594e3f426028bfec958042a8072"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 26,
+      "posts": "saved",
+      "query": "#星宇人力资源总监免职#",
+      "rank": 31,
+      "title": "星宇人力资源总监免职",
+      "topic_id": "2315220b99b78dbc625b14927574160d6b82c1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "王俊凯 英雄联盟",
+      "rank": 32,
+      "title": "王俊凯 英雄联盟",
+      "topic_id": "231522653b4d674e2ce8fe3fd0c4eeb0ae8fa4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "#麦琳和锤娜丽莎分别瘦了快三十斤#",
+      "rank": 33,
+      "title": "麦琳和锤娜丽莎分别瘦了快三十斤",
+      "topic_id": "23152293f2380844215f7558a1101600c809b9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "家长群 教师负担",
+      "rank": 34,
+      "title": "家长群 教师负担",
+      "topic_id": "23152279bafe83a117ba359ce1df8d8d4beb75"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "现在不是出轨的问题",
+      "rank": 35,
+      "title": "现在不是出轨的问题",
+      "topic_id": "23152201be23d605608d2c84d27d6aea3e17a6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "苏晓彤 拍戏的意义是什么",
+      "rank": 36,
+      "title": "苏晓彤 拍戏的意义是什么",
+      "topic_id": "231522ac641fd66f28bf2c85f7491ea06b2acb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#早春晴朗tracy演员被造型师讨薪#",
+      "rank": 37,
+      "title": "早春晴朗tracy演员被造型师讨薪",
+      "topic_id": "23152256eeb876567280e111a400d45a891cd9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "明日方舟新周边",
+      "rank": 38,
+      "title": "明日方舟新周边",
+      "topic_id": "231522838895e30a388e45b9b642586335a23e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 21,
+      "posts": "saved",
+      "query": "#肖战现身舞蹈工作室#",
+      "rank": 39,
+      "title": "肖战现身舞蹈工作室",
+      "topic_id": "2315227848e54d8ee9bee9496818cf1a1e3026"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#国乒10人出战亚运会#",
+      "rank": 40,
+      "title": "国乒10人出战亚运会",
+      "topic_id": "231522996629c331d66691163d44898b2529cb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#沙溢12岁儿子身高一米八#",
+      "rank": 41,
+      "title": "沙溢12岁儿子身高一米八",
+      "topic_id": "23152215d3bbfcb6aa038f4f33ca6366b89630"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#内娱减肥元年#",
+      "rank": 42,
+      "title": "内娱减肥元年",
+      "topic_id": "2315224cbfb94969e0b94bf2386de24287a553"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 43,
+      "posts": "saved",
+      "query": "#内蒙古婚内强奸案细节曝光#",
+      "rank": 43,
+      "title": "内蒙古婚内强奸案细节曝光",
+      "topic_id": "2315225226c392ae7125415355dcad9940ddb0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "金灿荣为人口问题发声",
+      "rank": 44,
+      "title": "金灿荣为人口问题发声",
+      "topic_id": "231522d94235c63fa65309311021ac063bfde9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#2026亚运会乒乓球赛程#",
+      "rank": 45,
+      "title": "2026亚运会乒乓球赛程",
+      "topic_id": "231522909df117ca292541fb55697d93fd3b0e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 37,
+      "posts": "saved",
+      "query": "#官方正核查女生追星全家取消低保#",
+      "rank": 46,
+      "title": "官方正核查女生追星全家取消低保",
+      "topic_id": "23152287465313e86adeb6524c07476d691090"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "华为苹果小米72小时对决",
+      "rank": 47,
+      "title": "华为苹果小米72小时对决",
+      "topic_id": "23152254ed82d367771375ce759b65edca18c1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#你那个情人也有妻子#",
+      "rank": 48,
+      "title": "你那个情人也有妻子",
+      "topic_id": "231522195855614a10a4b0fcdc8c17b35437b2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "鸡蛋歌 好听",
+      "rank": 49,
+      "title": "鸡蛋歌 好听",
+      "topic_id": "2315223068a8e232253ebdafbab69c1cd8337f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#有人每天帮领导打饭再送到办公室#",
+      "rank": 50,
+      "title": "有人每天帮领导打饭再送到办公室",
+      "topic_id": "2315223d568e03496e91be332ab860e4066e0f"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
