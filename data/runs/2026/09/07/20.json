@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-07T20:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#书写中埃友好历史新篇#",
+      "rank": 1,
+      "title": "书写中埃友好历史新篇",
+      "topic_id": "2315221fd75affafd53e91220ff31cb2a5270b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 46,
+      "posts": "saved",
+      "query": "#赵一鸣致歉#",
+      "rank": 1,
+      "title": "赵一鸣致歉",
+      "topic_id": "2315223b690ff2f2f824fe0fb295886790dec5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "小米澎程",
+      "rank": 2,
+      "title": "小米澎程",
+      "topic_id": "2315221c145829c12669add50d2f53d5851837"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#院士寄语当代青年#",
+      "rank": 3,
+      "title": "院士寄语当代青年",
+      "topic_id": "23152292900daaaf9ee7614448c989fe1f7dd7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 26,
+      "posts": "saved",
+      "query": "#宝格丽高珠晚宴#",
+      "rank": 4,
+      "title": "宝格丽高珠晚宴",
+      "topic_id": "2315229cbca271173278ae3221ab35a40aee0d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "小孩子的社交不谈感情全是事情",
+      "rank": 5,
+      "title": "小孩子的社交不谈感情全是事情",
+      "topic_id": "231522d5cc502a2d46ea13d093b47e0089ff74"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#小米发布会#",
+      "rank": 6,
+      "title": "小米发布会",
+      "topic_id": "231522b68fdd9715b0bbaba71fa348efdc080e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 58,
+      "posts": "saved",
+      "query": "#小米18Fold陶瓷版售价15999元#",
+      "rank": 7,
+      "title": "小米18Fold陶瓷版售价15999元",
+      "topic_id": "23152234de895b9f20147bae9672c114826ccb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 25,
+      "posts": "saved",
+      "query": "#葫芦娃爷爷隔壁咖啡店遭大量差评#",
+      "rank": 8,
+      "title": "葫芦娃爷爷隔壁咖啡店遭大量差评",
+      "topic_id": "2315222b1a383f433c420a1d18de376fbd47b1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 22,
+      "posts": "saved",
+      "query": "#鹿晗躲过了花少2#",
+      "rank": 9,
+      "title": "鹿晗躲过了花少2",
+      "topic_id": "231522a0d7850d33c4429b6b58347dcf4d9425"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "交锋",
+      "rank": 10,
+      "title": "交锋",
+      "topic_id": "231522b80d49a31e7a7d6db5bde7999a681317"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "南宁站跳轨 司机心理阴影",
+      "rank": 11,
+      "title": "南宁站跳轨 司机心理阴影",
+      "topic_id": "23152207ac69bfe3a67257451928ade997b7c9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 55,
+      "posts": "saved",
+      "query": "#雷军称内存实在太贵#",
+      "rank": 12,
+      "title": "雷军称内存实在太贵",
+      "topic_id": "23152272401356598a9926ecf7f99e1b013686"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "偶像剧 软色情宣传",
+      "rank": 13,
+      "title": "偶像剧 软色情宣传",
+      "topic_id": "2315227ddaa3084f95f6729a823be26ea11420"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 55,
+      "posts": "saved",
+      "query": "小米18Fold",
+      "rank": 14,
+      "title": "小米18Fold",
+      "topic_id": "231522d2a1927739db85a6abd50de3569eb7bc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#惠英红为逼母亲吃饭把菜倒进垃圾桶#",
+      "rank": 15,
+      "title": "惠英红为逼母亲吃饭把菜倒进垃圾桶",
+      "topic_id": "231522ef94d4fa96875025e0a3e636ff856d0c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#王一博工作室把粉丝的话当文案#",
+      "rank": 16,
+      "title": "王一博工作室把粉丝的话当文案",
+      "topic_id": "231522508a4b69f1a3be10e77539f2ef16e3f2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 38,
+      "posts": "saved",
+      "query": "#余承东发布会现场连喊3个Super#",
+      "rank": 17,
+      "title": "余承东发布会现场连喊3个Super",
+      "topic_id": "231522576215b93fd376db2448492add8e9b8d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 22,
+      "posts": "saved",
+      "query": "#看张家齐妈妈聊天记录窒息了#",
+      "rank": 18,
+      "title": "看张家齐妈妈聊天记录窒息了",
+      "topic_id": "23152285af6213c0d2918fcdebf54d623c923e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#爸爸含泪举报女儿吸9小时笑气#",
+      "rank": 19,
+      "title": "爸爸含泪举报女儿吸9小时笑气",
+      "topic_id": "231522460b8d93a18e068af537d8838cd71e9d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "网红Tiny泰国手术失败去世",
+      "rank": 20,
+      "title": "网红Tiny泰国手术失败去世",
+      "topic_id": "231522f19238e50a9e23bcdc4122703ef9ec27"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "飞机上一拳打没全家美国签证",
+      "rank": 21,
+      "title": "飞机上一拳打没全家美国签证",
+      "topic_id": "2315223eb697d1b414d604929a8b66ffb456da"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 52,
+      "posts": "saved",
+      "query": "#曝井柏然刘雯结婚了#",
+      "rank": 22,
+      "title": "曝井柏然刘雯结婚了",
+      "topic_id": "2315226f8def369d9dc4cf8d1af5e681b34674"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 52,
+      "posts": "saved",
+      "query": "#吃播网红干饭莹莹去世年仅24岁#",
+      "rank": 23,
+      "title": "吃播网红干饭莹莹去世年仅24岁",
+      "topic_id": "2315224bb773ca4276ba021893bc068ee0dee2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 33,
+      "posts": "saved",
+      "query": "#南宁铁路通报男子跳轨身亡#",
+      "rank": 24,
+      "title": "南宁铁路通报男子跳轨身亡",
+      "topic_id": "2315226ed3ccd0b1e4041ea6dcb5594ad1b48c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 32,
+      "posts": "saved",
+      "query": "#全新混动XT5#",
+      "rank": 25,
+      "title": "全新混动XT5",
+      "topic_id": "23152292a8eacbda5798bc49b8137ec4723167"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#张雅琪后继有人了#",
+      "rank": 26,
+      "title": "张雅琪后继有人了",
+      "topic_id": "231522cddc25deb320351de707cacfc1b70ce3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王俊凯北京站不是收官站#",
+      "rank": 27,
+      "title": "王俊凯北京站不是收官站",
+      "topic_id": "2315222fbf50b41a2b9551206d9a89159f1fed"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#特朗普给美国总统从夯到拉排名#",
+      "rank": 28,
+      "title": "特朗普给美国总统从夯到拉排名",
+      "topic_id": "2315228a5996de7539753eb4a89351270bedd5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#26岁女生把外卖当饭吃进ICU#",
+      "rank": 29,
+      "title": "26岁女生把外卖当饭吃进ICU",
+      "topic_id": "2315223c72dff9bced25cf98101f7845a2ae3c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 53,
+      "posts": "saved",
+      "query": "#华为再发布高性能芯片#",
+      "rank": 30,
+      "title": "华为再发布高性能芯片",
+      "topic_id": "231522b9772e51a8aade118aaaba3798c0a5ab"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 24,
+      "posts": "saved",
+      "query": "#刘亦菲满钻一字裙#",
+      "rank": 31,
+      "title": "刘亦菲满钻一字裙",
+      "topic_id": "231522f6839c092e6dda37a46cdf0cb7656c7e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "一个爱试吃的人天塌了",
+      "rank": 32,
+      "title": "一个爱试吃的人天塌了",
+      "topic_id": "231522f2c593d530e61633f8f098ee0072d963"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#快递员弄丢400多克黄金4天后发现#",
+      "rank": 33,
+      "title": "快递员弄丢400多克黄金4天后发现",
+      "topic_id": "231522ed61ad47ab2c219dc80a8e92b0eb951c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 48,
+      "posts": "saved",
+      "query": "#BLG战胜AL#",
+      "rank": 34,
+      "title": "BLG战胜AL",
+      "topic_id": "231522de7aaba136131bc1059e6b8807555f82"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 52,
+      "posts": "saved",
+      "query": "#才知道井柏然是刘雯初恋#",
+      "rank": 35,
+      "title": "才知道井柏然是刘雯初恋",
+      "topic_id": "231522ddff7eec762d65c8119cfe9bbe90ec98"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 25,
+      "posts": "saved",
+      "query": "金晨着急谈恋爱",
+      "rank": 36,
+      "title": "金晨着急谈恋爱",
+      "topic_id": "2315220233fbee652c5669c54c62c8a1ac1676"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 34,
+      "posts": "saved",
+      "query": "#华为新一代鸿蒙AI智能手表发布#",
+      "rank": 37,
+      "title": "华为新一代鸿蒙AI智能手表发布",
+      "topic_id": "231522538f0348a6db4034ffff57f3d9f4f8fc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#性侵10人博士生被指另强奸虐待7人#",
+      "rank": 38,
+      "title": "性侵10人博士生被指另强奸虐待7人",
+      "topic_id": "231522aa80dce013202cc2df3262cd170abd31"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 51,
+      "posts": "saved",
+      "query": "成毅直播",
+      "rank": 39,
+      "title": "成毅直播",
+      "topic_id": "2315224af7f8a2a67063f91883975c412084bb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#没想到这是杨超越#",
+      "rank": 40,
+      "title": "没想到这是杨超越",
+      "topic_id": "2315222f6fc36c868cef530c907a1110b243fb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "新华社连发三条",
+      "rank": 41,
+      "title": "新华社连发三条",
+      "topic_id": "2315225d12b59bd31e2c5949e9ea9ba3c5c3e9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 30,
+      "posts": "saved",
+      "query": "#赵昭仪被问和花少5还有联系吗#",
+      "rank": 42,
+      "title": "赵昭仪被问和花少5还有联系吗",
+      "topic_id": "231522ba950131c31ac81b523fce1c22947a78"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "#林依晨参加花少8只带一丢丢化妆品#",
+      "rank": 43,
+      "title": "林依晨参加花少8只带一丢丢化妆品",
+      "topic_id": "2315222a4eed7c4e85c3712131d5280f4e2a79"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "宁德时代高利润倒逼车企自研",
+      "rank": 44,
+      "title": "宁德时代高利润倒逼车企自研",
+      "topic_id": "23152282900e46f8fc43e5fb53e9da24ff3c5f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#巴基斯坦空军发布宣传片#",
+      "rank": 45,
+      "title": "巴基斯坦空军发布宣传片",
+      "topic_id": "23152284537572e6cf5e46db3f05ea91e5fb97"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#韩国救援队找到中国幸存者陆海涛#",
+      "rank": 46,
+      "title": "韩国救援队找到中国幸存者陆海涛",
+      "topic_id": "2315229e16153816542224888db3573ffc3feb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#幼童商场开恐龙车撞碎陶瓷家长拒赔#",
+      "rank": 47,
+      "title": "幼童商场开恐龙车撞碎陶瓷家长拒赔",
+      "topic_id": "231522965c5c5928c97d562d36a6d6576291c8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#angelababy到小海绵学校开家长会#",
+      "rank": 48,
+      "title": "angelababy到小海绵学校开家长会",
+      "topic_id": "231522cb889f5e5e75ddfdca62ec5e73977b71"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 51,
+      "posts": "saved",
+      "query": "#刘亦菲ES高定亮相宝格丽#",
+      "rank": 49,
+      "title": "刘亦菲ES高定亮相宝格丽",
+      "topic_id": "2315221adac4dd3aafea3858f25298de0f391a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 54,
+      "posts": "saved",
+      "query": "华为PuraXView价格",
+      "rank": 50,
+      "title": "华为PuraXView价格",
+      "topic_id": "23152221ec9ad8a269e737096295c8fec5a5a7"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
