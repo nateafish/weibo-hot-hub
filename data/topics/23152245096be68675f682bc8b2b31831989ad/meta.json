@@ -3,11 +3,25 @@
   "created_at": 1788791053,
   "first_seen_at": "2026-09-08T00:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-08T07:00:00+08:00",
+  "last_seen_at": "2026-09-08T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9D%A8%E6%B4%8B+%E5%8F%8D%E6%AD%A3%E4%BD%A0%E4%B9%9F%E6%92%AD%E4%B8%8D%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "17家媒体",
     "users": [
+      {
+        "id": 1723216063,
+        "idstr": "1723216063",
+        "screen_name": "佛山新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1642591402,
+        "idstr": "1642591402",
+        "screen_name": "新浪娱乐",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 7422806367,
         "idstr": "7422806367",
@@ -16,9 +30,30 @@
         "verified_type": 3
       },
       {
-        "id": 5118600252,
-        "idstr": "5118600252",
-        "screen_name": "锡盟融媒",
+        "id": 7708039348,
+        "idstr": "7708039348",
+        "screen_name": "北青娱见",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7590570074,
+        "idstr": "7590570074",
+        "screen_name": "山海视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6900707866,
+        "idstr": "6900707866",
+        "screen_name": "宜黄之窗",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6336553950,
+        "idstr": "6336553950",
+        "screen_name": "新浪大文娱",
         "verified": true,
         "verified_type": 3
       }
