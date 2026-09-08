@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1784473157
   },
-  "last_seen_at": "2026-09-08T17:00:00+08:00",
+  "last_seen_at": "2026-09-08T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%80%E4%BB%A3%E4%BB%A3%E7%A7%91%E6%8A%80%E5%B7%A5%E4%BD%9C%E8%80%85%E5%9B%9E%E7%AD%94%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%BA%E4%BD%95%E8%A1%8C%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "15家媒体",
     "users": [
       {
         "id": 1784473157,
@@ -30,9 +30,37 @@
         "verified_type": 3
       },
       {
+        "id": 5608027665,
+        "idstr": "5608027665",
+        "screen_name": "中国环境",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5550357934,
+        "idstr": "5550357934",
+        "screen_name": "动静贵州",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 3205295640,
         "idstr": "3205295640",
         "screen_name": "中新浙里",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2813313591,
+        "idstr": "2813313591",
+        "screen_name": "中新网海南",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2659523842,
+        "idstr": "2659523842",
+        "screen_name": "黔东南新闻网官方微博",
         "verified": true,
         "verified_type": 3
       }

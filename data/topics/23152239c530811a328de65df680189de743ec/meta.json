@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 2318910945
   },
-  "last_seen_at": "2026-09-08T17:00:00+08:00",
+  "last_seen_at": "2026-09-08T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%89%8B%E6%9C%BA%E9%9B%86%E4%BD%93%E6%B6%A8%E4%BB%B7%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "20家媒体",
+    "show_str": "32家媒体",
     "users": [
       {
         "id": 2318910945,
         "idstr": "2318910945",
         "screen_name": "新浪热点",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1750070171,
+        "idstr": "1750070171",
+        "screen_name": "36氪",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7575030448,
+        "idstr": "7575030448",
+        "screen_name": "白鹿视频",
         "verified": true,
         "verified_type": 3
       },
@@ -37,30 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 2813313591,
-        "idstr": "2813313591",
-        "screen_name": "中新网海南",
+        "id": 3684007222,
+        "idstr": "3684007222",
+        "screen_name": "自主汽车网",
         "verified": true,
-        "verified_type": 3
+        "verified_type": 7
       },
       {
-        "id": 2553604372,
-        "idstr": "2553604372",
-        "screen_name": "福州新闻网fznews",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2286460094,
-        "idstr": "2286460094",
-        "screen_name": "资阳观察",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2232583344,
-        "idstr": "2232583344",
-        "screen_name": "阜阳新闻网",
+        "id": 3624248184,
+        "idstr": "3624248184",
+        "screen_name": "陕西网",
         "verified": true,
         "verified_type": 3
       }

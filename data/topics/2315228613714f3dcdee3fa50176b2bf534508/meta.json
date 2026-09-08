@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1784473157
   },
-  "last_seen_at": "2026-09-08T17:00:00+08:00",
+  "last_seen_at": "2026-09-08T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%89%B5%E6%8C%82%E9%9D%92%E5%B0%91%E5%B9%B4%E5%81%A5%E5%BA%B7%E6%88%90%E9%95%BF%E5%85%A8%E9%9D%A2%E5%8F%91%E5%B1%95%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "7家媒体",
     "users": [
       {
         "id": 1784473157,
@@ -30,9 +30,23 @@
         "verified_type": 3
       },
       {
+        "id": 5608027665,
+        "idstr": "5608027665",
+        "screen_name": "中国环境",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 3901624042,
         "idstr": "3901624042",
         "screen_name": "山西日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2638176611,
+        "idstr": "2638176611",
+        "screen_name": "兴化发布",
         "verified": true,
         "verified_type": 3
       },

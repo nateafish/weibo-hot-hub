@@ -3,22 +3,22 @@
   "created_at": 1788849797,
   "first_seen_at": "2026-09-08T16:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-08T17:00:00+08:00",
+  "last_seen_at": "2026-09-08T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E5%AE%8B%E5%A8%81%E9%BE%99+%E8%A1%8C%E7%A8%8B%23%26t%3D3&title=发布媒体",
-    "show_str": "7家媒体",
+    "show_str": "8家媒体",
     "users": [
-      {
-        "id": 1288429914,
-        "idstr": "1288429914",
-        "screen_name": "今视频长天新闻",
-        "verified": true,
-        "verified_type": 3
-      },
       {
         "id": 2115259662,
         "idstr": "2115259662",
         "screen_name": "洪观新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 2290787940,
+        "idstr": "2290787940",
+        "screen_name": "扬州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1913382117,
         "idstr": "1913382117",
         "screen_name": "深圳晚报",
@@ -47,13 +54,6 @@
         "id": 1856446532,
         "idstr": "1856446532",
         "screen_name": "合新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1677991972,
-        "idstr": "1677991972",
-        "screen_name": "晶报",
         "verified": true,
         "verified_type": 3
       }
