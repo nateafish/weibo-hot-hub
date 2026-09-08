@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 7516679696
   },
-  "last_seen_at": "2026-09-08T12:00:00+08:00",
+  "last_seen_at": "2026-09-08T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%BD%91%E7%BA%A2%E5%AE%A3%E4%BC%A0%E6%8D%90%E6%AC%BE%E7%99%BE%E4%B8%87%E5%AE%9E%E9%99%85%E5%8F%AA%E6%8D%901%E5%85%83%23%26t%3D3&title=发布媒体",
-    "show_str": "61家媒体",
+    "show_str": "106家媒体",
     "users": [
       {
         "id": 7516679696,
         "idstr": "7516679696",
         "screen_name": "九派新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1744332207,
+        "idstr": "1744332207",
+        "screen_name": "钱江视频",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +37,30 @@
         "verified_type": 3
       },
       {
-        "id": 6900707866,
-        "idstr": "6900707866",
-        "screen_name": "宜黄之窗",
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 6508016609,
-        "idstr": "6508016609",
-        "screen_name": "风闻社区",
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 3645266160,
-        "idstr": "3645266160",
-        "screen_name": "巴音郭楞融媒",
+        "id": 7141087529,
+        "idstr": "7141087529",
+        "screen_name": "铁骥视频",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 6587633798,
-        "idstr": "6587633798",
-        "screen_name": "崇义发布",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6304381077,
-        "idstr": "6304381077",
-        "screen_name": "老友记TV",
+        "id": 2632236847,
+        "idstr": "2632236847",
+        "screen_name": "香港文匯網",
         "verified": true,
         "verified_type": 3
       }

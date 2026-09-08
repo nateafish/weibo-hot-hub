@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 6105713761
   },
-  "last_seen_at": "2026-09-06T07:00:00+08:00",
+  "last_seen_at": "2026-09-08T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA%E4%BB%B7%E6%A0%BC%23%26t%3D3&title=发布媒体",
-    "show_str": "18家媒体",
+    "show_str": "45家媒体",
     "users": [
       {
         "id": 6105713761,
@@ -30,9 +30,30 @@
         "verified_type": 3
       },
       {
+        "id": 6013508393,
+        "idstr": "6013508393",
+        "screen_name": "环球总财",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2621516563,
         "idstr": "2621516563",
         "screen_name": "咸阳日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1738006505,
+        "idstr": "1738006505",
+        "screen_name": "机锋网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7748987844,
+        "idstr": "7748987844",
+        "screen_name": "枣庄市中融媒",
         "verified": true,
         "verified_type": 3
       },
@@ -42,31 +63,10 @@
         "screen_name": "长春新闻",
         "verified": true,
         "verified_type": 3
-      },
-      {
-        "id": 1403842922,
-        "idstr": "1403842922",
-        "screen_name": "琅琊新闻网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6115560351,
-        "idstr": "6115560351",
-        "screen_name": "国是直通车",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6004281123,
-        "idstr": "6004281123",
-        "screen_name": "梨视频",
-        "verified": true,
-        "verified_type": 3
       }
     ]
   },
-  "query": "#苹果折叠手机价格#",
+  "query": "苹果折叠手机价格",
   "search_url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA%E4%BB%B7%E6%A0%BC%23",
   "sub_category": null,
   "summary": "",
