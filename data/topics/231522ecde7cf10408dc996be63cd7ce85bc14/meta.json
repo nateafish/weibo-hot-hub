@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1699432410
   },
-  "last_seen_at": "2026-09-08T11:00:00+08:00",
+  "last_seen_at": "2026-09-08T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%BC%A0%E6%96%B0%E5%BD%93%E9%80%89%E7%BE%BD%E5%8D%8F%E4%B8%BB%E5%B8%AD%23%26t%3D3&title=发布媒体",
-    "show_str": "42家媒体",
+    "show_str": "66家媒体",
     "users": [
       {
         "id": 1699432410,
@@ -26,6 +26,13 @@
         "id": 1751714412,
         "idstr": "1751714412",
         "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6299534218,
+        "idstr": "6299534218",
+        "screen_name": "北青体育",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 3365993480,
-        "idstr": "3365993480",
-        "screen_name": "福建日报",
+        "id": 1642512402,
+        "idstr": "1642512402",
+        "screen_name": "中国新闻周刊",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1943154142,
-        "idstr": "1943154142",
-        "screen_name": "中安在线",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7615661091,
-        "idstr": "7615661091",
-        "screen_name": "人民政协网",
+        "id": 1497087080,
+        "idstr": "1497087080",
+        "screen_name": "羊城晚报",
         "verified": true,
         "verified_type": 3
       }

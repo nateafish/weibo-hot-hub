@@ -10,11 +10,26 @@
     "status": 2,
     "uid": 2572247607
   },
-  "last_seen_at": "2026-09-08T11:00:00+08:00",
+  "last_seen_at": "2026-09-08T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%AA%81%E7%84%B6%E7%90%86%E8%A7%A3%E8%8A%B1%E5%B0%912%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "2家媒体",
+    "users": [
+      {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1720962692,
+        "idstr": "1720962692",
+        "screen_name": "极目新闻",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#突然理解花少2了#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E7%90%86%E8%A7%A3%E8%8A%B1%E5%B0%912%E4%BA%86%23",

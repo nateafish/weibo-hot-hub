@@ -3,10 +3,10 @@
   "created_at": 1788823004,
   "first_seen_at": "2026-09-08T11:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-08T11:00:00+08:00",
+  "last_seen_at": "2026-09-08T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%AE%9D%E6%A0%BC%E4%B8%BD%E5%B0%8F%E5%85%AC%E4%B8%BB%E7%BC%BA%E5%B8%AD%E6%99%9A%E5%AE%B4%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "6家媒体",
     "users": [
       {
         "id": 2286092114,
@@ -30,9 +30,23 @@
         "verified_type": 3
       },
       {
+        "id": 2010802407,
+        "idstr": "2010802407",
+        "screen_name": "中国台州网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1882632930,
         "idstr": "1882632930",
         "screen_name": "新消息报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1709951635,
+        "idstr": "1709951635",
+        "screen_name": "哈尔滨日报",
         "verified": true,
         "verified_type": 3
       }
