@@ -3,11 +3,33 @@
   "created_at": 1788867287,
   "first_seen_at": "2026-09-08T20:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-08T20:00:00+08:00",
+  "last_seen_at": "2026-09-08T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%9F%A9%E5%9B%BD+%E6%B1%89%E5%AD%97%E6%95%99%E8%82%B2%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "3家媒体",
+    "users": [
+      {
+        "id": 7030322196,
+        "idstr": "7030322196",
+        "screen_name": "天眼新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5167503212,
+        "idstr": "5167503212",
+        "screen_name": "贵州日报官微",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2703033997,
+        "idstr": "2703033997",
+        "screen_name": "海峡都市报莆田新闻",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "韩国 汉字教育",
   "search_url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%20%E6%B1%89%E5%AD%97%E6%95%99%E8%82%B2%23",
