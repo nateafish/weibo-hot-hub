@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1974576991
   },
-  "last_seen_at": "2026-09-09T05:00:00+08:00",
+  "last_seen_at": "2026-09-09T06:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%80%E6%AC%A1%E6%83%B9%E4%BA%8620%E5%9B%BD%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "5家媒体",
     "users": [
       {
         "id": 1974576991,
@@ -40,6 +40,13 @@
         "id": 2252846093,
         "idstr": "2252846093",
         "screen_name": "长春新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1912032243,
+        "idstr": "1912032243",
+        "screen_name": "大庆晚报",
         "verified": true,
         "verified_type": 3
       }
