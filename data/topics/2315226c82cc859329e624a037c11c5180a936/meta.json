@@ -3,15 +3,29 @@
   "created_at": 1769759428,
   "first_seen_at": "2026-09-08T16:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-08T16:00:00+08:00",
+  "last_seen_at": "2026-09-08T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9D%A8%E5%B9%82+%E5%9C%B0%E8%A1%A8%E6%9C%80%E5%BC%BA166.5%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "4家媒体",
     "users": [
       {
         "id": 5168259491,
         "idstr": "5168259491",
         "screen_name": "听听FM",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1936119834,
+        "idstr": "1936119834",
+        "screen_name": "河北长城网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1768470921,
+        "idstr": "1768470921",
+        "screen_name": "青岛新闻网",
         "verified": true,
         "verified_type": 3
       },
