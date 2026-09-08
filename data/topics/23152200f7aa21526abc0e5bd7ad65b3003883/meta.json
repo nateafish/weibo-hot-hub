@@ -3,11 +3,25 @@
   "created_at": 1788871122,
   "first_seen_at": "2026-09-08T22:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-08T22:00:00+08:00",
+  "last_seen_at": "2026-09-09T01:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BD%8E%E4%BF%9D%E9%A6%99%E6%B8%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%8B%E4%BB%B6+%E5%91%BD%E8%BF%90%E6%8D%89%E5%BC%84%E4%BA%BA%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "5家媒体",
     "users": [
+      {
+        "id": 2258747755,
+        "idstr": "2258747755",
+        "screen_name": "时尚麻辣观察团",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1863222751,
+        "idstr": "1863222751",
+        "screen_name": "当代广西杂志",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1700720163,
         "idstr": "1700720163",
@@ -19,6 +33,13 @@
         "id": 1668589317,
         "idstr": "1668589317",
         "screen_name": "大众新闻-半岛都市报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1451977335,
+        "idstr": "1451977335",
+        "screen_name": "新晚报",
         "verified": true,
         "verified_type": 3
       }

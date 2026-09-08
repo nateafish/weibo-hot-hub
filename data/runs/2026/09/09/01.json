@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-09T01:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#习近平同英国首相伯纳姆通电话#",
+      "rank": 1,
+      "title": "习近平同英国首相伯纳姆通电话",
+      "topic_id": "231522003d0c185b92e60c7dfd61d939ea4300"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "这段话杀死了内耗型人格",
+      "rank": 1,
+      "title": "这段话杀死了内耗型人格",
+      "topic_id": "2315222cd4500f3417ac0405699e82725d749c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 53,
+      "posts": "saved",
+      "query": "苹果用户换华为",
+      "rank": 2,
+      "title": "苹果用户换华为",
+      "topic_id": "231522413a3479fd1c706a680c88e8cfbe71a0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#平陆运河9月16日建成通航#",
+      "rank": 3,
+      "title": "平陆运河9月16日建成通航",
+      "topic_id": "23152281eefeddea0dfb138f2dcb8aab08718c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 42,
+      "posts": "saved",
+      "query": "金球奖",
+      "rank": 4,
+      "title": "金球奖",
+      "topic_id": "2315227fe4963960af024607f03680f4eb51ef"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "这样的吃播该全面叫停了",
+      "rank": 5,
+      "title": "这样的吃播该全面叫停了",
+      "topic_id": "2315221693f1a0e14b158d9c20fa1872820193"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#Crisp力挺TheShy#",
+      "rank": 6,
+      "title": "Crisp力挺TheShy",
+      "topic_id": "23152228a63c4805798a7fee479d721e8ecef8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#梅姨长相暂不公开原因#",
+      "rank": 7,
+      "title": "梅姨长相暂不公开原因",
+      "topic_id": "2315223c7d0fd98cb6e57c175f764d1ffbca58"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "刘畅邓恩熙有牵手戏份",
+      "rank": 8,
+      "title": "刘畅邓恩熙有牵手戏份",
+      "topic_id": "23152202ff148aa701e631f84da743f00801e6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 40,
+      "posts": "saved",
+      "query": "医生眼里让大脑休息最好的方法",
+      "rank": 9,
+      "title": "医生眼里让大脑休息最好的方法",
+      "topic_id": "2315229b5a65231a41b149bd535df1f7d416e5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "刘青松直播聊Gimgoon",
+      "rank": 10,
+      "title": "刘青松直播聊Gimgoon",
+      "topic_id": "231522900f96de46839c06ed3bdde392152379"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 29,
+      "posts": "saved",
+      "query": "女子还不起房贷喊话前男友收回",
+      "rank": 11,
+      "title": "女子还不起房贷喊话前男友收回",
+      "topic_id": "231522f4d0590589b7b274347cefdc0ecf0a5a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "吃紧急避孕药时机真的很关键",
+      "rank": 12,
+      "title": "吃紧急避孕药时机真的很关键",
+      "topic_id": "2315224c07c732883f2a5dd1322bd738e3012c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#雷军发布会后发长文#",
+      "rank": 13,
+      "title": "雷军发布会后发长文",
+      "topic_id": "231522ebc212014b98585c1579d77f7b581aa9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 27,
+      "posts": "saved",
+      "query": "#吃播已成吃人的流量赛道#",
+      "rank": 14,
+      "title": "吃播已成吃人的流量赛道",
+      "topic_id": "231522332b6f0767436dbecab7307ccfde17e7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "双休不一定是休周六周日",
+      "rank": 15,
+      "title": "双休不一定是休周六周日",
+      "topic_id": "231522ea3a6f58de70bb9178ee75dfb0b68aea"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 27,
+      "posts": "saved",
+      "query": "#虞书欣我欲乘风明年开机#",
+      "rank": 16,
+      "title": "虞书欣我欲乘风明年开机",
+      "topic_id": "23152273c3d60f07fd0b1ea59668233cf0170c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#我国进出口连续4个月保持两位数增长#",
+      "rank": 17,
+      "title": "我国进出口连续4个月保持两位数增长",
+      "topic_id": "231522326a9a1be90478e6ee5bdf023507b98c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#特朗普一次惹了20国#",
+      "rank": 18,
+      "title": "特朗普一次惹了20国",
+      "topic_id": "23152274f14e16bd932b3aa80afd3249294c15"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 20,
+      "posts": "saved",
+      "query": "郑钦文 冲击美网四强",
+      "rank": 19,
+      "title": "郑钦文 冲击美网四强",
+      "topic_id": "2315224aa9cd96410b3c819813ec7a06a06d9f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 52,
+      "posts": "saved",
+      "query": "旅行青蛙",
+      "rank": 20,
+      "title": "旅行青蛙",
+      "topic_id": "23152285ba006794f8ffceab7cffdff15521bb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "受资助女孩质问为何没打生活费",
+      "rank": 21,
+      "title": "受资助女孩质问为何没打生活费",
+      "topic_id": "2315221f085380c41c5996f67029b924af8743"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 31,
+      "posts": "saved",
+      "query": "一诺 菲菲",
+      "rank": 22,
+      "title": "一诺 菲菲",
+      "topic_id": "231522987c787b5f502459dffbc8606a5fea59"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#一家三口吃单人锅只点一份大闹餐厅#",
+      "rank": 23,
+      "title": "一家三口吃单人锅只点一份大闹餐厅",
+      "topic_id": "2315229652ae0937c1d13bc7ec2b8931decee8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "00后现状怎么做到全国统一的",
+      "rank": 24,
+      "title": "00后现状怎么做到全国统一的",
+      "topic_id": "231522ea11d5984a599f79177f2c66105b956a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#腿脚不便大妈来退儿子买给女友衣服#",
+      "rank": 25,
+      "title": "腿脚不便大妈来退儿子买给女友衣服",
+      "topic_id": "2315227c87e412e83e1b864c90aa8195472539"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#打了21个耳洞的耳朵#",
+      "rank": 26,
+      "title": "打了21个耳洞的耳朵",
+      "topic_id": "23152239616b562d4e2ea86286ec3e342c8a0b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "无畏直播",
+      "rank": 27,
+      "title": "无畏直播",
+      "topic_id": "23152247092b41e40d18b1cb4ff5c5acff7a9d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "时之笛 Switch2",
+      "rank": 28,
+      "title": "时之笛 Switch2",
+      "topic_id": "231522b7076d39c3c889d87070bf34100dbdeb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "AI吃播",
+      "rank": 29,
+      "title": "AI吃播",
+      "topic_id": "2315223cc57efc6f35607f2dcaad6c48062719"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#印度21岁女运动员因外貌走红#",
+      "rank": 30,
+      "title": "印度21岁女运动员因外貌走红",
+      "topic_id": "2315228635d54dde84bb95a4b176b5967e89e0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 29,
+      "posts": "saved",
+      "query": "低保香港演唱会事件 命运捉弄人",
+      "rank": 31,
+      "title": "低保香港演唱会事件 命运捉弄人",
+      "topic_id": "23152200f7aa21526abc0e5bd7ad65b3003883"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "郑钦文 赞助商高兴坏了",
+      "rank": 32,
+      "title": "郑钦文 赞助商高兴坏了",
+      "topic_id": "2315223321a88c15cfe826a994998ebcc8cf62"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#意识到婴儿行为不可预测的猫#",
+      "rank": 33,
+      "title": "意识到婴儿行为不可预测的猫",
+      "topic_id": "231522023a5ff9d761e86d269b5b21a2e7f142"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "整个英语体系没有比这个更完整的了",
+      "rank": 34,
+      "title": "整个英语体系没有比这个更完整的了",
+      "topic_id": "2315225774c067889f68646209e9cf9f552eee"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 49,
+      "posts": "saved",
+      "query": "#郑钦文以2260万美元位列世界网坛收入榜第七#",
+      "rank": 35,
+      "title": "郑钦文以2260万美元位列世界网坛收入榜第七",
+      "topic_id": "231522b4f89a8d52d49f2c8ac15ade00d436b0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "什么是人生最顶级的享受",
+      "rank": 36,
+      "title": "什么是人生最顶级的享受",
+      "topic_id": "231522dba99f2ce13b13efa8049069accfb78f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 52,
+      "posts": "saved",
+      "query": "华为 备用机",
+      "rank": 37,
+      "title": "华为 备用机",
+      "topic_id": "23152230044b6ca18fe2d89a9cb0a24e7bde4c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 36,
+      "posts": "saved",
+      "query": "#栾念为了见尚之桃飞西北20次#",
+      "rank": 38,
+      "title": "栾念为了见尚之桃飞西北20次",
+      "topic_id": "23152210d47a432c93bee09fc534e7cf7fff83"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#卢昱晓苏落薇眼妆#",
+      "rank": 39,
+      "title": "卢昱晓苏落薇眼妆",
+      "topic_id": "231522d37a1d77a16b4463bed84572f413d1d5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#哈兰德贝林厄姆入选金球奖名单#",
+      "rank": 40,
+      "title": "哈兰德贝林厄姆入选金球奖名单",
+      "topic_id": "231522b9b02141f00c2df1ff576e48b88b4b72"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#红果日活超爱优腾芒总和#",
+      "rank": 41,
+      "title": "红果日活超爱优腾芒总和",
+      "topic_id": "231522bb0095bfd661bf28d8a418d92f3091fd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#于文文说很难对男生有心动的感觉#",
+      "rank": 42,
+      "title": "于文文说很难对男生有心动的感觉",
+      "topic_id": "231522a370ae5ebbaadd6df25773f545b64510"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#加拿大正式报复美国#",
+      "rank": 43,
+      "title": "加拿大正式报复美国",
+      "topic_id": "231522562b59625aba2f9534873a7acf31b7be"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 24,
+      "posts": "saved",
+      "query": "#AG超玩会菲菲直播#",
+      "rank": 44,
+      "title": "AG超玩会菲菲直播",
+      "topic_id": "231522aa5f122f309b9a6849fe4c801ca88de9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 43,
+      "posts": "saved",
+      "query": "太子奶",
+      "rank": 45,
+      "title": "太子奶",
+      "topic_id": "23152261a79679a0562cc3f73bfbb2638cb576"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 20,
+      "posts": "saved",
+      "query": "#男子看望奶奶过桥时坠亡后9天奶奶去世#",
+      "rank": 46,
+      "title": "男子看望奶奶过桥时坠亡后9天奶奶去世",
+      "topic_id": "231522be35f985d1c900689920c972e91cc2cf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 21,
+      "posts": "saved",
+      "query": "#燃油车真卖不动了吗#",
+      "rank": 47,
+      "title": "燃油车真卖不动了吗",
+      "topic_id": "2315227ebd1052b0cc2e9a1c8e6ced8ffc2488"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#井柏然孙千的杀青戏是哭戏#",
+      "rank": 48,
+      "title": "井柏然孙千的杀青戏是哭戏",
+      "topic_id": "231522fea3298267cecfa0c49cbec7b2202d97"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "韩国 汉字教育",
+      "rank": 49,
+      "title": "韩国 汉字教育",
+      "topic_id": "231522816fa1859fd599c4bcc8f203124e5eb9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 22,
+      "posts": "saved",
+      "query": "#孙柏涵提前表白#",
+      "rank": 50,
+      "title": "孙柏涵提前表白",
+      "topic_id": "23152237970d8fd042fed2a02c75c129fa6653"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
