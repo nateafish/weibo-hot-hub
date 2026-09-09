@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 7030322196
   },
-  "last_seen_at": "2026-09-09T18:00:00+08:00",
+  "last_seen_at": "2026-09-09T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E9%94%90%E8%AF%84%E4%B8%80%E8%BE%B9%E9%AB%98%E6%B6%88%E8%B4%B9%E4%B8%80%E8%BE%B9%E9%A2%86%E4%BD%8E%E4%BF%9D%23%26t%3D3&title=发布媒体",
-    "show_str": "23家媒体",
+    "show_str": "33家媒体",
     "users": [
       {
         "id": 7030322196,
         "idstr": "7030322196",
         "screen_name": "天眼新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -37,30 +44,23 @@
         "verified_type": 3
       },
       {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1895096900,
+        "idstr": "1895096900",
+        "screen_name": "深圳新闻网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1769216315,
         "idstr": "1769216315",
         "screen_name": "小莉帮忙",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1403842922,
-        "idstr": "1403842922",
-        "screen_name": "琅琊新闻网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1887344341,
-        "idstr": "1887344341",
-        "screen_name": "观察者网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5396094153,
-        "idstr": "5396094153",
-        "screen_name": "大众新闻-大众日报",
         "verified": true,
         "verified_type": 3
       }

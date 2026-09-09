@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 6186842576
   },
-  "last_seen_at": "2026-09-09T18:00:00+08:00",
+  "last_seen_at": "2026-09-09T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%B5%96%E5%86%A0%E9%9C%96%E7%96%91%E4%BC%BC%E7%BB%93%E5%A9%9A%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "15家媒体",
+    "show_str": "24家媒体",
     "users": [
       {
         "id": 1288429914,
         "idstr": "1288429914",
         "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1899227237,
+        "idstr": "1899227237",
+        "screen_name": "青岛早报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497087080,
+        "idstr": "1497087080",
+        "screen_name": "羊城晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7590570074,
+        "idstr": "7590570074",
+        "screen_name": "山海视频",
         "verified": true,
         "verified_type": 3
       },
@@ -40,27 +61,6 @@
         "id": 5867962564,
         "idstr": "5867962564",
         "screen_name": "达州快播报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5763593746,
-        "idstr": "5763593746",
-        "screen_name": "资阳快播报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5745238615,
-        "idstr": "5745238615",
-        "screen_name": "封面快播报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5743709752,
-        "idstr": "5743709752",
-        "screen_name": "绵阳快播报",
         "verified": true,
         "verified_type": 3
       }
