@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1699432410
   },
-  "last_seen_at": "2026-09-09T06:00:00+08:00",
+  "last_seen_at": "2026-09-09T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E4%BC%AF%E7%BA%B3%E5%A7%86%E9%80%9A%E7%94%B5%E8%AF%9D%23%26t%3D3&title=发布媒体",
-    "show_str": "23家媒体",
+    "show_str": "24家媒体",
     "users": [
       {
         "id": 1699432410,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 1752825395,
+        "idstr": "1752825395",
+        "screen_name": "光明网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 5608027665,
         "idstr": "5608027665",
         "screen_name": "中国环境",
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 5519666559,
+        "idstr": "5519666559",
+        "screen_name": "海峡之声",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 3037284894,
         "idstr": "3037284894",
         "screen_name": "经济日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2810373291,
-        "idstr": "2810373291",
-        "screen_name": "新华网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1752825395,
-        "idstr": "1752825395",
-        "screen_name": "光明网",
         "verified": true,
         "verified_type": 3
       }
