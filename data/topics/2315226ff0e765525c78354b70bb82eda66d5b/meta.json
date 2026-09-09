@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 1496814565
   },
-  "last_seen_at": "2026-09-09T19:00:00+08:00",
+  "last_seen_at": "2026-09-09T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%87%91%E4%BB%B7%E7%8C%9B%E7%8C%9B%E6%8B%89%E5%8D%87%23%26t%3D3&title=发布媒体",
-    "show_str": "11家媒体",
+    "show_str": "30家媒体",
     "users": [
       {
         "id": 1496814565,
         "idstr": "1496814565",
         "screen_name": "封面新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1420157965,
+        "idstr": "1420157965",
+        "screen_name": "上游新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 5763593746,
         "idstr": "5763593746",
         "screen_name": "资阳快播报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5745238615,
-        "idstr": "5745238615",
-        "screen_name": "封面快播报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5743709752,
-        "idstr": "5743709752",
-        "screen_name": "绵阳快播报",
         "verified": true,
         "verified_type": 3
       }
