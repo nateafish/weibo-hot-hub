@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 5336533996
   },
-  "last_seen_at": "2026-09-09T22:00:00+08:00",
+  "last_seen_at": "2026-09-10T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9F%AC%E5%9F%94%E5%AF%A8%E4%B8%80%E8%AF%88%E9%AA%97%E5%9B%AD%E5%8C%BA%E5%86%85%E9%83%A8%E6%9B%9D%E5%85%89%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "6家媒体",
     "users": [
       {
         "id": 5336533996,
         "idstr": "5336533996",
         "screen_name": "世面",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2308941133,
+        "idstr": "2308941133",
+        "screen_name": "锦州播报",
         "verified": true,
         "verified_type": 3
       },
@@ -33,6 +40,20 @@
         "id": 2879437792,
         "idstr": "2879437792",
         "screen_name": "海峡都市报_大厦门",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1960785875,
+        "idstr": "1960785875",
+        "screen_name": "津云新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1611935011,
+        "idstr": "1611935011",
+        "screen_name": "中国报道",
         "verified": true,
         "verified_type": 3
       }

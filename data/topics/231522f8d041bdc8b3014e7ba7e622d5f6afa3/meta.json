@@ -3,11 +3,19 @@
   "created_at": 1788959310,
   "first_seen_at": "2026-09-09T22:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-09T22:00:00+08:00",
+  "last_seen_at": "2026-09-10T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%98%8E%E6%98%9F%E4%BB%B7%E5%80%BC+%E7%BC%A9%E6%B0%B4%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "1家媒体",
+    "users": [
+      {
+        "id": 7422806367,
+        "idstr": "7422806367",
+        "screen_name": "中网传播",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "明星价值 缩水",
   "search_url": "https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%98%9F%E4%BB%B7%E5%80%BC%20%E7%BC%A9%E6%B0%B4%23",

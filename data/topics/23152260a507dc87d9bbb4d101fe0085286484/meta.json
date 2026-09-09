@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 6096382092
   },
-  "last_seen_at": "2026-09-09T22:00:00+08:00",
+  "last_seen_at": "2026-09-10T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%BB%88%E4%BA%8E%E5%90%83%E4%B8%8A%E6%95%99%E5%B8%88%E8%B5%84%E6%A0%BC%E8%AF%81%E7%9A%84%E7%BA%A2%E5%88%A9%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "8家媒体",
     "users": [
+      {
+        "id": 6154234421,
+        "idstr": "6154234421",
+        "screen_name": "万像新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 5396094153,
         "idstr": "5396094153",
         "screen_name": "大众新闻-大众日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2879437792,
+        "idstr": "2879437792",
+        "screen_name": "海峡都市报_大厦门",
         "verified": true,
         "verified_type": 3
       },
@@ -47,13 +61,6 @@
         "id": 1725252714,
         "idstr": "1725252714",
         "screen_name": "温度新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1682207150,
-        "idstr": "1682207150",
-        "screen_name": "南方日报",
         "verified": true,
         "verified_type": 3
       }

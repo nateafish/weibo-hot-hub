@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 7575030448
   },
-  "last_seen_at": "2026-09-09T22:00:00+08:00",
+  "last_seen_at": "2026-09-10T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%8B%B9%E6%9E%9C%E6%96%B0CEO%E5%8F%91%E5%B8%83%E4%BC%9A%E5%89%8D%E6%9B%B4%E6%96%B0%E5%8A%A8%E6%80%81%23%26t%3D3&title=发布媒体",
-    "show_str": "8家媒体",
+    "show_str": "12家媒体",
     "users": [
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 7575030448,
         "idstr": "7575030448",
@@ -37,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 5061229888,
+        "idstr": "5061229888",
+        "screen_name": "财经网科技",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2252846093,
         "idstr": "2252846093",
         "screen_name": "长春新闻",
@@ -47,20 +61,6 @@
         "id": 2075245652,
         "idstr": "2075245652",
         "screen_name": "长春晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1967926223,
-        "idstr": "1967926223",
-        "screen_name": "FM1031济南交通广播",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1700720163,
-        "idstr": "1700720163",
-        "screen_name": "钱江晚报",
         "verified": true,
         "verified_type": 3
       }
