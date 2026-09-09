@@ -1,5 +1,5 @@
 {
-  "category": "财经",
+  "category": "科技",
   "created_at": 1766651411,
   "first_seen_at": "2026-09-10T02:00:00+08:00",
   "host": {
@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 7689916796
   },
-  "last_seen_at": "2026-09-10T04:00:00+08:00",
+  "last_seen_at": "2026-09-10T06:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23iPhone18Pro%E9%A2%9C%E8%89%B2%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "5家媒体",
     "users": [
+      {
+        "id": 1931093993,
+        "idstr": "1931093993",
+        "screen_name": "热点科技",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2853016445,
         "idstr": "2853016445",
@@ -23,9 +30,9 @@
         "verified_type": 3
       },
       {
-        "id": 1931093993,
-        "idstr": "1931093993",
-        "screen_name": "热点科技",
+        "id": 1887344341,
+        "idstr": "1887344341",
+        "screen_name": "观察者网",
         "verified": true,
         "verified_type": 3
       },
