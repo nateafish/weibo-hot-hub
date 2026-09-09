@@ -3,11 +3,19 @@
   "created_at": 1788982300,
   "first_seen_at": "2026-09-10T06:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-10T06:00:00+08:00",
+  "last_seen_at": "2026-09-10T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23iPhoneDuo%E8%BF%87%E6%B8%A1%E5%8A%A8%E7%94%BB+%E5%AE%8C%E7%BE%8E%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "1家媒体",
+    "users": [
+      {
+        "id": 1943154142,
+        "idstr": "1943154142",
+        "screen_name": "中安在线",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "iPhoneDuo过渡动画 完美",
   "search_url": "https://s.weibo.com/weibo?q=%23iphoneduo%E8%BF%87%E6%B8%A1%E5%8A%A8%E7%94%BB%20%E5%AE%8C%E7%BE%8E%23",
