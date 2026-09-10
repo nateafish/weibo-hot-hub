@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-10T09:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#习近平向广大教师致以节日祝贺#",
+      "rank": 1,
+      "title": "习近平向广大教师致以节日祝贺",
+      "topic_id": "231522639b99691ebce8064cf127870706e5cd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 53,
+      "posts": "saved",
+      "query": "iPhone18Pro价格",
+      "rank": 1,
+      "title": "iPhone18Pro价格",
+      "topic_id": "23152223ba05f9247f8d8b47d483215221e20a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 51,
+      "posts": "saved",
+      "query": "教师节",
+      "rank": 2,
+      "title": "教师节",
+      "topic_id": "231522b8fa674cd8cacc6bf25c93ebdd67ed7c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#一图速览2026年服贸会#",
+      "rank": 3,
+      "title": "一图速览2026年服贸会",
+      "topic_id": "23152235cfafc9166c6a62d4776f1a323ae5ed"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 50,
+      "posts": "saved",
+      "query": "iPhoneDuo过渡动画 完美",
+      "rank": 4,
+      "title": "iPhoneDuo过渡动画 完美",
+      "topic_id": "23152200a52b8580d440db76ffc47ca047584d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 22,
+      "posts": "saved",
+      "query": "AirPods5 便宜",
+      "rank": 5,
+      "title": "AirPods5 便宜",
+      "topic_id": "231522d6558dafa2dd7f8fc8af70b2b2bfd0fa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 50,
+      "posts": "saved",
+      "query": "#郑钦文美网止步八强#",
+      "rank": 6,
+      "title": "郑钦文美网止步八强",
+      "topic_id": "231522dd164ab67ed25e5bbf45eeee25f220ca"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 31,
+      "posts": "saved",
+      "query": "#刘恋想问早春晴朗作者自己是不是原型#",
+      "rank": 7,
+      "title": "刘恋想问早春晴朗作者自己是不是原型",
+      "topic_id": "231522a34101b76b8a6b9c8380e1823a726fa4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 54,
+      "posts": "saved",
+      "query": "#郑钦文美网1比2莱巴金娜#",
+      "rank": 8,
+      "title": "郑钦文美网1比2莱巴金娜",
+      "topic_id": "231522ccdf4a5b7dafae3278022ca6bbf74a33"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 53,
+      "posts": "saved",
+      "query": "#宁德时代已报警#",
+      "rank": 9,
+      "title": "宁德时代已报警",
+      "topic_id": "2315220f2b14d15109eff8148d4463bad7b3fe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 41,
+      "posts": "saved",
+      "query": "心动的信号",
+      "rank": 10,
+      "title": "心动的信号",
+      "topic_id": "231522b1ce0f529e79ccf1ed944e7afa8c2e1d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 29,
+      "posts": "saved",
+      "query": "#宝格丽越南公关回应刘亦菲裁掉胡玉荷#",
+      "rank": 11,
+      "title": "宝格丽越南公关回应刘亦菲裁掉胡玉荷",
+      "topic_id": "23152246454d11363cd7e2e1a0d5ee8c02f247"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "苹果下架iPhone17Pro",
+      "rank": 12,
+      "title": "苹果下架iPhone17Pro",
+      "topic_id": "23152251115a7af36df77099919338246864ca"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 52,
+      "posts": "saved",
+      "query": "#越南女星回应合照被刘亦菲裁掉了#",
+      "rank": 13,
+      "title": "越南女星回应合照被刘亦菲裁掉了",
+      "topic_id": "231522b5420f9da91bebd4cb20bb2a2326e1e5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#何同学上手iPhone18Pro#",
+      "rank": 14,
+      "title": "何同学上手iPhone18Pro",
+      "topic_id": "231522341614667ef2eceed22f4d6053a7b142"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 24,
+      "posts": "saved",
+      "query": "无折痕",
+      "rank": 15,
+      "title": "无折痕",
+      "topic_id": "2315220210051286fd11302ce1d29f30a714b8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 21,
+      "posts": "saved",
+      "query": "黄金白银大跌",
+      "rank": 16,
+      "title": "黄金白银大跌",
+      "topic_id": "23152233158b76f1234ee28dd1d73fa29803fd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 25,
+      "posts": "saved",
+      "query": "#井柏然孙千沙发吻花絮#",
+      "rank": 17,
+      "title": "井柏然孙千沙发吻花絮",
+      "topic_id": "23152288436b2f028a7906673ca93f76e712c3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "Series12 Ultra4",
+      "rank": 18,
+      "title": "Series12 Ultra4",
+      "topic_id": "2315225da8ac72ec0d49075996271ce7382ab6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 31,
+      "posts": "saved",
+      "query": "#iPhone18Pro天猫首发货量足#",
+      "rank": 19,
+      "title": "iPhone18Pro天猫首发货量足",
+      "topic_id": "231522eba5adcbdde3fa365fe99b47e661bd31"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#三星嘲讽苹果iPhoneDuo#",
+      "rank": 20,
+      "title": "三星嘲讽苹果iPhoneDuo",
+      "topic_id": "231522d61bc377d82081e378ab60a1c909f7fe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 50,
+      "posts": "saved",
+      "query": "iPhoneDuo 屏下摄像头",
+      "rank": 21,
+      "title": "iPhoneDuo 屏下摄像头",
+      "topic_id": "231522f0859dcb5938d40bd2eff159da93b5cc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#日本暴发梅毒疫情#",
+      "rank": 22,
+      "title": "日本暴发梅毒疫情",
+      "topic_id": "2315226b5787677faad28ee53c57f7c29d2d3c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#刘恋曾是奥美创意总监#",
+      "rank": 23,
+      "title": "刘恋曾是奥美创意总监",
+      "topic_id": "231522a0e7b40f9781f09e175e9cf47f87767e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#杨洋绞尽脑汁的高情商回复#",
+      "rank": 24,
+      "title": "杨洋绞尽脑汁的高情商回复",
+      "topic_id": "2315221c05efa7d9d79920f8a713c5564b43dd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 50,
+      "posts": "saved",
+      "query": "苹果发布会",
+      "rank": 25,
+      "title": "苹果发布会",
+      "topic_id": "23152251a55e57869e70485bb9e773586e0f2f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 36,
+      "posts": "saved",
+      "query": "#爱情公寓超长iPhone18#",
+      "rank": 26,
+      "title": "爱情公寓超长iPhone18",
+      "topic_id": "231522b1389e613beede0fb1f86ffdf4e51376"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 27,
+      "posts": "saved",
+      "query": "#栾念让卢克跟尚之桃走的原因#",
+      "rank": 27,
+      "title": "栾念让卢克跟尚之桃走的原因",
+      "topic_id": "231522c5abe1f5a386970ac065b9758055ba2b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 39,
+      "posts": "saved",
+      "query": "#苹果回应iPhoneDuo是否有折痕#",
+      "rank": 28,
+      "title": "苹果回应iPhoneDuo是否有折痕",
+      "topic_id": "2315229d202b848daa5ba4313e5e576269ee8c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "意大利VS澳大利亚女篮",
+      "rank": 29,
+      "title": "意大利VS澳大利亚女篮",
+      "topic_id": "23152223934f2120e550248915d0127bac7335"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#在野外看到马刀树尽快远离#",
+      "rank": 30,
+      "title": "在野外看到马刀树尽快远离",
+      "topic_id": "23152279ecd33b8c7c4c1da6577483d7e7182b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 35,
+      "posts": "saved",
+      "query": "抖音擦边礼物被下架",
+      "rank": 31,
+      "title": "抖音擦边礼物被下架",
+      "topic_id": "2315226f503d23b222347c9a7a0a06c194fa57"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 51,
+      "posts": "saved",
+      "query": "苹果 iPhoneDuo",
+      "rank": 32,
+      "title": "苹果 iPhoneDuo",
+      "topic_id": "231522c46a2854ddf271bb4c30526645733c75"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 49,
+      "posts": "saved",
+      "query": "司美格鲁肽",
+      "rank": 33,
+      "title": "司美格鲁肽",
+      "topic_id": "231522f51ee91ce87dfb50b914b46e4a4ca2fc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#痞幼说以结婚为目的恋爱是不负责任#",
+      "rank": 34,
+      "title": "痞幼说以结婚为目的恋爱是不负责任",
+      "topic_id": "23152202e8912d5e1b235f52d0296daaae3f2e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 35,
+      "posts": "saved",
+      "query": "郑钦文复盘惜败莱巴金娜",
+      "rank": 35,
+      "title": "郑钦文复盘惜败莱巴金娜",
+      "topic_id": "231522a1789c88d15f9d452b4a97d0c4d5052a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 48,
+      "posts": "saved",
+      "query": "#康康爷爷睡梦中离世#",
+      "rank": 36,
+      "title": "康康爷爷睡梦中离世",
+      "topic_id": "2315226c5e702b36fe90fb13159deba8a4e731"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 31,
+      "posts": "saved",
+      "query": "#科技新一谈iPhoneDuo折痕#",
+      "rank": 37,
+      "title": "科技新一谈iPhoneDuo折痕",
+      "topic_id": "231522e6c3c1dd991c932740d9c2e23b3d257b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#詹俊谈郑钦文止步8强#",
+      "rank": 38,
+      "title": "詹俊谈郑钦文止步8强",
+      "topic_id": "231522ce5b12c2cbf7cae05d7d756fe094177d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 30,
+      "posts": "saved",
+      "query": "iPhoneDuo华为折叠屏对比",
+      "rank": 39,
+      "title": "iPhoneDuo华为折叠屏对比",
+      "topic_id": "2315228473d9d8a96552697f00f660e0987bba"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 53,
+      "posts": "saved",
+      "query": "早春晴朗",
+      "rank": 40,
+      "title": "早春晴朗",
+      "topic_id": "23152232a83557dc62513442c4c623e727e467"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 20,
+      "posts": "saved",
+      "query": "#郑钦文回应无缘美网四强#",
+      "rank": 41,
+      "title": "郑钦文回应无缘美网四强",
+      "topic_id": "231522938364f203a5481110c18f3542121fe6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 53,
+      "posts": "saved",
+      "query": "iPhoneDuo价格",
+      "rank": 42,
+      "title": "iPhoneDuo价格",
+      "topic_id": "231522976d95ef1629566c690c833aad13368e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 39,
+      "posts": "saved",
+      "query": "教师节文案",
+      "rank": 43,
+      "title": "教师节文案",
+      "topic_id": "2315225445b01a0be3022f2b18395bd8aa1833"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 22,
+      "posts": "saved",
+      "query": "#宁德时代市值蒸发超5200亿#",
+      "rank": 44,
+      "title": "宁德时代市值蒸发超5200亿",
+      "topic_id": "231522a3bc14cffc2bb60246fe22580af03b83"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 48,
+      "posts": "saved",
+      "query": "#苹果秋季发布会价格汇总#",
+      "rank": 45,
+      "title": "苹果秋季发布会价格汇总",
+      "topic_id": "2315220405a4c979585d2a873a2e97cd5e3f84"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "冰川蓝好好看",
+      "rank": 46,
+      "title": "冰川蓝好好看",
+      "topic_id": "23152256e317d2b30f3186b6e4fa1bd5693379"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#吴柳芳坦言男粉多但不爱消费#",
+      "rank": 47,
+      "title": "吴柳芳坦言男粉多但不爱消费",
+      "topic_id": "231522b0956b4a147923bc268c2873055449b5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#井柏然孙千被早春晴朗最大尺度吓到#",
+      "rank": 48,
+      "title": "井柏然孙千被早春晴朗最大尺度吓到",
+      "topic_id": "2315222b6dba141bba4f15bcb61c68feb26475"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 51,
+      "posts": "saved",
+      "query": "低保户 空调",
+      "rank": 49,
+      "title": "低保户 空调",
+      "topic_id": "231522337e616c6256c89699d97991b22fecdd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 20,
+      "posts": "saved",
+      "query": "#任嘉伦30句台词一点亏不吃#",
+      "rank": 50,
+      "title": "任嘉伦30句台词一点亏不吃",
+      "topic_id": "231522761fd7c4e25267d3761cfa8c4b4a2e5c"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

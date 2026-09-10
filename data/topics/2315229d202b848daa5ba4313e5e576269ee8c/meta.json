@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1642634100
   },
-  "last_seen_at": "2026-09-10T07:00:00+08:00",
+  "last_seen_at": "2026-09-10T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94iPhoneDuo%E6%98%AF%E5%90%A6%E6%9C%89%E6%8A%98%E7%97%95%23%26t%3D3&title=发布媒体",
-    "show_str": "7家媒体",
+    "show_str": "23家媒体",
     "users": [
       {
         "id": 1642634100,
         "idstr": "1642634100",
         "screen_name": "新浪科技",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7639071132,
+        "idstr": "7639071132",
+        "screen_name": "篝火视频",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +37,30 @@
         "verified_type": 3
       },
       {
-        "id": 2286092114,
-        "idstr": "2286092114",
-        "screen_name": "中国蓝新闻",
+        "id": 5762891674,
+        "idstr": "5762891674",
+        "screen_name": "密度新闻",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1943154142,
-        "idstr": "1943154142",
-        "screen_name": "中安在线",
+        "id": 5061229888,
+        "idstr": "5061229888",
+        "screen_name": "财经网科技",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1667942985,
-        "idstr": "1667942985",
-        "screen_name": "长三角之声",
+        "id": 2660940103,
+        "idstr": "2660940103",
+        "screen_name": "环球网科技频道",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1649173367,
-        "idstr": "1649173367",
-        "screen_name": "每日经济新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1314608344,
-        "idstr": "1314608344",
-        "screen_name": "新闻晨报",
+        "id": 2660807713,
+        "idstr": "2660807713",
+        "screen_name": "财经新媒体",
         "verified": true,
         "verified_type": 3
       }
