@@ -1,0 +1,226 @@
+{
+  "captured_at": "2026-09-10T13:00:00+08:00",
+  "contributors": [
+    {
+      "contribution": 10,
+      "profile_url": "https://weibo.com/u/3876174997",
+      "rank": 1,
+      "uid": "3876174997",
+      "username": "弹幕研究专家",
+      "verified": true,
+      "verified_type": 0
+    },
+    {
+      "contribution": 6,
+      "profile_url": "https://weibo.com/u/2909406375",
+      "rank": 2,
+      "uid": "2909406375",
+      "username": "星娱酱",
+      "verified": true,
+      "verified_type": 0
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/9090030298",
+      "rank": 3,
+      "uid": "9090030298",
+      "username": "第25小时心动报告",
+      "verified": false,
+      "verified_type": -1
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/8311965318",
+      "rank": 4,
+      "uid": "8311965318",
+      "username": "晚粥熬着月光香",
+      "verified": false,
+      "verified_type": -1
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/7992675987",
+      "rank": 5,
+      "uid": "7992675987",
+      "username": "捏捏小脸呼呼手",
+      "verified": false,
+      "verified_type": -1
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/7992675980",
+      "rank": 6,
+      "uid": "7992675980",
+      "username": "鸭鸭努力当富婆",
+      "verified": false,
+      "verified_type": -1
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/7789366568",
+      "rank": 7,
+      "uid": "7789366568",
+      "username": "朝暮心动信号源",
+      "verified": false,
+      "verified_type": -1
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/7764902782",
+      "rank": 8,
+      "uid": "7764902782",
+      "username": "碎碎冰叽卜卜贝",
+      "verified": false,
+      "verified_type": -1
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/7739797223",
+      "rank": 9,
+      "uid": "7739797223",
+      "username": "麻薯夹心小狗",
+      "verified": false,
+      "verified_type": -1
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/7733525939",
+      "rank": 10,
+      "uid": "7733525939",
+      "username": "银河湾里吹海风",
+      "verified": false,
+      "verified_type": -1
+    }
+  ],
+  "contributors_scheme": "sinaweibo://cardlist?containerid=231522type%3D103%26q%3D%23%E8%BF%98%E5%A5%BD%E9%BB%84%E5%A5%95%E5%A4%B4%E5%8F%91%E6%98%AF%E7%9C%9F%E7%9A%84%23&title=话题贡献者排行",
+  "current_boards": {
+    "hot_band_24_hour": {
+      "ori": {
+        "on_band": 1
+      }
+    },
+    "hot_plus_band": {
+      "ori": {
+        "assess_stime": 1789016521,
+        "ever_been_in_realtime_hot": "1",
+        "num": 248278,
+        "onband": 1,
+        "pos": 186
+      },
+      "text": "热搜实时上升热点第186位"
+    },
+    "real_time_plus_band": {
+      "ori": {
+        "onband": 1,
+        "pos": 175
+      },
+      "text": "实时上升"
+    }
+  },
+  "exact_counts": {
+    "buy_num": 0,
+    "g_mention": 141,
+    "gone_num": 0,
+    "interact": 254,
+    "mention": 141,
+    "ori_m": 102,
+    "ori_uv": 101,
+    "r_valid": 1284131,
+    "read": 1416016,
+    "rec_num": 0,
+    "show": 0,
+    "star": 1.5,
+    "t_m_num": 114,
+    "t_r_num": 1418158,
+    "wants_num": 0
+  },
+  "heat": 2,
+  "overview": {
+    "24h": {
+      "interaction": {
+        "unit": "",
+        "val": 254
+      },
+      "mention": {
+        "unit": "",
+        "val": 141
+      },
+      "original": {
+        "unit": "",
+        "val": 102
+      },
+      "read": {
+        "unit": "万",
+        "val": 141.4
+      }
+    },
+    "30d": {
+      "interaction": {
+        "unit": "",
+        "val": 254
+      },
+      "mention": {
+        "unit": "",
+        "val": 141
+      },
+      "original": {
+        "unit": "",
+        "val": 102
+      },
+      "read": {
+        "unit": "万",
+        "val": 141.4
+      }
+    },
+    "all": {
+      "interaction": {
+        "unit": "",
+        "val": 254
+      },
+      "mention": {
+        "unit": "",
+        "val": 141
+      },
+      "original": {
+        "unit": "",
+        "val": 102
+      },
+      "read": {
+        "unit": "万",
+        "val": 141.6
+      }
+    }
+  },
+  "rank_history": [
+    {
+      "cate": "hot_board",
+      "cate_desc": "热搜榜",
+      "duration_hour": 0,
+      "duration_minute": 23,
+      "duration_mod_min": 23,
+      "off_board_time": "202609101413",
+      "on_board_time": "202609101337",
+      "top_pos": 38,
+      "topic_flag": 1
+    },
+    {
+      "cate": "enter_board",
+      "cate_desc": "文娱榜",
+      "duration_hour": 0,
+      "duration_minute": 30,
+      "duration_mod_min": 30,
+      "off_board_time": "202609101418",
+      "on_board_time": "202609101339",
+      "top_pos": 24,
+      "topic_flag": 1
+    }
+  ],
+  "title": "还好黄奕头发是真的",
+  "topic_id": "231522b9f794c95c1fe37d24bcf1a04cbdde5d",
+  "window_counts": {
+    "1h_mention": 54,
+    "1h_ori_m": 41,
+    "24h_mention": 141,
+    "24h_read": 1413960
+  }
+}
