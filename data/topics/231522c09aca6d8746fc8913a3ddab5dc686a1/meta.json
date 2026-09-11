@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 3229962754
   },
-  "last_seen_at": "2026-09-11T19:00:00+08:00",
+  "last_seen_at": "2026-09-11T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%237%E5%B2%81%E5%8D%8A%E6%80%A7%E6%97%A9%E7%86%9F%E5%A5%B3%E7%AB%A5%E5%AE%B6%E9%87%8C%E6%98%AF%E5%BC%80%E7%82%B8%E9%B8%A1%E5%BA%97%E7%9A%84%23%26t%3D3&title=发布媒体",
-    "show_str": "43家媒体",
+    "show_str": "56家媒体",
     "users": [
       {
         "id": 3229962754,
@@ -37,6 +37,20 @@
         "verified_type": 3
       },
       {
+        "id": 2115259662,
+        "idstr": "2115259662",
+        "screen_name": "洪观新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7516679696,
+        "idstr": "7516679696",
+        "screen_name": "九派新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2105365573,
         "idstr": "2105365573",
         "screen_name": "威海播报",
@@ -47,20 +61,6 @@
         "id": 1789681642,
         "idstr": "1789681642",
         "screen_name": "第一现场",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1767961804,
-        "idstr": "1767961804",
-        "screen_name": "大江新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1684012053,
-        "idstr": "1684012053",
-        "screen_name": "财经杂志",
         "verified": true,
         "verified_type": 3
       }

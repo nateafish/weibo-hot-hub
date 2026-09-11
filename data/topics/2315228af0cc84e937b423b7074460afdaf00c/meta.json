@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1974576991
   },
-  "last_seen_at": "2026-09-11T19:00:00+08:00",
+  "last_seen_at": "2026-09-11T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%94%B7%E5%AD%90%E7%BC%96%E9%80%A0%E5%81%9C%E6%8D%90%E9%81%AD%E5%A8%81%E8%83%81%E4%BA%8B%E4%BB%B6%E8%A2%AB%E6%8A%93%23%26t%3D3&title=发布媒体",
-    "show_str": "120家媒体",
+    "show_str": "153家媒体",
     "users": [
       {
         "id": 1974576991,
@@ -30,9 +30,23 @@
         "verified_type": 3
       },
       {
+        "id": 1887344341,
+        "idstr": "1887344341",
+        "screen_name": "观察者网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1288429914,
         "idstr": "1288429914",
         "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1420157965,
+        "idstr": "1420157965",
+        "screen_name": "上游新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1751714412,
-        "idstr": "1751714412",
-        "screen_name": "大皖新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7476748260,
-        "idstr": "7476748260",
-        "screen_name": "大公文匯網",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5476386628,
-        "idstr": "5476386628",
-        "screen_name": "侠客岛",
+        "id": 2290787940,
+        "idstr": "2290787940",
+        "screen_name": "扬州晚报",
         "verified": true,
         "verified_type": 3
       }
