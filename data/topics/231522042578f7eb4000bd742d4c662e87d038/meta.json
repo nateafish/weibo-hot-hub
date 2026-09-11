@@ -10,11 +10,26 @@
     "status": 2,
     "uid": 7482871093
   },
-  "last_seen_at": "2026-09-11T21:00:00+08:00",
+  "last_seen_at": "2026-09-11T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23SM%E7%BB%83%E4%B9%A0%E7%94%9F%E6%9D%8E%E6%9D%BE%E6%B2%B310%E5%B9%B4%E6%9C%AA%E5%87%BA%E9%81%93%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "2家媒体",
+    "users": [
+      {
+        "id": 2035321844,
+        "idstr": "2035321844",
+        "screen_name": "河池融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1856446532,
+        "idstr": "1856446532",
+        "screen_name": "合新闻",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "SM练习生李松河10年未出道",
   "search_url": "https://s.weibo.com/weibo?q=%23sm%E7%BB%83%E4%B9%A0%E7%94%9F%E6%9D%8E%E6%9D%BE%E6%B2%B310%E5%B9%B4%E6%9C%AA%E5%87%BA%E9%81%93%23",
