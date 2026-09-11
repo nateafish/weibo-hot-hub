@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 3203137375
   },
-  "last_seen_at": "2026-09-11T23:00:00+08:00",
+  "last_seen_at": "2026-09-12T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%BD%91%E7%BA%A2%E9%93%81%E5%A4%B4%E9%80%80%E5%BA%AD%E6%97%B6%E8%BE%B1%E9%AA%82%E6%B3%95%E5%BA%AD%23%26t%3D3&title=发布媒体",
-    "show_str": "18家媒体",
+    "show_str": "27家媒体",
     "users": [
       {
         "id": 3203137375,
@@ -23,9 +23,30 @@
         "verified_type": 3
       },
       {
+        "id": 1895096900,
+        "idstr": "1895096900",
+        "screen_name": "深圳新闻网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1420157965,
         "idstr": "1420157965",
         "screen_name": "上游新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2460937233,
+        "idstr": "2460937233",
+        "screen_name": "热度新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -40,27 +61,6 @@
         "id": 1451977335,
         "idstr": "1451977335",
         "screen_name": "新晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6524697383,
-        "idstr": "6524697383",
-        "screen_name": "四川观察在现场",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6524697382,
-        "idstr": "6524697382",
-        "screen_name": "四川观察新闻眼",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6524418706,
-        "idstr": "6524418706",
-        "screen_name": "四川观察新视线",
         "verified": true,
         "verified_type": 3
       }
