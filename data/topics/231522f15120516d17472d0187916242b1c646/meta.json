@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 1557605344
   },
-  "last_seen_at": "2026-09-12T06:00:00+08:00",
+  "last_seen_at": "2026-09-12T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%B2%B9%E4%BB%B7%E6%B6%A8%E6%B6%A8%E6%B6%A8%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "10家媒体",
     "users": [
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1557605344,
         "idstr": "1557605344",
@@ -37,16 +44,23 @@
         "verified_type": 3
       },
       {
-        "id": 2105365573,
-        "idstr": "2105365573",
-        "screen_name": "威海播报",
+        "id": 5388240201,
+        "idstr": "5388240201",
+        "screen_name": "南阳日报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1912032243,
-        "idstr": "1912032243",
-        "screen_name": "大庆晚报",
+        "id": 3251720635,
+        "idstr": "3251720635",
+        "screen_name": "邯郸网络广播电视台",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2105365573,
+        "idstr": "2105365573",
+        "screen_name": "威海播报",
         "verified": true,
         "verified_type": 3
       }

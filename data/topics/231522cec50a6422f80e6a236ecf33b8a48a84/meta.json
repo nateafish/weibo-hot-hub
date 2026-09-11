@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 1924558143
   },
-  "last_seen_at": "2026-09-12T06:00:00+08:00",
+  "last_seen_at": "2026-09-12T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%86%AC%E5%A4%9C%E7%9A%84%E4%BC%A4%E5%AE%B3%E9%80%9A%E8%BF%87%E7%9D%A1%E8%A7%89%E8%83%BD%E8%A1%A5%E5%9B%9E%E6%9D%A5%E5%90%97%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "4家媒体",
     "users": [
+      {
+        "id": 1924558143,
+        "idstr": "1924558143",
+        "screen_name": "大参考",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2105365573,
         "idstr": "2105365573",
@@ -23,9 +30,16 @@
         "verified_type": 3
       },
       {
-        "id": 1924558143,
-        "idstr": "1924558143",
-        "screen_name": "大参考",
+        "id": 1899956213,
+        "idstr": "1899956213",
+        "screen_name": "包头号",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1653603955,
+        "idstr": "1653603955",
+        "screen_name": "扬子晚报",
         "verified": true,
         "verified_type": 3
       }
