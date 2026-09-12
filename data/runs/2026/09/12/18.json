@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-12T18:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 1,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#习近平抵达新德里#",
+      "rank": 1,
+      "title": "习近平抵达新德里",
+      "topic_id": "2315225a4b2d10b6fbf06c17452c10357ab76e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "多车队宣布永久退出中国GT",
+      "rank": 1,
+      "title": "多车队宣布永久退出中国GT",
+      "topic_id": "23152262707592ad1e5a2f0a245f8be4c804c5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "兰香如故",
+      "rank": 2,
+      "title": "兰香如故",
+      "topic_id": "231522c6a223bd3a54fc2af87227153bdbc48d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#跨国企业看好中国市场机遇#",
+      "rank": 3,
+      "title": "跨国企业看好中国市场机遇",
+      "topic_id": "2315229c60e0ab5becdf949f24816fa4a29db7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "茶叶蛋vs白煮蛋",
+      "rank": 4,
+      "title": "茶叶蛋vs白煮蛋",
+      "topic_id": "2315220e337cebaa0e48f6eccae1161dd9a495"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#郑佩佩自传里写的花少#",
+      "rank": 5,
+      "title": "郑佩佩自传里写的花少",
+      "topic_id": "231522b61f7576aef22f5d1221ba0f84635218"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#AL对战IG#",
+      "rank": 6,
+      "title": "AL对战IG",
+      "topic_id": "2315225a15d9f2e17a19b8fad05de64d11e4c7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#付航脱口秀1000张黄牛票无法入场#",
+      "rank": 7,
+      "title": "付航脱口秀1000张黄牛票无法入场",
+      "topic_id": "23152273df1d07ac3b54d08a8edbfdc6c64014"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#男孩不爱喝牛奶在早餐店销赃#",
+      "rank": 8,
+      "title": "男孩不爱喝牛奶在早餐店销赃",
+      "topic_id": "2315222e301643336b6a8f2631c5a6f050366a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "中国男篮vs巴林男篮",
+      "rank": 9,
+      "title": "中国男篮vs巴林男篮",
+      "topic_id": "23152213019cab6a77c82d6b89e4cad7ac0c37"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "台湾空姐鹤岗3万买房半退休",
+      "rank": 10,
+      "title": "台湾空姐鹤岗3万买房半退休",
+      "topic_id": "23152247d89ac75b91359572897f9fbd4a0900"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝有公司挖时代峰峻艺人#",
+      "rank": 11,
+      "title": "曝有公司挖时代峰峻艺人",
+      "topic_id": "2315225000080d7f28e3ddabd3f8d08f9678f9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "支付宝 假APP",
+      "rank": 12,
+      "title": "支付宝 假APP",
+      "topic_id": "231522a6121a1ab0a9bdc4d6f07485210b3a78"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#必须查清烧烤店两个月被查15次#",
+      "rank": 13,
+      "title": "必须查清烧烤店两个月被查15次",
+      "topic_id": "23152283d7f6109fe123f9b6c7a0673905e809"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#郭文韬当爸#",
+      "rank": 14,
+      "title": "郭文韬当爸",
+      "topic_id": "231522270f8c3f1c985096169c229eeeeb9a1c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#名校硕士因第一学历是专科遭大厂拒绝#",
+      "rank": 15,
+      "title": "名校硕士因第一学历是专科遭大厂拒绝",
+      "topic_id": "2315224d17ba01280c5fef11bbf940a2eaa18c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "雷军为澎程车主开车门",
+      "rank": 16,
+      "title": "雷军为澎程车主开车门",
+      "topic_id": "2315226f177d4d127ef1e73512556b52b18fb7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#普京称不明白G7为什么还叫大国#",
+      "rank": 17,
+      "title": "普京称不明白G7为什么还叫大国",
+      "topic_id": "231522a6d953040fa6fce4a38b065163436a89"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#宋雨琦海边度假照片#",
+      "rank": 18,
+      "title": "宋雨琦海边度假照片",
+      "topic_id": "2315220abae40a7cf20fb4c927603ff06eea92"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "法考",
+      "rank": 19,
+      "title": "法考",
+      "topic_id": "2315228d370d7bf47400bc79661c11a10ce337"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#张家齐想认邵兵当爸爸#",
+      "rank": 20,
+      "title": "张家齐想认邵兵当爸爸",
+      "topic_id": "231522e7b6ffb16967ae8eb5119745c04b9017"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#iPhoneDuo溢价至79999元#",
+      "rank": 21,
+      "title": "iPhoneDuo溢价至79999元",
+      "topic_id": "2315220334e6847589e1ddc7a2cb28900ae658"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#雷军赴徐州交付小米澎程原因#",
+      "rank": 22,
+      "title": "雷军赴徐州交付小米澎程原因",
+      "topic_id": "2315226c7a7072cf3fe25580aa0dbcd2fca03c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#国乒男单7站WTT赛事仅王楚钦夺冠#",
+      "rank": 23,
+      "title": "国乒男单7站WTT赛事仅王楚钦夺冠",
+      "topic_id": "231522f8b4294de3dc19373ddeca376bae5615"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#LadyGaga疑似代孕#",
+      "rank": 24,
+      "title": "LadyGaga疑似代孕",
+      "topic_id": "23152227a382ce630c7f1754868d115670d606"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "最尊重男扮女装的剧",
+      "rank": 25,
+      "title": "最尊重男扮女装的剧",
+      "topic_id": "231522ca07b348aca113f09780f686e06244fc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "留韩博士AI合成淫秽视频获刑",
+      "rank": 26,
+      "title": "留韩博士AI合成淫秽视频获刑",
+      "topic_id": "23152274bcc5362d1c09bec554c6f795fd5d27"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#邹市明冉莹颖的债快还清了#",
+      "rank": 27,
+      "title": "邹市明冉莹颖的债快还清了",
+      "topic_id": "231522440e9b68c5a09d3949dd3e1398d44765"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "代孕机构13万售卖一本女生卵",
+      "rank": 28,
+      "title": "代孕机构13万售卖一本女生卵",
+      "topic_id": "2315229b5d0fbbe97137c060cb7c3f8939ae62"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "ChinaGT",
+      "rank": 29,
+      "title": "ChinaGT",
+      "topic_id": "231522a0ad2a2e2a9d0d9542954cdf89887641"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#婚前孕前检查真不是走个流程#",
+      "rank": 30,
+      "title": "婚前孕前检查真不是走个流程",
+      "topic_id": "231522792db0651eb59893ae6b774e106a128f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#网传月之暗面创始人及员工信息系造谣#",
+      "rank": 31,
+      "title": "网传月之暗面创始人及员工信息系造谣",
+      "topic_id": "23152265cd59f3028cab22545067fc0c0433c7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#时代少年团单飞热度#",
+      "rank": 32,
+      "title": "时代少年团单飞热度",
+      "topic_id": "23152210062cb20b7a824ad153d49e1af76af3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#许昕问苏新皓是不是乒乓球校队的#",
+      "rank": 33,
+      "title": "许昕问苏新皓是不是乒乓球校队的",
+      "topic_id": "2315225bb6a7b98ad870c5c8e4ac97c30bdaa8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#陈妍希怀孕4个月还在拍戏#",
+      "rank": 34,
+      "title": "陈妍希怀孕4个月还在拍戏",
+      "topic_id": "231522c048e4e85110e735cfcc6e74f8edc4dc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#李现回家宠粉#",
+      "rank": 35,
+      "title": "李现回家宠粉",
+      "topic_id": "23152206ee101ddfbdbe3804b6215973d1703e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#女童截肢司机说哪个大货车不超载#",
+      "rank": 36,
+      "title": "女童截肢司机说哪个大货车不超载",
+      "topic_id": "23152260b5398a388c0d978bf648074a8a06ea"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#卢昱晓张凌赫体型差#",
+      "rank": 37,
+      "title": "卢昱晓张凌赫体型差",
+      "topic_id": "231522c7b82e8c35e99a46e37bd7666a3c6b15"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#T1确定LCK三号种子#",
+      "rank": 38,
+      "title": "T1确定LCK三号种子",
+      "topic_id": "231522dfbf33623c55acbdbe5dd81d33dc8987"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "严浩翔大家很少知道的秘密",
+      "rank": 39,
+      "title": "严浩翔大家很少知道的秘密",
+      "topic_id": "2315226e4608a66747834713bdbc81d6b5e5b6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#LCK败决HLE对战T1#",
+      "rank": 40,
+      "title": "LCK败决HLE对战T1",
+      "topic_id": "23152217b615899e3b8f87dff44ac8583fd228"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#穿婚纱的陈瑶#",
+      "rank": 41,
+      "title": "穿婚纱的陈瑶",
+      "topic_id": "231522b18d92446bf2e67feb7343c2671bcf10"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "教资科二",
+      "rank": 42,
+      "title": "教资科二",
+      "topic_id": "231522d9a1dbb4f37ef969e3fc953bc6e30559"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "不建议谈本身就很好的人",
+      "rank": 43,
+      "title": "不建议谈本身就很好的人",
+      "topic_id": "2315227dc53492ae56219dbc6aa33fe6da3599"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#理发师剪不出来的鲻鱼头女生剪出来了#",
+      "rank": 44,
+      "title": "理发师剪不出来的鲻鱼头女生剪出来了",
+      "topic_id": "231522044fabbe99770929385b1158d427fc17"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "儿时生理性喜欢的事就是你的职业天赋",
+      "rank": 45,
+      "title": "儿时生理性喜欢的事就是你的职业天赋",
+      "topic_id": "231522d8679c0f910dd5fafb505fb9dba9b634"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#全国最大泡泡玛特开业#",
+      "rank": 46,
+      "title": "全国最大泡泡玛特开业",
+      "topic_id": "23152277c2b312c08e1a980a79d66f870c1a64"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#安倍遇刺时一名路人曾被警察撞骨折#",
+      "rank": 47,
+      "title": "安倍遇刺时一名路人曾被警察撞骨折",
+      "topic_id": "2315224c50a2a72751a2a2616cde291183a544"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#日本博主在排水沟洗头后高烧尿血#",
+      "rank": 48,
+      "title": "日本博主在排水沟洗头后高烧尿血",
+      "topic_id": "2315220a7d394cacaf8b4454082e8200237321"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#还没从百事盛典走出来#",
+      "rank": 49,
+      "title": "还没从百事盛典走出来",
+      "topic_id": "23152298013f7364e289e665c4680c076aea14"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#华为让县医院用上AI#",
+      "rank": 50,
+      "title": "华为让县医院用上AI",
+      "topic_id": "2315226878ab2599c937620713333ff72ddddd"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
