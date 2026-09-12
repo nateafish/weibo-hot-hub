@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 6320391439
   },
-  "last_seen_at": "2026-09-13T06:00:00+08:00",
+  "last_seen_at": "2026-09-13T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%BE%8E%E7%BD%91%E5%AE%98%E6%96%B9%E7%A5%9D%E8%B4%BA%E5%AD%99%E5%BF%83%E7%84%B6%E5%A4%BA%E5%86%A0%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "2家媒体",
     "users": [
       {
         "id": 7051979649,
         "idstr": "7051979649",
         "screen_name": "咪咕冰雪",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5822206027,
+        "idstr": "5822206027",
+        "screen_name": "北斗融媒",
         "verified": true,
         "verified_type": 3
       }
