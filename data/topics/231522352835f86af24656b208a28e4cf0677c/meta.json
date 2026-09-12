@@ -10,7 +10,7 @@
     "status": 2,
     "uid": 1644489953
   },
-  "last_seen_at": "2026-09-13T00:00:00+08:00",
+  "last_seen_at": "2026-09-13T01:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%2315%E5%90%8D%E5%90%8C%E4%BA%8B%E5%90%88%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD%E5%A5%963000%E4%B8%87%23%26t%3D3&title=发布媒体",
     "show_str": "30家媒体",
@@ -26,6 +26,13 @@
         "id": 1642088277,
         "idstr": "1642088277",
         "screen_name": "财经网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2308941133,
+        "idstr": "2308941133",
+        "screen_name": "锦州播报",
         "verified": true,
         "verified_type": 3
       },
@@ -54,13 +61,6 @@
         "id": 1451977335,
         "idstr": "1451977335",
         "screen_name": "新晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1288429914,
-        "idstr": "1288429914",
-        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       }
