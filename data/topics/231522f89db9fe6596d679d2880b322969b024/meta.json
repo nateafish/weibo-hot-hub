@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2087169013
   },
-  "last_seen_at": "2026-09-12T13:00:00+08:00",
+  "last_seen_at": "2026-09-12T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A4%AB%E5%A6%BB%E5%90%B5%E6%9E%B6%E8%B5%8C%E6%B0%94%E6%8A%8A%E5%A9%B4%E5%84%BF%E4%B8%A2%E6%B3%95%E5%BA%AD%23%26t%3D3&title=发布媒体",
-    "show_str": "9家媒体",
+    "show_str": "27家媒体",
     "users": [
       {
         "id": 2087169013,
         "idstr": "2087169013",
         "screen_name": "法治日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2337985010,
+        "idstr": "2337985010",
+        "screen_name": "瑞安融媒",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +37,30 @@
         "verified_type": 3
       },
       {
-        "id": 1899227237,
-        "idstr": "1899227237",
-        "screen_name": "青岛早报",
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1830136467,
-        "idstr": "1830136467",
-        "screen_name": "江海晚报",
+        "id": 7020664161,
+        "idstr": "7020664161",
+        "screen_name": "福建经济生活频道",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1819638285,
-        "idstr": "1819638285",
-        "screen_name": "扬州交通广播",
+        "id": 3275115274,
+        "idstr": "3275115274",
+        "screen_name": "中国吉林网",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1704653603,
-        "idstr": "1704653603",
-        "screen_name": "鞍山日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1698857957,
-        "idstr": "1698857957",
-        "screen_name": "海峡都市报",
+        "id": 3229962754,
+        "idstr": "3229962754",
+        "screen_name": "陕视新闻",
         "verified": true,
         "verified_type": 3
       }

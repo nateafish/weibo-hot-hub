@@ -3,11 +3,25 @@
   "created_at": 1688905598,
   "first_seen_at": "2026-09-05T08:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-05T08:00:00+08:00",
+  "last_seen_at": "2026-09-12T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%9A%87%E9%A9%AC+%E5%A7%86%E5%B7%B4%E4%BD%A9%23%26t%3D3&title=发布媒体",
-    "show_str": "11家媒体",
+    "show_str": "19家媒体",
     "users": [
+      {
+        "id": 1497087080,
+        "idstr": "1497087080",
+        "screen_name": "羊城晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1667867495,
+        "idstr": "1667867495",
+        "screen_name": "五星体育广播",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1618051664,
         "idstr": "1618051664",
@@ -19,13 +33,6 @@
         "id": 6014513352,
         "idstr": "6014513352",
         "screen_name": "ING直播",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6004281123,
-        "idstr": "6004281123",
-        "screen_name": "梨视频",
         "verified": true,
         "verified_type": 3
       },
@@ -47,13 +54,6 @@
         "id": 3048800300,
         "idstr": "3048800300",
         "screen_name": "新浪圈子",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2188202475,
-        "idstr": "2188202475",
-        "screen_name": "南京晨报",
         "verified": true,
         "verified_type": 3
       }
