@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-12T16:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 1,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#习近平离京赴新德里出席金砖峰会#",
+      "rank": 1,
+      "title": "习近平离京赴新德里出席金砖峰会",
+      "topic_id": "231522ca44c3eeae761794078669fee1de21d5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "雷军为澎程车主开车门",
+      "rank": 1,
+      "title": "雷军为澎程车主开车门",
+      "topic_id": "2315226f177d4d127ef1e73512556b52b18fb7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "最尊重男扮女装的剧",
+      "rank": 2,
+      "title": "最尊重男扮女装的剧",
+      "topic_id": "231522ca07b348aca113f09780f686e06244fc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#跨国企业看好中国市场机遇#",
+      "rank": 3,
+      "title": "跨国企业看好中国市场机遇",
+      "topic_id": "2315229c60e0ab5becdf949f24816fa4a29db7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "支付宝 假APP",
+      "rank": 4,
+      "title": "支付宝 假APP",
+      "topic_id": "231522a6121a1ab0a9bdc4d6f07485210b3a78"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#男孩不爱喝牛奶在早餐店销赃#",
+      "rank": 5,
+      "title": "男孩不爱喝牛奶在早餐店销赃",
+      "topic_id": "2315222e301643336b6a8f2631c5a6f050366a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#郑佩佩自传里写的花少#",
+      "rank": 6,
+      "title": "郑佩佩自传里写的花少",
+      "topic_id": "231522b61f7576aef22f5d1221ba0f84635218"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "台湾空姐鹤岗3万买房半退休",
+      "rank": 7,
+      "title": "台湾空姐鹤岗3万买房半退休",
+      "topic_id": "23152247d89ac75b91359572897f9fbd4a0900"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#普京称不明白G7为什么还叫大国#",
+      "rank": 8,
+      "title": "普京称不明白G7为什么还叫大国",
+      "topic_id": "231522a6d953040fa6fce4a38b065163436a89"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "兰香如故",
+      "rank": 9,
+      "title": "兰香如故",
+      "topic_id": "231522c6a223bd3a54fc2af87227153bdbc48d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张月浪姐四公直接离场的原因#",
+      "rank": 10,
+      "title": "张月浪姐四公直接离场的原因",
+      "topic_id": "231522b4da65dc9c5256a44e51e82c150b65ad"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "教资科二",
+      "rank": 11,
+      "title": "教资科二",
+      "topic_id": "231522d9a1dbb4f37ef969e3fc953bc6e30559"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#郭文韬当爸#",
+      "rank": 12,
+      "title": "郭文韬当爸",
+      "topic_id": "231522270f8c3f1c985096169c229eeeeb9a1c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#LadyGaga疑似代孕#",
+      "rank": 13,
+      "title": "LadyGaga疑似代孕",
+      "topic_id": "23152227a382ce630c7f1754868d115670d606"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#张本智和回应4比1周启豪#",
+      "rank": 14,
+      "title": "张本智和回应4比1周启豪",
+      "topic_id": "231522620d0fb86cecf646e8096bd27e563368"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#穆祉丞用尽了所有中老年表情包#",
+      "rank": 15,
+      "title": "穆祉丞用尽了所有中老年表情包",
+      "topic_id": "231522423bbdeb0987f63395dd9b49c7d81b8a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#陈妍希怀孕4个月还在拍戏#",
+      "rank": 16,
+      "title": "陈妍希怀孕4个月还在拍戏",
+      "topic_id": "231522c048e4e85110e735cfcc6e74f8edc4dc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#菲尔兹奖得主称AI与数学正严重错位#",
+      "rank": 17,
+      "title": "菲尔兹奖得主称AI与数学正严重错位",
+      "topic_id": "231522627edc0cbb1d7e5722de69b35a424076"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#文韬全程陪伴佳佳生产vlog#",
+      "rank": 18,
+      "title": "文韬全程陪伴佳佳生产vlog",
+      "topic_id": "231522da8329191d4350523180536bb7cbe58c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#男子曝木桶饭木桶只擦不洗遭辱骂#",
+      "rank": 19,
+      "title": "男子曝木桶饭木桶只擦不洗遭辱骂",
+      "topic_id": "231522350fbb4bb7f5bee2a42cb56c70193017"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "什么样的性格才适合当教师",
+      "rank": 20,
+      "title": "什么样的性格才适合当教师",
+      "topic_id": "231522ab72157db0cc069951116d297558443e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#律师回应有假的支付宝APP了#",
+      "rank": 21,
+      "title": "律师回应有假的支付宝APP了",
+      "topic_id": "2315220d7d5d6f3fb1bf3790ea906ec7ed854c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#支付宝回应出现假App#",
+      "rank": 22,
+      "title": "支付宝回应出现假App",
+      "topic_id": "231522f9c42c0c428507483e6eebb65a8fea8e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#iPhoneDuo溢价至79999元#",
+      "rank": 23,
+      "title": "iPhoneDuo溢价至79999元",
+      "topic_id": "2315220334e6847589e1ddc7a2cb28900ae658"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "KPL",
+      "rank": 24,
+      "title": "KPL",
+      "topic_id": "231522361877035a32f3073eb1259ee15286d8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "雷军 小米澎程交付",
+      "rank": 25,
+      "title": "雷军 小米澎程交付",
+      "topic_id": "231522f428c338d4410b722e4c2e4c49bf86e9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "井柏然墨镜自拍",
+      "rank": 26,
+      "title": "井柏然墨镜自拍",
+      "topic_id": "2315226f97668fccf535d51330e60839f328b3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "不建议谈本身就很好的人",
+      "rank": 27,
+      "title": "不建议谈本身就很好的人",
+      "topic_id": "2315227dc53492ae56219dbc6aa33fe6da3599"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#邹市明冉莹颖的债快还清了#",
+      "rank": 28,
+      "title": "邹市明冉莹颖的债快还清了",
+      "topic_id": "231522440e9b68c5a09d3949dd3e1398d44765"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#泰国网红僧侣已被还俗剥夺僧籍#",
+      "rank": 29,
+      "title": "泰国网红僧侣已被还俗剥夺僧籍",
+      "topic_id": "231522a7d740cab5a1bf1937142eea4fd05f4e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#夫妻吵架赌气把婴儿丢法庭#",
+      "rank": 30,
+      "title": "夫妻吵架赌气把婴儿丢法庭",
+      "topic_id": "231522f89db9fe6596d679d2880b322969b024"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#邓为吴君如差点把外国友人吓晕了#",
+      "rank": 31,
+      "title": "邓为吴君如差点把外国友人吓晕了",
+      "topic_id": "231522be20212cb68a291a19152fcc3a25b984"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "儿时生理性喜欢的事就是你的职业天赋",
+      "rank": 32,
+      "title": "儿时生理性喜欢的事就是你的职业天赋",
+      "topic_id": "231522d8679c0f910dd5fafb505fb9dba9b634"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#时代少年团单飞热度#",
+      "rank": 33,
+      "title": "时代少年团单飞热度",
+      "topic_id": "23152210062cb20b7a824ad153d49e1af76af3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#张凌赫卢昱晓同框对戏#",
+      "rank": 34,
+      "title": "张凌赫卢昱晓同框对戏",
+      "topic_id": "23152291343181f062b75e42fc843eceb37cb5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "代孕机构13万售卖一本女生卵",
+      "rank": 35,
+      "title": "代孕机构13万售卖一本女生卵",
+      "topic_id": "2315229b5d0fbbe97137c060cb7c3f8939ae62"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#杨幂上线回复祝福#",
+      "rank": 36,
+      "title": "杨幂上线回复祝福",
+      "topic_id": "231522b8ed8b4f9c56eb7ddfb7292b9a893ca6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#Angelababy原图王者#",
+      "rank": 37,
+      "title": "Angelababy原图王者",
+      "topic_id": "231522263e05ca887c9b1ba869cdd9f93431bc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "郎平 中国女排",
+      "rank": 38,
+      "title": "郎平 中国女排",
+      "topic_id": "2315222e7f6e5bfb70beb90506d0404a9a6997"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#名校硕士因第一学历是专科遭大厂拒绝#",
+      "rank": 39,
+      "title": "名校硕士因第一学历是专科遭大厂拒绝",
+      "topic_id": "2315224d17ba01280c5fef11bbf940a2eaa18c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "皇马 姆巴佩",
+      "rank": 40,
+      "title": "皇马 姆巴佩",
+      "topic_id": "2315221cf2879838e92480d3c5ad47eb071dc3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 5,
+      "posts": "saved",
+      "query": "#住建局副局长群内骂业主讽刺了谁#",
+      "rank": 41,
+      "title": "住建局副局长群内骂业主讽刺了谁",
+      "topic_id": "23152240ba8ce3ac7973a561d85c1ac2ee45d6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#LCK败决HLE对战T1#",
+      "rank": 42,
+      "title": "LCK败决HLE对战T1",
+      "topic_id": "23152217b615899e3b8f87dff44ac8583fd228"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "沈佳润新歌好尹美莱",
+      "rank": 43,
+      "title": "沈佳润新歌好尹美莱",
+      "topic_id": "23152239948f1b630b289af102e33cd9637348"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "严浩翔大家很少知道的秘密",
+      "rank": 44,
+      "title": "严浩翔大家很少知道的秘密",
+      "topic_id": "2315226e4608a66747834713bdbc81d6b5e5b6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#筠连县警方立案调查镇干部被指强奸#",
+      "rank": 45,
+      "title": "筠连县警方立案调查镇干部被指强奸",
+      "topic_id": "231522e637f6f715f6f0aaa2a0d54e6e33678c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张凌赫刚开机就请客刺棠剧组#",
+      "rank": 46,
+      "title": "张凌赫刚开机就请客刺棠剧组",
+      "topic_id": "231522c1d2b430432a423e25da9d27ea0e69fe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#TFING芭莎之夜行程取消#",
+      "rank": 47,
+      "title": "TFING芭莎之夜行程取消",
+      "topic_id": "2315223b7380bf0313760ec9fcb80d5337d694"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#日本博主在排水沟洗头后高烧尿血#",
+      "rank": 48,
+      "title": "日本博主在排水沟洗头后高烧尿血",
+      "topic_id": "2315220a7d394cacaf8b4454082e8200237321"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#短剧版左耳女主是黎吧啦#",
+      "rank": 49,
+      "title": "短剧版左耳女主是黎吧啦",
+      "topic_id": "23152247ed5ccff150a4b18bd2a5e86f4f3c4b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#HLE光速拿下三个赛点#",
+      "rank": 50,
+      "title": "HLE光速拿下三个赛点",
+      "topic_id": "231522b26da96fb5cb9f4e8100b7f2d32033a8"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

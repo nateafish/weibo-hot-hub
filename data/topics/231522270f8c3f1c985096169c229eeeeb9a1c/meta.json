@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 6511453608
   },
-  "last_seen_at": "2026-09-12T14:00:00+08:00",
+  "last_seen_at": "2026-09-12T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%83%AD%E6%96%87%E9%9F%AC%E5%BD%93%E7%88%B8%23%26t%3D3&title=发布媒体",
-    "show_str": "43家媒体",
+    "show_str": "48家媒体",
     "users": [
       {
         "id": 2286092114,
@@ -26,6 +26,13 @@
         "id": 2252846093,
         "idstr": "2252846093",
         "screen_name": "长春新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2460937233,
+        "idstr": "2460937233",
+        "screen_name": "热度新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -47,13 +54,6 @@
         "id": 1497087080,
         "idstr": "1497087080",
         "screen_name": "羊城晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2460937233,
-        "idstr": "2460937233",
-        "screen_name": "热度新闻",
         "verified": true,
         "verified_type": 3
       },
