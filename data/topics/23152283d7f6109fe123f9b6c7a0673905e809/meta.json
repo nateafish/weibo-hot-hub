@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 5044281310
   },
-  "last_seen_at": "2026-09-12T19:00:00+08:00",
+  "last_seen_at": "2026-09-12T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%BF%85%E9%A1%BB%E6%9F%A5%E6%B8%85%E7%83%A7%E7%83%A4%E5%BA%97%E4%B8%A4%E4%B8%AA%E6%9C%88%E8%A2%AB%E6%9F%A515%E6%AC%A1%23%26t%3D3&title=发布媒体",
-    "show_str": "24家媒体",
+    "show_str": "36家媒体",
     "users": [
       {
         "id": 5044281310,
         "idstr": "5044281310",
         "screen_name": "澎湃新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2286092114,
+        "idstr": "2286092114",
+        "screen_name": "中国蓝新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1767961804,
         "idstr": "1767961804",
         "screen_name": "大江新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7308140398,
-        "idstr": "7308140398",
-        "screen_name": "大象新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6275620474,
-        "idstr": "6275620474",
-        "screen_name": "World湃",
         "verified": true,
         "verified_type": 3
       }

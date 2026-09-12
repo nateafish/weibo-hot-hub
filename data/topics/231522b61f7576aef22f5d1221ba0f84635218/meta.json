@@ -10,17 +10,38 @@
     "status": 2,
     "uid": 6047232737
   },
-  "last_seen_at": "2026-09-12T19:00:00+08:00",
+  "last_seen_at": "2026-09-12T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%83%91%E4%BD%A9%E4%BD%A9%E8%87%AA%E4%BC%A0%E9%87%8C%E5%86%99%E7%9A%84%E8%8A%B1%E5%B0%91%23%26t%3D3&title=发布媒体",
-    "show_str": "10家媒体",
+    "show_str": "15家媒体",
     "users": [
+      {
+        "id": 6154234421,
+        "idstr": "6154234421",
+        "screen_name": "万像新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2356298087,
         "idstr": "2356298087",
         "screen_name": "河北经视",
         "verified": true,
         "verified_type": 3
+      },
+      {
+        "id": 1791493774,
+        "idstr": "1791493774",
+        "screen_name": "每日质量报道网",
+        "verified": true,
+        "verified_type": 2
       },
       {
         "id": 1880922220,
@@ -40,27 +61,6 @@
         "id": 2136358530,
         "idstr": "2136358530",
         "screen_name": "牵挂952",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2035321844,
-        "idstr": "2035321844",
-        "screen_name": "河池融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1913382117,
-        "idstr": "1913382117",
-        "screen_name": "深圳晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1882632930,
-        "idstr": "1882632930",
-        "screen_name": "新消息报",
         "verified": true,
         "verified_type": 3
       }
