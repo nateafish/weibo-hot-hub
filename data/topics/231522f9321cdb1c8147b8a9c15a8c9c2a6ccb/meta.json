@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 1774057271
   },
-  "last_seen_at": "2026-09-12T09:00:00+08:00",
+  "last_seen_at": "2026-09-12T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%83%83%E7%97%85%E5%90%91%E8%83%83%E7%99%8C%E5%8F%91%E5%B1%95%E6%9C%895%E4%B8%AA%E5%BE%81%E5%85%86%23%26t%3D3&title=发布媒体",
-    "show_str": "18家媒体",
+    "show_str": "59家媒体",
     "users": [
       {
         "id": 1774057271,
         "idstr": "1774057271",
         "screen_name": "生命时报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3266943013,
+        "idstr": "3266943013",
+        "screen_name": "央视网",
         "verified": true,
         "verified_type": 3
       },
@@ -30,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 1714800385,
+        "idstr": "1714800385",
+        "screen_name": "第一帮帮团",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1288429914,
         "idstr": "1288429914",
         "screen_name": "今视频长天新闻",
@@ -37,30 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1403611582,
-        "idstr": "1403611582",
-        "screen_name": "市场星报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7373111326,
-        "idstr": "7373111326",
-        "screen_name": "正观新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6351317189,
-        "idstr": "6351317189",
-        "screen_name": "鞍山广播电视台",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5394116891,
-        "idstr": "5394116891",
-        "screen_name": "河口广电",
+        "id": 2272985297,
+        "idstr": "2272985297",
+        "screen_name": "北京科教_健康北京",
         "verified": true,
         "verified_type": 3
       }

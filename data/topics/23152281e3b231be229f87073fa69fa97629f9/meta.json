@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 1618051664
   },
-  "last_seen_at": "2026-09-12T09:00:00+08:00",
+  "last_seen_at": "2026-09-12T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%BE%B1%E9%AA%82%E4%B8%9A%E4%B8%BB%E5%89%AF%E5%B1%80%E9%95%BF%E8%87%AA%E7%A7%B0%E5%BE%88%E5%90%8E%E6%82%94%23%26t%3D3&title=发布媒体",
-    "show_str": "11家媒体",
+    "show_str": "19家媒体",
     "users": [
       {
         "id": 1618051664,
         "idstr": "1618051664",
         "screen_name": "头条新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1893761531,
+        "idstr": "1893761531",
+        "screen_name": "闪电新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1267454277,
+        "idstr": "1267454277",
+        "screen_name": "凤凰周刊",
         "verified": true,
         "verified_type": 3
       },
@@ -37,30 +51,16 @@
         "verified_type": 7
       },
       {
+        "id": 6021980686,
+        "idstr": "6021980686",
+        "screen_name": "费县融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2921799343,
         "idstr": "2921799343",
         "screen_name": "天下泉城",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2188202475,
-        "idstr": "2188202475",
-        "screen_name": "南京晨报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2011075080,
-        "idstr": "2011075080",
-        "screen_name": "齐鲁晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1960785875,
-        "idstr": "1960785875",
-        "screen_name": "津云新闻",
         "verified": true,
         "verified_type": 3
       }

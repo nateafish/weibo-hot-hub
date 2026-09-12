@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-12T11:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#习近平离京赴新德里出席金砖峰会#",
+      "rank": 1,
+      "title": "习近平离京赴新德里出席金砖峰会",
+      "topic_id": "231522ca44c3eeae761794078669fee1de21d5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "支付宝 假APP",
+      "rank": 1,
+      "title": "支付宝 假APP",
+      "topic_id": "231522a6121a1ab0a9bdc4d6f07485210b3a78"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#宁波大学开学典礼突降暴雨校长只讲3句话#",
+      "rank": 2,
+      "title": "宁波大学开学典礼突降暴雨校长只讲3句话",
+      "topic_id": "2315224c8a66d2155d9b441378b2ba24b9e52f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#两场展会看中国机遇#",
+      "rank": 3,
+      "title": "两场展会看中国机遇",
+      "topic_id": "2315220915845176569d1e18e103758193570a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#关晓彤新剧里面喝的鸡汤是白开水#",
+      "rank": 4,
+      "title": "关晓彤新剧里面喝的鸡汤是白开水",
+      "topic_id": "2315226b1c2fdc1f58bd0ec5709092db2a1d65"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#16岁孙心然美网决赛冲冠#",
+      "rank": 5,
+      "title": "16岁孙心然美网决赛冲冠",
+      "topic_id": "2315222bc45a60a4c3848867bbe4030680e878"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#泰国网红僧侣已被还俗剥夺僧籍#",
+      "rank": 6,
+      "title": "泰国网红僧侣已被还俗剥夺僧籍",
+      "topic_id": "231522a7d740cab5a1bf1937142eea4fd05f4e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#前妻曝马斯克居高临下心理操控自己#",
+      "rank": 7,
+      "title": "前妻曝马斯克居高临下心理操控自己",
+      "topic_id": "23152299912d856b5028ef66e6558dda76c317"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#美国纽约市长在911纪念仪式上大笑#",
+      "rank": 8,
+      "title": "美国纽约市长在911纪念仪式上大笑",
+      "topic_id": "231522e56693c7e58b5bf38a2f432c966c9c45"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "兰香如故昔日未婚妻变婢女",
+      "rank": 9,
+      "title": "兰香如故昔日未婚妻变婢女",
+      "topic_id": "2315227735e423d1038992f3f028c61f27c112"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#外卖明厨亮灶摄像头对着天花板#",
+      "rank": 10,
+      "title": "外卖明厨亮灶摄像头对着天花板",
+      "topic_id": "231522404a7adc76e9f5d517a250eaa60ac370"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#郭文韬当爸#",
+      "rank": 11,
+      "title": "郭文韬当爸",
+      "topic_id": "231522270f8c3f1c985096169c229eeeeb9a1c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#欧阳娜娜说要把签名签到卖不出去#",
+      "rank": 12,
+      "title": "欧阳娜娜说要把签名签到卖不出去",
+      "topic_id": "2315226cb31fa0a8d2dec4a441cd55245128f5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#iPhoneDuo分屏不可调整比例#",
+      "rank": 13,
+      "title": "iPhoneDuo分屏不可调整比例",
+      "topic_id": "23152265e2ff11220ced69dcf73e2bbb958144"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#LadyGaga疑似当妈#",
+      "rank": 14,
+      "title": "LadyGaga疑似当妈",
+      "topic_id": "2315225368904ef4d97c5433579ee754256dd7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#熬夜的伤害通过睡觉能补回来吗#",
+      "rank": 15,
+      "title": "熬夜的伤害通过睡觉能补回来吗",
+      "topic_id": "231522cec50a6422f80e6a236ecf33b8a48a84"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "长沙查封代孕手术室执法图流入代孕群",
+      "rank": 16,
+      "title": "长沙查封代孕手术室执法图流入代孕群",
+      "topic_id": "23152225a9e12ada52d6d89c01bec6035dafc6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女演员被指卖韭菜盒子#",
+      "rank": 17,
+      "title": "女演员被指卖韭菜盒子",
+      "topic_id": "231522ffbfd2f658f898e725f2df55901fdb45"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#蒋丽莎曝陈浩民曾给前女友买房#",
+      "rank": 18,
+      "title": "蒋丽莎曝陈浩民曾给前女友买房",
+      "topic_id": "23152213075f8c3c4a1a4e313a8beebba8f997"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#治理龟速开车#",
+      "rank": 19,
+      "title": "治理龟速开车",
+      "topic_id": "2315221f685c31d843c80a743bca48c4df1338"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#委内瑞拉申请暂时释放第一夫人#",
+      "rank": 20,
+      "title": "委内瑞拉申请暂时释放第一夫人",
+      "topic_id": "2315228e87acccec89270d81f9e6db13aa475d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#江夏教育局回应学生没订奶罚站#",
+      "rank": 21,
+      "title": "江夏教育局回应学生没订奶罚站",
+      "topic_id": "2315222bf316ee913cfe481eed54d1606ce830"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#主播鼓吹泡腾片塞入体内可年轻15岁#",
+      "rank": 22,
+      "title": "主播鼓吹泡腾片塞入体内可年轻15岁",
+      "topic_id": "231522570c459479e24f140e4f692462d73ea7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "苹果 小米",
+      "rank": 23,
+      "title": "苹果 小米",
+      "topic_id": "23152210cf84c668b374b8550d259d69f1d1fb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#半夜宝爸将宝妈抱摔下床泡奶#",
+      "rank": 24,
+      "title": "半夜宝爸将宝妈抱摔下床泡奶",
+      "topic_id": "2315228eb3bce5825031c71163362937963aa6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#晚8点iPhone18Pro天猫开放首购#",
+      "rank": 25,
+      "title": "晚8点iPhone18Pro天猫开放首购",
+      "topic_id": "231522801f13f2af2dc443763f5acecb24c1d6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#胃病向胃癌发展有5个征兆#",
+      "rank": 26,
+      "title": "胃病向胃癌发展有5个征兆",
+      "topic_id": "231522f9321cdb1c8147b8a9c15a8c9c2a6ccb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#网红铁头退庭时辱骂法庭#",
+      "rank": 27,
+      "title": "网红铁头退庭时辱骂法庭",
+      "topic_id": "231522b93bd44638c9145d569949bd4b1cc1bb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#兰香如故观众反响#",
+      "rank": 28,
+      "title": "兰香如故观众反响",
+      "topic_id": "2315221ab09130f95a4d60738b509484b3c909"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#早春晴朗出圈度#",
+      "rank": 29,
+      "title": "早春晴朗出圈度",
+      "topic_id": "231522b059a2f59ce62331b62d41764f3af857"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#精神病女子杀人案细节曝光#",
+      "rank": 30,
+      "title": "精神病女子杀人案细节曝光",
+      "topic_id": "231522843983bfa1b9276cb5bf88558e2ed7d9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "刺棠 梁洁",
+      "rank": 31,
+      "title": "刺棠 梁洁",
+      "topic_id": "2315229aa619e725b4df168abd2ec52beebf5d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#辱骂业主副局长自称很后悔#",
+      "rank": 32,
+      "title": "辱骂业主副局长自称很后悔",
+      "topic_id": "23152281e3b231be229f87073fa69fa97629f9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "刺棠阵容官宣",
+      "rank": 33,
+      "title": "刺棠阵容官宣",
+      "topic_id": "231522fda8ee02f693c71994b58bcea8f2619f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王俊凯23年长文现在依旧有效#",
+      "rank": 34,
+      "title": "王俊凯23年长文现在依旧有效",
+      "topic_id": "231522b68d478c1763f70925c22b9ab8a76464"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "举报代孕被指敲诈勒索",
+      "rank": 35,
+      "title": "举报代孕被指敲诈勒索",
+      "topic_id": "231522482e1795e9b437d44c19cfccf8b75b81"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "卢昱晓张凌赫刺棠开机",
+      "rank": 36,
+      "title": "卢昱晓张凌赫刺棠开机",
+      "topic_id": "231522363b7b4b9a4d8e8d381a936abac2e48b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#官方回应举报文物失踪店铺多次被查#",
+      "rank": 37,
+      "title": "官方回应举报文物失踪店铺多次被查",
+      "topic_id": "23152228810c79148e16cfef454e8fadee121c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "刺棠",
+      "rank": 38,
+      "title": "刺棠",
+      "topic_id": "231522ebb9762ff848b309f8ade2ead60eadd0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#苹果高管称保住了折叠屏最关键秘密#",
+      "rank": 39,
+      "title": "苹果高管称保住了折叠屏最关键秘密",
+      "topic_id": "231522d56af06a236ac8c15570e34b0ea10a5b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "教资",
+      "rank": 40,
+      "title": "教资",
+      "topic_id": "231522c1e4e40fbd6667837bf820a2ad637f8b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张凌赫下车被粉丝吓了一跳#",
+      "rank": 41,
+      "title": "张凌赫下车被粉丝吓了一跳",
+      "topic_id": "2315229e1fc3540e3172046ae65b0a15796f38"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#杨幂玩梗说自己45岁#",
+      "rank": 42,
+      "title": "杨幂玩梗说自己45岁",
+      "topic_id": "231522352f931280b460955aa0461cbd233c9d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "法考",
+      "rank": 43,
+      "title": "法考",
+      "topic_id": "2315228d370d7bf47400bc79661c11a10ce337"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#卢昱晓刺棠妆造#",
+      "rank": 44,
+      "title": "卢昱晓刺棠妆造",
+      "topic_id": "2315223d88f35dd5622109725df4169659e355"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#权顺荣前交叉韧带完全撕裂#",
+      "rank": 45,
+      "title": "权顺荣前交叉韧带完全撕裂",
+      "topic_id": "231522d69705bb94f70d88afca3c3756e3ae6b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#世界通用的iPhone继承制#",
+      "rank": 46,
+      "title": "世界通用的iPhone继承制",
+      "topic_id": "2315227bbb3e1cd9f798fc1ace971b6cc8733a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#闵熙珍问NewJeans要不要教训ILLIT#",
+      "rank": 47,
+      "title": "闵熙珍问NewJeans要不要教训ILLIT",
+      "topic_id": "231522d663ecea5698d0264c0ef6aaf5a5bb11"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "一天已经不足24小时了",
+      "rank": 48,
+      "title": "一天已经不足24小时了",
+      "topic_id": "2315226ae0f82cd7566286877c66bf34061a97"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#宜宾警方复核镇干部被指强奸案#",
+      "rank": 49,
+      "title": "宜宾警方复核镇干部被指强奸案",
+      "topic_id": "231522fce7a4cc092a9e0abb3aa4f00fdeee6a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "强烈建议大家日常一定要把AI用起来",
+      "rank": 50,
+      "title": "强烈建议大家日常一定要把AI用起来",
+      "topic_id": "231522725a373a16ba1172bc3cdba02e0e6663"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
