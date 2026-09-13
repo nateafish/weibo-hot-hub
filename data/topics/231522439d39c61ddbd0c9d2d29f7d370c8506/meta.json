@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 1655444627
   },
-  "last_seen_at": "2026-09-13T20:00:00+08:00",
+  "last_seen_at": "2026-09-13T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%8A%E6%B5%B7%E5%A4%9A%E4%B8%AA%E7%8F%AD%E7%BA%A7%E9%80%9A%E7%9F%A5%E5%85%A8%E7%8F%AD%E5%B1%85%E5%AE%B6%E9%9A%94%E7%A6%BB%23%26t%3D3&title=发布媒体",
-    "show_str": "14家媒体",
+    "show_str": "34家媒体",
     "users": [
       {
         "id": 1655444627,
         "idstr": "1655444627",
         "screen_name": "潇湘晨报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1665450974,
+        "idstr": "1665450974",
+        "screen_name": "FM89杭州之声",
         "verified": true,
         "verified_type": 3
       },
@@ -40,27 +61,6 @@
         "id": 6205409064,
         "idstr": "6205409064",
         "screen_name": "茌平融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5822206027,
-        "idstr": "5822206027",
-        "screen_name": "北斗融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2685336121,
-        "idstr": "2685336121",
-        "screen_name": "南宁晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2566396732,
-        "idstr": "2566396732",
-        "screen_name": "潇湘晨报96360",
         "verified": true,
         "verified_type": 3
       }

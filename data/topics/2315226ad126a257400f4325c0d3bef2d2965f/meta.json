@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2656274875
   },
-  "last_seen_at": "2026-09-13T20:00:00+08:00",
+  "last_seen_at": "2026-09-13T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9B%86%E4%BD%93%E5%90%88%E5%BD%B1%23%26t%3D3&title=发布媒体",
-    "show_str": "21家媒体",
+    "show_str": "23家媒体",
     "users": [
       {
         "id": 2656274875,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 6890796357,
+        "idstr": "6890796357",
+        "screen_name": "日照日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 5608027665,
         "idstr": "5608027665",
         "screen_name": "中国环境",
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 3804173419,
+        "idstr": "3804173419",
+        "screen_name": "各界导报社官微",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2039753857,
         "idstr": "2039753857",
         "screen_name": "CCTV4",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1727472420,
-        "idstr": "1727472420",
-        "screen_name": "泰山晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1683472727,
-        "idstr": "1683472727",
-        "screen_name": "央广网",
         "verified": true,
         "verified_type": 3
       }
