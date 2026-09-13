@@ -3,11 +3,26 @@
   "created_at": 1789274140,
   "first_seen_at": "2026-09-13T13:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-13T13:00:00+08:00",
+  "last_seen_at": "2026-09-13T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E8%AF%B4%E9%87%8E%E4%BA%BA%E5%85%88%E7%94%9F%E9%9A%BE%E5%90%83%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "2家媒体",
+    "users": [
+      {
+        "id": 2632236847,
+        "idstr": "2632236847",
+        "screen_name": "香港文匯網",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1642088277,
+        "idstr": "1642088277",
+        "screen_name": "财经网",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "罗永浩说野人先生难吃",
   "search_url": "https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E8%AF%B4%E9%87%8E%E4%BA%BA%E5%85%88%E7%94%9F%E9%9A%BE%E5%90%83%23",

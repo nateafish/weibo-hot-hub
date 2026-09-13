@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 6105713761
   },
-  "last_seen_at": "2026-09-13T13:00:00+08:00",
+  "last_seen_at": "2026-09-13T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%AD%BB%E4%BA%A1%E5%A5%B3%E5%A9%B4%E6%B0%94%E7%AE%A1%E5%AF%BC%E7%AE%A1%E5%90%B8%E5%87%BA%E5%A5%B6%E6%B8%A3%E6%A0%B7%E7%89%A9%E4%BD%93%23%26t%3D3&title=发布媒体",
-    "show_str": "27家媒体",
+    "show_str": "33家媒体",
     "users": [
       {
         "id": 6105713761,
@@ -26,6 +26,20 @@
         "id": 2337985010,
         "idstr": "2337985010",
         "screen_name": "瑞安融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1806646411,
+        "idstr": "1806646411",
+        "screen_name": "北方频道",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 2649732781,
         "idstr": "2649732781",
         "screen_name": "阳信融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2553604372,
-        "idstr": "2553604372",
-        "screen_name": "福州新闻网fznews",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2426423791,
-        "idstr": "2426423791",
-        "screen_name": "海南文娱频道",
         "verified": true,
         "verified_type": 3
       }

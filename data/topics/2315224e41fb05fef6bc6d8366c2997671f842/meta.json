@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 3847642518
   },
-  "last_seen_at": "2026-09-13T13:00:00+08:00",
+  "last_seen_at": "2026-09-13T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23HYROX%E5%A5%B3%E9%80%89%E6%89%8B%E5%9B%9E%E5%BA%94%E5%A4%B1%E7%A6%81%E5%AE%8C%E8%B5%9B%E5%A4%BA%E5%86%A0%23%26t%3D3&title=发布媒体",
-    "show_str": "7家媒体",
+    "show_str": "10家媒体",
     "users": [
       {
         "id": 2510959054,
         "idstr": "2510959054",
         "screen_name": "陕西广播电视台",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6508016609,
+        "idstr": "6508016609",
+        "screen_name": "风闻社区",
         "verified": true,
         "verified_type": 3
       },
@@ -44,13 +51,6 @@
         "verified_type": 3
       },
       {
-        "id": 2286092114,
-        "idstr": "2286092114",
-        "screen_name": "中国蓝新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 1941424392,
         "idstr": "1941424392",
         "screen_name": "台州晚报",
@@ -58,9 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1789681642,
-        "idstr": "1789681642",
-        "screen_name": "第一现场",
+        "id": 1909377960,
+        "idstr": "1909377960",
+        "screen_name": "起点新闻",
         "verified": true,
         "verified_type": 3
       }
