@@ -1,0 +1,537 @@
+{
+  "captured_at": "2026-09-14T06:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 48,
+    "ai_unchanged": 1,
+    "metrics_saved": 50,
+    "posts_saved": 50
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#习近平圆满结束出席金砖国家领导人第十八次会晤#",
+      "rank": 1,
+      "title": "习近平圆满结束出席金砖国家领导人第十八次会晤",
+      "topic_id": "23152203019070202af00ce4687097370f9317"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#大学生生活费才3000#",
+      "rank": 1,
+      "title": "大学生生活费才3000",
+      "topic_id": "231522f71191286bf0873d5f843bcb1f0fbcfa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "中国足球小将西班牙捧杯",
+      "rank": 2,
+      "title": "中国足球小将西班牙捧杯",
+      "topic_id": "23152258308fe95297a142cbea2e5a18dd694f"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#寻找金砖温度的答案#",
+      "rank": 3,
+      "title": "寻找金砖温度的答案",
+      "topic_id": "2315229731693eb70f58ae093892da9956f84f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#脑出血牢记3警惕4步骤#",
+      "rank": 4,
+      "title": "脑出血牢记3警惕4步骤",
+      "topic_id": "231522d3c70676a97428eb9608f01becd543b2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "每延误1分钟约190万脑细胞死亡",
+      "rank": 5,
+      "title": "每延误1分钟约190万脑细胞死亡",
+      "topic_id": "231522998d0d5e4f3df53f7051d5751eb0d8a2"
+    },
+    {
+      "ai": "pending",
+      "metrics": "failed",
+      "metrics_error": "TopicFetchError: Topic detail is missing a stable id or title",
+      "posts": "pending",
+      "query": "白桃星座一周运势",
+      "rank": 6,
+      "title": "白桃星座一周运势"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "女篮世界杯决赛",
+      "rank": 7,
+      "title": "女篮世界杯决赛",
+      "topic_id": "231522d3c95adb17251ac34ac91a181154be13"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#日本亏本也要卖给中国图什么#",
+      "rank": 8,
+      "title": "日本亏本也要卖给中国图什么",
+      "topic_id": "23152284633451e94fef442f10f9c0b019054f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "井柏然孙千偷偷牵手",
+      "rank": 9,
+      "title": "井柏然孙千偷偷牵手",
+      "topic_id": "2315222f12cd4759aad96cc0ca6dd06d18411b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曼联0比1曼城#",
+      "rank": 10,
+      "title": "曼联0比1曼城",
+      "topic_id": "23152273302d589258ea6443ab1e006af96b03"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#情侣在演唱会求婚遭后排喊坐下#",
+      "rank": 11,
+      "title": "情侣在演唱会求婚遭后排喊坐下",
+      "topic_id": "23152260485fc80b1c2c0c2581902d1d6ab6e6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "王曼昱登顶世界第一",
+      "rank": 12,
+      "title": "王曼昱登顶世界第一",
+      "topic_id": "2315221751ee43fc8feb82ac0c1e15b9e28b5d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#我国从来没有第一学历这个概念#",
+      "rank": 13,
+      "title": "我国从来没有第一学历这个概念",
+      "topic_id": "23152272a267144f844c211605dcef59a2d4f3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#敬一丹曾说母亲的肯定影响了她#",
+      "rank": 14,
+      "title": "敬一丹曾说母亲的肯定影响了她",
+      "topic_id": "23152210ea890c2e010f52acd43fa5c520828a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#脑出血该如何预防#",
+      "rank": 15,
+      "title": "脑出血该如何预防",
+      "topic_id": "2315224f9c7c7d83c59fef5f660515b84bafcf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#上海多个班级通知全班居家隔离#",
+      "rank": 16,
+      "title": "上海多个班级通知全班居家隔离",
+      "topic_id": "231522439d39c61ddbd0c9d2d29f7d370c8506"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "人类语言被AI一秒抛弃",
+      "rank": 17,
+      "title": "人类语言被AI一秒抛弃",
+      "topic_id": "231522643e9671adf3735fd9e64dd050b6c7f9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#复读再次考上北大男生发声#",
+      "rank": 18,
+      "title": "复读再次考上北大男生发声",
+      "topic_id": "2315229023dbe9ed118e4e5934a16bde53c2a6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "赵雷鸟巢演唱会",
+      "rank": 19,
+      "title": "赵雷鸟巢演唱会",
+      "topic_id": "231522c3d7b7254f36c7ec7f3e4b99f18f77f9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#陈妍希儿子星星也是回避型人格#",
+      "rank": 20,
+      "title": "陈妍希儿子星星也是回避型人格",
+      "topic_id": "231522251b0112684a59c197ab9440de6a2df5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#这才是身体需要的7种休息#",
+      "rank": 21,
+      "title": "这才是身体需要的7种休息",
+      "topic_id": "2315228f63f505fb4b6e5851d7910c699850ce"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "张本美和冠军",
+      "rank": 22,
+      "title": "张本美和冠军",
+      "topic_id": "231522c0a84efe8d83c590542c768c661b31c2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女儿房间怪味难消爸爸挪开柜子看傻#",
+      "rank": 23,
+      "title": "女儿房间怪味难消爸爸挪开柜子看傻",
+      "topic_id": "23152256c26f62dbc09d6441fe6f10e0be2eba"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#东京没下雨也没淋湿巴黎#",
+      "rank": 24,
+      "title": "东京没下雨也没淋湿巴黎",
+      "topic_id": "2315225435f0cbbb5a538056a2fc70c6038a91"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#被举报116次的烧烤店被责令整改#",
+      "rank": 25,
+      "title": "被举报116次的烧烤店被责令整改",
+      "topic_id": "231522e2e1eebf164f4c809efc5f329af5b010"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "AL夺冠",
+      "rank": 26,
+      "title": "AL夺冠",
+      "topic_id": "231522f850387193c62f79b019ab139e0e5c20"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "网友爆国内某日本药企在918开年会",
+      "rank": 27,
+      "title": "网友爆国内某日本药企在918开年会",
+      "topic_id": "231522db28b7b66f87f1120e2a228e2f2d4a15"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "哈兰德 多尔古",
+      "rank": 28,
+      "title": "哈兰德 多尔古",
+      "topic_id": "23152256783e1c6aaa4d9b113e6b36df8cc4c1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#三大AI巨头联手呼吁放缓开发步伐#",
+      "rank": 29,
+      "title": "三大AI巨头联手呼吁放缓开发步伐",
+      "topic_id": "2315228e952ce02281197185499af8e29fba5b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#屋里发大水了小狗处理不好#",
+      "rank": 30,
+      "title": "屋里发大水了小狗处理不好",
+      "topic_id": "231522e47b2e12f99bb897dfce994da8b9ecfc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 7,
+      "posts": "saved",
+      "query": "#罗永浩怀念钟薛高#",
+      "rank": 31,
+      "title": "罗永浩怀念钟薛高",
+      "topic_id": "231522888b75dc51e217d826a5163bd5fd605b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#Bin回应AL夺冠#",
+      "rank": 32,
+      "title": "Bin回应AL夺冠",
+      "topic_id": "2315228da5876e843267e49ca7e4df54f34249"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "中国足球小将逆转西班牙人",
+      "rank": 33,
+      "title": "中国足球小将逆转西班牙人",
+      "topic_id": "231522b6675f1fab134f404d2460ee2e3084c3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "足球小将西班牙杯赛创佳绩",
+      "rank": 34,
+      "title": "足球小将西班牙杯赛创佳绩",
+      "topic_id": "231522bec50d3008ce091becf86610a1e13ec1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#Tarzan历时3015天夺得联赛首冠#",
+      "rank": 35,
+      "title": "Tarzan历时3015天夺得联赛首冠",
+      "topic_id": "2315223fc3b1cc870debcbe748933ec51d7873"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "北方 隐翅虫",
+      "rank": 36,
+      "title": "北方 隐翅虫",
+      "topic_id": "231522786c1d6f3923619201ebc9293485a57c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#网友入住全季酒店半夜被蟑螂爬脸#",
+      "rank": 37,
+      "title": "网友入住全季酒店半夜被蟑螂爬脸",
+      "topic_id": "23152204fbbd836f224c5034196698a15cc1c2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#AL队史首次夺得LPL联赛冠军#",
+      "rank": 38,
+      "title": "AL队史首次夺得LPL联赛冠军",
+      "topic_id": "2315227a9d8b07697b64834b257c1a79b0726b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "胖东来又在做什么实验",
+      "rank": 39,
+      "title": "胖东来又在做什么实验",
+      "topic_id": "23152210b332b94603f224369d890dbcbe93ed"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#谭松韵回复李嘉鑫#",
+      "rank": 40,
+      "title": "谭松韵回复李嘉鑫",
+      "topic_id": "2315220d740ca1e2dde1d2993a149285a1de52"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "KPL",
+      "rank": 41,
+      "title": "KPL",
+      "topic_id": "231522361877035a32f3073eb1259ee15286d8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "国乒女单冠军赛颗粒无收",
+      "rank": 42,
+      "title": "国乒女单冠军赛颗粒无收",
+      "topic_id": "2315221f0e9bd75bad99a831de62bafa1981a2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "学到一个词叫随喜心",
+      "rank": 43,
+      "title": "学到一个词叫随喜心",
+      "topic_id": "23152212902d74386698a194dd8e9d7a29d2db"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#曼市德比争议#",
+      "rank": 44,
+      "title": "曼市德比争议",
+      "topic_id": "23152270408ba1e78bf96c50ebea10902f570c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#情久重返KPL#",
+      "rank": 45,
+      "title": "情久重返KPL",
+      "topic_id": "2315222efd1cd3f19ef0cb4c2df5d2600373b2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#22岁侄子扛行李送19岁叔叔上大学#",
+      "rank": 46,
+      "title": "22岁侄子扛行李送19岁叔叔上大学",
+      "topic_id": "2315228a10cdc97698bd7ad089678206be5d17"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#海底捞最伟大的吃法出现了#",
+      "rank": 47,
+      "title": "海底捞最伟大的吃法出现了",
+      "topic_id": "2315220f7f5ea24bdd0c0215c619d16c907009"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#爱笑回应AL夺冠#",
+      "rank": 48,
+      "title": "爱笑回应AL夺冠",
+      "topic_id": "2315224974ad18eb4f71c538115e1b93b60667"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "英雄联盟15周年盛典",
+      "rank": 49,
+      "title": "英雄联盟15周年盛典",
+      "topic_id": "231522f1612111f1e0779dd484b0b9e9f3052d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#兰香如故热度破28000#",
+      "rank": 50,
+      "title": "兰香如故热度破28000",
+      "topic_id": "231522d9d90eb2612504b05e67a2df4243dc49"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 0.9803921568627451,
+      "metrics": 0.9803921568627451,
+      "posts": 0.9803921568627451
+    }
+  }
+}
