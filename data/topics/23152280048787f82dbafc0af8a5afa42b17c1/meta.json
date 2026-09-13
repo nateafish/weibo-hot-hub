@@ -10,11 +10,32 @@
     "status": 2,
     "uid": 2734875397
   },
-  "last_seen_at": "2026-09-13T16:00:00+08:00",
+  "last_seen_at": "2026-09-13T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%99%88%E5%A6%8D%E5%B8%8C%E5%84%BF%E5%AD%90%E8%B0%A2%E6%A5%A0%E5%84%BF%E5%AD%90%E8%A7%81%E9%9D%A2%E5%B0%B1%E6%89%93%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "11家媒体",
     "users": [
+      {
+        "id": 2286092114,
+        "idstr": "2286092114",
+        "screen_name": "中国蓝新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2075245652,
+        "idstr": "2075245652",
+        "screen_name": "长春晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7708039348,
+        "idstr": "7708039348",
+        "screen_name": "北青娱见",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 6444725927,
         "idstr": "6444725927",
@@ -30,30 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 2075245652,
-        "idstr": "2075245652",
-        "screen_name": "长春晚报",
+        "id": 2356298087,
+        "idstr": "2356298087",
+        "screen_name": "河北经视",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1878335471,
-        "idstr": "1878335471",
-        "screen_name": "新浪综艺",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1725252714,
-        "idstr": "1725252714",
-        "screen_name": "温度新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1280846847,
-        "idstr": "1280846847",
-        "screen_name": "指尖新闻-沈阳晚报",
+        "id": 2041117703,
+        "idstr": "2041117703",
+        "screen_name": "合肥日报",
         "verified": true,
         "verified_type": 3
       }

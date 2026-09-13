@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 6320391439
   },
-  "last_seen_at": "2026-09-13T16:00:00+08:00",
+  "last_seen_at": "2026-09-13T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%8E%AB%E9%9B%B7%E5%8A%A0%E5%BE%B74%E6%AF%943%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%23%26t%3D3&title=发布媒体",
-    "show_str": "23家媒体",
+    "show_str": "35家媒体",
     "users": [
       {
         "id": 2011739333,
@@ -26,6 +26,13 @@
         "id": 7476748260,
         "idstr": "7476748260",
         "screen_name": "大公文匯網",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1618051664,
+        "idstr": "1618051664",
+        "screen_name": "头条新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -56,13 +63,6 @@
         "screen_name": "新浪种草官",
         "verified": true,
         "verified_type": 7
-      },
-      {
-        "id": 5350271203,
-        "idstr": "5350271203",
-        "screen_name": "体坛周报",
-        "verified": true,
-        "verified_type": 3
       }
     ]
   },
