@@ -3,10 +3,10 @@
   "created_at": 1789224330,
   "first_seen_at": "2026-09-13T00:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-13T08:00:00+08:00",
+  "last_seen_at": "2026-09-13T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23AI%E7%9F%AD%E5%89%A7+%E6%88%90%E7%98%BE%23%26t%3D3&title=发布媒体",
-    "show_str": "17家媒体",
+    "show_str": "18家媒体",
     "users": [
       {
         "id": 2992050891,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 3514732862,
+        "idstr": "3514732862",
+        "screen_name": "广西日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 3251720635,
         "idstr": "3251720635",
         "screen_name": "邯郸网络广播电视台",
@@ -47,13 +54,6 @@
         "id": 2356298087,
         "idstr": "2356298087",
         "screen_name": "河北经视",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2131593523,
-        "idstr": "2131593523",
-        "screen_name": "羊城晚报金羊网",
         "verified": true,
         "verified_type": 3
       }

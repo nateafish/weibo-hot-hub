@@ -1,0 +1,537 @@
+{
+  "captured_at": "2026-09-13T09:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 26,
+    "ai_unchanged": 23,
+    "metrics_saved": 50,
+    "posts_saved": 50
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#习近平会见莫迪#",
+      "rank": 1,
+      "title": "习近平会见莫迪",
+      "topic_id": "23152242160025fc9500811ef7b5029bff55b6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#敬一丹生平#",
+      "rank": 1,
+      "title": "敬一丹生平",
+      "topic_id": "23152255f63291012bef24bb72728e843e8d48"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "AI短剧 成瘾",
+      "rank": 2,
+      "title": "AI短剧 成瘾",
+      "topic_id": "23152213b4ff29c34ac1272de74cc5d0a9d675"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#金砖合作打造互联互通贸易通道#",
+      "rank": 3,
+      "title": "金砖合作打造互联互通贸易通道",
+      "topic_id": "231522e2b245b4f133014082cf8d14b8e5a543"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#海姆立克急救法变了#",
+      "rank": 4,
+      "title": "海姆立克急救法变了",
+      "topic_id": "23152246e897ccd625f3e5700a7e71eba9c287"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#敬一丹最后一次录节目#",
+      "rank": 5,
+      "title": "敬一丹最后一次录节目",
+      "topic_id": "231522b9b098277795419db3b7a5e6c2e5f6a4"
+    },
+    {
+      "ai": "pending",
+      "metrics": "failed",
+      "metrics_error": "TopicFetchError: Topic detail is missing a stable id or title",
+      "posts": "pending",
+      "query": "敬一丹去世",
+      "rank": 6,
+      "title": "敬一丹去世"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#敬一丹曾说对年龄有点迟钝#",
+      "rank": 7,
+      "title": "敬一丹曾说对年龄有点迟钝",
+      "topic_id": "2315226aa5f4b1e1e7dccec192e907abf0e141"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "莱巴金娜美网夺冠登顶世界第一",
+      "rank": 8,
+      "title": "莱巴金娜美网夺冠登顶世界第一",
+      "topic_id": "231522925eaa0cf4e013905c27a86dc5094c0a"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#赵雷当爸爸了#",
+      "rank": 9,
+      "title": "赵雷当爸爸了",
+      "topic_id": "231522d9d616948621d1a89627459e196358b0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#弹壳说唱巅峰对决总冠军#",
+      "rank": 10,
+      "title": "弹壳说唱巅峰对决总冠军",
+      "topic_id": "231522297fdc6438b96ab0a024cf9aa74fab16"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "iPhone18Pro 苹果",
+      "rank": 11,
+      "title": "iPhone18Pro 苹果",
+      "topic_id": "2315225bcd23644acb83ea5820074c17fc69b6"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "祝绪丹 杨幂",
+      "rank": 12,
+      "title": "祝绪丹 杨幂",
+      "topic_id": "2315227541e63b5f5b46a64e4ca7724260347e"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "孙千早春晴朗开会胡说八道",
+      "rank": 13,
+      "title": "孙千早春晴朗开会胡说八道",
+      "topic_id": "231522bd9ad8c40d7ecf100c683a0443c2b94e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#市场监管局回应烧烤店2个月被查15次#",
+      "rank": 14,
+      "title": "市场监管局回应烧烤店2个月被查15次",
+      "topic_id": "231522307ab6c6ebc4c1f677fe094c7378db77"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "吃得越狠老得越慢",
+      "rank": 15,
+      "title": "吃得越狠老得越慢",
+      "topic_id": "2315228040e1b8c7f0cba80e07b267b3f894a0"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#井迪直播被说怀孕了#",
+      "rank": 16,
+      "title": "井迪直播被说怀孕了",
+      "topic_id": "231522b2b29900f3949a5c36c70fee4af6030d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#敬一丹女儿发布讣告#",
+      "rank": 17,
+      "title": "敬一丹女儿发布讣告",
+      "topic_id": "231522e0edaae8f958037ea6081457fe468246"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "兰香如故男扮女装美得出彩",
+      "rank": 18,
+      "title": "兰香如故男扮女装美得出彩",
+      "topic_id": "23152215e022bf4067c445dd2ed3675dc3e812"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#敬一丹曾连续三届获金话筒奖#",
+      "rank": 19,
+      "title": "敬一丹曾连续三届获金话筒奖",
+      "topic_id": "231522f4256ee66483b8dee8e7548c16395fc5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#莱巴金娜美网2比1萨巴伦卡#",
+      "rank": 20,
+      "title": "莱巴金娜美网2比1萨巴伦卡",
+      "topic_id": "23152220fcea42484c34a125da670b91ceeb76"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#男子被女友杀害分尸案细节曝光#",
+      "rank": 21,
+      "title": "男子被女友杀害分尸案细节曝光",
+      "topic_id": "23152262f46f14e0c45f08b636a9f81c781312"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "为什么几乎不存在完美藏尸",
+      "rank": 22,
+      "title": "为什么几乎不存在完美藏尸",
+      "topic_id": "231522c2cbc6929e537e992893b47e2ba0f0ea"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#刘畊宏参加披哥掉粉近40万#",
+      "rank": 23,
+      "title": "刘畊宏参加披哥掉粉近40万",
+      "topic_id": "231522fa52199822e1bfcdaab341cd05983645"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#胖东来网红大月饼暂停门店线下销售#",
+      "rank": 24,
+      "title": "胖东来网红大月饼暂停门店线下销售",
+      "topic_id": "231522c9a56e23f130abc6fb4d0cbc7781fd06"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "iPhone18Pro 饥饿营销",
+      "rank": 25,
+      "title": "iPhone18Pro 饥饿营销",
+      "topic_id": "2315221fca29b460f86197ff91f514268c98f4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#Yamy年度名人堂#",
+      "rank": 26,
+      "title": "Yamy年度名人堂",
+      "topic_id": "231522a68d96bf34363c4b0ae8593eb81ddba4"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#刘宇宁的胆子真是肥嘟嘟的#",
+      "rank": 27,
+      "title": "刘宇宁的胆子真是肥嘟嘟的",
+      "topic_id": "2315220f96c36593fa9302790280f0608b3b65"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#浙江男生放弃北大复读考上图灵班#",
+      "rank": 28,
+      "title": "浙江男生放弃北大复读考上图灵班",
+      "topic_id": "231522248077b14969b7ea17d37415c5ccd543"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#刘宇宁直播隔壁又打起来了#",
+      "rank": 29,
+      "title": "刘宇宁直播隔壁又打起来了",
+      "topic_id": "231522d5a78b18f88aaf34da7ed15cb1a45745"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#为什么早上是喝咖啡的最佳时间#",
+      "rank": 30,
+      "title": "为什么早上是喝咖啡的最佳时间",
+      "topic_id": "231522d6771db9335ac574af136c16fc26f685"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "萨巴伦卡美网决赛失利",
+      "rank": 31,
+      "title": "萨巴伦卡美网决赛失利",
+      "topic_id": "2315225ad78a720694f0fda2c0f5d8a474aaf4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#TOP终于有消息了#",
+      "rank": 32,
+      "title": "TOP终于有消息了",
+      "topic_id": "231522e3867da7e0b884a7c17496f73beff805"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "想换手机的欲望突然到了极致",
+      "rank": 33,
+      "title": "想换手机的欲望突然到了极致",
+      "topic_id": "231522143e487f965b1ccc7f0f0eb24072528d"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#莎拉波娃为莱巴金娜颁奖#",
+      "rank": 34,
+      "title": "莎拉波娃为莱巴金娜颁奖",
+      "topic_id": "23152210d97599185a007c1c00ac643b8414a5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#19岁的孙千#",
+      "rank": 35,
+      "title": "19岁的孙千",
+      "topic_id": "2315228e757f8ca4e949d9584f20bb0e69745d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#萨巴伦卡回应不敌莱巴金娜#",
+      "rank": 36,
+      "title": "萨巴伦卡回应不敌莱巴金娜",
+      "topic_id": "231522fda459466c0cf0b35e179568386cfd18"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "小胖FMVP归属争议",
+      "rank": 37,
+      "title": "小胖FMVP归属争议",
+      "topic_id": "231522ca5c012b0676fd9f9eb206a1a8707567"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#警方启动复核公职人员醉驾致死案#",
+      "rank": 38,
+      "title": "警方启动复核公职人员醉驾致死案",
+      "topic_id": "231522b401c0e67d671c1732d9604cf926ed0d"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "孙俪收养的流浪猫去世",
+      "rank": 39,
+      "title": "孙俪收养的流浪猫去世",
+      "topic_id": "2315227918e29ec4524e34795fadff49cda6fb"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "重庆狼队",
+      "rank": 40,
+      "title": "重庆狼队",
+      "topic_id": "23152269b3bf9df041866e8d1826870b20107b"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#萨巴伦卡彻底破防#",
+      "rank": 41,
+      "title": "萨巴伦卡彻底破防",
+      "topic_id": "23152217fad507a631e141040b4429f8a37c67"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#一个妈妈在家做烤串的视频火了#",
+      "rank": 42,
+      "title": "一个妈妈在家做烤串的视频火了",
+      "topic_id": "231522f7f176c826e1f7e2292bf44792a0d56a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#弹壳总冠军#",
+      "rank": 43,
+      "title": "弹壳总冠军",
+      "topic_id": "23152267996152ca7483b282636bdb3f3926cd"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#丁程鑫第一次舞台是伴舞青春修炼手册#",
+      "rank": 44,
+      "title": "丁程鑫第一次舞台是伴舞青春修炼手册",
+      "topic_id": "231522960e33e9b7d952111946e7a6876afc90"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#哈里王子回家被暂缓使用殿下头衔#",
+      "rank": 45,
+      "title": "哈里王子回家被暂缓使用殿下头衔",
+      "topic_id": "2315227fda86ff32ce2b7fa75945830dbc533d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#付航回应脱口秀禁黄牛票入场#",
+      "rank": 46,
+      "title": "付航回应脱口秀禁黄牛票入场",
+      "topic_id": "231522d724a9f9f8aba117c4ba2c9530342ef7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "威尼斯电影节获奖名单",
+      "rank": 47,
+      "title": "威尼斯电影节获奖名单",
+      "topic_id": "231522bb233f4d9016824b3885a843607543b5"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#美考虑动用国防生产法扩大炼油产能#",
+      "rank": 48,
+      "title": "美考虑动用国防生产法扩大炼油产能",
+      "topic_id": "23152293bfba0765b627925d356ccf42b42189"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "敬一丹 焦点访谈",
+      "rank": 49,
+      "title": "敬一丹 焦点访谈",
+      "topic_id": "23152240f4e4416e61f6b728ff3f6c6909df19"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#HYROX女选手赛场失禁引争议#",
+      "rank": 50,
+      "title": "HYROX女选手赛场失禁引争议",
+      "topic_id": "2315227e2dd523035e92be29bb2204c0637137"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 0.9803921568627451,
+      "metrics": 0.9803921568627451,
+      "posts": 0.9803921568627451
+    }
+  }
+}
