@@ -1,0 +1,537 @@
+{
+  "captured_at": "2026-09-13T11:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 48,
+    "ai_unchanged": 1,
+    "metrics_saved": 50,
+    "posts_saved": 50
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#金砖国家要勇做这4方面的先锋力量#",
+      "rank": 1,
+      "title": "金砖国家要勇做这4方面的先锋力量",
+      "topic_id": "2315225bac04755983700680d2fd3371629917"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#小七龄童去世#",
+      "rank": 1,
+      "title": "小七龄童去世",
+      "topic_id": "231522d219d78ac879cdb6e8b87d3a4cf13770"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#白岩松悼念敬一丹#",
+      "rank": 2,
+      "title": "白岩松悼念敬一丹",
+      "topic_id": "2315228e3dbd7e57a0b8faccadf85921f9ae90"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 7,
+      "posts": "saved",
+      "query": "#平陆运河真的做到了#",
+      "rank": 3,
+      "title": "平陆运河真的做到了",
+      "topic_id": "2315220fc8a6516039cdd23dbeb5f11a61a3b0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#海姆立克急救法变了#",
+      "rank": 4,
+      "title": "海姆立克急救法变了",
+      "topic_id": "23152246e897ccd625f3e5700a7e71eba9c287"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#男生复读一年再次考上北大父亲发声#",
+      "rank": 5,
+      "title": "男生复读一年再次考上北大父亲发声",
+      "topic_id": "231522529105a2d90533afcd0c7ce6f7b55f9b"
+    },
+    {
+      "ai": "pending",
+      "metrics": "failed",
+      "metrics_error": "TopicFetchError: Topic detail is missing a stable id or title",
+      "posts": "pending",
+      "query": "敬一丹去世",
+      "rank": 6,
+      "title": "敬一丹去世"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "张国伟感恩举国体制",
+      "rank": 7,
+      "title": "张国伟感恩举国体制",
+      "topic_id": "231522236d3a416fa38934e6122c4abf3066ee"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "吃得越狠老得越慢",
+      "rank": 8,
+      "title": "吃得越狠老得越慢",
+      "topic_id": "2315228040e1b8c7f0cba80e07b267b3f894a0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#赵雷当爸爸了#",
+      "rank": 9,
+      "title": "赵雷当爸爸了",
+      "topic_id": "231522d9d616948621d1a89627459e196358b0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#许兰香被强取豪夺#",
+      "rank": 10,
+      "title": "许兰香被强取豪夺",
+      "topic_id": "2315224c50f9eb7ea128bbe864a7810cb0f368"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#多位主持人发文悼念敬一丹#",
+      "rank": 11,
+      "title": "多位主持人发文悼念敬一丹",
+      "topic_id": "231522e4515c55e77aabe00e97f2588553fe2d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "祝绪丹 杨幂",
+      "rank": 12,
+      "title": "祝绪丹 杨幂",
+      "topic_id": "2315227541e63b5f5b46a64e4ca7724260347e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#死亡女婴气管导管吸出奶渣样物体#",
+      "rank": 13,
+      "title": "死亡女婴气管导管吸出奶渣样物体",
+      "topic_id": "2315221dbb9441c465a9713bd1293ae7edfb62"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张国伟说别断了贫穷孩子的上升途径#",
+      "rank": 14,
+      "title": "张国伟说别断了贫穷孩子的上升途径",
+      "topic_id": "2315224ab1e5f5904e215c73903a8d5d1092df"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "iPhone18Pro 饥饿营销",
+      "rank": 15,
+      "title": "iPhone18Pro 饥饿营销",
+      "topic_id": "2315221fca29b460f86197ff91f514268c98f4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张杰我是歌手不是逗人的人#",
+      "rank": 16,
+      "title": "张杰我是歌手不是逗人的人",
+      "topic_id": "23152249dc0560ef920dc9252b1386f34da954"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#伊朗13岁女孩被美军在脸上留疤#",
+      "rank": 17,
+      "title": "伊朗13岁女孩被美军在脸上留疤",
+      "topic_id": "231522e8cb3ea7bcd88400742de6005ddabcfe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#什么样的酒局让公职人员喝到醉驾#",
+      "rank": 18,
+      "title": "什么样的酒局让公职人员喝到醉驾",
+      "topic_id": "231522860eb0a34f11bc9402089e0c35d41da7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 6,
+      "posts": "saved",
+      "query": "#30家药企围猎1家医院#",
+      "rank": 19,
+      "title": "30家药企围猎1家医院",
+      "topic_id": "231522d46a4b924012b589231d8df2fd349deb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#大学宿舍搬进商品房了#",
+      "rank": 20,
+      "title": "大学宿舍搬进商品房了",
+      "topic_id": "231522c443d2adb1a19b7e6b3d1b1569576109"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#敬一丹发的最后1条视频是探望蔡磊#",
+      "rank": 21,
+      "title": "敬一丹发的最后1条视频是探望蔡磊",
+      "topic_id": "231522df17b187f5af9fadf6b9e4982278ad48"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "选手失禁坚持完赛 赛事方全面消杀",
+      "rank": 22,
+      "title": "选手失禁坚持完赛 赛事方全面消杀",
+      "topic_id": "231522e68f1ed827741c0e23f7e12657fcf095"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "郭文韬 蒲熠星",
+      "rank": 23,
+      "title": "郭文韬 蒲熠星",
+      "topic_id": "2315220630a647739ceb71a4d43fdd8a9ef2f1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#敬一丹3个月前突发脑出血#",
+      "rank": 24,
+      "title": "敬一丹3个月前突发脑出血",
+      "topic_id": "231522734b554d7275da3849f31f7e59f144e6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#男子考公考编双第一却因心电图被刷#",
+      "rank": 25,
+      "title": "男子考公考编双第一却因心电图被刷",
+      "topic_id": "23152218568b79f5faf3a05f46b1e5a978f1bf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "AI短剧 成瘾",
+      "rank": 26,
+      "title": "AI短剧 成瘾",
+      "topic_id": "23152213b4ff29c34ac1272de74cc5d0a9d675"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#蓝色iPhone18Pro更抢手#",
+      "rank": 27,
+      "title": "蓝色iPhone18Pro更抢手",
+      "topic_id": "231522005df5ad5200aa87307d1d9ede4a3989"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "刀郎音乐会一首没唱",
+      "rank": 28,
+      "title": "刀郎音乐会一首没唱",
+      "topic_id": "2315220a4e7dd3d90062a0aa8170c30485e305"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#弹壳总冠军#",
+      "rank": 29,
+      "title": "弹壳总冠军",
+      "topic_id": "23152267996152ca7483b282636bdb3f3926cd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "陈枫说胡锡进和稀泥",
+      "rank": 30,
+      "title": "陈枫说胡锡进和稀泥",
+      "topic_id": "2315220466caec2d44d3f0e677ecfbea82d54c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#浙江男生放弃北大复读考上图灵班#",
+      "rank": 31,
+      "title": "浙江男生放弃北大复读考上图灵班",
+      "topic_id": "231522248077b14969b7ea17d37415c5ccd543"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "孙千早春晴朗开会胡说八道",
+      "rank": 32,
+      "title": "孙千早春晴朗开会胡说八道",
+      "topic_id": "231522bd9ad8c40d7ecf100c683a0443c2b94e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#HYROX女选手回应失禁完赛夺冠#",
+      "rank": 33,
+      "title": "HYROX女选手回应失禁完赛夺冠",
+      "topic_id": "2315224e41fb05fef6bc6d8366c2997671f842"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#TOP终于有消息了#",
+      "rank": 34,
+      "title": "TOP终于有消息了",
+      "topic_id": "231522e3867da7e0b884a7c17496f73beff805"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#男子被女友杀害分尸案细节曝光#",
+      "rank": 35,
+      "title": "男子被女友杀害分尸案细节曝光",
+      "topic_id": "23152262f46f14e0c45f08b636a9f81c781312"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "莱巴金娜美网夺冠登顶世界第一",
+      "rank": 36,
+      "title": "莱巴金娜美网夺冠登顶世界第一",
+      "topic_id": "231522925eaa0cf4e013905c27a86dc5094c0a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#敬一丹28岁3战考研圆梦#",
+      "rank": 37,
+      "title": "敬一丹28岁3战考研圆梦",
+      "topic_id": "231522a23552898daf7542b3f1f884f22d2270"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#敬一丹曾放弃采访目睹父亲遇难女孩#",
+      "rank": 38,
+      "title": "敬一丹曾放弃采访目睹父亲遇难女孩",
+      "topic_id": "231522eab42ddb5f16db086773dbc079749e7b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "红掌",
+      "rank": 39,
+      "title": "红掌",
+      "topic_id": "2315223a9c5370d91d63a8069a47eeeed4e88e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 8,
+      "posts": "saved",
+      "query": "#必须彻查公职人员醉驾致死背后酒局#",
+      "rank": 40,
+      "title": "必须彻查公职人员醉驾致死背后酒局",
+      "topic_id": "231522dd6011e6094449149a64e6423817a43e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#萨巴伦卡回应不敌莱巴金娜#",
+      "rank": 41,
+      "title": "萨巴伦卡回应不敌莱巴金娜",
+      "topic_id": "231522fda459466c0cf0b35e179568386cfd18"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#中国方案将持续为金砖合作贡献力量#",
+      "rank": 42,
+      "title": "中国方案将持续为金砖合作贡献力量",
+      "topic_id": "231522228eef320f4b61e40e6718d13bf0c648"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#刘宇宁直播隔壁又打起来了#",
+      "rank": 43,
+      "title": "刘宇宁直播隔壁又打起来了",
+      "topic_id": "231522d5a78b18f88aaf34da7ed15cb1a45745"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#大姐购房父亲将402万房款分给两妹妹#",
+      "rank": 44,
+      "title": "大姐购房父亲将402万房款分给两妹妹",
+      "topic_id": "2315223d3dc392d0eb555788f24a5caa8c6e34"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#市场监管局回应烧烤店2个月被查15次#",
+      "rank": 45,
+      "title": "市场监管局回应烧烤店2个月被查15次",
+      "topic_id": "231522307ab6c6ebc4c1f677fe094c7378db77"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#敬一丹最后一次录节目#",
+      "rank": 46,
+      "title": "敬一丹最后一次录节目",
+      "topic_id": "231522b9b098277795419db3b7a5e6c2e5f6a4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#敬一丹曾说对年龄有点迟钝#",
+      "rank": 47,
+      "title": "敬一丹曾说对年龄有点迟钝",
+      "topic_id": "2315226aa5f4b1e1e7dccec192e907abf0e141"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#敬一丹生平#",
+      "rank": 48,
+      "title": "敬一丹生平",
+      "topic_id": "23152255f63291012bef24bb72728e843e8d48"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#胡塞称沙特48小时129次空袭也门#",
+      "rank": 49,
+      "title": "胡塞称沙特48小时129次空袭也门",
+      "topic_id": "231522d203cdf6a86d9b7105e959bed45e4827"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#胡塞武装警告沙特#",
+      "rank": 50,
+      "title": "胡塞武装警告沙特",
+      "topic_id": "231522ab621bc2b9c4516f11078ac35739b769"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 0.9803921568627451,
+      "metrics": 0.9803921568627451,
+      "posts": 0.9803921568627451
+    }
+  }
+}

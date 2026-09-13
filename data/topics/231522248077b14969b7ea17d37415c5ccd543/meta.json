@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1847582585
   },
-  "last_seen_at": "2026-09-13T09:00:00+08:00",
+  "last_seen_at": "2026-09-13T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%B5%99%E6%B1%9F%E7%94%B7%E7%94%9F%E6%94%BE%E5%BC%83%E5%8C%97%E5%A4%A7%E5%A4%8D%E8%AF%BB%E8%80%83%E4%B8%8A%E5%9B%BE%E7%81%B5%E7%8F%AD%23%26t%3D3&title=发布媒体",
-    "show_str": "24家媒体",
+    "show_str": "50家媒体",
     "users": [
       {
         "id": 1847582585,
         "idstr": "1847582585",
         "screen_name": "都市快报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1744332207,
+        "idstr": "1744332207",
+        "screen_name": "钱江视频",
         "verified": true,
         "verified_type": 3
       },
@@ -37,16 +44,9 @@
         "verified_type": 3
       },
       {
-        "id": 6225118126,
-        "idstr": "6225118126",
-        "screen_name": "好奇实验室LabCurio",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2655668590,
-        "idstr": "2655668590",
-        "screen_name": "城报",
+        "id": 1960785875,
+        "idstr": "1960785875",
+        "screen_name": "津云新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -58,9 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 6966062673,
-        "idstr": "6966062673",
-        "screen_name": "大河报邻妹妹",
+        "id": 6225118126,
+        "idstr": "6225118126",
+        "screen_name": "好奇实验室LabCurio",
         "verified": true,
         "verified_type": 3
       }
