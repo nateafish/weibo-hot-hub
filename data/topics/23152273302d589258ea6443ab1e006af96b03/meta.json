@@ -10,16 +10,24 @@
     "status": 2,
     "uid": 6364463714
   },
-  "last_seen_at": "2026-09-14T06:00:00+08:00",
+  "last_seen_at": "2026-09-14T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9B%BC%E8%81%940%E6%AF%941%E6%9B%BC%E5%9F%8E%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "1家媒体",
+    "users": [
+      {
+        "id": 6299534218,
+        "idstr": "6299534218",
+        "screen_name": "北青体育",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#曼联0比1曼城#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E6%9B%BC%E8%81%940%E6%AF%941%E6%9B%BC%E5%9F%8E%23",
   "sub_category": null,
-  "summary": "独家看中超就在咪咕！",
+  "summary": "英超第 4 轮曼市德比，曼城做客老特拉福德。凭借哈兰德的进球，曼城客场拿下第199次曼市德比的胜利，同时豪取新赛季英超四连胜！",
   "title": "曼联0比1曼城",
   "topic_id": "23152273302d589258ea6443ab1e006af96b03"
 }
