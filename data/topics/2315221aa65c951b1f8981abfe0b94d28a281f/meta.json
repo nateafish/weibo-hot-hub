@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1734530730
   },
-  "last_seen_at": "2026-09-13T19:00:00+08:00",
+  "last_seen_at": "2026-09-13T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E7%9A%84%E5%85%AB%E8%A7%92%E6%95%B0%E5%87%BA13%E4%B8%AA%E8%A7%92%E7%AB%9F%E6%9C%89%E5%89%A7%E6%AF%92%23%26t%3D3&title=发布媒体",
-    "show_str": "24家媒体",
+    "show_str": "30家媒体",
     "users": [
       {
         "id": 1734530730,
@@ -26,6 +26,13 @@
         "id": 1651428902,
         "idstr": "1651428902",
         "screen_name": "21世纪经济报道",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3919603060,
+        "idstr": "3919603060",
+        "screen_name": "内蒙古日报",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 7308140398,
+        "idstr": "7308140398",
+        "screen_name": "大象新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6966062673,
         "idstr": "6966062673",
         "screen_name": "大河报邻妹妹",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6444725927,
-        "idstr": "6444725927",
-        "screen_name": "吉祥新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5396094153,
-        "idstr": "5396094153",
-        "screen_name": "大众新闻-大众日报",
         "verified": true,
         "verified_type": 3
       }

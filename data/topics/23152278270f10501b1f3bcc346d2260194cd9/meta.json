@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2318910945
   },
-  "last_seen_at": "2026-09-13T19:00:00+08:00",
+  "last_seen_at": "2026-09-13T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%AC%A1%E8%AE%A9%E8%8B%B1%E5%9B%BD%E9%9A%BE%E5%A0%AA%23%26t%3D3&title=发布媒体",
-    "show_str": "7家媒体",
+    "show_str": "11家媒体",
     "users": [
       {
         "id": 2318910945,
@@ -26,6 +26,20 @@
         "id": 1887344341,
         "idstr": "1887344341",
         "screen_name": "观察者网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7476748260,
+        "idstr": "7476748260",
+        "screen_name": "大公文匯網",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6715513747,
+        "idstr": "6715513747",
+        "screen_name": "宁县融媒",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 2375086267,
         "idstr": "2375086267",
         "screen_name": "参考消息",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1398613133,
-        "idstr": "1398613133",
-        "screen_name": "马上资讯",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1280846847,
-        "idstr": "1280846847",
-        "screen_name": "指尖新闻-沈阳晚报",
         "verified": true,
         "verified_type": 3
       }

@@ -3,10 +3,10 @@
   "created_at": 1789296606,
   "first_seen_at": "2026-09-13T19:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-13T19:00:00+08:00",
+  "last_seen_at": "2026-09-13T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%B0%AD%E6%9D%BE%E9%9F%B5+%E6%89%9B%E5%89%A7%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "6家媒体",
     "users": [
       {
         "id": 7735267339,
@@ -16,9 +16,23 @@
         "verified_type": 2
       },
       {
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1936119834,
         "idstr": "1936119834",
         "screen_name": "河北长城网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1880922220,
+        "idstr": "1880922220",
+        "screen_name": "金华晚报",
         "verified": true,
         "verified_type": 3
       },
