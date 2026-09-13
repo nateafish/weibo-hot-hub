@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 5943595658
   },
-  "last_seen_at": "2026-09-13T22:00:00+08:00",
+  "last_seen_at": "2026-09-14T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%89%E5%A4%A7AI%E5%B7%A8%E5%A4%B4%E8%81%94%E6%89%8B%E5%91%BC%E5%90%81%E6%94%BE%E7%BC%93%E5%BC%80%E5%8F%91%E6%AD%A5%E4%BC%90%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "7家媒体",
     "users": [
       {
         "id": 5943595658,
         "idstr": "5943595658",
         "screen_name": "一手Video",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1651428902,
+        "idstr": "1651428902",
+        "screen_name": "21世纪经济报道",
         "verified": true,
         "verified_type": 3
       },
@@ -33,6 +40,27 @@
         "id": 1987235622,
         "idstr": "1987235622",
         "screen_name": "丹阳日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1943154142,
+        "idstr": "1943154142",
+        "screen_name": "中安在线",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1708763410,
+        "idstr": "1708763410",
+        "screen_name": "浙江日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1280846847,
+        "idstr": "1280846847",
+        "screen_name": "指尖新闻-沈阳晚报",
         "verified": true,
         "verified_type": 3
       }
