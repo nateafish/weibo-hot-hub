@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 5943595658
   },
-  "last_seen_at": "2026-09-13T11:00:00+08:00",
+  "last_seen_at": "2026-09-13T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%93%9D%E8%89%B2iPhone18Pro%E6%9B%B4%E6%8A%A2%E6%89%8B%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "10家媒体",
     "users": [
       {
         "id": 5943595658,
         "idstr": "5943595658",
         "screen_name": "一手Video",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6982382342,
+        "idstr": "6982382342",
+        "screen_name": "搜狐科技",
         "verified": true,
         "verified_type": 3
       },
@@ -37,9 +44,23 @@
         "verified_type": 3
       },
       {
+        "id": 2594033604,
+        "idstr": "2594033604",
+        "screen_name": "晨报体育",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2027480085,
         "idstr": "2027480085",
         "screen_name": "水母网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2027257301,
+        "idstr": "2027257301",
+        "screen_name": "官方新闻晨报旅游周刊",
         "verified": true,
         "verified_type": 3
       }

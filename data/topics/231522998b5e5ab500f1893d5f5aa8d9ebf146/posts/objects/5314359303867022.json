@@ -1,0 +1,8 @@
+{
+  "body": "Apple最近出现了一起非常严重 ，非常大规模的Apple内部开发版本（Internal Build）被泄露资料的事件，部分关于iPhone18Pro的图纸设计也被公开了。\n第一个有用的信息（图1-泄露图纸）\n最有价值的就是图1，能从图纸中看出来iPhone18Pro处理器 A20Pro采用了新的WMCM的封装，就是CPU在左侧，DRAM在右边封装，类似于iPadPro和MacBook采用的处理器封装方式一致。（请看图2），给可以给SOC进行金属封装，做更好的散热，做更好的均热体验。\n第二个有用的信息（图2-我用AI生成的拼接图）：\nA20 Pro：WMCM + LPDDR6 + 96-bit 内存总线，而 LPDDR6 标准最大的变化之一，就是每个 Channel 从 16-bit 提升到 24-bit，同样是 4 个通道标准下，LPDDR6 的总位宽就比 LPDDR5X 提高了 50%的处理总量。\n对于 AI 推理来说，很多时候瓶颈不是 CPU，而是 DRAM 的带宽，96-bit 相比传统 64-bit，带宽提升约 50%，Neural Engine 更容易持续\"吃满\"数据，GPU 纹理读取速度更高，整体AI的响应和数据处理，都远超于A19Pro的这一代。\n而WMCM的封装，有一个巨大的好处就是可以放置两颗甚至更多内存封装，SOC的周边可以排放2个 ，4个 甚至几十个DRAM的内存封装。考虑到iPhone的PCB位置有限，最终iPhone放的是2个DRAM的内存封装，这种双RAM封装的工艺，不仅仅实现16G RAM 的总量，也可以在交换数据线的时候提升速度。\n简单的说，iPadPro 的DRAM 封装技术 和 高DRAM 未来都可以在iPhone上实现了。更好的散热，更高的RAM总量，更快的LPDDR6 。",
+  "created_at_text": "Sat Jun 27 09:57:37 +0800 2026",
+  "mid": "5314359303867022",
+  "uid": "2575008657",
+  "url": "https://m.weibo.cn/detail/5314359303867022",
+  "username": "麦子俊i"
+}
