@@ -3,11 +3,18 @@
   "created_at": 1789235262,
   "first_seen_at": "2026-09-13T03:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-13T07:00:00+08:00",
+  "last_seen_at": "2026-09-13T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%90%83%E5%BE%97%E8%B6%8A%E7%8B%A0%E8%80%81%E5%BE%97%E8%B6%8A%E6%85%A2%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "17家媒体",
     "users": [
+      {
+        "id": 1774057271,
+        "idstr": "1774057271",
+        "screen_name": "生命时报",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2105365573,
         "idstr": "2105365573",
@@ -16,16 +23,37 @@
         "verified_type": 3
       },
       {
-        "id": 1913382117,
-        "idstr": "1913382117",
-        "screen_name": "深圳晚报",
+        "id": 7387466437,
+        "idstr": "7387466437",
+        "screen_name": "墨江融媒",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1751714412,
-        "idstr": "1751714412",
-        "screen_name": "大皖新闻",
+        "id": 6105713761,
+        "idstr": "6105713761",
+        "screen_name": "红星新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3514732862,
+        "idstr": "3514732862",
+        "screen_name": "广西日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3288875501,
+        "idstr": "3288875501",
+        "screen_name": "河南日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2191398120,
+        "idstr": "2191398120",
+        "screen_name": "成都商报美食",
         "verified": true,
         "verified_type": 3
       }

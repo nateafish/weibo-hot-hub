@@ -3,11 +3,33 @@
   "created_at": 1789255139,
   "first_seen_at": "2026-09-13T07:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-13T07:00:00+08:00",
+  "last_seen_at": "2026-09-13T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23iPhone18Pro+%E8%8B%B9%E6%9E%9C%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "3家媒体",
+    "users": [
+      {
+        "id": 3514732862,
+        "idstr": "3514732862",
+        "screen_name": "广西日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2813313591,
+        "idstr": "2813313591",
+        "screen_name": "中新网海南",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1314608344,
+        "idstr": "1314608344",
+        "screen_name": "新闻晨报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "iPhone18Pro 苹果",
   "search_url": "https://s.weibo.com/weibo?q=%23iphone18pro%20%E8%8B%B9%E6%9E%9C%23",

@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1744332207
   },
-  "last_seen_at": "2026-09-13T07:00:00+08:00",
+  "last_seen_at": "2026-09-13T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A5%B3%E5%AD%90%E6%95%A3%E6%AD%A5%E8%A2%AB%E8%9D%99%E8%9D%A0%E6%92%9E%E8%84%B8%E8%BF%9E%E5%A4%9C%E6%89%93%E7%8B%82%E7%8A%AC%E7%96%AB%E8%8B%97%23%26t%3D3&title=发布媒体",
-    "show_str": "10家媒体",
+    "show_str": "23家媒体",
     "users": [
       {
         "id": 1744332207,
@@ -30,6 +30,13 @@
         "verified_type": 3
       },
       {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 5325240805,
         "idstr": "5325240805",
         "screen_name": "铁骥视频海外频道",
@@ -37,30 +44,23 @@
         "verified_type": 3
       },
       {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1657914910,
+        "idstr": "1657914910",
+        "screen_name": "烟台日报社大小新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7466959462,
         "idstr": "7466959462",
         "screen_name": "钱江频道-九点半",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2641938167,
-        "idstr": "2641938167",
-        "screen_name": "绍虞城事通视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2105365573,
-        "idstr": "2105365573",
-        "screen_name": "威海播报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2076296802,
-        "idstr": "2076296802",
-        "screen_name": "浙江名医馆",
         "verified": true,
         "verified_type": 3
       }
