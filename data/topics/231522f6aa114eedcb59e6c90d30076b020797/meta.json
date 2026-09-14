@@ -3,11 +3,19 @@
   "created_at": 1789404042,
   "first_seen_at": "2026-09-15T01:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-15T06:00:00+08:00",
+  "last_seen_at": "2026-09-15T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%BB%84%E6%96%8C%E5%85%AC%E5%BC%80%E7%82%AE%E8%BD%B0%E7%BD%97%E6%B0%B8%E6%B5%A9%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "1家媒体",
+    "users": [
+      {
+        "id": 1938424152,
+        "idstr": "1938424152",
+        "screen_name": "搜狐财经",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "黄斌公开炮轰罗永浩",
   "search_url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%96%8C%E5%85%AC%E5%BC%80%E7%82%AE%E8%BD%B0%E7%BD%97%E6%B0%B8%E6%B5%A9%23",

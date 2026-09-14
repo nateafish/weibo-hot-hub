@@ -1,0 +1,537 @@
+{
+  "captured_at": "2026-09-15T07:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 38,
+    "ai_unchanged": 11,
+    "metrics_saved": 50,
+    "posts_saved": 50
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#习近平主席引领大金砖合作开启新篇章#",
+      "rank": 1,
+      "title": "习近平主席引领大金砖合作开启新篇章",
+      "topic_id": "23152252b417214b7842aaaca9a7f14de23f55"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "黄斌公开炮轰罗永浩",
+      "rank": 1,
+      "title": "黄斌公开炮轰罗永浩",
+      "topic_id": "231522f6aa114eedcb59e6c90d30076b020797"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#我国灵活就业人员规模已超过2亿人#",
+      "rank": 2,
+      "title": "我国灵活就业人员规模已超过2亿人",
+      "topic_id": "231522467f6af803363d3d22b10190cf490633"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#网络安全宣传周亮点揭秘#",
+      "rank": 3,
+      "title": "网络安全宣传周亮点揭秘",
+      "topic_id": "2315227a0320c820cbe8ef3d549dc5e80d774f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#猕猴桃是全世界最团结的水果#",
+      "rank": 4,
+      "title": "猕猴桃是全世界最团结的水果",
+      "topic_id": "231522551281d0df31849b450d2f8c7e1b0ea2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "终于知道为什么有人工作能力这么强",
+      "rank": 5,
+      "title": "终于知道为什么有人工作能力这么强",
+      "topic_id": "2315224b995425600c78f88b7a075fbf58488c"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "美股",
+      "rank": 6,
+      "title": "美股",
+      "topic_id": "231522d0df61567e5cfbf00ac015762e6d6398"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "刘学义郑合惠子 cp感玄学",
+      "rank": 7,
+      "title": "刘学义郑合惠子 cp感玄学",
+      "topic_id": "2315222513beb34bc02ab2e3aebc1b71be3a7b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "脑梗前三天身体发出的预警",
+      "rank": 8,
+      "title": "脑梗前三天身体发出的预警",
+      "topic_id": "231522cc010406cb8ffa751d2516d75d0f219e"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#海南大暴雨特大暴雨#",
+      "rank": 9,
+      "title": "海南大暴雨特大暴雨",
+      "topic_id": "23152282259c1556081926cd8edac648cad3c3"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "鞠婧祎这是拍戏还是蹦极",
+      "rank": 10,
+      "title": "鞠婧祎这是拍戏还是蹦极",
+      "topic_id": "23152201ecf103c00f36f2399d22937ba13f55"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "疑似中国籍教练印尼射杀玳瑁",
+      "rank": 11,
+      "title": "疑似中国籍教练印尼射杀玳瑁",
+      "topic_id": "231522ab2be505f18f47631ee8e7c481b2088c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "宋祖儿 赖雨濛",
+      "rank": 12,
+      "title": "宋祖儿 赖雨濛",
+      "topic_id": "2315227468a6fcc0f0307998d05bb0300eae3f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#自称演唱会求婚事件当事人发声#",
+      "rank": 13,
+      "title": "自称演唱会求婚事件当事人发声",
+      "topic_id": "231522d35e60ff0dd7575f0bb92b45d94d304f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "罗永浩 黄斌",
+      "rank": 14,
+      "title": "罗永浩 黄斌",
+      "topic_id": "23152263c283d5ca8d304baabff7133c835fad"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#野人先生店员称不知道罗永浩是谁#",
+      "rank": 15,
+      "title": "野人先生店员称不知道罗永浩是谁",
+      "topic_id": "23152236007feafa2bd019cebf43981047230c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#女子因7旬老人居住环境脏乱捅其6刀#",
+      "rank": 16,
+      "title": "女子因7旬老人居住环境脏乱捅其6刀",
+      "topic_id": "231522a3927315c0ecdd54fe6b2195e51e0111"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#郑合惠子一出场刘学义都变帅了#",
+      "rank": 17,
+      "title": "郑合惠子一出场刘学义都变帅了",
+      "topic_id": "231522a3020806bb1c21b46923117d716beec4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "iOS升级包版本显示Bug",
+      "rank": 18,
+      "title": "iOS升级包版本显示Bug",
+      "topic_id": "231522360a49ae560a9d3ecc2a7721e0bdb517"
+    },
+    {
+      "ai": "pending",
+      "metrics": "failed",
+      "metrics_error": "TopicFetchError: Topic detail is missing a stable id or title",
+      "posts": "pending",
+      "query": "崔永元发文悼念敬一丹",
+      "rank": 19,
+      "title": "崔永元发文悼念敬一丹"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#演唱会求婚为什么越来越招人烦#",
+      "rank": 20,
+      "title": "演唱会求婚为什么越来越招人烦",
+      "topic_id": "231522d6b9279b917986f9487f92ced8e8c5b9"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "面试完才懂关系户有多动人",
+      "rank": 21,
+      "title": "面试完才懂关系户有多动人",
+      "topic_id": "231522c5921667cc78402d85668e4ed52c4778"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "失业三个月免费烘焙课遇到认真老师",
+      "rank": 22,
+      "title": "失业三个月免费烘焙课遇到认真老师",
+      "topic_id": "23152251c04f2c0c7233d5fb39bfa90bbaef84"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#苹果回应iPhone18Pro破发#",
+      "rank": 23,
+      "title": "苹果回应iPhone18Pro破发",
+      "topic_id": "23152275f2fad9cedd7c763d388f782a8eb27f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "不要轻易向任何人输出观点",
+      "rank": 24,
+      "title": "不要轻易向任何人输出观点",
+      "topic_id": "2315226f85018aacc821968cb2e6c475c0379d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "年轻人长期熬夜后的精神状态",
+      "rank": 25,
+      "title": "年轻人长期熬夜后的精神状态",
+      "topic_id": "23152207b8a9cb676b3b2e3af5d60fd83dfc05"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "兰香如故",
+      "rank": 26,
+      "title": "兰香如故",
+      "topic_id": "231522c6a223bd3a54fc2af87227153bdbc48d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#搜泸州跳出泸州东站一车人全买错票#",
+      "rank": 27,
+      "title": "搜泸州跳出泸州东站一车人全买错票",
+      "topic_id": "231522dd1214c64dae63c6dd8f363df8d6be1f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#小区售水机的水还敢喝吗#",
+      "rank": 28,
+      "title": "小区售水机的水还敢喝吗",
+      "topic_id": "231522df22e3762923c2bf1c62a697cd25db4d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#井柏然曾被问有没有爱上过对手#",
+      "rank": 29,
+      "title": "井柏然曾被问有没有爱上过对手",
+      "topic_id": "231522021ef3c3775e1a3b5391e29f95aa00e2"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#杭州有股民两周亏200多万#",
+      "rank": 30,
+      "title": "杭州有股民两周亏200多万",
+      "topic_id": "231522e0a6e3ba6054eeec7cecb78024f97175"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#艾滋病会通过接吻传播吗#",
+      "rank": 31,
+      "title": "艾滋病会通过接吻传播吗",
+      "topic_id": "231522dd730179b6ccb6a50af8be9b933afe79"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#男子在公园钓到大鱼火速逃跑#",
+      "rank": 32,
+      "title": "男子在公园钓到大鱼火速逃跑",
+      "topic_id": "23152205a79112f3073b77aebfe46e68f81c89"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#韩国三星食堂的午餐#",
+      "rank": 33,
+      "title": "韩国三星食堂的午餐",
+      "topic_id": "2315220f22853b43772ce9b849772601fae3f3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#韩球员因亚运会住宿差公开求助#",
+      "rank": 34,
+      "title": "韩球员因亚运会住宿差公开求助",
+      "topic_id": "23152204b1cd9e41b092f6734dfd41e19de444"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#碘缺乏是甲状腺结节的危险因素#",
+      "rank": 35,
+      "title": "碘缺乏是甲状腺结节的危险因素",
+      "topic_id": "23152217525bddf8438c8d5a927674e62359c2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "有些话能让你一瞬间清醒",
+      "rank": 36,
+      "title": "有些话能让你一瞬间清醒",
+      "topic_id": "231522d367f081fc8317908738e0c5eff52cbe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "广汽 重组",
+      "rank": 37,
+      "title": "广汽 重组",
+      "topic_id": "2315227b8ea7835a6cfa6d706ef4ab583eceaa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#五指山暴雨打破1958年以来历史纪录#",
+      "rank": 38,
+      "title": "五指山暴雨打破1958年以来历史纪录",
+      "topic_id": "231522bf489b46f7de3972046304ce946cfa0a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "40岁化妆师教你如何打造专业级底妆",
+      "rank": 39,
+      "title": "40岁化妆师教你如何打造专业级底妆",
+      "topic_id": "23152244982b6bb889bb10c5f36a171db1863b"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#现在AI视频越来越邪门了#",
+      "rank": 40,
+      "title": "现在AI视频越来越邪门了",
+      "topic_id": "231522890c02b6ab453a71076501e0b3f2187d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "人这一生最要紧的就是学会跑路",
+      "rank": 41,
+      "title": "人这一生最要紧的就是学会跑路",
+      "topic_id": "2315224c6cfd7317b5d30cdd43668c70ac3b02"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#未来五年扩招医学本科和硕士#",
+      "rank": 42,
+      "title": "未来五年扩招医学本科和硕士",
+      "topic_id": "231522956aa1a27c99759a03a5eddb5d70cdef"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#父亲撞死人儿子顶包全家串供#",
+      "rank": 43,
+      "title": "父亲撞死人儿子顶包全家串供",
+      "topic_id": "23152246d570e9c08d85664c0f44a21f0eb40c"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#DeepSeek深夜服务崩溃#",
+      "rank": 44,
+      "title": "DeepSeek深夜服务崩溃",
+      "topic_id": "23152281514a91ac23df352c6cbfa23a4565dd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 6,
+      "posts": "saved",
+      "query": "#地铁上两个老外拍视频靠在女孩肩膀上#",
+      "rank": 45,
+      "title": "地铁上两个老外拍视频靠在女孩肩膀上",
+      "topic_id": "23152268576903918d2d182ef4d4b39da4f717"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "兰香如故热度",
+      "rank": 46,
+      "title": "兰香如故热度",
+      "topic_id": "23152235f393d2c1c85a0fb85e75bf19cc3b50"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#人民日报点名三件流量炒作事件#",
+      "rank": 47,
+      "title": "人民日报点名三件流量炒作事件",
+      "topic_id": "231522973fbd82fdee7060376af46f9dd287bc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#兰香如故把男主改成处男#",
+      "rank": 48,
+      "title": "兰香如故把男主改成处男",
+      "topic_id": "2315228910ad696aeca16ab316ee4acac2ed36"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "美联储加息预期升温金价跌了",
+      "rank": 49,
+      "title": "美联储加息预期升温金价跌了",
+      "topic_id": "23152269318140fd4bc8fb44983ce017f43c91"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "生逢其时",
+      "rank": 50,
+      "title": "生逢其时",
+      "topic_id": "2315220308bc02d95a95ee2e60cda86f96c406"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 0.9803921568627451,
+      "metrics": 0.9803921568627451,
+      "posts": 0.9803921568627451
+    }
+  }
+}
