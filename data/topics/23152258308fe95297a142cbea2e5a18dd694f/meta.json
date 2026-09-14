@@ -3,15 +3,43 @@
   "created_at": 1789318494,
   "first_seen_at": "2026-09-14T02:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-14T07:00:00+08:00",
+  "last_seen_at": "2026-09-14T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E8%A5%BF%E7%8F%AD%E7%89%99%E6%8D%A7%E6%9D%AF%23%26t%3D3&title=发布媒体",
-    "show_str": "8家媒体",
+    "show_str": "21家媒体",
     "users": [
+      {
+        "id": 2075245652,
+        "idstr": "2075245652",
+        "screen_name": "长春晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1651428902,
+        "idstr": "1651428902",
+        "screen_name": "21世纪经济报道",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1899227237,
         "idstr": "1899227237",
         "screen_name": "青岛早报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7298805480,
+        "idstr": "7298805480",
+        "screen_name": "央视三农",
         "verified": true,
         "verified_type": 3
       },
@@ -23,37 +51,9 @@
         "verified_type": 3
       },
       {
-        "id": 2813313591,
-        "idstr": "2813313591",
-        "screen_name": "中新网海南",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2360016402,
-        "idstr": "2360016402",
-        "screen_name": "宁波日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2252846093,
-        "idstr": "2252846093",
-        "screen_name": "长春新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2115259662,
-        "idstr": "2115259662",
-        "screen_name": "洪观新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2105365573,
-        "idstr": "2105365573",
-        "screen_name": "威海播报",
+        "id": 5325717502,
+        "idstr": "5325717502",
+        "screen_name": "长江国际传播中心",
         "verified": true,
         "verified_type": 3
       }

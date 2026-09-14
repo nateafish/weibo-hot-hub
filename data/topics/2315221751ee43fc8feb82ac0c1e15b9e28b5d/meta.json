@@ -3,11 +3,18 @@
   "created_at": 1786918737,
   "first_seen_at": "2026-09-14T00:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-14T07:00:00+08:00",
+  "last_seen_at": "2026-09-14T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E7%99%BB%E9%A1%B6%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "4家媒体",
     "users": [
+      {
+        "id": 5866660310,
+        "idstr": "5866660310",
+        "screen_name": "台儿庄区融媒体中心",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 5325717502,
         "idstr": "5325717502",
@@ -19,6 +26,13 @@
         "id": 2356298087,
         "idstr": "2356298087",
         "screen_name": "河北经视",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
         "verified": true,
         "verified_type": 3
       }
