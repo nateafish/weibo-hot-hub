@@ -10,15 +10,43 @@
     "status": 2,
     "uid": 1845864154
   },
-  "last_seen_at": "2026-09-14T19:00:00+08:00",
+  "last_seen_at": "2026-09-14T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E5%A4%A7%E4%B8%93%E8%A2%AB%E5%A4%A7%E5%8E%82%E6%8B%92%E5%BD%95%E7%A1%95%E5%A3%AB%E5%8F%91%E5%A3%B0%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "21家媒体",
     "users": [
       {
         "id": 1845864154,
         "idstr": "1845864154",
         "screen_name": "看看新闻Knews",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497087080,
+        "idstr": "1497087080",
+        "screen_name": "羊城晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1938523582,
+        "idstr": "1938523582",
+        "screen_name": "宁波晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,16 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1989020644,
-        "idstr": "1989020644",
-        "screen_name": "STV新闻坊",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1925878362,
-        "idstr": "1925878362",
-        "screen_name": "SMGNEWS",
+        "id": 5044281310,
+        "idstr": "5044281310",
+        "screen_name": "澎湃新闻",
         "verified": true,
         "verified_type": 3
       }
