@@ -3,10 +3,10 @@
   "created_at": 1789355425,
   "first_seen_at": "2026-09-14T12:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-14T12:00:00+08:00",
+  "last_seen_at": "2026-09-14T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%8B%B1%E5%9B%BD%E9%81%AD%E5%8F%8D%E5%99%AC%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "8家媒体",
     "users": [
       {
         "id": 3037284894,
@@ -16,9 +16,23 @@
         "verified_type": 3
       },
       {
-        "id": 2685336121,
-        "idstr": "2685336121",
-        "screen_name": "南宁晚报",
+        "id": 1959444680,
+        "idstr": "1959444680",
+        "screen_name": "云南网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1882632930,
+        "idstr": "1882632930",
+        "screen_name": "新消息报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1720962692,
+        "idstr": "1720962692",
+        "screen_name": "极目新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -33,6 +47,13 @@
         "id": 1700720163,
         "idstr": "1700720163",
         "screen_name": "钱江晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       }
