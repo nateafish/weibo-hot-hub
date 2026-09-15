@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2318910945
   },
-  "last_seen_at": "2026-09-15T11:00:00+08:00",
+  "last_seen_at": "2026-09-15T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%93%88%E8%90%A8%E5%85%8B%E6%96%AF%E5%9D%A6%E6%89%A7%E5%8B%A4%E5%A5%B3%E8%AD%A6%E9%81%AD%E5%85%AC%E4%B8%BB%E6%8A%B1%E8%A2%AB%E5%BC%80%E9%99%A4%23%26t%3D3&title=发布媒体",
-    "show_str": "12家媒体",
+    "show_str": "14家媒体",
     "users": [
       {
         "id": 2318910945,
@@ -37,6 +37,20 @@
         "verified_type": 3
       },
       {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6890796357,
+        "idstr": "6890796357",
+        "screen_name": "日照日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2535760180,
         "idstr": "2535760180",
         "screen_name": "安徽视讯",
@@ -47,20 +61,6 @@
         "id": 2337985010,
         "idstr": "2337985010",
         "screen_name": "瑞安融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1937970942,
-        "idstr": "1937970942",
-        "screen_name": "海宁日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1895096900,
-        "idstr": "1895096900",
-        "screen_name": "深圳新闻网",
         "verified": true,
         "verified_type": 3
       }

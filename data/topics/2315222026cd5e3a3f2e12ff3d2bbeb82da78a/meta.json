@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 3847642518
   },
-  "last_seen_at": "2026-09-15T11:00:00+08:00",
+  "last_seen_at": "2026-09-15T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%99%BB%E8%B4%9D%E8%8E%B1%E5%9B%A0%E4%BA%89%E9%87%91%E7%90%83%E5%A5%96%E9%97%B9%E7%BF%BB%23%26t%3D3&title=发布媒体",
-    "show_str": "15家媒体",
+    "show_str": "53家媒体",
     "users": [
+      {
+        "id": 7590570074,
+        "idstr": "7590570074",
+        "screen_name": "山海视频",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2318910945,
         "idstr": "2318910945",
@@ -23,9 +30,16 @@
         "verified_type": 3
       },
       {
-        "id": 7590570074,
-        "idstr": "7590570074",
-        "screen_name": "山海视频",
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1714800385,
+        "idstr": "1714800385",
+        "screen_name": "第一帮帮团",
         "verified": true,
         "verified_type": 3
       },
@@ -37,20 +51,6 @@
         "verified_type": 3
       },
       {
-        "id": 5762891674,
-        "idstr": "5762891674",
-        "screen_name": "密度新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2685336121,
-        "idstr": "2685336121",
-        "screen_name": "南宁晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 2647971081,
         "idstr": "2647971081",
         "screen_name": "时速新闻",
@@ -58,11 +58,11 @@
         "verified_type": 3
       },
       {
-        "id": 2430699731,
-        "idstr": "2430699731",
-        "screen_name": "新浪足球",
+        "id": 2356298087,
+        "idstr": "2356298087",
+        "screen_name": "河北经视",
         "verified": true,
-        "verified_type": 7
+        "verified_type": 3
       }
     ]
   },
