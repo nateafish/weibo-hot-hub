@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-15T23:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#习近平南亚之行三大成果#",
+      "rank": 1,
+      "title": "习近平南亚之行三大成果",
+      "topic_id": "231522722ad4d0683835dca023435fc7762857"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "新能源汽车 燃油车",
+      "rank": 1,
+      "title": "新能源汽车 燃油车",
+      "topic_id": "23152212e13dcec5ea4a9938499f5aaedca7db"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#一劳永逸解决台湾问题#",
+      "rank": 2,
+      "title": "一劳永逸解决台湾问题",
+      "topic_id": "2315220633a0553b501db17c87c57efdf3427a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#长征高铁开行的背后#",
+      "rank": 3,
+      "title": "长征高铁开行的背后",
+      "topic_id": "231522c4cb30a7651f7385f08a37183074bc2e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "兰香如故破3万",
+      "rank": 4,
+      "title": "兰香如故破3万",
+      "topic_id": "2315227103362c17f45f795e453c5085c0d43b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "为什么现在都买电车了",
+      "rank": 5,
+      "title": "为什么现在都买电车了",
+      "topic_id": "23152210f7ec182b43dc0c305a321a2d606cf1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#钟薛高复活了#",
+      "rank": 6,
+      "title": "钟薛高复活了",
+      "topic_id": "2315225fafff8964c34f88b05d558de10dff29"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#网传刘亦菲陈晓咸雪导演伊峥#",
+      "rank": 7,
+      "title": "网传刘亦菲陈晓咸雪导演伊峥",
+      "topic_id": "231522f1bd36566def14f1eb961fcf51d6d415"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#苹果CEO展示iPhoneDuo时翻车#",
+      "rank": 8,
+      "title": "苹果CEO展示iPhoneDuo时翻车",
+      "topic_id": "231522f89d34e8cadb2f8e13701ac4183c2fd1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#我国人口总量14.05亿#",
+      "rank": 9,
+      "title": "我国人口总量14.05亿",
+      "topic_id": "23152286814fc3973c36171092aba90608a057"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "告别信",
+      "rank": 10,
+      "title": "告别信",
+      "topic_id": "231522857fdacb4cb8febc8c159a82a1f276ca"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#杨洋李沁谈了五年#",
+      "rank": 11,
+      "title": "杨洋李沁谈了五年",
+      "topic_id": "231522d19a285ba5e67aa7f76d474ba109e1cb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "产房盼男 病房盼女",
+      "rank": 12,
+      "title": "产房盼男 病房盼女",
+      "topic_id": "23152243353a719cdf4b850a6713c67823cafb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#陈伟霆何穗为儿子办周岁宴#",
+      "rank": 13,
+      "title": "陈伟霆何穗为儿子办周岁宴",
+      "topic_id": "231522d84da481a24f886f6fe99f7fed3ef3e7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#陈建州心肌梗塞开刀#",
+      "rank": 14,
+      "title": "陈建州心肌梗塞开刀",
+      "topic_id": "2315225e429bfb3d31e65bec7f641957b8c175"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "网友向杨某媛西班牙学校反映情况",
+      "rank": 15,
+      "title": "网友向杨某媛西班牙学校反映情况",
+      "topic_id": "2315225c8507e753cf58a1cc5eafa28c29071d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#范玮琪第一时间赶往医院#",
+      "rank": 16,
+      "title": "范玮琪第一时间赶往医院",
+      "topic_id": "231522301fcca6ec75668f9d870ceb46a1da0f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "发朋友圈要有滞后性",
+      "rank": 17,
+      "title": "发朋友圈要有滞后性",
+      "topic_id": "231522bd42bb20b4ba33930a7d1782dbfe31d4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "平台月付将退出支付选项",
+      "rank": 18,
+      "title": "平台月付将退出支付选项",
+      "topic_id": "23152211fef040c33f6b6083745fe37d3cf9d3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#刘雯手机壁纸是井柏然#",
+      "rank": 19,
+      "title": "刘雯手机壁纸是井柏然",
+      "topic_id": "231522105b6f9e5c7829291c949b7e7364f295"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#接到陌生来电请沉默三秒#",
+      "rank": 20,
+      "title": "接到陌生来电请沉默三秒",
+      "topic_id": "231522aced8ea92ccaf692c474c029785e8ea1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#时代峰峻大股东名下多家公司已注销#",
+      "rank": 21,
+      "title": "时代峰峻大股东名下多家公司已注销",
+      "topic_id": "23152209216875a33ff6f9b85b20ad5535d396"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#89岁老人与智力障碍室友互殴致骨折#",
+      "rank": 22,
+      "title": "89岁老人与智力障碍室友互殴致骨折",
+      "topic_id": "2315221880b724424d75983b6a429535b2cc29"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "兰香如故首创0人迷男主",
+      "rank": 23,
+      "title": "兰香如故首创0人迷男主",
+      "topic_id": "23152220d771af06e95c9569a8f682d32e10b3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "宇树科技股价暴跌",
+      "rank": 24,
+      "title": "宇树科技股价暴跌",
+      "topic_id": "2315222270b7162dbd04ab787e4b2294a41980"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "优衣库原来是纯狱风",
+      "rank": 25,
+      "title": "优衣库原来是纯狱风",
+      "topic_id": "231522ecf76f71c64bce24cf12c001d0f20939"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张元英把手臂汗毛P掉了#",
+      "rank": 26,
+      "title": "张元英把手臂汗毛P掉了",
+      "topic_id": "2315227ae25954d16663f3378e5386d6d801c5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#95后宝妈连生4胎终于迎来了女儿#",
+      "rank": 27,
+      "title": "95后宝妈连生4胎终于迎来了女儿",
+      "topic_id": "23152227f6b6a157364fa869575903313828bf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#娜扎被宋祖儿嘘过#",
+      "rank": 28,
+      "title": "娜扎被宋祖儿嘘过",
+      "topic_id": "2315222152d232f47ed487661ed86e0728484c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#全球市场杀跌#",
+      "rank": 29,
+      "title": "全球市场杀跌",
+      "topic_id": "2315227e25bee1bf8edb8aca040ff28e354218"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "井柏然一发微博就产生费用",
+      "rank": 30,
+      "title": "井柏然一发微博就产生费用",
+      "topic_id": "23152228a3a1e7fa0c3fedadd7b4b6b2222b5a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#朵朵不知道佟丽娅陈思诚离婚#",
+      "rank": 31,
+      "title": "朵朵不知道佟丽娅陈思诚离婚",
+      "topic_id": "231522ab832b9576a82860fe21b67b3dfe37b6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#孙子非亲生案司法鉴定中心被处罚#",
+      "rank": 32,
+      "title": "孙子非亲生案司法鉴定中心被处罚",
+      "topic_id": "2315228fe3525220311dc64c1c452a82e0e6ce"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#老人旅游时突然得知女儿去世#",
+      "rank": 33,
+      "title": "老人旅游时突然得知女儿去世",
+      "topic_id": "2315227bbcead80cacf0738fc13c1af8bd9972"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#七旬老太入冰棺1天睁眼复活#",
+      "rank": 34,
+      "title": "七旬老太入冰棺1天睁眼复活",
+      "topic_id": "231522bc0368d15eb40202f0a3ebfed6dad0db"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女店员与两赤身男子发生争执遭掌掴#",
+      "rank": 35,
+      "title": "女店员与两赤身男子发生争执遭掌掴",
+      "topic_id": "23152262eadee2ffd513406b18bd0b7ef9a754"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王楚钦孙颖莎等5人放弃亚锦赛资格#",
+      "rank": 36,
+      "title": "王楚钦孙颖莎等5人放弃亚锦赛资格",
+      "topic_id": "231522892d947d85ab63f769c838928cd21eb3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#上海诚邀时代少年团#",
+      "rank": 37,
+      "title": "上海诚邀时代少年团",
+      "topic_id": "23152291f1bdd9f92380a6558b3e802cca2a26"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "本来以为泡泡玛特赚不到我的钱",
+      "rank": 38,
+      "title": "本来以为泡泡玛特赚不到我的钱",
+      "topic_id": "2315222094e6cf16898d659b6e70ad2f721899"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "肖战VOGUE",
+      "rank": 39,
+      "title": "肖战VOGUE",
+      "topic_id": "23152282d589c6fddcf7398d43008a7a7968b6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#范丞丞这么多娘家人#",
+      "rank": 40,
+      "title": "范丞丞这么多娘家人",
+      "topic_id": "231522e47c8e00bceb683e56e7b2099d9d4d23"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#7旬老太入冰棺1天后复活2天又去世#",
+      "rank": 41,
+      "title": "7旬老太入冰棺1天后复活2天又去世",
+      "topic_id": "2315228b14c4718e7dd967af163ea5ce846fd4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#官方通报员工将地面冻品倒回冰柜#",
+      "rank": 42,
+      "title": "官方通报员工将地面冻品倒回冰柜",
+      "topic_id": "231522a8c83ef0f5e42e57422f899a4380d971"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "花少3干活统计",
+      "rank": 43,
+      "title": "花少3干活统计",
+      "topic_id": "231522f46cec4e0fc8717f03c696af15576e18"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "2个亿人民币就能全球无差别生活",
+      "rank": 44,
+      "title": "2个亿人民币就能全球无差别生活",
+      "topic_id": "231522037ed1ee4957ac0805e740291928694f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "巴基斯坦人在浦东机场偷电脑被驱逐",
+      "rank": 45,
+      "title": "巴基斯坦人在浦东机场偷电脑被驱逐",
+      "topic_id": "2315220a1edce0c9d561a75b53adf626a76b69"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#两次亲子鉴定确认孙子非亡父亲生#",
+      "rank": 46,
+      "title": "两次亲子鉴定确认孙子非亡父亲生",
+      "topic_id": "231522932fcb7b82f87df582539e5637db8e30"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "河北内卷网",
+      "rank": 47,
+      "title": "河北内卷网",
+      "topic_id": "231522db4734989babbaf54d9469127edb1cec"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#邓为张晚意穿得像两颗瓜子#",
+      "rank": 48,
+      "title": "邓为张晚意穿得像两颗瓜子",
+      "topic_id": "2315221aa416b2a6846e449192d752cf9c2e46"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "我不得不把才华埋葬在昨天",
+      "rank": 49,
+      "title": "我不得不把才华埋葬在昨天",
+      "topic_id": "231522ab07e087f0d8eef2e4f9e865fadb8806"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "华为自造车热议",
+      "rank": 50,
+      "title": "华为自造车热议",
+      "topic_id": "231522e0654af7c3aa100eedae20b7c4887eb0"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
