@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 6189120710
   },
-  "last_seen_at": "2026-09-15T23:00:00+08:00",
+  "last_seen_at": "2026-09-16T02:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E8%A7%A3%E5%86%B3%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%23%26t%3D3&title=发布媒体",
-    "show_str": "10家媒体",
+    "show_str": "14家媒体",
     "users": [
       {
         "id": 6189120710,
@@ -26,6 +26,13 @@
         "id": 7354234663,
         "idstr": "7354234663",
         "screen_name": "大湾区之声",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -54,13 +61,6 @@
         "id": 5519666559,
         "idstr": "5519666559",
         "screen_name": "海峡之声",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2685336121,
-        "idstr": "2685336121",
-        "screen_name": "南宁晚报",
         "verified": true,
         "verified_type": 3
       }
