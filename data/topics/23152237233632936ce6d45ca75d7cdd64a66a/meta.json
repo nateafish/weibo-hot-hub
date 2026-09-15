@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 7308140398
   },
-  "last_seen_at": "2026-09-15T12:00:00+08:00",
+  "last_seen_at": "2026-09-15T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%BC%94%E5%94%B1%E4%BC%9A%E6%B1%82%E5%A9%9A%E4%BA%8B%E4%BB%B6%E5%90%8E%E6%8E%92%E8%A7%82%E4%BC%97%E5%8F%91%E5%A3%B0%23%26t%3D3&title=发布媒体",
-    "show_str": "42家媒体",
+    "show_str": "94家媒体",
     "users": [
       {
         "id": 7308140398,
         "idstr": "7308140398",
         "screen_name": "大象新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -37,30 +44,23 @@
         "verified_type": 3
       },
       {
-        "id": 7694378984,
-        "idstr": "7694378984",
-        "screen_name": "大象综艺",
+        "id": 2318910945,
+        "idstr": "2318910945",
+        "screen_name": "新浪热点",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 6560653260,
-        "idstr": "6560653260",
-        "screen_name": "大象视频",
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2027773605,
-        "idstr": "2027773605",
-        "screen_name": "大象文娱",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1688864597,
-        "idstr": "1688864597",
-        "screen_name": "河南之声",
+        "id": 1651428902,
+        "idstr": "1651428902",
+        "screen_name": "21世纪经济报道",
         "verified": true,
         "verified_type": 3
       }

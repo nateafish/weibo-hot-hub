@@ -3,10 +3,10 @@
   "created_at": 1789434385,
   "first_seen_at": "2026-09-15T11:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-15T12:00:00+08:00",
+  "last_seen_at": "2026-09-15T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%99%88%E6%9F%8F%E9%9C%96%E8%B5%96%E9%9B%A8%E6%BF%9B%E9%BA%A6%E5%BD%93%E5%8A%B3%E4%B9%8B%E4%BA%89%23%26t%3D3&title=发布媒体",
-    "show_str": "12家媒体",
+    "show_str": "13家媒体",
     "users": [
       {
         "id": 7422806367,
@@ -19,6 +19,13 @@
         "id": 1497418417,
         "idstr": "1497418417",
         "screen_name": "掌上温岭",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7590570074,
+        "idstr": "7590570074",
+        "screen_name": "山海视频",
         "verified": true,
         "verified_type": 3
       },
@@ -47,13 +54,6 @@
         "id": 2035321844,
         "idstr": "2035321844",
         "screen_name": "河池融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1880922220,
-        "idstr": "1880922220",
-        "screen_name": "金华晚报",
         "verified": true,
         "verified_type": 3
       }
