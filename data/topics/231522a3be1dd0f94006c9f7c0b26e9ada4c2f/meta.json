@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 6320391439
   },
-  "last_seen_at": "2026-09-15T08:00:00+08:00",
+  "last_seen_at": "2026-09-15T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%90%A8%E5%B7%B4%E4%BC%A6%E5%8D%A1%E5%9B%A0%E6%91%94%E6%8B%8D%E8%A2%AB%E7%BD%9A%E6%AC%BE%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "9家媒体",
     "users": [
+      {
+        "id": 2318910945,
+        "idstr": "2318910945",
+        "screen_name": "新浪热点",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 7051979649,
         "idstr": "7051979649",
@@ -30,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2028810631,
         "idstr": "2028810631",
         "screen_name": "新浪新闻",
@@ -37,23 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 1867427515,
+        "idstr": "1867427515",
+        "screen_name": "新派新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1798653494,
         "idstr": "1798653494",
         "screen_name": "经视直播",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1712686623,
-        "idstr": "1712686623",
-        "screen_name": "手机上的新浪",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1288429914,
-        "idstr": "1288429914",
-        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       }

@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 5943595658
   },
-  "last_seen_at": "2026-09-15T08:00:00+08:00",
+  "last_seen_at": "2026-09-15T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%9B%A4iPhone17%E7%9A%84%E6%89%8B%E6%9C%BA%E5%95%86%E4%BA%8F%E6%83%A8%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "8家媒体",
     "users": [
       {
         "id": 5943595658,
         "idstr": "5943595658",
         "screen_name": "一手Video",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7516679696,
+        "idstr": "7516679696",
+        "screen_name": "九派新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,9 +37,30 @@
         "verified_type": 3
       },
       {
+        "id": 2535760180,
+        "idstr": "2535760180",
+        "screen_name": "安徽视讯",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2286092114,
+        "idstr": "2286092114",
+        "screen_name": "中国蓝新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1938424152,
         "idstr": "1938424152",
         "screen_name": "搜狐财经",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1893761531,
+        "idstr": "1893761531",
+        "screen_name": "闪电新闻",
         "verified": true,
         "verified_type": 3
       }
