@@ -3,11 +3,32 @@
   "created_at": 1789461025,
   "first_seen_at": "2026-09-15T19:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-15T19:00:00+08:00",
+  "last_seen_at": "2026-09-15T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%99%9A%E6%99%9A+%E5%86%8D%E5%9D%8F%E7%9A%84%E6%83%85%E5%86%B5%E4%B9%9F%E4%BC%9A%E6%9C%89%E8%BD%AC%E6%9C%BA%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "7家媒体",
     "users": [
+      {
+        "id": 7575030448,
+        "idstr": "7575030448",
+        "screen_name": "白鹿视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7467277921,
+        "idstr": "7467277921",
+        "screen_name": "万维视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6890796357,
+        "idstr": "6890796357",
+        "screen_name": "日照日报",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2685336121,
         "idstr": "2685336121",
@@ -26,6 +47,13 @@
         "id": 2035321844,
         "idstr": "2035321844",
         "screen_name": "河池融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1943154142,
+        "idstr": "1943154142",
+        "screen_name": "中安在线",
         "verified": true,
         "verified_type": 3
       }
