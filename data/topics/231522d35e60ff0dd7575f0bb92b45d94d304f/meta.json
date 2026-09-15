@@ -10,15 +10,43 @@
     "status": 2,
     "uid": 2028810631
   },
-  "last_seen_at": "2026-09-15T09:00:00+08:00",
+  "last_seen_at": "2026-09-15T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%87%AA%E7%A7%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E6%B1%82%E5%A9%9A%E4%BA%8B%E4%BB%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%8F%91%E5%A3%B0%23%26t%3D3&title=发布媒体",
-    "show_str": "72家媒体",
+    "show_str": "175家媒体",
     "users": [
       {
         "id": 2028810631,
         "idstr": "2028810631",
         "screen_name": "新浪新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1744332207,
+        "idstr": "1744332207",
+        "screen_name": "钱江视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2286092114,
+        "idstr": "2286092114",
+        "screen_name": "中国蓝新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6115560351,
+        "idstr": "6115560351",
+        "screen_name": "国是直通车",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2318910945,
+        "idstr": "2318910945",
+        "screen_name": "新浪热点",
         "verified": true,
         "verified_type": 3
       },
@@ -33,34 +61,6 @@
         "id": 3048800300,
         "idstr": "3048800300",
         "screen_name": "新浪圈子",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6115560351,
-        "idstr": "6115560351",
-        "screen_name": "国是直通车",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1497087080,
-        "idstr": "1497087080",
-        "screen_name": "羊城晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2360016402,
-        "idstr": "2360016402",
-        "screen_name": "宁波日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1968407017,
-        "idstr": "1968407017",
-        "screen_name": "江西晨报",
         "verified": true,
         "verified_type": 3
       }

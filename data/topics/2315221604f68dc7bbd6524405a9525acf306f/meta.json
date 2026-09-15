@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 5943595658
   },
-  "last_seen_at": "2026-09-15T09:00:00+08:00",
+  "last_seen_at": "2026-09-15T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23iOS27%E6%9B%B4%E6%96%B0%E4%B9%9D%E5%A4%A7%E7%9C%8B%E7%82%B9%23%26t%3D3&title=发布媒体",
-    "show_str": "14家媒体",
+    "show_str": "18家媒体",
     "users": [
       {
         "id": 5943595658,
@@ -26,6 +26,20 @@
         "id": 6002842109,
         "idstr": "6002842109",
         "screen_name": "时差视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6105713761,
+        "idstr": "6105713761",
+        "screen_name": "红星新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2685336121,
-        "idstr": "2685336121",
-        "screen_name": "南宁晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 2660940103,
         "idstr": "2660940103",
         "screen_name": "环球网科技频道",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2460937233,
-        "idstr": "2460937233",
-        "screen_name": "热度新闻",
         "verified": true,
         "verified_type": 3
       }
