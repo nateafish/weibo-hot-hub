@@ -10,11 +10,32 @@
     "status": 2,
     "uid": 6207555777
   },
-  "last_seen_at": "2026-09-15T13:00:00+08:00",
+  "last_seen_at": "2026-09-15T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%99%BB%E4%B8%8A%E4%BA%9A%E8%BF%90%E4%BC%9A%E6%B5%B7%E6%8A%A5%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "24家媒体",
     "users": [
+      {
+        "id": 7192225377,
+        "idstr": "7192225377",
+        "screen_name": "时代报告健康",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6832629459,
+        "idstr": "6832629459",
+        "screen_name": "麦穗财经",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6373459851,
+        "idstr": "6373459851",
+        "screen_name": "麦穗视频快快看",
+        "verified": true,
+        "verified_type": 7
+      },
       {
         "id": 6355176006,
         "idstr": "6355176006",
@@ -23,9 +44,23 @@
         "verified_type": 7
       },
       {
-        "id": 2292896411,
-        "idstr": "2292896411",
-        "screen_name": "中工网",
+        "id": 5984369937,
+        "idstr": "5984369937",
+        "screen_name": "时代报告",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5449334139,
+        "idstr": "5449334139",
+        "screen_name": "麦穗视频",
+        "verified": true,
+        "verified_type": 7
+      },
+      {
+        "id": 3493071261,
+        "idstr": "3493071261",
+        "screen_name": "时代报告地方频道",
         "verified": true,
         "verified_type": 3
       }

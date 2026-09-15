@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 5705021476
   },
-  "last_seen_at": "2026-09-15T13:00:00+08:00",
+  "last_seen_at": "2026-09-15T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%2314%E5%B2%81%E5%A5%A5%E8%8E%89%E8%BF%99%E4%B9%88%E5%A4%A7%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "4家媒体",
     "users": [
       {
-        "id": 1912416573,
-        "idstr": "1912416573",
-        "screen_name": "河南手机报",
+        "id": 3048800300,
+        "idstr": "3048800300",
+        "screen_name": "新浪圈子",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2647971081,
+        "idstr": "2647971081",
+        "screen_name": "时速新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2286092114,
+        "idstr": "2286092114",
+        "screen_name": "中国蓝新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2232625672,
+        "idstr": "2232625672",
+        "screen_name": "安庆天天直播",
         "verified": true,
         "verified_type": 3
       }

@@ -3,11 +3,19 @@
   "created_at": 1789443573,
   "first_seen_at": "2026-09-15T13:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-15T13:00:00+08:00",
+  "last_seen_at": "2026-09-15T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%A1%80%E8%A7%82%E9%9F%B3+%E7%BF%BB%E7%BA%A2%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "1家媒体",
+    "users": [
+      {
+        "id": 1938523582,
+        "idstr": "1938523582",
+        "screen_name": "宁波晚报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "血观音 翻红",
   "search_url": "https://s.weibo.com/weibo?q=%23%E8%A1%80%E8%A7%82%E9%9F%B3%20%E7%BF%BB%E7%BA%A2%23",
