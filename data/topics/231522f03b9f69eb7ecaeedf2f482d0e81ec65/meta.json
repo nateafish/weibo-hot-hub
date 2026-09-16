@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1682207150
   },
-  "last_seen_at": "2026-09-16T21:00:00+08:00",
+  "last_seen_at": "2026-09-16T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%AF%BC%E5%B8%88%E6%9B%BE%E7%BB%99%E5%9D%A0%E4%BA%A1%E5%8C%BB%E5%AD%A6%E7%94%9F%E8%BD%AC%E8%B4%A62.2%E4%B8%87%23%26t%3D3&title=发布媒体",
-    "show_str": "28家媒体",
+    "show_str": "40家媒体",
     "users": [
       {
         "id": 1682207150,
@@ -23,9 +23,23 @@
         "verified_type": 3
       },
       {
+        "id": 1725252714,
+        "idstr": "1725252714",
+        "screen_name": "温度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1497087080,
         "idstr": "1497087080",
         "screen_name": "羊城晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3275115274,
+        "idstr": "3275115274",
+        "screen_name": "中国吉林网",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 31906528,
         "idstr": "31906528",
         "screen_name": "广东台今日关注",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3072617347,
-        "idstr": "3072617347",
-        "screen_name": "南方网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2647971081,
-        "idstr": "2647971081",
-        "screen_name": "时速新闻",
         "verified": true,
         "verified_type": 3
       }

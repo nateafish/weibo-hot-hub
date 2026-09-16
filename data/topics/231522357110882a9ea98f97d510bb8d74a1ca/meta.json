@@ -10,11 +10,47 @@
     "status": 2,
     "uid": 6260534625
   },
-  "last_seen_at": "2026-09-16T21:00:00+08:00",
+  "last_seen_at": "2026-09-16T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E8%BF%99%E6%AE%B5%E5%AE%8C%E5%85%A8get%E5%88%B0%E5%AE%98%E9%85%8D%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "5家媒体",
+    "users": [
+      {
+        "id": 5396094153,
+        "idstr": "5396094153",
+        "screen_name": "大众新闻-大众日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2356298087,
+        "idstr": "2356298087",
+        "screen_name": "河北经视",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1677991972,
+        "idstr": "1677991972",
+        "screen_name": "晶报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1642591402,
+        "idstr": "1642591402",
+        "screen_name": "新浪娱乐",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#兰香如故这段完全get到官配了#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E8%BF%99%E6%AE%B5%E5%AE%8C%E5%85%A8get%E5%88%B0%E5%AE%98%E9%85%8D%E4%BA%86%23",
