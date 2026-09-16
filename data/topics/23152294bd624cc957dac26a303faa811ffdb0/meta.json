@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1647210043
   },
-  "last_seen_at": "2026-09-16T15:00:00+08:00",
+  "last_seen_at": "2026-09-16T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%B9%BC%E7%AB%A5%E7%AA%81%E7%84%B6%E5%86%B2%E4%B8%8A%E9%A9%AC%E8%B7%AF%E8%A2%AB%E6%92%9E%E5%AE%B6%E9%95%BF%E5%8F%AA%E9%A1%BE%E7%A0%B8%E8%BD%A6%23%26t%3D3&title=发布媒体",
-    "show_str": "36家媒体",
+    "show_str": "54家媒体",
     "users": [
       {
         "id": 1647210043,
         "idstr": "1647210043",
         "screen_name": "百姓关注",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2337985010,
+        "idstr": "2337985010",
+        "screen_name": "瑞安融媒",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 1704185933,
+        "idstr": "1704185933",
+        "screen_name": "聊城晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1398613133,
         "idstr": "1398613133",
         "screen_name": "马上资讯",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7613700701,
-        "idstr": "7613700701",
-        "screen_name": "共富财经",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6910453729,
-        "idstr": "6910453729",
-        "screen_name": "绍虞城事通网",
         "verified": true,
         "verified_type": 3
       }
