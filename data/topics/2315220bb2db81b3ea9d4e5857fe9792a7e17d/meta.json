@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2011075080
   },
-  "last_seen_at": "2026-09-16T08:00:00+08:00",
+  "last_seen_at": "2026-09-16T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%9A%90%E7%BF%85%E8%99%AB%E8%A2%AB%E5%A5%B3%E7%94%9F%E7%94%A8%E6%89%8B%E6%8E%90%E7%9D%80%E7%8E%A9%23%26t%3D3&title=发布媒体",
-    "show_str": "73家媒体",
+    "show_str": "136家媒体",
     "users": [
       {
         "id": 2011075080,
         "idstr": "2011075080",
         "screen_name": "齐鲁晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1727472420,
+        "idstr": "1727472420",
+        "screen_name": "泰山晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 1406911561,
+        "idstr": "1406911561",
+        "screen_name": "云南广播电视台",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 3288875501,
         "idstr": "3288875501",
         "screen_name": "河南日报",
@@ -37,30 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 2992050891,
-        "idstr": "2992050891",
-        "screen_name": "北京时间",
+        "id": 1887344341,
+        "idstr": "1887344341",
+        "screen_name": "观察者网",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2075245652,
-        "idstr": "2075245652",
-        "screen_name": "长春晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1867571077,
-        "idstr": "1867571077",
-        "screen_name": "听中国",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1727472420,
-        "idstr": "1727472420",
-        "screen_name": "泰山晚报",
+        "id": 1720962692,
+        "idstr": "1720962692",
+        "screen_name": "极目新闻",
         "verified": true,
         "verified_type": 3
       }

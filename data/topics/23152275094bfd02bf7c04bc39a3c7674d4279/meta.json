@@ -3,11 +3,40 @@
   "created_at": 1789512051,
   "first_seen_at": "2026-09-16T08:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-16T08:00:00+08:00",
+  "last_seen_at": "2026-09-16T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%97%AE%E7%95%8C%E5%94%AE%E5%90%8E%E6%9D%83%E8%B4%A3%E5%88%92%E5%88%86%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "4家媒体",
+    "users": [
+      {
+        "id": 1651428902,
+        "idstr": "1651428902",
+        "screen_name": "21世纪经济报道",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1963106735,
+        "idstr": "1963106735",
+        "screen_name": "搜狐汽车",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5762891674,
+        "idstr": "5762891674",
+        "screen_name": "密度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "问界售后权责划分",
   "search_url": "https://s.weibo.com/weibo?q=%23%E9%97%AE%E7%95%8C%E5%94%AE%E5%90%8E%E6%9D%83%E8%B4%A3%E5%88%92%E5%88%86%23",
