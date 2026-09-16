@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1642512402
   },
-  "last_seen_at": "2026-09-16T23:00:00+08:00",
+  "last_seen_at": "2026-09-17T02:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8D%97%E5%8C%BB%E5%A4%A7%E5%9D%A0%E4%BA%A1%E4%BA%8B%E4%BB%B6%E5%AF%BC%E5%B8%88%E5%AD%A6%E7%94%9F%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%23%26t%3D3&title=发布媒体",
-    "show_str": "35家媒体",
+    "show_str": "49家媒体",
     "users": [
       {
         "id": 1744332207,
@@ -23,9 +23,30 @@
         "verified_type": 3
       },
       {
+        "id": 2028810631,
+        "idstr": "2028810631",
+        "screen_name": "新浪新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1651428902,
+        "idstr": "1651428902",
+        "screen_name": "21世纪经济报道",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1642512402,
         "idstr": "1642512402",
         "screen_name": "中国新闻周刊",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7308140398,
+        "idstr": "7308140398",
+        "screen_name": "大象新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -42,27 +63,6 @@
         "screen_name": "钱江晚报",
         "verified": true,
         "verified_type": 3
-      },
-      {
-        "id": 7308140398,
-        "idstr": "7308140398",
-        "screen_name": "大象新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6590980486,
-        "idstr": "6590980486",
-        "screen_name": "捉谣记",
-        "verified": true,
-        "verified_type": 7
-      },
-      {
-        "id": 6092578444,
-        "idstr": "6092578444",
-        "screen_name": "新浪种草官",
-        "verified": true,
-        "verified_type": 7
       }
     ]
   },
