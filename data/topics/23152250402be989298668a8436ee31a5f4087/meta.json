@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 1768470921
   },
-  "last_seen_at": "2026-09-16T06:00:00+08:00",
+  "last_seen_at": "2026-09-16T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%8A%A4%E5%A3%AB%E4%B8%8D%E6%89%BF%E8%AE%A4%E7%BB%99%E7%94%B7%E5%A9%B4%E8%AF%AF%E6%B3%A810%E5%80%8D%E8%82%BE%E4%B8%8A%E8%85%BA%E7%B4%A0%23%26t%3D3&title=发布媒体",
-    "show_str": "7家媒体",
+    "show_str": "12家媒体",
     "users": [
       {
         "id": 1768470921,
         "idstr": "1768470921",
         "screen_name": "青岛新闻网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5145725878,
+        "idstr": "5145725878",
+        "screen_name": "沸点视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1389537561,
+        "idstr": "1389537561",
+        "screen_name": "都市时报",
         "verified": true,
         "verified_type": 3
       },
@@ -37,30 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 1389537561,
-        "idstr": "1389537561",
-        "screen_name": "都市时报",
+        "id": 7523386243,
+        "idstr": "7523386243",
+        "screen_name": "南阳网官方微博",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2292899701,
-        "idstr": "2292899701",
-        "screen_name": "浪涨新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2105171747,
-        "idstr": "2105171747",
-        "screen_name": "黄河新闻网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1919072083,
-        "idstr": "1919072083",
-        "screen_name": "沈阳网",
+        "id": 5388240201,
+        "idstr": "5388240201",
+        "screen_name": "南阳日报",
         "verified": true,
         "verified_type": 3
       }

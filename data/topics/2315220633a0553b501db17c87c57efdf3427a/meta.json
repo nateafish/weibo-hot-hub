@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 6189120710
   },
-  "last_seen_at": "2026-09-16T06:00:00+08:00",
+  "last_seen_at": "2026-09-16T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E8%A7%A3%E5%86%B3%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%23%26t%3D3&title=发布媒体",
-    "show_str": "14家媒体",
+    "show_str": "53家媒体",
     "users": [
       {
         "id": 6189120710,
         "idstr": "6189120710",
         "screen_name": "央视军事",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 6115560351,
+        "idstr": "6115560351",
+        "screen_name": "国是直通车",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2685336121,
         "idstr": "2685336121",
         "screen_name": "南宁晚报",
@@ -37,30 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 7360594450,
-        "idstr": "7360594450",
-        "screen_name": "海客新闻",
+        "id": 1887344341,
+        "idstr": "1887344341",
+        "screen_name": "观察者网",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 6221932120,
-        "idstr": "6221932120",
-        "screen_name": "直新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6205409064,
-        "idstr": "6205409064",
-        "screen_name": "茌平融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5519666559,
-        "idstr": "5519666559",
-        "screen_name": "海峡之声",
+        "id": 1667942985,
+        "idstr": "1667942985",
+        "screen_name": "长三角之声",
         "verified": true,
         "verified_type": 3
       }

@@ -10,15 +10,43 @@
     "status": 2,
     "uid": 1917085564
   },
-  "last_seen_at": "2026-09-16T06:00:00+08:00",
+  "last_seen_at": "2026-09-16T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%A4%E6%AC%A1%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A%E7%A1%AE%E8%AE%A4%E5%AD%99%E5%AD%90%E9%9D%9E%E4%BA%A1%E7%88%B6%E4%BA%B2%E7%94%9F%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "33家媒体",
     "users": [
       {
         "id": 1917085564,
         "idstr": "1917085564",
         "screen_name": "风芒新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1618051664,
+        "idstr": "1618051664",
+        "screen_name": "头条新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5866660310,
+        "idstr": "5866660310",
+        "screen_name": "台儿庄区融媒体中心",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5539777260,
+        "idstr": "5539777260",
+        "screen_name": "菏泽日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1735221154,
+        "idstr": "1735221154",
+        "screen_name": "城市晚报官方微博",
         "verified": true,
         "verified_type": 3
       },
@@ -30,16 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1991123083,
-        "idstr": "1991123083",
-        "screen_name": "江西日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1496814565,
-        "idstr": "1496814565",
-        "screen_name": "封面新闻",
+        "id": 6207911580,
+        "idstr": "6207911580",
+        "screen_name": "大河报豫视频",
         "verified": true,
         "verified_type": 3
       }
