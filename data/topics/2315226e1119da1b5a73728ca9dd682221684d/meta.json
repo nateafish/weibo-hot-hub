@@ -10,11 +10,26 @@
     "status": 2,
     "uid": 1682898875
   },
-  "last_seen_at": "2026-09-17T21:00:00+08:00",
+  "last_seen_at": "2026-09-17T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%98%9A%E6%B8%85%E5%AD%90%E7%88%B1%E9%A9%AC%E4%BB%95%E6%8B%8E%E4%B8%80%E4%B8%AA%E6%8C%8E%E4%B8%80%E4%B8%AA%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "2家媒体",
+    "users": [
+      {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1677991972,
+        "idstr": "1677991972",
+        "screen_name": "晶报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#阚清子爱马仕拎一个挎一个#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E9%98%9A%E6%B8%85%E5%AD%90%E7%88%B1%E9%A9%AC%E4%BB%95%E6%8B%8E%E4%B8%80%E4%B8%AA%E6%8C%8E%E4%B8%80%E4%B8%AA%23",

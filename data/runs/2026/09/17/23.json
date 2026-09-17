@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-17T23:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#总书记引领科技强国路#",
+      "rank": 1,
+      "title": "总书记引领科技强国路",
+      "topic_id": "231522402164882fdbf525bfd713b0939fa772"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#如果你出生于1992年至2003年之间#",
+      "rank": 1,
+      "title": "如果你出生于1992年至2003年之间",
+      "topic_id": "2315225a9b149ac101671cab82f339d91ce04f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "偶像来了 国际大花",
+      "rank": 2,
+      "title": "偶像来了 国际大花",
+      "topic_id": "2315226c72db3c69ec7a2207b81303b53d80b7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#第23届东博会峰会#",
+      "rank": 3,
+      "title": "第23届东博会峰会",
+      "topic_id": "231522ef7642cf1a6506241ba1d446a0492b0e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "亚运会",
+      "rank": 4,
+      "title": "亚运会",
+      "topic_id": "231522b9fedef28ddcf151d85c04b905c0ad5c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "30岁后找对象比赚钱还难",
+      "rank": 5,
+      "title": "30岁后找对象比赚钱还难",
+      "topic_id": "231522dfb366d4a4e16d254d48c1a3b18b5504"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#小鹏G9L价格炸裂#",
+      "rank": 6,
+      "title": "小鹏G9L价格炸裂",
+      "topic_id": "2315224cb12503c4b99e6051c66c606f7f1094"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "TES晋级S16",
+      "rank": 7,
+      "title": "TES晋级S16",
+      "topic_id": "231522aaa3fb526bbc78bc01de7438183707d8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#我们来了阵容配置#",
+      "rank": 8,
+      "title": "我们来了阵容配置",
+      "topic_id": "2315223c0bd7801a2c1a58c18d5963a940a806"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "兰香如故预告",
+      "rank": 9,
+      "title": "兰香如故预告",
+      "topic_id": "2315225e4dce530fcd216f950f29c6658b87e4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#JackeyLove眼含热泪#",
+      "rank": 10,
+      "title": "JackeyLove眼含热泪",
+      "topic_id": "2315228b4533c45060313443e89513ac8b3ecc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "杨某媛疑似在西班牙读博",
+      "rank": 11,
+      "title": "杨某媛疑似在西班牙读博",
+      "topic_id": "231522a1ae403e09b4d71593e6d186db3db291"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#假村官带货已成流水线#",
+      "rank": 12,
+      "title": "假村官带货已成流水线",
+      "topic_id": "2315224ce6f9b3413850e2ed6e5185c81a0fa6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#陈建州拜托大家3件事#",
+      "rank": 13,
+      "title": "陈建州拜托大家3件事",
+      "topic_id": "231522d6dcda6f77905b23538395f86fccd902"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#我们来了拟邀白鹿#",
+      "rank": 14,
+      "title": "我们来了拟邀白鹿",
+      "topic_id": "23152217b3374cd3094db7e49e154b18a22115"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "月薪1万已超过80%的人",
+      "rank": 15,
+      "title": "月薪1万已超过80%的人",
+      "topic_id": "231522ebfda83a23e7b79c4497f19b5cb1183a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#白举纲婚礼照片#",
+      "rank": 16,
+      "title": "白举纲婚礼照片",
+      "topic_id": "231522d2af79052d76f2e739b7e40d099a70d0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "武大口腔手术纠纷",
+      "rank": 17,
+      "title": "武大口腔手术纠纷",
+      "topic_id": "231522054e05fc61985e44481b0b5e18585c0e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#何炅官宣我们来了重启#",
+      "rank": 18,
+      "title": "何炅官宣我们来了重启",
+      "topic_id": "2315225b0331d3314bd791fe9beff97e46ae0f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#殷桃回应嫌弃邓为#",
+      "rank": 19,
+      "title": "殷桃回应嫌弃邓为",
+      "topic_id": "23152260336b2faab967a8e052ca9aafa604ac"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#山东网购刀斧杀妻案姐姐发声#",
+      "rank": 20,
+      "title": "山东网购刀斧杀妻案姐姐发声",
+      "topic_id": "2315222c4ef849b15035095fff4606654a190d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝85花和老公已离婚#",
+      "rank": 21,
+      "title": "曝85花和老公已离婚",
+      "topic_id": "2315223195c14833590d60d666e52d48f8a78b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#2岁幼童坠亡12分钟里发生了什么#",
+      "rank": 22,
+      "title": "2岁幼童坠亡12分钟里发生了什么",
+      "topic_id": "231522dafbd534ac0da510e7d40d6de20bc209"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "iOS27电池图标 丑",
+      "rank": 23,
+      "title": "iOS27电池图标 丑",
+      "topic_id": "23152243a56e787f98d94a584b6f5421c3d4af"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#HYROX失禁女选手致歉#",
+      "rank": 24,
+      "title": "HYROX失禁女选手致歉",
+      "topic_id": "2315229edf2a73141a241d5874978a15d82da4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#四成中国受访者称非宁德时代不选#",
+      "rank": 25,
+      "title": "四成中国受访者称非宁德时代不选",
+      "topic_id": "2315223aae81b9fec5b56cdce15f220402c3fc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "拒绝了十五年前拒绝过我的学校",
+      "rank": 26,
+      "title": "拒绝了十五年前拒绝过我的学校",
+      "topic_id": "23152272ba7950c73ebc5a81e15145747fcd1f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女子生孩子后双目失明双耳失聪#",
+      "rank": 27,
+      "title": "女子生孩子后双目失明双耳失聪",
+      "topic_id": "2315228c1b39ced72a3339eed5ba2e848405f6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女子自己做月饼做成了门把手#",
+      "rank": 28,
+      "title": "女子自己做月饼做成了门把手",
+      "topic_id": "231522cd6eb18501cbdc321aa82c70b0d54241"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#2026湾区升明月你最期待谁#",
+      "rank": 29,
+      "title": "2026湾区升明月你最期待谁",
+      "topic_id": "231522a74033a1eb47b1ac4db44419baf4ca2f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#美国大模型已被日本错误历史观污染#",
+      "rank": 30,
+      "title": "美国大模型已被日本错误历史观污染",
+      "topic_id": "2315223e0b62bfb13405c58edc43420d119400"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#我们来了有鞠婧祎#",
+      "rank": 31,
+      "title": "我们来了有鞠婧祎",
+      "topic_id": "2315226f6478ef5645bbbbe975182d551af1f3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#九一八事变爆发95年#",
+      "rank": 32,
+      "title": "九一八事变爆发95年",
+      "topic_id": "231522d16eef4eb7cab26e531ff5dae4c93af3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#佟丽娅称儿子常说一家三口多好#",
+      "rank": 33,
+      "title": "佟丽娅称儿子常说一家三口多好",
+      "topic_id": "23152249c2fe890a0bbdc28476591e6231d327"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#卢昱晓回应小巷人家演技争议#",
+      "rank": 34,
+      "title": "卢昱晓回应小巷人家演技争议",
+      "topic_id": "231522c9b375dfd7aff36110a0838f85815ede"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "西雅图吸毒者末世景象",
+      "rank": 35,
+      "title": "西雅图吸毒者末世景象",
+      "topic_id": "231522856b907c7107d0c9715424f97e815f9d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#IU回应去上海的诡异穿搭#",
+      "rank": 36,
+      "title": "IU回应去上海的诡异穿搭",
+      "topic_id": "231522d722e98de9437f84d977b96fbfe8e812"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王力宏帮陈建州拿尿壶#",
+      "rank": 37,
+      "title": "王力宏帮陈建州拿尿壶",
+      "topic_id": "23152288538ba0a76d14a3837e04f76481556c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "粉笔 谁是公考培训界的良心",
+      "rank": 38,
+      "title": "粉笔 谁是公考培训界的良心",
+      "topic_id": "231522365ba8e525afe3d41c6d77cb773ed11f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#阚清子爱马仕拎一个挎一个#",
+      "rank": 39,
+      "title": "阚清子爱马仕拎一个挎一个",
+      "topic_id": "2315226e1119da1b5a73728ca9dd682221684d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#兰香如故大爷开始搞暗恋了#",
+      "rank": 40,
+      "title": "兰香如故大爷开始搞暗恋了",
+      "topic_id": "2315222067d06ae5de5a452f81910222f81d37"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "铭记19310918",
+      "rank": 41,
+      "title": "铭记19310918",
+      "topic_id": "231522ac73d39df01c92b2736d8cd5d2d72ea2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#檀健次王鹤棣将有个人综艺#",
+      "rank": 42,
+      "title": "檀健次王鹤棣将有个人综艺",
+      "topic_id": "231522c36bfb7faa0d5d8661817b247260a222"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#不能忘却的9月18日#",
+      "rank": 43,
+      "title": "不能忘却的9月18日",
+      "topic_id": "231522cf85975edb6a4f00b1bad3769d7caf27"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#粉笔说做生意却哄着小孩喊恩师#",
+      "rank": 44,
+      "title": "粉笔说做生意却哄着小孩喊恩师",
+      "topic_id": "231522601c7fc721b95fedd3712d10f6e911c1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "孙千送的包开箱",
+      "rank": 45,
+      "title": "孙千送的包开箱",
+      "topic_id": "23152227b907ccd838bc385db16e45afb742cc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女生因家人去世拒米哈游实习#",
+      "rank": 46,
+      "title": "女生因家人去世拒米哈游实习",
+      "topic_id": "231522ae4a49bd9187e596e35bade9693d0a09"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#我恨我没有钱但特别识货#",
+      "rank": 47,
+      "title": "我恨我没有钱但特别识货",
+      "topic_id": "231522c26eb340f33e2f5b38116c651d457662"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#肖战VOGUE银十销量#",
+      "rank": 48,
+      "title": "肖战VOGUE银十销量",
+      "topic_id": "2315227b3685bfbf8864b7d6720386eec35c1f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#iG无缘LPL三号种子#",
+      "rank": 49,
+      "title": "iG无缘LPL三号种子",
+      "topic_id": "2315223a98a285b439c07b70ed5c6fee83d6d9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#Wayward回应TES战胜iG#",
+      "rank": 50,
+      "title": "Wayward回应TES战胜iG",
+      "topic_id": "23152234e4fad9065481e51e4385349ba02f3d"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
