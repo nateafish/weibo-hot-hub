@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1699432410
   },
-  "last_seen_at": "2026-09-17T23:00:00+08:00",
+  "last_seen_at": "2026-09-18T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B9%9D%E4%B8%80%E5%85%AB%E4%BA%8B%E5%8F%98%E7%88%86%E5%8F%9195%E5%B9%B4%23%26t%3D3&title=发布媒体",
-    "show_str": "25家媒体",
+    "show_str": "60家媒体",
     "users": [
       {
         "id": 1699432410,
@@ -26,6 +26,20 @@
         "id": 2375086267,
         "idstr": "2375086267",
         "screen_name": "参考消息",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1718493627,
+        "idstr": "1718493627",
+        "screen_name": "瞭望",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1653603955,
+        "idstr": "1653603955",
+        "screen_name": "扬子晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2612146692,
-        "idstr": "2612146692",
-        "screen_name": "凉山日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1767910704,
-        "idstr": "1767910704",
-        "screen_name": "东方卫视番茄台",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1749990115,
-        "idstr": "1749990115",
-        "screen_name": "北京青年报",
+        "id": 3037284894,
+        "idstr": "3037284894",
+        "screen_name": "经济日报",
         "verified": true,
         "verified_type": 3
       }
