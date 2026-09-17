@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2286092114
   },
-  "last_seen_at": "2026-09-17T18:00:00+08:00",
+  "last_seen_at": "2026-09-17T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%B9%BC%E7%AB%A5%E5%9D%A0%E4%BA%A1%E7%88%B6%E4%BA%B2%E6%88%96%E6%B6%89%E8%BF%87%E5%A4%B1%E8%87%B4%E6%AD%BB%E7%BD%AA%23%26t%3D3&title=发布媒体",
-    "show_str": "24家媒体",
+    "show_str": "54家媒体",
     "users": [
       {
         "id": 2286092114,
         "idstr": "2286092114",
         "screen_name": "中国蓝新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1704185933,
+        "idstr": "1704185933",
+        "screen_name": "聊城晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +37,30 @@
         "verified_type": 3
       },
       {
-        "id": 7152917023,
-        "idstr": "7152917023",
-        "screen_name": "第一时评",
+        "id": 1451977335,
+        "idstr": "1451977335",
+        "screen_name": "新晚报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 6105713761,
-        "idstr": "6105713761",
-        "screen_name": "红星新闻",
+        "id": 1714800385,
+        "idstr": "1714800385",
+        "screen_name": "第一帮帮团",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 5237278176,
-        "idstr": "5237278176",
-        "screen_name": "中国城市报",
+        "id": 7576257062,
+        "idstr": "7576257062",
+        "screen_name": "邓州市融媒体中心",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 3275115274,
-        "idstr": "3275115274",
-        "screen_name": "中国吉林网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3229962754,
-        "idstr": "3229962754",
-        "screen_name": "陕视新闻",
+        "id": 7483862675,
+        "idstr": "7483862675",
+        "screen_name": "狐度工作室",
         "verified": true,
         "verified_type": 3
       }

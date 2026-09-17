@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-17T19:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 47,
+    "ai_unchanged": 3,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#习近平就发展先进制造业作出重要指示#",
+      "rank": 1,
+      "title": "习近平就发展先进制造业作出重要指示",
+      "topic_id": "231522fd624db0f46d2c7d621a8d930cb16e7b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女生称同济大学痛经请假需脱裤检查#",
+      "rank": 1,
+      "title": "女生称同济大学痛经请假需脱裤检查",
+      "topic_id": "231522b12ef78a11512eadfcc8ee96e488e357"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#辽宁省政协原副主席戴玉林被查#",
+      "rank": 2,
+      "title": "辽宁省政协原副主席戴玉林被查",
+      "topic_id": "231522440971a835600726fa0a6e7425dcae5e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#从运河里看懂中华民族的硬核浪漫#",
+      "rank": 3,
+      "title": "从运河里看懂中华民族的硬核浪漫",
+      "topic_id": "23152295aab099ce59d53cf397199d6193fdc7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#坠亡幼童父亲称妻子想不通需宣泄#",
+      "rank": 4,
+      "title": "坠亡幼童父亲称妻子想不通需宣泄",
+      "topic_id": "231522a40d3b6af6df2a770598cfe5af31ba9f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#如果你出生于1992年至2003年之间#",
+      "rank": 5,
+      "title": "如果你出生于1992年至2003年之间",
+      "topic_id": "2315225a9b149ac101671cab82f339d91ce04f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "粉笔小作文",
+      "rank": 6,
+      "title": "粉笔小作文",
+      "topic_id": "231522e184de559b2943df698b6cbc01a1d7fa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "月薪1万已超过80%的人",
+      "rank": 7,
+      "title": "月薪1万已超过80%的人",
+      "topic_id": "231522ebfda83a23e7b79c4497f19b5cb1183a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#孙颖莎说住邮轮挺新鲜的#",
+      "rank": 8,
+      "title": "孙颖莎说住邮轮挺新鲜的",
+      "topic_id": "231522573a14675f75ba6810a7fd1b7ef82757"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#浙江一猪景房8888元一晚#",
+      "rank": 9,
+      "title": "浙江一猪景房8888元一晚",
+      "topic_id": "231522fb06af936070345e4b08d3670fac81ea"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "华为赛力斯合作模式",
+      "rank": 10,
+      "title": "华为赛力斯合作模式",
+      "topic_id": "231522f74bbf07a403be4c4c504a56c8808919"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#白举纲婚礼照片#",
+      "rank": 11,
+      "title": "白举纲婚礼照片",
+      "topic_id": "231522d2af79052d76f2e739b7e40d099a70d0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#王力宏帮陈建州拿尿壶#",
+      "rank": 12,
+      "title": "王力宏帮陈建州拿尿壶",
+      "topic_id": "23152288538ba0a76d14a3837e04f76481556c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "问界撤出鸿蒙智行门店",
+      "rank": 13,
+      "title": "问界撤出鸿蒙智行门店",
+      "topic_id": "231522e4ea90ad0e8f5fc2f4af6b4a6e4df9a8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#幼童坠亡父亲或涉过失致死罪#",
+      "rank": 14,
+      "title": "幼童坠亡父亲或涉过失致死罪",
+      "topic_id": "231522cf70d0cead205a3ce5e80a592153a1a8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#IU回应去上海的诡异穿搭#",
+      "rank": 15,
+      "title": "IU回应去上海的诡异穿搭",
+      "topic_id": "231522d722e98de9437f84d977b96fbfe8e812"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "影视飓风 iPhoneDuo",
+      "rank": 16,
+      "title": "影视飓风 iPhoneDuo",
+      "topic_id": "2315220f1ce8cdda77b8ae4951212f48ad515b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "赛力斯",
+      "rank": 17,
+      "title": "赛力斯",
+      "topic_id": "231522b94f290c111e2203fa11111fd5edcaf4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "亚运会 离谱",
+      "rank": 18,
+      "title": "亚运会 离谱",
+      "topic_id": "231522d90e4e46a7b4ee840a7bc6026d465bc5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#陈建州长期睡眠不足#",
+      "rank": 19,
+      "title": "陈建州长期睡眠不足",
+      "topic_id": "23152264fdfc0067ee29f46c232d473a6abdba"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#飞机上全程禁止使用充电宝#",
+      "rank": 20,
+      "title": "飞机上全程禁止使用充电宝",
+      "topic_id": "23152286a3946974410e59125b4e2beca65afb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 5,
+      "posts": "saved",
+      "query": "#一点点前员工否认多次勒索品牌奶茶店#",
+      "rank": 21,
+      "title": "一点点前员工否认多次勒索品牌奶茶店",
+      "topic_id": "231522e2242475f1fa903b47ed29c62fcfea68"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 7,
+      "posts": "saved",
+      "query": "#56岁保安遭业主推搡倒地21天后死亡#",
+      "rank": 22,
+      "title": "56岁保安遭业主推搡倒地21天后死亡",
+      "topic_id": "2315229b5f37afe1d9171e201496a84c1e81bc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝85花和老公已离婚#",
+      "rank": 23,
+      "title": "曝85花和老公已离婚",
+      "topic_id": "2315223195c14833590d60d666e52d48f8a78b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#TES对战iG#",
+      "rank": 24,
+      "title": "TES对战iG",
+      "topic_id": "231522f89abc2a0915d9abd2c051c46dcbea05"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "周柯宇向涵之 恶作剧之吻",
+      "rank": 25,
+      "title": "周柯宇向涵之 恶作剧之吻",
+      "topic_id": "231522afdcd8205bc5b697f2aecc312fb2d67f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#大娘说拼多多进村后日子好了咱猛活#",
+      "rank": 26,
+      "title": "大娘说拼多多进村后日子好了咱猛活",
+      "topic_id": "231522428847bed3a3c8261c1dbea3119d8f9c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#2岁女孩洗澡被独自留浴室重度烫伤#",
+      "rank": 27,
+      "title": "2岁女孩洗澡被独自留浴室重度烫伤",
+      "topic_id": "23152202a721aaff5b681065db9bdb65090740"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "关于我舍友装外国人催发货",
+      "rank": 28,
+      "title": "关于我舍友装外国人催发货",
+      "topic_id": "231522affc45d13bfcab98c124de6af0cb8a3b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "问界独立迎接暴风雨",
+      "rank": 29,
+      "title": "问界独立迎接暴风雨",
+      "topic_id": "2315220a692f77d2bdf67e89c8facd8c8ecffb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#美国大模型已被日本错误历史观污染#",
+      "rank": 30,
+      "title": "美国大模型已被日本错误历史观污染",
+      "topic_id": "2315223e0b62bfb13405c58edc43420d119400"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#2岁幼童坠亡12分钟里发生了什么#",
+      "rank": 31,
+      "title": "2岁幼童坠亡12分钟里发生了什么",
+      "topic_id": "231522dafbd534ac0da510e7d40d6de20bc209"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "让你越睡越胖的姿势",
+      "rank": 32,
+      "title": "让你越睡越胖的姿势",
+      "topic_id": "2315229e7380ffe2ef6a00e46f78a8abe905dd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "影视飓风 敢说",
+      "rank": 33,
+      "title": "影视飓风 敢说",
+      "topic_id": "231522e7810936f10764123f79dcfabb0c38e7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "西雅图吸毒者末世景象",
+      "rank": 34,
+      "title": "西雅图吸毒者末世景象",
+      "topic_id": "231522856b907c7107d0c9715424f97e815f9d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#胡歌被排到了第八位#",
+      "rank": 35,
+      "title": "胡歌被排到了第八位",
+      "topic_id": "231522c10cbb0ee28d26e4940ee0b4b8f5865c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "人一旦有了一些奇怪的行为习惯",
+      "rank": 36,
+      "title": "人一旦有了一些奇怪的行为习惯",
+      "topic_id": "231522003a7747e85ff5bd745f685b3faeddcb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#Knight解说TES对战iG#",
+      "rank": 37,
+      "title": "Knight解说TES对战iG",
+      "topic_id": "2315228feb0ac8bd8adbc34b6b2f63a7beec26"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#高圆圆把防晒霜剪了带出门#",
+      "rank": 38,
+      "title": "高圆圆把防晒霜剪了带出门",
+      "topic_id": "231522701398c897a3a6bbdbb9b380a0aa0bc1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女孩为照顾弟弟错失保研被骂扶弟魔#",
+      "rank": 39,
+      "title": "女孩为照顾弟弟错失保研被骂扶弟魔",
+      "topic_id": "2315220730c63931b12a9d1667717d449a6d13"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#Angelababy又cos美少女战士#",
+      "rank": 40,
+      "title": "Angelababy又cos美少女战士",
+      "topic_id": "231522103b2e90e80c6044f2159c7a61eecb4f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "恋与深空",
+      "rank": 41,
+      "title": "恋与深空",
+      "topic_id": "23152212815f543b6754a64be7a4f150402e82"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#JackeyLove一滴血反杀#",
+      "rank": 42,
+      "title": "JackeyLove一滴血反杀",
+      "topic_id": "2315222f0023c697af3914b0f53e483bce36f6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "举手式睡姿是身体在求救",
+      "rank": 43,
+      "title": "举手式睡姿是身体在求救",
+      "topic_id": "23152287117b4ab31c8c0dafcfaca8c74aa1aa"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#兰香如故真是好大一张床啊#",
+      "rank": 44,
+      "title": "兰香如故真是好大一张床啊",
+      "topic_id": "231522e4e3e1dcfe36582c9c731a5aa00b5a0b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "晚晚 泡泡玛特",
+      "rank": 45,
+      "title": "晚晚 泡泡玛特",
+      "topic_id": "2315228ff6b065e1454d4fa9392cc50860faa2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#何同学开箱iPhone18后续#",
+      "rank": 46,
+      "title": "何同学开箱iPhone18后续",
+      "topic_id": "23152277eecc98fe40aa80ea6e985c43a231ce"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "人这一生只需要三种爱好",
+      "rank": 47,
+      "title": "人这一生只需要三种爱好",
+      "topic_id": "231522169ee240c51bf9b2313e72a93670db22"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#真正厉害的是长期主义者#",
+      "rank": 48,
+      "title": "真正厉害的是长期主义者",
+      "topic_id": "23152288b94ba3953aff6fd4711d6217f1f116"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#女子备孕两年未果取出197枚子宫肌瘤#",
+      "rank": 49,
+      "title": "女子备孕两年未果取出197枚子宫肌瘤",
+      "topic_id": "2315227875188fecf166e61a7c8735f97eaaa6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#只需一句话家越07全搞定#",
+      "rank": 50,
+      "title": "只需一句话家越07全搞定",
+      "topic_id": "2315225c826247b771a1fbc8dc8f9a6de776eb"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
