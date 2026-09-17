@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-17T14:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 47,
+    "ai_unchanged": 3,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#总书记这样嘱托人民公安#",
+      "rank": 1,
+      "title": "总书记这样嘱托人民公安",
+      "topic_id": "231522cae4a85a1add8e037d399d6f95ca3546"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "举手式睡姿是身体在求救",
+      "rank": 1,
+      "title": "举手式睡姿是身体在求救",
+      "topic_id": "23152287117b4ab31c8c0dafcfaca8c74aa1aa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#儿子突然的离世父亲的天塌了#",
+      "rank": 2,
+      "title": "儿子突然的离世父亲的天塌了",
+      "topic_id": "231522049afe2f6529d151ce21f1f270cf7ddc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#多举措发力推动经济持续向好#",
+      "rank": 3,
+      "title": "多举措发力推动经济持续向好",
+      "topic_id": "23152236c7d24cf6b6e3c3496d6280f8e95608"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#胡歌被排到了第八位#",
+      "rank": 4,
+      "title": "胡歌被排到了第八位",
+      "topic_id": "231522c10cbb0ee28d26e4940ee0b4b8f5865c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#2岁幼童从18楼坠亡事发时窗户没关#",
+      "rank": 5,
+      "title": "2岁幼童从18楼坠亡事发时窗户没关",
+      "topic_id": "231522e4a16659cea17d7f87baf319e91752c7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#影视飓风Tim称iPhoneDuo烫到握不住#",
+      "rank": 6,
+      "title": "影视飓风Tim称iPhoneDuo烫到握不住",
+      "topic_id": "2315224d77c6780b18cb141f5ffb9826594ebc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "小朋友什么行为显得没家教",
+      "rank": 7,
+      "title": "小朋友什么行为显得没家教",
+      "topic_id": "231522924ec8fd9cb5f036a049833dd10d11bc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张博恒滞留日本机场后发文怒斥#",
+      "rank": 8,
+      "title": "张博恒滞留日本机场后发文怒斥",
+      "topic_id": "23152215a0842cee04445de7b2b94dc31c444a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 5,
+      "posts": "saved",
+      "query": "#王楚钦孙颖莎亚运会场地训练画面#",
+      "rank": 9,
+      "title": "王楚钦孙颖莎亚运会场地训练画面",
+      "topic_id": "23152237bc27aa04ad22f8decd9b8493c5f05e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#众多央视主持人现场送别敬一丹#",
+      "rank": 10,
+      "title": "众多央视主持人现场送别敬一丹",
+      "topic_id": "23152291fa5e597441daa6b253852eb12e8e96"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#小雪删除互动回复#",
+      "rank": 11,
+      "title": "小雪删除互动回复",
+      "topic_id": "2315224a6da333dcde8378222b9482dc6c72e8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "晚晚 泡泡玛特",
+      "rank": 12,
+      "title": "晚晚 泡泡玛特",
+      "topic_id": "2315228ff6b065e1454d4fa9392cc50860faa2"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "月薪1万已超过80%的人",
+      "rank": 13,
+      "title": "月薪1万已超过80%的人",
+      "topic_id": "231522ebfda83a23e7b79c4497f19b5cb1183a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#景甜风波后首个封面#",
+      "rank": 14,
+      "title": "景甜风波后首个封面",
+      "topic_id": "2315221c49ae75c79911acb765670369908fa9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "范玮琪7年6大失言争议",
+      "rank": 15,
+      "title": "范玮琪7年6大失言争议",
+      "topic_id": "231522e9a5ef5c7a68af30a19686a3938f7bb3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#坠亡幼童父亲举报妻子侵犯肖像权#",
+      "rank": 16,
+      "title": "坠亡幼童父亲举报妻子侵犯肖像权",
+      "topic_id": "2315220e8446c1ea2632c95e910a0bb11f5235"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#刘冲夸肖战#",
+      "rank": 17,
+      "title": "刘冲夸肖战",
+      "topic_id": "23152242e259598359a2d6ff60af773e1d75d4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#李宁户外山河入色系列#",
+      "rank": 18,
+      "title": "李宁户外山河入色系列",
+      "topic_id": "231522fdee82f917fa9c7e67f26512733094cf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#名古屋亚运村房间转身都困难#",
+      "rank": 19,
+      "title": "名古屋亚运村房间转身都困难",
+      "topic_id": "2315225090b127ab0f93582b09ec5d2151134e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#编造导师压榨坠楼学生谣言涉嫌犯罪#",
+      "rank": 20,
+      "title": "编造导师压榨坠楼学生谣言涉嫌犯罪",
+      "topic_id": "23152267c5411c6fd2bd5a7ee8d3eb5ec57b3f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#影视飓风Tim反掰iPhoneDuo被质疑#",
+      "rank": 21,
+      "title": "影视飓风Tim反掰iPhoneDuo被质疑",
+      "topic_id": "23152236150d334e109f33a488515d1a5b1447"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#游客建议车站改名后12306已加提示#",
+      "rank": 22,
+      "title": "游客建议车站改名后12306已加提示",
+      "topic_id": "2315226bedd31a047ef566da72926e74951fb9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#Tim反向掰一下iPhoneDuo后出现闪屏#",
+      "rank": 23,
+      "title": "Tim反向掰一下iPhoneDuo后出现闪屏",
+      "topic_id": "2315223aadbbe9b7c6e8c19dbc7a4f6d12b2f0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "KPL经典五人组重聚",
+      "rank": 24,
+      "title": "KPL经典五人组重聚",
+      "topic_id": "231522343d173b546d13d247618a290f1b8aa9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#康辉送别敬一丹#",
+      "rank": 25,
+      "title": "康辉送别敬一丹",
+      "topic_id": "2315228072f3752f14b17b88c6b112225204d7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#浙江一猪景房8888元一晚#",
+      "rank": 26,
+      "title": "浙江一猪景房8888元一晚",
+      "topic_id": "231522fb06af936070345e4b08d3670fac81ea"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#范玮琪说不然就会像大S#",
+      "rank": 27,
+      "title": "范玮琪说不然就会像大S",
+      "topic_id": "231522983ff3a15949daaaaf2df5a8a1e5c6be"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "张百乔小雪 没离婚",
+      "rank": 28,
+      "title": "张百乔小雪 没离婚",
+      "topic_id": "2315225362fab573d168ded2e1d21df8eba978"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#国乒男队去哪了#",
+      "rank": 29,
+      "title": "国乒男队去哪了",
+      "topic_id": "23152204974ff9350310ef1d187af9cb590b95"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#一点点否认威胁离职员工家人#",
+      "rank": 30,
+      "title": "一点点否认威胁离职员工家人",
+      "topic_id": "23152218d4a045c83c0c06976af242552d3765"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#敬一丹告别仪式#",
+      "rank": 31,
+      "title": "敬一丹告别仪式",
+      "topic_id": "2315227cfc12a96331db797b42f6a5803407c0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#肖战圆头被当VOGUE的O#",
+      "rank": 32,
+      "title": "肖战圆头被当VOGUE的O",
+      "topic_id": "231522d7592c20451dea17e3303b117b3c7ff2"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曹骏徐正溪领衔主演何不同舟渡#",
+      "rank": 33,
+      "title": "曹骏徐正溪领衔主演何不同舟渡",
+      "topic_id": "2315224e8003dd2ce5196670a06ca68dfc7637"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "22岁全款300万买房后的生活",
+      "rank": 34,
+      "title": "22岁全款300万买房后的生活",
+      "topic_id": "2315224c821defacb98acb0100949026df8d05"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "恋与深空",
+      "rank": 35,
+      "title": "恋与深空",
+      "topic_id": "23152212815f543b6754a64be7a4f150402e82"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "湾区升明月晚会 阵容",
+      "rank": 36,
+      "title": "湾区升明月晚会 阵容",
+      "topic_id": "23152293e686537986c799fb4b7e8b0ab3ec55"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#长生契定档0924#",
+      "rank": 37,
+      "title": "长生契定档0924",
+      "topic_id": "23152268784184477de411bc285553d692d3f8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#敬一丹账号发文#",
+      "rank": 38,
+      "title": "敬一丹账号发文",
+      "topic_id": "231522122d6ecef025dd0d586550e39399ffe1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#外来入侵物种鳄雀鳝现身河道#",
+      "rank": 39,
+      "title": "外来入侵物种鳄雀鳝现身河道",
+      "topic_id": "231522ef8dd04c49b1f323157fd3c5bc2b4518"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#保洁员出卖国家机密获刑10年#",
+      "rank": 40,
+      "title": "保洁员出卖国家机密获刑10年",
+      "topic_id": "2315228dcf19454360740491a55813262a305c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#南医大坠亡事件导师学生聊天记录#",
+      "rank": 41,
+      "title": "南医大坠亡事件导师学生聊天记录",
+      "topic_id": "231522e42344f60ab1909509cf2167c7efb5c0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 8,
+      "posts": "saved",
+      "query": "老人手机遭流氓软件侵扰",
+      "rank": 42,
+      "title": "老人手机遭流氓软件侵扰",
+      "topic_id": "2315227904676cffa4b48f1dc2b0edffb06ffd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#南医大坠楼案反转传谣始作俑者是谁#",
+      "rank": 43,
+      "title": "南医大坠楼案反转传谣始作俑者是谁",
+      "topic_id": "2315227a05796496142efda112c433f8626b13"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#天哪这就1000块了#",
+      "rank": 44,
+      "title": "天哪这就1000块了",
+      "topic_id": "231522b08ac507f64d2872baa70171d60ec0f1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#37岁女子备孕拒体检确诊癌症晚期#",
+      "rank": 45,
+      "title": "37岁女子备孕拒体检确诊癌症晚期",
+      "topic_id": "2315227bc9e71ceaf408b98658e71d31b1e459"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "早春晴朗 干净的双赢",
+      "rank": 46,
+      "title": "早春晴朗 干净的双赢",
+      "topic_id": "2315228bc5096c4614a3e82b768b47cc582628"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#国乒3小时vs日乒30分钟往返通勤#",
+      "rank": 47,
+      "title": "国乒3小时vs日乒30分钟往返通勤",
+      "topic_id": "231522c5e4d0be70d3b0b6296be6289ee3c150"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#又被蒋奇明钓到了#",
+      "rank": 48,
+      "title": "又被蒋奇明钓到了",
+      "topic_id": "23152297f1f5906aae4deb4e84a28f6247b8cc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#张译杀青把花送给王俊凯了#",
+      "rank": 49,
+      "title": "张译杀青把花送给王俊凯了",
+      "topic_id": "231522e731244f6a786c64c1dc82938c249264"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#陈鲁豫对话佟丽娅#",
+      "rank": 50,
+      "title": "陈鲁豫对话佟丽娅",
+      "topic_id": "231522129fa602ac50c5119f9403ec1b4dfe71"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
