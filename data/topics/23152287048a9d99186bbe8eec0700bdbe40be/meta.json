@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 2028810631
   },
-  "last_seen_at": "2026-09-17T06:00:00+08:00",
+  "last_seen_at": "2026-09-17T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%AD%E5%9B%BD%E4%BD%93%E6%93%8D%E9%98%9F%E5%9C%A8%E6%9C%BA%E5%9C%BA%E7%AD%89%E4%BA%866%E5%B0%8F%E6%97%B6%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "9家媒体",
     "users": [
       {
         "id": 2028810631,
         "idstr": "2028810631",
         "screen_name": "新浪新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5822206027,
+        "idstr": "5822206027",
+        "screen_name": "北斗融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5396094153,
+        "idstr": "5396094153",
+        "screen_name": "大众新闻-大众日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1943154142,
+        "idstr": "1943154142",
+        "screen_name": "中安在线",
         "verified": true,
         "verified_type": 3
       },
