@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1656737654
   },
-  "last_seen_at": "2026-09-17T14:00:00+08:00",
+  "last_seen_at": "2026-09-17T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%BC%96%E9%80%A0%E5%AF%BC%E5%B8%88%E5%8E%8B%E6%A6%A8%E5%9D%A0%E6%A5%BC%E5%AD%A6%E7%94%9F%E8%B0%A3%E8%A8%80%E6%B6%89%E5%AB%8C%E7%8A%AF%E7%BD%AA%23%26t%3D3&title=发布媒体",
-    "show_str": "39家媒体",
+    "show_str": "57家媒体",
     "users": [
       {
         "id": 1656737654,
         "idstr": "1656737654",
         "screen_name": "现代快报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497087080,
+        "idstr": "1497087080",
+        "screen_name": "羊城晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -44,25 +51,18 @@
         "verified_type": 3
       },
       {
+        "id": 6357456494,
+        "idstr": "6357456494",
+        "screen_name": "果然视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 5822206027,
         "idstr": "5822206027",
         "screen_name": "北斗融媒",
         "verified": true,
         "verified_type": 3
-      },
-      {
-        "id": 5237278176,
-        "idstr": "5237278176",
-        "screen_name": "中国城市报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5119282557,
-        "idstr": "5119282557",
-        "screen_name": "凤凰网安徽",
-        "verified": true,
-        "verified_type": 2
       }
     ]
   },
