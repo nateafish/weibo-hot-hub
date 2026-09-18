@@ -3,11 +3,18 @@
   "created_at": 1789729460,
   "first_seen_at": "2026-09-18T21:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-18T22:00:00+08:00",
+  "last_seen_at": "2026-09-19T01:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E6%95%B0%E6%8D%AE%E5%80%92%E6%8C%82%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "8家媒体",
     "users": [
+      {
+        "id": 7422806367,
+        "idstr": "7422806367",
+        "screen_name": "中网传播",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 5396094153,
         "idstr": "5396094153",
@@ -23,6 +30,20 @@
         "verified_type": 3
       },
       {
+        "id": 2183542485,
+        "idstr": "2183542485",
+        "screen_name": "西安广播电视台",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1893892941,
+        "idstr": "1893892941",
+        "screen_name": "北京日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1738004582,
         "idstr": "1738004582",
         "screen_name": "纵览新闻",
@@ -30,9 +51,9 @@
         "verified_type": 3
       },
       {
-        "id": 1647210043,
-        "idstr": "1647210043",
-        "screen_name": "百姓关注",
+        "id": 1657914910,
+        "idstr": "1657914910",
+        "screen_name": "烟台日报社大小新闻",
         "verified": true,
         "verified_type": 3
       }
