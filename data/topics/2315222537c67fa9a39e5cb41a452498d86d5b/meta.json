@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 6200688777
   },
-  "last_seen_at": "2026-09-18T12:00:00+08:00",
+  "last_seen_at": "2026-09-18T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%B2%89%E7%AC%94%E6%9C%80%E6%96%B0%E5%B0%8F%E4%BD%9C%E6%96%87%E8%A2%AB%E6%8C%87%E4%B8%8D%E5%B0%8A%E9%87%8D%E5%A5%B3%E6%80%A7%23%26t%3D3&title=发布媒体",
-    "show_str": "13家媒体",
+    "show_str": "17家媒体",
     "users": [
+      {
+        "id": 5821006161,
+        "idstr": "5821006161",
+        "screen_name": "AI科技融媒",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 7613700701,
         "idstr": "7613700701",
@@ -28,6 +35,13 @@
         "screen_name": "共鸣视讯",
         "verified": true,
         "verified_type": 2
+      },
+      {
+        "id": 7313242117,
+        "idstr": "7313242117",
+        "screen_name": "深度视频",
+        "verified": false,
+        "verified_type": -1
       },
       {
         "id": 7308140398,
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 5821006161,
-        "idstr": "5821006161",
-        "screen_name": "AI科技融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 5820973786,
         "idstr": "5820973786",
         "screen_name": "互因科技",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3169721372,
-        "idstr": "3169721372",
-        "screen_name": "巨流视频",
         "verified": true,
         "verified_type": 3
       }
