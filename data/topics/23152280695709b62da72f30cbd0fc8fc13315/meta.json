@@ -3,11 +3,19 @@
   "created_at": 1789726612,
   "first_seen_at": "2026-09-18T19:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-18T19:00:00+08:00",
+  "last_seen_at": "2026-09-18T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%98%94%E7%9B%B4%E6%9D%BF%E5%BD%A2%E6%80%81%E6%89%8B%E6%9C%BA%E5%8F%97%E6%AC%A2%E8%BF%8E%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "1家媒体",
+    "users": [
+      {
+        "id": 1943154142,
+        "idstr": "1943154142",
+        "screen_name": "中安在线",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "阔直板形态手机受欢迎",
   "search_url": "https://s.weibo.com/weibo?q=%23%E9%98%94%E7%9B%B4%E6%9D%BF%E5%BD%A2%E6%80%81%E6%89%8B%E6%9C%BA%E5%8F%97%E6%AC%A2%E8%BF%8E%23",

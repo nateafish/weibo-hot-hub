@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 6151836498
   },
-  "last_seen_at": "2026-09-18T21:00:00+08:00",
+  "last_seen_at": "2026-09-18T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9B%9D%E8%94%A1%E5%8D%93%E5%A6%8D%E7%96%91%E4%BC%BC%E6%80%80%E5%AD%95%23%26t%3D3&title=发布媒体",
-    "show_str": "21家媒体",
+    "show_str": "22家媒体",
     "users": [
       {
         "id": 2286092114,
@@ -44,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 1398613133,
+        "idstr": "1398613133",
+        "screen_name": "马上资讯",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1280846847,
         "idstr": "1280846847",
         "screen_name": "指尖新闻-沈阳晚报",
@@ -56,13 +63,6 @@
         "screen_name": "半岛晨报",
         "verified": true,
         "verified_type": 3
-      },
-      {
-        "id": 6590980486,
-        "idstr": "6590980486",
-        "screen_name": "捉谣记",
-        "verified": true,
-        "verified_type": 7
       }
     ]
   },
