@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1618051664
   },
-  "last_seen_at": "2026-09-18T10:00:00+08:00",
+  "last_seen_at": "2026-09-18T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%99%88%E5%BB%BA%E5%B7%9E%E6%9C%89%E4%B8%80%E6%9D%A1%E8%A1%80%E7%AE%A1%E5%AE%8C%E5%85%A8%E5%A1%9E%E4%BD%8F%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "34家媒体",
     "users": [
       {
         "id": 1618051664,
@@ -23,39 +23,46 @@
         "verified_type": 3
       },
       {
+        "id": 1774057271,
+        "idstr": "1774057271",
+        "screen_name": "生命时报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497087080,
+        "idstr": "1497087080",
+        "screen_name": "羊城晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7422806367,
+        "idstr": "7422806367",
+        "screen_name": "中网传播",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7020664161,
+        "idstr": "7020664161",
+        "screen_name": "福建经济生活频道",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6993844458,
+        "idstr": "6993844458",
+        "screen_name": "微博泛生活",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6590980486,
         "idstr": "6590980486",
         "screen_name": "捉谣记",
         "verified": true,
         "verified_type": 7
-      },
-      {
-        "id": 6092578444,
-        "idstr": "6092578444",
-        "screen_name": "新浪种草官",
-        "verified": true,
-        "verified_type": 7
-      },
-      {
-        "id": 5341241739,
-        "idstr": "5341241739",
-        "screen_name": "网易健康",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2647971081,
-        "idstr": "2647971081",
-        "screen_name": "时速新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1880922220,
-        "idstr": "1880922220",
-        "screen_name": "金华晚报",
-        "verified": true,
-        "verified_type": 3
       }
     ]
   },

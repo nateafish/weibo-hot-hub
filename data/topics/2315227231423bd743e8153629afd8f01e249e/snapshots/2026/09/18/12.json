@@ -1,0 +1,227 @@
+{
+  "captured_at": "2026-09-18T12:00:00+08:00",
+  "contributors": [
+    {
+      "contribution": 10,
+      "profile_url": "https://weibo.com/u/7792274760",
+      "rank": 1,
+      "uid": "7792274760",
+      "username": "文娱社长",
+      "verified": false,
+      "verified_type": -1
+    },
+    {
+      "contribution": 10,
+      "profile_url": "https://weibo.com/u/7308034510",
+      "rank": 2,
+      "uid": "7308034510",
+      "username": "星圈文娱",
+      "verified": false,
+      "verified_type": -1
+    },
+    {
+      "contribution": 6,
+      "profile_url": "https://weibo.com/u/7484789926",
+      "rank": 3,
+      "uid": "7484789926",
+      "username": "江晚月畔",
+      "verified": true,
+      "verified_type": 0
+    },
+    {
+      "contribution": 6,
+      "profile_url": "https://weibo.com/u/5705021476",
+      "rank": 4,
+      "uid": "5705021476",
+      "username": "芒果捞小萌主",
+      "verified": true,
+      "verified_type": 0
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/9079298210",
+      "rank": 5,
+      "uid": "9079298210",
+      "username": "格外平凡",
+      "verified": true,
+      "verified_type": 0
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/8389021553",
+      "rank": 6,
+      "uid": "8389021553",
+      "username": "好好生活512",
+      "verified": true,
+      "verified_type": 0
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/8014302313",
+      "rank": 7,
+      "uid": "8014302313",
+      "username": "星禾娱记",
+      "verified": true,
+      "verified_type": 0
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/7922073759",
+      "rank": 8,
+      "uid": "7922073759",
+      "username": "绮Kimberly",
+      "verified": true,
+      "verified_type": 0
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/7900487181",
+      "rank": 9,
+      "uid": "7900487181",
+      "username": "电台播放器",
+      "verified": false,
+      "verified_type": -1
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/7871762214",
+      "rank": 10,
+      "uid": "7871762214",
+      "username": "从不追星199905",
+      "verified": true,
+      "verified_type": 0
+    }
+  ],
+  "contributors_scheme": "sinaweibo://cardlist?containerid=231522type%3D103%26q%3D%23%E9%83%91%E6%81%BA4%E5%B2%81%E5%84%BF%E5%AD%90%E8%BF%91%E7%85%A7%23&title=话题贡献者排行",
+  "current_boards": {
+    "fun_band": {
+      "ori": {
+        "category": "艺人",
+        "is_boom": 0,
+        "onband": 1,
+        "pos": 26,
+        "subject_querys": [
+          {
+            "scheme_query": "",
+            "subject_query": "郑恺",
+            "subject_type": "明星人物"
+          }
+        ]
+      },
+      "scheme": "sinaweibo://pageinfo?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Dfun&title=文娱榜&extparam=",
+      "sub_info": [],
+      "text": "文娱榜第26位"
+    },
+    "hot_band_24_hour": {
+      "ori": {
+        "on_band": 1
+      }
+    }
+  },
+  "exact_counts": {
+    "buy_num": 0,
+    "g_mention": 142,
+    "gone_num": 0,
+    "interact": 1062,
+    "mention": 142,
+    "ori_m": 39,
+    "ori_uv": 34,
+    "r_valid": 2878501,
+    "read": 3062578,
+    "rec_num": 0,
+    "show": 0,
+    "star": 1.5,
+    "t_m_num": 27,
+    "t_r_num": 2960766,
+    "wants_num": 0
+  },
+  "heat": 1,
+  "overview": {
+    "24h": {
+      "interaction": {
+        "unit": "",
+        "val": 1062
+      },
+      "mention": {
+        "unit": "",
+        "val": 142
+      },
+      "original": {
+        "unit": "",
+        "val": 39
+      },
+      "read": {
+        "unit": "万",
+        "val": 304.8
+      }
+    },
+    "30d": {
+      "interaction": {
+        "unit": "",
+        "val": 1062
+      },
+      "mention": {
+        "unit": "",
+        "val": 142
+      },
+      "original": {
+        "unit": "",
+        "val": 39
+      },
+      "read": {
+        "unit": "万",
+        "val": 304.8
+      }
+    },
+    "all": {
+      "interaction": {
+        "unit": "",
+        "val": 1062
+      },
+      "mention": {
+        "unit": "",
+        "val": 142
+      },
+      "original": {
+        "unit": "",
+        "val": 39
+      },
+      "read": {
+        "unit": "万",
+        "val": 306.3
+      }
+    }
+  },
+  "rank_history": [
+    {
+      "cate": "hot_board",
+      "cate_desc": "热搜榜",
+      "duration_hour": 0,
+      "duration_minute": 23,
+      "duration_mod_min": 23,
+      "off_board_time": "202609181217",
+      "on_board_time": "202609181155",
+      "top_pos": 39,
+      "topic_flag": 1
+    },
+    {
+      "cate": "enter_board",
+      "cate_desc": "文娱榜",
+      "duration_hour": 0,
+      "duration_minute": 23,
+      "duration_mod_min": 23,
+      "off_board_time": "202609181218",
+      "on_board_time": "202609181156",
+      "top_pos": 24,
+      "topic_flag": 1
+    }
+  ],
+  "title": "郑恺4岁儿子近照",
+  "topic_id": "2315227231423bd743e8153629afd8f01e249e",
+  "window_counts": {
+    "1h_mention": 30,
+    "1h_ori_m": 19,
+    "24h_mention": 142,
+    "24h_read": 3047637
+  }
+}
