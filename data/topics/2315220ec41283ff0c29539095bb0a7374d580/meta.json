@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 6364463717
   },
-  "last_seen_at": "2026-09-18T19:00:00+08:00",
+  "last_seen_at": "2026-09-18T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE%23%26t%3D3&title=发布媒体",
-    "show_str": "270家媒体",
+    "show_str": "316家媒体",
     "users": [
       {
         "id": 6364463717,
@@ -37,6 +37,13 @@
         "verified_type": 7
       },
       {
+        "id": 1744332207,
+        "idstr": "1744332207",
+        "screen_name": "钱江视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1819318401,
         "idstr": "1819318401",
         "screen_name": "央视网体育",
@@ -49,20 +56,13 @@
         "screen_name": "北青体育",
         "verified": true,
         "verified_type": 3
-      },
-      {
-        "id": 5350271203,
-        "idstr": "5350271203",
-        "screen_name": "体坛周报",
-        "verified": true,
-        "verified_type": 3
       }
     ]
   },
   "query": "中国男篮vs日本男篮",
   "search_url": "https://s.weibo.com/weibo/%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE%23",
   "sub_category": null,
-  "summary": "2026亚运会半决赛，中国男篮对阵日本男篮。",
+  "summary": "2026亚运会男篮半决赛，中国77-97不敌日本，无缘决赛。",
   "title": "中国男篮vs日本男篮",
   "topic_id": "2315220ec41283ff0c29539095bb0a7374d580"
 }

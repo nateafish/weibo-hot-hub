@@ -3,15 +3,43 @@
   "created_at": 1789725345,
   "first_seen_at": "2026-09-18T19:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-18T19:00:00+08:00",
+  "last_seen_at": "2026-09-18T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E7%94%9F%E5%90%A6%E8%AE%A4%E4%BE%B5%E5%8D%8E%E5%8E%86%E5%8F%B2%E8%A2%AB%E6%80%BC%E7%A0%B4%E9%98%B2%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "5家媒体",
     "users": [
       {
         "id": 7476748260,
         "idstr": "7476748260",
         "screen_name": "大公文匯網",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3266943013,
+        "idstr": "3266943013",
+        "screen_name": "央视网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1727472420,
+        "idstr": "1727472420",
+        "screen_name": "泰山晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1043320390,
+        "idstr": "1043320390",
+        "screen_name": "半岛晨报",
         "verified": true,
         "verified_type": 3
       }
