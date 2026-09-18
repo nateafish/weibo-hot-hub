@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2286092114
   },
-  "last_seen_at": "2026-09-18T07:00:00+08:00",
+  "last_seen_at": "2026-09-18T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23HYROX%E5%A4%B1%E7%A6%81%E5%A5%B3%E9%80%89%E6%89%8B%E8%87%B4%E6%AD%89%23%26t%3D3&title=发布媒体",
-    "show_str": "56家媒体",
+    "show_str": "60家媒体",
     "users": [
       {
         "id": 2286092114,
@@ -26,6 +26,13 @@
         "id": 1744332207,
         "idstr": "1744332207",
         "screen_name": "钱江视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1667867495,
+        "idstr": "1667867495",
+        "screen_name": "五星体育广播",
         "verified": true,
         "verified_type": 3
       },
@@ -51,16 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 5350271203,
-        "idstr": "5350271203",
-        "screen_name": "体坛周报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2460937233,
-        "idstr": "2460937233",
-        "screen_name": "热度新闻",
+        "id": 1314608344,
+        "idstr": "1314608344",
+        "screen_name": "新闻晨报",
         "verified": true,
         "verified_type": 3
       }
