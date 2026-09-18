@@ -3,15 +3,36 @@
   "created_at": 1789696218,
   "first_seen_at": "2026-09-18T12:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-18T14:00:00+08:00",
+  "last_seen_at": "2026-09-18T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BA%BA%E4%B8%80%E6%97%A6%E7%8B%AC%E5%B1%85%E5%B0%B1%E4%BC%9A%E8%A7%A3%E9%94%81%E8%BF%87%E6%97%A5%E5%AD%90%E7%B3%BB%E7%BB%9F%23%26t%3D3&title=发布媒体",
-    "show_str": "14家媒体",
+    "show_str": "20家媒体",
     "users": [
       {
         "id": 2115259662,
         "idstr": "2115259662",
         "screen_name": "洪观新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1280846847,
+        "idstr": "1280846847",
+        "screen_name": "指尖新闻-沈阳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5652470745,
+        "idstr": "5652470745",
+        "screen_name": "广西都市频道",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3165101432,
+        "idstr": "3165101432",
+        "screen_name": "广元日报看广元",
         "verified": true,
         "verified_type": 3
       },
@@ -33,27 +54,6 @@
         "id": 1958132051,
         "idstr": "1958132051",
         "screen_name": "中国商报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1913382117,
-        "idstr": "1913382117",
-        "screen_name": "深圳晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1725252714,
-        "idstr": "1725252714",
-        "screen_name": "温度新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1723216063,
-        "idstr": "1723216063",
-        "screen_name": "佛山新闻",
         "verified": true,
         "verified_type": 3
       }

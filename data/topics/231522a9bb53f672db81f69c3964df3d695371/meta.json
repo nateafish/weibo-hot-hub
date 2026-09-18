@@ -3,11 +3,32 @@
   "created_at": 1789694613,
   "first_seen_at": "2026-09-18T12:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-18T14:00:00+08:00",
+  "last_seen_at": "2026-09-18T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%8D%E8%A6%81%E5%8E%BB%E5%9B%9E%E9%81%BF%E4%BA%BA%E7%94%9F%E8%AF%BE%E9%A2%98%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "6家媒体",
     "users": [
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5652470745,
+        "idstr": "5652470745",
+        "screen_name": "广西都市频道",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2663751563,
+        "idstr": "2663751563",
+        "screen_name": "南京广播电视台",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2000016880,
         "idstr": "2000016880",
@@ -19,6 +40,13 @@
         "id": 1744332207,
         "idstr": "1744332207",
         "screen_name": "钱江视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1636678683,
+        "idstr": "1636678683",
+        "screen_name": "长天新闻",
         "verified": true,
         "verified_type": 3
       }
