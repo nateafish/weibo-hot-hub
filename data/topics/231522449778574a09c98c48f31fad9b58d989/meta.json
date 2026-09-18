@@ -10,7 +10,7 @@
     "status": 2,
     "uid": 5762891674
   },
-  "last_seen_at": "2026-09-19T04:00:00+08:00",
+  "last_seen_at": "2026-09-19T05:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%A2%85%E6%AF%92%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%9B%B0%E6%89%B0%E5%B9%B4%E8%BD%BB%E4%BA%BA%23%26t%3D3&title=发布媒体",
     "show_str": "6家媒体",
@@ -19,6 +19,13 @@
         "id": 5762891674,
         "idstr": "5762891674",
         "screen_name": "密度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1746067030,
+        "idstr": "1746067030",
+        "screen_name": "937江苏新闻广播",
         "verified": true,
         "verified_type": 3
       },
@@ -40,13 +47,6 @@
         "id": 1841812881,
         "idstr": "1841812881",
         "screen_name": "生活帮",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1746067030,
-        "idstr": "1746067030",
-        "screen_name": "937江苏新闻广播",
         "verified": true,
         "verified_type": 3
       },
