@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-18T10:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 48,
+    "ai_unchanged": 2,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#总书记引领科技强国路#",
+      "rank": 1,
+      "title": "总书记引领科技强国路",
+      "topic_id": "231522402164882fdbf525bfd713b0939fa772"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "918",
+      "rank": 1,
+      "title": "918",
+      "topic_id": "2315221e056d2b0ebd5c878c550da6ac5d3724"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#机顶盒即将退场#",
+      "rank": 2,
+      "title": "机顶盒即将退场",
+      "topic_id": "23152271eb3b2b0ee641608857df763ee13a66"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#第23届东博会峰会#",
+      "rank": 3,
+      "title": "第23届东博会峰会",
+      "topic_id": "231522ef7642cf1a6506241ba1d446a0492b0e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#上1休1上5休3#",
+      "rank": 4,
+      "title": "上1休1上5休3",
+      "topic_id": "23152255356211f9f517f0e639bc3da497c859"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#UFO高速飞过墨西哥城上空#",
+      "rank": 5,
+      "title": "UFO高速飞过墨西哥城上空",
+      "topic_id": "231522323bd36eccdd0b12285cc83169bf3bc8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "小猫寄养五天以为主人不要它了",
+      "rank": 6,
+      "title": "小猫寄养五天以为主人不要它了",
+      "topic_id": "2315221c8b97868f2a649c11c5d8c3d21203da"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#iPhoneDuo维修费8000#",
+      "rank": 7,
+      "title": "iPhoneDuo维修费8000",
+      "topic_id": "2315221b38c12bdd9bfbfa14c9f94e6e7d2919"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "918鸣笛",
+      "rank": 8,
+      "title": "918鸣笛",
+      "topic_id": "2315220105ab87a8fa309962e4cf7aecd4966d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "9点18分辽宁防空警报",
+      "rank": 9,
+      "title": "9点18分辽宁防空警报",
+      "topic_id": "23152254b2cd80bf4a3a207101ec416d702224"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#新疆阿勒泰34万只羊排队洗香香#",
+      "rank": 10,
+      "title": "新疆阿勒泰34万只羊排队洗香香",
+      "topic_id": "231522ad71d41993900e4c4f3e96b6164ed9ba"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#生娃失明失聪女子原本是英语老师#",
+      "rank": 11,
+      "title": "生娃失明失聪女子原本是英语老师",
+      "topic_id": "231522ba2f7bcca92de0fcbc4c8382fab4bc55"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "我们来了 刘雯",
+      "rank": 12,
+      "title": "我们来了 刘雯",
+      "topic_id": "231522331b0664e8f4fbe456b2d470a5da0efc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "粉笔 四海",
+      "rank": 13,
+      "title": "粉笔 四海",
+      "topic_id": "2315221e40d2456fee59d9e4bfcf2c5ea8116c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#幼童母亲称丈夫直到买墓地才悲伤#",
+      "rank": 14,
+      "title": "幼童母亲称丈夫直到买墓地才悲伤",
+      "topic_id": "231522c9049ec2e044d3c27cd86f0eb63013d0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#棣棣和耀文蹦极太酷了#",
+      "rank": 15,
+      "title": "棣棣和耀文蹦极太酷了",
+      "topic_id": "231522486a3a46609e6a3aa4fa1e5a9d93b060"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "九一八事变",
+      "rank": 16,
+      "title": "九一八事变",
+      "topic_id": "231522af2877ff58ac6a102e23cfdcd8016ba2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#医生回应举手式睡姿是身体在求救#",
+      "rank": 17,
+      "title": "医生回应举手式睡姿是身体在求救",
+      "topic_id": "2315225bf22e2c187c760da5fcf14430b083f0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "我们来了",
+      "rank": 18,
+      "title": "我们来了",
+      "topic_id": "2315229cdaf95523813c9f6eea4c82ba52b20e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#iPhone18ProMax加价二三百#",
+      "rank": 19,
+      "title": "iPhone18ProMax加价二三百",
+      "topic_id": "2315221585f5f7f3051ebe8890bee7d48df8d2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#国际大花李冰冰国民女主白鹿对应照片#",
+      "rank": 20,
+      "title": "国际大花李冰冰国民女主白鹿对应照片",
+      "topic_id": "23152232b16baaa7d642bb1021fcb8fd4315a2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝85花和老公已离婚#",
+      "rank": 21,
+      "title": "曝85花和老公已离婚",
+      "topic_id": "2315223195c14833590d60d666e52d48f8a78b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#终于知道工作能力强是什么样的#",
+      "rank": 22,
+      "title": "终于知道工作能力强是什么样的",
+      "topic_id": "231522179860e1bf2603bebe7a93b5deb9aa8a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#上门女婿创业翻身改儿子姓氏起争议#",
+      "rank": 23,
+      "title": "上门女婿创业翻身改儿子姓氏起争议",
+      "topic_id": "2315228f3a4e3f565775bd65160dd1c10d01c7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "狗狗目睹抓狗现场吓到不敢动",
+      "rank": 24,
+      "title": "狗狗目睹抓狗现场吓到不敢动",
+      "topic_id": "23152252070c8e919b3153c3cd8ee34e62764b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#陈建州有一条血管完全塞住#",
+      "rank": 25,
+      "title": "陈建州有一条血管完全塞住",
+      "topic_id": "23152245e0cb5a17972f469be8b3a16037ad55"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#当朋友问我为什么会和我老公在一起时#",
+      "rank": 26,
+      "title": "当朋友问我为什么会和我老公在一起时",
+      "topic_id": "231522afb68c25b60b79215e32f825443e43b2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#管家转卖退休副省长家名酒获利243万#",
+      "rank": 27,
+      "title": "管家转卖退休副省长家名酒获利243万",
+      "topic_id": "2315227b431d7b3f5f135cdc02013a79fafd65"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#才意识到一台苹果手机能换一万斤粮食#",
+      "rank": 28,
+      "title": "才意识到一台苹果手机能换一万斤粮食",
+      "topic_id": "231522fc1c2d48f12142ea5510cf7cb9e06afa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#烫伤女童称妈妈我痛死了我医不好了#",
+      "rank": 29,
+      "title": "烫伤女童称妈妈我痛死了我医不好了",
+      "topic_id": "2315226ca71e1f8106c78523ba05e3ff2250ca"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#中俄安理会投下反对票#",
+      "rank": 30,
+      "title": "中俄安理会投下反对票",
+      "topic_id": "231522d9574c4c8c6f13fa1e47c6024ff68130"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "马来西亚女子昆明认出外公照片",
+      "rank": 31,
+      "title": "马来西亚女子昆明认出外公照片",
+      "topic_id": "2315221853e10115baa8b1f5e2e070357c8dd5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#陈建州拜托大家3件事#",
+      "rank": 32,
+      "title": "陈建州拜托大家3件事",
+      "topic_id": "231522d6dcda6f77905b23538395f86fccd902"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#国乒亚运签表#",
+      "rank": 33,
+      "title": "国乒亚运签表",
+      "topic_id": "2315223e053a5497839cf87d1a3504c1a0e953"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#95年了我们从未忘记#",
+      "rank": 34,
+      "title": "95年了我们从未忘记",
+      "topic_id": "231522b189489cb5adc4ddb85dfc9fa74305f6"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#芒果给白鹿的定位是国民女主#",
+      "rank": 35,
+      "title": "芒果给白鹿的定位是国民女主",
+      "topic_id": "2315220c420ad4cde964d5435bd1b3e88a02a0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "很多病都是内耗严重气出来的",
+      "rank": 36,
+      "title": "很多病都是内耗严重气出来的",
+      "topic_id": "23152290ca6acff57effb2b0dbb75821a0be34"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#妈妈嘱咐双胞胎一个别惹事一个别怂#",
+      "rank": 37,
+      "title": "妈妈嘱咐双胞胎一个别惹事一个别怂",
+      "topic_id": "231522083a0251e1f1d8fe0aae82292d701c16"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "影视飓风评测 看完不想买了",
+      "rank": 38,
+      "title": "影视飓风评测 看完不想买了",
+      "topic_id": "231522371044f43ee258c2a95300991e2ed61e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "林绣芄终身未嫁",
+      "rank": 39,
+      "title": "林绣芄终身未嫁",
+      "topic_id": "2315228eacf002f9d24799ed6dee1a9ad229ef"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "尚之桃离开Luke内分泌都失调了",
+      "rank": 40,
+      "title": "尚之桃离开Luke内分泌都失调了",
+      "topic_id": "23152223b62b106b21c9721f6287c345484cc3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#HYROX失禁女选手致歉#",
+      "rank": 41,
+      "title": "HYROX失禁女选手致歉",
+      "topic_id": "2315229edf2a73141a241d5874978a15d82da4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#小猫突然把小狗的头扶正了#",
+      "rank": 42,
+      "title": "小猫突然把小狗的头扶正了",
+      "topic_id": "231522f9338b445b5f5759b15e6b59a67dab77"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#我们来了何炅口播就念了四个#",
+      "rank": 43,
+      "title": "我们来了何炅口播就念了四个",
+      "topic_id": "23152238c5a03eb1e7afc2111272dfb512b70a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#王楚钦说每一天都在顶都在扛#",
+      "rank": 44,
+      "title": "王楚钦说每一天都在顶都在扛",
+      "topic_id": "2315228eddc4401d2287db906a674ab1ca9edf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#庾澄庆谢谢肖战唱自己的歌#",
+      "rank": 45,
+      "title": "庾澄庆谢谢肖战唱自己的歌",
+      "topic_id": "231522d1c38d983363dc39d7119f60e5f0ec35"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#程潇浅浅跳一下都很好看#",
+      "rank": 46,
+      "title": "程潇浅浅跳一下都很好看",
+      "topic_id": "2315223dff2281f7e02e9872967dafb2bbb6cf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#九一八事变爆发95年#",
+      "rank": 47,
+      "title": "九一八事变爆发95年",
+      "topic_id": "231522d16eef4eb7cab26e531ff5dae4c93af3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#30楼窗外可疑男子被搜出百克金饰#",
+      "rank": 48,
+      "title": "30楼窗外可疑男子被搜出百克金饰",
+      "topic_id": "23152254356f289816b6bf3fa55a2357b0de56"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#Knight质疑Rookie加里奥出装#",
+      "rank": 49,
+      "title": "Knight质疑Rookie加里奥出装",
+      "topic_id": "23152293ff3289ca1aeb9d0311fd7f1f6d28a8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#LadyGaga女儿姓名#",
+      "rank": 50,
+      "title": "LadyGaga女儿姓名",
+      "topic_id": "231522ba706643a57b3c5209b204f0151356d8"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
