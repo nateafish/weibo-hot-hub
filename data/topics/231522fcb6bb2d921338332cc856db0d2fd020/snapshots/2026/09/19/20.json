@@ -1,0 +1,167 @@
+{
+  "captured_at": "2026-09-19T20:00:00+08:00",
+  "contributors": [],
+  "contributors_scheme": null,
+  "current_boards": {
+    "fun_band": {
+      "ori": {
+        "category": "艺人",
+        "is_boom": 0,
+        "onband": 1,
+        "pos": 2,
+        "subject_querys": [
+          {
+            "scheme_query": "",
+            "subject_query": "爱情公寓",
+            "subject_type": "影视综艺—剧集"
+          }
+        ]
+      },
+      "scheme": "sinaweibo://pageinfo?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Dfun&title=文娱榜&extparam=",
+      "sub_info": [
+        {
+          "scheme": "sinaweibo://wbox?id=u57z5izf0g&page=pages/hotsearchpage/hotsearchpage_native&containerid=106003_-_type%3A25_-_filter_type%3Acollectionmini&trend_word=%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93&time_filter_id=d30",
+          "text": "剧集 | 爱情公寓"
+        }
+      ],
+      "text": "文娱榜第2位"
+    },
+    "hot_band": {
+      "ori": {
+        "category": "艺人",
+        "is_boom": 0,
+        "num": 285747,
+        "onband": 1,
+        "onboard_time": 1789818741,
+        "pos": 12,
+        "subject_querys": [
+          {
+            "scheme_query": "",
+            "subject_query": "爱情公寓",
+            "subject_type": "剧集"
+          }
+        ],
+        "transparency_tag": null
+      },
+      "scheme": "sinaweibo://pageinfo?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Drealtimehot&title=热搜榜&extparam=",
+      "sub_info": [
+        {
+          "scheme": "sinaweibo://wbox?id=u57z5izf0g&page=pages/hotsearchpage/hotsearchpage_native&containerid=106003_-_type%3A25_-_filter_type%3Acollectionmini&trend_word=%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93&time_filter_id=d30",
+          "text": "剧集 | 爱情公寓"
+        }
+      ],
+      "text": "热搜榜第12位"
+    },
+    "hot_band_24_hour": {
+      "ori": {
+        "on_band": 1
+      }
+    }
+  },
+  "exact_counts": {
+    "buy_num": 0,
+    "g_mention": 1875,
+    "gone_num": 0,
+    "interact": 13401,
+    "mention": 1891,
+    "ori_m": 477,
+    "ori_uv": 455,
+    "r_valid": 4111398,
+    "read": 4448631,
+    "rec_num": 0,
+    "show": 0,
+    "star": 2,
+    "t_m_num": 1124,
+    "t_r_num": 4421915,
+    "wants_num": 0
+  },
+  "heat": 2,
+  "overview": {
+    "24h": {
+      "interaction": {
+        "unit": "万",
+        "val": 1.3
+      },
+      "mention": {
+        "unit": "",
+        "val": 1890
+      },
+      "original": {
+        "unit": "",
+        "val": 477
+      },
+      "read": {
+        "unit": "万",
+        "val": 439.5
+      }
+    },
+    "30d": {
+      "interaction": {
+        "unit": "万",
+        "val": 1.3
+      },
+      "mention": {
+        "unit": "",
+        "val": 1890
+      },
+      "original": {
+        "unit": "",
+        "val": 477
+      },
+      "read": {
+        "unit": "万",
+        "val": 439.5
+      }
+    },
+    "all": {
+      "interaction": {
+        "unit": "万",
+        "val": 1.3
+      },
+      "mention": {
+        "unit": "",
+        "val": 1891
+      },
+      "original": {
+        "unit": "",
+        "val": 477
+      },
+      "read": {
+        "unit": "万",
+        "val": 444.9
+      }
+    }
+  },
+  "rank_history": [
+    {
+      "cate": "hot_board",
+      "cate_desc": "热搜榜",
+      "duration_hour": 0,
+      "duration_minute": 16,
+      "duration_mod_min": 16,
+      "off_board_time": "202609192007",
+      "on_board_time": "202609191952",
+      "top_pos": 12,
+      "topic_flag": 1
+    },
+    {
+      "cate": "enter_board",
+      "cate_desc": "文娱榜",
+      "duration_hour": 0,
+      "duration_minute": 18,
+      "duration_mod_min": 18,
+      "off_board_time": "202609192009",
+      "on_board_time": "202609191952",
+      "top_pos": 2,
+      "topic_flag": 1
+    }
+  ],
+  "title": "爱情公寓主演合体",
+  "topic_id": "231522fcb6bb2d921338332cc856db0d2fd020",
+  "window_counts": {
+    "1h_mention": 1754,
+    "1h_ori_m": 444,
+    "24h_mention": 1868,
+    "24h_read": 4253831
+  }
+}

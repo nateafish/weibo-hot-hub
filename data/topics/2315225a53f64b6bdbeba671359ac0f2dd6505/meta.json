@@ -10,24 +10,24 @@
     "status": 2,
     "uid": 1638781994
   },
-  "last_seen_at": "2026-09-19T18:00:00+08:00",
+  "last_seen_at": "2026-09-19T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%23%26t%3D3&title=发布媒体",
-    "show_str": "190家媒体",
+    "show_str": "237家媒体",
     "users": [
-      {
-        "id": 2011739333,
-        "idstr": "2011739333",
-        "screen_name": "新浪乒乓球",
-        "verified": true,
-        "verified_type": 7
-      },
       {
         "id": 2286092114,
         "idstr": "2286092114",
         "screen_name": "中国蓝新闻",
         "verified": true,
         "verified_type": 3
+      },
+      {
+        "id": 2011739333,
+        "idstr": "2011739333",
+        "screen_name": "新浪乒乓球",
+        "verified": true,
+        "verified_type": 7
       },
       {
         "id": 1638781994,
@@ -44,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 1744332207,
+        "idstr": "1744332207",
+        "screen_name": "钱江视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6355176006,
         "idstr": "6355176006",
         "screen_name": "勋章节目组",
@@ -56,17 +63,10 @@
         "screen_name": "凤凰网体育",
         "verified": true,
         "verified_type": 3
-      },
-      {
-        "id": 2230913455,
-        "idstr": "2230913455",
-        "screen_name": "搜狐视频",
-        "verified": true,
-        "verified_type": 3
       }
     ]
   },
-  "query": "亚运会开幕式",
+  "query": "#亚运会开幕式#",
   "search_url": "https://s.weibo.com/weibo/%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%23",
   "sub_category": null,
   "summary": "",

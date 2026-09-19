@@ -3,11 +3,33 @@
   "created_at": 1789808346,
   "first_seen_at": "2026-09-19T18:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-19T18:00:00+08:00",
+  "last_seen_at": "2026-09-19T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%99%88%E9%83%BD%E7%81%B5%E6%96%B9%E7%A7%B0%E4%BC%9A%E5%92%8C%E5%89%A7%E7%BB%84%E7%BB%A7%E7%BB%AD%E4%BA%89%E5%8F%96%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "3家媒体",
+    "users": [
+      {
+        "id": 1843633441,
+        "idstr": "1843633441",
+        "screen_name": "搜狐娱乐",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7708039348,
+        "idstr": "7708039348",
+        "screen_name": "北青娱见",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1653603955,
+        "idstr": "1653603955",
+        "screen_name": "扬子晚报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "陈都灵方称会和剧组继续争取",
   "search_url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E6%96%B9%E7%A7%B0%E4%BC%9A%E5%92%8C%E5%89%A7%E7%BB%84%E7%BB%A7%E7%BB%AD%E4%BA%89%E5%8F%96%23",
