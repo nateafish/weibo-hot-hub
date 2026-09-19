@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 5762891674
   },
-  "last_seen_at": "2026-09-19T06:00:00+08:00",
+  "last_seen_at": "2026-09-19T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%A2%85%E6%AF%92%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%9B%B0%E6%89%B0%E5%B9%B4%E8%BD%BB%E4%BA%BA%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "14家媒体",
     "users": [
       {
         "id": 5762891674,
         "idstr": "5762891674",
         "screen_name": "密度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2683684161,
+        "idstr": "2683684161",
+        "screen_name": "亳州晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,30 +37,30 @@
         "verified_type": 3
       },
       {
+        "id": 6590980486,
+        "idstr": "6590980486",
+        "screen_name": "捉谣记",
+        "verified": true,
+        "verified_type": 7
+      },
+      {
+        "id": 6115560351,
+        "idstr": "6115560351",
+        "screen_name": "国是直通车",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6092578444,
+        "idstr": "6092578444",
+        "screen_name": "新浪种草官",
+        "verified": true,
+        "verified_type": 7
+      },
+      {
         "id": 2628314830,
         "idstr": "2628314830",
         "screen_name": "合肥晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2452300187,
-        "idstr": "2452300187",
-        "screen_name": "山东电视生活频道",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1841812881,
-        "idstr": "1841812881",
-        "screen_name": "生活帮",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1732739184,
-        "idstr": "1732739184",
-        "screen_name": "合肥在线",
         "verified": true,
         "verified_type": 3
       }

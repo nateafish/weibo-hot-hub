@@ -10,11 +10,40 @@
     "status": 2,
     "uid": 5501182840
   },
-  "last_seen_at": "2026-09-19T06:00:00+08:00",
+  "last_seen_at": "2026-09-19T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A5%BD%E6%B8%85%E9%86%92%E7%9A%84%E9%A1%B6%E7%BA%A7%E8%AE%A4%E7%9F%A5%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "4家媒体",
+    "users": [
+      {
+        "id": 2813313591,
+        "idstr": "2813313591",
+        "screen_name": "中新网海南",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2232625672,
+        "idstr": "2232625672",
+        "screen_name": "安庆天天直播",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2188202475,
+        "idstr": "2188202475",
+        "screen_name": "南京晨报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "好清醒的顶级认知",
   "search_url": "https://s.weibo.com/weibo?q=%23%E5%A5%BD%E6%B8%85%E9%86%92%E7%9A%84%E9%A1%B6%E7%BA%A7%E8%AE%A4%E7%9F%A5%23",

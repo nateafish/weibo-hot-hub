@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2620088113
   },
-  "last_seen_at": "2026-09-19T06:00:00+08:00",
+  "last_seen_at": "2026-09-19T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%B4%BE%E5%9B%BD%E9%BE%99%E8%A5%BF%E8%B4%9D%E7%84%96%E9%9D%A2%E5%BC%80%E4%B8%9A4%E4%B8%AA%E6%9C%88%E5%80%92%E9%97%AD%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "9家媒体",
+    "show_str": "12家媒体",
     "users": [
       {
         "id": 2620088113,
@@ -30,9 +30,23 @@
         "verified_type": 3
       },
       {
+        "id": 1887344341,
+        "idstr": "1887344341",
+        "screen_name": "观察者网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6867368137,
         "idstr": "6867368137",
         "screen_name": "大众网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1735937570,
+        "idstr": "1735937570",
+        "screen_name": "江南都市报",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 1398613133,
         "idstr": "1398613133",
         "screen_name": "马上资讯",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5762891674,
-        "idstr": "5762891674",
-        "screen_name": "密度新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2011805155,
-        "idstr": "2011805155",
-        "screen_name": "烟台音乐广播",
         "verified": true,
         "verified_type": 3
       }
