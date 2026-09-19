@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-19T10:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 1,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#大力弘扬伟大抗战精神#",
+      "rank": 1,
+      "title": "大力弘扬伟大抗战精神",
+      "topic_id": "231522e9f71708a73e242b1b583f1495668f5a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#中国男篮队长胡明轩赛后发声#",
+      "rank": 1,
+      "title": "中国男篮队长胡明轩赛后发声",
+      "topic_id": "2315228efee53a7bb12f3a0b0747df92eab0d2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "中国的小偷为何断崖式下降",
+      "rank": 2,
+      "title": "中国的小偷为何断崖式下降",
+      "topic_id": "231522b63e999c8857b53fc39082d9cc2bc57c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#斑驳旧物铭刻90多年前不屈抗争#",
+      "rank": 3,
+      "title": "斑驳旧物铭刻90多年前不屈抗争",
+      "topic_id": "231522d1548c010d517e370d61d4551669591b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#梅毒越来越困扰年轻人#",
+      "rank": 4,
+      "title": "梅毒越来越困扰年轻人",
+      "topic_id": "231522449778574a09c98c48f31fad9b58d989"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#韩国选手听到朝鲜国歌集体慌乱#",
+      "rank": 5,
+      "title": "韩国选手听到朝鲜国歌集体慌乱",
+      "topic_id": "231522214c998f809ee068962161bd337ed7de"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#沙特首都利雅得遭空袭#",
+      "rank": 6,
+      "title": "沙特首都利雅得遭空袭",
+      "topic_id": "23152284f6b63b17a1d7c4d65b5935e6e8b1a2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#郑合惠子没有感情全是演技#",
+      "rank": 7,
+      "title": "郑合惠子没有感情全是演技",
+      "topic_id": "23152273fefaa53aa23b6aabbd8cfb8ac32ce3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#亚马尔无视凯恩#",
+      "rank": 8,
+      "title": "亚马尔无视凯恩",
+      "topic_id": "2315222a7930362d5a02bd3a14f845ede8a537"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#特朗普称获格陵兰岛永久安全控制权#",
+      "rank": 9,
+      "title": "特朗普称获格陵兰岛永久安全控制权",
+      "topic_id": "231522ac050a97cf7b2567d84af40240383569"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#亚运组委会致歉#",
+      "rank": 10,
+      "title": "亚运组委会致歉",
+      "topic_id": "231522220d1a5770319123c68b98c018d355f3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张凯毅官宣离婚#",
+      "rank": 11,
+      "title": "张凯毅官宣离婚",
+      "topic_id": "23152213fc7870bb3191313e45f82dde287828"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#许兰香被发卖青楼#",
+      "rank": 12,
+      "title": "许兰香被发卖青楼",
+      "topic_id": "231522eb0f3254ee79538f41f5c623139ca292"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "物业暴力阻拦业主回家",
+      "rank": 13,
+      "title": "物业暴力阻拦业主回家",
+      "topic_id": "231522e35757de61eb1db1e3ad2e1fd44ad86d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#周翊然问孙怡的腿有没有一米二#",
+      "rank": 14,
+      "title": "周翊然问孙怡的腿有没有一米二",
+      "topic_id": "231522c320825af3c77061d9073f201c987395"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#池昌旭林珍娜是关系很铁的好友关系#",
+      "rank": 15,
+      "title": "池昌旭林珍娜是关系很铁的好友关系",
+      "topic_id": "2315226d87ef560bf05c6a960ee6aff598ef12"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "本届亚运会混乱程度",
+      "rank": 16,
+      "title": "本届亚运会混乱程度",
+      "topic_id": "231522b5c98a3db86902f7334b2c20f86e39c3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#吕蕺儿当花魁救了兰香#",
+      "rank": 17,
+      "title": "吕蕺儿当花魁救了兰香",
+      "topic_id": "231522a5d23026175d05f1cc6ae862763de973"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#啄木鸟修1个开关2800已全额退还#",
+      "rank": 18,
+      "title": "啄木鸟修1个开关2800已全额退还",
+      "topic_id": "231522e3ec3a993bae5ed80b2fa59e94783a81"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#旧手机格式化也不安全#",
+      "rank": 19,
+      "title": "旧手机格式化也不安全",
+      "topic_id": "2315228b58bb385922e4c3dd20602ec913d942"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 6,
+      "posts": "saved",
+      "query": "#没拿菲尔兹奖的柳智宇现在怎样了#",
+      "rank": 20,
+      "title": "没拿菲尔兹奖的柳智宇现在怎样了",
+      "topic_id": "23152294817dee0eaa4285275555d2a79539fc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#经济上行期是一种感觉#",
+      "rank": 21,
+      "title": "经济上行期是一种感觉",
+      "topic_id": "231522f9a2e153726f6daa0eff0dfb2ed05cd4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张凯毅前夫账号停更#",
+      "rank": 22,
+      "title": "张凯毅前夫账号停更",
+      "topic_id": "23152260ba37fea810331fba08cb73ea2b4910"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#菲船加速冲撞中国海警船现场视频#",
+      "rank": 23,
+      "title": "菲船加速冲撞中国海警船现场视频",
+      "topic_id": "231522b21f6bd4150022f5b89f6a0cd357f26b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#女子咳痰3年竟因洗澡时1个小动作#",
+      "rank": 24,
+      "title": "女子咳痰3年竟因洗澡时1个小动作",
+      "topic_id": "231522793e5faa25213b2322c3d3454bdb60ff"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#数学老师投300万拍电影票房不足3万#",
+      "rank": 25,
+      "title": "数学老师投300万拍电影票房不足3万",
+      "topic_id": "23152204a1386ce756e53e203e60b8be33d1e3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#晚上11点是睡眠分水岭#",
+      "rank": 26,
+      "title": "晚上11点是睡眠分水岭",
+      "topic_id": "231522555db2ab2a47b8d6644c54766175a888"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "好清醒的顶级认知",
+      "rank": 27,
+      "title": "好清醒的顶级认知",
+      "topic_id": "231522045cc9d17ebe03e236ef41ae50a231de"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "挑情丑闻",
+      "rank": 28,
+      "title": "挑情丑闻",
+      "topic_id": "2315223628ce8f7a02e1677f6d8e84b2b87c63"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女子称失踪闺蜜托梦暗示尸骸位置#",
+      "rank": 29,
+      "title": "女子称失踪闺蜜托梦暗示尸骸位置",
+      "topic_id": "231522f8df580a31f68256a1b3b099a0f5135d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王一博嘉人十月刊封面宣发节奏#",
+      "rank": 30,
+      "title": "王一博嘉人十月刊封面宣发节奏",
+      "topic_id": "231522102134d9205e86c38a09c3ea8d17f0bf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "流浪大橘找到全中国最安全午睡地",
+      "rank": 31,
+      "title": "流浪大橘找到全中国最安全午睡地",
+      "topic_id": "2315223a14914fb0dcb11ad82d713e04d133b6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#田栩宁实体专辑秒切#",
+      "rank": 32,
+      "title": "田栩宁实体专辑秒切",
+      "topic_id": "231522c6bf4c9253f57f8a2aa5b1ce9bbc5f9e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "计算机二级",
+      "rank": 33,
+      "title": "计算机二级",
+      "topic_id": "231522720349d864fbf7ff388bfbc9a28dbbd9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "郭士强 下课",
+      "rank": 34,
+      "title": "郭士强 下课",
+      "topic_id": "231522638280adea2f744d09990d768eaf7b26"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#第一次直观感受到低碳脸的杀伤力#",
+      "rank": 35,
+      "title": "第一次直观感受到低碳脸的杀伤力",
+      "topic_id": "2315226f3afab46596d7fc770cb5cecfb39e6a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#市民家养鲜花将亮相长安街花坛#",
+      "rank": 36,
+      "title": "市民家养鲜花将亮相长安街花坛",
+      "topic_id": "2315220e596ea3b51e1fb1c053dbcd6709b291"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "蒲熠星我们之间到底算什么呢",
+      "rank": 37,
+      "title": "蒲熠星我们之间到底算什么呢",
+      "topic_id": "23152287da174846810a2957a6ef7738c2df51"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 6,
+      "posts": "saved",
+      "query": "#吕蕺儿见到兰香第一反应是舍命相救#",
+      "rank": 38,
+      "title": "吕蕺儿见到兰香第一反应是舍命相救",
+      "topic_id": "231522d69355d98a76319ce8f632656b22ddae"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王楚钦亚运男单首轮轮空#",
+      "rank": 39,
+      "title": "王楚钦亚运男单首轮轮空",
+      "topic_id": "2315221901a6fd0e62c1e22e7c1cc9f31c3c1e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#欧阳妮妮和欧阳娜娜偷偷跑出来吃夜宵#",
+      "rank": 40,
+      "title": "欧阳妮妮和欧阳娜娜偷偷跑出来吃夜宵",
+      "topic_id": "231522c5f95266f684d4975002359390f2cb43"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#刘学义对李梦的穿搭欲言又止#",
+      "rank": 41,
+      "title": "刘学义对李梦的穿搭欲言又止",
+      "topic_id": "231522df14bf05361819e9df761eaabac42fc3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#猫科动物又上新了#",
+      "rank": 42,
+      "title": "猫科动物又上新了",
+      "topic_id": "231522f2431bea6ea831686212c850c6972b8b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#孙千上过央视春晚哈尔滨分会场#",
+      "rank": 43,
+      "title": "孙千上过央视春晚哈尔滨分会场",
+      "topic_id": "231522ed8c7f5bcf5234bd575ce99357539ed9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "漠河舞厅 王安宇李宛妲",
+      "rank": 44,
+      "title": "漠河舞厅 王安宇李宛妲",
+      "topic_id": "231522f367a3d01244faaecdf8d0a909e6c188"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#王楚钦孙颖莎亚运首轮轮空#",
+      "rank": 45,
+      "title": "王楚钦孙颖莎亚运首轮轮空",
+      "topic_id": "2315228f4184f3d315ea318b113f599fac9b31"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#21岁巴西女网红被拖出家门当街枪杀#",
+      "rank": 46,
+      "title": "21岁巴西女网红被拖出家门当街枪杀",
+      "topic_id": "2315225cc541937fd42f729d3980745f27497c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "法考 李佳",
+      "rank": 47,
+      "title": "法考 李佳",
+      "topic_id": "2315228280003a8e99dcc72679624cce9ff00b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#池昌旭林珍娜口碑#",
+      "rank": 48,
+      "title": "池昌旭林珍娜口碑",
+      "topic_id": "23152286f866263062c5fbfb0e6ef7b8ab5587"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "成年人的世界不再是为自己而活",
+      "rank": 49,
+      "title": "成年人的世界不再是为自己而活",
+      "topic_id": "2315221787b8a779a739b106587ac247de8a28"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#iPhone17Pro和18Pro外观对比#",
+      "rank": 50,
+      "title": "iPhone17Pro和18Pro外观对比",
+      "topic_id": "231522775ba1b8cdd7f7d441943f3ba9062775"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

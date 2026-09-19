@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 2620088113
   },
-  "last_seen_at": "2026-09-19T08:00:00+08:00",
+  "last_seen_at": "2026-09-19T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A5%B3%E5%AD%90%E5%92%B3%E7%97%B03%E5%B9%B4%E7%AB%9F%E5%9B%A0%E6%B4%97%E6%BE%A1%E6%97%B61%E4%B8%AA%E5%B0%8F%E5%8A%A8%E4%BD%9C%23%26t%3D3&title=发布媒体",
-    "show_str": "22家媒体",
+    "show_str": "52家媒体",
     "users": [
       {
         "id": 2620088113,
         "idstr": "2620088113",
         "screen_name": "海报新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1677991972,
+        "idstr": "1677991972",
+        "screen_name": "晶报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 1709951635,
-        "idstr": "1709951635",
-        "screen_name": "哈尔滨日报",
+        "id": 1774057271,
+        "idstr": "1774057271",
+        "screen_name": "生命时报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1308708761,
-        "idstr": "1308708761",
-        "screen_name": "千山晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6867368137,
-        "idstr": "6867368137",
-        "screen_name": "大众网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5866660310,
-        "idstr": "5866660310",
-        "screen_name": "台儿庄区融媒体中心",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5539777260,
-        "idstr": "5539777260",
-        "screen_name": "菏泽日报",
+        "id": 1411163204,
+        "idstr": "1411163204",
+        "screen_name": "人民日报健康客户端",
         "verified": true,
         "verified_type": 3
       }
