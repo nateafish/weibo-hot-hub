@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2028810631
   },
-  "last_seen_at": "2026-09-19T22:00:00+08:00",
+  "last_seen_at": "2026-09-20T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%A2%AB%E9%A1%BE%E5%AE%A2%E7%94%A8%E8%A5%BF%E7%93%9C%E7%A0%B8%E5%A4%B4%E6%91%8A%E4%B8%BB%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "5家媒体",
     "users": [
       {
         "id": 2028810631,
@@ -30,9 +30,23 @@
         "verified_type": 3
       },
       {
+        "id": 1767961804,
+        "idstr": "1767961804",
+        "screen_name": "大江新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1712686623,
         "idstr": "1712686623",
         "screen_name": "手机上的新浪",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1677991972,
+        "idstr": "1677991972",
+        "screen_name": "晶报",
         "verified": true,
         "verified_type": 3
       }
