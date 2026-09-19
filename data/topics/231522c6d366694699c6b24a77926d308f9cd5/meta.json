@@ -10,7 +10,7 @@
     "status": 2,
     "uid": 1499104401
   },
-  "last_seen_at": "2026-09-19T20:00:00+08:00",
+  "last_seen_at": "2026-09-19T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%97%A5%E6%9C%AC19%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%8D%96%E6%B7%AB%E6%97%A5%E6%8E%A5%E5%BE%853%E8%87%B34%E4%BA%BA%23%26t%3D3&title=发布媒体",
     "show_str": "8家媒体",
@@ -26,6 +26,13 @@
         "id": 2375086267,
         "idstr": "2375086267",
         "screen_name": "参考消息",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1704185933,
+        "idstr": "1704185933",
+        "screen_name": "聊城晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -54,13 +61,6 @@
         "id": 2252846093,
         "idstr": "2252846093",
         "screen_name": "长春新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2188202475,
-        "idstr": "2188202475",
-        "screen_name": "南京晨报",
         "verified": true,
         "verified_type": 3
       }
