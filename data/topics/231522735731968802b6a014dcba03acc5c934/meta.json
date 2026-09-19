@@ -3,10 +3,10 @@
   "created_at": 1789810002,
   "first_seen_at": "2026-09-19T18:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-19T21:00:00+08:00",
+  "last_seen_at": "2026-09-19T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F+%E8%AF%A1%E5%BC%82%23%26t%3D3&title=发布媒体",
-    "show_str": "20家媒体",
+    "show_str": "22家媒体",
     "users": [
       {
         "id": 2992050891,
@@ -19,6 +19,20 @@
         "id": 2460937233,
         "idstr": "2460937233",
         "screen_name": "热度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497087080,
+        "idstr": "1497087080",
+        "screen_name": "羊城晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2188202475,
+        "idstr": "2188202475",
+        "screen_name": "南京晨报",
         "verified": true,
         "verified_type": 3
       },
@@ -37,23 +51,9 @@
         "verified_type": 3
       },
       {
-        "id": 2375086267,
-        "idstr": "2375086267",
-        "screen_name": "参考消息",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2318910945,
-        "idstr": "2318910945",
-        "screen_name": "新浪热点",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2252846093,
-        "idstr": "2252846093",
-        "screen_name": "长春新闻",
+        "id": 2105365573,
+        "idstr": "2105365573",
+        "screen_name": "威海播报",
         "verified": true,
         "verified_type": 3
       }
