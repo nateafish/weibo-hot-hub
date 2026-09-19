@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 6187684135
   },
-  "last_seen_at": "2026-09-19T12:00:00+08:00",
+  "last_seen_at": "2026-09-19T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E5%B0%91%E7%94%A8%E8%BF%99%E7%A7%8D%E5%85%85%E7%94%B5%E5%AE%9D%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "11家媒体",
     "users": [
+      {
+        "id": 6715513747,
+        "idstr": "6715513747",
+        "screen_name": "宁县融媒",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 3288875501,
         "idstr": "3288875501",
@@ -23,23 +30,37 @@
         "verified_type": 3
       },
       {
-        "id": 1677991972,
-        "idstr": "1677991972",
-        "screen_name": "晶报",
+        "id": 2660940103,
+        "idstr": "2660940103",
+        "screen_name": "环球网科技频道",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1636678683,
-        "idstr": "1636678683",
-        "screen_name": "长天新闻",
+        "id": 2027480085,
+        "idstr": "2027480085",
+        "screen_name": "水母网",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1288429914,
-        "idstr": "1288429914",
-        "screen_name": "今视频长天新闻",
+        "id": 2001789077,
+        "idstr": "2001789077",
+        "screen_name": "兵团日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
         "verified": true,
         "verified_type": 3
       }
