@@ -1,0 +1,537 @@
+{
+  "captured_at": "2026-09-19T18:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 48,
+    "ai_unchanged": 1,
+    "metrics_saved": 50,
+    "posts_saved": 50
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#总书记高度重视先进制造业发展#",
+      "rank": 1,
+      "title": "总书记高度重视先进制造业发展",
+      "topic_id": "231522b6afd37b0706a263ac1249817b49f72b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "亚运会开幕式 诡异",
+      "rank": 1,
+      "title": "亚运会开幕式 诡异",
+      "topic_id": "231522735731968802b6a014dcba03acc5c934"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "亚运会开幕式",
+      "rank": 2,
+      "title": "亚运会开幕式",
+      "topic_id": "2315225a53f64b6bdbeba671359ac0f2dd6505"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#今天全民国防教育日#",
+      "rank": 3,
+      "title": "今天全民国防教育日",
+      "topic_id": "23152230121f39d63b8b7fa0c5d428a50d55fc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "粉笔 超格",
+      "rank": 4,
+      "title": "粉笔 超格",
+      "topic_id": "2315222c5bfabfd21f13d4b6e0082712c4429b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "兰香如故",
+      "rank": 5,
+      "title": "兰香如故",
+      "topic_id": "231522c6a223bd3a54fc2af87227153bdbc48d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#中国体育代表团入场#",
+      "rank": 6,
+      "title": "中国体育代表团入场",
+      "topic_id": "2315229215059d8f42a81bb9cd09092cc2f912"
+    },
+    {
+      "ai": "pending",
+      "metrics": "failed",
+      "metrics_error": "TopicFetchError: Topic detail is missing a stable id or title",
+      "posts": "pending",
+      "query": "#西贝回应被曝倒闭#",
+      "rank": 7,
+      "title": "西贝回应被曝倒闭"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#王俊凯演唱会彩带上没有字#",
+      "rank": 8,
+      "title": "王俊凯演唱会彩带上没有字",
+      "topic_id": "231522d34c2f2de675d4a2243a23a4c498c81f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#恋与深空特色专武#",
+      "rank": 9,
+      "title": "恋与深空特色专武",
+      "topic_id": "231522e7980aa3fbbb7275532f876fe136e18c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "亚运会",
+      "rank": 10,
+      "title": "亚运会",
+      "topic_id": "231522b9fedef28ddcf151d85c04b905c0ad5c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#黄子弘凡永久终止与声幻娱乐合作#",
+      "rank": 11,
+      "title": "黄子弘凡永久终止与声幻娱乐合作",
+      "topic_id": "231522e1d84bf5a71d6cf97a9b0c40fd9feb29"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#声幻娱乐道歉#",
+      "rank": 12,
+      "title": "声幻娱乐道歉",
+      "topic_id": "2315225ee6ab0be8e1d6fca7348feceb0b02eb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "陈都灵方称会和剧组继续争取",
+      "rank": 13,
+      "title": "陈都灵方称会和剧组继续争取",
+      "topic_id": "231522e32d49f3015f624a9cec8eb14ee89d38"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "肉包不吃肉 猫耳",
+      "rank": 14,
+      "title": "肉包不吃肉 猫耳",
+      "topic_id": "231522fee219f875e59d11309b9f80ac260128"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#向太自曝曾瞒着向华强打掉孩子#",
+      "rank": 15,
+      "title": "向太自曝曾瞒着向华强打掉孩子",
+      "topic_id": "2315220a64c8ff217e7bcdf5e537532c5b118d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "舒畅 脸",
+      "rank": 16,
+      "title": "舒畅 脸",
+      "topic_id": "231522780628d1692755475ee959d7b7c6d6fa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "全世界最不吃压力之人出现了",
+      "rank": 17,
+      "title": "全世界最不吃压力之人出现了",
+      "topic_id": "231522d4ec0f71001ac871175d6e30ac687f14"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#男子私聊发153部淫秽视频获刑#",
+      "rank": 18,
+      "title": "男子私聊发153部淫秽视频获刑",
+      "topic_id": "2315226e3499dbdf5fa2baebd55f350ddbb3bc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "中国女篮参加亚运会开幕式",
+      "rank": 19,
+      "title": "中国女篮参加亚运会开幕式",
+      "topic_id": "23152294523f43e8215b160f74f688a76152e4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "建议大家少用这种充电宝",
+      "rank": 20,
+      "title": "建议大家少用这种充电宝",
+      "topic_id": "231522f93166a684a712f12210db479cd4edae"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "中秋国庆调休争议",
+      "rank": 21,
+      "title": "中秋国庆调休争议",
+      "topic_id": "2315228de9b78e84128a851883e2d20fed826e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#扶老人被索赔92万是在索社会良心#",
+      "rank": 22,
+      "title": "扶老人被索赔92万是在索社会良心",
+      "topic_id": "2315223cd0fba5fc6d2206dc712230c3102a2e"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#日本19岁女孩卖淫日接待3至4人#",
+      "rank": 23,
+      "title": "日本19岁女孩卖淫日接待3至4人",
+      "topic_id": "231522c6d366694699c6b24a77926d308f9cd5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#赵今麦闭眼耸肩这一下#",
+      "rank": 24,
+      "title": "赵今麦闭眼耸肩这一下",
+      "topic_id": "23152203fc1e016b4de49140a31b45a11842df"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "高市早苗凝视帅哥引热议",
+      "rank": 25,
+      "title": "高市早苗凝视帅哥引热议",
+      "topic_id": "23152248dc5c2462bcbb296704bf6f90fbb329"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#晒娃起号半年接70多个广告#",
+      "rank": 26,
+      "title": "晒娃起号半年接70多个广告",
+      "topic_id": "2315220e324f9e80bcb2055e0836d67fafb3bd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#迪丽热巴见面会Dresscode#",
+      "rank": 27,
+      "title": "迪丽热巴见面会Dresscode",
+      "topic_id": "231522d9eb9b780a14a0149119f4e6572a7b02"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#陈都灵工作室艾特玩偶官号#",
+      "rank": 28,
+      "title": "陈都灵工作室艾特玩偶官号",
+      "topic_id": "23152212417624765e7d54aec7f3b84151b342"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#12306已拒绝出票133.1万张#",
+      "rank": 29,
+      "title": "12306已拒绝出票133.1万张",
+      "topic_id": "231522c7f78fa76ca66e4b8aa50e7d77428043"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#田栩宁郝文辉友谊#",
+      "rank": 30,
+      "title": "田栩宁郝文辉友谊",
+      "topic_id": "231522948b81d575bf59e5f30fdcde6a2d5cb3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#王俊凯开场小树花开了蝴蝶也来了#",
+      "rank": 31,
+      "title": "王俊凯开场小树花开了蝴蝶也来了",
+      "topic_id": "231522aa8e43e0e93720b669cdfef94be10d8e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "中秋节等于没放假",
+      "rank": 32,
+      "title": "中秋节等于没放假",
+      "topic_id": "2315223f7b62c15afec37a57b54213b064f6a2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "西贝被曝将彻底倒闭",
+      "rank": 33,
+      "title": "西贝被曝将彻底倒闭",
+      "topic_id": "23152227f8fa8c9f92dcc61a66e6b62a1fb770"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#迪丽热巴粉丝见面会伴手礼#",
+      "rank": 34,
+      "title": "迪丽热巴粉丝见面会伴手礼",
+      "topic_id": "2315223b9def0d10d1937ed98bdb48157fb216"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "肉包不吃肉 没有给过餐饮授权",
+      "rank": 35,
+      "title": "肉包不吃肉 没有给过餐饮授权",
+      "topic_id": "2315227f6adf38fc0d46bff6145c31fad50586"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "劳务派遣 以老实人为燃料的制度",
+      "rank": 36,
+      "title": "劳务派遣 以老实人为燃料的制度",
+      "topic_id": "231522e97af65d5ba2032d3ab1727274b5931f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#曝韦雪给新男友送了一辆宾利#",
+      "rank": 37,
+      "title": "曝韦雪给新男友送了一辆宾利",
+      "topic_id": "2315229a4961597cf8a4b3f8996c1ac4281938"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "公考圈杀疯了",
+      "rank": 38,
+      "title": "公考圈杀疯了",
+      "topic_id": "231522b9179543427ef31c147ddefdcb232441"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "女生反手给杜兰特穿同款睡衣",
+      "rank": 39,
+      "title": "女生反手给杜兰特穿同款睡衣",
+      "topic_id": "231522a6f1797008ef1d4e30ec4eaee3dbe1af"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#王骁全英文答记者超有气场#",
+      "rank": 40,
+      "title": "王骁全英文答记者超有气场",
+      "topic_id": "231522962f6a15523aa5e2f1e22409270853be"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#商家回应同尺码女装越做越小#",
+      "rank": 41,
+      "title": "商家回应同尺码女装越做越小",
+      "topic_id": "231522188e7c9848672e9afc5da06a5fa718d8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "亚运会开幕式 阴间",
+      "rank": 42,
+      "title": "亚运会开幕式 阴间",
+      "topic_id": "2315229432484e959132b0e517c2c304097933"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#亚运会开幕式入场安检机坏了#",
+      "rank": 43,
+      "title": "亚运会开幕式入场安检机坏了",
+      "topic_id": "231522255475c58c7315efb064e91f9072994c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#国乒队员不参加亚运会开幕式#",
+      "rank": 44,
+      "title": "国乒队员不参加亚运会开幕式",
+      "topic_id": "2315222e3e5ff1725bd2e20f74f9120b7c3b56"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#田栩宁工作室转发祝福田栩宁#",
+      "rank": 45,
+      "title": "田栩宁工作室转发祝福田栩宁",
+      "topic_id": "231522c976ba92a5fcb8d5ea8dc6e9c9dd3424"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#10岁溺亡男孩一周被罚站超700分钟#",
+      "rank": 46,
+      "title": "10岁溺亡男孩一周被罚站超700分钟",
+      "topic_id": "23152247d5ef94398c29dfcb664a4675341060"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "我有王一博微信 想加",
+      "rank": 47,
+      "title": "我有王一博微信 想加",
+      "topic_id": "231522bbbba13923c9afda79afeb17cb2fe3c9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "iPhone18Pro1TB采用QLC",
+      "rank": 48,
+      "title": "iPhone18Pro1TB采用QLC",
+      "topic_id": "231522c64697531af0afcdac8fc212652a8d37"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "青年失业率 招聘门槛高",
+      "rank": 49,
+      "title": "青年失业率 招聘门槛高",
+      "topic_id": "23152272c357b9d3888718d796cb1f082d5398"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "第五人格",
+      "rank": 50,
+      "title": "第五人格",
+      "topic_id": "2315228fef4f8eac269bed1cd09eb50312ce52"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 0.9803921568627451,
+      "metrics": 0.9803921568627451,
+      "posts": 0.9803921568627451
+    }
+  }
+}
