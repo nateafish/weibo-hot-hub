@@ -1,0 +1,177 @@
+{
+  "captured_at": "2026-09-19T15:00:00+08:00",
+  "contributors": [],
+  "contributors_scheme": null,
+  "current_boards": {
+    "hot_band": {
+      "ori": {
+        "category": "民生新闻",
+        "is_boom": 0,
+        "num": 170071,
+        "onband": 1,
+        "onboard_time": 1789799599,
+        "pos": 46,
+        "subject_querys": [
+          {
+            "scheme_query": "第48届世界技能大赛",
+            "subject_query": "第48届世界技能大赛",
+            "subject_type": "event"
+          }
+        ],
+        "transparency_tag": null
+      },
+      "scheme": "sinaweibo://pageinfo?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Drealtimehot&title=热搜榜&extparam=",
+      "sub_info": [
+        {
+          "scheme": "sinaweibo://wbox?id=u57z5izf0g&page=pages/hotsearchpage/hotsearchpage_native&containerid=106003_-_type%3A25_-_filter_type%3Acollectionmini&trend_word=%E7%AC%AC48%E5%B1%8A%E4%B8%96%E7%95%8C%E6%8A%80%E8%83%BD%E5%A4%A7%E8%B5%9B&time_filter_id=d30",
+          "text": "事件 | 第48届世界技能大赛"
+        }
+      ],
+      "text": "热搜榜第46位"
+    },
+    "hot_band_24_hour": {
+      "ori": {
+        "on_band": 1
+      }
+    },
+    "hot_region_band": {
+      "ori": {
+        "code": "800863100",
+        "num": 37,
+        "onband": 1,
+        "pos": 1
+      },
+      "scheme": "sinaweibo://pageinfo?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Dregion&extparam=more%3D1%26lcate%3D300%26ext_pos%3D800863100",
+      "text": "上海同城榜TOP1"
+    },
+    "social_band": {
+      "ori": {
+        "category": "民生新闻",
+        "is_boom": 0,
+        "onband": 1,
+        "pos": 19,
+        "subject_querys": [
+          {
+            "scheme_query": "第48届世界技能大赛",
+            "subject_query": "第48届世界技能大赛",
+            "subject_type": "event"
+          }
+        ]
+      },
+      "scheme": "sinaweibo://pageinfo?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Dsocial&title=社会榜&extparam=",
+      "sub_info": [
+        {
+          "scheme": "sinaweibo://wbox?id=u57z5izf0g&page=pages/hotsearchpage/hotsearchpage_native&containerid=106003_-_type%3A25_-_filter_type%3Acollectionmini&trend_word=%E7%AC%AC48%E5%B1%8A%E4%B8%96%E7%95%8C%E6%8A%80%E8%83%BD%E5%A4%A7%E8%B5%9B&time_filter_id=d30",
+          "text": "事件 | 第48届世界技能大赛"
+        }
+      ],
+      "text": "社会榜第19位"
+    }
+  },
+  "exact_counts": {
+    "buy_num": 0,
+    "g_mention": 7072,
+    "gone_num": 0,
+    "interact": 20832,
+    "mention": 7072,
+    "ori_m": 56,
+    "ori_uv": 41,
+    "r_valid": 1123462,
+    "read": 1784607,
+    "rec_num": 0,
+    "show": 0,
+    "star": 2,
+    "t_m_num": 4882,
+    "t_r_num": 1800919,
+    "wants_num": 0
+  },
+  "heat": 2,
+  "overview": {
+    "24h": {
+      "interaction": {
+        "unit": "万",
+        "val": 2.1
+      },
+      "mention": {
+        "unit": "",
+        "val": 7072
+      },
+      "original": {
+        "unit": "",
+        "val": 56
+      },
+      "read": {
+        "unit": "万",
+        "val": 177.6
+      }
+    },
+    "30d": {
+      "interaction": {
+        "unit": "万",
+        "val": 2.1
+      },
+      "mention": {
+        "unit": "",
+        "val": 7072
+      },
+      "original": {
+        "unit": "",
+        "val": 56
+      },
+      "read": {
+        "unit": "万",
+        "val": 177.6
+      }
+    },
+    "all": {
+      "interaction": {
+        "unit": "万",
+        "val": 2.1
+      },
+      "mention": {
+        "unit": "",
+        "val": 7072
+      },
+      "original": {
+        "unit": "",
+        "val": 56
+      },
+      "read": {
+        "unit": "万",
+        "val": 178.5
+      }
+    }
+  },
+  "rank_history": [
+    {
+      "cate": "hot_board",
+      "cate_desc": "热搜榜",
+      "duration_hour": 0,
+      "duration_minute": 29,
+      "duration_mod_min": 29,
+      "off_board_time": "202609191512",
+      "on_board_time": "202609191433",
+      "top_pos": 29,
+      "topic_flag": 1
+    },
+    {
+      "cate": "society_board",
+      "cate_desc": "社会榜",
+      "duration_hour": 1,
+      "duration_minute": 73,
+      "duration_mod_min": 13,
+      "off_board_time": "202609191513",
+      "on_board_time": "202609191348",
+      "top_pos": 11,
+      "topic_flag": 1
+    }
+  ],
+  "title": "上海世界技能大赛倒计时3天",
+  "topic_id": "231522a2c41d0d30bb2f3d9b9bead3b781cf90",
+  "window_counts": {
+    "1h_mention": 3540,
+    "1h_ori_m": 41,
+    "24h_mention": 7072,
+    "24h_read": 1776182
+  }
+}

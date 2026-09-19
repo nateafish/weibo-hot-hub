@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-19T15:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 1,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#总书记为先进制造业发展指明方向#",
+      "rank": 1,
+      "title": "总书记为先进制造业发展指明方向",
+      "topic_id": "231522ad317696c8eadd5c6cbd7b5668bd39bd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "中秋节等于没放假",
+      "rank": 1,
+      "title": "中秋节等于没放假",
+      "topic_id": "2315223f7b62c15afec37a57b54213b064f6a2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "我有王一博微信 想加",
+      "rank": 2,
+      "title": "我有王一博微信 想加",
+      "topic_id": "231522bbbba13923c9afda79afeb17cb2fe3c9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#向国旗敬礼#",
+      "rank": 3,
+      "title": "向国旗敬礼",
+      "topic_id": "23152230e8d26fd8bfc835a33e1e84c74e7a4f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "女装到底怎么了",
+      "rank": 4,
+      "title": "女装到底怎么了",
+      "topic_id": "231522135e2060181acbf45477723cc5add787"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "调休",
+      "rank": 5,
+      "title": "调休",
+      "topic_id": "2315229c24b1176907de950891fdf5e936be6a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "iPhone18Pro1TB采用QLC",
+      "rank": 6,
+      "title": "iPhone18Pro1TB采用QLC",
+      "topic_id": "231522c64697531af0afcdac8fc212652a8d37"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#于正官宣杨蓉出演朝玉阶#",
+      "rank": 7,
+      "title": "于正官宣杨蓉出演朝玉阶",
+      "topic_id": "2315226073a157052c41be07e3651ae5863ed0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "能找到好工作的人都有野路子",
+      "rank": 8,
+      "title": "能找到好工作的人都有野路子",
+      "topic_id": "2315228b2ed7dd005843a86755b31689e4dcd2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#新疆人第一次见自己的馕发霉震惊了#",
+      "rank": 9,
+      "title": "新疆人第一次见自己的馕发霉震惊了",
+      "topic_id": "23152227f762678bcdce746d9c604ce42b5a3a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "朝玉阶",
+      "rank": 10,
+      "title": "朝玉阶",
+      "topic_id": "2315226142ec6cd63c95616b179e66a103d4c7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "西贝被曝将彻底倒闭",
+      "rank": 11,
+      "title": "西贝被曝将彻底倒闭",
+      "topic_id": "23152227f8fa8c9f92dcc61a66e6b62a1fb770"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "papi家的大咪回喵星了",
+      "rank": 12,
+      "title": "papi家的大咪回喵星了",
+      "topic_id": "231522fc5d83df7cfd429579660d707e147ead"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "舒畅 脸",
+      "rank": 13,
+      "title": "舒畅 脸",
+      "topic_id": "231522780628d1692755475ee959d7b7c6d6fa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "浙江商K大面积关门",
+      "rank": 14,
+      "title": "浙江商K大面积关门",
+      "topic_id": "231522895d12714a4a8284abdec7865ca33508"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "贾国龙 西贝",
+      "rank": 15,
+      "title": "贾国龙 西贝",
+      "topic_id": "2315228d909b3fb46b7c3d0057c7a2857e1fc6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "肉包不吃肉 没有给过餐饮授权",
+      "rank": 16,
+      "title": "肉包不吃肉 没有给过餐饮授权",
+      "topic_id": "2315227f6adf38fc0d46bff6145c31fad50586"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#易梦玲自曝do脸#",
+      "rank": 17,
+      "title": "易梦玲自曝do脸",
+      "topic_id": "231522450987308ab7609d911d52447fe8d676"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#林珍娜替身#",
+      "rank": 18,
+      "title": "林珍娜替身",
+      "topic_id": "231522b6a0c0c43795c0049982fe5734d00385"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "18岁女儿高一退学坚持出嫁",
+      "rank": 19,
+      "title": "18岁女儿高一退学坚持出嫁",
+      "topic_id": "231522d24b1894592eaaf854b403501e7f9534"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#以为是抠门男友直到蛋糕转起来#",
+      "rank": 20,
+      "title": "以为是抠门男友直到蛋糕转起来",
+      "topic_id": "2315225f2a56811f86144acaa803863efe6b07"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#兰香如故义父韵母发力了#",
+      "rank": 21,
+      "title": "兰香如故义父韵母发力了",
+      "topic_id": "231522db3e8400b48429d84687a4fdc7e071c2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#日本19岁女孩卖淫日接待3至4人#",
+      "rank": 22,
+      "title": "日本19岁女孩卖淫日接待3至4人",
+      "topic_id": "231522c6d366694699c6b24a77926d308f9cd5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#徐静雨谈中国男篮惨败日本#",
+      "rank": 23,
+      "title": "徐静雨谈中国男篮惨败日本",
+      "topic_id": "231522c625ea336fed24ad89983b60f8fd452d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "心动的信号",
+      "rank": 24,
+      "title": "心动的信号",
+      "topic_id": "231522b1ce0f529e79ccf1ed944e7afa8c2e1d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "舒畅 我38岁状态挺好的",
+      "rank": 25,
+      "title": "舒畅 我38岁状态挺好的",
+      "topic_id": "23152254a15ae8566148337114e8586255788c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#错换人生28年姚策生父郭希宽去世#",
+      "rank": 26,
+      "title": "错换人生28年姚策生父郭希宽去世",
+      "topic_id": "231522f63194464d4cee0d1c7baf33976ddb9e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "单休我恨你",
+      "rank": 27,
+      "title": "单休我恨你",
+      "topic_id": "231522f00271efe4184e861ab32b915300d1a3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#男明星顶着蔬菜大棚就出来了#",
+      "rank": 28,
+      "title": "男明星顶着蔬菜大棚就出来了",
+      "topic_id": "231522325ae69d068989a37dde3b6c2d961408"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "小红书邪恶教程 坐飞机弄坏耳机索赔",
+      "rank": 29,
+      "title": "小红书邪恶教程 坐飞机弄坏耳机索赔",
+      "topic_id": "231522a9948ca36c1204a4b5f1b0f0c6500dde"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#四川攀枝花泥石流#",
+      "rank": 30,
+      "title": "四川攀枝花泥石流",
+      "topic_id": "231522c0dc98e1a6009ccfcc419b534f4d46fb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#张煜东自张凯毅2月生产后再无更新#",
+      "rank": 31,
+      "title": "张煜东自张凯毅2月生产后再无更新",
+      "topic_id": "23152233713c29b631194bdfe94fff48913536"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "全世界最不吃压力之人出现了",
+      "rank": 32,
+      "title": "全世界最不吃压力之人出现了",
+      "topic_id": "231522d4ec0f71001ac871175d6e30ac687f14"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "建议大家少用这种充电宝",
+      "rank": 33,
+      "title": "建议大家少用这种充电宝",
+      "topic_id": "231522f93166a684a712f12210db479cd4edae"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张凯毅前夫被曝称当网红像耍猴#",
+      "rank": 34,
+      "title": "张凯毅前夫被曝称当网红像耍猴",
+      "topic_id": "23152296d915cf3ad10886b88101f3efbed684"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#上海世界技能大赛倒计时3天#",
+      "rank": 35,
+      "title": "上海世界技能大赛倒计时3天",
+      "topic_id": "231522a2c41d0d30bb2f3d9b9bead3b781cf90"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "你做事不干不净 根本都不入流",
+      "rank": 36,
+      "title": "你做事不干不净 根本都不入流",
+      "topic_id": "2315222bd66ec0dc0962baa34f4f4723b977d2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "祖先在下面托了所有关系",
+      "rank": 37,
+      "title": "祖先在下面托了所有关系",
+      "topic_id": "23152248adacb62988030b27443cd2ea42d94e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王俊凯回应生日应援取消#",
+      "rank": 38,
+      "title": "王俊凯回应生日应援取消",
+      "topic_id": "2315222911d23061c3cdd5dadd4fceab906a7f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#包上恩说卧蚕是在妈妈肚子里打的#",
+      "rank": 39,
+      "title": "包上恩说卧蚕是在妈妈肚子里打的",
+      "topic_id": "23152288cde5343ec6672eb8123cc24ab51495"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#扶老人反被索赔92万快递员最新发声#",
+      "rank": 40,
+      "title": "扶老人反被索赔92万快递员最新发声",
+      "topic_id": "231522e2d9266238436bc7bb49d0aa4e0c2c9d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#张晋晒参加白举纲婚礼照#",
+      "rank": 41,
+      "title": "张晋晒参加白举纲婚礼照",
+      "topic_id": "231522093a71cdebff52586bdd4bbc27bfe3b6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "宗馥莉清库存式中秋福利被吐槽了",
+      "rank": 42,
+      "title": "宗馥莉清库存式中秋福利被吐槽了",
+      "topic_id": "231522c67a3c313bf97a0e641d8c6c98bc6add"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "曝华为门店撤掉问界",
+      "rank": 43,
+      "title": "曝华为门店撤掉问界",
+      "topic_id": "231522f981787e38a8d465691d993c5a327cfb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "无限暖暖2.10版本",
+      "rank": 44,
+      "title": "无限暖暖2.10版本",
+      "topic_id": "231522e96475116ceeff177208e1ba3b0cd14a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "iPhoneDuo 反掰",
+      "rank": 45,
+      "title": "iPhoneDuo 反掰",
+      "topic_id": "2315226f263ce4b554575238908c600d0741e9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#孙艺珍给玄彬打码的原因#",
+      "rank": 46,
+      "title": "孙艺珍给玄彬打码的原因",
+      "topic_id": "2315224c2bf2ce248c6a8f7bf8c85e805a31bb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "亚运会",
+      "rank": 47,
+      "title": "亚运会",
+      "topic_id": "231522b9fedef28ddcf151d85c04b905c0ad5c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "高市早苗凝视帅哥引热议",
+      "rank": 48,
+      "title": "高市早苗凝视帅哥引热议",
+      "topic_id": "23152248dc5c2462bcbb296704bf6f90fbb329"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "胡军全家伦敦给闺女干活",
+      "rank": 49,
+      "title": "胡军全家伦敦给闺女干活",
+      "topic_id": "231522618ccccc7b36654f9f9394ad6d5e09b2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#于东来正被自己的人设绑架#",
+      "rank": 50,
+      "title": "于东来正被自己的人设绑架",
+      "topic_id": "23152232a53f83d5cbf1cd490192409329cef0"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
