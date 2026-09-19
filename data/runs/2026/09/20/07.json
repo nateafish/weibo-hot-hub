@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-20T07:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 43,
+    "ai_unchanged": 7,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#习近平总书记多次寄语中国体育健儿#",
+      "rank": 1,
+      "title": "习近平总书记多次寄语中国体育健儿",
+      "topic_id": "231522f2b22238af1dc7116718d478f77bf174"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "长期不工作的人会失去什么",
+      "rank": 1,
+      "title": "长期不工作的人会失去什么",
+      "topic_id": "2315222387a370eb93f7aef68703704961cfeb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#中国体育代表团入场观众哇声一片#",
+      "rank": 2,
+      "title": "中国体育代表团入场观众哇声一片",
+      "topic_id": "231522210685729634e06a6349fbda90822ba8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#前8月全国铁路发送旅客超33亿人次#",
+      "rank": 3,
+      "title": "前8月全国铁路发送旅客超33亿人次",
+      "topic_id": "231522522b17ac84aa8d95e10de7f7a3148bdf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#周也你这演技我看得也很痛苦#",
+      "rank": 4,
+      "title": "周也你这演技我看得也很痛苦",
+      "topic_id": "231522eff64f1788c69b0b796eeb5068b09775"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "承接别人情绪的聊天技巧",
+      "rank": 5,
+      "title": "承接别人情绪的聊天技巧",
+      "topic_id": "2315220e9c1f753528411d770ca48e87872afe"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王源演唱会结束打开手机一看天塌了#",
+      "rank": 6,
+      "title": "王源演唱会结束打开手机一看天塌了",
+      "topic_id": "231522d61147d72cd2d0f41ce0a611bd16ef03"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#司美格鲁肽成变质回流药重灾区#",
+      "rank": 7,
+      "title": "司美格鲁肽成变质回流药重灾区",
+      "topic_id": "23152282cae33848dd946fcbbcf6877445cde0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#亚运会中国队夺金日#",
+      "rank": 8,
+      "title": "亚运会中国队夺金日",
+      "topic_id": "231522465aa70702f5d9038d7e771046a24c53"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#护学岗4人全是高龄老人最大67岁#",
+      "rank": 9,
+      "title": "护学岗4人全是高龄老人最大67岁",
+      "topic_id": "231522481b92c671058a5fe329a8de7b8ee9d6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#林锦岐临走前不顾一切强吻了兰香#",
+      "rank": 10,
+      "title": "林锦岐临走前不顾一切强吻了兰香",
+      "topic_id": "2315223cb7b7d8f7ae4b23791c815dfeedbdb5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#何炅冲浪真的快#",
+      "rank": 11,
+      "title": "何炅冲浪真的快",
+      "topic_id": "2315220a5307f52106e5ffb32bcfc6f33cbb5c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#丈夫家暴妻子致死子女出具谅解书#",
+      "rank": 12,
+      "title": "丈夫家暴妻子致死子女出具谅解书",
+      "topic_id": "231522c1eaedd9ddbe88a45b36a1735b0ab193"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "华晨宇齐天",
+      "rank": 13,
+      "title": "华晨宇齐天",
+      "topic_id": "23152212084eb681d7e3f56efac9ba49105571"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#2026湾区升明月主持人#",
+      "rank": 14,
+      "title": "2026湾区升明月主持人",
+      "topic_id": "231522aff734360fff410e9df1645064fc889f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#实在搞不懂调休的意义#",
+      "rank": 15,
+      "title": "实在搞不懂调休的意义",
+      "topic_id": "231522f3e62f0f35b456763a6a7177d55ff49e"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#披荆斩棘三公上半场排名#",
+      "rank": 16,
+      "title": "披荆斩棘三公上半场排名",
+      "topic_id": "23152244618163405d99afd798d8d572c1ba66"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#沙特罕见向以色列求援#",
+      "rank": 17,
+      "title": "沙特罕见向以色列求援",
+      "topic_id": "23152217c744f4cdfa6bbbd55e17e4a19ffb2e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#北京奥运背包是亚运会最老显眼包#",
+      "rank": 18,
+      "title": "北京奥运背包是亚运会最老显眼包",
+      "topic_id": "2315229d1e97659f82a9c962c727f37668fa07"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "亚运会开幕式 诡异",
+      "rank": 19,
+      "title": "亚运会开幕式 诡异",
+      "topic_id": "231522735731968802b6a014dcba03acc5c934"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#实拍火箭垂直转运震撼现场#",
+      "rank": 20,
+      "title": "实拍火箭垂直转运震撼现场",
+      "topic_id": "23152279542910ab3c911a4ac00984ba1333a9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "亚运会",
+      "rank": 21,
+      "title": "亚运会",
+      "topic_id": "231522b9fedef28ddcf151d85c04b905c0ad5c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "不需要找关系就能进的好工作",
+      "rank": 22,
+      "title": "不需要找关系就能进的好工作",
+      "topic_id": "231522d8127f2881dccc43d2fcdc3045b8c866"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#布莱顿3比0阿森纳#",
+      "rank": 23,
+      "title": "布莱顿3比0阿森纳",
+      "topic_id": "231522fc15c2dbace7ff14548dc96ebfe3683f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#西贝内部人士回应倒闭传闻#",
+      "rank": 24,
+      "title": "西贝内部人士回应倒闭传闻",
+      "topic_id": "2315223a71eea3d43039c1d14e0fbae599e9dc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "爱情公寓 别试探了有市场",
+      "rank": 25,
+      "title": "爱情公寓 别试探了有市场",
+      "topic_id": "231522811564b4e76fb6a39d13f5e0c58cf4cb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#北漂月薪一万五两顿花9块#",
+      "rank": 26,
+      "title": "北漂月薪一万五两顿花9块",
+      "topic_id": "231522d268cd17a2029cf65f3e49c4e0dd8d23"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "塞维利亚VS巴塞罗那",
+      "rank": 27,
+      "title": "塞维利亚VS巴塞罗那",
+      "topic_id": "2315222ba4b03ffd662bea6506f94b91d54984"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 7,
+      "posts": "saved",
+      "query": "#当粉丝要求在iPhone18新机上签名#",
+      "rank": 28,
+      "title": "当粉丝要求在iPhone18新机上签名",
+      "topic_id": "231522410331e3b222d8b0f79a496d26c0b401"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "大熊猫居然能蹲成正方形",
+      "rank": 29,
+      "title": "大熊猫居然能蹲成正方形",
+      "topic_id": "2315222008738ff1650668e443f2b5b05b7089"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "肉包不吃肉被要求解释争议",
+      "rank": 30,
+      "title": "肉包不吃肉被要求解释争议",
+      "topic_id": "23152261c67824554c2d5f1bf1f0cb1ad3ba92"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 8,
+      "posts": "saved",
+      "query": "#王源手机碎成啥样了#",
+      "rank": 31,
+      "title": "王源手机碎成啥样了",
+      "topic_id": "231522ed842bf17113ad65e83c266b1bdd4d93"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#耳帝盛赞艾热张睿齐天舞台#",
+      "rank": 32,
+      "title": "耳帝盛赞艾热张睿齐天舞台",
+      "topic_id": "231522a5c5c12ef23cb7eb4edf01e951ab2b0a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#深圳出租车111元车费强收400被查#",
+      "rank": 33,
+      "title": "深圳出租车111元车费强收400被查",
+      "topic_id": "231522728355e6eba9ae424ff22a3211f159e2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#被顾客用西瓜砸头摊主获赔7万元#",
+      "rank": 34,
+      "title": "被顾客用西瓜砸头摊主获赔7万元",
+      "topic_id": "231522d1a71735cdaabee8c77177cf287b70c5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#亚运会开幕式这什么#",
+      "rank": 35,
+      "title": "亚运会开幕式这什么",
+      "topic_id": "231522449fa79134505caf49d1b033a9a1302e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#名古屋亚运会吉祥物吓到观众#",
+      "rank": 36,
+      "title": "名古屋亚运会吉祥物吓到观众",
+      "topic_id": "2315228cdabaf7ed80af59d00aa7ac2440799b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "人生绝大多数事不用准备好了再行动",
+      "rank": 37,
+      "title": "人生绝大多数事不用准备好了再行动",
+      "topic_id": "231522c0937eeda58c3f70bc0b1e4884dab97a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#开机进直播一键看电视#",
+      "rank": 38,
+      "title": "开机进直播一键看电视",
+      "topic_id": "2315221c31c2b0f4bc46884082f332ae5fddf9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "孙颖莎 亚运女团",
+      "rank": 39,
+      "title": "孙颖莎 亚运女团",
+      "topic_id": "231522329aaa2f80db5fc1c70ccbbf2cd9e1f5"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "杜翠雀不知道黄道婆很正常",
+      "rank": 40,
+      "title": "杜翠雀不知道黄道婆很正常",
+      "topic_id": "231522765f0835956185295788d55cb284a85b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#法院回应男子家暴致死案核准死刑#",
+      "rank": 41,
+      "title": "法院回应男子家暴致死案核准死刑",
+      "topic_id": "2315228759e38d3ab1a79cf49ea0db08147ba0"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#郑合惠子回应演杜翠雀#",
+      "rank": 42,
+      "title": "郑合惠子回应演杜翠雀",
+      "topic_id": "231522a56d4f624f1b92017b08a58d6c739d4e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#亚运会开幕式执旗者突然倒地#",
+      "rank": 43,
+      "title": "亚运会开幕式执旗者突然倒地",
+      "topic_id": "231522ead2629e2b37cff1eee4d5423fcd6bb1"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "苏超",
+      "rank": 44,
+      "title": "苏超",
+      "topic_id": "231522a47f1821834999a04109ff808d6bf124"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "王楚钦 亚运男团",
+      "rank": 45,
+      "title": "王楚钦 亚运男团",
+      "topic_id": "231522d4c1d33841f5996f17417e024bcc1638"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "LPL出征仪式 寒酸",
+      "rank": 46,
+      "title": "LPL出征仪式 寒酸",
+      "topic_id": "231522911d07d92c118d7618e5e861338dcb8f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#父女在商场遭人围堵4岁女儿被吓哭#",
+      "rank": 47,
+      "title": "父女在商场遭人围堵4岁女儿被吓哭",
+      "topic_id": "23152299dc280681fecde6c0acf7747677032a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#李天阳3比0科顿#",
+      "rank": 48,
+      "title": "李天阳3比0科顿",
+      "topic_id": "2315228b8321378c10c59562d0f27b624c00cb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "看亚运会开幕式被吓到了",
+      "rank": 49,
+      "title": "看亚运会开幕式被吓到了",
+      "topic_id": "231522282015485ab8b4b3c975b13a3e7011d6"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "兰香如故",
+      "rank": 50,
+      "title": "兰香如故",
+      "topic_id": "231522c6a223bd3a54fc2af87227153bdbc48d"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
