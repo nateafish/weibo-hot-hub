@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 5857296503
   },
-  "last_seen_at": "2026-09-20T23:00:00+08:00",
+  "last_seen_at": "2026-09-21T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%86%AF%E7%A6%A7%E5%AD%99%E4%B9%90%E8%A8%80%E5%86%AF%E7%90%B3%E6%98%AF%E5%90%8C%E7%8F%AD%E5%90%8C%E5%AD%A6%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "3家媒体",
     "users": [
+      {
+        "id": 2356298087,
+        "idstr": "2356298087",
+        "screen_name": "河北经视",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2318910945,
         "idstr": "2318910945",
         "screen_name": "新浪热点",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1704653603,
+        "idstr": "1704653603",
+        "screen_name": "鞍山日报",
         "verified": true,
         "verified_type": 3
       }
