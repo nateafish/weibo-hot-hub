@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1618051664
   },
-  "last_seen_at": "2026-09-20T20:00:00+08:00",
+  "last_seen_at": "2026-09-20T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%B0%88%E9%A6%96%E5%9C%BA%E6%AF%94%E8%B5%9B%E4%B8%8D%E6%95%8C%E6%9C%B1%E9%9B%A8%E7%8E%B2%23%26t%3D3&title=发布媒体",
-    "show_str": "12家媒体",
+    "show_str": "27家媒体",
     "users": [
       {
         "id": 2011739333,
@@ -26,6 +26,20 @@
         "id": 1618051664,
         "idstr": "1618051664",
         "screen_name": "头条新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1036713140,
+        "idstr": "1036713140",
+        "screen_name": "杭州网",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 6092578444,
-        "idstr": "6092578444",
-        "screen_name": "新浪种草官",
-        "verified": true,
-        "verified_type": 7
-      },
-      {
-        "id": 1975995305,
-        "idstr": "1975995305",
-        "screen_name": "西安晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1941424392,
-        "idstr": "1941424392",
-        "screen_name": "台州晚报",
+        "id": 6299534218,
+        "idstr": "6299534218",
+        "screen_name": "北青体育",
         "verified": true,
         "verified_type": 3
       }

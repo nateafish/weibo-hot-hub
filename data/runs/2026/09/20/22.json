@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-20T22:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 1,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#制造业是立国之本强国之基#",
+      "rank": 1,
+      "title": "制造业是立国之本强国之基",
+      "topic_id": "2315228596a00f63900ee3a12ce276e9e4aa7b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#2026湾区升明月节目单#",
+      "rank": 1,
+      "title": "2026湾区升明月节目单",
+      "topic_id": "231522032421d1bf2c73c6a1507f03eb900c60"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "湾区升明月",
+      "rank": 2,
+      "title": "湾区升明月",
+      "topic_id": "231522a57cf5aa9b922d71e5de0ad94232c3ec"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#今起公积金提取场景6变9#",
+      "rank": 3,
+      "title": "今起公积金提取场景6变9",
+      "topic_id": "2315228fc502a2caf991c8cc17e59e160da7c3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "亚运会乒乓球",
+      "rank": 4,
+      "title": "亚运会乒乓球",
+      "topic_id": "2315222f71914526098e34e7ec67972dc2c489"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "王俊凯演唱会 易烊千玺",
+      "rank": 5,
+      "title": "王俊凯演唱会 易烊千玺",
+      "topic_id": "231522b8a0ae378f08d3a30183870fec4c5e52"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "张凌赫 假唱",
+      "rank": 6,
+      "title": "张凌赫 假唱",
+      "topic_id": "231522c82a203223d367f18576a12d60d314e6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#中国男篮队员身心严重疲劳#",
+      "rank": 7,
+      "title": "中国男篮队员身心严重疲劳",
+      "topic_id": "231522e7cd45076b7bf4e5f510298fc5b9622d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#潘展乐回应反超夺金#",
+      "rank": 8,
+      "title": "潘展乐回应反超夺金",
+      "topic_id": "231522eeac32b5dcddaba36474cd0413b2203c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#中国队一天11枚金牌#",
+      "rank": 9,
+      "title": "中国队一天11枚金牌",
+      "topic_id": "2315229675f75505cd2e7806b1afa3f331be4d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "周深 音响没问题你们唱吧",
+      "rank": 10,
+      "title": "周深 音响没问题你们唱吧",
+      "topic_id": "231522bba43d6afb1f0db5071d946aba81b821"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "谢金燕 没戴麦",
+      "rank": 11,
+      "title": "谢金燕 没戴麦",
+      "topic_id": "231522622400f21299ba7acf2084308d67e9e0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "打击商K 连锁反应",
+      "rank": 12,
+      "title": "打击商K 连锁反应",
+      "topic_id": "23152226e2cd77fb80bef91a8af5a28a3358df"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#曝白鹿送团队苹果18#",
+      "rank": 13,
+      "title": "曝白鹿送团队苹果18",
+      "topic_id": "231522e813a7c242cd1ce5f4544dc16d60c544"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#潘展乐反超夺金#",
+      "rank": 14,
+      "title": "潘展乐反超夺金",
+      "topic_id": "231522a2bdd04b1900b7d884df637fdf2caf32"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#已婚女子与男子开房次日全裸身亡#",
+      "rank": 15,
+      "title": "已婚女子与男子开房次日全裸身亡",
+      "topic_id": "231522e754de7211364e3b127f50192c9d7273"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#曝iPhone18Pro首销日卖出超32万台#",
+      "rank": 16,
+      "title": "曝iPhone18Pro首销日卖出超32万台",
+      "topic_id": "2315220462d6bfb08164670305297306e75b05"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#住建局回应5公里路面500个井盖#",
+      "rank": 17,
+      "title": "住建局回应5公里路面500个井盖",
+      "topic_id": "231522270a0c0ffc4e3d51ff7b941ec8ae0f08"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "范玮琪 抖后",
+      "rank": 18,
+      "title": "范玮琪 抖后",
+      "topic_id": "23152223e1460ad43e83c615359a3c47f8dfb1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#青旅订房页面未标明房间有监控#",
+      "rank": 19,
+      "title": "青旅订房页面未标明房间有监控",
+      "topic_id": "23152298c4a3dd924429690d9e6a31b0ea161d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "湾区升明月 真唱",
+      "rank": 20,
+      "title": "湾区升明月 真唱",
+      "topic_id": "231522496c4d5b67ed56c29ff59117884f8392"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#徐嘉余长生不老#",
+      "rank": 21,
+      "title": "徐嘉余长生不老",
+      "topic_id": "2315226964fb4241bb90da068aff4a293ee86c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "马丽 假唱",
+      "rank": 22,
+      "title": "马丽 假唱",
+      "topic_id": "2315226e59a292a3f0d8670caa366830508a84"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#华为引望声明#",
+      "rank": 23,
+      "title": "华为引望声明",
+      "topic_id": "2315220e6c5b018f039dfaae201690b7839196"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#湾区升明月神仙阵容又要来了吗#",
+      "rank": 24,
+      "title": "湾区升明月神仙阵容又要来了吗",
+      "topic_id": "231522fee3b7b00e4ee581677ade29f1afdbf8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "彩礼18.8万快成全国统一价了",
+      "rank": 25,
+      "title": "彩礼18.8万快成全国统一价了",
+      "topic_id": "2315224cd64b100af0f8257713995ff2509cec"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#颜安部落赢了小沈阳部落#",
+      "rank": 26,
+      "title": "颜安部落赢了小沈阳部落",
+      "topic_id": "23152286299ced9ed8b547c34396bdb45a4440"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "曼城vs桑德兰",
+      "rank": 27,
+      "title": "曼城vs桑德兰",
+      "topic_id": "23152261fdcf5410170019672402880dd1ee86"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "王嘉尔 慢慢",
+      "rank": 28,
+      "title": "王嘉尔 慢慢",
+      "topic_id": "2315228dca9e75f96319b78fd4b8af4041ac92"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "茶花开了听哭了",
+      "rank": 29,
+      "title": "茶花开了听哭了",
+      "topic_id": "2315226155472cacab97fb64bfffad301e5f61"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#孟子义曾舜晞霸道女总裁小娇夫#",
+      "rank": 30,
+      "title": "孟子义曾舜晞霸道女总裁小娇夫",
+      "topic_id": "23152295ae6e96863a866a9826098ef678661d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "县城财政收入2亿支出近20亿",
+      "rank": 31,
+      "title": "县城财政收入2亿支出近20亿",
+      "topic_id": "231522fccb6150f11c204057770642b8ca0c99"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#王俊凯北京演唱会爸爸在台下#",
+      "rank": 32,
+      "title": "王俊凯北京演唱会爸爸在台下",
+      "topic_id": "231522961623f3666cb8c0f2473153901e8388"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "亚运电竞韩国输越南",
+      "rank": 33,
+      "title": "亚运电竞韩国输越南",
+      "topic_id": "2315223fe977cc7843ec93124a853c5eb2750a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "日本男篮vs韩国男篮",
+      "rank": 34,
+      "title": "日本男篮vs韩国男篮",
+      "topic_id": "23152292b40b3fde089119265d3d9fb9cee378"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "小沈阳部落夯爆了",
+      "rank": 35,
+      "title": "小沈阳部落夯爆了",
+      "topic_id": "231522c00d75b42bbb9d7b24c9753423c41724"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "张凌赫 从哞到夯",
+      "rank": 36,
+      "title": "张凌赫 从哞到夯",
+      "topic_id": "231522704dab44d52e7f46cffbd34a4359d2c7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#窦靖童开场#",
+      "rank": 37,
+      "title": "窦靖童开场",
+      "topic_id": "2315225c5777ae68683004d10e961bd80835ba"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "刘宇宁自带混响",
+      "rank": 38,
+      "title": "刘宇宁自带混响",
+      "topic_id": "231522dcdaa2ff88724d76f497f0730a82ad92"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#亚运会官网搞错王楚钦比分#",
+      "rank": 39,
+      "title": "亚运会官网搞错王楚钦比分",
+      "topic_id": "231522fc4e5207b2a03ab6ccdc64b1e5b5d916"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#韩国男篮免除兵役#",
+      "rank": 40,
+      "title": "韩国男篮免除兵役",
+      "topic_id": "2315228bc103925a12bc74811b96888b8ea7f6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#兰香如故才播了20集#",
+      "rank": 41,
+      "title": "兰香如故才播了20集",
+      "topic_id": "231522b77df5d6a65eb784f39e8c30b7448ea9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张睿哭着唱完茶花来了该回家了#",
+      "rank": 42,
+      "title": "张睿哭着唱完茶花来了该回家了",
+      "topic_id": "231522df5cfd4d5e914f91e8a2e8ec5179cdd8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#冯禧孙乐言冯琳是同班同学#",
+      "rank": 43,
+      "title": "冯禧孙乐言冯琳是同班同学",
+      "topic_id": "231522975c729719fef4e8e2bab5827321074e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "檀健次粤语唱跳青筋暴起",
+      "rank": 44,
+      "title": "檀健次粤语唱跳青筋暴起",
+      "topic_id": "231522a2154225ddc82df0dc62abda89655d57"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "40岁才是真正的战场",
+      "rank": 45,
+      "title": "40岁才是真正的战场",
+      "topic_id": "231522d7b86250a16c3d6d9c658938a1c7d990"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "亚运会",
+      "rank": 46,
+      "title": "亚运会",
+      "topic_id": "231522b9fedef28ddcf151d85c04b905c0ad5c"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#白鹿偷常华森的狗呵呵掀帘子#",
+      "rank": 47,
+      "title": "白鹿偷常华森的狗呵呵掀帘子",
+      "topic_id": "231522e12858ad8cf10e330fb1b4563e0e3cda"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "崩坏星穹铁道",
+      "rank": 48,
+      "title": "崩坏星穹铁道",
+      "topic_id": "231522e1f868bf9980f09ab6908787d7eaf0f0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王曼昱谈首场比赛不敌朱雨玲#",
+      "rank": 49,
+      "title": "王曼昱谈首场比赛不敌朱雨玲",
+      "topic_id": "2315225a891888f59f3126aa21f59240ad8fcb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "戴安娜王妃的弟弟新书爆料",
+      "rank": 50,
+      "title": "戴安娜王妃的弟弟新书爆料",
+      "topic_id": "231522fce01d574d0c4e183b40146a811e6d28"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
