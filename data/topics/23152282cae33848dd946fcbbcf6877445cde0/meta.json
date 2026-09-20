@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 2656274875
   },
-  "last_seen_at": "2026-09-20T08:00:00+08:00",
+  "last_seen_at": "2026-09-20T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8F%B8%E7%BE%8E%E6%A0%BC%E9%B2%81%E8%82%BD%E6%88%90%E5%8F%98%E8%B4%A8%E5%9B%9E%E6%B5%81%E8%8D%AF%E9%87%8D%E7%81%BE%E5%8C%BA%23%26t%3D3&title=发布媒体",
-    "show_str": "52家媒体",
+    "show_str": "85家媒体",
     "users": [
       {
         "id": 2656274875,
         "idstr": "2656274875",
         "screen_name": "央视新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1744332207,
+        "idstr": "1744332207",
+        "screen_name": "钱江视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1451977335,
+        "idstr": "1451977335",
+        "screen_name": "新晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -37,30 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 1752825395,
+        "idstr": "1752825395",
+        "screen_name": "光明网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1497087080,
         "idstr": "1497087080",
         "screen_name": "羊城晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1926909715,
-        "idstr": "1926909715",
-        "screen_name": "第一财经日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1744332207,
-        "idstr": "1744332207",
-        "screen_name": "钱江视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1288429914,
-        "idstr": "1288429914",
-        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       }

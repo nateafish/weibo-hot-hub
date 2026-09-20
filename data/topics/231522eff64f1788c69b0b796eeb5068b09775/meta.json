@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 1921551257
   },
-  "last_seen_at": "2026-09-20T08:00:00+08:00",
+  "last_seen_at": "2026-09-20T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%91%A8%E4%B9%9F%E4%BD%A0%E8%BF%99%E6%BC%94%E6%8A%80%E6%88%91%E7%9C%8B%E5%BE%97%E4%B9%9F%E5%BE%88%E7%97%9B%E8%8B%A6%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "5家媒体",
     "users": [
+      {
+        "id": 1655444627,
+        "idstr": "1655444627",
+        "screen_name": "潇湘晨报",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 5330128610,
         "idstr": "5330128610",
@@ -23,9 +30,23 @@
         "verified_type": -1
       },
       {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2115259662,
         "idstr": "2115259662",
         "screen_name": "洪观新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1938523582,
+        "idstr": "1938523582",
+        "screen_name": "宁波晚报",
         "verified": true,
         "verified_type": 3
       }

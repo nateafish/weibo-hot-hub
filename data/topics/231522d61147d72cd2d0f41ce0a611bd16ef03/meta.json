@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 2846059400
   },
-  "last_seen_at": "2026-09-20T08:00:00+08:00",
+  "last_seen_at": "2026-09-20T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%8E%8B%E6%BA%90%E6%BC%94%E5%94%B1%E4%BC%9A%E7%BB%93%E6%9D%9F%E6%89%93%E5%BC%80%E6%89%8B%E6%9C%BA%E4%B8%80%E7%9C%8B%E5%A4%A9%E5%A1%8C%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "10家媒体",
+    "show_str": "15家媒体",
     "users": [
       {
         "id": 7708039348,
         "idstr": "7708039348",
         "screen_name": "北青娱见",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2460937233,
+        "idstr": "2460937233",
+        "screen_name": "热度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1936119834,
+        "idstr": "1936119834",
+        "screen_name": "河北长城网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1809436135,
+        "idstr": "1809436135",
+        "screen_name": "咪咕视频",
         "verified": true,
         "verified_type": 3
       },
@@ -40,27 +61,6 @@
         "id": 2535760180,
         "idstr": "2535760180",
         "screen_name": "安徽视讯",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2356298087,
-        "idstr": "2356298087",
-        "screen_name": "河北经视",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2252846093,
-        "idstr": "2252846093",
-        "screen_name": "长春新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2001789077,
-        "idstr": "2001789077",
-        "screen_name": "兵团日报",
         "verified": true,
         "verified_type": 3
       }
