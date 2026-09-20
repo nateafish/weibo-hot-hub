@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 2286092114
   },
-  "last_seen_at": "2026-09-20T07:00:00+08:00",
+  "last_seen_at": "2026-09-20T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%AD%E5%9B%BD%E4%BD%93%E8%82%B2%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%85%A5%E5%9C%BA%E8%A7%82%E4%BC%97%E5%93%87%E5%A3%B0%E4%B8%80%E7%89%87%23%26t%3D3&title=发布媒体",
-    "show_str": "12家媒体",
+    "show_str": "27家媒体",
     "users": [
       {
         "id": 2286092114,
         "idstr": "2286092114",
         "screen_name": "中国蓝新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2028810631,
+        "idstr": "2028810631",
+        "screen_name": "新浪新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1651428902,
+        "idstr": "1651428902",
+        "screen_name": "21世纪经济报道",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +51,16 @@
         "verified_type": 7
       },
       {
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1829407315,
         "idstr": "1829407315",
         "screen_name": "蓝媒视频官方微博",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1763569030,
-        "idstr": "1763569030",
-        "screen_name": "新闻深一度",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2813313591,
-        "idstr": "2813313591",
-        "screen_name": "中新网海南",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2356298087,
-        "idstr": "2356298087",
-        "screen_name": "河北经视",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2291471981,
-        "idstr": "2291471981",
-        "screen_name": "济宁新闻网",
         "verified": true,
         "verified_type": 3
       }

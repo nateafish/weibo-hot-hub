@@ -10,11 +10,47 @@
     "status": 2,
     "uid": 1921551257
   },
-  "last_seen_at": "2026-09-20T07:00:00+08:00",
+  "last_seen_at": "2026-09-20T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%AE%9E%E5%9C%A8%E6%90%9E%E4%B8%8D%E6%87%82%E8%B0%83%E4%BC%91%E7%9A%84%E6%84%8F%E4%B9%89%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "5家媒体",
+    "users": [
+      {
+        "id": 3901624042,
+        "idstr": "3901624042",
+        "screen_name": "山西日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2292896411,
+        "idstr": "2292896411",
+        "screen_name": "中工网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1893892941,
+        "idstr": "1893892941",
+        "screen_name": "北京日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1727472420,
+        "idstr": "1727472420",
+        "screen_name": "泰山晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1657914910,
+        "idstr": "1657914910",
+        "screen_name": "烟台日报社大小新闻",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#实在搞不懂调休的意义#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E5%AE%9E%E5%9C%A8%E6%90%9E%E4%B8%8D%E6%87%82%E8%B0%83%E4%BC%91%E7%9A%84%E6%84%8F%E4%B9%89%23",
