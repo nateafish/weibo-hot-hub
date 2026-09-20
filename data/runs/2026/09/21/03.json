@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-21T03:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 37,
+    "ai_unchanged": 13,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#制造业是立国之本强国之基#",
+      "rank": 1,
+      "title": "制造业是立国之本强国之基",
+      "topic_id": "2315228596a00f63900ee3a12ce276e9e4aa7b"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#把配料表中的白砂糖还给我们#",
+      "rank": 1,
+      "title": "把配料表中的白砂糖还给我们",
+      "topic_id": "231522c63ba3a0b9e701fc4a84dc3837475240"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "披荆斩棘排名",
+      "rank": 2,
+      "title": "披荆斩棘排名",
+      "topic_id": "2315228a15dfa01f797bc2db12366e9147d7c8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#今起公积金提取场景6变9#",
+      "rank": 3,
+      "title": "今起公积金提取场景6变9",
+      "topic_id": "2315228fc502a2caf991c8cc17e59e160da7c3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "中国足球小将留洋西班牙",
+      "rank": 4,
+      "title": "中国足球小将留洋西班牙",
+      "topic_id": "23152256fbaba94b3024fec63111bcab12eb7d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "崔健",
+      "rank": 5,
+      "title": "崔健",
+      "topic_id": "23152258f55671c7e622e54ae9abae3a6bd5bf"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "章子怡 脸",
+      "rank": 6,
+      "title": "章子怡 脸",
+      "topic_id": "231522efee59cc31878cee7ad5156f21a83f49"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#冯禧孙乐言冯琳是同班同学#",
+      "rank": 7,
+      "title": "冯禧孙乐言冯琳是同班同学",
+      "topic_id": "231522975c729719fef4e8e2bab5827321074e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "马竞2比1皇马",
+      "rank": 8,
+      "title": "马竞2比1皇马",
+      "topic_id": "231522f777dd3be8cb2ccceeae99cce3ba7ad4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "央妈报道樊振东",
+      "rank": 9,
+      "title": "央妈报道樊振东",
+      "topic_id": "2315229f548893d0219c5844daf3787c04b18b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "罗梅罗踩踏贝林厄姆",
+      "rank": 10,
+      "title": "罗梅罗踩踏贝林厄姆",
+      "topic_id": "231522fc7ae813668ebac72cf1a0c61a437499"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "张家齐妈妈要求北京买房",
+      "rank": 11,
+      "title": "张家齐妈妈要求北京买房",
+      "topic_id": "2315222edea65f0a214ed21905fbfbcca50c64"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "师生恋在在职教师和学生身上不成立",
+      "rank": 12,
+      "title": "师生恋在在职教师和学生身上不成立",
+      "topic_id": "2315222d642911a15425af03b597fa830c5723"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#妈妈送的金项链没挂到张家齐脖子上#",
+      "rank": 13,
+      "title": "妈妈送的金项链没挂到张家齐脖子上",
+      "topic_id": "2315223495507a8e44169165da957279a7d6c2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "张家齐从未见过妈妈送的项链",
+      "rank": 14,
+      "title": "张家齐从未见过妈妈送的项链",
+      "topic_id": "231522de9a13891e1e8d031d2793afb7347494"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#古巨基苏有朋林心如唱情深深雨濛濛#",
+      "rank": 15,
+      "title": "古巨基苏有朋林心如唱情深深雨濛濛",
+      "topic_id": "2315220c75bff97c38398eaa1fa3e2d4d55edc"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#徐洁儿艾特错王俊凯#",
+      "rank": 16,
+      "title": "徐洁儿艾特错王俊凯",
+      "topic_id": "231522f663529df65c63a17f8fe25531632e5a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "刘畊宏张卓尔淘汰",
+      "rank": 17,
+      "title": "刘畊宏张卓尔淘汰",
+      "topic_id": "231522ff7971bb845224601427ffa4fbb9730a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "声幻娱乐声明",
+      "rank": 18,
+      "title": "声幻娱乐声明",
+      "topic_id": "23152260f625373549d322cd406fb0a6c5b49e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "打击商K 连锁反应",
+      "rank": 19,
+      "title": "打击商K 连锁反应",
+      "topic_id": "23152226e2cd77fb80bef91a8af5a28a3358df"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#潘展乐最后一米前都觉得要输了#",
+      "rank": 20,
+      "title": "潘展乐最后一米前都觉得要输了",
+      "topic_id": "231522a1a9576914363ad9158f502ec1b7f8e2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "彩礼18.8万快成全国统一价了",
+      "rank": 21,
+      "title": "彩礼18.8万快成全国统一价了",
+      "topic_id": "2315224cd64b100af0f8257713995ff2509cec"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "肯德基 消费者觉得好吃就下架",
+      "rank": 22,
+      "title": "肯德基 消费者觉得好吃就下架",
+      "topic_id": "2315224ea982af204c57b061f35f26b079deda"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#张卓尔直播哭了#",
+      "rank": 23,
+      "title": "张卓尔直播哭了",
+      "topic_id": "23152281f13f5d73dd655ccc9c18b6e9bd2825"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "张杰 好听",
+      "rank": 24,
+      "title": "张杰 好听",
+      "topic_id": "2315229159c1f3c42577eaa9db8b38c060a29f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#冯禧事业前景#",
+      "rank": 25,
+      "title": "冯禧事业前景",
+      "topic_id": "231522178cd6c3db0519b450462a2b193c9eea"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "昭珏选手剃寸头",
+      "rank": 26,
+      "title": "昭珏选手剃寸头",
+      "topic_id": "23152299fab34357af960c85192c223a60f7b7"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "湾区升明月",
+      "rank": 27,
+      "title": "湾区升明月",
+      "topic_id": "231522a57cf5aa9b922d71e5de0ad94232c3ec"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#已婚女子与男子开房次日全裸身亡#",
+      "rank": 28,
+      "title": "已婚女子与男子开房次日全裸身亡",
+      "topic_id": "231522e754de7211364e3b127f50192c9d7273"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "亚运会",
+      "rank": 29,
+      "title": "亚运会",
+      "topic_id": "231522b9fedef28ddcf151d85c04b905c0ad5c"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "永远不要用力走向任何人",
+      "rank": 30,
+      "title": "永远不要用力走向任何人",
+      "topic_id": "23152214c200c530b32ab26cdd0d7036639312"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#王俊凯退网六年的站姐回来了#",
+      "rank": 31,
+      "title": "王俊凯退网六年的站姐回来了",
+      "topic_id": "23152291d44a1cff1facd1766ea8e32d84ec93"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "卡宴降30万还得61万",
+      "rank": 32,
+      "title": "卡宴降30万还得61万",
+      "topic_id": "231522e3e15039606282d22a6b15ea192a85cb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#疑遭绑架女主播视频中状态涣散#",
+      "rank": 33,
+      "title": "疑遭绑架女主播视频中状态涣散",
+      "topic_id": "2315222d22754790bca5e27fe7e2436f19800d"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#王楚钦打第三局发现搞错比分#",
+      "rank": 34,
+      "title": "王楚钦打第三局发现搞错比分",
+      "topic_id": "2315221e5eb86e60c1bbd85dc38439771454e1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#tank唱千年泪镜头给了胡歌#",
+      "rank": 35,
+      "title": "tank唱千年泪镜头给了胡歌",
+      "topic_id": "23152266824adeb47e09f7f823d5891ca68c57"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 21,
+      "posts": "saved",
+      "query": "年味消失的原因是这样么",
+      "rank": 36,
+      "title": "年味消失的原因是这样么",
+      "topic_id": "231522aac5b6bfe7c0dd42e459dfb9eb73faef"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#田曦薇绿色拖尾旗袍#",
+      "rank": 37,
+      "title": "田曦薇绿色拖尾旗袍",
+      "topic_id": "2315229f5b8f15c71493053dda35266e9c920c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "让ChatGPT预测房价哪年见底",
+      "rank": 38,
+      "title": "让ChatGPT预测房价哪年见底",
+      "topic_id": "231522928691851951851f49740f713c341310"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#白鹿保镖都笑出花来了#",
+      "rank": 39,
+      "title": "白鹿保镖都笑出花来了",
+      "topic_id": "2315223178eea7670901d59d87ffd7d0dc44c1"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "崩坏星穹铁道",
+      "rank": 40,
+      "title": "崩坏星穹铁道",
+      "topic_id": "231522e1f868bf9980f09ab6908787d7eaf0f0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#母亲赶到家时两兄妹已被胡蜂蜇亡#",
+      "rank": 41,
+      "title": "母亲赶到家时两兄妹已被胡蜂蜇亡",
+      "topic_id": "2315224d0d1c9b89d4cf7d7884f0c00ecf118e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "人怎么能说出这么有力量感的话",
+      "rank": 42,
+      "title": "人怎么能说出这么有力量感的话",
+      "topic_id": "2315221850fbb3fd0d0fda42415620b6f8430c"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "40岁才是真正的战场",
+      "rank": 43,
+      "title": "40岁才是真正的战场",
+      "topic_id": "231522d7b86250a16c3d6d9c658938a1c7d990"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#许兰香嫁给韩梁未必是良缘#",
+      "rank": 44,
+      "title": "许兰香嫁给韩梁未必是良缘",
+      "topic_id": "231522bab135ea931d542be54c4d47dd4c3384"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "iPhone18ProMax1T翻车",
+      "rank": 45,
+      "title": "iPhone18ProMax1T翻车",
+      "topic_id": "2315221486290e56017e72368a968e24ed8274"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#张家齐穿着裙子跳前空翻#",
+      "rank": 46,
+      "title": "张家齐穿着裙子跳前空翻",
+      "topic_id": "231522843761ffe1519f3fec99e496f0cc592c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#中国队的金牌速度#",
+      "rank": 47,
+      "title": "中国队的金牌速度",
+      "topic_id": "23152221441e6d6af267b7c5aafe71fdb6ea88"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "赫伊森红点套餐",
+      "rank": 48,
+      "title": "赫伊森红点套餐",
+      "topic_id": "231522317136be40a70f20cdff3814a47749b0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#刘学义回复牛骏峰#",
+      "rank": 49,
+      "title": "刘学义回复牛骏峰",
+      "topic_id": "231522600fffc3848bc0530fe59fc6366d21f6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#潘展乐直言谁都想要那枚金牌#",
+      "rank": 50,
+      "title": "潘展乐直言谁都想要那枚金牌",
+      "topic_id": "231522ef0b07cf15b05b540ac43c883fcd310a"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
