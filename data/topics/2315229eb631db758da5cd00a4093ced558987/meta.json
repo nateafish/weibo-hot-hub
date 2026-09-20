@@ -10,11 +10,32 @@
     "status": 2,
     "uid": 2122079781
   },
-  "last_seen_at": "2026-09-20T09:00:00+08:00",
+  "last_seen_at": "2026-09-20T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%87%91%E7%A7%80%E8%B4%A4%E5%A4%8D%E5%87%BA%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "6家媒体",
     "users": [
+      {
+        "id": 1882632930,
+        "idstr": "1882632930",
+        "screen_name": "新消息报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2962520661,
+        "idstr": "2962520661",
+        "screen_name": "搜狐韩娱",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7590570074,
+        "idstr": "7590570074",
+        "screen_name": "山海视频",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 7737756492,
         "idstr": "7737756492",
@@ -23,9 +44,16 @@
         "verified_type": 3
       },
       {
-        "id": 1882632930,
-        "idstr": "1882632930",
-        "screen_name": "新消息报",
+        "id": 7310744124,
+        "idstr": "7310744124",
+        "screen_name": "點新聞dotdotnews",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2015391145,
+        "idstr": "2015391145",
+        "screen_name": "中国慈善家杂志",
         "verified": true,
         "verified_type": 3
       }
