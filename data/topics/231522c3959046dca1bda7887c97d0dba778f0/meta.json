@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 6511453608
   },
-  "last_seen_at": "2026-09-20T15:00:00+08:00",
+  "last_seen_at": "2026-09-20T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%8E%8B%E4%BF%8A%E5%87%AFins%E5%9B%9E%E5%BA%94%E5%91%A8%E6%9D%B0%E4%BC%A6%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "4家媒体",
     "users": [
+      {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1895096900,
         "idstr": "1895096900",
@@ -23,9 +30,16 @@
         "verified_type": 3
       },
       {
-        "id": 1913382117,
-        "idstr": "1913382117",
-        "screen_name": "深圳晚报",
+        "id": 7708039348,
+        "idstr": "7708039348",
+        "screen_name": "北青娱见",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1655444627,
+        "idstr": "1655444627",
+        "screen_name": "潇湘晨报",
         "verified": true,
         "verified_type": 3
       }
