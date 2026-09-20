@@ -3,10 +3,10 @@
   "created_at": 1789905401,
   "first_seen_at": "2026-09-20T20:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-20T22:00:00+08:00",
+  "last_seen_at": "2026-09-20T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%91%A8%E6%B7%B1+%E9%9F%B3%E5%93%8D%E6%B2%A1%E9%97%AE%E9%A2%98%E4%BD%A0%E4%BB%AC%E5%94%B1%E5%90%A7%23%26t%3D3&title=发布媒体",
-    "show_str": "42家媒体",
+    "show_str": "50家媒体",
     "users": [
       {
         "id": 1843633441,
@@ -19,6 +19,13 @@
         "id": 1887790981,
         "idstr": "1887790981",
         "screen_name": "广州日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2115259662,
+        "idstr": "2115259662",
+        "screen_name": "洪观新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -37,23 +44,16 @@
         "verified_type": 3
       },
       {
+        "id": 1497087080,
+        "idstr": "1497087080",
+        "screen_name": "羊城晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7708039348,
         "idstr": "7708039348",
         "screen_name": "北青娱见",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2460937233,
-        "idstr": "2460937233",
-        "screen_name": "热度新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7308140398,
-        "idstr": "7308140398",
-        "screen_name": "大象新闻",
         "verified": true,
         "verified_type": 3
       }
