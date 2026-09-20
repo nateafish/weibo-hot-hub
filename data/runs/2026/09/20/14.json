@@ -1,0 +1,537 @@
+{
+  "captured_at": "2026-09-20T14:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 47,
+    "ai_unchanged": 2,
+    "metrics_saved": 50,
+    "posts_saved": 50
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#重温总书记对中华体育健儿的勉励#",
+      "rank": 1,
+      "title": "重温总书记对中华体育健儿的勉励",
+      "topic_id": "2315221c9b0e71f8fd6e2e9b132185c6787f7b"
+    },
+    {
+      "ai": "pending",
+      "metrics": "failed",
+      "metrics_error": "TopicFetchError: Topic detail is missing a stable id or title",
+      "posts": "pending",
+      "query": "#湾区升明月官宣#",
+      "rank": 1,
+      "title": "湾区升明月官宣"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "秦始皇陵为什么不挖",
+      "rank": 2,
+      "title": "秦始皇陵为什么不挖",
+      "topic_id": "231522b36c63e4222c9bd2213a0f3f916ea18b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#铸牢共同体中华一家亲#",
+      "rank": 3,
+      "title": "铸牢共同体中华一家亲",
+      "topic_id": "231522f603ed9020eabe08cc55c54457a7f9d5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#中国连夺3金#",
+      "rank": 4,
+      "title": "中国连夺3金",
+      "topic_id": "23152293f11fc85c6a4ba05b2f33993d852f9b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#调休为什么总能吵翻天#",
+      "rank": 5,
+      "title": "调休为什么总能吵翻天",
+      "topic_id": "231522661cf26a8f57d87fb2045b3c11ad5b23"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "日本人平均身高被中韩超越",
+      "rank": 6,
+      "title": "日本人平均身高被中韩超越",
+      "topic_id": "231522a87bd28149cd876ae6d6dd5737caebb3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#今起公积金提取场景6变9#",
+      "rank": 7,
+      "title": "今起公积金提取场景6变9",
+      "topic_id": "2315228fc502a2caf991c8cc17e59e160da7c3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "公积金新规正式施行",
+      "rank": 8,
+      "title": "公积金新规正式施行",
+      "topic_id": "23152294a8c0a21436008a530463cc86720740"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "配音演员赵然去世",
+      "rank": 9,
+      "title": "配音演员赵然去世",
+      "topic_id": "231522b3c823e05568cd102146f21fddbd923c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#这就是为什么强制缴纳社保的原因#",
+      "rank": 10,
+      "title": "这就是为什么强制缴纳社保的原因",
+      "topic_id": "231522db36316f670fe159fe6d7580e1f3e7eb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "金秀贤 金赛纶",
+      "rank": 11,
+      "title": "金秀贤 金赛纶",
+      "topic_id": "231522bb63b20b62f0eaf2a2e28549ce72ab27"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝冯禧西太后婚纱价值5万多#",
+      "rank": 12,
+      "title": "曝冯禧西太后婚纱价值5万多",
+      "topic_id": "2315224e5067b833b6336abe064b8699668219"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "学阀",
+      "rank": 13,
+      "title": "学阀",
+      "topic_id": "231522872f43995b93a70f28312728ba0d4f5f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "单依纯 尤长靖",
+      "rank": 14,
+      "title": "单依纯 尤长靖",
+      "topic_id": "231522439cf6cc0b58379c031a12b30db9a020"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#白鹿朝玉阶招商#",
+      "rank": 15,
+      "title": "白鹿朝玉阶招商",
+      "topic_id": "2315229db2f66d46c42b9c87fe8a82dbf35d34"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#KPL十周年宣传片#",
+      "rank": 16,
+      "title": "KPL十周年宣传片",
+      "topic_id": "231522ef310e01022cdda78f84ac87b7815fce"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#两年挣6.8亿元神秘艺人疑为许嵩#",
+      "rank": 17,
+      "title": "两年挣6.8亿元神秘艺人疑为许嵩",
+      "topic_id": "231522c9fb40643f3c6fb3dc860e307806764b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "国乒 一日四赛",
+      "rank": 18,
+      "title": "国乒 一日四赛",
+      "topic_id": "23152260ccf0d8c1de66c7c6beb1d3e010065c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "西贝走到今天这步到底该怪谁",
+      "rank": 19,
+      "title": "西贝走到今天这步到底该怪谁",
+      "topic_id": "23152237baa99bb4969a3feef58c1219df8dfc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "亚运会",
+      "rank": 20,
+      "title": "亚运会",
+      "topic_id": "231522b9fedef28ddcf151d85c04b905c0ad5c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#疑似马伊琍恋情#",
+      "rank": 21,
+      "title": "疑似马伊琍恋情",
+      "topic_id": "23152240a2db1b4acf2d8f5233ecf5f47f8e69"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#交个朋友全面下架溜溜凳#",
+      "rank": 22,
+      "title": "交个朋友全面下架溜溜凳",
+      "topic_id": "23152226ab9accb8d1167555a71e53ce5c7acb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "小米18Fold销量",
+      "rank": 23,
+      "title": "小米18Fold销量",
+      "topic_id": "231522797b99a71ae83717534fafd22985e1df"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#冯禧离开湖南卫视的原因#",
+      "rank": 24,
+      "title": "冯禧离开湖南卫视的原因",
+      "topic_id": "23152282048d09575ae3100fc71d2dda987cd6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "小猫认为自己是主人宝宝也要排队洗澡",
+      "rank": 25,
+      "title": "小猫认为自己是主人宝宝也要排队洗澡",
+      "topic_id": "2315225a8e54ef91110e969dd3640a873f5db8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#易烊千玺公司名叫羊踯躅#",
+      "rank": 26,
+      "title": "易烊千玺公司名叫羊踯躅",
+      "topic_id": "2315225f2cb80c1eb0d71240b59420378a8cd5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "池昌旭 旋风少女2",
+      "rank": 27,
+      "title": "池昌旭 旋风少女2",
+      "topic_id": "231522d1d61ed68ffc839d849c30d849e21f76"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#沃尔沃S90从40万降到22万#",
+      "rank": 28,
+      "title": "沃尔沃S90从40万降到22万",
+      "topic_id": "231522bbe00d61177848712bc801ce294da9d7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#肖战确认出席爱奇艺悦享会#",
+      "rank": 29,
+      "title": "肖战确认出席爱奇艺悦享会",
+      "topic_id": "23152284833ebfb801d9725dc54759f2dd0d25"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "长期不工作的人会失去什么",
+      "rank": 30,
+      "title": "长期不工作的人会失去什么",
+      "topic_id": "2315222387a370eb93f7aef68703704961cfeb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#黄灿灿开出了黄灿灿的荣耀Magic9#",
+      "rank": 31,
+      "title": "黄灿灿开出了黄灿灿的荣耀Magic9",
+      "topic_id": "231522a23a23aeb3b87867deae8da891b3ea93"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "年轻人开始不买虚的了",
+      "rank": 32,
+      "title": "年轻人开始不买虚的了",
+      "topic_id": "231522e7561f6e6001f7f57a3c34667cb5c792"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#成为谷爱凌的第一步#",
+      "rank": 33,
+      "title": "成为谷爱凌的第一步",
+      "topic_id": "231522608eb63ad0702b8cc7a0c08c1bdaeaa3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "月入一万以下最稳的理财方式",
+      "rank": 34,
+      "title": "月入一万以下最稳的理财方式",
+      "topic_id": "231522f37c161f201ab4aba1b4926e1d4ae832"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "KPL",
+      "rank": 35,
+      "title": "KPL",
+      "topic_id": "231522361877035a32f3073eb1259ee15286d8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#牙医眼中最可怕的牙病#",
+      "rank": 36,
+      "title": "牙医眼中最可怕的牙病",
+      "topic_id": "2315225641bbf9cf9f00ed742729e18b9724f1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#郭涛儿子石头拍电影了#",
+      "rank": 37,
+      "title": "郭涛儿子石头拍电影了",
+      "topic_id": "2315226e39eec40ee495734cbcbb72d1ef7694"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#曝西贝下岗失业员工已超万人#",
+      "rank": 38,
+      "title": "曝西贝下岗失业员工已超万人",
+      "topic_id": "231522d9aac0965803f07f49dd007a6baf3830"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#大湾区晚会主持人阵容#",
+      "rank": 39,
+      "title": "大湾区晚会主持人阵容",
+      "topic_id": "2315220e4354e22bbde614fd9d4c5df0954125"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#券商员工代客操盘巨亏9206万#",
+      "rank": 40,
+      "title": "券商员工代客操盘巨亏9206万",
+      "topic_id": "231522230a86ffcd30c2e0129581af5eb6d03e"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#华策祝福吴倩#",
+      "rank": 41,
+      "title": "华策祝福吴倩",
+      "topic_id": "23152222dc009b108862e176789346df97e605"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "疑似青海前文旅厅长开网约车",
+      "rank": 42,
+      "title": "疑似青海前文旅厅长开网约车",
+      "topic_id": "23152290bd0aa8e26fbc0c4d248f97e873f58a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "国乒男团3比0中国澳门",
+      "rank": 43,
+      "title": "国乒男团3比0中国澳门",
+      "topic_id": "2315220bcc383475fd831f37df494276b24df0"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#郑合惠子不接纯现偶不演仙侠#",
+      "rank": 44,
+      "title": "郑合惠子不接纯现偶不演仙侠",
+      "topic_id": "23152240f1a538807c8c6c238d089fe9da543e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "中国U23男足vs伊朗U23",
+      "rank": 45,
+      "title": "中国U23男足vs伊朗U23",
+      "topic_id": "2315227fbfed3d700be4fc798f5d1e15480cc6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "我乔嘉了",
+      "rank": 46,
+      "title": "我乔嘉了",
+      "topic_id": "231522168d86ba8ae77b5950187e754b40cc16"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#网红超长蛋挞热量有多高#",
+      "rank": 47,
+      "title": "网红超长蛋挞热量有多高",
+      "topic_id": "231522d12af370e8260102d69f64e9481906f0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#女装店衣服仅穿3次一扯就坏#",
+      "rank": 48,
+      "title": "女装店衣服仅穿3次一扯就坏",
+      "topic_id": "231522facf99b626866afce87058a389745951"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "叙利亚人开始怀念阿萨德",
+      "rank": 49,
+      "title": "叙利亚人开始怀念阿萨德",
+      "topic_id": "231522f421cecc3e67d9ef37583cbb5ef42a8e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#林鑫瑜金牌#",
+      "rank": 50,
+      "title": "林鑫瑜金牌",
+      "topic_id": "2315221002ea89a7ea8ce48caa9130cf141b7e"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 0.9803921568627451,
+      "metrics": 0.9803921568627451,
+      "posts": 0.9803921568627451
+    }
+  }
+}
