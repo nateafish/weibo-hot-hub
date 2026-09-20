@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1909377960
   },
-  "last_seen_at": "2026-09-20T19:00:00+08:00",
+  "last_seen_at": "2026-09-20T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%A7%A6%E5%A7%8B%E7%9A%87%E9%99%B5%E6%B0%B4%E9%93%B6%E6%9D%A5%E6%BA%90%E8%A2%AB%E6%89%BE%E5%88%B0%23%26t%3D3&title=发布媒体",
-    "show_str": "139家媒体",
+    "show_str": "144家媒体",
     "users": [
       {
         "id": 1909377960,
         "idstr": "1909377960",
         "screen_name": "起点新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
         "verified": true,
         "verified_type": 3
       },
@@ -54,13 +61,6 @@
         "id": 3624248184,
         "idstr": "3624248184",
         "screen_name": "陕西网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2510959054,
-        "idstr": "2510959054",
-        "screen_name": "陕西广播电视台",
         "verified": true,
         "verified_type": 3
       }

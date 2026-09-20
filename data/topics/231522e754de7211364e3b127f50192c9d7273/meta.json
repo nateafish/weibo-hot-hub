@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 1726426884
   },
-  "last_seen_at": "2026-09-20T19:00:00+08:00",
+  "last_seen_at": "2026-09-20T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%B7%B2%E5%A9%9A%E5%A5%B3%E5%AD%90%E4%B8%8E%E7%94%B7%E5%AD%90%E5%BC%80%E6%88%BF%E6%AC%A1%E6%97%A5%E5%85%A8%E8%A3%B8%E8%BA%AB%E4%BA%A1%23%26t%3D3&title=发布媒体",
-    "show_str": "13家媒体",
+    "show_str": "16家媒体",
     "users": [
       {
         "id": 1726426884,
         "idstr": "1726426884",
         "screen_name": "广东广播电视台",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1451977335,
+        "idstr": "1451977335",
+        "screen_name": "新晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 2535760180,
         "idstr": "2535760180",
         "screen_name": "安徽视讯",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2188202475,
-        "idstr": "2188202475",
-        "screen_name": "南京晨报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2028810631,
-        "idstr": "2028810631",
-        "screen_name": "新浪新闻",
         "verified": true,
         "verified_type": 3
       }
