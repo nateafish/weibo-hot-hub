@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 6861829294
   },
-  "last_seen_at": "2026-09-20T14:00:00+08:00",
+  "last_seen_at": "2026-09-20T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A23%E6%AF%940%E4%B8%AD%E5%9B%BD%E6%BE%B3%E9%97%A8%23%26t%3D3&title=发布媒体",
-    "show_str": "14家媒体",
+    "show_str": "17家媒体",
     "users": [
       {
         "id": 2011739333,
@@ -21,6 +21,13 @@
         "screen_name": "新浪乒乓球",
         "verified": true,
         "verified_type": 7
+      },
+      {
+        "id": 2001789077,
+        "idstr": "2001789077",
+        "screen_name": "兵团日报",
+        "verified": true,
+        "verified_type": 3
       },
       {
         "id": 7761793874,
@@ -56,17 +63,10 @@
         "screen_name": "红星新闻",
         "verified": true,
         "verified_type": 3
-      },
-      {
-        "id": 5350271203,
-        "idstr": "5350271203",
-        "screen_name": "体坛周报",
-        "verified": true,
-        "verified_type": 3
       }
     ]
   },
-  "query": "国乒男团3比0中国澳门",
+  "query": "#国乒男团3比0中国澳门#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A23%E6%AF%940%E4%B8%AD%E5%9B%BD%E6%BE%B3%E9%97%A8%23",
   "sub_category": null,
   "summary": "国乒男团3比0中国澳门，收获亚运会男团小组赛开门红。",
