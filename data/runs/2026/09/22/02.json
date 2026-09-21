@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-22T02:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 35,
+    "ai_unchanged": 15,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#二十届五中全会10月26日至29日召开#",
+      "rank": 1,
+      "title": "二十届五中全会10月26日至29日召开",
+      "topic_id": "2315227db24d4198f20e91d3cc66b743fc56dc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#中国女子仙本那旅游遭男子闯入脱衣#",
+      "rank": 1,
+      "title": "中国女子仙本那旅游遭男子闯入脱衣",
+      "topic_id": "231522e3433fdcff5c36d7464c930bfdeb6830"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#16岁少年与14岁女孩发生关系判3年#",
+      "rank": 2,
+      "title": "16岁少年与14岁女孩发生关系判3年",
+      "topic_id": "23152267e73b1a5c868911fdf0f0bbdc5b56f5"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#坚持四个注重做强先进制造业#",
+      "rank": 3,
+      "title": "坚持四个注重做强先进制造业",
+      "topic_id": "231522f5e3a8f895eaa3982b25c27d012d6502"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "潘展乐 张展硕",
+      "rank": 4,
+      "title": "潘展乐 张展硕",
+      "topic_id": "2315221f588c6be27727d1af83e15bb89c0797"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#16岁小伙被判强奸罪家属发声#",
+      "rank": 5,
+      "title": "16岁小伙被判强奸罪家属发声",
+      "topic_id": "2315229a3ff869f667da665227f1b5a46bb67c"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "吴尊晒NeiNei穿婚服",
+      "rank": 6,
+      "title": "吴尊晒NeiNei穿婚服",
+      "topic_id": "231522ab987205abbae28019aff0a7c18470f2"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝某S加女主片酬从几千万降至100万#",
+      "rank": 7,
+      "title": "曝某S加女主片酬从几千万降至100万",
+      "topic_id": "231522466d2871345ab2662c313772c3577a09"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#Lisa疑似与blue谈恋爱了#",
+      "rank": 8,
+      "title": "Lisa疑似与blue谈恋爱了",
+      "topic_id": "2315223b4e8248f484127c2128cb6b01afbc6d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#曝金鹰奖最佳男女主#",
+      "rank": 9,
+      "title": "曝金鹰奖最佳男女主",
+      "topic_id": "231522b563ffe9d48bec19e2936abc8cc9ac16"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "X300 X500",
+      "rank": 10,
+      "title": "X300 X500",
+      "topic_id": "231522b522f624587ffb9eef6725bbf64b75e3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#张家齐这一跳完全就是教科书级别#",
+      "rank": 11,
+      "title": "张家齐这一跳完全就是教科书级别",
+      "topic_id": "231522a7bb75d453004146c6deaec1bccbeacb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "鹿晗养头发的痛",
+      "rank": 12,
+      "title": "鹿晗养头发的痛",
+      "topic_id": "231522d250177b3b3a8e9963ad4ee3e4bf45b7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "名古屋亚运会游泳",
+      "rank": 13,
+      "title": "名古屋亚运会游泳",
+      "topic_id": "2315227735bab8b50616779710bc4678206901"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "vivo X500定价给友商压力",
+      "rank": 14,
+      "title": "vivo X500定价给友商压力",
+      "topic_id": "2315221082094e0d9d87dffbfd90f82cacf3e8"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张佳宁机场都要人扶着走#",
+      "rank": 15,
+      "title": "张佳宁机场都要人扶着走",
+      "topic_id": "2315226292a8a41135516a4ff6c66b1be88b92"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#柬埔寨电诈园区内部曝光#",
+      "rank": 16,
+      "title": "柬埔寨电诈园区内部曝光",
+      "topic_id": "2315220777af496adb02c923c32eec8e6f0cdd"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#白鹿锁骨能接发夹#",
+      "rank": 17,
+      "title": "白鹿锁骨能接发夹",
+      "topic_id": "23152212c191f63f38a3d855b44b65ca2ce313"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#重庆理工大学通报女子称遭性侵#",
+      "rank": 18,
+      "title": "重庆理工大学通报女子称遭性侵",
+      "topic_id": "2315223579ab3621bc83f3d4ef006feef2863f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "贾国龙 公关",
+      "rank": 19,
+      "title": "贾国龙 公关",
+      "topic_id": "23152278fa1256830b129a4e2b8af77b6c766a"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#罗永浩已取证将起诉#",
+      "rank": 20,
+      "title": "罗永浩已取证将起诉",
+      "topic_id": "23152299fffe3b4b2128a4d5a1e22c8ec13878"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "你身体缺什么其实早就显露出来了",
+      "rank": 21,
+      "title": "你身体缺什么其实早就显露出来了",
+      "topic_id": "231522d474b3ff2063d091eb2bad6945e4f801"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "谁发明的婚礼大棉棒",
+      "rank": 22,
+      "title": "谁发明的婚礼大棉棒",
+      "topic_id": "231522e8a2b4356d08040c5b9b80a4740a61ae"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#方圆向王者荣耀游戏玩家道歉#",
+      "rank": 23,
+      "title": "方圆向王者荣耀游戏玩家道歉",
+      "topic_id": "23152285bbf6226a80f35960606db0fdded5e7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "兰香如故",
+      "rank": 24,
+      "title": "兰香如故",
+      "topic_id": "231522c6a223bd3a54fc2af87227153bdbc48d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "初中生早餐 碳水配碳水",
+      "rank": 25,
+      "title": "初中生早餐 碳水配碳水",
+      "topic_id": "231522acc84ba52408bd5eda112746635e05be"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "亚运会",
+      "rank": 26,
+      "title": "亚运会",
+      "topic_id": "231522b9fedef28ddcf151d85c04b905c0ad5c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#杨紫直播皮肤状态#",
+      "rank": 27,
+      "title": "杨紫直播皮肤状态",
+      "topic_id": "231522ada502f05116776a4da4df007390ff4d"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "贵阳街头10元脆哨炒饭发明人是天才",
+      "rank": 28,
+      "title": "贵阳街头10元脆哨炒饭发明人是天才",
+      "topic_id": "23152202542285a690aac74f27ed5839759529"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#校方回应男生逃避军训飞往上海旅游#",
+      "rank": 29,
+      "title": "校方回应男生逃避军训飞往上海旅游",
+      "topic_id": "23152232ee96115a719e838cb6352603e2b7c7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#特朗普回应中美元首会晤#",
+      "rank": 30,
+      "title": "特朗普回应中美元首会晤",
+      "topic_id": "2315228f86e6502c0ad8d5accf9e1cf60fddc7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#闲鱼快成黄鱼了#",
+      "rank": 31,
+      "title": "闲鱼快成黄鱼了",
+      "topic_id": "231522dcaaf535940a1d03d9045103122215c7"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "王俊凯回复敖子逸",
+      "rank": 32,
+      "title": "王俊凯回复敖子逸",
+      "topic_id": "231522038e283b54218b20f4c1242d7371d655"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#一刀切开赌石的瞬间安静了#",
+      "rank": 33,
+      "title": "一刀切开赌石的瞬间安静了",
+      "topic_id": "231522b572596507adef79e8b60a0e8bc7c5db"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#关晓彤孟子义对视绷不住一点#",
+      "rank": 34,
+      "title": "关晓彤孟子义对视绷不住一点",
+      "topic_id": "231522ffb02b417b8aad04740bb6801e2cb6be"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#关晓彤孟子义一起下班#",
+      "rank": 35,
+      "title": "关晓彤孟子义一起下班",
+      "topic_id": "231522b66aabeffd7ad68567f337856d7c709a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#五个月坚持下来减重15斤#",
+      "rank": 36,
+      "title": "五个月坚持下来减重15斤",
+      "topic_id": "231522fc9bfc686bbaaf464f8332ab37e0e845"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "超7成肺癌病例不吸烟无粉尘暴露",
+      "rank": 37,
+      "title": "超7成肺癌病例不吸烟无粉尘暴露",
+      "topic_id": "231522434994d16ad41d000fa29c96bb73fc46"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#王者回应打击黑灰产#",
+      "rank": 38,
+      "title": "王者回应打击黑灰产",
+      "topic_id": "2315222b39db3a450342a400ac0070ad4237ee"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "田曦薇猫的树 二搭",
+      "rank": 39,
+      "title": "田曦薇猫的树 二搭",
+      "topic_id": "23152238cd52d1e0b1e6bd23c92247db3583d8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "秀才 兰香",
+      "rank": 40,
+      "title": "秀才 兰香",
+      "topic_id": "231522a84c9165d00619e4fc9bf34e1da30982"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "卡补缴漏洞不交社保",
+      "rank": 41,
+      "title": "卡补缴漏洞不交社保",
+      "topic_id": "2315223dee1699126c3d2c7a7a6d450250d33e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "婚前攒下18.8万需要多久",
+      "rank": 42,
+      "title": "婚前攒下18.8万需要多久",
+      "topic_id": "23152298b738c8bcb5ab9feff9adb6a4dd3d7a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "28岁上海读博的我迷茫了",
+      "rank": 43,
+      "title": "28岁上海读博的我迷茫了",
+      "topic_id": "2315223257c35cb62179598c09a31168dcf8d5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#中国游泳队金金金金金#",
+      "rank": 44,
+      "title": "中国游泳队金金金金金",
+      "topic_id": "231522890e4e90056afed43b70130189281ae6"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#潘展乐称张展硕是奇迹之子#",
+      "rank": 45,
+      "title": "潘展乐称张展硕是奇迹之子",
+      "topic_id": "231522cb0c58e2e00db036cf306142703738a4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "网友配音过后的周也哭戏",
+      "rank": 46,
+      "title": "网友配音过后的周也哭戏",
+      "topic_id": "2315224981c4f6037710864e261469ec1d7f89"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王一博香港帆船比赛#",
+      "rank": 47,
+      "title": "王一博香港帆船比赛",
+      "topic_id": "2315221865af833f466ced102ebc5ce20fbd04"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#印度一对情侣晚归被多人围堵施暴#",
+      "rank": 48,
+      "title": "印度一对情侣晚归被多人围堵施暴",
+      "topic_id": "231522cd2aeac7d33030d808d91e972c7618e9"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#肖战我们俩有点暧昧了#",
+      "rank": 49,
+      "title": "肖战我们俩有点暧昧了",
+      "topic_id": "2315225c730411a83a7a4f37323d3978f0967e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "钟南山团队发现肺结节发病新趋势",
+      "rank": 50,
+      "title": "钟南山团队发现肺结节发病新趋势",
+      "topic_id": "231522d872971fd3ca42750b0a091a3ccc2773"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
