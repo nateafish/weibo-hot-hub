@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 7516679696
   },
-  "last_seen_at": "2026-09-21T16:00:00+08:00",
+  "last_seen_at": "2026-09-21T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%94%9F13%E5%AD%A9%E5%AD%90%E7%9A%84%E7%88%B6%E4%BA%B2%E7%A7%B0%E6%94%BF%E5%BA%9C%E5%B8%AE%E5%BB%BA%E4%BA%86%E6%A5%BC%23%26t%3D3&title=发布媒体",
-    "show_str": "10家媒体",
+    "show_str": "13家媒体",
     "users": [
       {
         "id": 7516679696,
         "idstr": "7516679696",
         "screen_name": "九派新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2337985010,
+        "idstr": "2337985010",
+        "screen_name": "瑞安融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1267454277,
+        "idstr": "1267454277",
+        "screen_name": "凤凰周刊",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 2647971081,
         "idstr": "2647971081",
         "screen_name": "时速新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1941424392,
-        "idstr": "1941424392",
-        "screen_name": "台州晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1821499183,
-        "idstr": "1821499183",
-        "screen_name": "大连日报",
         "verified": true,
         "verified_type": 3
       }

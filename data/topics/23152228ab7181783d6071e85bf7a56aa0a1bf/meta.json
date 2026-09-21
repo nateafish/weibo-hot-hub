@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2258727970
   },
-  "last_seen_at": "2026-09-21T16:00:00+08:00",
+  "last_seen_at": "2026-09-21T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9C%AA%E6%9D%A55%E5%B9%B4%E6%88%91%E5%9B%BD%E6%96%87%E5%8C%96%E8%93%9D%E5%9B%BE%E6%9D%A5%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "10家媒体",
+    "show_str": "20家媒体",
     "users": [
       {
         "id": 2258727970,
         "idstr": "2258727970",
         "screen_name": "央视财经",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +37,30 @@
         "verified_type": 3
       },
       {
-        "id": 6891231323,
-        "idstr": "6891231323",
-        "screen_name": "云上深夜快递",
+        "id": 2001789077,
+        "idstr": "2001789077",
+        "screen_name": "兵团日报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 6715513747,
-        "idstr": "6715513747",
-        "screen_name": "宁县融媒",
+        "id": 7352760311,
+        "idstr": "7352760311",
+        "screen_name": "见智财经",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 5396650564,
-        "idstr": "5396650564",
-        "screen_name": "城市金融报",
+        "id": 7126605018,
+        "idstr": "7126605018",
+        "screen_name": "各界新闻网官微",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 3624248184,
-        "idstr": "3624248184",
-        "screen_name": "陕西网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2336786613,
-        "idstr": "2336786613",
-        "screen_name": "中国船检杂志",
+        "id": 7096189920,
+        "idstr": "7096189920",
+        "screen_name": "第1眼视频",
         "verified": true,
         "verified_type": 3
       }
