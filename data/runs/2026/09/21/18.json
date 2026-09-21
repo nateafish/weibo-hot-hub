@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-21T18:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 47,
+    "ai_unchanged": 3,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#习近平9月23日至25日访问美国#",
+      "rank": 1,
+      "title": "习近平9月23日至25日访问美国",
+      "topic_id": "231522ca71300a5b68880dcb82f9dc6b41bc58"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "钟南山团队发现肺结节发病新趋势",
+      "rank": 1,
+      "title": "钟南山团队发现肺结节发病新趋势",
+      "topic_id": "231522d872971fd3ca42750b0a091a3ccc2773"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#闲鱼快成黄鱼了#",
+      "rank": 2,
+      "title": "闲鱼快成黄鱼了",
+      "topic_id": "231522dcaaf535940a1d03d9045103122215c7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#未来5年我国文化蓝图来了#",
+      "rank": 3,
+      "title": "未来5年我国文化蓝图来了",
+      "topic_id": "23152228ab7181783d6071e85bf7a56aa0a1bf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "第一学历歧视",
+      "rank": 4,
+      "title": "第一学历歧视",
+      "topic_id": "231522e5d7f300aff3323399fc2dd74b1ffe4c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张博恒绝杀两名日本奥运冠军#",
+      "rank": 5,
+      "title": "张博恒绝杀两名日本奥运冠军",
+      "topic_id": "2315222aa9e8066c18fe37a3933b27dd1d6c7e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#中国队男子4X200米自接金牌#",
+      "rank": 6,
+      "title": "中国队男子4X200米自接金牌",
+      "topic_id": "231522696542c3a52b796a751afe304cfb752c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "亚运会",
+      "rank": 7,
+      "title": "亚运会",
+      "topic_id": "231522b9fedef28ddcf151d85c04b905c0ad5c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张博恒金牌#",
+      "rank": 8,
+      "title": "张博恒金牌",
+      "topic_id": "2315224378bfbe23f1927bf14314cf7a10467e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#覃伟中被查#",
+      "rank": 9,
+      "title": "覃伟中被查",
+      "topic_id": "2315221e1019de17d3ca7fba5dba9cc00171f7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝第33届金鹰奖获奖名单#",
+      "rank": 10,
+      "title": "曝第33届金鹰奖获奖名单",
+      "topic_id": "231522754f7e741a850766cf520fab2ee8ae3c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#许嵩粉丝发文#",
+      "rank": 11,
+      "title": "许嵩粉丝发文",
+      "topic_id": "2315222c6bbf2b3e794bbe53ea5c49249c9d63"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "失踪七年女子尸骸在闺蜜梦境泥地寻获",
+      "rank": 12,
+      "title": "失踪七年女子尸骸在闺蜜梦境泥地寻获",
+      "topic_id": "2315229646db9db0db905b0f18221a92b1e96b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "stayc 解散",
+      "rank": 13,
+      "title": "stayc 解散",
+      "topic_id": "231522f89d0363e9399289b8127ba2158a7c01"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#秦牛正威回应当年不承认与男顶流恋情#",
+      "rank": 14,
+      "title": "秦牛正威回应当年不承认与男顶流恋情",
+      "topic_id": "2315225a7d107e0285b01f96ec18e21156a1da"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#注射司美格鲁肽的人后来怎样了#",
+      "rank": 15,
+      "title": "注射司美格鲁肽的人后来怎样了",
+      "topic_id": "231522ef08149beea97d7777515c540fa589ab"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#张又侠刘振立被开除党籍军籍#",
+      "rank": 16,
+      "title": "张又侠刘振立被开除党籍军籍",
+      "topic_id": "231522457aaad3262241104bfdf743d7a50b20"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王源易烊千玺给王俊凯的祝福#",
+      "rank": 17,
+      "title": "王源易烊千玺给王俊凯的祝福",
+      "topic_id": "23152205ec3dba7ce6d4718e82c74458926b9f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "湾区升明月 观众替晚会筛选答案",
+      "rank": 18,
+      "title": "湾区升明月 观众替晚会筛选答案",
+      "topic_id": "231522892e703ced2747966748973387cb231c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "宝格丽 宁艺卓张元英柳智敏",
+      "rank": 19,
+      "title": "宝格丽 宁艺卓张元英柳智敏",
+      "topic_id": "231522cd71da6f56bff235dd66f0c950c2710b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#董志豪100蛙金牌#",
+      "rank": 20,
+      "title": "董志豪100蛙金牌",
+      "topic_id": "231522da15847cfd10d844e2e0b69d1624f86c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "iPhone20Pro配置曝光",
+      "rank": 21,
+      "title": "iPhone20Pro配置曝光",
+      "topic_id": "23152205e9cfa5f25423f3178c9e5dba1c75b6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "苹果跳号 小米跟不跟",
+      "rank": 22,
+      "title": "苹果跳号 小米跟不跟",
+      "topic_id": "2315223c57a5d5d04afc076cbfb1e433345b3c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "坚持喝牛奶vs从不喝牛奶",
+      "rank": 23,
+      "title": "坚持喝牛奶vs从不喝牛奶",
+      "topic_id": "231522241b8c3b0681d3c723008fcf23c6fb31"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#华为Mate90系列或9月29日发布#",
+      "rank": 24,
+      "title": "华为Mate90系列或9月29日发布",
+      "topic_id": "23152209c3a9ff2b6ac752bdd561820047be36"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "每天喝牛奶身体会发生的变化",
+      "rank": 25,
+      "title": "每天喝牛奶身体会发生的变化",
+      "topic_id": "23152240f13b8e67707541995208f2122b061c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "中国女排vs泰国女排",
+      "rank": 26,
+      "title": "中国女排vs泰国女排",
+      "topic_id": "2315227fdae8a8aa722c07d315ac909ba11867"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "于子迪200混夺冠",
+      "rank": 27,
+      "title": "于子迪200混夺冠",
+      "topic_id": "231522f5189c017d962104687de589e1a577c4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#徐嘉余第2金#",
+      "rank": 28,
+      "title": "徐嘉余第2金",
+      "topic_id": "231522b3bbb25cd876bc60fcbb22fdf57c8f56"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#蓝厂把剪影拍成电影#",
+      "rank": 29,
+      "title": "蓝厂把剪影拍成电影",
+      "topic_id": "231522c93e5be24c578c709dd784ca953356f0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "第33届金鹰奖",
+      "rank": 30,
+      "title": "第33届金鹰奖",
+      "topic_id": "2315223dda1bff5634171da5a49b698da97d07"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "第一批中秋节受益者出现了",
+      "rank": 31,
+      "title": "第一批中秋节受益者出现了",
+      "topic_id": "231522bd2118e2efc57cdf261cb07e57b4ca7d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "吸烟 取消学费减免",
+      "rank": 32,
+      "title": "吸烟 取消学费减免",
+      "topic_id": "2315225de18fa8ab912654abe24c24265c3fd3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#谭松韵不敢离戒碳水的刘学义太近#",
+      "rank": 33,
+      "title": "谭松韵不敢离戒碳水的刘学义太近",
+      "topic_id": "23152211f88f14c4c9d7644c5a60c5ba84cd04"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张家齐的父母也是挺有意思#",
+      "rank": 34,
+      "title": "张家齐的父母也是挺有意思",
+      "topic_id": "231522b3a5bfda9968d6043e75d1d685222a40"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王祖贤隐退22年后首个访谈#",
+      "rank": 35,
+      "title": "王祖贤隐退22年后首个访谈",
+      "topic_id": "23152278b95c3b348dabe716fd172e65b11eff"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "闲鱼回应涉黄",
+      "rank": 36,
+      "title": "闲鱼回应涉黄",
+      "topic_id": "2315228c56f215e4ffe7d2990f3f1c2b382538"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "宝格丽官宣宁艺卓",
+      "rank": 37,
+      "title": "宝格丽官宣宁艺卓",
+      "topic_id": "23152266668e0d2e063673403705b4ca256adc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#专属直拍追星人本命功能#",
+      "rank": 38,
+      "title": "专属直拍追星人本命功能",
+      "topic_id": "231522aa097389f5a652722bdb351e748df97c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#许嵩粉丝滤镜碎了#",
+      "rank": 39,
+      "title": "许嵩粉丝滤镜碎了",
+      "topic_id": "231522a82bae2bf4c4a9c9e6bbb99af83d7177"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "中国女排 亚运半决赛",
+      "rank": 40,
+      "title": "中国女排 亚运半决赛",
+      "topic_id": "2315221e38ec89bebb098cd22af67d8ec9d9a7"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#外交部介绍访美安排#",
+      "rank": 41,
+      "title": "外交部介绍访美安排",
+      "topic_id": "23152248db47ae51c1bdd06790396e8a586852"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "网红沈城韩泫雅大学门口撒泼博眼球",
+      "rank": 42,
+      "title": "网红沈城韩泫雅大学门口撒泼博眼球",
+      "topic_id": "23152279d9443027b09c4b4eba2843c5aae249"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "好吃和好看都是情绪价值",
+      "rank": 43,
+      "title": "好吃和好看都是情绪价值",
+      "topic_id": "2315229b2b7685d5ed633bf296833f8ea302f4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#最直白最不绕弯子的豆包上车了#",
+      "rank": 44,
+      "title": "最直白最不绕弯子的豆包上车了",
+      "topic_id": "2315220128257472b7df4616c71ed82d537cbb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "粉笔 到底是谁受了委屈",
+      "rank": 45,
+      "title": "粉笔 到底是谁受了委屈",
+      "topic_id": "23152246b727a43ed2e454383c1cb7a2c9f03f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "阅兵结束后狗狗们集体累趴下",
+      "rank": 46,
+      "title": "阅兵结束后狗狗们集体累趴下",
+      "topic_id": "231522930233b361f8fdc371dbd197881102c3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "大学高中化本科生被管傻了",
+      "rank": 47,
+      "title": "大学高中化本科生被管傻了",
+      "topic_id": "23152295c3c01a08a2f2210380b84fbb6fa31b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "超过30岁请停止忽视这些食物",
+      "rank": 48,
+      "title": "超过30岁请停止忽视这些食物",
+      "topic_id": "23152275f3cb0da5d5e3f035ae34db099c0bf9"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#中美元首半年内互访#",
+      "rank": 49,
+      "title": "中美元首半年内互访",
+      "topic_id": "231522e950228e3f8088575f678b64b0b9e768"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#张颂文本来想帮李梦解释#",
+      "rank": 50,
+      "title": "张颂文本来想帮李梦解释",
+      "topic_id": "2315224bd78d4b6faa3c8ed9ec593880f760f9"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
