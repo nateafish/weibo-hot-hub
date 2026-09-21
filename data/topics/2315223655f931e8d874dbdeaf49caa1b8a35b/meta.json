@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 7516679696
   },
-  "last_seen_at": "2026-09-21T07:00:00+08:00",
+  "last_seen_at": "2026-09-21T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%80%E5%9C%A8%E8%A5%BF%E8%B4%9D%E5%B7%A5%E4%BD%9C6%E5%B9%B4%E5%BA%97%E9%95%BF%E5%B0%86%E7%A6%BB%E8%81%8C%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "20家媒体",
     "users": [
       {
         "id": 7516679696,
         "idstr": "7516679696",
         "screen_name": "九派新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1642088277,
+        "idstr": "1642088277",
+        "screen_name": "财经网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6070849931,
+        "idstr": "6070849931",
+        "screen_name": "山东财经报道-经济导报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5762891674,
+        "idstr": "5762891674",
+        "screen_name": "密度新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,23 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 2663751563,
-        "idstr": "2663751563",
-        "screen_name": "南京广播电视台",
+        "id": 3275115274,
+        "idstr": "3275115274",
+        "screen_name": "中国吉林网",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1867427515,
-        "idstr": "1867427515",
-        "screen_name": "新派新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1644855075,
-        "idstr": "1644855075",
-        "screen_name": "华商网",
+        "id": 2812209690,
+        "idstr": "2812209690",
+        "screen_name": "黄石日报",
         "verified": true,
         "verified_type": 3
       }
