@@ -3,11 +3,18 @@
   "created_at": 1789975435,
   "first_seen_at": "2026-09-21T16:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-21T19:00:00+08:00",
+  "last_seen_at": "2026-09-21T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%8B%B9%E6%9E%9C%E8%B7%B3%E5%8F%B7+%E5%B0%8F%E7%B1%B3%E8%B7%9F%E4%B8%8D%E8%B7%9F%23%26t%3D3&title=发布媒体",
-    "show_str": "8家媒体",
+    "show_str": "9家媒体",
     "users": [
+      {
+        "id": 5762891674,
+        "idstr": "5762891674",
+        "screen_name": "密度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 5652470745,
         "idstr": "5652470745",
@@ -47,13 +54,6 @@
         "id": 1882632930,
         "idstr": "1882632930",
         "screen_name": "新消息报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1720962692,
-        "idstr": "1720962692",
-        "screen_name": "极目新闻",
         "verified": true,
         "verified_type": 3
       }
