@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1887344341
   },
-  "last_seen_at": "2026-09-21T12:00:00+08:00",
+  "last_seen_at": "2026-09-21T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%B4%BE%E5%9B%BD%E9%BE%99%E6%9C%80%E6%96%B0%E5%8F%91%E5%A3%B0%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "20家媒体",
     "users": [
       {
         "id": 1887344341,
@@ -30,6 +30,13 @@
         "verified_type": 3
       },
       {
+        "id": 6508016609,
+        "idstr": "6508016609",
+        "screen_name": "风闻社区",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2853016445,
         "idstr": "2853016445",
         "screen_name": "钛媒体APP",
@@ -37,16 +44,23 @@
         "verified_type": 3
       },
       {
-        "id": 1882632930,
-        "idstr": "1882632930",
-        "screen_name": "新消息报",
+        "id": 1926909715,
+        "idstr": "1926909715",
+        "screen_name": "第一财经日报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1806646411,
-        "idstr": "1806646411",
-        "screen_name": "北方频道",
+        "id": 1821499183,
+        "idstr": "1821499183",
+        "screen_name": "大连日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1734530730,
+        "idstr": "1734530730",
+        "screen_name": "大河报",
         "verified": true,
         "verified_type": 3
       }

@@ -3,11 +3,26 @@
   "created_at": 1789962223,
   "first_seen_at": "2026-09-21T12:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-21T12:00:00+08:00",
+  "last_seen_at": "2026-09-21T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%BE%AE%E4%BF%A1%E6%9C%80%E5%BC%80%E5%A7%8B%E6%98%AF%E5%A5%BD%E6%9C%8B%E5%8F%8B%E6%89%8D%E5%8A%A0%E5%A5%BD%E5%8F%8B%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "2家媒体",
+    "users": [
+      {
+        "id": 6477929648,
+        "idstr": "6477929648",
+        "screen_name": "晶视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2183542485,
+        "idstr": "2183542485",
+        "screen_name": "西安广播电视台",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "微信最开始是好朋友才加好友",
   "search_url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%9C%80%E5%BC%80%E5%A7%8B%E6%98%AF%E5%A5%BD%E6%9C%8B%E5%8F%8B%E6%89%8D%E5%8A%A0%E5%A5%BD%E5%8F%8B%23",
