@@ -3,15 +3,22 @@
   "created_at": 1789919774,
   "first_seen_at": "2026-09-21T06:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-21T10:00:00+08:00",
+  "last_seen_at": "2026-09-21T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%8D%E8%A6%81%E6%89%BE%E5%A4%AA%E6%BC%82%E4%BA%AE%E7%9A%84%E8%80%81%E5%A4%B4%E6%BC%94%E7%A5%96%E7%88%B6%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "10家媒体",
     "users": [
       {
         "id": 2075245652,
         "idstr": "2075245652",
         "screen_name": "长春晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1936119834,
+        "idstr": "1936119834",
+        "screen_name": "河北长城网",
         "verified": true,
         "verified_type": 3
       },
@@ -30,16 +37,23 @@
         "verified_type": 3
       },
       {
-        "id": 2027480085,
-        "idstr": "2027480085",
-        "screen_name": "水母网",
+        "id": 2594662033,
+        "idstr": "2594662033",
+        "screen_name": "BRTV纪实科教",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1657914910,
-        "idstr": "1657914910",
-        "screen_name": "烟台日报社大小新闻",
+        "id": 2041117703,
+        "idstr": "2041117703",
+        "screen_name": "合肥日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2027480085,
+        "idstr": "2027480085",
+        "screen_name": "水母网",
         "verified": true,
         "verified_type": 3
       }

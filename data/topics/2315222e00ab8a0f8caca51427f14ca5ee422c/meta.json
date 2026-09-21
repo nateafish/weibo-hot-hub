@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 2846059400
   },
-  "last_seen_at": "2026-09-21T10:00:00+08:00",
+  "last_seen_at": "2026-09-21T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%A6%88%E5%A6%88%E7%BB%99%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%BA%86%E7%94%9F%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "17家媒体",
     "users": [
       {
         "id": 1895096900,
         "idstr": "1895096900",
         "screen_name": "深圳新闻网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1846116411,
+        "idstr": "1846116411",
+        "screen_name": "国际在线文娱",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1677991972,
+        "idstr": "1677991972",
+        "screen_name": "晶报",
         "verified": true,
         "verified_type": 3
       },
@@ -37,23 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 2460937233,
-        "idstr": "2460937233",
-        "screen_name": "热度新闻",
+        "id": 7422806367,
+        "idstr": "7422806367",
+        "screen_name": "中网传播",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2035321844,
-        "idstr": "2035321844",
-        "screen_name": "河池融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1677991972,
-        "idstr": "1677991972",
-        "screen_name": "晶报",
+        "id": 2647971081,
+        "idstr": "2647971081",
+        "screen_name": "时速新闻",
         "verified": true,
         "verified_type": 3
       }
