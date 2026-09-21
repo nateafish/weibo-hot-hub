@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 5743580241
   },
-  "last_seen_at": "2026-09-21T09:00:00+08:00",
+  "last_seen_at": "2026-09-21T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%82%96%E6%88%98%E7%A9%BF%E4%B8%AD%E5%B1%B1%E8%A3%85%E5%A5%BD%E6%9D%BF%E6%AD%A3%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "5家媒体",
     "users": [
       {
         "id": 2992050891,
         "idstr": "2992050891",
         "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2594662033,
+        "idstr": "2594662033",
+        "screen_name": "BRTV纪实科教",
         "verified": true,
         "verified_type": 3
       },
