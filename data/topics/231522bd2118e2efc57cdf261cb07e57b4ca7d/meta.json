@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 5675905882
   },
-  "last_seen_at": "2026-09-21T18:00:00+08:00",
+  "last_seen_at": "2026-09-21T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%AC%AC%E4%B8%80%E6%89%B9%E4%B8%AD%E7%A7%8B%E8%8A%82%E5%8F%97%E7%9B%8A%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "7家媒体",
     "users": [
+      {
+        "id": 1939861572,
+        "idstr": "1939861572",
+        "screen_name": "新疆广播电视台",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 5652470745,
         "idstr": "5652470745",
@@ -23,9 +30,16 @@
         "verified_type": 3
       },
       {
-        "id": 1939861572,
-        "idstr": "1939861572",
-        "screen_name": "新疆广播电视台",
+        "id": 2553604372,
+        "idstr": "2553604372",
+        "screen_name": "福州新闻网fznews",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1912416573,
+        "idstr": "1912416573",
+        "screen_name": "河南手机报",
         "verified": true,
         "verified_type": 3
       },

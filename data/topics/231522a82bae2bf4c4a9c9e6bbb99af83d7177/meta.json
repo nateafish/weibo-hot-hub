@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 5857296503
   },
-  "last_seen_at": "2026-09-21T18:00:00+08:00",
+  "last_seen_at": "2026-09-21T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%AE%B8%E5%B5%A9%E7%B2%89%E4%B8%9D%E6%BB%A4%E9%95%9C%E7%A2%8E%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "4家媒体",
     "users": [
       {
         "id": 2252846093,
@@ -26,6 +26,13 @@
         "id": 1308708761,
         "idstr": "1308708761",
         "screen_name": "千山晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       },
