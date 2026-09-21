@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-21T15:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 47,
+    "ai_unchanged": 3,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#年轻的事业#",
+      "rank": 1,
+      "title": "年轻的事业",
+      "topic_id": "2315225cb9fa8b97fb0a0b31b0fdda25627c9b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#钟南山团队发现肺结节发病新趋势#",
+      "rank": 1,
+      "title": "钟南山团队发现肺结节发病新趋势",
+      "topic_id": "231522d872971fd3ca42750b0a091a3ccc2773"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "闲鱼回应涉黄",
+      "rank": 2,
+      "title": "闲鱼回应涉黄",
+      "topic_id": "2315228c56f215e4ffe7d2990f3f1c2b382538"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#万千气象看吉林#",
+      "rank": 3,
+      "title": "万千气象看吉林",
+      "topic_id": "23152280f459079ae03f5cf097572a968475e5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#谭松韵不敢离戒碳水的刘学义太近#",
+      "rank": 4,
+      "title": "谭松韵不敢离戒碳水的刘学义太近",
+      "topic_id": "23152211f88f14c4c9d7644c5a60c5ba84cd04"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#注射司美格鲁肽的人后来怎样了#",
+      "rank": 5,
+      "title": "注射司美格鲁肽的人后来怎样了",
+      "topic_id": "231522ef08149beea97d7777515c540fa589ab"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "自己做饭成本其实很高",
+      "rank": 6,
+      "title": "自己做饭成本其实很高",
+      "topic_id": "23152229db3d22c74b53629bafbc9becf06290"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "盛李豪微博全是冠军",
+      "rank": 7,
+      "title": "盛李豪微博全是冠军",
+      "topic_id": "23152231e1d3d4b56c187d1ab23fe305e8e030"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#iPhone19或被跳过#",
+      "rank": 8,
+      "title": "iPhone19或被跳过",
+      "topic_id": "231522a72b385dbf6f285f6bbb953ac92ecc81"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王俊凯庆生给劲仔全员带薪放假#",
+      "rank": 9,
+      "title": "王俊凯庆生给劲仔全员带薪放假",
+      "topic_id": "231522ae9058ef1df66e5bc1cecc0d4b59f65e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "盛李豪全满贯",
+      "rank": 10,
+      "title": "盛李豪全满贯",
+      "topic_id": "231522e4ac75077faae9059faee2878f863dfb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "杭州电梯事件",
+      "rank": 11,
+      "title": "杭州电梯事件",
+      "topic_id": "23152274aa96373b9e45b2c06343c341e9c96b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "杭州电梯事件王女士再次发声",
+      "rank": 12,
+      "title": "杭州电梯事件王女士再次发声",
+      "topic_id": "231522f171c9a4a46422c96221510050ab67ba"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#美依礼芽宣布离婚#",
+      "rank": 13,
+      "title": "美依礼芽宣布离婚",
+      "topic_id": "2315227b98007d2786a59697340de8827f4e97"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王源易烊千玺给王俊凯的祝福#",
+      "rank": 14,
+      "title": "王源易烊千玺给王俊凯的祝福",
+      "topic_id": "23152205ec3dba7ce6d4718e82c74458926b9f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王祖贤隐退22年后首个访谈#",
+      "rank": 15,
+      "title": "王祖贤隐退22年后首个访谈",
+      "topic_id": "23152278b95c3b348dabe716fd172e65b11eff"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "体操",
+      "rank": 16,
+      "title": "体操",
+      "topic_id": "23152225a38eb649683248a38b416866a1a53c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "吸烟 取消学费减免",
+      "rank": 17,
+      "title": "吸烟 取消学费减免",
+      "topic_id": "2315225de18fa8ab912654abe24c24265c3fd3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#买聚能环致妻儿死亡男子发声#",
+      "rank": 18,
+      "title": "买聚能环致妻儿死亡男子发声",
+      "topic_id": "23152295c5d5f92f7fe7713170e1a6a7d1cc39"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#iPhone20Pro屏幕或大改#",
+      "rank": 19,
+      "title": "iPhone20Pro屏幕或大改",
+      "topic_id": "23152211e5a0a94c948ed65297edcc236eeeb0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 6,
+      "posts": "saved",
+      "query": "许昕求求你们别问亚运会了",
+      "rank": 20,
+      "title": "许昕求求你们别问亚运会了",
+      "topic_id": "231522934ba4f1df47d50d46aa6a4d566e20ff"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#谭松韵刘学义说亲密戏最好是不熟拍#",
+      "rank": 21,
+      "title": "谭松韵刘学义说亲密戏最好是不熟拍",
+      "topic_id": "231522d24fa513fa9bea5c4492af7c2be322b0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#长期碎片化睡眠的危害是全身性的#",
+      "rank": 22,
+      "title": "长期碎片化睡眠的危害是全身性的",
+      "topic_id": "2315223a890991bcb22a1075c3531770e43453"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王嘉尔踩到周笔畅裙子忙坏周深了#",
+      "rank": 23,
+      "title": "王嘉尔踩到周笔畅裙子忙坏周深了",
+      "topic_id": "2315229e56c0cd82e14a88e3f670777ec6d1c6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "SUHO感叹EXO成员变动",
+      "rank": 24,
+      "title": "SUHO感叹EXO成员变动",
+      "topic_id": "231522423eeb0554eb7aa69bc1c8909cb93279"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "闲鱼 美团",
+      "rank": 25,
+      "title": "闲鱼 美团",
+      "topic_id": "231522583328b3e75fda1d22481ebf31a20ba0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "体操男子全能决赛",
+      "rank": 26,
+      "title": "体操男子全能决赛",
+      "topic_id": "2315222bb0840cfb5f048f429d34462e314393"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张家齐经纪人把冰冷的母爱转化成温暖的流量#",
+      "rank": 27,
+      "title": "张家齐经纪人把冰冷的母爱转化成温暖的流量",
+      "topic_id": "231522bbdc81493ce3f4d701a99e6fb271ddf8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#王楚钦赢了赢了这下输了#",
+      "rank": 28,
+      "title": "王楚钦赢了赢了这下输了",
+      "topic_id": "23152273c775eb57551109547e65a092af2832"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#冯禧素颜好好看有点像汤唯#",
+      "rank": 29,
+      "title": "冯禧素颜好好看有点像汤唯",
+      "topic_id": "2315224922986fb8fcb0d12e6de62d72dc519c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "邵阳学院1800万引进菲律宾博士",
+      "rank": 30,
+      "title": "邵阳学院1800万引进菲律宾博士",
+      "topic_id": "2315226425d1827c8a59c1f49a9a397fd7d075"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "闲鱼代言人",
+      "rank": 31,
+      "title": "闲鱼代言人",
+      "topic_id": "23152231eeab091afe5b513c314ad8bc2f60c9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#闲鱼封了9.8万个涉黄账号#",
+      "rank": 32,
+      "title": "闲鱼封了9.8万个涉黄账号",
+      "topic_id": "231522e003fa4f0a02d4be80ef66b6ca63776f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "微信最开始是好朋友才加好友",
+      "rank": 33,
+      "title": "微信最开始是好朋友才加好友",
+      "topic_id": "231522da313c69be62e37965822dc075396b13"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "辛迪克劳馥之子去世",
+      "rank": 34,
+      "title": "辛迪克劳馥之子去世",
+      "topic_id": "231522547a7cbef435113a02e0391ae5f403d8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "长沙女子洗澡不关门被疑炒作",
+      "rank": 35,
+      "title": "长沙女子洗澡不关门被疑炒作",
+      "topic_id": "2315228203490d221c9804163317df1c0b6e88"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#刘雨昕看到谢金燕没戴麦的反应#",
+      "rank": 36,
+      "title": "刘雨昕看到谢金燕没戴麦的反应",
+      "topic_id": "231522caed08dc7969405aef1e29aa62c1003e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#贾国龙最新发声#",
+      "rank": 37,
+      "title": "贾国龙最新发声",
+      "topic_id": "231522c8ae80073f8f8ab537ef971d9769a968"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#干饭哥一天2冠#",
+      "rank": 38,
+      "title": "干饭哥一天2冠",
+      "topic_id": "23152255cdcf6cfe09ea9ae1743e6a90d85e5c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#中国代表团今日赛程#",
+      "rank": 39,
+      "title": "中国代表团今日赛程",
+      "topic_id": "2315221697acffeafc69a1d35edbb4d47c0350"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#领克07GT最快万台交付的旅行车#",
+      "rank": 40,
+      "title": "领克07GT最快万台交付的旅行车",
+      "topic_id": "231522adda2b8517ec536856e890c8c205cca6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "华字辈多股涨停",
+      "rank": 41,
+      "title": "华字辈多股涨停",
+      "topic_id": "231522a7bcce71e0fe367a5bbf5008d514a1b8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#秦牛正威回应当年不承认与男顶流恋情#",
+      "rank": 42,
+      "title": "秦牛正威回应当年不承认与男顶流恋情",
+      "topic_id": "2315225a7d107e0285b01f96ec18e21156a1da"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#有vivo的人自动成为团队的摄影师#",
+      "rank": 43,
+      "title": "有vivo的人自动成为团队的摄影师",
+      "topic_id": "2315221505042fa676134088b8485ae5a2c8ee"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#陈瑶妈妈问的太到位了#",
+      "rank": 44,
+      "title": "陈瑶妈妈问的太到位了",
+      "topic_id": "231522e26a25914b3f84798c670506380f63e5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "突然发现以前的手机膜都白贴了",
+      "rank": 45,
+      "title": "突然发现以前的手机膜都白贴了",
+      "topic_id": "231522288c1494f800bfd80a058c0e419cec54"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "你支持艾滋病纳入婚检并告知配偶吗",
+      "rank": 46,
+      "title": "你支持艾滋病纳入婚检并告知配偶吗",
+      "topic_id": "231522146c86802c2554cc2fa2fd02689fcba3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#Faker的0001卡牌成交价165W#",
+      "rank": 47,
+      "title": "Faker的0001卡牌成交价165W",
+      "topic_id": "2315222f76a46c3dd12fc1364d001d4e0f8ce3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "亚运会",
+      "rank": 48,
+      "title": "亚运会",
+      "topic_id": "231522b9fedef28ddcf151d85c04b905c0ad5c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "张佳宁舅舅张晓龙",
+      "rank": 49,
+      "title": "张佳宁舅舅张晓龙",
+      "topic_id": "231522e1aa3d3b3f3e6dab3fcbfd78b52ddeee"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "曝郭士强下课已成定局",
+      "rank": 50,
+      "title": "曝郭士强下课已成定局",
+      "topic_id": "231522a85851d313be0e991de0cde6f968b84c"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
