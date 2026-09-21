@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1726426884
   },
-  "last_seen_at": "2026-09-21T23:00:00+08:00",
+  "last_seen_at": "2026-09-22T01:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%97%B2%E9%B1%BC%E5%BF%AB%E6%88%90%E9%BB%84%E9%B1%BC%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "39家媒体",
+    "show_str": "41家媒体",
     "users": [
       {
         "id": 2628314830,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1280846847,
         "idstr": "1280846847",
         "screen_name": "指尖新闻-沈阳晚报",
@@ -56,13 +63,6 @@
         "screen_name": "纵横视频",
         "verified": true,
         "verified_type": 2
-      },
-      {
-        "id": 7299136456,
-        "idstr": "7299136456",
-        "screen_name": "冬呱看点",
-        "verified": true,
-        "verified_type": 3
       }
     ]
   },
