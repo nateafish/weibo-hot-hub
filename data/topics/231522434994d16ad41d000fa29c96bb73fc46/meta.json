@@ -2,18 +2,11 @@
   "category": "社会",
   "created_at": 1789975788,
   "first_seen_at": "2026-09-21T21:00:00+08:00",
-  "host": {
-    "claim_time": "2026.09.21-至今",
-    "created_at": "2026-09-21 15:40:51",
-    "is_claim": true,
-    "screen_name": "第一帮帮团",
-    "status": 2,
-    "uid": 1714800385
-  },
-  "last_seen_at": "2026-09-21T21:00:00+08:00",
+  "host": null,
+  "last_seen_at": "2026-09-21T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%B6%857%E6%88%90%E8%82%BA%E7%99%8C%E7%97%85%E4%BE%8B%E4%B8%8D%E5%90%B8%E7%83%9F%E6%97%A0%E7%B2%89%E5%B0%98%E6%9A%B4%E9%9C%B2%23%26t%3D3&title=发布媒体",
-    "show_str": "13家媒体",
+    "show_str": "28家媒体",
     "users": [
       {
         "id": 1789681642,
@@ -23,9 +16,9 @@
         "verified_type": 3
       },
       {
-        "id": 2622056220,
-        "idstr": "2622056220",
-        "screen_name": "新闻大连",
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -37,23 +30,9 @@
         "verified_type": 3
       },
       {
-        "id": 6105713761,
-        "idstr": "6105713761",
-        "screen_name": "红星新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2360016402,
-        "idstr": "2360016402",
-        "screen_name": "宁波日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1991123083,
-        "idstr": "1991123083",
-        "screen_name": "江西日报",
+        "id": 2622056220,
+        "idstr": "2622056220",
+        "screen_name": "新闻大连",
         "verified": true,
         "verified_type": 3
       },
@@ -63,10 +42,24 @@
         "screen_name": "云南网",
         "verified": true,
         "verified_type": 3
+      },
+      {
+        "id": 1652484947,
+        "idstr": "1652484947",
+        "screen_name": "新快报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1398613133,
+        "idstr": "1398613133",
+        "screen_name": "马上资讯",
+        "verified": true,
+        "verified_type": 3
       }
     ]
   },
-  "query": "#超7成肺癌病例不吸烟无粉尘暴露#",
+  "query": "超7成肺癌病例不吸烟无粉尘暴露",
   "search_url": "https://s.weibo.com/weibo?q=%23%E8%B6%857%E6%88%90%E8%82%BA%E7%99%8C%E7%97%85%E4%BE%8B%E4%B8%8D%E5%90%B8%E7%83%9F%E6%97%A0%E7%B2%89%E5%B0%98%E6%9A%B4%E9%9C%B2%23",
   "sub_category": null,
   "summary": "",
