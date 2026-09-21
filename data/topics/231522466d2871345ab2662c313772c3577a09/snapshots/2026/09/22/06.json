@@ -1,0 +1,167 @@
+{
+  "captured_at": "2026-09-22T06:00:00+08:00",
+  "contributors": [],
+  "contributors_scheme": null,
+  "current_boards": {
+    "fun_band": {
+      "ori": {
+        "category": "艺人",
+        "is_boom": 0,
+        "onband": 1,
+        "pos": 11,
+        "subject_querys": [
+          {
+            "scheme_query": "",
+            "subject_query": "AI短剧",
+            "subject_type": "影视综艺—剧集"
+          }
+        ]
+      },
+      "scheme": "sinaweibo://pageinfo?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Dfun&title=文娱榜&extparam=",
+      "sub_info": [
+        {
+          "scheme": "sinaweibo://searchall?containerid=100103&q=AI%E7%9F%AD%E5%89%A7&isnewpage=1&extparam=",
+          "text": "剧集 | AI短剧"
+        }
+      ],
+      "text": "文娱榜第11位"
+    },
+    "hot_band": {
+      "ori": {
+        "category": "艺人",
+        "is_boom": 0,
+        "num": 78091,
+        "onband": 1,
+        "onboard_time": 1789994181,
+        "pos": 6,
+        "subject_querys": [
+          {
+            "scheme_query": "",
+            "subject_query": "AI短剧",
+            "subject_type": "剧集"
+          }
+        ],
+        "transparency_tag": null
+      },
+      "scheme": "sinaweibo://pageinfo?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Drealtimehot&title=热搜榜&extparam=",
+      "sub_info": [
+        {
+          "scheme": "sinaweibo://searchall?containerid=100103&q=AI%E7%9F%AD%E5%89%A7&isnewpage=1&extparam=",
+          "text": "剧集 | AI短剧"
+        }
+      ],
+      "text": "热搜榜第6位"
+    },
+    "hot_band_24_hour": {
+      "ori": {
+        "on_band": 1
+      }
+    }
+  },
+  "exact_counts": {
+    "buy_num": 0,
+    "g_mention": 5490,
+    "gone_num": 0,
+    "interact": 40028,
+    "mention": 5490,
+    "ori_m": 1122,
+    "ori_uv": 1074,
+    "r_valid": 65828915,
+    "read": 72112729,
+    "rec_num": 0,
+    "show": 0,
+    "star": 3,
+    "t_m_num": 324,
+    "t_r_num": 23641942,
+    "wants_num": 0
+  },
+  "heat": 2,
+  "overview": {
+    "24h": {
+      "interaction": {
+        "unit": "万",
+        "val": 4
+      },
+      "mention": {
+        "unit": "",
+        "val": 5490
+      },
+      "original": {
+        "unit": "",
+        "val": 1122
+      },
+      "read": {
+        "unit": "万",
+        "val": 7210.2
+      }
+    },
+    "30d": {
+      "interaction": {
+        "unit": "万",
+        "val": 4
+      },
+      "mention": {
+        "unit": "",
+        "val": 5490
+      },
+      "original": {
+        "unit": "",
+        "val": 1122
+      },
+      "read": {
+        "unit": "万",
+        "val": 7210.2
+      }
+    },
+    "all": {
+      "interaction": {
+        "unit": "万",
+        "val": 4
+      },
+      "mention": {
+        "unit": "",
+        "val": 5490
+      },
+      "original": {
+        "unit": "",
+        "val": 1122
+      },
+      "read": {
+        "unit": "万",
+        "val": 7211.3
+      }
+    }
+  },
+  "rank_history": [
+    {
+      "cate": "hot_board",
+      "cate_desc": "热搜榜",
+      "duration_hour": 9,
+      "duration_minute": 585,
+      "duration_mod_min": 45,
+      "off_board_time": "202609220620",
+      "on_board_time": "202609212036",
+      "top_pos": 6,
+      "topic_flag": 1
+    },
+    {
+      "cate": "enter_board",
+      "cate_desc": "文娱榜",
+      "duration_hour": 9,
+      "duration_minute": 597,
+      "duration_mod_min": 57,
+      "off_board_time": "202609220620",
+      "on_board_time": "202609212024",
+      "top_pos": 5,
+      "topic_flag": 1
+    }
+  ],
+  "title": "曝某s加女主片酬从几千万降至100万",
+  "topic_id": "231522466d2871345ab2662c313772c3577a09",
+  "window_counts": {
+    "1h_mention": 137,
+    "1h_ori_m": 36,
+    "24h_mention": 5490,
+    "24h_read": 72101773
+  }
+}
