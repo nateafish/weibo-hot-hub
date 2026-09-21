@@ -3,11 +3,26 @@
   "created_at": 1679599656,
   "first_seen_at": "2026-09-21T22:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-21T22:00:00+08:00",
+  "last_seen_at": "2026-09-21T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%AE%9D%E6%A0%BC%E4%B8%BDtitle%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "2家媒体",
+    "users": [
+      {
+        "id": 2041117703,
+        "idstr": "2041117703",
+        "screen_name": "合肥日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1856446532,
+        "idstr": "1856446532",
+        "screen_name": "合新闻",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "宝格丽title",
   "search_url": "https://s.weibo.com/weibo?q=%23%E5%AE%9D%E6%A0%BC%E4%B8%BDtitle%23",

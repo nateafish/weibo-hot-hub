@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 5624109234
   },
-  "last_seen_at": "2026-09-21T22:00:00+08:00",
+  "last_seen_at": "2026-09-21T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%9D%9A%E6%8C%81%E5%96%9D%E7%89%9B%E5%A5%B6vs%E4%BB%8E%E4%B8%8D%E5%96%9D%E7%89%9B%E5%A5%B6%23%26t%3D3&title=发布媒体",
-    "show_str": "50家媒体",
+    "show_str": "52家媒体",
     "users": [
       {
         "id": 1913382117,
@@ -26,6 +26,13 @@
         "id": 1639498782,
         "idstr": "1639498782",
         "screen_name": "南方周末",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5608027665,
+        "idstr": "5608027665",
+        "screen_name": "中国环境",
         "verified": true,
         "verified_type": 3
       },
@@ -51,16 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 5935689468,
-        "idstr": "5935689468",
-        "screen_name": "武威融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5652470745,
-        "idstr": "5652470745",
-        "screen_name": "广西都市频道",
+        "id": 7216381483,
+        "idstr": "7216381483",
+        "screen_name": "看成都",
         "verified": true,
         "verified_type": 3
       }

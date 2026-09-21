@@ -10,11 +10,26 @@
     "status": 2,
     "uid": 5857296503
   },
-  "last_seen_at": "2026-09-21T22:00:00+08:00",
+  "last_seen_at": "2026-09-21T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%BC%A0%E4%BD%B3%E5%AE%81%E6%9C%BA%E5%9C%BA%E9%83%BD%E8%A6%81%E4%BA%BA%E6%89%B6%E7%9D%80%E8%B5%B0%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "2家媒体",
+    "users": [
+      {
+        "id": 1960785875,
+        "idstr": "1960785875",
+        "screen_name": "津云新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1880922220,
+        "idstr": "1880922220",
+        "screen_name": "金华晚报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#张佳宁机场都要人扶着走#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BD%B3%E5%AE%81%E6%9C%BA%E5%9C%BA%E9%83%BD%E8%A6%81%E4%BA%BA%E6%89%B6%E7%9D%80%E8%B5%B0%23",
