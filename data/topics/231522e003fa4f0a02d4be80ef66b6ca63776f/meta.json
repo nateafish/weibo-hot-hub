@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1682207150
   },
-  "last_seen_at": "2026-09-21T11:00:00+08:00",
+  "last_seen_at": "2026-09-21T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%97%B2%E9%B1%BC%E5%B0%81%E4%BA%869.8%E4%B8%87%E4%B8%AA%E6%B6%89%E9%BB%84%E8%B4%A6%E5%8F%B7%23%26t%3D3&title=发布媒体",
-    "show_str": "21家媒体",
+    "show_str": "54家媒体",
     "users": [
       {
         "id": 1682207150,
         "idstr": "1682207150",
         "screen_name": "南方日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2337985010,
+        "idstr": "2337985010",
+        "screen_name": "瑞安融媒",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +37,30 @@
         "verified_type": 3
       },
       {
+        "id": 1651428902,
+        "idstr": "1651428902",
+        "screen_name": "21世纪经济报道",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2535760180,
+        "idstr": "2535760180",
+        "screen_name": "安徽视讯",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1938523582,
         "idstr": "1938523582",
         "screen_name": "宁波晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3165101432,
-        "idstr": "3165101432",
-        "screen_name": "广元日报看广元",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2647971081,
-        "idstr": "2647971081",
-        "screen_name": "时速新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2618638282,
-        "idstr": "2618638282",
-        "screen_name": "湖南日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2595230622,
-        "idstr": "2595230622",
-        "screen_name": "漳州新闻网",
         "verified": true,
         "verified_type": 3
       }
