@@ -10,11 +10,61 @@
     "status": 2,
     "uid": 2159714367
   },
-  "last_seen_at": "2026-09-22T16:00:00+08:00",
+  "last_seen_at": "2026-09-22T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%A6%96%E9%83%A8%E6%BC%94%E5%91%98%E6%8E%88%E6%9D%83AI%E5%89%A7%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "16家媒体",
+    "users": [
+      {
+        "id": 2115259662,
+        "idstr": "2115259662",
+        "screen_name": "洪观新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1826017320,
+        "idstr": "1826017320",
+        "screen_name": "IT之家",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2075245652,
+        "idstr": "2075245652",
+        "screen_name": "长春晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1642592432,
+        "idstr": "1642592432",
+        "screen_name": "新浪电视",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7708039348,
+        "idstr": "7708039348",
+        "screen_name": "北青娱见",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6336553950,
+        "idstr": "6336553950",
+        "screen_name": "新浪大文娱",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2535760180,
+        "idstr": "2535760180",
+        "screen_name": "安徽视讯",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#首部演员授权AI剧#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E9%A6%96%E9%83%A8%E6%BC%94%E5%91%98%E6%8E%88%E6%9D%83ai%E5%89%A7%23",
