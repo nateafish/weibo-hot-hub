@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 2318910945
   },
-  "last_seen_at": "2026-09-22T07:00:00+08:00",
+  "last_seen_at": "2026-09-22T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%9D%A2%E5%8C%85%E5%92%8C%E9%A6%92%E5%A4%B4%E7%BB%8F%E5%B8%B8%E5%90%83%E5%93%AA%E4%B8%AA%E6%9B%B4%E5%81%A5%E5%BA%B7%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "10家媒体",
     "users": [
+      {
+        "id": 2318910945,
+        "idstr": "2318910945",
+        "screen_name": "新浪热点",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2105365573,
         "idstr": "2105365573",
@@ -23,9 +30,16 @@
         "verified_type": 3
       },
       {
-        "id": 2318910945,
-        "idstr": "2318910945",
-        "screen_name": "新浪热点",
+        "id": 5110439722,
+        "idstr": "5110439722",
+        "screen_name": "哈尔滨经济广播电台",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3288875501,
+        "idstr": "3288875501",
+        "screen_name": "河南日报",
         "verified": true,
         "verified_type": 3
       },
@@ -37,16 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 2232625672,
-        "idstr": "2232625672",
-        "screen_name": "安庆天天直播",
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1943154142,
-        "idstr": "1943154142",
-        "screen_name": "中安在线",
+        "id": 2232625672,
+        "idstr": "2232625672",
+        "screen_name": "安庆天天直播",
         "verified": true,
         "verified_type": 3
       }

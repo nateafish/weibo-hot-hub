@@ -1,0 +1,177 @@
+{
+  "captured_at": "2026-09-22T08:00:00+08:00",
+  "contributors": [],
+  "contributors_scheme": null,
+  "current_boards": {
+    "fun_band": {
+      "ori": {
+        "category": "剧集",
+        "is_boom": 0,
+        "onband": 1,
+        "pos": 9,
+        "subject_querys": [
+          {
+            "scheme_query": "",
+            "subject_query": "胡歌",
+            "subject_type": "明星人物"
+          },
+          {
+            "scheme_query": "",
+            "subject_query": "吴越",
+            "subject_type": "明星人物"
+          },
+          {
+            "scheme_query": "",
+            "subject_query": "金鹰奖",
+            "subject_type": "影视综艺—剧集"
+          }
+        ]
+      },
+      "scheme": "sinaweibo://pageinfo?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Dfun&title=文娱榜&extparam=",
+      "sub_info": [
+        {
+          "scheme": "sinaweibo://wbox?id=u57z5izf0g&page=pages/hotsearchpage/hotsearchpage_native&containerid=106003_-_type%3A25_-_filter_type%3Acollectionmini&trend_word=%E9%87%91%E9%B9%B0%E5%A5%96&time_filter_id=d30",
+          "text": "剧集 | 金鹰奖"
+        }
+      ],
+      "text": "文娱榜第9位"
+    },
+    "hot_band": {
+      "ori": {
+        "category": "剧集",
+        "is_boom": 0,
+        "num": 390684,
+        "onband": 1,
+        "onboard_time": 1790007019,
+        "pos": 10,
+        "subject_querys": [
+          {
+            "scheme_query": "",
+            "subject_query": "金鹰奖",
+            "subject_type": "剧集"
+          }
+        ],
+        "transparency_tag": null
+      },
+      "scheme": "sinaweibo://pageinfo?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Drealtimehot&title=热搜榜&extparam=",
+      "sub_info": [
+        {
+          "scheme": "sinaweibo://wbox?id=u57z5izf0g&page=pages/hotsearchpage/hotsearchpage_native&containerid=106003_-_type%3A25_-_filter_type%3Acollectionmini&trend_word=%E9%87%91%E9%B9%B0%E5%A5%96&time_filter_id=d30",
+          "text": "剧集 | 金鹰奖"
+        }
+      ],
+      "text": "热搜榜第10位"
+    },
+    "hot_band_24_hour": {
+      "ori": {
+        "on_band": 1
+      }
+    }
+  },
+  "exact_counts": {
+    "buy_num": 0,
+    "g_mention": 1757,
+    "gone_num": 0,
+    "interact": 10392,
+    "mention": 1757,
+    "ori_m": 445,
+    "ori_uv": 408,
+    "r_valid": 16115634,
+    "read": 19468229,
+    "rec_num": 0,
+    "show": 0,
+    "star": 2.5,
+    "t_m_num": 533,
+    "t_r_num": 16970917,
+    "wants_num": 0
+  },
+  "heat": 3,
+  "overview": {
+    "24h": {
+      "interaction": {
+        "unit": "万",
+        "val": 1
+      },
+      "mention": {
+        "unit": "",
+        "val": 1756
+      },
+      "original": {
+        "unit": "",
+        "val": 445
+      },
+      "read": {
+        "unit": "万",
+        "val": 1945
+      }
+    },
+    "30d": {
+      "interaction": {
+        "unit": "万",
+        "val": 1
+      },
+      "mention": {
+        "unit": "",
+        "val": 1757
+      },
+      "original": {
+        "unit": "",
+        "val": 445
+      },
+      "read": {
+        "unit": "万",
+        "val": 1945
+      }
+    },
+    "all": {
+      "interaction": {
+        "unit": "万",
+        "val": 1
+      },
+      "mention": {
+        "unit": "",
+        "val": 1757
+      },
+      "original": {
+        "unit": "",
+        "val": 445
+      },
+      "read": {
+        "unit": "万",
+        "val": 1946.8
+      }
+    }
+  },
+  "rank_history": [
+    {
+      "cate": "hot_board",
+      "cate_desc": "热搜榜",
+      "duration_hour": 8,
+      "duration_minute": 496,
+      "duration_mod_min": 16,
+      "off_board_time": "202609220825",
+      "on_board_time": "202609220010",
+      "top_pos": 4,
+      "topic_flag": 1
+    },
+    {
+      "cate": "enter_board",
+      "cate_desc": "文娱榜",
+      "duration_hour": 8,
+      "duration_minute": 512,
+      "duration_mod_min": 32,
+      "off_board_time": "202609220825",
+      "on_board_time": "202609212340",
+      "top_pos": 4,
+      "topic_flag": 1
+    }
+  ],
+  "title": "曝金鹰奖最佳男女主",
+  "topic_id": "231522b563ffe9d48bec19e2936abc8cc9ac16",
+  "window_counts": {
+    "1h_mention": 309,
+    "1h_ori_m": 45,
+    "24h_mention": 1753,
+    "24h_read": 19449668
+  }
+}
