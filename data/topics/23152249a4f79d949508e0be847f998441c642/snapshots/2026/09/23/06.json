@@ -1,0 +1,162 @@
+{
+  "captured_at": "2026-09-23T06:00:00+08:00",
+  "contributors": [],
+  "contributors_scheme": null,
+  "current_boards": {
+    "fun_band": {
+      "ori": {
+        "category": "艺人",
+        "is_boom": 0,
+        "onband": 1,
+        "pos": 4,
+        "subject_querys": [
+          {
+            "scheme_query": "",
+            "subject_query": "张百乔",
+            "subject_type": "明星人物"
+          }
+        ]
+      },
+      "scheme": "sinaweibo://pageinfo?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Dfun&title=文娱榜&extparam=",
+      "sub_info": [],
+      "text": "文娱榜第4位"
+    },
+    "hot_band": {
+      "ori": {
+        "category": "艺人",
+        "is_boom": 0,
+        "num": 85035,
+        "onband": 1,
+        "onboard_time": 1790100075,
+        "pos": 8,
+        "subject_querys": [
+          {
+            "scheme_query": "张百乔小雪疑似离婚",
+            "subject_query": "张百乔小雪互动",
+            "subject_type": "event"
+          }
+        ],
+        "transparency_tag": null
+      },
+      "scheme": "sinaweibo://pageinfo?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Drealtimehot&title=热搜榜&extparam=",
+      "sub_info": [
+        {
+          "scheme": "sinaweibo://wbox?id=u57z5izf0g&page=pages/hotsearchpage/hotsearchpage_native&containerid=106003_-_type%3A25_-_filter_type%3Acollectionmini&trend_word=%E5%BC%A0%E7%99%BE%E4%B9%94%E5%B0%8F%E9%9B%AA%E7%96%91%E4%BC%BC%E7%A6%BB%E5%A9%9A&time_filter_id=d30",
+          "text": "事件 | 张百乔小雪互动"
+        }
+      ],
+      "text": "热搜榜第8位"
+    },
+    "hot_band_24_hour": {
+      "ori": {
+        "on_band": 1
+      }
+    }
+  },
+  "exact_counts": {
+    "buy_num": 0,
+    "g_mention": 398,
+    "gone_num": 0,
+    "interact": 2049,
+    "mention": 398,
+    "ori_m": 120,
+    "ori_uv": 95,
+    "r_valid": 15642858,
+    "read": 17327207,
+    "rec_num": 0,
+    "show": 0,
+    "star": 2,
+    "t_m_num": 35,
+    "t_r_num": 6070799,
+    "wants_num": 0
+  },
+  "heat": 2,
+  "overview": {
+    "24h": {
+      "interaction": {
+        "unit": "",
+        "val": 2049
+      },
+      "mention": {
+        "unit": "",
+        "val": 398
+      },
+      "original": {
+        "unit": "",
+        "val": 120
+      },
+      "read": {
+        "unit": "万",
+        "val": 1732.1
+      }
+    },
+    "30d": {
+      "interaction": {
+        "unit": "",
+        "val": 2049
+      },
+      "mention": {
+        "unit": "",
+        "val": 398
+      },
+      "original": {
+        "unit": "",
+        "val": 120
+      },
+      "read": {
+        "unit": "万",
+        "val": 1732.1
+      }
+    },
+    "all": {
+      "interaction": {
+        "unit": "",
+        "val": 2049
+      },
+      "mention": {
+        "unit": "",
+        "val": 398
+      },
+      "original": {
+        "unit": "",
+        "val": 120
+      },
+      "read": {
+        "unit": "万",
+        "val": 1732.7
+      }
+    }
+  },
+  "rank_history": [
+    {
+      "cate": "hot_board",
+      "cate_desc": "热搜榜",
+      "duration_hour": 3,
+      "duration_minute": 229,
+      "duration_mod_min": 49,
+      "off_board_time": "202609230606",
+      "on_board_time": "202609230201",
+      "top_pos": 7,
+      "topic_flag": 1
+    },
+    {
+      "cate": "enter_board",
+      "cate_desc": "文娱榜",
+      "duration_hour": 7,
+      "duration_minute": 463,
+      "duration_mod_min": 43,
+      "off_board_time": "202609230607",
+      "on_board_time": "202609222112",
+      "top_pos": 4,
+      "topic_flag": 1
+    }
+  ],
+  "title": "张百乔发声",
+  "topic_id": "23152249a4f79d949508e0be847f998441c642",
+  "window_counts": {
+    "1h_mention": 22,
+    "1h_ori_m": 5,
+    "24h_mention": 398,
+    "24h_read": 17321249
+  }
+}

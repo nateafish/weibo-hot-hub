@@ -1,0 +1,145 @@
+{
+  "captured_at": "2026-09-23T06:00:00+08:00",
+  "contributors": [],
+  "contributors_scheme": null,
+  "current_boards": {
+    "hot_band": {
+      "ori": {
+        "category": "体育",
+        "is_boom": 0,
+        "num": 54657,
+        "onband": 1,
+        "onboard_time": 1790102235,
+        "pos": 41,
+        "subject_querys": [],
+        "transparency_tag": null
+      },
+      "scheme": "sinaweibo://pageinfo?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Drealtimehot&title=热搜榜&extparam=",
+      "sub_info": [],
+      "text": "热搜榜第41位"
+    },
+    "hot_band_24_hour": {
+      "ori": {
+        "on_band": 1
+      }
+    },
+    "sports_band": {
+      "ori": {
+        "category": "体育",
+        "is_boom": 0,
+        "onband": 1,
+        "pos": 33,
+        "subject_querys": []
+      },
+      "scheme": "sinaweibo://pageinfo?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Dsportnav&title=体育榜&extparam=",
+      "sub_info": [],
+      "text": "体育榜第33位"
+    }
+  },
+  "exact_counts": {
+    "buy_num": 0,
+    "g_mention": 203,
+    "gone_num": 0,
+    "interact": 566,
+    "mention": 203,
+    "ori_m": 48,
+    "ori_uv": 38,
+    "r_valid": 570820,
+    "read": 811091,
+    "rec_num": 0,
+    "show": 0,
+    "star": 1.5,
+    "t_m_num": 5,
+    "t_r_num": 577097,
+    "wants_num": 0
+  },
+  "heat": 1,
+  "overview": {
+    "24h": {
+      "interaction": {
+        "unit": "",
+        "val": 566
+      },
+      "mention": {
+        "unit": "",
+        "val": 203
+      },
+      "original": {
+        "unit": "",
+        "val": 48
+      },
+      "read": {
+        "unit": "万",
+        "val": 81
+      }
+    },
+    "30d": {
+      "interaction": {
+        "unit": "",
+        "val": 566
+      },
+      "mention": {
+        "unit": "",
+        "val": 203
+      },
+      "original": {
+        "unit": "",
+        "val": 48
+      },
+      "read": {
+        "unit": "万",
+        "val": 81
+      }
+    },
+    "all": {
+      "interaction": {
+        "unit": "",
+        "val": 566
+      },
+      "mention": {
+        "unit": "",
+        "val": 203
+      },
+      "original": {
+        "unit": "",
+        "val": 48
+      },
+      "read": {
+        "unit": "万",
+        "val": 81.1
+      }
+    }
+  },
+  "rank_history": [
+    {
+      "cate": "hot_board",
+      "cate_desc": "热搜榜",
+      "duration_hour": 2,
+      "duration_minute": 168,
+      "duration_mod_min": 48,
+      "off_board_time": "202609230616",
+      "on_board_time": "202609230237",
+      "top_pos": 37,
+      "topic_flag": 1
+    },
+    {
+      "cate": "sport_board",
+      "cate_desc": "体育榜",
+      "duration_hour": 0,
+      "duration_minute": 29,
+      "duration_mod_min": 29,
+      "off_board_time": "202609230617",
+      "on_board_time": "202609230239",
+      "top_pos": 22,
+      "topic_flag": 1
+    }
+  ],
+  "title": "日本主场也拦不住中国女排",
+  "topic_id": "23152217bfd4c9b99c707617bce3fe48e18b38",
+  "window_counts": {
+    "1h_mention": 3,
+    "1h_ori_m": 0,
+    "24h_mention": 203,
+    "24h_read": 808479
+  }
+}
