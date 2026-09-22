@@ -1,0 +1,537 @@
+{
+  "captured_at": "2026-09-22T20:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 0,
+    "metrics_saved": 50,
+    "posts_saved": 50
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#从习近平一封封信件中看中美人民友谊#",
+      "rank": 1,
+      "title": "从习近平一封封信件中看中美人民友谊",
+      "topic_id": "231522874c24824effefb9bc618322791e32ce"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "中国女排vs日本女排",
+      "rank": 1,
+      "title": "中国女排vs日本女排",
+      "topic_id": "2315227487e4adfae5de2e106c3098a666bd07"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#中国女排3连冠#",
+      "rank": 2,
+      "title": "中国女排3连冠",
+      "topic_id": "231522f4c47c40930491bda5f365c93adedbc9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#原来这些技能也有世界冠军#",
+      "rank": 3,
+      "title": "原来这些技能也有世界冠军",
+      "topic_id": "231522ccfa6721c6d5c6819f99277083322ce3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#林诗栋2比3普里查扬#",
+      "rank": 4,
+      "title": "林诗栋2比3普里查扬",
+      "topic_id": "231522ac73fa0114b1fcaeefd3785d8a293ae9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "亚运会乒乓球",
+      "rank": 5,
+      "title": "亚运会乒乓球",
+      "topic_id": "2315222f71914526098e34e7ec67972dc2c489"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "朋友圈私密发表 鸡肋",
+      "rank": 6,
+      "title": "朋友圈私密发表 鸡肋",
+      "topic_id": "231522f2a7eb285e5c2bc351040e5b9b089500"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "肖战 演唱会",
+      "rank": 7,
+      "title": "肖战 演唱会",
+      "topic_id": "231522d2bfcd54fce2cdf069e6d4a162e20342"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张展硕1500自由泳金牌#",
+      "rank": 8,
+      "title": "张展硕1500自由泳金牌",
+      "topic_id": "231522ddeb1cb1b8206624c433bcc9851c3a69"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "羽毛球男团",
+      "rank": 9,
+      "title": "羽毛球男团",
+      "topic_id": "231522e41af70f1baed92870c24ceaf0fee6b8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "中国女排3比0日本女排",
+      "rank": 10,
+      "title": "中国女排3比0日本女排",
+      "topic_id": "231522936bc9873df3db69ba32465023f1c165"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "刘耀文生日直播延期",
+      "rank": 11,
+      "title": "刘耀文生日直播延期",
+      "topic_id": "231522ab8a6a5fa0b4eb49f4cf9ba6e968a7bd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#迪丽热巴给粉丝戴戒指#",
+      "rank": 12,
+      "title": "迪丽热巴给粉丝戴戒指",
+      "topic_id": "231522ae6285238a11791b10c15ab17fa94846"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#去宁德化论调要不得#",
+      "rank": 13,
+      "title": "去宁德化论调要不得",
+      "topic_id": "231522b896760769ba5e80878b9a35fb45b2a5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张家齐退役仅8天就开始直播带货#",
+      "rank": 14,
+      "title": "张家齐退役仅8天就开始直播带货",
+      "topic_id": "2315220933a40395e20d0d82d393c28f4306e6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "现在到处都是控糖",
+      "rank": 15,
+      "title": "现在到处都是控糖",
+      "topic_id": "231522558ea7c04c9ec4131976733355a626ad"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#姿态银行卡余额#",
+      "rank": 16,
+      "title": "姿态银行卡余额",
+      "topic_id": "2315227f79ed364548d5398b63b5d5e8b5a73d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#中国体操女子全能历史首次失金#",
+      "rank": 17,
+      "title": "中国体操女子全能历史首次失金",
+      "topic_id": "231522e63ba85c349c4e4ea1b7ecbc8efb5e6e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "盛夏晴朗 井柏然孙千",
+      "rank": 18,
+      "title": "盛夏晴朗 井柏然孙千",
+      "topic_id": "2315220899fd6ae892c9506c2bd23595775783"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "国乒女团3比0乌兹别克斯坦",
+      "rank": 19,
+      "title": "国乒女团3比0乌兹别克斯坦",
+      "topic_id": "231522c5817425aec35ca9cab70907c7e2d0e0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "兰香如故",
+      "rank": 20,
+      "title": "兰香如故",
+      "topic_id": "231522c6a223bd3a54fc2af87227153bdbc48d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "白鹿陈哲远 朝玉阶",
+      "rank": 21,
+      "title": "白鹿陈哲远 朝玉阶",
+      "topic_id": "23152265e78b037b867634728d59998dd445e4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "中国男子4x100混接四连冠",
+      "rank": 22,
+      "title": "中国男子4x100混接四连冠",
+      "topic_id": "2315224d582205bc192644429cbb29c066bcc4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#潘展乐第3金#",
+      "rank": 23,
+      "title": "潘展乐第3金",
+      "topic_id": "2315227cc4aa59d9892c29aa01a6d0f1fdb13e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#首部演员授权AI剧#",
+      "rank": 24,
+      "title": "首部演员授权AI剧",
+      "topic_id": "231522c8c36956f936ccc405db14ee3896d62e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "我看到吹牛的人就这样",
+      "rank": 25,
+      "title": "我看到吹牛的人就这样",
+      "topic_id": "231522a0e5edf634726912a52a5ab0f5f2522a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张家齐怕父母知道地址连夜搬家#",
+      "rank": 26,
+      "title": "张家齐怕父母知道地址连夜搬家",
+      "topic_id": "23152200235aacd6cedd25b77ff250c3fa4f8a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "林珍娜 整商",
+      "rank": 27,
+      "title": "林珍娜 整商",
+      "topic_id": "2315223cf8dadf1b4ebcfd1ef8b41009a596b4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#仙本那险遭性侵女子躲丛林5小时#",
+      "rank": 28,
+      "title": "仙本那险遭性侵女子躲丛林5小时",
+      "topic_id": "23152267850acb6ed63f7058740b6ad57bdec2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#孙颖莎vs埃尔克巴耶娃#",
+      "rank": 29,
+      "title": "孙颖莎vs埃尔克巴耶娃",
+      "topic_id": "23152208aa81d7080290bf77b728233bb59bc0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#全红婵曾是张家齐的榜一#",
+      "rank": 30,
+      "title": "全红婵曾是张家齐的榜一",
+      "topic_id": "23152270c215fbe8d648a03a486d641a0ebcbb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#肖战不要喊哥哥喊叔叔#",
+      "rank": 31,
+      "title": "肖战不要喊哥哥喊叔叔",
+      "topic_id": "231522bea1140beea548a8b03bbef1e6f297ff"
+    },
+    {
+      "ai": "pending",
+      "metrics": "failed",
+      "metrics_error": "TopicFetchError: Topic detail is missing a stable id or title",
+      "posts": "pending",
+      "query": "林诗栋状态",
+      "rank": 32,
+      "title": "林诗栋状态"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王一博被男粉喊哥哥的反应#",
+      "rank": 33,
+      "title": "王一博被男粉喊哥哥的反应",
+      "topic_id": "231522e25950b270477798bb4d773fc93e1777"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#动力电池新国标下的安全硬仗#",
+      "rank": 34,
+      "title": "动力电池新国标下的安全硬仗",
+      "topic_id": "2315223f3af9c1c214798fd65a9245089e01e7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#我国战略找矿成果喜人#",
+      "rank": 35,
+      "title": "我国战略找矿成果喜人",
+      "topic_id": "2315226710fbb41260b0e98e2204dc146eb3e2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "亚运会",
+      "rank": 36,
+      "title": "亚运会",
+      "topic_id": "231522b9fedef28ddcf151d85c04b905c0ad5c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#孙女整理遗物发现爽身粉罐里的秘密#",
+      "rank": 37,
+      "title": "孙女整理遗物发现爽身粉罐里的秘密",
+      "topic_id": "231522434faa124f996cd7bdcbbb4d02424d60"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "理记被指多次在热点事件中污蔑女性",
+      "rank": 38,
+      "title": "理记被指多次在热点事件中污蔑女性",
+      "topic_id": "23152212986cae0dae9e1b52b44d407ad88fe3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#被批史上最差亚运后日本甩锅法国#",
+      "rank": 39,
+      "title": "被批史上最差亚运后日本甩锅法国",
+      "topic_id": "231522d52fbbb51825eeef1b0f75cf4920b8ba"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#国乒男团1比1泰国#",
+      "rank": 40,
+      "title": "国乒男团1比1泰国",
+      "topic_id": "2315226ac91869ca5cdc551913d168f8a21667"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "柯沁沁亚运体操全能摘银",
+      "rank": 41,
+      "title": "柯沁沁亚运体操全能摘银",
+      "topic_id": "2315221c93c4b77b458a1d009cb8d820193fda"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王玉雯是不是在感情上受了什么伤#",
+      "rank": 42,
+      "title": "王玉雯是不是在感情上受了什么伤",
+      "topic_id": "231522aab5af1e80962f8d52efd7e0861a6dee"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#孙颖莎3比1埃尔克巴耶娃#",
+      "rank": 43,
+      "title": "孙颖莎3比1埃尔克巴耶娃",
+      "topic_id": "2315224124a0fabae8f6ae9a8d31accb57334a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "对羊毛有了新的认知",
+      "rank": 44,
+      "title": "对羊毛有了新的认知",
+      "topic_id": "23152257dd5c759b499fdbd6dedf91fd226a70"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "故意让小孩难堪的大人有多恶毒",
+      "rank": 45,
+      "title": "故意让小孩难堪的大人有多恶毒",
+      "topic_id": "2315223069664adb25053eef21d621a9efba24"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#亚运会电竞项目翻车#",
+      "rank": 46,
+      "title": "亚运会电竞项目翻车",
+      "topic_id": "2315221a157739abdae1f9d555f3d4a03922f5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "柳智敏广告被指三K党意象",
+      "rank": 47,
+      "title": "柳智敏广告被指三K党意象",
+      "topic_id": "23152241195954b1e379acde80a8d1c13239a8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "印度男团3比0日本晋级半决赛",
+      "rank": 48,
+      "title": "印度男团3比0日本晋级半决赛",
+      "topic_id": "23152208d7d53eb086acc046d1238f43b133c1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#国羽男团vs韩国男团#",
+      "rank": 49,
+      "title": "国羽男团vs韩国男团",
+      "topic_id": "231522dc5052b46ff638c6a866988e5085f74a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "女子体操",
+      "rank": 50,
+      "title": "女子体操",
+      "topic_id": "231522cbc9ea121d686a2597d9f31e2b2dcd95"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 0.9803921568627451,
+      "metrics": 0.9803921568627451,
+      "posts": 0.9803921568627451
+    }
+  }
+}

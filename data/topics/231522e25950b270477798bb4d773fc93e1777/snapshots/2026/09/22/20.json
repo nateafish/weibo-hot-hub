@@ -1,0 +1,162 @@
+{
+  "captured_at": "2026-09-22T20:00:00+08:00",
+  "contributors": [],
+  "contributors_scheme": null,
+  "current_boards": {
+    "fun_band": {
+      "ori": {
+        "category": "艺人",
+        "is_boom": 0,
+        "onband": 1,
+        "pos": 16,
+        "subject_querys": [
+          {
+            "scheme_query": "",
+            "subject_query": "王一博",
+            "subject_type": "明星人物"
+          }
+        ]
+      },
+      "scheme": "sinaweibo://pageinfo?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Dfun&title=文娱榜&extparam=",
+      "sub_info": [],
+      "text": "文娱榜第16位"
+    },
+    "hot_band": {
+      "ori": {
+        "category": "艺人",
+        "is_boom": 0,
+        "num": 205776,
+        "onband": 1,
+        "onboard_time": 1790067320,
+        "pos": 36,
+        "subject_querys": [
+          {
+            "scheme_query": "王一博香港活动",
+            "subject_query": "王一博香港活动",
+            "subject_type": "event"
+          }
+        ],
+        "transparency_tag": null
+      },
+      "scheme": "sinaweibo://pageinfo?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Drealtimehot&title=热搜榜&extparam=",
+      "sub_info": [
+        {
+          "scheme": "sinaweibo://wbox?id=u57z5izf0g&page=pages/hotsearchpage/hotsearchpage_native&containerid=106003_-_type%3A25_-_filter_type%3Acollectionmini&trend_word=%E7%8E%8B%E4%B8%80%E5%8D%9A%E9%A6%99%E6%B8%AF%E6%B4%BB%E5%8A%A8&time_filter_id=d30",
+          "text": "事件 | 王一博香港活动"
+        }
+      ],
+      "text": "热搜榜第36位"
+    },
+    "hot_band_24_hour": {
+      "ori": {
+        "on_band": 1
+      }
+    }
+  },
+  "exact_counts": {
+    "buy_num": 0,
+    "g_mention": 2532,
+    "gone_num": 0,
+    "interact": 17314,
+    "mention": 2533,
+    "ori_m": 621,
+    "ori_uv": 519,
+    "r_valid": 11179545,
+    "read": 12677155,
+    "rec_num": 0,
+    "show": 0,
+    "star": 2.5,
+    "t_m_num": 1164,
+    "t_r_num": 12684429,
+    "wants_num": 0
+  },
+  "heat": 3,
+  "overview": {
+    "24h": {
+      "interaction": {
+        "unit": "万",
+        "val": 1.7
+      },
+      "mention": {
+        "unit": "",
+        "val": 2533
+      },
+      "original": {
+        "unit": "",
+        "val": 621
+      },
+      "read": {
+        "unit": "万",
+        "val": 1266.2
+      }
+    },
+    "30d": {
+      "interaction": {
+        "unit": "万",
+        "val": 1.7
+      },
+      "mention": {
+        "unit": "",
+        "val": 2533
+      },
+      "original": {
+        "unit": "",
+        "val": 621
+      },
+      "read": {
+        "unit": "万",
+        "val": 1266.2
+      }
+    },
+    "all": {
+      "interaction": {
+        "unit": "万",
+        "val": 1.7
+      },
+      "mention": {
+        "unit": "",
+        "val": 2533
+      },
+      "original": {
+        "unit": "",
+        "val": 621
+      },
+      "read": {
+        "unit": "万",
+        "val": 1267.7
+      }
+    }
+  },
+  "rank_history": [
+    {
+      "cate": "hot_board",
+      "cate_desc": "热搜榜",
+      "duration_hour": 3,
+      "duration_minute": 200,
+      "duration_mod_min": 20,
+      "off_board_time": "202609222014",
+      "on_board_time": "202609221655",
+      "top_pos": 15,
+      "topic_flag": 1
+    },
+    {
+      "cate": "enter_board",
+      "cate_desc": "文娱榜",
+      "duration_hour": 3,
+      "duration_minute": 204,
+      "duration_mod_min": 24,
+      "off_board_time": "202609222014",
+      "on_board_time": "202609221651",
+      "top_pos": 5,
+      "topic_flag": 1
+    }
+  ],
+  "title": "王一博被男粉喊哥哥的反应",
+  "topic_id": "231522e25950b270477798bb4d773fc93e1777",
+  "window_counts": {
+    "1h_mention": 671,
+    "1h_ori_m": 136,
+    "24h_mention": 2532,
+    "24h_read": 12658086
+  }
+}

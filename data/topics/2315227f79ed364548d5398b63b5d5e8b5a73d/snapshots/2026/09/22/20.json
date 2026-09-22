@@ -1,0 +1,145 @@
+{
+  "captured_at": "2026-09-22T20:00:00+08:00",
+  "contributors": [],
+  "contributors_scheme": null,
+  "current_boards": {
+    "game_band": {
+      "ori": {
+        "category": "电竞",
+        "is_boom": 0,
+        "onband": 1,
+        "pos": 1,
+        "subject_querys": []
+      },
+      "scheme": "sinaweibo://pageinfo?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Dgamenav&title=ACG榜&extparam=",
+      "sub_info": [],
+      "text": "ACG榜第1位"
+    },
+    "hot_band": {
+      "ori": {
+        "category": "电竞",
+        "is_boom": 0,
+        "num": 509070,
+        "onband": 1,
+        "onboard_time": 1790076140,
+        "pos": 18,
+        "subject_querys": [],
+        "transparency_tag": null
+      },
+      "scheme": "sinaweibo://pageinfo?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Drealtimehot&title=热搜榜&extparam=",
+      "sub_info": [],
+      "text": "热搜榜第18位"
+    },
+    "hot_band_24_hour": {
+      "ori": {
+        "on_band": 1
+      }
+    }
+  },
+  "exact_counts": {
+    "buy_num": 0,
+    "g_mention": 508,
+    "gone_num": 0,
+    "interact": 2225,
+    "mention": 508,
+    "ori_m": 86,
+    "ori_uv": 79,
+    "r_valid": 6067493,
+    "read": 6875695,
+    "rec_num": 0,
+    "show": 0,
+    "star": 2,
+    "t_m_num": 197,
+    "t_r_num": 6879125,
+    "wants_num": 0
+  },
+  "heat": 2,
+  "overview": {
+    "24h": {
+      "interaction": {
+        "unit": "",
+        "val": 2225
+      },
+      "mention": {
+        "unit": "",
+        "val": 508
+      },
+      "original": {
+        "unit": "",
+        "val": 86
+      },
+      "read": {
+        "unit": "万",
+        "val": 686.2
+      }
+    },
+    "30d": {
+      "interaction": {
+        "unit": "",
+        "val": 2223
+      },
+      "mention": {
+        "unit": "",
+        "val": 508
+      },
+      "original": {
+        "unit": "",
+        "val": 86
+      },
+      "read": {
+        "unit": "万",
+        "val": 686.2
+      }
+    },
+    "all": {
+      "interaction": {
+        "unit": "",
+        "val": 2225
+      },
+      "mention": {
+        "unit": "",
+        "val": 508
+      },
+      "original": {
+        "unit": "",
+        "val": 86
+      },
+      "read": {
+        "unit": "万",
+        "val": 687.6
+      }
+    }
+  },
+  "rank_history": [
+    {
+      "cate": "hot_board",
+      "cate_desc": "热搜榜",
+      "duration_hour": 0,
+      "duration_minute": 48,
+      "duration_mod_min": 48,
+      "off_board_time": "202609222009",
+      "on_board_time": "202609221922",
+      "top_pos": 8,
+      "topic_flag": 1
+    },
+    {
+      "cate": "game_board",
+      "cate_desc": "ACG榜",
+      "duration_hour": 1,
+      "duration_minute": 66,
+      "duration_mod_min": 6,
+      "off_board_time": "202609222010",
+      "on_board_time": "202609221905",
+      "top_pos": 1,
+      "topic_flag": 1
+    }
+  ],
+  "title": "姿态银行卡余额",
+  "topic_id": "2315227f79ed364548d5398b63b5d5e8b5a73d",
+  "window_counts": {
+    "1h_mention": 369,
+    "1h_ori_m": 60,
+    "24h_mention": 508,
+    "24h_read": 6824432
+  }
+}

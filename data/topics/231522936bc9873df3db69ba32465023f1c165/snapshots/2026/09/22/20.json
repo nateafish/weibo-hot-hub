@@ -1,0 +1,112 @@
+{
+  "captured_at": "2026-09-22T20:00:00+08:00",
+  "contributors": [],
+  "contributors_scheme": null,
+  "current_boards": [],
+  "exact_counts": {
+    "buy_num": 0,
+    "g_mention": 17542,
+    "gone_num": 0,
+    "interact": 36066,
+    "mention": 17542,
+    "ori_m": 493,
+    "ori_uv": 399,
+    "r_valid": 9677018,
+    "read": 13204864,
+    "rec_num": 0,
+    "show": 0,
+    "star": 2.5,
+    "t_m_num": 515,
+    "t_r_num": 782253,
+    "wants_num": 0
+  },
+  "heat": 1,
+  "overview": {
+    "24h": {
+      "interaction": {
+        "unit": "",
+        "val": 8465
+      },
+      "mention": {
+        "unit": "",
+        "val": 1691
+      },
+      "original": {
+        "unit": "",
+        "val": 137
+      },
+      "read": {
+        "unit": "万",
+        "val": 76.2
+      }
+    },
+    "30d": {
+      "interaction": {
+        "unit": "",
+        "val": 8465
+      },
+      "mention": {
+        "unit": "",
+        "val": 1691
+      },
+      "original": {
+        "unit": "",
+        "val": 137
+      },
+      "read": {
+        "unit": "万",
+        "val": 76.2
+      }
+    },
+    "all": {
+      "interaction": {
+        "unit": "万",
+        "val": 3.6
+      },
+      "mention": {
+        "unit": "万",
+        "val": 1.8
+      },
+      "original": {
+        "unit": "",
+        "val": 493
+      },
+      "read": {
+        "unit": "万",
+        "val": 1320.5
+      }
+    }
+  },
+  "rank_history": [
+    {
+      "cate": "hot_board",
+      "cate_desc": "热搜榜",
+      "duration_hour": 0,
+      "duration_minute": 9,
+      "duration_mod_min": 9,
+      "off_board_time": "202609222007",
+      "on_board_time": "202609221959",
+      "top_pos": 10,
+      "topic_flag": 0
+    },
+    {
+      "cate": "sport_board",
+      "cate_desc": "体育榜",
+      "duration_hour": 0,
+      "duration_minute": 10,
+      "duration_mod_min": 10,
+      "off_board_time": "202609222008",
+      "on_board_time": "202609221959",
+      "top_pos": 3,
+      "topic_flag": 0
+    }
+  ],
+  "title": "中国女排3比0日本女排",
+  "topic_id": "231522936bc9873df3db69ba32465023f1c165",
+  "window_counts": {
+    "1h_mention": 1532,
+    "1h_ori_m": 127,
+    "24h_mention": 1691,
+    "24h_read": 762129
+  }
+}

@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 6320391439
   },
-  "last_seen_at": "2026-09-22T19:00:00+08:00",
+  "last_seen_at": "2026-09-22T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%AD%99%E9%A2%96%E8%8E%8Evs%E5%9F%83%E5%B0%94%E5%85%8B%E5%B7%B4%E8%80%B6%E5%A8%83%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "6家媒体",
     "users": [
+      {
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2011739333,
         "idstr": "2011739333",
@@ -23,9 +30,30 @@
         "verified_type": 7
       },
       {
-        "id": 2992050891,
-        "idstr": "2992050891",
-        "screen_name": "北京时间",
+        "id": 6444725927,
+        "idstr": "6444725927",
+        "screen_name": "吉祥新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2292899701,
+        "idstr": "2292899701",
+        "screen_name": "浪涨新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1768470921,
+        "idstr": "1768470921",
+        "screen_name": "青岛新闻网",
         "verified": true,
         "verified_type": 3
       }
