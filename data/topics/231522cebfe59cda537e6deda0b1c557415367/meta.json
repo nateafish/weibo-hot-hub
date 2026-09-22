@@ -1,9 +1,16 @@
 {
-  "category": null,
+  "category": "科技",
   "created_at": 1790063681,
   "first_seen_at": "2026-09-22T17:00:00+08:00",
-  "host": null,
-  "last_seen_at": "2026-09-22T17:00:00+08:00",
+  "host": {
+    "claim_time": "2026.09.22-至今",
+    "created_at": "2026-09-22 18:14:11",
+    "is_claim": true,
+    "screen_name": "娱精灵",
+    "status": 2,
+    "uid": 6898363524
+  },
+  "last_seen_at": "2026-09-22T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%95%BF%E5%89%A7%E5%87%BA%E7%8E%B0%E7%9C%9F%E4%BA%BAAI%E5%A5%BD%E8%AF%A1%E5%BC%82%23%26t%3D3&title=发布媒体",
     "show_str": "4家媒体",
@@ -41,7 +48,7 @@
   "query": "长剧出现真人AI好诡异",
   "search_url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%89%A7%E5%87%BA%E7%8E%B0%E7%9C%9F%E4%BA%BAai%E5%A5%BD%E8%AF%A1%E5%BC%82%23",
   "sub_category": null,
-  "summary": "",
+  "summary": "不少国产长剧开始启用AI生成真人形象出镜，不少观众看完直呼违和诡异。有观点指出，AI的天花板就是均值，它可以拼凑出符合大众审美的标准化面孔，却很难复刻真人演员独有的情绪张力与人物灵魂，流水线产出的AI角色，好看却空洞，也引发了大家对于影视AI应用的讨论。",
   "title": "长剧出现真人ai好诡异",
   "topic_id": "231522cebfe59cda537e6deda0b1c557415367"
 }

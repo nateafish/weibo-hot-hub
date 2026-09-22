@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 3203137375
   },
-  "last_seen_at": "2026-09-22T17:00:00+08:00",
+  "last_seen_at": "2026-09-22T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E6%9B%BE%E6%98%AF%E5%BC%A0%E5%AE%B6%E9%BD%90%E7%9A%84%E6%A6%9C%E4%B8%80%23%26t%3D3&title=发布媒体",
-    "show_str": "15家媒体",
+    "show_str": "22家媒体",
     "users": [
       {
         "id": 3203137375,
         "idstr": "3203137375",
         "screen_name": "四川观察",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7141087529,
+        "idstr": "7141087529",
+        "screen_name": "铁骥视频",
         "verified": true,
         "verified_type": 3
       },
@@ -51,16 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 5652470745,
-        "idstr": "5652470745",
-        "screen_name": "广西都市频道",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5167503212,
-        "idstr": "5167503212",
-        "screen_name": "贵州日报官微",
+        "id": 6344061797,
+        "idstr": "6344061797",
+        "screen_name": "JSTV荔枝视频",
         "verified": true,
         "verified_type": 3
       }
