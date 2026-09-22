@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 1655444627
   },
-  "last_seen_at": "2026-09-22T08:00:00+08:00",
+  "last_seen_at": "2026-09-22T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%80%81%E4%BA%BA%E9%80%81%E5%8C%BB%E6%8B%85%E6%9E%B6%E6%8E%89%E8%90%BD%E5%A4%B4%E9%83%A8%E7%9D%80%E5%9C%B0%E5%90%8E%E5%8E%BB%E4%B8%96%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "11家媒体",
     "users": [
       {
         "id": 1655444627,
         "idstr": "1655444627",
         "screen_name": "潇湘晨报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6928905395,
+        "idstr": "6928905395",
+        "screen_name": "大风视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5539777260,
+        "idstr": "5539777260",
+        "screen_name": "菏泽日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2628314830,
+        "idstr": "2628314830",
+        "screen_name": "合肥晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,23 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 2230913455,
+        "idstr": "2230913455",
+        "screen_name": "搜狐视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1899227237,
         "idstr": "1899227237",
         "screen_name": "青岛早报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1867427515,
-        "idstr": "1867427515",
-        "screen_name": "新派新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1398613133,
-        "idstr": "1398613133",
-        "screen_name": "马上资讯",
         "verified": true,
         "verified_type": 3
       }
