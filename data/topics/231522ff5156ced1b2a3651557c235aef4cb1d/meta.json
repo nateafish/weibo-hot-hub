@@ -3,11 +3,40 @@
   "created_at": 1790119829,
   "first_seen_at": "2026-09-23T08:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-23T08:00:00+08:00",
+  "last_seen_at": "2026-09-23T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%8A%E6%B5%B7%E8%BF%99%E9%9D%A2%E9%95%9C%E5%AD%90%E8%AE%A9%E6%B5%A6%E4%B8%9C%E9%9D%9E%E5%B8%B8%E6%9B%BC%E5%93%88%E9%A1%BF%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "4家媒体",
+    "users": [
+      {
+        "id": 5762891674,
+        "idstr": "5762891674",
+        "screen_name": "密度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2628314830,
+        "idstr": "2628314830",
+        "screen_name": "合肥晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1970339157,
+        "idstr": "1970339157",
+        "screen_name": "小红花视界",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1677991972,
+        "idstr": "1677991972",
+        "screen_name": "晶报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "上海这面镜子让浦东非常曼哈顿",
   "search_url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%99%E9%9D%A2%E9%95%9C%E5%AD%90%E8%AE%A9%E6%B5%A6%E4%B8%9C%E9%9D%9E%E5%B8%B8%E6%9B%BC%E5%93%88%E9%A1%BF%23",

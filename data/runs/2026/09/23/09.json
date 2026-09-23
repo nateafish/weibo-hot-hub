@@ -1,0 +1,534 @@
+{
+  "captured_at": "2026-09-23T09:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 46,
+    "ai_unchanged": 0,
+    "metrics_saved": 47,
+    "posts_saved": 47
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#跨越山海续写鼓岭情缘#",
+      "rank": 1,
+      "title": "跨越山海续写鼓岭情缘",
+      "topic_id": "231522041c04c3ccf47c87d1b9f8bcf36fd3bc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#马斯克感叹中国壮丽#",
+      "rank": 1,
+      "title": "马斯克感叹中国壮丽",
+      "topic_id": "231522bf77bcb57eca339499c283737ae05f9c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#周琦主动表态愿出战亚运会被拒#",
+      "rank": 2,
+      "title": "周琦主动表态愿出战亚运会被拒",
+      "topic_id": "2315220b113a9abecbe14e8cc99bb0546df200"
+    },
+    {
+      "ai": "pending",
+      "metrics": "failed",
+      "metrics_error": "TopicFetchError: Topic detail is missing a stable id or title",
+      "posts": "pending",
+      "query": "#祝福祖国大花篮主体亮相#",
+      "rank": 3,
+      "title": "祝福祖国大花篮主体亮相"
+    },
+    {
+      "ai": "pending",
+      "metrics": "failed",
+      "metrics_error": "TopicFetchError: Topic detail is missing a stable id or title",
+      "posts": "pending",
+      "query": "#今年中秋节我就不回家了#",
+      "rank": 4,
+      "title": "今年中秋节我就不回家了"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#日本女排颁奖礼全员黑脸#",
+      "rank": 5,
+      "title": "日本女排颁奖礼全员黑脸",
+      "topic_id": "23152223983fdfd3baf509397466199ef28f78"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#潘玮柏演唱会10点整戛然而止#",
+      "rank": 6,
+      "title": "潘玮柏演唱会10点整戛然而止",
+      "topic_id": "231522bd8a0f3b31550f791137bbe2aab10e8a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "秋分",
+      "rank": 7,
+      "title": "秋分",
+      "topic_id": "231522cfb2d792e98aad9b43a36b09af07dc1b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "汪顺400混的含金量",
+      "rank": 8,
+      "title": "汪顺400混的含金量",
+      "topic_id": "23152222f3791e879bb2f197eec1b43010fefe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#小米首发第六代骁龙8超级至尊版#",
+      "rank": 9,
+      "title": "小米首发第六代骁龙8超级至尊版",
+      "topic_id": "2315229f82b04a90e499dbcdc9e060c12cb2f4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "王皓质问林诗栋",
+      "rank": 10,
+      "title": "王皓质问林诗栋",
+      "topic_id": "2315220d8808fcb9f5009b04a8e2362d132781"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#白鹿回复呵呵你是我最好的礼物#",
+      "rank": 11,
+      "title": "白鹿回复呵呵你是我最好的礼物",
+      "topic_id": "23152281c63d54db09b5f87afa42cfe9964279"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "杨幂说短发是自己剪的",
+      "rank": 12,
+      "title": "杨幂说短发是自己剪的",
+      "topic_id": "2315221ac658c4a2d29a907fa5dea77f0fdc2f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "女子称遭硕导性侵后洗澡洗掉证据",
+      "rank": 13,
+      "title": "女子称遭硕导性侵后洗澡洗掉证据",
+      "topic_id": "23152256d037a96ba7a558b4187e6f51cbbaca"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "王玉雯 杨玏",
+      "rank": 14,
+      "title": "王玉雯 杨玏",
+      "topic_id": "2315220298531f472315462ff1274da993b314"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张家齐妈妈直言不愿意花张家齐的钱#",
+      "rank": 15,
+      "title": "张家齐妈妈直言不愿意花张家齐的钱",
+      "topic_id": "231522d3d3b2485aedc0d3f4a79aa780ebd5bf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "迪丽热巴男粉握手后捂脸跑下台",
+      "rank": 16,
+      "title": "迪丽热巴男粉握手后捂脸跑下台",
+      "topic_id": "2315222481877c3892dc76602302b718b0154c"
+    },
+    {
+      "ai": "pending",
+      "metrics": "failed",
+      "metrics_error": "TopicFetchError: Topic detail is missing a stable id or title",
+      "posts": "pending",
+      "query": "中国死亡率最高徒步线鳌太线",
+      "rank": 17,
+      "title": "中国死亡率最高徒步线鳌太线"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#杨幂回复李现#",
+      "rank": 18,
+      "title": "杨幂回复李现",
+      "topic_id": "231522768220adbbfe4cb6971245cd0190a1a9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#为什么说秋分是最公平的一天#",
+      "rank": 19,
+      "title": "为什么说秋分是最公平的一天",
+      "topic_id": "231522d261d28d8d95ec8260ee90a8a040f866"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张家齐妈妈拒绝返还存款涉嫌违法#",
+      "rank": 20,
+      "title": "张家齐妈妈拒绝返还存款涉嫌违法",
+      "topic_id": "23152239197998c90c908f8b6f24061556475b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#苹果不建议给iPhone贴膜#",
+      "rank": 21,
+      "title": "苹果不建议给iPhone贴膜",
+      "topic_id": "231522f715725ce1b0488273f0651191e6d874"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#白鹿32岁生日发文#",
+      "rank": 22,
+      "title": "白鹿32岁生日发文",
+      "topic_id": "231522a04af27d1786b7141bfb9321358386d1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张真源吃饭vs唐艺昕吃饭#",
+      "rank": 23,
+      "title": "张真源吃饭vs唐艺昕吃饭",
+      "topic_id": "231522c675a47bdbbb04d249b2fd9b675b21ab"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#是吕蕺儿告诉林兰香真相的#",
+      "rank": 24,
+      "title": "是吕蕺儿告诉林兰香真相的",
+      "topic_id": "2315228f91eadb675990bd2a1052939abc2949"
+    },
+    {
+      "ai": "pending",
+      "metrics": "failed",
+      "metrics_error": "TopicFetchError: Topic detail is missing a stable id or title",
+      "posts": "pending",
+      "query": "网友出差把狗扔给爸妈狗累成狗了",
+      "rank": 25,
+      "title": "网友出差把狗扔给爸妈狗累成狗了"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#太漂亮被质疑化妆了的刘仁娜#",
+      "rank": 26,
+      "title": "太漂亮被质疑化妆了的刘仁娜",
+      "topic_id": "231522d1b9e3e62ddfc26e3b279235b2de1f7d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#孙尚香新皮肤双形态#",
+      "rank": 27,
+      "title": "孙尚香新皮肤双形态",
+      "topic_id": "23152284ef4c821657be96629a73893ee7a0fc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#王者三丽鸥家族联动CG#",
+      "rank": 28,
+      "title": "王者三丽鸥家族联动CG",
+      "topic_id": "23152204949b57c12c0f285e5d289dfc879dc6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#林锦岐大婚只有爹去了#",
+      "rank": 29,
+      "title": "林锦岐大婚只有爹去了",
+      "topic_id": "231522f12c18505a4e17a0e346d5af274253b1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#俄罗斯32座最大炼油厂中28座遭袭#",
+      "rank": 30,
+      "title": "俄罗斯32座最大炼油厂中28座遭袭",
+      "topic_id": "2315227eea8748a081468928c30e9a474f7b23"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#韩国短道速滑运动员ins发了讣告#",
+      "rank": 31,
+      "title": "韩国短道速滑运动员ins发了讣告",
+      "topic_id": "231522e1d7b94c61e891912df3f2bf3dabc39a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "新娘粉底遮整条花臂太费功夫",
+      "rank": 32,
+      "title": "新娘粉底遮整条花臂太费功夫",
+      "topic_id": "23152209a160ed4170e5e8a62f8edcd1770228"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "上海这面镜子让浦东非常曼哈顿",
+      "rank": 33,
+      "title": "上海这面镜子让浦东非常曼哈顿",
+      "topic_id": "231522ff5156ced1b2a3651557c235aef4cb1d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "事实证明女儿颜值由爸爸决定",
+      "rank": 34,
+      "title": "事实证明女儿颜值由爸爸决定",
+      "topic_id": "231522349237016e65bc8f421bcf2ad0abd8a3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#山姆偶遇梓渝#",
+      "rank": 35,
+      "title": "山姆偶遇梓渝",
+      "topic_id": "2315226c9a0ae054a07872fb6a307df6fd97c0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "小米18Pro系列",
+      "rank": 36,
+      "title": "小米18Pro系列",
+      "topic_id": "2315228db9e44ec9627882c380a7aba78d0a46"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#13岁女孩被强奸有民警劝拿钱调解#",
+      "rank": 37,
+      "title": "13岁女孩被强奸有民警劝拿钱调解",
+      "topic_id": "2315223036af16a5e87f590ceb35b070620d4e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#金建宇6月刚宣布退役#",
+      "rank": 38,
+      "title": "金建宇6月刚宣布退役",
+      "topic_id": "231522a48fd179d7889fa2843379ed275ae2f6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "原来穷的叮当响是这个意思",
+      "rank": 39,
+      "title": "原来穷的叮当响是这个意思",
+      "topic_id": "2315227a571c9d5299bc5f2fb028ded5fccc29"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#今天亚运会决出33金#",
+      "rank": 40,
+      "title": "今天亚运会决出33金",
+      "topic_id": "231522d0a77bfa7ff0f7a113a8b8bbf0def6d6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#林锦岐大婚没人迎亲#",
+      "rank": 41,
+      "title": "林锦岐大婚没人迎亲",
+      "topic_id": "2315228594dead226f514bd4173366036a2890"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "王楚钦孙颖莎 亚运混双",
+      "rank": 42,
+      "title": "王楚钦孙颖莎 亚运混双",
+      "topic_id": "2315229393bc85184f1d49dc1f4b385290edc4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "孙尚香新皮肤",
+      "rank": 43,
+      "title": "孙尚香新皮肤",
+      "topic_id": "2315228c901bc8cc5c2ca63941365eb77938cd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "喜人奇妙夜",
+      "rank": 44,
+      "title": "喜人奇妙夜",
+      "topic_id": "231522d60ab2756f408b219c562eaa04621ba2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "亚运乒乓球混双",
+      "rank": 45,
+      "title": "亚运乒乓球混双",
+      "topic_id": "231522fd6a9cac44fedf3778802e3d62e7c976"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#婚床里的早生贵子袋16年后才被发现#",
+      "rank": 46,
+      "title": "婚床里的早生贵子袋16年后才被发现",
+      "topic_id": "2315220d630654829d248c58b2b3bba259cb70"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "瑞士没有一张椅子是乱放的",
+      "rank": 47,
+      "title": "瑞士没有一张椅子是乱放的",
+      "topic_id": "23152203fd09b8d603b8039d17c54c875fa050"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#何炅到吴昕家进门就先预定了客卧#",
+      "rank": 48,
+      "title": "何炅到吴昕家进门就先预定了客卧",
+      "topic_id": "231522d3e6b9c919c55fe9c43f4b49a9291349"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "宠物情趣寿衣店利润900%",
+      "rank": 49,
+      "title": "宠物情趣寿衣店利润900%",
+      "topic_id": "231522da96e63a478f0c20493548b7b9c4bb32"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#TFBOYS七周年是线上#",
+      "rank": 50,
+      "title": "TFBOYS七周年是线上",
+      "topic_id": "231522c7e9afeed2e18fbb2c60d077a6cbc1f9"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 0.9215686274509803,
+      "metrics": 0.9215686274509803,
+      "posts": 0.9215686274509803
+    }
+  }
+}
