@@ -10,11 +10,25 @@
     "status": 2,
     "uid": 7047746459
   },
-  "last_seen_at": "2026-09-23T13:00:00+08:00",
+  "last_seen_at": "2026-09-23T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9D%8E%E7%8E%B0%E5%BC%A0%E5%A9%A7%E4%BB%AA%E9%9B%BE%E9%87%8C%E9%9D%92%E7%BB%91%E6%89%8B%E5%90%BB%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "5家媒体",
     "users": [
+      {
+        "id": 2183542485,
+        "idstr": "2183542485",
+        "screen_name": "西安广播电视台",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1720962692,
+        "idstr": "1720962692",
+        "screen_name": "极目新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 7708039348,
         "idstr": "7708039348",
@@ -23,9 +37,16 @@
         "verified_type": 3
       },
       {
-        "id": 1720962692,
-        "idstr": "1720962692",
-        "screen_name": "极目新闻",
+        "id": 2618630987,
+        "idstr": "2618630987",
+        "screen_name": "西安网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1657914910,
+        "idstr": "1657914910",
+        "screen_name": "烟台日报社大小新闻",
         "verified": true,
         "verified_type": 3
       }
