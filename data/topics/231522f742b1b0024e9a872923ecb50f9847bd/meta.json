@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 1649173367
   },
-  "last_seen_at": "2026-09-24T06:00:00+08:00",
+  "last_seen_at": "2026-09-24T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%99%8D%E5%8E%8B%E7%96%AB%E8%8B%97%E8%A6%81%E6%9D%A5%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "13家媒体",
     "users": [
       {
         "id": 1649173367,
         "idstr": "1649173367",
         "screen_name": "每日经济新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2115259662,
+        "idstr": "2115259662",
+        "screen_name": "洪观新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2290787940,
+        "idstr": "2290787940",
+        "screen_name": "扬州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,16 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 2056962703,
-        "idstr": "2056962703",
-        "screen_name": "NBD汽车",
+        "id": 5110439722,
+        "idstr": "5110439722",
+        "screen_name": "哈尔滨经济广播电台",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2011805155,
-        "idstr": "2011805155",
-        "screen_name": "烟台音乐广播",
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
         "verified": true,
         "verified_type": 3
       }

@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1784473157
   },
-  "last_seen_at": "2026-09-24T06:00:00+08:00",
+  "last_seen_at": "2026-09-24T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%99%A2%E9%95%BF%E8%AF%B4%E5%8C%97%E4%BA%AC%E7%94%B5%E5%BD%B1%E5%AD%A6%E9%99%A2%E4%B8%8D%E7%94%9F%E4%BA%A7%E5%A4%A7%E6%98%8E%E6%98%9F%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "8家媒体",
     "users": [
       {
         "id": 1784473157,
@@ -51,9 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 1611935011,
-        "idstr": "1611935011",
-        "screen_name": "中国报道",
+        "id": 1943154142,
+        "idstr": "1943154142",
+        "screen_name": "中安在线",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1899227237,
+        "idstr": "1899227237",
+        "screen_name": "青岛早报",
         "verified": true,
         "verified_type": 3
       }
