@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-23T19:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 2,
+    "ai_saved": 49,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#习近平离京访美#",
+      "rank": 1,
+      "title": "习近平离京访美",
+      "topic_id": "231522952d5de89042aa1342443b4492601ff4"
+    },
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#习近平离京对美国进行国事访问#",
+      "rank": 1,
+      "title": "习近平离京对美国进行国事访问",
+      "topic_id": "2315227725193770f55f6c4613505fa8da9398"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "工位上最伟大的单品出现了",
+      "rank": 2,
+      "title": "工位上最伟大的单品出现了",
+      "topic_id": "231522d00bf793af986f1182bfd11a582dd0c0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "中国人端稳中国饭碗",
+      "rank": 3,
+      "title": "中国人端稳中国饭碗",
+      "topic_id": "231522f3b0c39eba5084c936677e152f4106c1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "日本青年开始取消吃饭",
+      "rank": 4,
+      "title": "日本青年开始取消吃饭",
+      "topic_id": "231522ac2d765699979922341017fe73c10481"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "王楚钦vs林昀儒",
+      "rank": 5,
+      "title": "王楚钦vs林昀儒",
+      "topic_id": "2315225509753d019ff257f1a521f73af0bbb4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张展硕200米自金牌#",
+      "rank": 6,
+      "title": "张展硕200米自金牌",
+      "topic_id": "231522c86bcc7afb01c534a15ef47686460a72"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "兰香如故",
+      "rank": 7,
+      "title": "兰香如故",
+      "topic_id": "231522c6a223bd3a54fc2af87227153bdbc48d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张展硕恐怖如斯#",
+      "rank": 8,
+      "title": "张展硕恐怖如斯",
+      "topic_id": "2315228dbffe7bc80f5657a1e67e9fa1eeb2b0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "小米发布会",
+      "rank": 9,
+      "title": "小米发布会",
+      "topic_id": "231522b68fdd9715b0bbaba71fa348efdc080e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "WMA微博音乐盛典",
+      "rank": 10,
+      "title": "WMA微博音乐盛典",
+      "topic_id": "23152279b03fc3e84d64b9451b190bc1e7296c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "突然理解了车内20分钟效应",
+      "rank": 11,
+      "title": "突然理解了车内20分钟效应",
+      "topic_id": "23152262ca48dd6260d9e725b17a0792c2150a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "白鹿直播",
+      "rank": 12,
+      "title": "白鹿直播",
+      "topic_id": "23152207374b3ebdfa94b0538fa93d664584a2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#肖战新剧差点被姜妍一电炮呼死#",
+      "rank": 13,
+      "title": "肖战新剧差点被姜妍一电炮呼死",
+      "topic_id": "23152231afe045bfd09de4bc27cc41b5fafa85"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#张展硕没想过能拿到200米自金牌#",
+      "rank": 14,
+      "title": "张展硕没想过能拿到200米自金牌",
+      "topic_id": "23152292b58c5da32cb40fb373d560bb4ac04d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "郑渊洁头部ct 明厨亮灶",
+      "rank": 15,
+      "title": "郑渊洁头部ct 明厨亮灶",
+      "topic_id": "231522f20b7a17e6ba486d559ba16a9cebbc3f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#严浩翔抓丁程鑫手上的大疆拍贺峻霖#",
+      "rank": 16,
+      "title": "严浩翔抓丁程鑫手上的大疆拍贺峻霖",
+      "topic_id": "231522630b3f9f5f35699b74e3587780c722ca"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "王楚钦林昀儒男团半决赛交手",
+      "rank": 17,
+      "title": "王楚钦林昀儒男团半决赛交手",
+      "topic_id": "2315229c5f7f2d73f069c9a1283c5f0cea7ba1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "恋与深空",
+      "rank": 18,
+      "title": "恋与深空",
+      "topic_id": "23152212815f543b6754a64be7a4f150402e82"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "林府大婚",
+      "rank": 19,
+      "title": "林府大婚",
+      "topic_id": "23152275d3c158cc100362442debfb97b7c605"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#网购牛奶倒出来发现是清水#",
+      "rank": 20,
+      "title": "网购牛奶倒出来发现是清水",
+      "topic_id": "2315227d2869779477de132c5d3643e89728ae"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "陈翔 毛晓彤",
+      "rank": 21,
+      "title": "陈翔 毛晓彤",
+      "topic_id": "2315226a4c163f40749d39c8eecc32a2ee5598"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "iPhoneDuo难产",
+      "rank": 22,
+      "title": "iPhoneDuo难产",
+      "topic_id": "2315222904c3800389cf9fe88c37eab40d9c55"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "谢娜状态",
+      "rank": 23,
+      "title": "谢娜状态",
+      "topic_id": "231522f10b1715038b94c3e4f1c909ade79b62"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "陈翔 江铠同",
+      "rank": 24,
+      "title": "陈翔 江铠同",
+      "topic_id": "2315221fdf2d8f2cfd81dadfaffdb8f2ced4f0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#刘耀文永远的宝贝幺儿#",
+      "rank": 25,
+      "title": "刘耀文永远的宝贝幺儿",
+      "topic_id": "23152269f7eb4829b87c05329047a4166b024b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "国乒女团 变阵",
+      "rank": 26,
+      "title": "国乒女团 变阵",
+      "topic_id": "23152278fffff0c36176b8a01072115f734bb4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#33岁女演员确诊癌症#",
+      "rank": 27,
+      "title": "33岁女演员确诊癌症",
+      "topic_id": "231522c347a1ced90459d72829230a1c4601d0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#借给路人手机被塞1条中华1盒月饼#",
+      "rank": 28,
+      "title": "借给路人手机被塞1条中华1盒月饼",
+      "topic_id": "2315224de2037d1ad5487f2a3a486dbde60a6d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "甘肃景区免票只限中国国籍老人",
+      "rank": 29,
+      "title": "甘肃景区免票只限中国国籍老人",
+      "topic_id": "231522068d9434efa1f0c4b3e1040493b6c3e0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#几年换一部iPhone合适#",
+      "rank": 30,
+      "title": "几年换一部iPhone合适",
+      "topic_id": "231522ab4d2c34b1dd5bc7d6403f5ca15a8596"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "阴阳师",
+      "rank": 31,
+      "title": "阴阳师",
+      "topic_id": "2315221148f3a3f29155fc33647303f21d4e0b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#张雨霏说这场比赛太失利太反常#",
+      "rank": 32,
+      "title": "张雨霏说这场比赛太失利太反常",
+      "topic_id": "231522a69e2fa0b5020932b68761adb59a2c33"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#小米18Pro系列新品发布#",
+      "rank": 33,
+      "title": "小米18Pro系列新品发布",
+      "topic_id": "2315226f0b770312c712faf5a60c5770bab072"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "金拱门姜汁撞奶味不全国卖",
+      "rank": 34,
+      "title": "金拱门姜汁撞奶味不全国卖",
+      "topic_id": "231522ffe8fd853b2d9796c2dd1cfed8153783"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#兰香如故云合超过藏海传#",
+      "rank": 35,
+      "title": "兰香如故云合超过藏海传",
+      "topic_id": "231522f1dafc613e73a329900291438f319e40"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#登陆少年发文祝刘耀文生日快乐#",
+      "rank": 36,
+      "title": "登陆少年发文祝刘耀文生日快乐",
+      "topic_id": "231522c6e906183b8a43f17a9d7d2f2435bf56"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张雨霏100蝶摘银#",
+      "rank": 37,
+      "title": "张雨霏100蝶摘银",
+      "topic_id": "2315228917b1408f11827d668eca48e4bed352"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#刘学义谭松韵回复南客女装#",
+      "rank": 38,
+      "title": "刘学义谭松韵回复南客女装",
+      "topic_id": "2315224cd05d3b3b0806bf94a4424c63fb4ad1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "全女综我们喜欢你",
+      "rank": 39,
+      "title": "全女综我们喜欢你",
+      "topic_id": "2315222fff707fee57c20e29411f46b48ac27c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#中方回应高市呼吁删除敌国条款#",
+      "rank": 40,
+      "title": "中方回应高市呼吁删除敌国条款",
+      "topic_id": "231522790cd08f2357815cd96c24bc538c35a6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "WMA微博音乐盛典节目单",
+      "rank": 41,
+      "title": "WMA微博音乐盛典节目单",
+      "topic_id": "23152294bce1e8a1f71f10d02a307e09dbcbaf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "亲戚挑拨上门女婿与岳父三十年不见",
+      "rank": 42,
+      "title": "亲戚挑拨上门女婿与岳父三十年不见",
+      "topic_id": "231522e33739a0dec80dbdc7c4eeffb20b1d95"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "家境不好的人普遍不太会索取",
+      "rank": 43,
+      "title": "家境不好的人普遍不太会索取",
+      "topic_id": "231522a7080c2d7ddff4a4d15f91c03e722879"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "张博恒跳马申诉成功",
+      "rank": 44,
+      "title": "张博恒跳马申诉成功",
+      "topic_id": "231522b803513f4dc76c09ec358bfa1d20cd67"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#于子迪夺400混金牌#",
+      "rank": 45,
+      "title": "于子迪夺400混金牌",
+      "topic_id": "231522cf50c18ffaee18cb44fb5754d65dc338"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#陈翔和江铠同采访时没有社交距离#",
+      "rank": 46,
+      "title": "陈翔和江铠同采访时没有社交距离",
+      "topic_id": "23152201f8a5046b174f153ce48d8e87cefecd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#拼多多雄安公司突破5000人#",
+      "rank": 47,
+      "title": "拼多多雄安公司突破5000人",
+      "topic_id": "2315226aa363102d28ba68042734f882885377"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "兰香如故有总冠名了",
+      "rank": 48,
+      "title": "兰香如故有总冠名了",
+      "topic_id": "23152267f5b45b279cea99f184db04ce38c540"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#徐嘉余中国亚运历史金牌王#",
+      "rank": 49,
+      "title": "徐嘉余中国亚运历史金牌王",
+      "topic_id": "23152223f68f1f316a704f669e10b96030e604"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#兰香听到婆母嫌弃自己转身就走#",
+      "rank": 50,
+      "title": "兰香听到婆母嫌弃自己转身就走",
+      "topic_id": "2315220b47874f6aa6e980beeb7c1037993b6c"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

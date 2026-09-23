@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 6320391439
   },
-  "last_seen_at": "2026-09-23T18:00:00+08:00",
+  "last_seen_at": "2026-09-23T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BA%8E%E5%AD%90%E8%BF%AA%E5%A4%BA400%E6%B7%B7%E9%87%91%E7%89%8C%23%26t%3D3&title=发布媒体",
-    "show_str": "12家媒体",
+    "show_str": "30家媒体",
     "users": [
       {
         "id": 1819318401,
         "idstr": "1819318401",
         "screen_name": "央视网体育",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1644358851,
+        "idstr": "1644358851",
+        "screen_name": "杭州日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1479040710,
+        "idstr": "1479040710",
+        "screen_name": "河南法治报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1647210043,
+        "idstr": "1647210043",
+        "screen_name": "百姓关注",
         "verified": true,
         "verified_type": 3
       },
@@ -37,30 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 5350271203,
-        "idstr": "5350271203",
-        "screen_name": "体坛周报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1913382117,
-        "idstr": "1913382117",
-        "screen_name": "深圳晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1845864154,
-        "idstr": "1845864154",
-        "screen_name": "看看新闻Knews",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1699432410,
-        "idstr": "1699432410",
-        "screen_name": "新华社",
+        "id": 6418607053,
+        "idstr": "6418607053",
+        "screen_name": "广东体育频道",
         "verified": true,
         "verified_type": 3
       }

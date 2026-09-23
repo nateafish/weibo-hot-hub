@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 2656274875
   },
-  "last_seen_at": "2026-09-23T18:00:00+08:00",
+  "last_seen_at": "2026-09-23T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%BC%A0%E5%B1%95%E7%A1%95%E6%81%90%E6%80%96%E5%A6%82%E6%96%AF%23%26t%3D3&title=发布媒体",
-    "show_str": "70家媒体",
+    "show_str": "98家媒体",
     "users": [
       {
         "id": 2656274875,
         "idstr": "2656274875",
         "screen_name": "央视新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1744332207,
+        "idstr": "1744332207",
+        "screen_name": "钱江视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1683472727,
+        "idstr": "1683472727",
+        "screen_name": "央广网",
         "verified": true,
         "verified_type": 3
       },
@@ -37,30 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1812379667,
-        "idstr": "1812379667",
-        "screen_name": "梧州零距离网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1683472727,
-        "idstr": "1683472727",
-        "screen_name": "央广网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7731268962,
-        "idstr": "7731268962",
-        "screen_name": "昌邑融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7387466437,
-        "idstr": "7387466437",
-        "screen_name": "墨江融媒",
+        "id": 1936119834,
+        "idstr": "1936119834",
+        "screen_name": "河北长城网",
         "verified": true,
         "verified_type": 3
       }

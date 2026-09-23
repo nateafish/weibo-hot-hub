@@ -10,7 +10,7 @@
     "status": 2,
     "uid": 1642634100
   },
-  "last_seen_at": "2026-09-08T05:00:00+08:00",
+  "last_seen_at": "2026-09-23T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A%23%26t%3D3&title=发布媒体",
     "show_str": "408家媒体",
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 5286142904,
         "idstr": "5286142904",
         "screen_name": "极果",
@@ -56,17 +63,10 @@
         "screen_name": "第一现场",
         "verified": true,
         "verified_type": 3
-      },
-      {
-        "id": 1638782947,
-        "idstr": "1638782947",
-        "screen_name": "新浪财经",
-        "verified": true,
-        "verified_type": 3
       }
     ]
   },
-  "query": "#小米发布会#",
+  "query": "小米发布会",
   "search_url": "https://s.weibo.com/weibo/%23%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A%23",
   "sub_category": null,
   "summary": "今天小米又发布了哪些新产品？",
