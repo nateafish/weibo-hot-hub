@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2656274875
   },
-  "last_seen_at": "2026-09-23T22:00:00+08:00",
+  "last_seen_at": "2026-09-24T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%AD%E5%9B%BD%E4%BD%93%E6%93%8D%E5%A5%B3%E5%9B%A2%E5%A4%BA%E9%87%91%23%26t%3D3&title=发布媒体",
-    "show_str": "64家媒体",
+    "show_str": "75家媒体",
     "users": [
       {
         "id": 2656274875,
         "idstr": "2656274875",
         "screen_name": "央视新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1698857957,
+        "idstr": "1698857957",
+        "screen_name": "海峡都市报",
         "verified": true,
         "verified_type": 3
       },
@@ -37,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 2632236847,
+        "idstr": "2632236847",
+        "screen_name": "香港文匯網",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2360016402,
         "idstr": "2360016402",
         "screen_name": "宁波日报",
@@ -47,20 +61,6 @@
         "id": 2024623547,
         "idstr": "2024623547",
         "screen_name": "央视一套",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1686546714,
-        "idstr": "1686546714",
-        "screen_name": "环球网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3514732862,
-        "idstr": "3514732862",
-        "screen_name": "广西日报",
         "verified": true,
         "verified_type": 3
       }

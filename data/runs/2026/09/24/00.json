@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-24T00:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#100秒看习近平谈中美相处之道#",
+      "rank": 1,
+      "title": "100秒看习近平谈中美相处之道",
+      "topic_id": "2315228de6021619f4558cef1bbae39b9b95f3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "小米18ProMax透明版上手",
+      "rank": 1,
+      "title": "小米18ProMax透明版上手",
+      "topic_id": "2315229e2c233c5c1645bf3a87a0d804e930bf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#国乒将与日本争冠#",
+      "rank": 2,
+      "title": "国乒将与日本争冠",
+      "topic_id": "231522a399e5264116d0684ab4ce5608595592"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#中国教育普及程度居世界前列#",
+      "rank": 3,
+      "title": "中国教育普及程度居世界前列",
+      "topic_id": "231522dd6be9999e2775f0ca2f1df68eb43b10"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "小米手环11",
+      "rank": 4,
+      "title": "小米手环11",
+      "topic_id": "231522cb6766d397efa2595ebc796d01fad236"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#亚运会体操女子团体决赛#",
+      "rank": 5,
+      "title": "亚运会体操女子团体决赛",
+      "topic_id": "231522d79b029b75cf7defc81df8a1a172a747"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "小米电视",
+      "rank": 6,
+      "title": "小米电视",
+      "topic_id": "2315222f5aae82fdbf9676d2b71411e44ff9e2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "日本男团3比0晋级决赛",
+      "rank": 7,
+      "title": "日本男团3比0晋级决赛",
+      "topic_id": "23152229392678eacd15f096e7d1403ab2ac43"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "兰香如故",
+      "rank": 8,
+      "title": "兰香如故",
+      "topic_id": "231522c6a223bd3a54fc2af87227153bdbc48d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#罗永浩点赞小米18Fold#",
+      "rank": 9,
+      "title": "罗永浩点赞小米18Fold",
+      "topic_id": "231522d50de5142127f2cabc5f481589728f7f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#五哈7阵容原班人马#",
+      "rank": 10,
+      "title": "五哈7阵容原班人马",
+      "topic_id": "2315227c29b04b7700e5bf6f8cc4c77c226294"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#冯小刚直言对不起投资方#",
+      "rank": 11,
+      "title": "冯小刚直言对不起投资方",
+      "topic_id": "231522cf0e6aea275a6df4b646b14638099b49"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "小米18pro价格",
+      "rank": 12,
+      "title": "小米18pro价格",
+      "topic_id": "2315229a6e73638929ee0f043f525f96982bbd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#杨幂骗了全网#",
+      "rank": 13,
+      "title": "杨幂骗了全网",
+      "topic_id": "231522eae2710df3659eb7cb5b40761a661881"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#丁程鑫发了刘耀文未公开手势舞#",
+      "rank": 14,
+      "title": "丁程鑫发了刘耀文未公开手势舞",
+      "topic_id": "231522354d9ff5a49c4bb8faec1d6d015c4c53"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "你们仔细看她的手有着地过吗",
+      "rank": 15,
+      "title": "你们仔细看她的手有着地过吗",
+      "topic_id": "2315224f40c349511f7fbba2b7cc1b271b171a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "程潇闫桉双人舞好辣",
+      "rank": 16,
+      "title": "程潇闫桉双人舞好辣",
+      "topic_id": "231522224be40fd7b21144c161d416a81f92fd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#亚运会冠军发了朱志鑫娃娃#",
+      "rank": 17,
+      "title": "亚运会冠军发了朱志鑫娃娃",
+      "topic_id": "231522675be971dfde058fb4d3f61fd2982aef"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#全球量产最快充电速度#",
+      "rank": 18,
+      "title": "全球量产最快充电速度",
+      "topic_id": "231522c5bbd26f80d353a361e67b82b25cb0d2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#刘耀文回复敖子逸姚景元#",
+      "rank": 19,
+      "title": "刘耀文回复敖子逸姚景元",
+      "topic_id": "231522dcb60f4de647b05d7ff0b12fdc98b6d9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#杨幂把麦克风拿反了#",
+      "rank": 20,
+      "title": "杨幂把麦克风拿反了",
+      "topic_id": "231522180e9e2da75de760d13ba7102bac9cb2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "iPhoneDuo难产",
+      "rank": 21,
+      "title": "iPhoneDuo难产",
+      "topic_id": "2315222904c3800389cf9fe88c37eab40d9c55"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#檀健次孟子义同赴FENDI秀场#",
+      "rank": 22,
+      "title": "檀健次孟子义同赴FENDI秀场",
+      "topic_id": "2315225e06aec7817b18e00214b084d6050c82"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "陈翔 毛晓彤",
+      "rank": 23,
+      "title": "陈翔 毛晓彤",
+      "topic_id": "2315226a4c163f40749d39c8eecc32a2ee5598"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#王楚钦得分许昕激动#",
+      "rank": 24,
+      "title": "王楚钦得分许昕激动",
+      "topic_id": "2315224e5f0b1ea00a08fd8a87b0728761781c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#3名中国女子在泰遭诱骗锁链囚禁#",
+      "rank": 25,
+      "title": "3名中国女子在泰遭诱骗锁链囚禁",
+      "topic_id": "23152229c2000c75550353f3ef486f5b46d2c6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "男友疑似拿别人外卖女生懵了",
+      "rank": 26,
+      "title": "男友疑似拿别人外卖女生懵了",
+      "topic_id": "231522e0779a04bc256223419d73de03ddfdee"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#丁程鑫发过贺峻霖喵喵舞#",
+      "rank": 27,
+      "title": "丁程鑫发过贺峻霖喵喵舞",
+      "topic_id": "2315229e3d64ba3fe9114f8c5347797050a60e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#猫咪见到已故主人的双胞胎兄弟#",
+      "rank": 28,
+      "title": "猫咪见到已故主人的双胞胎兄弟",
+      "topic_id": "2315223e752dc526b0f45c51055f2ea3a411ae"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#实拍王楚钦3比2林昀儒后庆祝#",
+      "rank": 29,
+      "title": "实拍王楚钦3比2林昀儒后庆祝",
+      "topic_id": "231522493fd9937902b9866cd7e2ef5d6cbbd6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#中国体操女团夺金#",
+      "rank": 30,
+      "title": "中国体操女团夺金",
+      "topic_id": "231522a055e534104391873d27f827cd77281a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#谭松韵回应兰香大婚扇巴掌#",
+      "rank": 31,
+      "title": "谭松韵回应兰香大婚扇巴掌",
+      "topic_id": "23152294c8d4cc716666fdad275a5c80daeea7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#中国女子回应在泰国遭囚禁侵犯#",
+      "rank": 32,
+      "title": "中国女子回应在泰国遭囚禁侵犯",
+      "topic_id": "2315222fc87d5a33c2e4e7c845acd0062fde0e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#兰香如故大太太挑儿媳的眼光#",
+      "rank": 33,
+      "title": "兰香如故大太太挑儿媳的眼光",
+      "topic_id": "2315221774046d4534c82d36fa4f344231cf0a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "阴阳师",
+      "rank": 34,
+      "title": "阴阳师",
+      "topic_id": "2315221148f3a3f29155fc33647303f21d4e0b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王源说想看汪苏泷演唱会#",
+      "rank": 35,
+      "title": "王源说想看汪苏泷演唱会",
+      "topic_id": "23152249e99e297ed5cc6f1d13eab369c6ff81"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#白鹿生日直播摸错头了#",
+      "rank": 36,
+      "title": "白鹿生日直播摸错头了",
+      "topic_id": "231522ba35331553968066b09c5f9c2f7fcfe7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#降压疫苗要来了#",
+      "rank": 37,
+      "title": "降压疫苗要来了",
+      "topic_id": "231522f742b1b0024e9a872923ecb50f9847bd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "张云龙 云初令",
+      "rank": 38,
+      "title": "张云龙 云初令",
+      "topic_id": "231522b8125653e9102978bb2a2cfa42e43836"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#日本观众听中国国歌快会唱了#",
+      "rank": 39,
+      "title": "日本观众听中国国歌快会唱了",
+      "topic_id": "231522970a91b8dd403b19fa8d8426bda869ea"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "金拱门姜汁撞奶味不全国卖",
+      "rank": 40,
+      "title": "金拱门姜汁撞奶味不全国卖",
+      "topic_id": "231522ffe8fd853b2d9796c2dd1cfed8153783"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#冯小刚回应垃圾观众言论#",
+      "rank": 41,
+      "title": "冯小刚回应垃圾观众言论",
+      "topic_id": "231522a87f7cd6d77d7d89899ac74160a240d3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#吉利AI智充一车一策#",
+      "rank": 42,
+      "title": "吉利AI智充一车一策",
+      "topic_id": "231522fb45bcd5630678d30e1b562986925d18"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#唐嫣状态好得像女大学生#",
+      "rank": 43,
+      "title": "唐嫣状态好得像女大学生",
+      "topic_id": "231522232842672669b4529e7b9302a47b8321"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "小米18pro",
+      "rank": 44,
+      "title": "小米18pro",
+      "topic_id": "231522b078b22fa49b3c5fba7fc3470ee62a90"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "豆包员工感慨豆包成边缘产品",
+      "rank": 45,
+      "title": "豆包员工感慨豆包成边缘产品",
+      "topic_id": "231522a6de5bf5b23ef68ff992779ed282f057"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "和平精英",
+      "rank": 46,
+      "title": "和平精英",
+      "topic_id": "23152211d6e5c3b8641062e9ae6b7b26604ba5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#气象部门回应成都不明飞行物#",
+      "rank": 47,
+      "title": "气象部门回应成都不明飞行物",
+      "topic_id": "2315229e9619d6c41ea9e00e8b3b608c74ffa7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#王楚钦展望与日本决赛#",
+      "rank": 48,
+      "title": "王楚钦展望与日本决赛",
+      "topic_id": "2315222c480fc0054d6dd57b6ea99a65b29634"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王俊凯红犀牛潮流现场#",
+      "rank": 49,
+      "title": "王俊凯红犀牛潮流现场",
+      "topic_id": "231522dee98b8b4a16a642b96afa84449e6b48"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#茅台解锁音乐盛典专属视角#",
+      "rank": 50,
+      "title": "茅台解锁音乐盛典专属视角",
+      "topic_id": "2315227379d70c142bef5aa294ef744c06315c"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

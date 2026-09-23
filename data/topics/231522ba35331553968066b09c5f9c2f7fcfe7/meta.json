@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 3725773862
   },
-  "last_seen_at": "2026-09-23T22:00:00+08:00",
+  "last_seen_at": "2026-09-24T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%99%BD%E9%B9%BF%E7%94%9F%E6%97%A5%E7%9B%B4%E6%92%AD%E6%91%B8%E9%94%99%E5%A4%B4%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "8家媒体",
+    "show_str": "10家媒体",
     "users": [
+      {
+        "id": 1677991972,
+        "idstr": "1677991972",
+        "screen_name": "晶报",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 6444725927,
         "idstr": "6444725927",
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1725252714,
         "idstr": "1725252714",
         "screen_name": "温度新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1656737654,
-        "idstr": "1656737654",
-        "screen_name": "现代快报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1497087080,
-        "idstr": "1497087080",
-        "screen_name": "羊城晚报",
         "verified": true,
         "verified_type": 3
       }
