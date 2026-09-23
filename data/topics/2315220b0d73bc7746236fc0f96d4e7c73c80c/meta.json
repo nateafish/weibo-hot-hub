@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 5538664098
   },
-  "last_seen_at": "2026-09-23T11:00:00+08:00",
+  "last_seen_at": "2026-09-23T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%82%96%E6%88%98%E8%A6%81%E6%90%9E%E5%94%B1%E8%B7%B3%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "25家媒体",
     "users": [
       {
-        "id": 2647971081,
-        "idstr": "2647971081",
-        "screen_name": "时速新闻",
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7422806367,
+        "idstr": "7422806367",
+        "screen_name": "中网传播",
         "verified": true,
         "verified_type": 3
       },
@@ -28,6 +35,34 @@
         "screen_name": "搜狐音乐",
         "verified": true,
         "verified_type": 2
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7708039348,
+        "idstr": "7708039348",
+        "screen_name": "北青娱见",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7090942012,
+        "idstr": "7090942012",
+        "screen_name": "星同事",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6444725927,
+        "idstr": "6444725927",
+        "screen_name": "吉祥新闻",
+        "verified": true,
+        "verified_type": 3
       }
     ]
   },
