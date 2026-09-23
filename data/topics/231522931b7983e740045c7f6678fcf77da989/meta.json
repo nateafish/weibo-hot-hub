@@ -3,15 +3,22 @@
   "created_at": 1790072849,
   "first_seen_at": "2026-09-23T06:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-23T06:00:00+08:00",
+  "last_seen_at": "2026-09-23T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4+%E6%88%91%E5%BE%88%E4%BC%9A%E9%92%93%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "2家媒体",
     "users": [
       {
         "id": 2921243620,
         "idstr": "2921243620",
         "screen_name": "新浪明星",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1867427515,
+        "idstr": "1867427515",
+        "screen_name": "新派新闻",
         "verified": true,
         "verified_type": 3
       }

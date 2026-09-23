@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 1784473157
   },
-  "last_seen_at": "2026-09-23T06:00:00+08:00",
+  "last_seen_at": "2026-09-23T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E7%A7%B0%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%87%AA%E5%AF%BC%E8%87%AA%E6%BC%94%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "7家媒体",
     "users": [
       {
         "id": 1784473157,
         "idstr": "1784473157",
         "screen_name": "中国新闻网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1691507817,
+        "idstr": "1691507817",
+        "screen_name": "新闻日日睇",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6890796357,
+        "idstr": "6890796357",
+        "screen_name": "日照日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2118205862,
+        "idstr": "2118205862",
+        "screen_name": "宁夏新闻网",
         "verified": true,
         "verified_type": 3
       },
@@ -30,16 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 1708763410,
-        "idstr": "1708763410",
-        "screen_name": "浙江日报",
+        "id": 1893801487,
+        "idstr": "1893801487",
+        "screen_name": "微天下",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1691507817,
-        "idstr": "1691507817",
-        "screen_name": "新闻日日睇",
+        "id": 1708763410,
+        "idstr": "1708763410",
+        "screen_name": "浙江日报",
         "verified": true,
         "verified_type": 3
       }
