@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 2258727970
   },
-  "last_seen_at": "2026-09-23T09:00:00+08:00",
+  "last_seen_at": "2026-09-23T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%84%9F%E5%8F%B9%E4%B8%AD%E5%9B%BD%E5%A3%AE%E4%B8%BD%23%26t%3D3&title=发布媒体",
-    "show_str": "60家媒体",
+    "show_str": "158家媒体",
     "users": [
       {
         "id": 2258727970,
         "idstr": "2258727970",
         "screen_name": "央视财经",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5608027665,
+        "idstr": "5608027665",
+        "screen_name": "中国环境",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3275115274,
+        "idstr": "3275115274",
+        "screen_name": "中国吉林网",
         "verified": true,
         "verified_type": 3
       },
@@ -30,23 +44,9 @@
         "verified_type": 3
       },
       {
-        "id": 1751714412,
-        "idstr": "1751714412",
-        "screen_name": "大皖新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5762891674,
-        "idstr": "5762891674",
-        "screen_name": "密度新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2660807713,
-        "idstr": "2660807713",
-        "screen_name": "财经新媒体",
+        "id": 2115259662,
+        "idstr": "2115259662",
+        "screen_name": "洪观新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -58,9 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1651428902,
-        "idstr": "1651428902",
-        "screen_name": "21世纪经济报道",
+        "id": 1700720163,
+        "idstr": "1700720163",
+        "screen_name": "钱江晚报",
         "verified": true,
         "verified_type": 3
       }
