@@ -3,11 +3,61 @@
   "created_at": 1790205872,
   "first_seen_at": "2026-09-24T07:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-24T07:00:00+08:00",
+  "last_seen_at": "2026-09-24T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9E%97%E8%AF%97%E6%A0%8B+%E6%89%93%E7%96%AF%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "22家媒体",
+    "users": [
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1887344341,
+        "idstr": "1887344341",
+        "screen_name": "观察者网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6928905395,
+        "idstr": "6928905395",
+        "screen_name": "大风视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5762891674,
+        "idstr": "5762891674",
+        "screen_name": "密度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5167503212,
+        "idstr": "5167503212",
+        "screen_name": "贵州日报官微",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3048800300,
+        "idstr": "3048800300",
+        "screen_name": "新浪圈子",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "林诗栋 打疯了",
   "search_url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B%20%E6%89%93%E7%96%AF%E4%BA%86%23",

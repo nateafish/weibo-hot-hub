@@ -1,0 +1,528 @@
+{
+  "captured_at": "2026-09-24T09:00:00+08:00",
+  "hotlist_count": 50,
+  "pages_per_topic": 1,
+  "selected_count": 50,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 0,
+    "metrics_saved": 50,
+    "posts_saved": 50
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#中美关系三个没有变#",
+      "rank": 1,
+      "title": "中美关系三个没有变",
+      "topic_id": "231522a0a3ab60f5efe06935ad5c6d2fed757b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#中美元首半年内实现国事互访#",
+      "rank": 1,
+      "title": "中美元首半年内实现国事互访",
+      "topic_id": "231522a28534fae918775e54d0e64ee2ac1c4d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "诺贝尔奖好像能保研",
+      "rank": 2,
+      "title": "诺贝尔奖好像能保研",
+      "topic_id": "23152268a65dbbee50987c186779a30f85b7df"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#一张物流网跑出中国加速度#",
+      "rank": 3,
+      "title": "一张物流网跑出中国加速度",
+      "topic_id": "231522b6a4141579ed52097b31ee7a9c902010"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#特朗普抵达机场#",
+      "rank": 4,
+      "title": "特朗普抵达机场",
+      "topic_id": "2315226a9473b8f545fdc30123890a6cc88fd7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#中美元首华盛顿会晤#",
+      "rank": 5,
+      "title": "中美元首华盛顿会晤",
+      "topic_id": "231522d7799eadfd00dd201e5dc3ee6d44a059"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "林诗栋 打疯了",
+      "rank": 6,
+      "title": "林诗栋 打疯了",
+      "topic_id": "23152238b023d651d94e795af3bd040fd4ded3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "豆包员工感慨豆包成边缘产品",
+      "rank": 7,
+      "title": "豆包员工感慨豆包成边缘产品",
+      "topic_id": "231522a6de5bf5b23ef68ff992779ed282f057"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#降压疫苗要来了#",
+      "rank": 8,
+      "title": "降压疫苗要来了",
+      "topic_id": "231522f742b1b0024e9a872923ecb50f9847bd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#BLG丹尼因BP分歧发火#",
+      "rank": 9,
+      "title": "BLG丹尼因BP分歧发火",
+      "topic_id": "231522cbaba3192094a722d9b9181ecd0658a6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#今天亚运会决出55金#",
+      "rank": 10,
+      "title": "今天亚运会决出55金",
+      "topic_id": "231522802bf2e1b106e3c30a2968a60272e7d7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "重庆艾滋病告知配偶成法定义务",
+      "rank": 11,
+      "title": "重庆艾滋病告知配偶成法定义务",
+      "topic_id": "23152254914fdcc15292bfb43665958e2c3815"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "杨幂被送马吉拉外套",
+      "rank": 12,
+      "title": "杨幂被送马吉拉外套",
+      "topic_id": "2315229ffcc705483cb378fb6d53331eb2949b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "女生在日本点大份被劝点小份",
+      "rank": 13,
+      "title": "女生在日本点大份被劝点小份",
+      "topic_id": "2315229c7ab12b468b0493cacfdb997e41b579"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "家族多人患癌后想做的事就去做",
+      "rank": 14,
+      "title": "家族多人患癌后想做的事就去做",
+      "topic_id": "2315226252a9d5ea2982ad90ba5c337efa31b9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#专家称美国总统接机非常罕见#",
+      "rank": 15,
+      "title": "专家称美国总统接机非常罕见",
+      "topic_id": "23152226890548769cad87f39b07d53adb87cf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "SM女团还是这么有阶级感",
+      "rank": 16,
+      "title": "SM女团还是这么有阶级感",
+      "topic_id": "231522bbf38f3abb56f245d33a52921155a88e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#花少2搬箱子楼梯实际长这样#",
+      "rank": 17,
+      "title": "花少2搬箱子楼梯实际长这样",
+      "topic_id": "2315228594e0516dd82d632f21dceddf135b24"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#王源为了拍汪苏泷同框也是绞尽脑汁#",
+      "rank": 18,
+      "title": "王源为了拍汪苏泷同框也是绞尽脑汁",
+      "topic_id": "231522dbfbd83bd4db0c14a0886612b168e06d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张雨霏刷新中国女子游泳亚运金牌纪录#",
+      "rank": 19,
+      "title": "张雨霏刷新中国女子游泳亚运金牌纪录",
+      "topic_id": "231522fc611191045f8fed9a273e3586c3c27f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "郭士强 周琦",
+      "rank": 20,
+      "title": "郭士强 周琦",
+      "topic_id": "23152265816aa5afa988232329aa85fa70752c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#杨幂骗了全网#",
+      "rank": 21,
+      "title": "杨幂骗了全网",
+      "topic_id": "231522eae2710df3659eb7cb5b40761a661881"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#3名中国女子在泰遭诱骗锁链囚禁#",
+      "rank": 22,
+      "title": "3名中国女子在泰遭诱骗锁链囚禁",
+      "topic_id": "23152229c2000c75550353f3ef486f5b46d2c6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#刘耀文两个未公开视频都带着丁程鑫的水印#",
+      "rank": 23,
+      "title": "刘耀文两个未公开视频都带着丁程鑫的水印",
+      "topic_id": "231522baa42574f3fca69e109204e23b185f98"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "加拿大游客称中国街头喝酒自由",
+      "rank": 24,
+      "title": "加拿大游客称中国街头喝酒自由",
+      "topic_id": "2315223453589943fe467b8e0dcd0c0f6260a1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "小米18ProMax透明版上手",
+      "rank": 25,
+      "title": "小米18ProMax透明版上手",
+      "topic_id": "2315229e2c233c5c1645bf3a87a0d804e930bf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#能看出王源不经常玩手机#",
+      "rank": 26,
+      "title": "能看出王源不经常玩手机",
+      "topic_id": "2315222f3b35a70e01440f869013c6f98a0a94"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#跨越太平洋的历史性握手#",
+      "rank": 27,
+      "title": "跨越太平洋的历史性握手",
+      "topic_id": "231522a2eb0ebb2601869911ab04591b11089b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#肖战衣服上的剪影#",
+      "rank": 28,
+      "title": "肖战衣服上的剪影",
+      "topic_id": "231522cd3ad62d1353e8f599c88a27272666e8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#美科技股集体大跌#",
+      "rank": 29,
+      "title": "美科技股集体大跌",
+      "topic_id": "2315227b277b21cd7d6de0d1f278c4185c18da"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#林锦岐迷晕许兰香#",
+      "rank": 31,
+      "title": "林锦岐迷晕许兰香",
+      "topic_id": "231522f98be7c1e99f4863096b6be53867d55f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "男友疑似拿别人外卖女生懵了",
+      "rank": 32,
+      "title": "男友疑似拿别人外卖女生懵了",
+      "topic_id": "231522e0779a04bc256223419d73de03ddfdee"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#郭宇欣风波后状态#",
+      "rank": 33,
+      "title": "郭宇欣风波后状态",
+      "topic_id": "231522a2358939a9cfd46900a49957a3d132f2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "吴艳妮 陪跑",
+      "rank": 34,
+      "title": "吴艳妮 陪跑",
+      "topic_id": "231522422be334de98f7c9431de6b6711f6360"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#河南矿山发现金被指作秀员工家属力挺#",
+      "rank": 35,
+      "title": "河南矿山发现金被指作秀员工家属力挺",
+      "topic_id": "231522143edc23d47deb49d56a0e2b98142b67"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#山姆采购换帅能救选品吗#",
+      "rank": 36,
+      "title": "山姆采购换帅能救选品吗",
+      "topic_id": "231522b0041ad9f13db40ae8fad319002a4f80"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#Knight谈退役#",
+      "rank": 37,
+      "title": "Knight谈退役",
+      "topic_id": "23152207e348d8d5bd9f3427e967207d600cb9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#不二之臣吻戏尺度#",
+      "rank": 38,
+      "title": "不二之臣吻戏尺度",
+      "topic_id": "2315229635e241d8eec816980ae461e081a9e8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#一个视频解决所有铁锅粘锅问题#",
+      "rank": 39,
+      "title": "一个视频解决所有铁锅粘锅问题",
+      "topic_id": "2315221f01f491cbb62d637b7a027e909b6f75"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#在泰遭囚禁女子身穿睡衣神情惊恐#",
+      "rank": 40,
+      "title": "在泰遭囚禁女子身穿睡衣神情惊恐",
+      "topic_id": "23152206d7ceb0a873dbd79aee794451fc1590"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#刘耀文回复宋亚轩不喊哥#",
+      "rank": 41,
+      "title": "刘耀文回复宋亚轩不喊哥",
+      "topic_id": "231522c6380f1581dc3fa91e1ca4a31937817f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#马克龙急了#",
+      "rank": 42,
+      "title": "马克龙急了",
+      "topic_id": "231522fc9a5e4a61a89daff63d58729f705807"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#国乒决赛冲金#",
+      "rank": 43,
+      "title": "国乒决赛冲金",
+      "topic_id": "231522fe3adc7a9a6df00798a7d4599a18fd6f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#他以为她吃喜饼只是饿了#",
+      "rank": 44,
+      "title": "他以为她吃喜饼只是饿了",
+      "topic_id": "23152202fadb2206472f57a39871d56d24a003"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#张展硕游泳队春晚跳舞视频又火了#",
+      "rank": 45,
+      "title": "张展硕游泳队春晚跳舞视频又火了",
+      "topic_id": "231522f49deabb7cb4f14d36e940dbd10e8e5c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#伊朗总统联大发言美国代表离场#",
+      "rank": 46,
+      "title": "伊朗总统联大发言美国代表离场",
+      "topic_id": "2315220506ee251284c1415b0dfb03384cb3b6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "小米电视",
+      "rank": 47,
+      "title": "小米电视",
+      "topic_id": "2315222f5aae82fdbf9676d2b71411e44ff9e2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#内娱第一女团Red要了#",
+      "rank": 48,
+      "title": "内娱第一女团Red要了",
+      "topic_id": "23152261fa0476f29aa435d9de8b32a7a3192b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "你们仔细看她的手有着地过吗",
+      "rank": 49,
+      "title": "你们仔细看她的手有着地过吗",
+      "topic_id": "2315224f40c349511f7fbba2b7cc1b271b171a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "2026年亚运会",
+      "rank": 50,
+      "title": "2026年亚运会",
+      "topic_id": "231522110fd828b56cac01a41da33bf854e064"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
