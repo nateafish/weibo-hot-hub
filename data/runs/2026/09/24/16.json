@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-24T16:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#习主席访问美国#",
+      "rank": 1,
+      "title": "习主席访问美国",
+      "topic_id": "231522398c16dadf9b23ce1b2f38b198c414d4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#中美元首华盛顿再次见面#",
+      "rank": 1,
+      "title": "中美元首华盛顿再次见面",
+      "topic_id": "2315220c150460f8d0c2207933059bd8f9aca6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "张博恒单项弃权",
+      "rank": 2,
+      "title": "张博恒单项弃权",
+      "topic_id": "2315222bc0ee258087d08a41d0df1995178127"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#卫星互联网低轨26组卫星成功发射#",
+      "rank": 3,
+      "title": "卫星互联网低轨26组卫星成功发射",
+      "topic_id": "231522c34b6217e8d8899617f51937662f0c6d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#兰香如故下周单更#",
+      "rank": 4,
+      "title": "兰香如故下周单更",
+      "topic_id": "23152265e23e62935f3f5b20ebd184c6fc0f98"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "亚运会",
+      "rank": 5,
+      "title": "亚运会",
+      "topic_id": "231522b9fedef28ddcf151d85c04b905c0ad5c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "原来这才是行李箱的正确装法",
+      "rank": 6,
+      "title": "原来这才是行李箱的正确装法",
+      "topic_id": "2315227ba1c29819df88675e59baf236e5c16c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#油价25日起上调#",
+      "rank": 7,
+      "title": "油价25日起上调",
+      "topic_id": "231522a593b3e4fdad708df8ad12b22ca0a629"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "考研",
+      "rank": 8,
+      "title": "考研",
+      "topic_id": "23152245bb403e6f6aeb6192eb4e337d4aa9fe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#年轻人真的很擅长让自己幸福#",
+      "rank": 9,
+      "title": "年轻人真的很擅长让自己幸福",
+      "topic_id": "231522df2fc4db99e41dddef8de50be61857cc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#国乒vs日本决赛时间#",
+      "rank": 10,
+      "title": "国乒vs日本决赛时间",
+      "topic_id": "231522a2e1ad7eedcfd6e49b61da51190f1018"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "福建板块",
+      "rank": 11,
+      "title": "福建板块",
+      "topic_id": "2315221f319bad861e969ee19b44661caba698"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#二胎生日恰好是坠亡女儿忌日#",
+      "rank": 12,
+      "title": "二胎生日恰好是坠亡女儿忌日",
+      "topic_id": "231522d7818d56a5e45d814ee300448abcd941"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "A股",
+      "rank": 13,
+      "title": "A股",
+      "topic_id": "2315229ff55ef4a3e846e498a336fdeb06cbdb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "保研",
+      "rank": 14,
+      "title": "保研",
+      "topic_id": "231522cfff29348c80711c7ce2c4aa5f756c71"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#早春晴朗获得20万奖金#",
+      "rank": 15,
+      "title": "早春晴朗获得20万奖金",
+      "topic_id": "231522ddbb2dac8fcb485e4cd1eef265374a6e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#荣耀Magic9拍的肖战好有戏#",
+      "rank": 16,
+      "title": "荣耀Magic9拍的肖战好有戏",
+      "topic_id": "2315226708814923a4360e30d15c40c74098c3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#国羽女团夺冠后第一反应是抱紧队友#",
+      "rank": 17,
+      "title": "国羽女团夺冠后第一反应是抱紧队友",
+      "topic_id": "2315227955e5a19b1597bac916d66b74629cfe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王祖贤回应变样了#",
+      "rank": 18,
+      "title": "王祖贤回应变样了",
+      "topic_id": "2315221b11e6abcc40748d81e87d76fac27367"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "油价",
+      "rank": 19,
+      "title": "油价",
+      "topic_id": "231522795ccd756dc3cabecdd2d9bbe92d6619"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#阿Sa承认冻卵但会优先自然受孕#",
+      "rank": 20,
+      "title": "阿Sa承认冻卵但会优先自然受孕",
+      "topic_id": "231522a0f3bb65bb06748941279cb87b596b60"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#有共有产权房的人被迫假离婚#",
+      "rank": 21,
+      "title": "有共有产权房的人被迫假离婚",
+      "topic_id": "23152247b2b3e4485849ed6acc50d8ebb1e77d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#程潇闫桉两个完全魅魔#",
+      "rank": 22,
+      "title": "程潇闫桉两个完全魅魔",
+      "topic_id": "23152224c4cc7c8e2258554e7e8a6931652be8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#游本昌朋友圈置顶是胡歌#",
+      "rank": 23,
+      "title": "游本昌朋友圈置顶是胡歌",
+      "topic_id": "2315228b2d54bde4a430b14528fc4552d42421"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#龚俊新代言官宣好有腔调#",
+      "rank": 24,
+      "title": "龚俊新代言官宣好有腔调",
+      "topic_id": "231522389ee9d7364094e6bd57553cd9b8d6a7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#梅姨狱中托儿子算命问该不该交代#",
+      "rank": 25,
+      "title": "梅姨狱中托儿子算命问该不该交代",
+      "topic_id": "231522df5fd3880798a88ca2fdbfa1ac0252c4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "一笑倾城 王朱悦",
+      "rank": 26,
+      "title": "一笑倾城 王朱悦",
+      "topic_id": "23152214816d5376ebcdd5887d7021566cd643"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#迅猛龙赚钱真的太厉害了#",
+      "rank": 27,
+      "title": "迅猛龙赚钱真的太厉害了",
+      "topic_id": "2315225db195943fd4ea961e2312405e466876"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#众星悼念游本昌#",
+      "rank": 28,
+      "title": "众星悼念游本昌",
+      "topic_id": "231522f1ff261a093f0612b09d0de0ca600758"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "美团 抽成",
+      "rank": 29,
+      "title": "美团 抽成",
+      "topic_id": "2315227d7c254b9c2c741acb0c9ea23a953fb0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#游本昌去世#",
+      "rank": 30,
+      "title": "游本昌去世",
+      "topic_id": "2315228b7b422276f5c3da3fc88d9025047855"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#特朗普提前近1小时抵达机场准备迎接#",
+      "rank": 31,
+      "title": "特朗普提前近1小时抵达机场准备迎接",
+      "topic_id": "231522e3dd4a1dd35aa6f5bd4aca470998c2d1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "鹿晗 五哈嘉年华",
+      "rank": 32,
+      "title": "鹿晗 五哈嘉年华",
+      "topic_id": "231522c86848ed4fb468f96555c183c606f12d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "林绣茹 和离",
+      "rank": 33,
+      "title": "林绣茹 和离",
+      "topic_id": "231522c74858d9d8f6101902aba91cb50b9030"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#国羽女团3比0日本女团#",
+      "rank": 34,
+      "title": "国羽女团3比0日本女团",
+      "topic_id": "231522d5416912fd2f35aa19fdca607052d1c9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#肖战新剧好多熟人#",
+      "rank": 35,
+      "title": "肖战新剧好多熟人",
+      "topic_id": "231522cdbc60dcf15d7d24acf444af591b6cc8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#杨玏王玉雯体面#",
+      "rank": 36,
+      "title": "杨玏王玉雯体面",
+      "topic_id": "23152234cf3eaf19b2582eaddccf997ffc4950"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "土豆真的是很争气的食物",
+      "rank": 37,
+      "title": "土豆真的是很争气的食物",
+      "topic_id": "2315229d70e51f229005cc8ed61ac70a59dbc5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#中美元首会晤国宴一票难求#",
+      "rank": 38,
+      "title": "中美元首会晤国宴一票难求",
+      "topic_id": "231522449f2b11408883d7ed4b717e3c7143d3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#杨幂骗了全网#",
+      "rank": 39,
+      "title": "杨幂骗了全网",
+      "topic_id": "231522eae2710df3659eb7cb5b40761a661881"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#TF家族中秋活动#",
+      "rank": 40,
+      "title": "TF家族中秋活动",
+      "topic_id": "231522d414f328178dedd8368cb39113cccbe9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#范玮琪哽咽感谢他能活下来#",
+      "rank": 41,
+      "title": "范玮琪哽咽感谢他能活下来",
+      "topic_id": "231522591652031ea9b779064c0839c39bac21"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "杨玏 王玉雯",
+      "rank": 42,
+      "title": "杨玏 王玉雯",
+      "topic_id": "23152217ec00c7fcb5519fde1e7b39c5bdc18e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "易患脑梗的人有8大共性",
+      "rank": 43,
+      "title": "易患脑梗的人有8大共性",
+      "topic_id": "2315226ecb97dcd3667401549895d0392f63e3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#腾讯龙虾宣布停运#",
+      "rank": 44,
+      "title": "腾讯龙虾宣布停运",
+      "topic_id": "2315226d8ceda6dd5ab0745e18d263c22940ef"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#女子失独后怀第三胎婆婆希望是孙子#",
+      "rank": 45,
+      "title": "女子失独后怀第三胎婆婆希望是孙子",
+      "topic_id": "231522e225c65c7d7b03649a81f66fa4b1cd98"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "宝总的爷叔走了",
+      "rank": 46,
+      "title": "宝总的爷叔走了",
+      "topic_id": "231522da712512e04644cf09e96f7f60b731be"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#梅姨被抓时身边儿子也是买来的#",
+      "rank": 47,
+      "title": "梅姨被抓时身边儿子也是买来的",
+      "topic_id": "2315226aea14cf0736df43841630c77fa1792a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#AI重构智能手机新体验#",
+      "rank": 48,
+      "title": "AI重构智能手机新体验",
+      "topic_id": "231522df67f332563bab65e292d85ae0f7df79"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#郭宇欣公司长期拖欠演艺报酬#",
+      "rank": 49,
+      "title": "郭宇欣公司长期拖欠演艺报酬",
+      "topic_id": "231522d9250aaf87457aefd7d99aa8f9e66192"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#五哈嘉年华#",
+      "rank": 50,
+      "title": "五哈嘉年华",
+      "topic_id": "231522d2893603cbf85018821936dd60f73c44"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
