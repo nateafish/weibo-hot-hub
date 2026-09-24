@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-24T11:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#中美关系三个没有变#",
+      "rank": 1,
+      "title": "中美关系三个没有变",
+      "topic_id": "231522a0a3ab60f5efe06935ad5c6d2fed757b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#中美元首半年内实现国事互访#",
+      "rank": 1,
+      "title": "中美元首半年内实现国事互访",
+      "topic_id": "231522a28534fae918775e54d0e64ee2ac1c4d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#游本昌去世#",
+      "rank": 2,
+      "title": "游本昌去世",
+      "topic_id": "2315228b7b422276f5c3da3fc88d9025047855"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#一张物流网跑出中国加速度#",
+      "rank": 3,
+      "title": "一张物流网跑出中国加速度",
+      "topic_id": "231522b6a4141579ed52097b31ee7a9c902010"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "诺贝尔奖好像能保研",
+      "rank": 4,
+      "title": "诺贝尔奖好像能保研",
+      "topic_id": "23152268a65dbbee50987c186779a30f85b7df"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#特朗普表示这是一个伟大的时刻#",
+      "rank": 5,
+      "title": "特朗普表示这是一个伟大的时刻",
+      "topic_id": "23152245e6bf8a1d05746916e962367c4c3210"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#特朗普说各领域领军人物都想来欢迎宴会#",
+      "rank": 6,
+      "title": "特朗普说各领域领军人物都想来欢迎宴会",
+      "topic_id": "23152289a541abbe66ccd3543dfb00abb880c6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "豆包员工感慨豆包成边缘产品",
+      "rank": 7,
+      "title": "豆包员工感慨豆包成边缘产品",
+      "topic_id": "231522a6de5bf5b23ef68ff992779ed282f057"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "林诗栋 打疯了",
+      "rank": 8,
+      "title": "林诗栋 打疯了",
+      "topic_id": "23152238b023d651d94e795af3bd040fd4ded3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#2027考研时间定了#",
+      "rank": 9,
+      "title": "2027考研时间定了",
+      "topic_id": "231522f9e83acc5d68035c2f68fd6941071c71"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#特朗普抵达机场#",
+      "rank": 10,
+      "title": "特朗普抵达机场",
+      "topic_id": "2315226a9473b8f545fdc30123890a6cc88fd7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "杭州顶流销金窟彻底安静",
+      "rank": 11,
+      "title": "杭州顶流销金窟彻底安静",
+      "topic_id": "231522c63308fbf3140ca209c24cd59c74e8ab"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "女生在日本点大份被劝点小份",
+      "rank": 12,
+      "title": "女生在日本点大份被劝点小份",
+      "topic_id": "2315229c7ab12b468b0493cacfdb997e41b579"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#送别游本昌#",
+      "rank": 13,
+      "title": "送别游本昌",
+      "topic_id": "2315222becab8192c2c36b78c8d28cfd2a03ef"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "家族多人患癌后想做的事就去做",
+      "rank": 14,
+      "title": "家族多人患癌后想做的事就去做",
+      "topic_id": "2315226252a9d5ea2982ad90ba5c337efa31b9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "重庆艾滋病告知配偶成法定义务",
+      "rank": 15,
+      "title": "重庆艾滋病告知配偶成法定义务",
+      "topic_id": "23152254914fdcc15292bfb43665958e2c3815"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "济公",
+      "rank": 16,
+      "title": "济公",
+      "topic_id": "23152259c343340c6911587efa47ee1dd3a324"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#杭州女童坠亡6年妈妈即将生三胎#",
+      "rank": 17,
+      "title": "杭州女童坠亡6年妈妈即将生三胎",
+      "topic_id": "23152264bb74a83b3d1d4bfcdc7b742fb3bb27"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "刘学义演技",
+      "rank": 18,
+      "title": "刘学义演技",
+      "topic_id": "2315222509c01c8686c97d7ae0a94f2fc51998"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#张展硕快追上的时候日本解说沉默了几秒#",
+      "rank": 19,
+      "title": "张展硕快追上的时候日本解说沉默了几秒",
+      "topic_id": "2315224e63f9e0e59ab049f9ca233c898ab8c8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#专家称美国总统接机非常罕见#",
+      "rank": 20,
+      "title": "专家称美国总统接机非常罕见",
+      "topic_id": "23152226890548769cad87f39b07d53adb87cf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#杨幂骗了全网#",
+      "rank": 21,
+      "title": "杨幂骗了全网",
+      "topic_id": "231522eae2710df3659eb7cb5b40761a661881"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "豆包在最后一刻也不装了",
+      "rank": 22,
+      "title": "豆包在最后一刻也不装了",
+      "topic_id": "231522c03844978ab582599ea176298a5dbd05"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#花少2搬箱子楼梯实际长这样#",
+      "rank": 23,
+      "title": "花少2搬箱子楼梯实际长这样",
+      "topic_id": "2315228594e0516dd82d632f21dceddf135b24"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "全靠姓氏拯救的名字",
+      "rank": 24,
+      "title": "全靠姓氏拯救的名字",
+      "topic_id": "231522c121a792849ca8cd57d0519f440cd8e6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "A股",
+      "rank": 25,
+      "title": "A股",
+      "topic_id": "2315229ff55ef4a3e846e498a336fdeb06cbdb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "杨幂被送马吉拉外套",
+      "rank": 26,
+      "title": "杨幂被送马吉拉外套",
+      "topic_id": "2315229ffcc705483cb378fb6d53331eb2949b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "亚运会羽毛球",
+      "rank": 27,
+      "title": "亚运会羽毛球",
+      "topic_id": "23152294092acc2b64bb93c21604d573463cf7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#BLG丹尼因BP分歧发火#",
+      "rank": 28,
+      "title": "BLG丹尼因BP分歧发火",
+      "topic_id": "231522cbaba3192094a722d9b9181ecd0658a6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#汪顺晒多年赛场对比照#",
+      "rank": 29,
+      "title": "汪顺晒多年赛场对比照",
+      "topic_id": "2315228a77e8aac28f2799d1d73589e728757f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#王源人到了一定年纪的聊天姿势#",
+      "rank": 30,
+      "title": "王源人到了一定年纪的聊天姿势",
+      "topic_id": "2315228cd722f56c3224d84723f012a6e1bb51"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "Xun 丹尼",
+      "rank": 31,
+      "title": "Xun 丹尼",
+      "topic_id": "231522730ed773927bfdf9bfab239c7ce5f9bf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#伊朗总统抵达纽约#",
+      "rank": 32,
+      "title": "伊朗总统抵达纽约",
+      "topic_id": "231522979d8225763d8ebad5a4a6dbf53888f9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#中美元首华盛顿会晤#",
+      "rank": 33,
+      "title": "中美元首华盛顿会晤",
+      "topic_id": "231522d7799eadfd00dd201e5dc3ee6d44a059"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#国乒决赛冲金#",
+      "rank": 34,
+      "title": "国乒决赛冲金",
+      "topic_id": "231522fe3adc7a9a6df00798a7d4599a18fd6f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#3名中国女子在泰遭诱骗锁链囚禁#",
+      "rank": 35,
+      "title": "3名中国女子在泰遭诱骗锁链囚禁",
+      "topic_id": "23152229c2000c75550353f3ef486f5b46d2c6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "NBA中国赛2026",
+      "rank": 36,
+      "title": "NBA中国赛2026",
+      "topic_id": "23152232f69b333ab854a2345a6900ff4f674a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#林锦岐迷晕许兰香#",
+      "rank": 37,
+      "title": "林锦岐迷晕许兰香",
+      "topic_id": "231522f98be7c1e99f4863096b6be53867d55f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#视障女子被问别用盲杖迪士尼道歉#",
+      "rank": 38,
+      "title": "视障女子被问别用盲杖迪士尼道歉",
+      "topic_id": "2315224dcb5b7355ebea3d7d8908c91e7c3ede"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "总结婚姻经验有多心酸",
+      "rank": 39,
+      "title": "总结婚姻经验有多心酸",
+      "topic_id": "2315228d8e86809a59fc490b22f899ae6ccf6f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "林心如苏有朋古巨基合影",
+      "rank": 40,
+      "title": "林心如苏有朋古巨基合影",
+      "topic_id": "2315228dadc747976a80d0752dbbcff3ed338a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#毛晓彤连夜搬家#",
+      "rank": 41,
+      "title": "毛晓彤连夜搬家",
+      "topic_id": "2315228135ccb65782b562ab215326f54cdc60"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "泽连斯基称坐导弹去莫斯科",
+      "rank": 42,
+      "title": "泽连斯基称坐导弹去莫斯科",
+      "topic_id": "231522ffe8db8516bbba57ab087b1639454922"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "SM女团还是这么有阶级感",
+      "rank": 43,
+      "title": "SM女团还是这么有阶级感",
+      "topic_id": "231522bbf38f3abb56f245d33a52921155a88e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#刘耀文两个未公开视频都带着丁程鑫的水印#",
+      "rank": 44,
+      "title": "刘耀文两个未公开视频都带着丁程鑫的水印",
+      "topic_id": "231522baa42574f3fca69e109204e23b185f98"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "我文化水平看完觉得学海无涯",
+      "rank": 45,
+      "title": "我文化水平看完觉得学海无涯",
+      "topic_id": "23152230490a98fb62cf27a784779b6f6e1331"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "林锦岐凭腰扇字迹识破兰香",
+      "rank": 46,
+      "title": "林锦岐凭腰扇字迹识破兰香",
+      "topic_id": "2315229f9f4c30197e04c8843160acf18b08f4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "小米OPPOvivo定价对比",
+      "rank": 47,
+      "title": "小米OPPOvivo定价对比",
+      "topic_id": "2315223a59cef93a055a98b7bf20667af14d20"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "林锦岐 正宫气度",
+      "rank": 48,
+      "title": "林锦岐 正宫气度",
+      "topic_id": "2315229c200e7472918de91eff35656a664f21"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#降压疫苗要来了#",
+      "rank": 49,
+      "title": "降压疫苗要来了",
+      "topic_id": "231522f742b1b0024e9a872923ecb50f9847bd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#林诗栋说日本队的厚度当今最强#",
+      "rank": 50,
+      "title": "林诗栋说日本队的厚度当今最强",
+      "topic_id": "2315225f19864b1f13192d3c2d9690872bb509"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
