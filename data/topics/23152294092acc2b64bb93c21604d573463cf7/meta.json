@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 5263227931
   },
-  "last_seen_at": "2026-09-24T11:00:00+08:00",
+  "last_seen_at": "2026-09-24T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%BE%BD%E6%AF%9B%E7%90%83%23%26t%3D3&title=发布媒体",
-    "show_str": "19家媒体",
+    "show_str": "23家媒体",
     "users": [
       {
         "id": 1692557473,
@@ -44,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 6890796357,
+        "idstr": "6890796357",
+        "screen_name": "日照日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6418480627,
         "idstr": "6418480627",
         "screen_name": "星视频",
@@ -54,13 +61,6 @@
         "id": 6380644334,
         "idstr": "6380644334",
         "screen_name": "蟹视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2286092114,
-        "idstr": "2286092114",
-        "screen_name": "中国蓝新闻",
         "verified": true,
         "verified_type": 3
       }
