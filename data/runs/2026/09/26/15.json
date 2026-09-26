@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-26T15:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#习近平主席美国之行#",
+      "rank": 1,
+      "title": "习近平主席美国之行",
+      "topic_id": "2315222943133b2b6c5f2594360d66e7c18ac2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#中美两国元首夫妇参观美国国家档案馆#",
+      "rank": 1,
+      "title": "中美两国元首夫妇参观美国国家档案馆",
+      "topic_id": "231522675b424a1b512d85f5ed044d9805cb5c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "华为 赛力斯",
+      "rank": 2,
+      "title": "华为 赛力斯",
+      "topic_id": "231522026dc337b6262fd6d57a9476debd33d6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#中美共同构建建设性战略稳定关系#",
+      "rank": 3,
+      "title": "中美共同构建建设性战略稳定关系",
+      "topic_id": "2315225c48bd12c513b58890893c9ecf3e4e55"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "为什么你去旅游很无聊",
+      "rank": 4,
+      "title": "为什么你去旅游很无聊",
+      "topic_id": "231522302a0735e2c049ffe44ad3ae7dcf6ae2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#月饼回收价800元一吨#",
+      "rank": 5,
+      "title": "月饼回收价800元一吨",
+      "topic_id": "2315226f94844875d03edf9d7b2cb0e6737afa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#比尔盖茨发出严厉警告#",
+      "rank": 6,
+      "title": "比尔盖茨发出严厉警告",
+      "topic_id": "231522ac039dab5e31be1c06d438743f8be9dc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#U23国足领先泰国#",
+      "rank": 7,
+      "title": "U23国足领先泰国",
+      "topic_id": "231522b76a97acd97e90ce494112fe68b4429e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "华为大疆联名Pocket4",
+      "rank": 8,
+      "title": "华为大疆联名Pocket4",
+      "topic_id": "231522e8d3efcc7d2f7238ce03a6577c26f246"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#全款买房空置6年被人装修入住4年#",
+      "rank": 9,
+      "title": "全款买房空置6年被人装修入住4年",
+      "topic_id": "2315229c69828f4d9c7ac5c236ffe5ce93a126"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#特朗普称期待下次会面#",
+      "rank": 10,
+      "title": "特朗普称期待下次会面",
+      "topic_id": "231522313a896a4298e6b17465881c7f0ab40e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#众歌手悼念刘欢#",
+      "rank": 11,
+      "title": "众歌手悼念刘欢",
+      "topic_id": "231522bf4a550f0e2101959509020ff4583acf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王楚钦说没有精力了#",
+      "rank": 12,
+      "title": "王楚钦说没有精力了",
+      "topic_id": "23152263c925acef7cf46a70bb5f9b940e4f70"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "刘欢去世",
+      "rank": 13,
+      "title": "刘欢去世",
+      "topic_id": "2315222391097385030a54acfbc420029eecbd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "缺血性股骨头坏死是什么病",
+      "rank": 14,
+      "title": "缺血性股骨头坏死是什么病",
+      "topic_id": "231522161f6f8d904ee364a611902506004524"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "吉克隽逸吾师远去悲痛难抑",
+      "rank": 15,
+      "title": "吉克隽逸吾师远去悲痛难抑",
+      "topic_id": "23152245fd0976b5f3c75ee60f18f8aef1c27a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "阿朵发文悼念刘欢",
+      "rank": 16,
+      "title": "阿朵发文悼念刘欢",
+      "topic_id": "231522d8f78ee90d5726eaff97b1da3935f975"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#姚贝娜父亲哽咽回应刘欢去世#",
+      "rank": 17,
+      "title": "姚贝娜父亲哽咽回应刘欢去世",
+      "topic_id": "23152231a8a01f7a9acdb52f6eb1692d0c59e1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "中国金牌榜碾压大球却崩了",
+      "rank": 18,
+      "title": "中国金牌榜碾压大球却崩了",
+      "topic_id": "2315227dd82ac9a57121f054e3a5f7372a5ee4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "孙颖莎魔鬼赛程",
+      "rank": 19,
+      "title": "孙颖莎魔鬼赛程",
+      "topic_id": "231522b0d3164ef273d7d12d7c2bef97f6c097"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#五仁月饼回收价1000元一吨#",
+      "rank": 20,
+      "title": "五仁月饼回收价1000元一吨",
+      "topic_id": "231522d1cee14037f8053979c3ada4cd04b4fd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#崔雪莉这真的是人类能承受的文字吗#",
+      "rank": 21,
+      "title": "崔雪莉这真的是人类能承受的文字吗",
+      "topic_id": "2315227a5440532f04fd1201db1cb736f309b0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#全红婵为何未参加亚运会#",
+      "rank": 22,
+      "title": "全红婵为何未参加亚运会",
+      "topic_id": "23152221dca0c20040c39697fa5b2b0defb8f4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#孙楠发文#",
+      "rank": 23,
+      "title": "孙楠发文",
+      "topic_id": "2315223c4e861287dc1f5f93f384a6b36b769f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#刘欢最瘦时只有104斤#",
+      "rank": 24,
+      "title": "刘欢最瘦时只有104斤",
+      "topic_id": "2315228cf8ab957c492db84cabfecb943d5084"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "淡淡姐弟恋新恋情公开",
+      "rank": 25,
+      "title": "淡淡姐弟恋新恋情公开",
+      "topic_id": "231522935f2e1a77beb15c3c8f7fdc8edd108d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "朋友圈已进入领证结婚时代",
+      "rank": 26,
+      "title": "朋友圈已进入领证结婚时代",
+      "topic_id": "231522b245fc4631763d94da206b4809205e74"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#歌手失去第二个歌王了#",
+      "rank": 27,
+      "title": "歌手失去第二个歌王了",
+      "topic_id": "2315229fe0fab0b1f2aff4db25dfcd2b29fae8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#多地车辆被夜蛾幼虫啃出小洞#",
+      "rank": 28,
+      "title": "多地车辆被夜蛾幼虫啃出小洞",
+      "topic_id": "231522a9ed0832dfc050392d11cb1d8660657d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "被雪莉资助的孩子不知她已离世",
+      "rank": 29,
+      "title": "被雪莉资助的孩子不知她已离世",
+      "topic_id": "23152204516ac4134366c169569bfb2d3bcf49"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张家齐祝贺陈芋汐卢为夺金#",
+      "rank": 30,
+      "title": "张家齐祝贺陈芋汐卢为夺金",
+      "topic_id": "2315227f000a9be148de361d485a7da00fdc59"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#央视曝光吃作业隐患#",
+      "rank": 31,
+      "title": "央视曝光吃作业隐患",
+      "topic_id": "231522a21bb550b219b7a5243be43f9478cc49"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#刘欢改变了吉克隽逸的命运#",
+      "rank": 32,
+      "title": "刘欢改变了吉克隽逸的命运",
+      "topic_id": "231522d7c81ae0e120eb7589e3da12f3926b6f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#那英发博悼念刘欢#",
+      "rank": 33,
+      "title": "那英发博悼念刘欢",
+      "topic_id": "2315229e3b2cda46883218654adc8d71039016"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#刘欢妻子发文我永远的爱永远的痛#",
+      "rank": 34,
+      "title": "刘欢妻子发文我永远的爱永远的痛",
+      "topic_id": "231522a6c35eb14ddf2853cb531eb81b6e93f1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#兰香如故兰香怀孕#",
+      "rank": 35,
+      "title": "兰香如故兰香怀孕",
+      "topic_id": "231522a77daa39625b0c820fa8625a08abe0ee"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "帮别人催眠女主播睡着了",
+      "rank": 36,
+      "title": "帮别人催眠女主播睡着了",
+      "topic_id": "231522fba4e3909fe04b2db1de2192474ee850"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "全国统一的洗澡前反复问",
+      "rank": 37,
+      "title": "全国统一的洗澡前反复问",
+      "topic_id": "231522888f2284ebac5cad5b0e5f9f486a0ab0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "刘欢 股骨头坏死",
+      "rank": 38,
+      "title": "刘欢 股骨头坏死",
+      "topic_id": "23152265992698c903e4ed56fda166bd57e287"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#亚运国足vs泰国#",
+      "rank": 39,
+      "title": "亚运国足vs泰国",
+      "topic_id": "2315220d426811dcc32375ffc9d338a3946473"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "杨康 井川里予",
+      "rank": 40,
+      "title": "杨康 井川里予",
+      "topic_id": "2315220758b20abbd67f89317463734e4d571f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#甄嬛传悼念刘欢#",
+      "rank": 41,
+      "title": "甄嬛传悼念刘欢",
+      "topic_id": "231522d9df813a7b41312a1db0f0e0f14839ad"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#刘欢28秒长音已成经典#",
+      "rank": 42,
+      "title": "刘欢28秒长音已成经典",
+      "topic_id": "2315228a6df5d143ed82e935d5974466b91c52"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "小米18Pro",
+      "rank": 43,
+      "title": "小米18Pro",
+      "topic_id": "231522b078b22fa49b3c5fba7fc3470ee62a90"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "小猫不喝水主人假装给医生打电话",
+      "rank": 44,
+      "title": "小猫不喝水主人假装给医生打电话",
+      "topic_id": "231522480822b248fc6002088e5205dbf18229"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#刘欢最后一次公开演出#",
+      "rank": 45,
+      "title": "刘欢最后一次公开演出",
+      "topic_id": "231522888cbba243693eb43047a682ef08633f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#港媒给朱一龙卫诗雅取的标题#",
+      "rank": 46,
+      "title": "港媒给朱一龙卫诗雅取的标题",
+      "topic_id": "231522d86bcb92eb026d81061fcccb00f98126"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#广东人喝咖啡已经卷到买豆了#",
+      "rank": 47,
+      "title": "广东人喝咖啡已经卷到买豆了",
+      "topic_id": "231522093b817bc03cce3c549840a10897ac40"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "曼城 英冠",
+      "rank": 48,
+      "title": "曼城 英冠",
+      "topic_id": "23152299fa11cb25a5bc5596a2e7e80a2a4b93"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "陈芋汐 双圈全满贯",
+      "rank": 49,
+      "title": "陈芋汐 双圈全满贯",
+      "topic_id": "23152232ae513bce5112d4c70618e7b45b4b90"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#宋福韵彩数字人现身数贸会#",
+      "rank": 50,
+      "title": "宋福韵彩数字人现身数贸会",
+      "topic_id": "2315220c92e0dfe16f7675bb6bc3a0a447ac8f"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

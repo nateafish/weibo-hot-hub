@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2656274875
   },
-  "last_seen_at": "2026-09-26T14:00:00+08:00",
+  "last_seen_at": "2026-09-26T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%AD%E7%BE%8E%E5%85%B1%E5%90%8C%E6%9E%84%E5%BB%BA%E5%BB%BA%E8%AE%BE%E6%80%A7%E6%88%98%E7%95%A5%E7%A8%B3%E5%AE%9A%E5%85%B3%E7%B3%BB%23%26t%3D3&title=发布媒体",
-    "show_str": "19家媒体",
+    "show_str": "26家媒体",
     "users": [
       {
         "id": 2656274875,
         "idstr": "2656274875",
         "screen_name": "央视新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1904947977,
+        "idstr": "1904947977",
+        "screen_name": "天山网",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 3514732862,
-        "idstr": "3514732862",
-        "screen_name": "广西日报",
+        "id": 3901624042,
+        "idstr": "3901624042",
+        "screen_name": "山西日报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2921799343,
-        "idstr": "2921799343",
-        "screen_name": "天下泉城",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2308711425,
-        "idstr": "2308711425",
-        "screen_name": "新疆日报",
+        "id": 3804173419,
+        "idstr": "3804173419",
+        "screen_name": "各界导报社官微",
         "verified": true,
         "verified_type": 3
       }
