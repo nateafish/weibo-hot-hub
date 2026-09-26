@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1618051664
   },
-  "last_seen_at": "2026-09-26T23:00:00+08:00",
+  "last_seen_at": "2026-09-27T01:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9E%97%E8%AF%97%E6%A0%8B%E7%A7%B04%E6%AF%940%E7%A1%AE%E5%AE%9E%E6%B2%A1%E6%83%B3%E5%88%B0%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "8家媒体",
     "users": [
       {
         "id": 1618051664,
         "idstr": "1618051664",
         "screen_name": "头条新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7216381483,
+        "idstr": "7216381483",
+        "screen_name": "看成都",
         "verified": true,
         "verified_type": 3
       },
@@ -37,9 +44,23 @@
         "verified_type": 7
       },
       {
+        "id": 3514732862,
+        "idstr": "3514732862",
+        "screen_name": "广西日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2232625672,
         "idstr": "2232625672",
         "screen_name": "安庆天天直播",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2001662537,
+        "idstr": "2001662537",
+        "screen_name": "观海融媒",
         "verified": true,
         "verified_type": 3
       }
