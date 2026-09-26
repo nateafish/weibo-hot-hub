@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2159714367
   },
-  "last_seen_at": "2026-09-26T17:00:00+08:00",
+  "last_seen_at": "2026-09-26T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BA%95%E6%9F%8F%E7%84%B6%E5%8F%AF%E4%B8%8D%E6%98%AF%E8%BD%AF%E6%9F%BF%E5%AD%90%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "2家媒体",
     "users": [
       {
         "id": 1280846847,
         "idstr": "1280846847",
         "screen_name": "指尖新闻-沈阳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497418417,
+        "idstr": "1497418417",
+        "screen_name": "掌上温岭",
         "verified": true,
         "verified_type": 3
       }
