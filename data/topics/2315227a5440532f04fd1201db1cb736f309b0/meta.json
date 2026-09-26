@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 6147191568
   },
-  "last_seen_at": "2026-09-26T19:00:00+08:00",
+  "last_seen_at": "2026-09-26T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%B4%94%E9%9B%AA%E8%8E%89%E8%BF%99%E7%9C%9F%E7%9A%84%E6%98%AF%E4%BA%BA%E7%B1%BB%E8%83%BD%E6%89%BF%E5%8F%97%E7%9A%84%E6%96%87%E5%AD%97%E5%90%97%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "4家媒体",
     "users": [
+      {
+        "id": 1497418417,
+        "idstr": "1497418417",
+        "screen_name": "掌上温岭",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2337985010,
+        "idstr": "2337985010",
+        "screen_name": "瑞安融媒",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2106115754,
         "idstr": "2106115754",
         "screen_name": "北京文艺广播",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1043320390,
+        "idstr": "1043320390",
+        "screen_name": "半岛晨报",
         "verified": true,
         "verified_type": 3
       }
