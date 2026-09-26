@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-26T17:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#习近平主席美国之行#",
+      "rank": 1,
+      "title": "习近平主席美国之行",
+      "topic_id": "2315222943133b2b6c5f2594360d66e7c18ac2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#中美达成八点成果共识#",
+      "rank": 1,
+      "title": "中美达成八点成果共识",
+      "topic_id": "231522cecfc8fcf8e442ffd979c7da84dc3dc2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "张本智和vs阿拉米扬",
+      "rank": 2,
+      "title": "张本智和vs阿拉米扬",
+      "topic_id": "231522733456ded40355e0e413e1313e5c6131"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#中美共同构建建设性战略稳定关系#",
+      "rank": 3,
+      "title": "中美共同构建建设性战略稳定关系",
+      "topic_id": "2315225c48bd12c513b58890893c9ecf3e4e55"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "林诗栋vs松岛辉空",
+      "rank": 4,
+      "title": "林诗栋vs松岛辉空",
+      "topic_id": "2315228a1e63450c68cd04e965c314e87058fd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#中美达成300亿美元对等降税安排#",
+      "rank": 5,
+      "title": "中美达成300亿美元对等降税安排",
+      "topic_id": "2315228acc42fb491ca7bc7eaa0e8f7837e296"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#U23国足进四强#",
+      "rank": 6,
+      "title": "U23国足进四强",
+      "topic_id": "2315222362e74a60b3fdbd430e6c6b857ca014"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#月饼回收价800元一吨#",
+      "rank": 7,
+      "title": "月饼回收价800元一吨",
+      "topic_id": "2315226f94844875d03edf9d7b2cb0e6737afa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "问界 华为",
+      "rank": 8,
+      "title": "问界 华为",
+      "topic_id": "231522949b91a869daea86857bed7fb8d9a45a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#孙颖莎晋级四强#",
+      "rank": 9,
+      "title": "孙颖莎晋级四强",
+      "topic_id": "2315228ed3ad9cfb64257bb72de64e0dc7f87a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "亚运会乒乓球",
+      "rank": 10,
+      "title": "亚运会乒乓球",
+      "topic_id": "2315222f71914526098e34e7ec67972dc2c489"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#众歌手悼念刘欢#",
+      "rank": 11,
+      "title": "众歌手悼念刘欢",
+      "topic_id": "231522bf4a550f0e2101959509020ff4583acf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王楚钦说没有精力了#",
+      "rank": 12,
+      "title": "王楚钦说没有精力了",
+      "topic_id": "23152263c925acef7cf46a70bb5f9b940e4f70"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "刘欢去世",
+      "rank": 13,
+      "title": "刘欢去世",
+      "topic_id": "2315222391097385030a54acfbc420029eecbd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#比尔盖茨发出严厉警告#",
+      "rank": 14,
+      "title": "比尔盖茨发出严厉警告",
+      "topic_id": "231522ac039dab5e31be1c06d438743f8be9dc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "孙颖莎魔鬼赛程",
+      "rank": 15,
+      "title": "孙颖莎魔鬼赛程",
+      "topic_id": "231522b0d3164ef273d7d12d7c2bef97f6c097"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "韩红 刘欢先生一路走好",
+      "rank": 16,
+      "title": "韩红 刘欢先生一路走好",
+      "topic_id": "231522616a2ec0f8dd95405749655825db9954"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "缺血性股骨头坏死是什么病",
+      "rank": 17,
+      "title": "缺血性股骨头坏死是什么病",
+      "topic_id": "231522161f6f8d904ee364a611902506004524"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#刘欢妻子发文我永远的爱永远的痛#",
+      "rank": 18,
+      "title": "刘欢妻子发文我永远的爱永远的痛",
+      "topic_id": "231522a6c35eb14ddf2853cb531eb81b6e93f1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#救命钱被转银行1条提醒短信都没发#",
+      "rank": 19,
+      "title": "救命钱被转银行1条提醒短信都没发",
+      "topic_id": "23152262e4712b90ea25ea4cda44235770b740"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#姚贝娜父亲哽咽回应刘欢去世#",
+      "rank": 20,
+      "title": "姚贝娜父亲哽咽回应刘欢去世",
+      "topic_id": "23152231a8a01f7a9acdb52f6eb1692d0c59e1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#崔雪莉这真的是人类能承受的文字吗#",
+      "rank": 21,
+      "title": "崔雪莉这真的是人类能承受的文字吗",
+      "topic_id": "2315227a5440532f04fd1201db1cb736f309b0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#刘欢去世前曾多次被传病危#",
+      "rank": 22,
+      "title": "刘欢去世前曾多次被传病危",
+      "topic_id": "231522f9fbfd1496aaa1ae4946d344b12cd482"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#孙楠发文#",
+      "rank": 23,
+      "title": "孙楠发文",
+      "topic_id": "2315223c4e861287dc1f5f93f384a6b36b769f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "中国金牌榜碾压大球却崩了",
+      "rank": 24,
+      "title": "中国金牌榜碾压大球却崩了",
+      "topic_id": "2315227dd82ac9a57121f054e3a5f7372a5ee4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "原来大家假期都是这样度过的",
+      "rank": 25,
+      "title": "原来大家假期都是这样度过的",
+      "topic_id": "2315223b2a4b5949f6a211f64bf6e47768488b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "淡淡姐弟恋新恋情公开",
+      "rank": 26,
+      "title": "淡淡姐弟恋新恋情公开",
+      "topic_id": "231522935f2e1a77beb15c3c8f7fdc8edd108d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "刘欢 股骨头坏死",
+      "rank": 27,
+      "title": "刘欢 股骨头坏死",
+      "topic_id": "23152265992698c903e4ed56fda166bd57e287"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "吉克隽逸吾师远去悲痛难抑",
+      "rank": 28,
+      "title": "吉克隽逸吾师远去悲痛难抑",
+      "topic_id": "23152245fd0976b5f3c75ee60f18f8aef1c27a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "为什么你去旅游很无聊",
+      "rank": 29,
+      "title": "为什么你去旅游很无聊",
+      "topic_id": "231522302a0735e2c049ffe44ad3ae7dcf6ae2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#姚贝娜化疗时刘欢邀唱甄嬛传插曲#",
+      "rank": 30,
+      "title": "姚贝娜化疗时刘欢邀唱甄嬛传插曲",
+      "topic_id": "231522eb3fdd937db89a17834636e169fbd20b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "王楚钦进四强",
+      "rank": 31,
+      "title": "王楚钦进四强",
+      "topic_id": "2315225da6cfd645e1274849b1a2c11bfdda33"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#张艺谋悼念刘欢#",
+      "rank": 32,
+      "title": "张艺谋悼念刘欢",
+      "topic_id": "2315225197e2347c38200ff01504f60e14b5e6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#井柏然可不是软柿子#",
+      "rank": 33,
+      "title": "井柏然可不是软柿子",
+      "topic_id": "23152238e9b35e1fe06a22c5d548fa69fb2fcf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#高晓松笔下的刘欢#",
+      "rank": 34,
+      "title": "高晓松笔下的刘欢",
+      "topic_id": "2315225800d53fc2e99658cd1948a26ca4b85a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "全红婵空降张家齐直播间",
+      "rank": 35,
+      "title": "全红婵空降张家齐直播间",
+      "topic_id": "231522e2d0b5b4c97892a257b85da04c215e37"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "阿朵发文悼念刘欢",
+      "rank": 36,
+      "title": "阿朵发文悼念刘欢",
+      "topic_id": "231522d8f78ee90d5726eaff97b1da3935f975"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "华为 赛力斯",
+      "rank": 37,
+      "title": "华为 赛力斯",
+      "topic_id": "231522026dc337b6262fd6d57a9476debd33d6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#歌手失去第二个歌王了#",
+      "rank": 38,
+      "title": "歌手失去第二个歌王了",
+      "topic_id": "2315229fe0fab0b1f2aff4db25dfcd2b29fae8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#原来拼豆是永夜星河带火的#",
+      "rank": 39,
+      "title": "原来拼豆是永夜星河带火的",
+      "topic_id": "2315223760bc3d2a1d0bc3223b2f278f4e9f81"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#U23国足首进亚运会四强#",
+      "rank": 40,
+      "title": "U23国足首进亚运会四强",
+      "topic_id": "231522d29abedaf879a03e3b5a0df03381dc38"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#刘欢离世十几天前急还钱#",
+      "rank": 41,
+      "title": "刘欢离世十几天前急还钱",
+      "topic_id": "231522d61a65d141ecd19a9449fd51c32c516f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#特朗普称期待下次会面#",
+      "rank": 42,
+      "title": "特朗普称期待下次会面",
+      "topic_id": "231522313a896a4298e6b17465881c7f0ab40e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "韩国高中生游中国后偏见全碎了",
+      "rank": 43,
+      "title": "韩国高中生游中国后偏见全碎了",
+      "topic_id": "2315222023fd623028e154a819a163f29a8151"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#亚运国足vs泰国#",
+      "rank": 44,
+      "title": "亚运国足vs泰国",
+      "topic_id": "2315220d426811dcc32375ffc9d338a3946473"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "帮别人催眠女主播睡着了",
+      "rank": 45,
+      "title": "帮别人催眠女主播睡着了",
+      "topic_id": "231522fba4e3909fe04b2db1de2192474ee850"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "国足创造历史",
+      "rank": 46,
+      "title": "国足创造历史",
+      "topic_id": "23152263bdca90642b9cdfdf5deeef5b1e7b16"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "朋友圈已进入领证结婚时代",
+      "rank": 47,
+      "title": "朋友圈已进入领证结婚时代",
+      "topic_id": "231522b245fc4631763d94da206b4809205e74"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#甄嬛传悼念刘欢#",
+      "rank": 48,
+      "title": "甄嬛传悼念刘欢",
+      "topic_id": "231522d9df813a7b41312a1db0f0e0f14839ad"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "袁娅维发了满屏心碎",
+      "rank": 49,
+      "title": "袁娅维发了满屏心碎",
+      "topic_id": "23152223b1b89909926592f44ff77f25146818"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "王楚钦vs冯翊新",
+      "rank": 50,
+      "title": "王楚钦vs冯翊新",
+      "topic_id": "23152217c091d70a6078fe35be9844714baf1a"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
