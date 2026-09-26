@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-27T03:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 47,
+    "ai_unchanged": 3,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#习近平主席讲述中美人民友好故事#",
+      "rank": 1,
+      "title": "习近平主席讲述中美人民友好故事",
+      "topic_id": "231522096cfc441c8686c708ba230b0c7136b2"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#中美达成300亿美元对等降税安排#",
+      "rank": 1,
+      "title": "中美达成300亿美元对等降税安排",
+      "topic_id": "2315228acc42fb491ca7bc7eaa0e8f7837e296"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王楚钦感谢孙颖莎一起守住了混双金牌#",
+      "rank": 2,
+      "title": "王楚钦感谢孙颖莎一起守住了混双金牌",
+      "topic_id": "231522ca9e6507665a47210a371ae24d37f9bc"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#中美八点成果共识公布#",
+      "rank": 3,
+      "title": "中美八点成果共识公布",
+      "topic_id": "23152270c05a0889f6053e5227a8805c6ce8c3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "林诗栋 跨栏",
+      "rank": 4,
+      "title": "林诗栋 跨栏",
+      "topic_id": "23152241d39613e2646f4bd05f40d8ca0f77ab"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#孙颖莎说协会可以报两对混双#",
+      "rank": 5,
+      "title": "孙颖莎说协会可以报两对混双",
+      "topic_id": "23152216efc1258494e958cea3a00dfd85ff1f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 6,
+      "posts": "saved",
+      "query": "赵雷",
+      "rank": 6,
+      "title": "赵雷",
+      "topic_id": "2315223f5d6f9b72b6aac43754d02d5dada9d8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#九月多位公众人物相继离世#",
+      "rank": 7,
+      "title": "九月多位公众人物相继离世",
+      "topic_id": "23152298073399bc713a14b565f5f05b382755"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "国羽男单全军覆没",
+      "rank": 8,
+      "title": "国羽男单全军覆没",
+      "topic_id": "231522fcf287854ec528964930d0b90a1ad358"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#乌方公开已将两名朝鲜战俘移送韩国#",
+      "rank": 9,
+      "title": "乌方公开已将两名朝鲜战俘移送韩国",
+      "topic_id": "231522ae17942eee82ce5df8f13be53cf6661e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#中美相互支持对方办好APEC和G20#",
+      "rank": 10,
+      "title": "中美相互支持对方办好APEC和G20",
+      "topic_id": "23152239c191e7aa2fbccce8afdcf1c507d7ff"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#得知未婚妻遭性侵男子称错不在你#",
+      "rank": 11,
+      "title": "得知未婚妻遭性侵男子称错不在你",
+      "topic_id": "231522020174c9a4ea1ec93b7b38edff9d5fa4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#张本智和爆冷惊呆了韩国队#",
+      "rank": 12,
+      "title": "张本智和爆冷惊呆了韩国队",
+      "topic_id": "2315225864731e97269db8dba48737c415dc63"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "现在的消费需求越来越清晰了",
+      "rank": 13,
+      "title": "现在的消费需求越来越清晰了",
+      "topic_id": "2315229c3f560c93a4535aa82b09c6d275e898"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "陈芋汐 换了搭档照样夺冠",
+      "rank": 14,
+      "title": "陈芋汐 换了搭档照样夺冠",
+      "topic_id": "2315227bc8ee5f531f545ac4074b966d1ed982"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "田曦薇特意叮嘱了三遍不准卖",
+      "rank": 15,
+      "title": "田曦薇特意叮嘱了三遍不准卖",
+      "topic_id": "2315225f65475d252c3786b5d406461e6568c2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张本智和回应爆冷出局#",
+      "rank": 16,
+      "title": "张本智和回应爆冷出局",
+      "topic_id": "231522181482c973a787e20ed041a99bb74aa7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "EDG stew",
+      "rank": 17,
+      "title": "EDG stew",
+      "topic_id": "23152284b505e2ae0c3c23382aca5c24bd67bf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#曝素媛原型成为医生#",
+      "rank": 18,
+      "title": "曝素媛原型成为医生",
+      "topic_id": "23152270f6577073a63985b82b16ee2aed71ee"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "同卵双胞胎失散六十年一高一矮",
+      "rank": 19,
+      "title": "同卵双胞胎失散六十年一高一矮",
+      "topic_id": "23152262ad299c031f6a1d04dc68be26d9fdc2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#田曦薇在米兰送的签名被秒卖#",
+      "rank": 20,
+      "title": "田曦薇在米兰送的签名被秒卖",
+      "topic_id": "231522f2ce0d63de78d9df6bb7851901543cda"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#井柏然看热搜#",
+      "rank": 21,
+      "title": "井柏然看热搜",
+      "topic_id": "2315220f7dac85217c4c28b3bd78a92ea9008a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "刘欢 吴青峰",
+      "rank": 22,
+      "title": "刘欢 吴青峰",
+      "topic_id": "231522694313085308e33147b3f1d2e2cb0c1f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#兰香如故腾讯第五部破33000剧集#",
+      "rank": 23,
+      "title": "兰香如故腾讯第五部破33000剧集",
+      "topic_id": "231522e670fe859ae294b4652cb0461e347f59"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#病态嗑cp该停一停了#",
+      "rank": 24,
+      "title": "病态嗑cp该停一停了",
+      "topic_id": "231522fa6597bbd137e6d83f626f9a39342445"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "女儿知道欧洲游花了30万后",
+      "rank": 25,
+      "title": "女儿知道欧洲游花了30万后",
+      "topic_id": "231522ed18684a68cce59cab27c0047cdec07b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#牛棚少了头牛主人调监控惊呆了#",
+      "rank": 26,
+      "title": "牛棚少了头牛主人调监控惊呆了",
+      "topic_id": "2315226cd5d2e927cf324cc0f279da39d78504"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "乒乓球男单",
+      "rank": 27,
+      "title": "乒乓球男单",
+      "topic_id": "231522f859b6d48949b0896708b932900c9d11"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "刘欢去世",
+      "rank": 28,
+      "title": "刘欢去世",
+      "topic_id": "2315222391097385030a54acfbc420029eecbd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#掀开木地板发现霉菌像树枝爬满房间#",
+      "rank": 29,
+      "title": "掀开木地板发现霉菌像树枝爬满房间",
+      "topic_id": "231522cb706d287fd1ada2552a52c1ae6c3d5f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#蔡磊确诊渐冻症后的第七个中秋#",
+      "rank": 30,
+      "title": "蔡磊确诊渐冻症后的第七个中秋",
+      "topic_id": "231522afdccaa90181d205dd8f155c9e0e10f1"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#中美延期吉隆坡经贸磋商成果#",
+      "rank": 31,
+      "title": "中美延期吉隆坡经贸磋商成果",
+      "topic_id": "2315227a6e3da3d1e052c7f196f168b8fc1ece"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#刘学义编辑#",
+      "rank": 32,
+      "title": "刘学义编辑",
+      "topic_id": "2315223d9b88facc4c3dba9cbe76b58a8e33b3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#婆婆大笑引来了婆婆大闹#",
+      "rank": 33,
+      "title": "婆婆大笑引来了婆婆大闹",
+      "topic_id": "231522b18059e052eafdc8395ababec7e42397"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "张一山演争吵戏面相都变了",
+      "rank": 34,
+      "title": "张一山演争吵戏面相都变了",
+      "topic_id": "231522b530b4570197f2fba5a51363aa3ca61b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#肖战喝到豆汁的表情#",
+      "rank": 35,
+      "title": "肖战喝到豆汁的表情",
+      "topic_id": "23152262c02d489c4c9b461ab381808fb50c4e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "张杰 刘欢老师一路走好",
+      "rank": 36,
+      "title": "张杰 刘欢老师一路走好",
+      "topic_id": "231522beb1f1e868d17259d8345fc3e83e18cd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#刘学义兰香如故有效播剧#",
+      "rank": 37,
+      "title": "刘学义兰香如故有效播剧",
+      "topic_id": "231522a60930a57364bfc9b13e5499eb894d91"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#重庆轻轨出现瞬间的科幻感#",
+      "rank": 38,
+      "title": "重庆轻轨出现瞬间的科幻感",
+      "topic_id": "231522938a5dc25f809d5f4916794c91992bea"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#邓亚萍说王楚钦半决赛要倍加小心#",
+      "rank": 39,
+      "title": "邓亚萍说王楚钦半决赛要倍加小心",
+      "topic_id": "2315228abe709f554587aa8b17803e386728e1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "娶到了我的人生上限",
+      "rank": 40,
+      "title": "娶到了我的人生上限",
+      "topic_id": "2315229a6b5e6e10f9489e41738455d1d9bceb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#刘欢妻子发文我永远的爱永远的痛#",
+      "rank": 41,
+      "title": "刘欢妻子发文我永远的爱永远的痛",
+      "topic_id": "231522a6c35eb14ddf2853cb531eb81b6e93f1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#孙颖莎回应不敌林诗栋蒯曼#",
+      "rank": 42,
+      "title": "孙颖莎回应不敌林诗栋蒯曼",
+      "topic_id": "23152213fe12855bce5dca0c301eecb63d9718"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "浙江鞋厂 阿超",
+      "rank": 43,
+      "title": "浙江鞋厂 阿超",
+      "topic_id": "231522b903ee22d3b71eeedd1806a13f16a246"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#一部iPhone到底有多贵#",
+      "rank": 44,
+      "title": "一部iPhone到底有多贵",
+      "topic_id": "2315228b09916d7d8a44ad29dd32f43af25f34"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "周深雨中唱响我爱你中国好震撼",
+      "rank": 45,
+      "title": "周深雨中唱响我爱你中国好震撼",
+      "topic_id": "2315221f7242e3ddeec872d1ae8a23f9cbdfa5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "HYBE唯一组合年销不如月销",
+      "rank": 46,
+      "title": "HYBE唯一组合年销不如月销",
+      "topic_id": "2315226841c59a2154dfe9db30bd12595837c0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#杨幂回应全网复刻短发造型#",
+      "rank": 47,
+      "title": "杨幂回应全网复刻短发造型",
+      "topic_id": "23152221971aafcd215eebf6f79d725ddc9ce8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#上海大降温时间定了#",
+      "rank": 48,
+      "title": "上海大降温时间定了",
+      "topic_id": "231522a037e586f40414a70a5c3d2d1d93a87c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#暴雨下的毛不易#",
+      "rank": 49,
+      "title": "暴雨下的毛不易",
+      "topic_id": "2315225ea807e948ec819d3307d8cddd561630"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#肖战真的好严谨#",
+      "rank": 50,
+      "title": "肖战真的好严谨",
+      "topic_id": "2315224f7745cd1a170e9629af8ae7ceb4c4eb"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
