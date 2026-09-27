@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1796087453
   },
-  "last_seen_at": "2026-09-27T06:00:00+08:00",
+  "last_seen_at": "2026-09-27T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%89%9B%E6%A3%9A%E5%B0%91%E4%BA%86%E5%A4%B4%E7%89%9B%E4%B8%BB%E4%BA%BA%E8%B0%83%E7%9B%91%E6%8E%A7%E6%83%8A%E5%91%86%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "16家媒体",
+    "show_str": "18家媒体",
     "users": [
       {
         "id": 1796087453,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 2000016880,
+        "idstr": "2000016880",
+        "screen_name": "逐浪新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7741144531,
         "idstr": "7741144531",
         "screen_name": "荔枝健康",
@@ -54,13 +61,6 @@
         "id": 6354989284,
         "idstr": "6354989284",
         "screen_name": "荔枝竞技",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6344061797,
-        "idstr": "6344061797",
-        "screen_name": "JSTV荔枝视频",
         "verified": true,
         "verified_type": 3
       }

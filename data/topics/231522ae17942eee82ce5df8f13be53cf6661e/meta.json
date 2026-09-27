@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 2375086267
   },
-  "last_seen_at": "2026-09-27T06:00:00+08:00",
+  "last_seen_at": "2026-09-27T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B9%8C%E6%96%B9%E5%85%AC%E5%BC%80%E5%B7%B2%E5%B0%86%E4%B8%A4%E5%90%8D%E6%9C%9D%E9%B2%9C%E6%88%98%E4%BF%98%E7%A7%BB%E9%80%81%E9%9F%A9%E5%9B%BD%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "5家媒体",
     "users": [
       {
         "id": 2375086267,
         "idstr": "2375086267",
         "screen_name": "参考消息",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2290787940,
+        "idstr": "2290787940",
+        "screen_name": "扬州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1893892941,
+        "idstr": "1893892941",
+        "screen_name": "北京日报",
         "verified": true,
         "verified_type": 3
       },

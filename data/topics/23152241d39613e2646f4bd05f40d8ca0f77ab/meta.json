@@ -3,11 +3,26 @@
   "created_at": 1790439739,
   "first_seen_at": "2026-09-27T03:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-27T06:00:00+08:00",
+  "last_seen_at": "2026-09-27T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9E%97%E8%AF%97%E6%A0%8B+%E8%B7%A8%E6%A0%8F%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "2家媒体",
+    "users": [
+      {
+        "id": 2813313591,
+        "idstr": "2813313591",
+        "screen_name": "中新网海南",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2318910945,
+        "idstr": "2318910945",
+        "screen_name": "新浪热点",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "林诗栋 跨栏",
   "search_url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B%20%E8%B7%A8%E6%A0%8F%23",
