@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1893892941
   },
-  "last_seen_at": "2026-09-27T09:00:00+08:00",
+  "last_seen_at": "2026-09-27T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%230%E5%85%83%E8%B4%AD%E6%9C%BA%E5%85%A8%E9%9D%A2%E5%8F%AB%E5%81%9C%23%26t%3D3&title=发布媒体",
-    "show_str": "24家媒体",
+    "show_str": "65家媒体",
     "users": [
       {
         "id": 1893892941,
         "idstr": "1893892941",
         "screen_name": "北京日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2217754287,
+        "idstr": "2217754287",
+        "screen_name": "桂林晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -37,30 +44,23 @@
         "verified_type": 3
       },
       {
-        "id": 1821499183,
-        "idstr": "1821499183",
-        "screen_name": "大连日报",
+        "id": 6013508393,
+        "idstr": "6013508393",
+        "screen_name": "环球总财",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1703371307,
-        "idstr": "1703371307",
-        "screen_name": "北京晚报",
+        "id": 3901624042,
+        "idstr": "3901624042",
+        "screen_name": "山西日报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1617264814,
-        "idstr": "1617264814",
-        "screen_name": "京报网_北京日报官方网站",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1929638045,
-        "idstr": "1929638045",
-        "screen_name": "现代金报",
+        "id": 2747175561,
+        "idstr": "2747175561",
+        "screen_name": "北青深一度",
         "verified": true,
         "verified_type": 3
       }

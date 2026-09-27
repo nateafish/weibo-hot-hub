@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2656274875
   },
-  "last_seen_at": "2026-09-27T09:00:00+08:00",
+  "last_seen_at": "2026-09-27T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%94%A1%E7%A3%8A%E7%A1%AE%E8%AF%8A%E6%B8%90%E5%86%BB%E7%97%87%E5%90%8E%E7%9A%84%E7%AC%AC%E4%B8%83%E4%B8%AA%E4%B8%AD%E7%A7%8B%23%26t%3D3&title=发布媒体",
-    "show_str": "32家媒体",
+    "show_str": "47家媒体",
     "users": [
       {
         "id": 2656274875,
         "idstr": "2656274875",
         "screen_name": "央视新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2217754287,
+        "idstr": "2217754287",
+        "screen_name": "桂林晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -37,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 1497087080,
+        "idstr": "1497087080",
+        "screen_name": "羊城晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1288429914,
         "idstr": "1288429914",
         "screen_name": "今视频长天新闻",
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1727472420,
-        "idstr": "1727472420",
-        "screen_name": "泰山晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7596378100,
-        "idstr": "7596378100",
-        "screen_name": "会昌融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6890796357,
-        "idstr": "6890796357",
-        "screen_name": "日照日报",
+        "id": 2188202475,
+        "idstr": "2188202475",
+        "screen_name": "南京晨报",
         "verified": true,
         "verified_type": 3
       }

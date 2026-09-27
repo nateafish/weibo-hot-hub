@@ -1,0 +1,537 @@
+{
+  "captured_at": "2026-09-27T11:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 0,
+    "metrics_saved": 50,
+    "posts_saved": 50
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#习主席的华盛顿时间#",
+      "rank": 1,
+      "title": "习主席的华盛顿时间",
+      "topic_id": "231522c5a2c068fedb0f0a044f54e4f02db77f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#河南一技校101名毕业生入职北大#",
+      "rank": 1,
+      "title": "河南一技校101名毕业生入职北大",
+      "topic_id": "2315222851b282d4ba85ca162c02e4c027a8e2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#麻辣王子广告视觉污染到米兰#",
+      "rank": 2,
+      "title": "麻辣王子广告视觉污染到米兰",
+      "topic_id": "2315227bc5edd98a16b4996950dd6436f3be73"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#花样文旅点亮中秋假期#",
+      "rank": 3,
+      "title": "花样文旅点亮中秋假期",
+      "topic_id": "231522f220bcbb8e6c21d47beff9674ce3048f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王楚钦说无论0比4还是3比4都是输了#",
+      "rank": 4,
+      "title": "王楚钦说无论0比4还是3比4都是输了",
+      "topic_id": "231522b5a016ac17cb98122b14a3903020ec4a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "以色列大使被逐出联合国大会",
+      "rank": 5,
+      "title": "以色列大使被逐出联合国大会",
+      "topic_id": "2315227b23cca4f6e98f25323a3a64ab2b6330"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#店员称不堪骚扰偷加高度酒灌醉顾客#",
+      "rank": 6,
+      "title": "店员称不堪骚扰偷加高度酒灌醉顾客",
+      "topic_id": "231522f70a3aa7fa988c37e215e1085b09ad86"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#警方回应杰克辣条疑遭持刀伤害#",
+      "rank": 7,
+      "title": "警方回应杰克辣条疑遭持刀伤害",
+      "topic_id": "2315226165b6eb73b2876c3b2cfca64b9fcb19"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#亚运乒乓球女单#",
+      "rank": 8,
+      "title": "亚运乒乓球女单",
+      "topic_id": "231522f44588e245d2ae98351f68fe4b275dec"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#接兰香如故二小姐的好命#",
+      "rank": 9,
+      "title": "接兰香如故二小姐的好命",
+      "topic_id": "2315224e865194aa9586c9e245c6279f509c65"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#张继科谈霸王拧#",
+      "rank": 10,
+      "title": "张继科谈霸王拧",
+      "topic_id": "23152205139004823e1eb2d82daf9cc672e38d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#胡歌3岁女儿近照#",
+      "rank": 11,
+      "title": "胡歌3岁女儿近照",
+      "topic_id": "231522e4b8cfeea6f9776c53458fb050380bfc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#井柏然是刘雯的Luke是Flora的#",
+      "rank": 12,
+      "title": "井柏然是刘雯的Luke是Flora的",
+      "topic_id": "231522ffec97fb2da24efc599cdf70f52fb379"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "黄仁勋称AI不安全就别发货",
+      "rank": 13,
+      "title": "黄仁勋称AI不安全就别发货",
+      "topic_id": "2315224dbd2ab12d114840e3396a7d1aab5b2b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#小怡同学报警了#",
+      "rank": 14,
+      "title": "小怡同学报警了",
+      "topic_id": "23152287f912562403b8c0dde43baacc216dce"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "王一博排位赛组别第一名",
+      "rank": 15,
+      "title": "王一博排位赛组别第一名",
+      "topic_id": "2315224f1091f82fafe3cde7aa713e7cd6f165"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#黄曦宁从胡歌经纪人一步步走到伴侣#",
+      "rank": 16,
+      "title": "黄曦宁从胡歌经纪人一步步走到伴侣",
+      "topic_id": "23152258f15bb24494ea96e2931c4c4d85eec1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#井柏然点赞不受喧嚣裹挟忠于内心选择#",
+      "rank": 17,
+      "title": "井柏然点赞不受喧嚣裹挟忠于内心选择",
+      "topic_id": "2315228222f5e9c750e6b19ac359f95831baa3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张家齐和张家齐妈妈考古傅园慧父女#",
+      "rank": 18,
+      "title": "张家齐和张家齐妈妈考古傅园慧父女",
+      "topic_id": "2315225820daf71bd405b73a3dea50ca4e2bc6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#上3休7上3休1#",
+      "rank": 19,
+      "title": "上3休7上3休1",
+      "topic_id": "231522df47b91077b259910ca2a719457525c0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#0元购机全面叫停#",
+      "rank": 20,
+      "title": "0元购机全面叫停",
+      "topic_id": "231522487b3f83766e495fc5838a8b0ba3e5b2"
+    },
+    {
+      "ai": "pending",
+      "metrics": "failed",
+      "metrics_error": "TopicFetchError: Topic detail is missing a stable id or title",
+      "posts": "pending",
+      "query": "王者荣耀亚运会",
+      "rank": 21,
+      "title": "王者荣耀亚运会"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "结婚总比一个人独居强",
+      "rank": 22,
+      "title": "结婚总比一个人独居强",
+      "topic_id": "231522f9cc7d162a9779dd818b52737c05c1e1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "罗永浩被指欠郑刚两千五百万",
+      "rank": 23,
+      "title": "罗永浩被指欠郑刚两千五百万",
+      "topic_id": "231522d3848f03970782ea774e18b88aa76b0c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "到手两万多从银行离职不后悔",
+      "rank": 24,
+      "title": "到手两万多从银行离职不后悔",
+      "topic_id": "2315227b349cbfa0e5489abe6004aa9ae8b897"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#病态嗑cp该停一停了#",
+      "rank": 25,
+      "title": "病态嗑cp该停一停了",
+      "topic_id": "231522fa6597bbd137e6d83f626f9a39342445"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "王祖贤访谈回答被指套用佛学",
+      "rank": 26,
+      "title": "王祖贤访谈回答被指套用佛学",
+      "topic_id": "2315227b8423c1cf87a5bb3defc876a4ee74a0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "于正说白鹿陈哲远越看越般配",
+      "rank": 27,
+      "title": "于正说白鹿陈哲远越看越般配",
+      "topic_id": "231522531c8168614c61605168ffd32ac198aa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "名古屋亚运王者荣耀",
+      "rank": 28,
+      "title": "名古屋亚运王者荣耀",
+      "topic_id": "23152280e8eda32dffdce62718725a4fb7cb1d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#九月多位公众人物相继离世#",
+      "rank": 29,
+      "title": "九月多位公众人物相继离世",
+      "topic_id": "23152298073399bc713a14b565f5f05b382755"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "中国队冲金点",
+      "rank": 30,
+      "title": "中国队冲金点",
+      "topic_id": "231522e474350110f0da5201fc644dfd05c164"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 7,
+      "posts": "saved",
+      "query": "新郎一句现在也是你妈妈了",
+      "rank": 31,
+      "title": "新郎一句现在也是你妈妈了",
+      "topic_id": "231522af8a7f2e161acdb7592961131f690d85"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "Lisa 鼻子",
+      "rank": 32,
+      "title": "Lisa 鼻子",
+      "topic_id": "231522894d83b81b34fae02ab9ac598ee29415"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#邓亚萍说张本智和心态不一样了#",
+      "rank": 33,
+      "title": "邓亚萍说张本智和心态不一样了",
+      "topic_id": "231522845bb2885ac023b617880ddda714e55c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#卢昱晓有四部待播作品#",
+      "rank": 34,
+      "title": "卢昱晓有四部待播作品",
+      "topic_id": "231522bb6fe583bc1cee9b5f3d01bba1dcecc9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#刘雯自始至终一句话没说#",
+      "rank": 35,
+      "title": "刘雯自始至终一句话没说",
+      "topic_id": "231522e98aeabe798b03b0d5163d0fbd729abb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "缅怀刘欢",
+      "rank": 36,
+      "title": "缅怀刘欢",
+      "topic_id": "2315220b31428e605a38a404a995a396f4a494"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "亚运王者荣耀直播渠道",
+      "rank": 37,
+      "title": "亚运王者荣耀直播渠道",
+      "topic_id": "2315223390293c932c8148d470abfbca149ff5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#文淇宁艺卓刘浩存李庚希时尚芭莎预热#",
+      "rank": 38,
+      "title": "文淇宁艺卓刘浩存李庚希时尚芭莎预热",
+      "topic_id": "231522799596eae984a6e0e7da71884c7a7a46"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 8,
+      "posts": "saved",
+      "query": "#刘国正谈莎头组合不敌栋曼组合#",
+      "rank": 39,
+      "title": "刘国正谈莎头组合不敌栋曼组合",
+      "topic_id": "2315221481e7d8ad4b6bf95a6f8d19dca30746"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#大熊猫平平福双已启程赴美#",
+      "rank": 40,
+      "title": "大熊猫平平福双已启程赴美",
+      "topic_id": "2315223c1e2eee722ab2cfd7ab64ce59905b80"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "中国游泳队谁行谁上的含金量还在上升",
+      "rank": 41,
+      "title": "中国游泳队谁行谁上的含金量还在上升",
+      "topic_id": "231522c17bc955660f1751ab9e6f188542d1f1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#蔡磊确诊渐冻症后的第七个中秋#",
+      "rank": 42,
+      "title": "蔡磊确诊渐冻症后的第七个中秋",
+      "topic_id": "231522afdccaa90181d205dd8f155c9e0e10f1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "阿那亚深夜泡面吧天天排两百米",
+      "rank": 43,
+      "title": "阿那亚深夜泡面吧天天排两百米",
+      "topic_id": "231522ed002f05610eec64b7c009fd50a4e8ef"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#王楚钦用胜利打脸质疑#",
+      "rank": 44,
+      "title": "王楚钦用胜利打脸质疑",
+      "topic_id": "2315227874d9b17fc74abe803d764a6dfdb682"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 8,
+      "posts": "saved",
+      "query": "主播双下巴卖不卖笑死人",
+      "rank": 45,
+      "title": "主播双下巴卖不卖笑死人",
+      "topic_id": "231522a4f6d059661ef8acdee92c803b6d3582"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "英格兰2比3西班牙",
+      "rank": 46,
+      "title": "英格兰2比3西班牙",
+      "topic_id": "231522a861cb8fda96a9020ec0400ce359becf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#肖战站起来巨人来的#",
+      "rank": 47,
+      "title": "肖战站起来巨人来的",
+      "topic_id": "231522477ee7550f3da374f0a7a00ec3319c44"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#四川广元一乡村被曝无事酒泛滥#",
+      "rank": 48,
+      "title": "四川广元一乡村被曝无事酒泛滥",
+      "topic_id": "2315222ebf113c59daa7738b687038544284c3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 6,
+      "posts": "saved",
+      "query": "#LV的官方画师是什么水准#",
+      "rank": 49,
+      "title": "LV的官方画师是什么水准",
+      "topic_id": "231522d4f4cb2932898b1f9083ec84202c0a26"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#Claude刷新物理学世界纪录#",
+      "rank": 50,
+      "title": "Claude刷新物理学世界纪录",
+      "topic_id": "23152231359ba5702b7922e7c306365a789465"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 0.9803921568627451,
+      "metrics": 0.9803921568627451,
+      "posts": 0.9803921568627451
+    }
+  }
+}

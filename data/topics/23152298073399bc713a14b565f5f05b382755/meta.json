@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2292899701
   },
-  "last_seen_at": "2026-09-27T09:00:00+08:00",
+  "last_seen_at": "2026-09-27T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B9%9D%E6%9C%88%E5%A4%9A%E4%BD%8D%E5%85%AC%E4%BC%97%E4%BA%BA%E7%89%A9%E7%9B%B8%E7%BB%A7%E7%A6%BB%E4%B8%96%23%26t%3D3&title=发布媒体",
-    "show_str": "28家媒体",
+    "show_str": "41家媒体",
     "users": [
       {
         "id": 2292899701,
@@ -44,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 2647971081,
+        "idstr": "2647971081",
+        "screen_name": "时速新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1497087080,
         "idstr": "1497087080",
         "screen_name": "羊城晚报",
@@ -51,16 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 7613700701,
-        "idstr": "7613700701",
-        "screen_name": "共富财经",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5652470745,
-        "idstr": "5652470745",
-        "screen_name": "广西都市频道",
+        "id": 7694378984,
+        "idstr": "7694378984",
+        "screen_name": "大象综艺",
         "verified": true,
         "verified_type": 3
       }
