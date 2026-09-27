@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-27T16:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 1,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#习主席的华盛顿时间#",
+      "rank": 1,
+      "title": "习主席的华盛顿时间",
+      "topic_id": "231522c5a2c068fedb0f0a044f54e4f02db77f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "乒乓球",
+      "rank": 1,
+      "title": "乒乓球",
+      "topic_id": "231522571c4d3c50312404d3c82b8dc02e2805"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "豆包回答70岁前去世占比",
+      "rank": 2,
+      "title": "豆包回答70岁前去世占比",
+      "topic_id": "2315223d0260bfa0a45ee8e8ae497a7fe4c30e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#中国队昂扬向上的精神太动人#",
+      "rank": 3,
+      "title": "中国队昂扬向上的精神太动人",
+      "topic_id": "2315224a011568e3aadadac3dfa645a4b60228"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#孙颖莎4比1赢了早田希娜#",
+      "rank": 4,
+      "title": "孙颖莎4比1赢了早田希娜",
+      "topic_id": "2315229616ecc67bf34f325b3e03fe591fe419"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#张本美和不敌王曼昱后落泪#",
+      "rank": 5,
+      "title": "张本美和不敌王曼昱后落泪",
+      "topic_id": "2315225548e6ddb0fb49d06e590e1c90294b2e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#北京释放7亿只小蜂治毛毛虫#",
+      "rank": 6,
+      "title": "北京释放7亿只小蜂治毛毛虫",
+      "topic_id": "231522d4afdf4486d5b09bbc6e1e2d788a666f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#张本美和说王曼昱在各环节都更强#",
+      "rank": 7,
+      "title": "张本美和说王曼昱在各环节都更强",
+      "topic_id": "231522ea65989e3c070cfe4c61bf660458f0ae"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#蔡磊夫妇分居共战渐冻症#",
+      "rank": 8,
+      "title": "蔡磊夫妇分居共战渐冻症",
+      "topic_id": "23152288c70452cafb10bf8b546b651038a09c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "研究生导师把丑话说在前面",
+      "rank": 9,
+      "title": "研究生导师把丑话说在前面",
+      "topic_id": "23152268dbb5ebb861852af20611d7ac887645"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#王曼昱亚运双杀张本美和#",
+      "rank": 10,
+      "title": "王曼昱亚运双杀张本美和",
+      "topic_id": "231522c0d114932be784ce8ef3452121bc5d38"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#胡歌黄曦宁在一起已经六年了#",
+      "rank": 11,
+      "title": "胡歌黄曦宁在一起已经六年了",
+      "topic_id": "231522795d8a6672e3cda2f4bee7f4f5bc77a9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "井柏然 恨我的继续爱我的别停",
+      "rank": 12,
+      "title": "井柏然 恨我的继续爱我的别停",
+      "topic_id": "23152294aa5598e6fa077c86d63d54f3fee3bd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "九岁儿子护母推倒奶奶尾骨摔折",
+      "rank": 13,
+      "title": "九岁儿子护母推倒奶奶尾骨摔折",
+      "topic_id": "23152270af4989bcf70818e8bf207e5603ebe9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "孙颖莎我听见了",
+      "rank": 14,
+      "title": "孙颖莎我听见了",
+      "topic_id": "23152211e1c6d8c838f8a57285d09bb76a26d6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "袁娅维把微博发到了萨顶顶超话",
+      "rank": 15,
+      "title": "袁娅维把微博发到了萨顶顶超话",
+      "topic_id": "2315222ca8df09f18e30f8e3fc36cd527397bd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#胡歌3岁女儿近照#",
+      "rank": 16,
+      "title": "胡歌3岁女儿近照",
+      "topic_id": "231522e4b8cfeea6f9776c53458fb050380bfc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "交强险经营亏损两百多亿",
+      "rank": 17,
+      "title": "交强险经营亏损两百多亿",
+      "topic_id": "231522faa5fa3693f09cc919068ac3a94d3a96"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王一博采访道歉#",
+      "rank": 18,
+      "title": "王一博采访道歉",
+      "topic_id": "231522ad54abd0a7f36b80f82ddab994fef59f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#OpenAI暂停其最强模型训练#",
+      "rank": 19,
+      "title": "OpenAI暂停其最强模型训练",
+      "topic_id": "231522ec834f5e59beca286144858f4e18b862"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#仅退款的风终于吹到了影视界#",
+      "rank": 20,
+      "title": "仅退款的风终于吹到了影视界",
+      "topic_id": "231522723bcc6c3a58c180db3331459305a6e0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "罗永浩称俞敏洪卖劣质溜溜凳",
+      "rank": 21,
+      "title": "罗永浩称俞敏洪卖劣质溜溜凳",
+      "topic_id": "2315226ba300623969692bcd129a45068d464a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "淡淡男友",
+      "rank": 22,
+      "title": "淡淡男友",
+      "topic_id": "231522fa55e30611b0103263d1d865b5414556"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#婚后9年发现喜褥里有对棉花小人#",
+      "rank": 23,
+      "title": "婚后9年发现喜褥里有对棉花小人",
+      "topic_id": "231522f34111bda4f0b9df4b4dc62c3fa2afd8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "烧纸也开始上科技了",
+      "rank": 24,
+      "title": "烧纸也开始上科技了",
+      "topic_id": "2315227250b8316b7a72de9adb1e459c668ea5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#国乒男双无缘会师决赛#",
+      "rank": 25,
+      "title": "国乒男双无缘会师决赛",
+      "topic_id": "231522504402a4cd4ea4c766ab0f65436c71ea"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#广州岭南印象园一女演员从高处坠落#",
+      "rank": 26,
+      "title": "广州岭南印象园一女演员从高处坠落",
+      "topic_id": "23152279c1373bb317f4b88f392637cf47819f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#巴黎偶遇迪丽热巴了#",
+      "rank": 27,
+      "title": "巴黎偶遇迪丽热巴了",
+      "topic_id": "231522fde4c817157380e01ccdf1583e9e3cab"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#郎朗悼念刘欢#",
+      "rank": 28,
+      "title": "郎朗悼念刘欢",
+      "topic_id": "231522160e0c0b751154f64f153c7086306c40"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "孙颖莎vs早田希娜",
+      "rank": 29,
+      "title": "孙颖莎vs早田希娜",
+      "topic_id": "231522510d72497c4c3cf0c536b0b091326971"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#刘欢逝世带来一个健康提醒#",
+      "rank": 30,
+      "title": "刘欢逝世带来一个健康提醒",
+      "topic_id": "231522cd02b31420e786c96e1514f1bbddeda6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#洪楗华去世#",
+      "rank": 31,
+      "title": "洪楗华去世",
+      "topic_id": "2315227d2d841b754760a9f30fb0b643b6145f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "第五人格",
+      "rank": 32,
+      "title": "第五人格",
+      "topic_id": "2315228fef4f8eac269bed1cd09eb50312ce52"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#温瑞博男团决赛丢两分男双遭大逆转#",
+      "rank": 33,
+      "title": "温瑞博男团决赛丢两分男双遭大逆转",
+      "topic_id": "2315220d0e6329bcacd01fb590c79b409fbcf9"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "哈尔滨工程大学学生翻墙被警告处分",
+      "rank": 34,
+      "title": "哈尔滨工程大学学生翻墙被警告处分",
+      "topic_id": "231522ce6b95cdb9892cefd1ac3418df78b442"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "新郎一句现在也是你妈妈了",
+      "rank": 35,
+      "title": "新郎一句现在也是你妈妈了",
+      "topic_id": "231522af8a7f2e161acdb7592961131f690d85"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "不会做饭的人建议反复观看",
+      "rank": 36,
+      "title": "不会做饭的人建议反复观看",
+      "topic_id": "23152269f9e69eef139ca1302082b2103cb96e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "跳舞的好处被严重低估了",
+      "rank": 37,
+      "title": "跳舞的好处被严重低估了",
+      "topic_id": "231522755fc2880654037fc6c7cfcb42661dbd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "罗永浩 锤子科技",
+      "rank": 38,
+      "title": "罗永浩 锤子科技",
+      "topic_id": "231522a2e7c445915ee0d02161ec3557d4f0d9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#大熊猫赴美箱子里有回国车票#",
+      "rank": 39,
+      "title": "大熊猫赴美箱子里有回国车票",
+      "topic_id": "231522c1daa94db209c2cb7bd10e6d2bb919eb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#韩乔生谈王曼昱4比1战胜张本美和#",
+      "rank": 40,
+      "title": "韩乔生谈王曼昱4比1战胜张本美和",
+      "topic_id": "23152288018ab53483d723a4f48ed40cd3fb7b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#央视曝假助农直播间#",
+      "rank": 41,
+      "title": "央视曝假助农直播间",
+      "topic_id": "231522046168839a0a585cde54775d43edd1f0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "原来我养脸方式一直都是错的",
+      "rank": 42,
+      "title": "原来我养脸方式一直都是错的",
+      "topic_id": "231522a1d68aa08a7a9f35371bf0dff46a8261"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#权威数读观中国#",
+      "rank": 43,
+      "title": "权威数读观中国",
+      "topic_id": "231522256e3fec2e645269a34edd1604262cd9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#孙颖莎王曼昱冲亚运女单八连冠#",
+      "rank": 44,
+      "title": "孙颖莎王曼昱冲亚运女单八连冠",
+      "topic_id": "231522d24f129783af7389356f3c18718c78da"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#郭富城两女儿遗传爸爸的舞蹈基因#",
+      "rank": 45,
+      "title": "郭富城两女儿遗传爸爸的舞蹈基因",
+      "topic_id": "231522718cbf3bc6ae11def261662cc39464d5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#谁看了沈月喝可乐这段能不笑#",
+      "rank": 46,
+      "title": "谁看了沈月喝可乐这段能不笑",
+      "topic_id": "23152218e0f59d8409a37290d3cdbcc4ce1b6f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "鞠婧祎新剧来战登上试卷",
+      "rank": 47,
+      "title": "鞠婧祎新剧来战登上试卷",
+      "topic_id": "23152258ac3e47ac96c9a51a713d70e84a9bc4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#刘学义擦完谭松韵擦自己#",
+      "rank": 48,
+      "title": "刘学义擦完谭松韵擦自己",
+      "topic_id": "231522d6d0527949ce1d68b9f2e13d61934676"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#厦门的挖机在TikTok火了#",
+      "rank": 49,
+      "title": "厦门的挖机在TikTok火了",
+      "topic_id": "2315226f7658c650d6099f3fa5817c24dfd869"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#贾乃亮祝经纪人新婚大喜#",
+      "rank": 50,
+      "title": "贾乃亮祝经纪人新婚大喜",
+      "topic_id": "2315228550c539db3af45344a602f8d3d04686"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
