@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-27T21:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 1,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#80秒回顾习近平美国之行#",
+      "rank": 1,
+      "title": "80秒回顾习近平美国之行",
+      "topic_id": "23152244cb9cff366d971e98347b92f4b7a52b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "王曼昱冠军",
+      "rank": 1,
+      "title": "王曼昱冠军",
+      "topic_id": "231522c4c3a0152e3bb668e0b3f5b663210e69"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "吴艳妮铜牌",
+      "rank": 2,
+      "title": "吴艳妮铜牌",
+      "topic_id": "2315228e5e67f2f39f2a08eec76d5388d6d32c"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#中国队昂扬向上的精神太动人#",
+      "rank": 3,
+      "title": "中国队昂扬向上的精神太动人",
+      "topic_id": "2315224a011568e3aadadac3dfa645a4b60228"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "孙颖莎亚军",
+      "rank": 4,
+      "title": "孙颖莎亚军",
+      "topic_id": "231522aaab713c42c8161ed4c723789afab3e7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#樊振东3比0格拉尔多#",
+      "rank": 5,
+      "title": "樊振东3比0格拉尔多",
+      "topic_id": "23152263539990f31e88eccff57305974085f3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#严子怡破亚运会纪录#",
+      "rank": 6,
+      "title": "严子怡破亚运会纪录",
+      "topic_id": "2315224c3a0bd6f76b315ca8e1f62b7cc95b5d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#吴艳妮夺铜牌后哭了#",
+      "rank": 7,
+      "title": "吴艳妮夺铜牌后哭了",
+      "topic_id": "231522d955bdb624a162ac199986ad6b71014a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张家齐妈妈聊天记录#",
+      "rank": 8,
+      "title": "张家齐妈妈聊天记录",
+      "topic_id": "231522d94927ee706e7e87ced7354dc954fe21"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "金鹰奖",
+      "rank": 9,
+      "title": "金鹰奖",
+      "topic_id": "231522c6f1ef9fdfb7f6a7220b2b1c6496735d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "乒乓球德甲联赛",
+      "rank": 10,
+      "title": "乒乓球德甲联赛",
+      "topic_id": "23152284a457b69d8571f485eaf26cf4fa1b6f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#仅退款的风终于吹到了影视界#",
+      "rank": 11,
+      "title": "仅退款的风终于吹到了影视界",
+      "topic_id": "231522723bcc6c3a58c180db3331459305a6e0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "合肥地震",
+      "rank": 12,
+      "title": "合肥地震",
+      "topic_id": "2315225ff58c488bd56770e9e63995cee56b40"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#陈圆将110米栏金牌#",
+      "rank": 13,
+      "title": "陈圆将110米栏金牌",
+      "topic_id": "231522e84192bb91eeb5f8f00647f703df5cdf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#兰香如故林二爷下线#",
+      "rank": 14,
+      "title": "兰香如故林二爷下线",
+      "topic_id": "231522bc25b5eab62a93aad8672a2c42618959"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#刘欢在歌手上唱了大S写给范晓萱的歌#",
+      "rank": 15,
+      "title": "刘欢在歌手上唱了大S写给范晓萱的歌",
+      "topic_id": "2315224ae17303a373d9f6943ff4f17dbf30cd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#黄友政林诗栋金牌#",
+      "rank": 16,
+      "title": "黄友政林诗栋金牌",
+      "topic_id": "231522b269884f429afe55c01f9c916442a825"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#吴艳妮摘铜拉林雨薇共披国旗庆祝#",
+      "rank": 17,
+      "title": "吴艳妮摘铜拉林雨薇共披国旗庆祝",
+      "topic_id": "2315224cfa9a82be747bcc6d090650daffc1f5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#严子怡亚运金牌#",
+      "rank": 18,
+      "title": "严子怡亚运金牌",
+      "topic_id": "231522b4d68b463af5fc343b73b5a0b479b5e5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#樊振东票房破361万#",
+      "rank": 19,
+      "title": "樊振东票房破361万",
+      "topic_id": "231522b34eb826f2efc517a6d7f56c8553e68c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "小米18Pro防窥屏用户认可",
+      "rank": 20,
+      "title": "小米18Pro防窥屏用户认可",
+      "topic_id": "231522a1c298e0b5958e02b46e996f968e9321"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张家齐妈妈让她用工资给自己买生日礼物#",
+      "rank": 21,
+      "title": "张家齐妈妈让她用工资给自己买生日礼物",
+      "topic_id": "231522fc57852a5ed8c7bb9f7da268ec793dfe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "儿子要倒插门妈妈毫不犹豫同意",
+      "rank": 22,
+      "title": "儿子要倒插门妈妈毫不犹豫同意",
+      "topic_id": "231522a704fd7edc1e7ad0247e51555fedc88d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "兰香如故 二爷",
+      "rank": 23,
+      "title": "兰香如故 二爷",
+      "topic_id": "231522d00bc972878611653af0bcef9bd640ce"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张家齐看到妈妈哭的反应#",
+      "rank": 24,
+      "title": "张家齐看到妈妈哭的反应",
+      "topic_id": "231522d53e19fe442a295a9552663c728f050f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#罗永浩留言俞敏洪问退款吗#",
+      "rank": 25,
+      "title": "罗永浩留言俞敏洪问退款吗",
+      "topic_id": "231522e8a9a7e80ed6faaceeec6c25c3c7c1c9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#林诗栋第2金#",
+      "rank": 26,
+      "title": "林诗栋第2金",
+      "topic_id": "231522d614c1b60712800946ed54e9bdbb3c21"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#陈妤颉200米摘银#",
+      "rank": 27,
+      "title": "陈妤颉200米摘银",
+      "topic_id": "231522bc2f3ecb51b2ed78781d1f3fd1ba3ab5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "兰香如故热度",
+      "rank": 28,
+      "title": "兰香如故热度",
+      "topic_id": "23152235f393d2c1c85a0fb85e75bf19cc3b50"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "刘雯 井柏然",
+      "rank": 29,
+      "title": "刘雯 井柏然",
+      "topic_id": "231522a22f58e139d169329d6433a5cabe9813"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#难怪黄灿灿妈妈厌烦张家齐妈妈行为#",
+      "rank": 30,
+      "title": "难怪黄灿灿妈妈厌烦张家齐妈妈行为",
+      "topic_id": "2315223dafa4b6ae6798583fbd45e647cd5ec5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#原来明星一顿饭只吃几口是真的#",
+      "rank": 31,
+      "title": "原来明星一顿饭只吃几口是真的",
+      "topic_id": "231522309607fb44f2e415575bc06e826241d0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "孙颖莎 体力透支",
+      "rank": 32,
+      "title": "孙颖莎 体力透支",
+      "topic_id": "2315226689cb01b6de7f9e6df2073e4b2db55a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#贷款中介集体删除朋友圈#",
+      "rank": 33,
+      "title": "贷款中介集体删除朋友圈",
+      "topic_id": "2315220e2d830918280e43552cba6dd9139bc7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "刘雯被粉丝叮嘱少上网多务工",
+      "rank": 34,
+      "title": "刘雯被粉丝叮嘱少上网多务工",
+      "topic_id": "2315225998c18919cc5840e924b8550e8a35e9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#淡淡得了原位宫颈癌#",
+      "rank": 35,
+      "title": "淡淡得了原位宫颈癌",
+      "topic_id": "2315227171f70d3f565894a0725bdd75e34a1b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#张本智和回应不敌林诗栋黄友政#",
+      "rank": 36,
+      "title": "张本智和回应不敌林诗栋黄友政",
+      "topic_id": "23152279a8a189e33ccb4a5f4ffa1f9be0426a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#边伯贤林俊杰合唱交换余生#",
+      "rank": 37,
+      "title": "边伯贤林俊杰合唱交换余生",
+      "topic_id": "231522cd7ef8e2321bc484fc3d3ada10440675"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#18岁严子怡破纪录夺冠#",
+      "rank": 38,
+      "title": "18岁严子怡破纪录夺冠",
+      "topic_id": "2315224ba8d5bc20bc33c69b90ef3aae3483ed"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#觉得压力大的可以看28年劳动节#",
+      "rank": 39,
+      "title": "觉得压力大的可以看28年劳动节",
+      "topic_id": "231522dbda7524c712db062135c1315966f4e4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#樊振东vs格拉尔多#",
+      "rank": 40,
+      "title": "樊振东vs格拉尔多",
+      "topic_id": "231522089648cd2c9a8da1eb31c571edadeaa8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#拾荒21年男子领到42万养老金#",
+      "rank": 41,
+      "title": "拾荒21年男子领到42万养老金",
+      "topic_id": "231522887e0e6c35b6cf792bd2d2d612b95b84"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#侯佩岑不愧是毕业于南加大双学位#",
+      "rank": 42,
+      "title": "侯佩岑不愧是毕业于南加大双学位",
+      "topic_id": "23152287e7bf593492de1e2c67963b600cb90b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#张家齐让妈妈住酒店#",
+      "rank": 43,
+      "title": "张家齐让妈妈住酒店",
+      "topic_id": "2315223fdd420ec91cde982ee0f924c7812d51"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#任嘉伦今年做了肠胃镜手术#",
+      "rank": 44,
+      "title": "任嘉伦今年做了肠胃镜手术",
+      "topic_id": "23152248c2cc42937ce070fb022201049c647b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#国足vs新西兰#",
+      "rank": 45,
+      "title": "国足vs新西兰",
+      "topic_id": "231522da86564722ed32924e0fd569e0265f6f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "谭松韵流量花争议",
+      "rank": 46,
+      "title": "谭松韵流量花争议",
+      "topic_id": "231522e70797719958d6fee59c7e0ca787d61d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#国足半场0比2新西兰#",
+      "rank": 47,
+      "title": "国足半场0比2新西兰",
+      "topic_id": "231522b58b186aed169797a978beb8aca5f227"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "兰香如故",
+      "rank": 48,
+      "title": "兰香如故",
+      "topic_id": "231522c6a223bd3a54fc2af87227153bdbc48d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "雷军 小米18Pro",
+      "rank": 49,
+      "title": "雷军 小米18Pro",
+      "topic_id": "2315224b5eaf429cb4c8d836ea83e026f0c91f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王曼昱亚运会第5金#",
+      "rank": 50,
+      "title": "王曼昱亚运会第5金",
+      "topic_id": "2315224b51fa741c54885827d5046c0e984870"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
