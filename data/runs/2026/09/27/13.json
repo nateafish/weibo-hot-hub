@@ -1,0 +1,537 @@
+{
+  "captured_at": "2026-09-27T13:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 0,
+    "metrics_saved": 50,
+    "posts_saved": 50
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#习主席的华盛顿时间#",
+      "rank": 1,
+      "title": "习主席的华盛顿时间",
+      "topic_id": "231522c5a2c068fedb0f0a044f54e4f02db77f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#温瑞博向鹏vs张本智和筱冢大登#",
+      "rank": 1,
+      "title": "温瑞博向鹏vs张本智和筱冢大登",
+      "topic_id": "231522e1243e060bbd4230cdd9f15e483ab0fd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "交强险经营亏损两百多亿",
+      "rank": 2,
+      "title": "交强险经营亏损两百多亿",
+      "topic_id": "231522faa5fa3693f09cc919068ac3a94d3a96"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#花样文旅点亮中秋假期#",
+      "rank": 3,
+      "title": "花样文旅点亮中秋假期",
+      "topic_id": "231522f220bcbb8e6c21d47beff9674ce3048f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#亚运乒乓球女单#",
+      "rank": 4,
+      "title": "亚运乒乓球女单",
+      "topic_id": "231522f44588e245d2ae98351f68fe4b275dec"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#北京释放7亿只小蜂治毛毛虫#",
+      "rank": 5,
+      "title": "北京释放7亿只小蜂治毛毛虫",
+      "topic_id": "231522d4afdf4486d5b09bbc6e1e2d788a666f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#管泽元余霜得女#",
+      "rank": 6,
+      "title": "管泽元余霜得女",
+      "topic_id": "2315220be1b2c54b5055852f49cd735c5494e7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张继科高情商回应和樊振东谁更强#",
+      "rank": 7,
+      "title": "张继科高情商回应和樊振东谁更强",
+      "topic_id": "231522d5e63592aa521414a60abd04f09c77ed"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#河南一技校101名毕业生入职北大#",
+      "rank": 8,
+      "title": "河南一技校101名毕业生入职北大",
+      "topic_id": "2315222851b282d4ba85ca162c02e4c027a8e2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#锦衣搜金录官宣阵容#",
+      "rank": 9,
+      "title": "锦衣搜金录官宣阵容",
+      "topic_id": "231522eca45f62dcbf1594eb29c5c781d8d567"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#许兰香喂林锦岐吃骡子剩的红糖#",
+      "rank": 10,
+      "title": "许兰香喂林锦岐吃骡子剩的红糖",
+      "topic_id": "2315227f41272da3bb1d96add2cc7fa41cef82"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "九岁儿子护母推倒奶奶尾骨摔折",
+      "rank": 11,
+      "title": "九岁儿子护母推倒奶奶尾骨摔折",
+      "topic_id": "23152270af4989bcf70818e8bf207e5603ebe9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "井柏然 恨我的继续爱我的别停",
+      "rank": 12,
+      "title": "井柏然 恨我的继续爱我的别停",
+      "topic_id": "23152294aa5598e6fa077c86d63d54f3fee3bd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "袁娅维把微博发到了萨顶顶超话",
+      "rank": 13,
+      "title": "袁娅维把微博发到了萨顶顶超话",
+      "topic_id": "2315222ca8df09f18e30f8e3fc36cd527397bd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "哈尔滨工程大学学生翻墙被警告处分",
+      "rank": 14,
+      "title": "哈尔滨工程大学学生翻墙被警告处分",
+      "topic_id": "231522ce6b95cdb9892cefd1ac3418df78b442"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#胡歌3岁女儿近照#",
+      "rank": 15,
+      "title": "胡歌3岁女儿近照",
+      "topic_id": "231522e4b8cfeea6f9776c53458fb050380bfc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#王楚钦对手阿拉米扬自曝腰还在疼#",
+      "rank": 16,
+      "title": "王楚钦对手阿拉米扬自曝腰还在疼",
+      "topic_id": "231522714ad2a53a45e16217faf74ce5041436"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#黄友政林诗栋vs松岛辉空户上隼辅#",
+      "rank": 17,
+      "title": "黄友政林诗栋vs松岛辉空户上隼辅",
+      "topic_id": "231522614e7ae7e9ee9a32a8096db704ec073c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "黄友政林诗栋 晋级决赛",
+      "rank": 18,
+      "title": "黄友政林诗栋 晋级决赛",
+      "topic_id": "23152282fadca6ed1b7d22a59eaa44b8d8d16d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#那英临时申请弯弯的月亮演唱版权#",
+      "rank": 19,
+      "title": "那英临时申请弯弯的月亮演唱版权",
+      "topic_id": "2315226ccbc893c8354d841b10882be9f891d8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#余承东回应问界模式调整#",
+      "rank": 20,
+      "title": "余承东回应问界模式调整",
+      "topic_id": "23152214a61f43cf69af0b94592268f4170554"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "原来我养脸方式一直都是错的",
+      "rank": 21,
+      "title": "原来我养脸方式一直都是错的",
+      "topic_id": "231522a1d68aa08a7a9f35371bf0dff46a8261"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#00后女孩被量身定制杀猪盘骗超50万#",
+      "rank": 22,
+      "title": "00后女孩被量身定制杀猪盘骗超50万",
+      "topic_id": "23152233d0d67c31e3af5ec956accaf3489a4d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "王晓慧开通微博",
+      "rank": 23,
+      "title": "王晓慧开通微博",
+      "topic_id": "231522eb0c60e06bedd5199176ab83789feaa4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#黄曦宁从胡歌经纪人一步步走到伴侣#",
+      "rank": 24,
+      "title": "黄曦宁从胡歌经纪人一步步走到伴侣",
+      "topic_id": "23152258f15bb24494ea96e2931c4c4d85eec1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "结婚总比一个人独居强",
+      "rank": 25,
+      "title": "结婚总比一个人独居强",
+      "topic_id": "231522f9cc7d162a9779dd818b52737c05c1e1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#林诗栋单双打双杀松岛辉空户上隼辅#",
+      "rank": 26,
+      "title": "林诗栋单双打双杀松岛辉空户上隼辅",
+      "topic_id": "23152296a26f2f5f62ca9b015de8716c7a4bdc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "罗永浩被指欠郑刚两千五百万",
+      "rank": 27,
+      "title": "罗永浩被指欠郑刚两千五百万",
+      "topic_id": "231522d3848f03970782ea774e18b88aa76b0c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#警方回应杰克辣条疑遭持刀伤害#",
+      "rank": 28,
+      "title": "警方回应杰克辣条疑遭持刀伤害",
+      "topic_id": "2315226165b6eb73b2876c3b2cfca64b9fcb19"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "王者荣耀中国vs老挝",
+      "rank": 29,
+      "title": "王者荣耀中国vs老挝",
+      "topic_id": "231522392825af4c7e3c1717e4a0df77e43168"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#上3休7上3休1#",
+      "rank": 30,
+      "title": "上3休7上3休1",
+      "topic_id": "231522df47b91077b259910ca2a719457525c0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "新郎一句现在也是你妈妈了",
+      "rank": 31,
+      "title": "新郎一句现在也是你妈妈了",
+      "topic_id": "231522af8a7f2e161acdb7592961131f690d85"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#贾乃亮祝经纪人新婚大喜#",
+      "rank": 32,
+      "title": "贾乃亮祝经纪人新婚大喜",
+      "topic_id": "2315228550c539db3af45344a602f8d3d04686"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "Lisa 鼻子",
+      "rank": 33,
+      "title": "Lisa 鼻子",
+      "topic_id": "231522894d83b81b34fae02ab9ac598ee29415"
+    },
+    {
+      "ai": "pending",
+      "metrics": "failed",
+      "metrics_error": "TopicFetchError: Topic detail is missing a stable id or title",
+      "posts": "pending",
+      "query": "王者荣耀亚运会",
+      "rank": 34,
+      "title": "王者荣耀亚运会"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "不会做饭的人建议反复观看",
+      "rank": 35,
+      "title": "不会做饭的人建议反复观看",
+      "topic_id": "23152269f9e69eef139ca1302082b2103cb96e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "看完烤肉冷知识想喷水",
+      "rank": 36,
+      "title": "看完烤肉冷知识想喷水",
+      "topic_id": "2315224efa60470b5737b55de28f593342b08e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 6,
+      "posts": "saved",
+      "query": "研究生导师把丑话说在前面",
+      "rank": 37,
+      "title": "研究生导师把丑话说在前面",
+      "topic_id": "23152268dbb5ebb861852af20611d7ac887645"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#井柏然是刘雯的Luke是Flora的#",
+      "rank": 38,
+      "title": "井柏然是刘雯的Luke是Flora的",
+      "topic_id": "231522ffec97fb2da24efc599cdf70f52fb379"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王楚钦用胜利打脸质疑#",
+      "rank": 39,
+      "title": "王楚钦用胜利打脸质疑",
+      "topic_id": "2315227874d9b17fc74abe803d764a6dfdb682"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "北京毛毛虫",
+      "rank": 40,
+      "title": "北京毛毛虫",
+      "topic_id": "231522982c6ccd1216fddd5e9dc4321ee429cc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#蔡磊夫妇分居共战渐冻症#",
+      "rank": 41,
+      "title": "蔡磊夫妇分居共战渐冻症",
+      "topic_id": "23152288c70452cafb10bf8b546b651038a09c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#小怡同学报警了#",
+      "rank": 42,
+      "title": "小怡同学报警了",
+      "topic_id": "23152287f912562403b8c0dde43baacc216dce"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#店员称不堪骚扰偷加高度酒灌醉顾客#",
+      "rank": 43,
+      "title": "店员称不堪骚扰偷加高度酒灌醉顾客",
+      "topic_id": "231522f70a3aa7fa988c37e215e1085b09ad86"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "到手两万多从银行离职不后悔",
+      "rank": 44,
+      "title": "到手两万多从银行离职不后悔",
+      "topic_id": "2315227b349cbfa0e5489abe6004aa9ae8b897"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "王者荣耀",
+      "rank": 45,
+      "title": "王者荣耀",
+      "topic_id": "231522ccb61d96c8f867d4f6c412e95c4f173a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#第16届金鹰节开幕式节目单#",
+      "rank": 46,
+      "title": "第16届金鹰节开幕式节目单",
+      "topic_id": "231522992d27ff4fd73b5a7c17e3901be80729"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张家齐和张家齐妈妈考古傅园慧父女#",
+      "rank": 47,
+      "title": "张家齐和张家齐妈妈考古傅园慧父女",
+      "topic_id": "2315225820daf71bd405b73a3dea50ca4e2bc6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 6,
+      "posts": "saved",
+      "query": "#河南一技校学生大二就被预定#",
+      "rank": 48,
+      "title": "河南一技校学生大二就被预定",
+      "topic_id": "2315225a48898db83d1b67009541ad98f69860"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "易烊千玺新概念罤",
+      "rank": 49,
+      "title": "易烊千玺新概念罤",
+      "topic_id": "231522c144d1d0d2b91968d0c3c1a79c1084bd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#有没有和我一样在找AI的#",
+      "rank": 50,
+      "title": "有没有和我一样在找AI的",
+      "topic_id": "2315223dd94de8022c25914539cddd51a57e98"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 0.9803921568627451,
+      "metrics": 0.9803921568627451,
+      "posts": 0.9803921568627451
+    }
+  }
+}

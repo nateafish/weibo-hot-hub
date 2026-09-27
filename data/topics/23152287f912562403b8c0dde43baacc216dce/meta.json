@@ -10,11 +10,19 @@
     "status": 2,
     "uid": 5612278337
   },
-  "last_seen_at": "2026-09-27T11:00:00+08:00",
+  "last_seen_at": "2026-09-27T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%B0%8F%E6%80%A1%E5%90%8C%E5%AD%A6%E6%8A%A5%E8%AD%A6%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "1家媒体",
+    "users": [
+      {
+        "id": 1406911561,
+        "idstr": "1406911561",
+        "screen_name": "云南广播电视台",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#小怡同学报警了#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%80%A1%E5%90%8C%E5%AD%A6%E6%8A%A5%E8%AD%A6%E4%BA%86%23",

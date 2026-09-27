@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 5821230078
   },
-  "last_seen_at": "2026-09-27T11:00:00+08:00",
+  "last_seen_at": "2026-09-27T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%92%8C%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88%E8%80%83%E5%8F%A4%E5%82%85%E5%9B%AD%E6%85%A7%E7%88%B6%E5%A5%B3%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "2家媒体",
     "users": [
       {
         "id": 1867427515,
         "idstr": "1867427515",
         "screen_name": "新派新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1802564537,
+        "idstr": "1802564537",
+        "screen_name": "新派观察",
         "verified": true,
         "verified_type": 3
       }
@@ -27,7 +34,7 @@
   "query": "#张家齐和张家齐妈妈考古傅园慧父女#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%92%8C%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88%E8%80%83%E5%8F%A4%E5%82%85%E5%9B%AD%E6%85%A7%E7%88%B6%E5%A5%B3%23",
   "sub_category": null,
-  "summary": "",
+  "summary": "张家齐和张家齐妈妈考古傅园慧父女！",
   "title": "张家齐和张家齐妈妈考古傅园慧父女",
   "topic_id": "2315225820daf71bd405b73a3dea50ca4e2bc6"
 }
