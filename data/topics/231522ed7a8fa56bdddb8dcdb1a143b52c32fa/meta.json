@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 6355176057
   },
-  "last_seen_at": "2026-09-28T07:00:00+08:00",
+  "last_seen_at": "2026-09-28T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%94%B5%E5%AD%90%E7%AB%9E%E6%8A%80%E9%A1%B9%E7%9B%AE%E5%B0%86%E9%80%80%E5%87%BA%E4%BA%9A%E8%BF%90%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "8家媒体",
     "users": [
       {
         "id": 2813313591,
         "idstr": "2813313591",
         "screen_name": "中新网海南",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2131593523,
+        "idstr": "2131593523",
+        "screen_name": "羊城晚报金羊网",
         "verified": true,
         "verified_type": 3
       },
@@ -30,6 +37,20 @@
         "verified_type": 3
       },
       {
+        "id": 1899227237,
+        "idstr": "1899227237",
+        "screen_name": "青岛早报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1893892941,
+        "idstr": "1893892941",
+        "screen_name": "北京日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1859550620,
         "idstr": "1859550620",
         "screen_name": "深圳新闻广播",
@@ -37,9 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1403842922,
-        "idstr": "1403842922",
-        "screen_name": "琅琊新闻网",
+        "id": 1657914910,
+        "idstr": "1657914910",
+        "screen_name": "烟台日报社大小新闻",
         "verified": true,
         "verified_type": 3
       }
