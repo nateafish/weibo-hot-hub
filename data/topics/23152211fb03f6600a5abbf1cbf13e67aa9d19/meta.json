@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2028810631
   },
-  "last_seen_at": "2026-09-28T09:00:00+08:00",
+  "last_seen_at": "2026-09-28T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%94%B7%E5%8D%95%E6%AF%94%E8%B5%9B%E6%97%B6%E9%97%B4%23%26t%3D3&title=发布媒体",
-    "show_str": "8家媒体",
+    "show_str": "56家媒体",
     "users": [
       {
         "id": 2028810631,
         "idstr": "2028810631",
         "screen_name": "新浪新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1712686623,
+        "idstr": "1712686623",
+        "screen_name": "手机上的新浪",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +37,30 @@
         "verified_type": 3
       },
       {
-        "id": 2647971081,
-        "idstr": "2647971081",
-        "screen_name": "时速新闻",
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2011805155,
-        "idstr": "2011805155",
-        "screen_name": "烟台音乐广播",
+        "id": 2115259662,
+        "idstr": "2115259662",
+        "screen_name": "洪观新闻",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1898885525,
-        "idstr": "1898885525",
-        "screen_name": "生活报新街派",
+        "id": 7750453817,
+        "idstr": "7750453817",
+        "screen_name": "第1热评",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1882632930,
-        "idstr": "1882632930",
-        "screen_name": "新消息报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1749990115,
-        "idstr": "1749990115",
-        "screen_name": "北京青年报",
+        "id": 7738005609,
+        "idstr": "7738005609",
+        "screen_name": "第1眼看天下",
         "verified": true,
         "verified_type": 3
       }
