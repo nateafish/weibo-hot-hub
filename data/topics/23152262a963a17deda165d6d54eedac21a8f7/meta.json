@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 6260534625
   },
-  "last_seen_at": "2026-09-28T18:00:00+08:00",
+  "last_seen_at": "2026-09-28T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9D%8E%E8%A0%95%E8%A0%95%E6%94%B6%E5%85%A5%E6%AF%94%E5%A8%B1%E4%B9%90%E5%9C%88%E5%BE%88%E5%A4%9A%E4%BA%BA%E9%AB%98%23%26t%3D3&title=发布媒体",
-    "show_str": "17家媒体",
+    "show_str": "27家媒体",
     "users": [
+      {
+        "id": 2115259662,
+        "idstr": "2115259662",
+        "screen_name": "洪观新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1288429914,
         "idstr": "1288429914",
         "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1723216063,
+        "idstr": "1723216063",
+        "screen_name": "佛山新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 6524418706,
         "idstr": "6524418706",
         "screen_name": "四川观察新视线",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3203137375,
-        "idstr": "3203137375",
-        "screen_name": "四川观察",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2647971081,
-        "idstr": "2647971081",
-        "screen_name": "时速新闻",
         "verified": true,
         "verified_type": 3
       }
