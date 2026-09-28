@@ -1,0 +1,209 @@
+{
+  "captured_at": "2026-09-28T14:00:00+08:00",
+  "contributors": [
+    {
+      "contribution": 7,
+      "profile_url": "https://weibo.com/u/5044281310",
+      "rank": 1,
+      "uid": "5044281310",
+      "username": "澎湃新闻",
+      "verified": true,
+      "verified_type": 3
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/7900487181",
+      "rank": 2,
+      "uid": "7900487181",
+      "username": "电台播放器",
+      "verified": false,
+      "verified_type": -1
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/3900384085",
+      "rank": 3,
+      "uid": "3900384085",
+      "username": "新干发布",
+      "verified": true,
+      "verified_type": 3
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/1684452940",
+      "rank": 4,
+      "uid": "1684452940",
+      "username": "新浪广东",
+      "verified": true,
+      "verified_type": 3
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/1199581807",
+      "rank": 5,
+      "uid": "1199581807",
+      "username": "态度岛",
+      "verified": true,
+      "verified_type": 0
+    },
+    {
+      "contribution": 1,
+      "profile_url": "https://weibo.com/u/7397212326",
+      "rank": 6,
+      "uid": "7397212326",
+      "username": "_香自苦寒",
+      "verified": false,
+      "verified_type": -1
+    },
+    {
+      "contribution": 1,
+      "profile_url": "https://weibo.com/u/1936119975",
+      "rank": 7,
+      "uid": "1936119975",
+      "username": "影弟于智奇",
+      "verified": true,
+      "verified_type": 0
+    }
+  ],
+  "contributors_scheme": "sinaweibo://cardlist?containerid=231522type%3D103%26q%3D%23%E4%BE%9B%E9%94%80%E7%A4%BE%E8%81%8C%E5%B7%A5%E6%8B%90%E5%8D%96%E5%A4%96%E7%B1%8D%E5%A6%87%E5%A5%B3%E8%8E%B7%E5%88%91%23&title=话题贡献者排行",
+  "current_boards": {
+    "hot_band": {
+      "ori": {
+        "category": "民生新闻",
+        "is_boom": 0,
+        "num": 439854,
+        "onband": 1,
+        "onboard_time": 1790577741,
+        "pos": 19,
+        "subject_querys": [],
+        "transparency_tag": null
+      },
+      "scheme": "sinaweibo://pageinfo?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Drealtimehot&title=热搜榜&extparam=",
+      "sub_info": [],
+      "text": "热搜榜第19位"
+    },
+    "hot_band_24_hour": {
+      "ori": {
+        "on_band": 1
+      }
+    },
+    "social_band": {
+      "ori": {
+        "category": "民生新闻",
+        "is_boom": 0,
+        "onband": 1,
+        "pos": 10,
+        "subject_querys": []
+      },
+      "scheme": "sinaweibo://pageinfo?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Dsocial&title=社会榜&extparam=",
+      "sub_info": [],
+      "text": "社会榜第10位"
+    }
+  },
+  "exact_counts": {
+    "buy_num": 0,
+    "g_mention": 46,
+    "gone_num": 0,
+    "interact": 105,
+    "mention": 46,
+    "ori_m": 8,
+    "ori_uv": 6,
+    "r_valid": 1300224,
+    "read": 2356749,
+    "rec_num": 0,
+    "show": 0,
+    "star": 1.5,
+    "t_m_num": 23,
+    "t_r_num": 2363945,
+    "wants_num": 0
+  },
+  "heat": 1,
+  "overview": {
+    "24h": {
+      "interaction": {
+        "unit": "",
+        "val": 105
+      },
+      "mention": {
+        "unit": "",
+        "val": 46
+      },
+      "original": {
+        "unit": "",
+        "val": 8
+      },
+      "read": {
+        "unit": "万",
+        "val": 234.1
+      }
+    },
+    "30d": {
+      "interaction": {
+        "unit": "",
+        "val": 105
+      },
+      "mention": {
+        "unit": "",
+        "val": 46
+      },
+      "original": {
+        "unit": "",
+        "val": 8
+      },
+      "read": {
+        "unit": "万",
+        "val": 234.1
+      }
+    },
+    "all": {
+      "interaction": {
+        "unit": "",
+        "val": 105
+      },
+      "mention": {
+        "unit": "",
+        "val": 46
+      },
+      "original": {
+        "unit": "",
+        "val": 8
+      },
+      "read": {
+        "unit": "万",
+        "val": 235.7
+      }
+    }
+  },
+  "rank_history": [
+    {
+      "cate": "hot_board",
+      "cate_desc": "热搜榜",
+      "duration_hour": 0,
+      "duration_minute": 12,
+      "duration_mod_min": 12,
+      "off_board_time": "202609281453",
+      "on_board_time": "202609281442",
+      "top_pos": 18,
+      "topic_flag": 1
+    },
+    {
+      "cate": "society_board",
+      "cate_desc": "社会榜",
+      "duration_hour": 0,
+      "duration_minute": 30,
+      "duration_mod_min": 30,
+      "off_board_time": "202609281455",
+      "on_board_time": "202609281210",
+      "top_pos": 10,
+      "topic_flag": 1
+    }
+  ],
+  "title": "供销社职工拐卖外籍妇女获刑",
+  "topic_id": "2315223635ec6bab874f04656f8a8966631ba4",
+  "window_counts": {
+    "1h_mention": 13,
+    "1h_ori_m": 2,
+    "24h_mention": 46,
+    "24h_read": 2340938
+  }
+}

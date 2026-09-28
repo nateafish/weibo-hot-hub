@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 2656274875
   },
-  "last_seen_at": "2026-09-28T12:00:00+08:00",
+  "last_seen_at": "2026-09-28T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%85%A8%E6%99%AF%E8%AE%B0%E5%BD%95%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E5%8D%8E%E7%9B%9B%E9%A1%BF%E4%B9%8B%E8%A1%8C%23%26t%3D3&title=发布媒体",
-    "show_str": "12家媒体",
+    "show_str": "13家媒体",
     "users": [
       {
         "id": 2656274875,
         "idstr": "2656274875",
         "screen_name": "央视新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5608027665,
+        "idstr": "5608027665",
+        "screen_name": "中国环境",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2290787940,
+        "idstr": "2290787940",
+        "screen_name": "扬州晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -37,30 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 1904947977,
+        "idstr": "1904947977",
+        "screen_name": "天山网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1359974471,
         "idstr": "1359974471",
         "screen_name": "中国共青团杂志",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6268080641,
-        "idstr": "6268080641",
-        "screen_name": "甘孜传媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5608027665,
-        "idstr": "5608027665",
-        "screen_name": "中国环境",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2921799343,
-        "idstr": "2921799343",
-        "screen_name": "天下泉城",
         "verified": true,
         "verified_type": 3
       }
