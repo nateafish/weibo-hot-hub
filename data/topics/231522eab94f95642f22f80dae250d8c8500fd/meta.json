@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 5130213751
   },
-  "last_seen_at": "2026-09-28T14:00:00+08:00",
+  "last_seen_at": "2026-09-28T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E4%B8%8B%E4%B8%AA%E7%BB%84%E5%8F%AF%E4%BB%A5%E6%8F%90%E4%B8%8A%E8%AE%AE%E7%A8%8B%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "26家媒体",
+    "show_str": "35家媒体",
     "users": [
       {
         "id": 1744332207,
         "idstr": "1744332207",
         "screen_name": "钱江视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3514732862,
+        "idstr": "3514732862",
+        "screen_name": "广西日报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +37,30 @@
         "verified_type": 3
       },
       {
-        "id": 7628575891,
-        "idstr": "7628575891",
-        "screen_name": "消费大嘴巴",
+        "id": 2647971081,
+        "idstr": "2647971081",
+        "screen_name": "时速新闻",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 7590570074,
-        "idstr": "7590570074",
-        "screen_name": "山海视频",
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 7568764901,
-        "idstr": "7568764901",
-        "screen_name": "数据杂志",
+        "id": 2075245652,
+        "idstr": "2075245652",
+        "screen_name": "长春晚报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 7422806367,
-        "idstr": "7422806367",
-        "screen_name": "中网传播",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7299136456,
-        "idstr": "7299136456",
-        "screen_name": "冬呱看点",
+        "id": 1960785875,
+        "idstr": "1960785875",
+        "screen_name": "津云新闻",
         "verified": true,
         "verified_type": 3
       }

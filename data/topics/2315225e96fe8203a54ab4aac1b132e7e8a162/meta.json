@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1682207150
   },
-  "last_seen_at": "2026-09-28T14:00:00+08:00",
+  "last_seen_at": "2026-09-28T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%89%8D%E7%A7%9F%E5%AE%A2%E6%90%AC%E8%B5%B0%E5%90%8E%E5%AD%A9%E5%AD%90%E7%8B%AC%E5%B1%85%E6%88%BF%E4%B8%9C%E9%99%B7%E6%94%B6%E6%88%BF%E9%9A%BE%23%26t%3D3&title=发布媒体",
-    "show_str": "29家媒体",
+    "show_str": "40家媒体",
     "users": [
       {
         "id": 1682207150,
@@ -30,9 +30,23 @@
         "verified_type": 3
       },
       {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1645578093,
         "idstr": "1645578093",
         "screen_name": "南风窗",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1642088277,
+        "idstr": "1642088277",
+        "screen_name": "财经网",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 6715513747,
-        "idstr": "6715513747",
-        "screen_name": "宁县融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6105713761,
-        "idstr": "6105713761",
-        "screen_name": "红星新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5145725878,
-        "idstr": "5145725878",
-        "screen_name": "沸点视频",
+        "id": 1308708761,
+        "idstr": "1308708761",
+        "screen_name": "千山晚报",
         "verified": true,
         "verified_type": 3
       }

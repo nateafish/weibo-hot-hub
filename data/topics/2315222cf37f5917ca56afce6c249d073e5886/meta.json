@@ -3,15 +3,36 @@
   "created_at": 1572423894,
   "first_seen_at": "2026-09-28T14:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-28T14:00:00+08:00",
+  "last_seen_at": "2026-09-28T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8D%8E%E4%B8%BAmate90%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "14家媒体",
     "users": [
       {
         "id": 1826017320,
         "idstr": "1826017320",
         "screen_name": "IT之家",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1651428902,
+        "idstr": "1651428902",
+        "screen_name": "21世纪经济报道",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7761793874,
+        "idstr": "7761793874",
+        "screen_name": "白鹿科技",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7750531853,
+        "idstr": "7750531853",
+        "screen_name": "朱雀财经",
         "verified": true,
         "verified_type": 3
       },
@@ -23,32 +44,18 @@
         "verified_type": 3
       },
       {
-        "id": 5286142904,
-        "idstr": "5286142904",
-        "screen_name": "极果",
+        "id": 7575030448,
+        "idstr": "7575030448",
+        "screen_name": "白鹿视频",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2309905191,
-        "idstr": "2309905191",
-        "screen_name": "全球IT资讯",
+        "id": 6891231323,
+        "idstr": "6891231323",
+        "screen_name": "云上深夜快递",
         "verified": true,
         "verified_type": 3
-      },
-      {
-        "id": 1898311272,
-        "idstr": "1898311272",
-        "screen_name": "投资快报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1649672924,
-        "idstr": "1649672924",
-        "screen_name": "机圈说",
-        "verified": true,
-        "verified_type": 0
       }
     ]
   },
