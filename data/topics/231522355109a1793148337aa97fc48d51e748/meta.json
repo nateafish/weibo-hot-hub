@@ -3,10 +3,10 @@
   "created_at": 1790541932,
   "first_seen_at": "2026-09-28T08:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-28T08:00:00+08:00",
+  "last_seen_at": "2026-09-28T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%8C%AA%E5%A8%811%E6%AF%942%E8%91%A1%E8%90%84%E7%89%99%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "7家媒体",
     "users": [
       {
         "id": 1638781994,
@@ -14,6 +14,13 @@
         "screen_name": "新浪体育",
         "verified": true,
         "verified_type": 7
+      },
+      {
+        "id": 1667867495,
+        "idstr": "1667867495",
+        "screen_name": "五星体育广播",
+        "verified": true,
+        "verified_type": 3
       },
       {
         "id": 5762891674,
@@ -33,6 +40,20 @@
         "id": 1819318401,
         "idstr": "1819318401",
         "screen_name": "央视网体育",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1767961804,
+        "idstr": "1767961804",
+        "screen_name": "大江新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497087080,
+        "idstr": "1497087080",
+        "screen_name": "羊城晚报",
         "verified": true,
         "verified_type": 3
       }

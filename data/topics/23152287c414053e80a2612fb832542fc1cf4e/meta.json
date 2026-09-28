@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1371701597
   },
-  "last_seen_at": "2026-09-28T08:00:00+08:00",
+  "last_seen_at": "2026-09-28T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%AD%A6%E5%A5%91%E5%A5%87%E6%AD%A3%E5%BC%8F%E8%BE%9E%E8%81%8C%23%26t%3D3&title=发布媒体",
-    "show_str": "31家媒体",
+    "show_str": "82家媒体",
     "users": [
       {
         "id": 1751714412,
         "idstr": "1751714412",
         "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1420157965,
+        "idstr": "1420157965",
+        "screen_name": "上游新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,9 +37,16 @@
         "verified_type": 3
       },
       {
-        "id": 7126605018,
-        "idstr": "7126605018",
-        "screen_name": "各界新闻网官微",
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1720962692,
+        "idstr": "1720962692",
+        "screen_name": "极目新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 6890796357,
-        "idstr": "6890796357",
-        "screen_name": "日照日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3804173419,
-        "idstr": "3804173419",
-        "screen_name": "各界导报社官微",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2921799343,
-        "idstr": "2921799343",
-        "screen_name": "天下泉城",
+        "id": 1653603955,
+        "idstr": "1653603955",
+        "screen_name": "扬子晚报",
         "verified": true,
         "verified_type": 3
       }

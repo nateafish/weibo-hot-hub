@@ -3,29 +3,43 @@
   "created_at": 1790553177,
   "first_seen_at": "2026-09-28T08:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-28T08:00:00+08:00",
+  "last_seen_at": "2026-09-28T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%8E%8B%E6%A5%9A%E9%92%A6+%E7%94%B7%E5%8D%95%23%26t%3D3&title=发布媒体",
-    "show_str": "16家媒体",
+    "show_str": "55家媒体",
     "users": [
+      {
+        "id": 1744332207,
+        "idstr": "1744332207",
+        "screen_name": "钱江视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1406911561,
+        "idstr": "1406911561",
+        "screen_name": "云南广播电视台",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2028810631,
         "idstr": "2028810631",
         "screen_name": "新浪新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3048800300,
-        "idstr": "3048800300",
-        "screen_name": "新浪圈子",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1712686623,
-        "idstr": "1712686623",
-        "screen_name": "手机上的新浪",
         "verified": true,
         "verified_type": 3
       },
@@ -37,23 +51,9 @@
         "verified_type": 3
       },
       {
-        "id": 7765798753,
-        "idstr": "7765798753",
-        "screen_name": "盱眙融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6890796357,
-        "idstr": "6890796357",
-        "screen_name": "日照日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5396094153,
-        "idstr": "5396094153",
-        "screen_name": "大众新闻-大众日报",
+        "id": 3275115274,
+        "idstr": "3275115274",
+        "screen_name": "中国吉林网",
         "verified": true,
         "verified_type": 3
       }
