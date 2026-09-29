@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1497087080
   },
-  "last_seen_at": "2026-09-29T09:00:00+08:00",
+  "last_seen_at": "2026-09-29T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%B7%B1%E5%9C%B3%E4%B8%80%E8%A1%97%E9%81%93%E5%8A%9E%E6%B7%B1%E5%A4%9C%E6%89%93%E9%BA%BB%E5%B0%86%E5%AE%9E%E4%B8%BA%E8%A7%86%E8%A7%89%E8%AF%AF%E5%B7%AE%23%26t%3D3&title=发布媒体",
-    "show_str": "36家媒体",
+    "show_str": "60家媒体",
     "users": [
       {
         "id": 1497087080,
@@ -30,6 +30,20 @@
         "verified_type": 3
       },
       {
+        "id": 1651428902,
+        "idstr": "1651428902",
+        "screen_name": "21世纪经济报道",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1882632930,
+        "idstr": "1882632930",
+        "screen_name": "新消息报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1769216315,
         "idstr": "1769216315",
         "screen_name": "小莉帮忙",
@@ -37,30 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 5787187353,
-        "idstr": "5787187353",
-        "screen_name": "羊城派",
+        "id": 7472856103,
+        "idstr": "7472856103",
+        "screen_name": "点时新闻",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 5608027665,
-        "idstr": "5608027665",
-        "screen_name": "中国环境",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5396094153,
-        "idstr": "5396094153",
-        "screen_name": "大众新闻-大众日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5145725878,
-        "idstr": "5145725878",
-        "screen_name": "沸点视频",
+        "id": 6444725927,
+        "idstr": "6444725927",
+        "screen_name": "吉祥新闻",
         "verified": true,
         "verified_type": 3
       }
