@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1557605344
   },
-  "last_seen_at": "2026-09-29T15:00:00+08:00",
+  "last_seen_at": "2026-09-29T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%238%E5%A4%A9%E5%8D%96%E4%BA%861%E5%8D%83%E5%A4%9A%E4%B8%87%E5%85%83%E7%9A%84%E8%B6%85%E9%95%BF%E8%9B%8B%E6%8C%9E%E5%85%A8%E6%98%AF%E7%9A%AE%23%26t%3D3&title=发布媒体",
-    "show_str": "33家媒体",
+    "show_str": "52家媒体",
     "users": [
       {
         "id": 1557605344,
@@ -26,6 +26,13 @@
         "id": 7141087529,
         "idstr": "7141087529",
         "screen_name": "铁骥视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2118120483,
+        "idstr": "2118120483",
+        "screen_name": "青岛日报",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 7529999695,
-        "idstr": "7529999695",
-        "screen_name": "速豹新闻",
+        "id": 7647806002,
+        "idstr": "7647806002",
+        "screen_name": "后浪视频",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 7439412545,
-        "idstr": "7439412545",
-        "screen_name": "速豹映像",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5864631680,
-        "idstr": "5864631680",
-        "screen_name": "科技猩球",
+        "id": 7572918188,
+        "idstr": "7572918188",
+        "screen_name": "新华网财经",
         "verified": true,
         "verified_type": 3
       }

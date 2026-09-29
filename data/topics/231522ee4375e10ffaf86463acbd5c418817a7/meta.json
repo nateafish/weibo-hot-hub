@@ -3,15 +3,36 @@
   "created_at": 1790647396,
   "first_seen_at": "2026-09-29T11:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-29T15:00:00+08:00",
+  "last_seen_at": "2026-09-29T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%91%9E%E5%B9%B8%E8%81%94%E5%90%8D%E8%A1%A8%E6%83%85%E5%8C%85+%E5%83%8F%E5%B0%BF%23%26t%3D3&title=发布媒体",
-    "show_str": "7家媒体",
+    "show_str": "12家媒体",
     "users": [
       {
         "id": 1887344341,
         "idstr": "1887344341",
         "screen_name": "观察者网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7884321614,
+        "idstr": "7884321614",
+        "screen_name": "微观上海_SH",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7399555658,
+        "idstr": "7399555658",
+        "screen_name": "红星资本局",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3066213245,
+        "idstr": "3066213245",
+        "screen_name": "邯郸新闻网",
         "verified": true,
         "verified_type": 3
       },
@@ -30,30 +51,9 @@
         "verified_type": 3
       },
       {
-        "id": 1734530730,
-        "idstr": "1734530730",
-        "screen_name": "大河报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1725252714,
-        "idstr": "1725252714",
-        "screen_name": "温度新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1723216063,
-        "idstr": "1723216063",
-        "screen_name": "佛山新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1280846847,
-        "idstr": "1280846847",
-        "screen_name": "指尖新闻-沈阳晚报",
+        "id": 2035321844,
+        "idstr": "2035321844",
+        "screen_name": "河池融媒",
         "verified": true,
         "verified_type": 3
       }

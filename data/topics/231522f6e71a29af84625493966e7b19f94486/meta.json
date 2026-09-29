@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1644114654
   },
-  "last_seen_at": "2026-09-29T15:00:00+08:00",
+  "last_seen_at": "2026-09-29T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E8%A2%AB%E7%8B%97%E5%92%AC%E6%B2%A1%E6%89%93%E7%96%AB%E8%8B%97%E7%A6%BB%E4%B8%96%23%26t%3D3&title=发布媒体",
-    "show_str": "36家媒体",
+    "show_str": "58家媒体",
     "users": [
       {
         "id": 1744332207,
@@ -26,6 +26,13 @@
         "id": 1644114654,
         "idstr": "1644114654",
         "screen_name": "新京报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1714800385,
+        "idstr": "1714800385",
+        "screen_name": "第一帮帮团",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 5145725878,
+        "idstr": "5145725878",
+        "screen_name": "沸点视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1398613133,
         "idstr": "1398613133",
         "screen_name": "马上资讯",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1288429914,
-        "idstr": "1288429914",
-        "screen_name": "今视频长天新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7308140398,
-        "idstr": "7308140398",
-        "screen_name": "大象新闻",
         "verified": true,
         "verified_type": 3
       }
