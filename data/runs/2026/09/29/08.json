@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-29T08:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#中美关系从温故到知新#",
+      "rank": 1,
+      "title": "中美关系从温故到知新",
+      "topic_id": "231522a5c68d6d09ec5d2ddb317c9b40af6789"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "兰香如故被指不把女配当人看",
+      "rank": 1,
+      "title": "兰香如故被指不把女配当人看",
+      "topic_id": "231522ce8df1d7d4a904a74383c12829e73491"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "北京大学禁止赴风景名胜区开会",
+      "rank": 2,
+      "title": "北京大学禁止赴风景名胜区开会",
+      "topic_id": "23152227ebd226b598a1f830c6bffe4a2e4b2f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#平平福双已运至亚特兰大动物园#",
+      "rank": 3,
+      "title": "平平福双已运至亚特兰大动物园",
+      "topic_id": "2315229fd0345dd6be7e58322373afa8eeedf7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#文旅局回应那英临时加唱弯弯的月亮#",
+      "rank": 4,
+      "title": "文旅局回应那英临时加唱弯弯的月亮",
+      "topic_id": "231522ad5102918b6893c04899d8be0ca10e67"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "詹姆斯 76人",
+      "rank": 5,
+      "title": "詹姆斯 76人",
+      "topic_id": "231522ff6594643b5200948e05e56bf557a52e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "涨薪意识",
+      "rank": 6,
+      "title": "涨薪意识",
+      "topic_id": "231522788cdc03718f938f35fba5b3c45c3ce9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#2岁娃疑连吃8个月银鳕鱼汞中毒#",
+      "rank": 7,
+      "title": "2岁娃疑连吃8个月银鳕鱼汞中毒",
+      "topic_id": "231522f8fe4cf5d57cc30d92d7225d08d568f5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "女顾客吐槽Tiffany后账号被限制",
+      "rank": 8,
+      "title": "女顾客吐槽Tiffany后账号被限制",
+      "topic_id": "231522044a0932dc003a5e702efea95c1b4f1a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#程靖淇说舆论对王楚钦是种消耗#",
+      "rank": 9,
+      "title": "程靖淇说舆论对王楚钦是种消耗",
+      "topic_id": "231522d6347242f40aad95e1b7d4ffd4be5799"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "王楚钦赛后采访",
+      "rank": 10,
+      "title": "王楚钦赛后采访",
+      "topic_id": "231522162ff6fba9f8027fb0bfed0badc40052"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#王楚钦快速摘掉银牌#",
+      "rank": 11,
+      "title": "王楚钦快速摘掉银牌",
+      "topic_id": "2315229ebde38e3a62c841bba6a64443bfe7ae"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王楚钦虽一金未得仍当得起一个赞#",
+      "rank": 12,
+      "title": "王楚钦虽一金未得仍当得起一个赞",
+      "topic_id": "2315225e5f72b8dd2d272632f6acdc6adc5a82"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#怪不得颖儿只有90斤#",
+      "rank": 13,
+      "title": "怪不得颖儿只有90斤",
+      "topic_id": "2315226be8a8b064ac2295d93509f3517df6d5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "国乒 最后一届亚运",
+      "rank": 14,
+      "title": "国乒 最后一届亚运",
+      "topic_id": "23152219d9f8fcac159eafdc6ba30293be7e2b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "Tiffany 小红书",
+      "rank": 15,
+      "title": "Tiffany 小红书",
+      "topic_id": "231522a160ab90b826abec836f78add3341ff6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "月薪五万该不该买两万包",
+      "rank": 16,
+      "title": "月薪五万该不该买两万包",
+      "topic_id": "231522fc6ec4b63895db59b6a9727430ec6fd2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张继科说他与樊振东马龙是男单最强三人#",
+      "rank": 17,
+      "title": "张继科说他与樊振东马龙是男单最强三人",
+      "topic_id": "2315220ec366d49256ebce3a81a76e2a2df549"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#邓亚萍说林诗栋压着王楚钦打#",
+      "rank": 18,
+      "title": "邓亚萍说林诗栋压着王楚钦打",
+      "topic_id": "2315220f2db17598520177283e5ea29e2f283e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#13岁男孩独居后洗手池全是霉菌#",
+      "rank": 19,
+      "title": "13岁男孩独居后洗手池全是霉菌",
+      "topic_id": "23152205f6c7f07c5cebcf153225f6b22c6b6a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "华为睿影Z10曝光",
+      "rank": 20,
+      "title": "华为睿影Z10曝光",
+      "topic_id": "2315223429b046b1188bf77a63862edccf6bb3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "华鼎奖提名名单",
+      "rank": 21,
+      "title": "华鼎奖提名名单",
+      "topic_id": "231522c4fa4de2abf019eba75d0868a5c0de85"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "樊振东德国梗被批",
+      "rank": 22,
+      "title": "樊振东德国梗被批",
+      "topic_id": "2315229f5e6739a20e50609d00c394fb83dce8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "婚礼刮出10万兄弟报销酒席",
+      "rank": 23,
+      "title": "婚礼刮出10万兄弟报销酒席",
+      "topic_id": "231522af65229acacdbb6fbc453c21a3795673"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#肖战粉丝就这样每天吃好的#",
+      "rank": 24,
+      "title": "肖战粉丝就这样每天吃好的",
+      "topic_id": "2315226a065b36743f631abff6a5c9ea0e4087"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "短视频榨出穷人唯一还值钱的东西",
+      "rank": 25,
+      "title": "短视频榨出穷人唯一还值钱的东西",
+      "topic_id": "231522335a92d8e354edd01fd7fdae569f714a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#9种面相提示心脏出问题了#",
+      "rank": 26,
+      "title": "9种面相提示心脏出问题了",
+      "topic_id": "2315224dfab63138d591b2bac195a48ebc1007"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#这种宝藏碳水竟是脂肪肝克星#",
+      "rank": 27,
+      "title": "这种宝藏碳水竟是脂肪肝克星",
+      "topic_id": "2315227c02c3adce92ba1ff2a9726199ae408c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王楚钦时代没结束林诗栋时代加速开启#",
+      "rank": 28,
+      "title": "王楚钦时代没结束林诗栋时代加速开启",
+      "topic_id": "2315224e74571da0e0ac49f2969f105f19f8e0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#肖战就这样一本正经的胡说八道#",
+      "rank": 29,
+      "title": "肖战就这样一本正经的胡说八道",
+      "topic_id": "231522cab7a9de51578fc7db9f4d0ea8a90da7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#奚梦瑶拿蛋糕这个动作#",
+      "rank": 30,
+      "title": "奚梦瑶拿蛋糕这个动作",
+      "topic_id": "2315221b6f7a6f2453d04f35be4acbfa45af2a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#刘学义就这样在所有人雷区上跳舞#",
+      "rank": 31,
+      "title": "刘学义就这样在所有人雷区上跳舞",
+      "topic_id": "231522b5d2693bd2946545ae5959dcbf606535"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#谭松韵居然和井柏然拍过吻戏#",
+      "rank": 32,
+      "title": "谭松韵居然和井柏然拍过吻戏",
+      "topic_id": "2315226a87299f0d3f65f60fabc081362d6265"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "亚运会乒乓球收官",
+      "rank": 33,
+      "title": "亚运会乒乓球收官",
+      "topic_id": "2315223cb76b9a4e43050e20bf76fa6a13c245"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 7,
+      "posts": "saved",
+      "query": "#侯英超谈王楚钦银牌#",
+      "rank": 34,
+      "title": "侯英超谈王楚钦银牌",
+      "topic_id": "231522cf011ea10062156fe737bdc2c187ec40"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "李现澳网明星赛晋级四强",
+      "rank": 35,
+      "title": "李现澳网明星赛晋级四强",
+      "topic_id": "231522a380b0023bd2f8d0b52ecd5ebb6daeb2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#穆祉丞T台走秀#",
+      "rank": 36,
+      "title": "穆祉丞T台走秀",
+      "topic_id": "23152232c46436fd2ca20f542c5ce266203e71"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "詹姆斯曾计划加盟尼克斯",
+      "rank": 37,
+      "title": "詹姆斯曾计划加盟尼克斯",
+      "topic_id": "23152206ee3490d36d8a1bf0327d698848fc3b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "经济学家担心恩格斯停顿重现",
+      "rank": 38,
+      "title": "经济学家担心恩格斯停顿重现",
+      "topic_id": "2315225f8654700fcfb611ae696a8576be733e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "刘欢亲弟弟刘啸声音太像刘欢",
+      "rank": 39,
+      "title": "刘欢亲弟弟刘啸声音太像刘欢",
+      "topic_id": "231522d421be00469e108c8f4c637e5636f805"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "九年护工劝你别太心疼爹妈",
+      "rank": 40,
+      "title": "九年护工劝你别太心疼爹妈",
+      "topic_id": "2315220ce29da41653d6c5d5629b15ea454141"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#比利时0比1法国#",
+      "rank": 41,
+      "title": "比利时0比1法国",
+      "topic_id": "231522c322b4b2a4deb9464a9557b716f078e9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#那英临时加唱弯弯的月亮会被罚款吗#",
+      "rank": 42,
+      "title": "那英临时加唱弯弯的月亮会被罚款吗",
+      "topic_id": "2315228a75728f7de91ec342bf6851433e9ac9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "兰香如故韩粱被冻死了",
+      "rank": 43,
+      "title": "兰香如故韩粱被冻死了",
+      "topic_id": "2315228dc34be876f0632570702f3c6fc8eea0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#深圳一街道办深夜打麻将实为视觉误差#",
+      "rank": 44,
+      "title": "深圳一街道办深夜打麻将实为视觉误差",
+      "topic_id": "2315227d16d05aae46785f3e896d2a4cc0a4d4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "麻袋装礼物被嘲笑后反转",
+      "rank": 45,
+      "title": "麻袋装礼物被嘲笑后反转",
+      "topic_id": "231522abb3a39ee9a3bd07b8f52af65b353ad2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "何猷君 矮人家半个头还要去追小明",
+      "rank": 46,
+      "title": "何猷君 矮人家半个头还要去追小明",
+      "topic_id": "2315229446e5212611c90c53e50ba5e4b74f5a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "老师辞职后课代表忘屏蔽我朋友圈",
+      "rank": 47,
+      "title": "老师辞职后课代表忘屏蔽我朋友圈",
+      "topic_id": "23152218fd429db34b4706936c64186890eb4d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "美债收益率飙升至5.23%",
+      "rank": 48,
+      "title": "美债收益率飙升至5.23%",
+      "topic_id": "231522078fbf1685b4dc54d227eb08ac77601d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张家齐大大方方谈钱#",
+      "rank": 49,
+      "title": "张家齐大大方方谈钱",
+      "topic_id": "231522a218b8f89c0fdec1ec1e63bbe7f3eda5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "AI硬件需求暴跌传闻不可信",
+      "rank": 50,
+      "title": "AI硬件需求暴跌传闻不可信",
+      "topic_id": "2315221f61eaa1b43f44264b8610b586e2749c"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
