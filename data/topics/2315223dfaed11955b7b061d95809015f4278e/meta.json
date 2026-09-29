@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 5036486495
   },
-  "last_seen_at": "2026-09-29T11:00:00+08:00",
+  "last_seen_at": "2026-09-29T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E6%98%AF%E4%B8%8D%E6%98%AF%E8%A7%89%E5%BE%97%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E4%BC%9A%E5%AB%81%E8%B1%AA%E9%97%A8%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "2家媒体",
     "users": [
       {
         "id": 2647971081,
         "idstr": "2647971081",
         "screen_name": "时速新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497418417,
+        "idstr": "1497418417",
+        "screen_name": "掌上温岭",
         "verified": true,
         "verified_type": 3
       }
