@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 3266943013
   },
-  "last_seen_at": "2026-09-29T21:00:00+08:00",
+  "last_seen_at": "2026-09-29T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%8B%B1%E9%AD%82%E4%B8%8D%E6%9C%BD%E5%B1%B1%E6%B2%B3%E6%B0%B8%E5%BF%B5%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "8家媒体",
     "users": [
       {
         "id": 3266943013,
         "idstr": "3266943013",
         "screen_name": "央视网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1479040710,
+        "idstr": "1479040710",
+        "screen_name": "河南法治报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6587633798,
+        "idstr": "6587633798",
+        "screen_name": "崇义发布",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1863222751,
+        "idstr": "1863222751",
+        "screen_name": "当代广西杂志",
         "verified": true,
         "verified_type": 3
       },
@@ -40,20 +61,6 @@
         "id": 2638176611,
         "idstr": "2638176611",
         "screen_name": "兴化发布",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2046576145,
-        "idstr": "2046576145",
-        "screen_name": "商丘日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1863222751,
-        "idstr": "1863222751",
-        "screen_name": "当代广西杂志",
         "verified": true,
         "verified_type": 3
       }
