@@ -18,61 +18,61 @@
 
 ## 今日微博热搜（2026-09-29）
 
-最后更新：2026-09-29 16:00:00（北京时间）｜[微博热搜榜](<https://s.weibo.com/top/summary>)｜[本次 JSON](<data/hotlists/2026/09/29/16.json>)｜[历史归档](./data/hotlists/)
+最后更新：2026-09-29 21:00:00（北京时间）｜[微博热搜榜](<https://s.weibo.com/top/summary>)｜[本次 JSON](<data/hotlists/2026/09/29/21.json>)｜[历史归档](./data/hotlists/)
 
 | 热度排名 | 话题 | 热度 | 标记 |
 | ---: | --- | ---: | :---: |
-| 1 | [宫廷糕点 泼天流量](<https://s.weibo.com/weibo?q=%E5%AE%AB%E5%BB%B7%E7%B3%95%E7%82%B9%20%E6%B3%BC%E5%A4%A9%E6%B5%81%E9%87%8F&t=31&band_rank=1&Refer=top>) | 1,844,463 | 新 |
-| 2 | [羽毛球女双决赛太悲壮了](<https://s.weibo.com/weibo?q=%23%E7%BE%BD%E6%AF%9B%E7%90%83%E5%A5%B3%E5%8F%8C%E5%86%B3%E8%B5%9B%E5%A4%AA%E6%82%B2%E5%A3%AE%E4%BA%86%23&t=31&band_rank=2&Refer=top>) | 1,124,356 | 新 |
-| 3 | [天山深处再现超级工程](<https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%B1%B1%E6%B7%B1%E5%A4%84%E5%86%8D%E7%8E%B0%E8%B6%85%E7%BA%A7%E5%B7%A5%E7%A8%8B%23&t=31&band_rank=3&Refer=top>) | 1,000,874 | 新 |
-| 4 | [陈芋汐第2金](<https://s.weibo.com/weibo?q=%E9%99%88%E8%8A%8B%E6%B1%90%E7%AC%AC2%E9%87%91&t=31&band_rank=5&Refer=top>) | 995,574 | 新 |
-| 5 | [成都Tiffany道歉艺名太好笑](<https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BDTiffany%E9%81%93%E6%AD%89%E8%89%BA%E5%90%8D%E5%A4%AA%E5%A5%BD%E7%AC%91&t=31&band_rank=6&Refer=top>) | 865,364 | 新 |
-| 6 | [仅退款把商家逼成什么程度了](<https://s.weibo.com/weibo?q=%23%E4%BB%85%E9%80%80%E6%AC%BE%E6%8A%8A%E5%95%86%E5%AE%B6%E9%80%BC%E6%88%90%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6%E4%BA%86%23&t=31&band_rank=7&Refer=top>) | 682,551 | — |
-| 7 | [老人报警丢4万民警找出23万](<https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E6%8A%A5%E8%AD%A6%E4%B8%A24%E4%B8%87%E6%B0%91%E8%AD%A6%E6%89%BE%E5%87%BA23%E4%B8%87%23&t=31&band_rank=8&Refer=top>) | 508,904 | 新 |
-| 8 | [金鹰奖晚会节目单](<https://s.weibo.com/weibo?q=%23%E9%87%91%E9%B9%B0%E5%A5%96%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95%23&t=31&band_rank=9&Refer=top>) | 507,859 | 新 |
-| 9 | [王者电竞健儿个性签名上线](<https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E7%94%B5%E7%AB%9E%E5%81%A5%E5%84%BF%E4%B8%AA%E6%80%A7%E7%AD%BE%E5%90%8D%E4%B8%8A%E7%BA%BF&t=31&band_rank=10&Refer=top>) | 495,381 | 新 |
-| 10 | [Tiffany月饼](<https://s.weibo.com/weibo?q=Tiffany%E6%9C%88%E9%A5%BC&t=31&band_rank=11&Refer=top>) | 483,643 | — |
-| 11 | [张家齐居然这么小就去训练了](<https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%B1%85%E7%84%B6%E8%BF%99%E4%B9%88%E5%B0%8F%E5%B0%B1%E5%8E%BB%E8%AE%AD%E7%BB%83%E4%BA%86%23&t=31&band_rank=12&Refer=top>) | 478,841 | 新 |
-| 12 | [中国队和平精英亚运会银牌](<https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%93%B6%E7%89%8C%23&t=31&band_rank=14&Refer=top>) | 462,976 | 新 |
-| 13 | [成都宫廷糕点回应Tiffany月饼事件](<https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%AE%AB%E5%BB%B7%E7%B3%95%E7%82%B9%E5%9B%9E%E5%BA%94Tiffany%E6%9C%88%E9%A5%BC%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=15&Refer=top>) | 383,246 | 新 |
-| 14 | [Tiffany中国区负责人致歉](<https://s.weibo.com/weibo?q=%23Tiffany%E4%B8%AD%E5%9B%BD%E5%8C%BA%E8%B4%9F%E8%B4%A3%E4%BA%BA%E8%87%B4%E6%AD%89%23&t=31&band_rank=17&Refer=top>) | 355,309 | — |
-| 15 | [赵丽颖的近况](<https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%9A%84%E8%BF%91%E5%86%B5%23&t=31&band_rank=19&Refer=top>) | 354,328 | 新 |
-| 16 | [Mate90砍掉了8GB入门内存](<https://s.weibo.com/weibo?q=%23Mate90%E7%A0%8D%E6%8E%89%E4%BA%868GB%E5%85%A5%E9%97%A8%E5%86%85%E5%AD%98%23&t=31&band_rank=20&Refer=top>) | 344,641 | — |
-| 17 | [食欲啊性欲啊玩俄罗斯方块就好了](<https://s.weibo.com/weibo?q=%E9%A3%9F%E6%AC%B2%E5%95%8A%E6%80%A7%E6%AC%B2%E5%95%8A%E7%8E%A9%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B9%E5%9D%97%E5%B0%B1%E5%A5%BD%E4%BA%86&t=31&band_rank=21&Refer=top>) | 342,980 | — |
-| 18 | [Tiffany 捂嘴](<https://s.weibo.com/weibo?q=Tiffany%20%E6%8D%82%E5%98%B4&t=31&band_rank=22&Refer=top>) | 339,721 | — |
-| 19 | [不会旅游的人建议反复观看](<https://s.weibo.com/weibo?q=%E4%B8%8D%E4%BC%9A%E6%97%85%E6%B8%B8%E7%9A%84%E4%BA%BA%E5%BB%BA%E8%AE%AE%E5%8F%8D%E5%A4%8D%E8%A7%82%E7%9C%8B&t=31&band_rank=23&Refer=top>) | 326,035 | — |
-| 20 | [超长蛋挞的第一个受害者出现了](<https://s.weibo.com/weibo?q=%E8%B6%85%E9%95%BF%E8%9B%8B%E6%8C%9E%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=25&Refer=top>) | 299,253 | 新 |
-| 21 | [性吸引力是第一要素](<https://s.weibo.com/weibo?q=%E6%80%A7%E5%90%B8%E5%BC%95%E5%8A%9B%E6%98%AF%E7%AC%AC%E4%B8%80%E8%A6%81%E7%B4%A0&t=31&band_rank=26&Refer=top>) | 296,951 | — |
-| 22 | [林诗栋男单颁奖出现不和谐声音](<https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B%E7%94%B7%E5%8D%95%E9%A2%81%E5%A5%96%E5%87%BA%E7%8E%B0%E4%B8%8D%E5%92%8C%E8%B0%90%E5%A3%B0%E9%9F%B3%23&t=31&band_rank=27&Refer=top>) | 295,162 | — |
-| 23 | [王玉雯忘了28号](<https://s.weibo.com/weibo?q=%E7%8E%8B%E7%8E%89%E9%9B%AF%E5%BF%98%E4%BA%8628%E5%8F%B7&t=31&band_rank=28&Refer=top>) | 284,787 | 新 |
-| 24 | [A股 3800点](<https://s.weibo.com/weibo?q=A%E8%82%A1%203800%E7%82%B9&t=31&band_rank=29&Refer=top>) | 262,012 | 新 |
-| 25 | [陈芋汐金牌](<https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8A%8B%E6%B1%90%E9%87%91%E7%89%8C%23&t=31&band_rank=30&Refer=top>) | 260,371 | 新 |
-| 26 | [Tiffany将对涉事员工进行处理](<https://s.weibo.com/weibo?q=%23Tiffany%E5%B0%86%E5%AF%B9%E6%B6%89%E4%BA%8B%E5%91%98%E5%B7%A5%E8%BF%9B%E8%A1%8C%E5%A4%84%E7%90%86%23&t=31&band_rank=32&Refer=top>) | 260,144 | 新 |
-| 27 | [左边那个小黑点是张家齐](<https://s.weibo.com/weibo?q=%23%E5%B7%A6%E8%BE%B9%E9%82%A3%E4%B8%AA%E5%B0%8F%E9%BB%91%E7%82%B9%E6%98%AF%E5%BC%A0%E5%AE%B6%E9%BD%90%23&t=31&band_rank=33&Refer=top>) | 259,647 | 新 |
-| 28 | [生病是一场巨大的清算](<https://s.weibo.com/weibo?q=%E7%94%9F%E7%97%85%E6%98%AF%E4%B8%80%E5%9C%BA%E5%B7%A8%E5%A4%A7%E7%9A%84%E6%B8%85%E7%AE%97&t=31&band_rank=35&Refer=top>) | 241,205 | — |
-| 29 | [锤娜丽莎疑似被张家齐妈妈气懵了](<https://s.weibo.com/weibo?q=%23%E9%94%A4%E5%A8%9C%E4%B8%BD%E8%8E%8E%E7%96%91%E4%BC%BC%E8%A2%AB%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88%E6%B0%94%E6%87%B5%E4%BA%86%23&t=31&band_rank=36&Refer=top>) | 237,594 | 新 |
-| 30 | [女儿外孙遭家暴华裔夫妇射杀女婿](<https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E5%A4%96%E5%AD%99%E9%81%AD%E5%AE%B6%E6%9A%B4%E5%8D%8E%E8%A3%94%E5%A4%AB%E5%A6%87%E5%B0%84%E6%9D%80%E5%A5%B3%E5%A9%BF%23&t=31&band_rank=37&Refer=top>) | 228,186 | — |
-| 31 | [瑞幸联名表情包 像尿](<https://s.weibo.com/weibo?q=%E7%91%9E%E5%B9%B8%E8%81%94%E5%90%8D%E8%A1%A8%E6%83%85%E5%8C%85%20%E5%83%8F%E5%B0%BF&t=31&band_rank=39&Refer=top>) | 224,159 | — |
-| 32 | [第五人格](<https://s.weibo.com/weibo?q=%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC&t=31&band_rank=40&Refer=top>) | 220,016 | 新 |
-| 33 | [华为光变巨炮相机](<https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%85%89%E5%8F%98%E5%B7%A8%E7%82%AE%E7%9B%B8%E6%9C%BA%23&t=31&band_rank=41&Refer=top>) | 211,225 | — |
-| 34 | [张婧仪展示ootd后红温了](<https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E5%B1%95%E7%A4%BAootd%E5%90%8E%E7%BA%A2%E6%B8%A9%E4%BA%86%23&t=31&band_rank=42&Refer=top>) | 196,116 | 新 |
-| 35 | [中国女足落后朝鲜](<https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E8%90%BD%E5%90%8E%E6%9C%9D%E9%B2%9C%23&t=31&band_rank=43&Refer=top>) | 183,468 | 新 |
-| 36 | [8天卖了1千多万元的超长蛋挞全是皮](<https://s.weibo.com/weibo?q=%238%E5%A4%A9%E5%8D%96%E4%BA%861%E5%8D%83%E5%A4%9A%E4%B8%87%E5%85%83%E7%9A%84%E8%B6%85%E9%95%BF%E8%9B%8B%E6%8C%9E%E5%85%A8%E6%98%AF%E7%9A%AE%23&t=31&band_rank=44&Refer=top>) | 177,400 | — |
-| 37 | [邓亚萍谈林诗栋获男单金牌](<https://s.weibo.com/weibo?q=%23%E9%82%93%E4%BA%9A%E8%90%8D%E8%B0%88%E6%9E%97%E8%AF%97%E6%A0%8B%E8%8E%B7%E7%94%B7%E5%8D%95%E9%87%91%E7%89%8C%23&t=31&band_rank=45&Refer=top>) | 175,074 | — |
-| 38 | [乌合之众定档](<https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%90%88%E4%B9%8B%E4%BC%97%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=46&Refer=top>) | 170,196 | — |
-| 39 | [20万消费换不来一盒送对的Tiffany月饼](<https://s.weibo.com/weibo?q=%2320%E4%B8%87%E6%B6%88%E8%B4%B9%E6%8D%A2%E4%B8%8D%E6%9D%A5%E4%B8%80%E7%9B%92%E9%80%81%E5%AF%B9%E7%9A%84Tiffany%E6%9C%88%E9%A5%BC%23&t=31&band_rank=47&Refer=top>) | 167,621 | 新 |
-| 40 | [多方回应男子被狗咬没打疫苗离世](<https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E8%A2%AB%E7%8B%97%E5%92%AC%E6%B2%A1%E6%89%93%E7%96%AB%E8%8B%97%E7%A6%BB%E4%B8%96%23&t=31&band_rank=48&Refer=top>) | 160,034 | — |
-| 41 | [谭松韵刘学义南京游园](<https://s.weibo.com/weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E5%88%98%E5%AD%A6%E4%B9%89%E5%8D%97%E4%BA%AC%E6%B8%B8%E5%9B%AD%23&t=31&band_rank=49&Refer=top>) | 151,964 | 新 |
-| 42 | [A股 创业板](<https://s.weibo.com/weibo?q=A%E8%82%A1%20%E5%88%9B%E4%B8%9A%E6%9D%BF&t=31&band_rank=50&Refer=top>) | 148,894 | 新 |
-| 43 | [总书记牵挂的小事里有大逻辑](<https://s.weibo.com/weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%89%B5%E6%8C%82%E7%9A%84%E5%B0%8F%E4%BA%8B%E9%87%8C%E6%9C%89%E5%A4%A7%E9%80%BB%E8%BE%91%23&Refer=new_time>) | — | 热 |
-| 44 | [锤娜丽莎长文谈我家那闺女](<https://s.weibo.com/weibo?q=%23%E9%94%A4%E5%A8%9C%E4%B8%BD%E8%8E%8E%E9%95%BF%E6%96%87%E8%B0%88%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3%23&t=31&band_rank=4&Refer=top>) | — | 新 |
-| 45 | [那英加唱不违规](<https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%E5%8A%A0%E5%94%B1%E4%B8%8D%E8%BF%9D%E8%A7%84&t=31&band_rank=13&Refer=top>) | — | 新 |
-| 46 | [肖战这里是在暗示红海吗](<https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%BF%99%E9%87%8C%E6%98%AF%E5%9C%A8%E6%9A%97%E7%A4%BA%E7%BA%A2%E6%B5%B7%E5%90%97%23&t=31&band_rank=16&Refer=top>) | — | 新 |
-| 47 | [潇湘晨报举报式采访那英](<https://s.weibo.com/weibo?q=%E6%BD%87%E6%B9%98%E6%99%A8%E6%8A%A5%E4%B8%BE%E6%8A%A5%E5%BC%8F%E9%87%87%E8%AE%BF%E9%82%A3%E8%8B%B1&t=31&band_rank=18&Refer=top>) | — | 新 |
-| 48 | [肖战歌词海报](<https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E6%AD%8C%E8%AF%8D%E6%B5%B7%E6%8A%A5&t=31&band_rank=24&Refer=top>) | — | — |
-| 49 | [曝王晓慧首部剧搭丁禹兮](<https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%8E%8B%E6%99%93%E6%85%A7%E9%A6%96%E9%83%A8%E5%89%A7%E6%90%AD%E4%B8%81%E7%A6%B9%E5%85%AE%23&t=31&band_rank=31&Refer=top>) | — | 新 |
-| 50 | [叶信之 二婚](<https://s.weibo.com/weibo?q=%E5%8F%B6%E4%BF%A1%E4%B9%8B%20%E4%BA%8C%E5%A9%9A&t=31&band_rank=34&Refer=top>) | — | — |
-| 51 | [金鹰奖 从简](<https://s.weibo.com/weibo?q=%E9%87%91%E9%B9%B0%E5%A5%96%20%E4%BB%8E%E7%AE%80&t=31&band_rank=38&Refer=top>) | — | 新 |
+| 1 | [购房贴息 150万](<https://s.weibo.com/weibo?q=%E8%B4%AD%E6%88%BF%E8%B4%B4%E6%81%AF%20150%E4%B8%87&t=31&band_rank=2&Refer=top>) | 2,775,017 | 热 |
+| 2 | [遵义三日](<https://s.weibo.com/weibo?q=%23%E9%81%B5%E4%B9%89%E4%B8%89%E6%97%A5%23&t=31&band_rank=3&Refer=top>) | 1,592,384 | 新 |
+| 3 | [Dior大秀](<https://s.weibo.com/weibo?q=Dior%E5%A4%A7%E7%A7%80&t=31&band_rank=5&Refer=top>) | 1,078,074 | 新 |
+| 4 | [4x100米混合接力中国队夺金](<https://s.weibo.com/weibo?q=%234x100%E7%B1%B3%E6%B7%B7%E5%90%88%E6%8E%A5%E5%8A%9B%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%BA%E9%87%91%23&t=31&band_rank=7&Refer=top>) | 951,709 | 新 |
+| 5 | [陈妤颉极限反超](<https://s.weibo.com/weibo?q=%E9%99%88%E5%A6%A4%E9%A2%89%E6%9E%81%E9%99%90%E5%8F%8D%E8%B6%85&t=31&band_rank=8&Refer=top>) | 797,334 | 新 |
+| 6 | [网传大学生替缺课老师讲课一小时](<https://s.weibo.com/weibo?q=%E7%BD%91%E4%BC%A0%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%9B%BF%E7%BC%BA%E8%AF%BE%E8%80%81%E5%B8%88%E8%AE%B2%E8%AF%BE%E4%B8%80%E5%B0%8F%E6%97%B6&t=31&band_rank=10&Refer=top>) | 553,369 | 新 |
+| 7 | [赵丽颖身体到底怎么了](<https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%BA%AB%E4%BD%93%E5%88%B0%E5%BA%95%E6%80%8E%E4%B9%88%E4%BA%86%23&t=31&band_rank=11&Refer=top>) | 552,487 | 新 |
+| 8 | [金鹰奖内场](<https://s.weibo.com/weibo?q=%23%E9%87%91%E9%B9%B0%E5%A5%96%E5%86%85%E5%9C%BA%23&t=31&band_rank=12&Refer=top>) | 552,251 | 新 |
+| 9 | [中国4x100米混接金牌](<https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD4x100%E7%B1%B3%E6%B7%B7%E6%8E%A5%E9%87%91%E7%89%8C%23&t=31&band_rank=14&Refer=top>) | 551,229 | 新 |
+| 10 | [锤娜丽莎秒删](<https://s.weibo.com/weibo?q=%E9%94%A4%E5%A8%9C%E4%B8%BD%E8%8E%8E%E7%A7%92%E5%88%A0&t=31&band_rank=15&Refer=top>) | 550,404 | 热 |
+| 11 | [陈芋汐打破女台20岁下滑魔咒](<https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8A%8B%E6%B1%90%E6%89%93%E7%A0%B4%E5%A5%B3%E5%8F%B020%E5%B2%81%E4%B8%8B%E6%BB%91%E9%AD%94%E5%92%92%23&t=31&band_rank=16&Refer=top>) | 550,062 | — |
+| 12 | [王鹤棣 哥们的哥们也很好](<https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E5%93%A5%E4%BB%AC%E7%9A%84%E5%93%A5%E4%BB%AC%E4%B9%9F%E5%BE%88%E5%A5%BD&t=31&band_rank=17&Refer=top>) | 549,192 | — |
+| 13 | [iQOO性能双子星登场](<https://s.weibo.com/weibo?q=%23iQOO%E6%80%A7%E8%83%BD%E5%8F%8C%E5%AD%90%E6%98%9F%E7%99%BB%E5%9C%BA%23&t=31&band_rank=18&Refer=top>) | 548,471 | 新 |
+| 14 | [迪丽热巴 明艳美人](<https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E6%98%8E%E8%89%B3%E7%BE%8E%E4%BA%BA&t=31&band_rank=19&Refer=top>) | 548,293 | 热 |
+| 15 | [全红婵伤病](<https://s.weibo.com/weibo?q=%E5%85%A8%E7%BA%A2%E5%A9%B5%E4%BC%A4%E7%97%85&t=31&band_rank=20&Refer=top>) | 547,403 | 新 |
+| 16 | [破坏夫妻关系最大的杀手](<https://s.weibo.com/weibo?q=%E7%A0%B4%E5%9D%8F%E5%A4%AB%E5%A6%BB%E5%85%B3%E7%B3%BB%E6%9C%80%E5%A4%A7%E7%9A%84%E6%9D%80%E6%89%8B&t=31&band_rank=22&Refer=top>) | 507,976 | — |
+| 17 | [周深直播](<https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E7%9B%B4%E6%92%AD&t=31&band_rank=23&Refer=top>) | 449,756 | 新 |
+| 18 | [全红婵 陈芋汐](<https://s.weibo.com/weibo?q=%E5%85%A8%E7%BA%A2%E5%A9%B5%20%E9%99%88%E8%8A%8B%E6%B1%90&t=31&band_rank=26&Refer=top>) | 406,291 | 新 |
+| 19 | [房贷贴息1个百分点](<https://s.weibo.com/weibo?q=%23%E6%88%BF%E8%B4%B7%E8%B4%B4%E6%81%AF1%E4%B8%AA%E7%99%BE%E5%88%86%E7%82%B9%23&t=31&band_rank=28&Refer=top>) | 343,375 | — |
+| 20 | [买车的底层逻辑变了](<https://s.weibo.com/weibo?q=%E4%B9%B0%E8%BD%A6%E7%9A%84%E5%BA%95%E5%B1%82%E9%80%BB%E8%BE%91%E5%8F%98%E4%BA%86&t=31&band_rank=29&Refer=top>) | 340,119 | — |
+| 21 | [华为Mate90全系配置曝光](<https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAMate90%E5%85%A8%E7%B3%BB%E9%85%8D%E7%BD%AE%E6%9B%9D%E5%85%89&t=31&band_rank=30&Refer=top>) | 339,381 | — |
+| 22 | [吴思颖崔译航直播亲了](<https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%80%9D%E9%A2%96%E5%B4%94%E8%AF%91%E8%88%AA%E7%9B%B4%E6%92%AD%E4%BA%B2%E4%BA%86%23&t=31&band_rank=31&Refer=top>) | 339,194 | 新 |
+| 23 | [金智秀 Dior公主](<https://s.weibo.com/weibo?q=%E9%87%91%E6%99%BA%E7%A7%80%20Dior%E5%85%AC%E4%B8%BB&t=31&band_rank=32&Refer=top>) | 338,761 | 新 |
+| 24 | [iQOO16行业首发2K+165Hz](<https://s.weibo.com/weibo?q=%23iQOO16%E8%A1%8C%E4%B8%9A%E9%A6%96%E5%8F%912K%2B165Hz%23&t=31&band_rank=35&Refer=top>) | 314,145 | 新 |
+| 25 | [热量不高但饱腹感很强的食物](<https://s.weibo.com/weibo?q=%E7%83%AD%E9%87%8F%E4%B8%8D%E9%AB%98%E4%BD%86%E9%A5%B1%E8%85%B9%E6%84%9F%E5%BE%88%E5%BC%BA%E7%9A%84%E9%A3%9F%E7%89%A9&t=31&band_rank=36&Refer=top>) | 312,604 | — |
+| 26 | [全红婵 陈若琳](<https://s.weibo.com/weibo?q=%E5%85%A8%E7%BA%A2%E5%A9%B5%20%E9%99%88%E8%8B%A5%E7%90%B3&t=31&band_rank=38&Refer=top>) | 259,586 | 新 |
+| 27 | [华人岳父母连开数枪杀女婿](<https://s.weibo.com/weibo?q=%E5%8D%8E%E4%BA%BA%E5%B2%B3%E7%88%B6%E6%AF%8D%E8%BF%9E%E5%BC%80%E6%95%B0%E6%9E%AA%E6%9D%80%E5%A5%B3%E5%A9%BF&t=31&band_rank=40&Refer=top>) | 254,920 | — |
+| 28 | [贴息](<https://s.weibo.com/weibo?q=%E8%B4%B4%E6%81%AF&t=31&band_rank=42&Refer=top>) | 251,784 | — |
+| 29 | [混合接力](<https://s.weibo.com/weibo?q=%E6%B7%B7%E5%90%88%E6%8E%A5%E5%8A%9B&t=31&band_rank=43&Refer=top>) | 248,302 | 新 |
+| 30 | [金鹰奖预测](<https://s.weibo.com/weibo?q=%E9%87%91%E9%B9%B0%E5%A5%96%E9%A2%84%E6%B5%8B&t=31&band_rank=44&Refer=top>) | 237,089 | 新 |
+| 31 | [黄灿灿聊天记录](<https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%81%BF%E7%81%BF%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%23&t=31&band_rank=45&Refer=top>) | 229,432 | — |
+| 32 | [中国男排vs韩国男排](<https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E6%8E%92vs%E9%9F%A9%E5%9B%BD%E7%94%B7%E6%8E%92&t=31&band_rank=46&Refer=top>) | 225,986 | 新 |
+| 33 | [赵雅芝张凯丽为金鹰女神颁奖](<https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9B%85%E8%8A%9D%E5%BC%A0%E5%87%AF%E4%B8%BD%E4%B8%BA%E9%87%91%E9%B9%B0%E5%A5%B3%E7%A5%9E%E9%A2%81%E5%A5%96%23&t=31&band_rank=47&Refer=top>) | 223,739 | 新 |
+| 34 | [国庆节的前一天是烈士纪念日](<https://s.weibo.com/weibo?q=%E5%9B%BD%E5%BA%86%E8%8A%82%E7%9A%84%E5%89%8D%E4%B8%80%E5%A4%A9%E6%98%AF%E7%83%88%E5%A3%AB%E7%BA%AA%E5%BF%B5%E6%97%A5&t=31&band_rank=48&Refer=top>) | 200,810 | 新 |
+| 35 | [网传画师被骗四万离世](<https://s.weibo.com/weibo?q=%E7%BD%91%E4%BC%A0%E7%94%BB%E5%B8%88%E8%A2%AB%E9%AA%97%E5%9B%9B%E4%B8%87%E7%A6%BB%E4%B8%96&t=31&band_rank=49&Refer=top>) | 198,528 | 新 |
+| 36 | [陈芋汐仅差奥运单人金](<https://s.weibo.com/weibo?q=%E9%99%88%E8%8A%8B%E6%B1%90%E4%BB%85%E5%B7%AE%E5%A5%A5%E8%BF%90%E5%8D%95%E4%BA%BA%E9%87%91&t=31&band_rank=50&Refer=top>) | 183,004 | 新 |
+| 37 | [英魂不朽山河永念](<https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%AD%82%E4%B8%8D%E6%9C%BD%E5%B1%B1%E6%B2%B3%E6%B0%B8%E5%BF%B5%23&Refer=new_time>) | — | 热 |
+| 38 | [金鹰奖](<https://s.weibo.com/weibo?q=%E9%87%91%E9%B9%B0%E5%A5%96&t=31&band_rank=1&Refer=top>) | — | 沸 |
+| 39 | [梅婷金鹰奖最佳女配](<https://s.weibo.com/weibo?q=%23%E6%A2%85%E5%A9%B7%E9%87%91%E9%B9%B0%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E9%85%8D%23&t=31&band_rank=4&Refer=top>) | — | 新 |
+| 40 | [锤娜丽莎长文谈我家那闺女](<https://s.weibo.com/weibo?q=%23%E9%94%A4%E5%A8%9C%E4%B8%BD%E8%8E%8E%E9%95%BF%E6%96%87%E8%B0%88%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3%23&t=31&band_rank=6&Refer=top>) | — | 热 |
+| 41 | [心动9 脚底板](<https://s.weibo.com/weibo?q=%E5%BF%83%E5%8A%A89%20%E8%84%9A%E5%BA%95%E6%9D%BF&t=31&band_rank=9&Refer=top>) | — | 新 |
+| 42 | [吴星颖孙柏涵官宣](<https://s.weibo.com/weibo?q=%E5%90%B4%E6%98%9F%E9%A2%96%E5%AD%99%E6%9F%8F%E6%B6%B5%E5%AE%98%E5%AE%A3&t=31&band_rank=13&Refer=top>) | — | 新 |
+| 43 | [肖战跪着补妆](<https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%B7%AA%E7%9D%80%E8%A1%A5%E5%A6%86%23&t=31&band_rank=21&Refer=top>) | — | 新 |
+| 44 | [金鹰奖节目单](<https://s.weibo.com/weibo?q=%E9%87%91%E9%B9%B0%E5%A5%96%E8%8A%82%E7%9B%AE%E5%8D%95&t=31&band_rank=24&Refer=top>) | — | 新 |
+| 45 | [朱亚文金鹰奖最佳男配](<https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%BA%9A%E6%96%87%E9%87%91%E9%B9%B0%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E9%85%8D%23&t=31&band_rank=25&Refer=top>) | — | 新 |
+| 46 | [肖战戴戒指了](<https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%88%B4%E6%88%92%E6%8C%87%E4%BA%86%23&t=31&band_rank=27&Refer=top>) | — | — |
+| 47 | [陈鹤文 沙玥儿](<https://s.weibo.com/weibo?q=%E9%99%88%E9%B9%A4%E6%96%87%20%E6%B2%99%E7%8E%A5%E5%84%BF&t=31&band_rank=33&Refer=top>) | — | 新 |
+| 48 | [家有儿女小雪刘星合体](<https://s.weibo.com/weibo?q=%23%E5%AE%B6%E6%9C%89%E5%84%BF%E5%A5%B3%E5%B0%8F%E9%9B%AA%E5%88%98%E6%98%9F%E5%90%88%E4%BD%93%23&t=31&band_rank=34&Refer=top>) | — | 新 |
+| 49 | [兰香如故42集](<https://s.weibo.com/weibo?q=%23%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%8542%E9%9B%86%23&t=31&band_rank=37&Refer=top>) | — | 新 |
+| 50 | [星涵亲了](<https://s.weibo.com/weibo?q=%23%E6%98%9F%E6%B6%B5%E4%BA%B2%E4%BA%86%23&t=31&band_rank=39&Refer=top>) | — | 新 |
+| 51 | [鹤玥be了](<https://s.weibo.com/weibo?q=%E9%B9%A4%E7%8E%A5be%E4%BA%86&t=31&band_rank=41&Refer=top>) | — | 新 |
 
 <!-- END TODAY_HOTLIST -->
 

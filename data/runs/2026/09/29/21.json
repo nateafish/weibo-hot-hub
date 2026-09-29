@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-29T21:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#英魂不朽山河永念#",
+      "rank": 1,
+      "title": "英魂不朽山河永念",
+      "topic_id": "23152247b4a3c542c51713382995dc74ba5c89"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "金鹰奖",
+      "rank": 1,
+      "title": "金鹰奖",
+      "topic_id": "231522c6f1ef9fdfb7f6a7220b2b1c6496735d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "购房贴息 150万",
+      "rank": 2,
+      "title": "购房贴息 150万",
+      "topic_id": "231522bce54f10f94c019174c4654ae21239d8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#遵义三日#",
+      "rank": 3,
+      "title": "遵义三日",
+      "topic_id": "231522d825051fb4e7c1944f0ff8f2c2c8a17a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#梅婷金鹰奖最佳女配#",
+      "rank": 4,
+      "title": "梅婷金鹰奖最佳女配",
+      "topic_id": "231522c594631435fe5477d855b64a2678d47b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "Dior大秀",
+      "rank": 5,
+      "title": "Dior大秀",
+      "topic_id": "231522767635ad0a141db3ee75813768cd1960"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#锤娜丽莎长文谈我家那闺女#",
+      "rank": 6,
+      "title": "锤娜丽莎长文谈我家那闺女",
+      "topic_id": "23152261954e02b12f827839934c5deb82ea8d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#4x100米混合接力中国队夺金#",
+      "rank": 7,
+      "title": "4x100米混合接力中国队夺金",
+      "topic_id": "231522ee423064274ea014660b1b4d223ba797"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "陈妤颉极限反超",
+      "rank": 8,
+      "title": "陈妤颉极限反超",
+      "topic_id": "23152252f935749451004c2a1f497593271c99"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "心动9 脚底板",
+      "rank": 9,
+      "title": "心动9 脚底板",
+      "topic_id": "231522dfa651a9d68b13443d220af1cc5eb256"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "网传大学生替缺课老师讲课一小时",
+      "rank": 10,
+      "title": "网传大学生替缺课老师讲课一小时",
+      "topic_id": "231522b2ef9f8b2caeae0b3e8ab6ac06ee11aa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#赵丽颖身体到底怎么了#",
+      "rank": 11,
+      "title": "赵丽颖身体到底怎么了",
+      "topic_id": "23152214344e8fa1702032a31180f79306d166"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#金鹰奖内场#",
+      "rank": 12,
+      "title": "金鹰奖内场",
+      "topic_id": "2315229b2dc691c3e1a5f7cccfacbaecaf4a62"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "吴星颖孙柏涵官宣",
+      "rank": 13,
+      "title": "吴星颖孙柏涵官宣",
+      "topic_id": "231522df725b62900dbf10bbe709e11863a0b3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#中国4x100米混接金牌#",
+      "rank": 14,
+      "title": "中国4x100米混接金牌",
+      "topic_id": "231522ca04b8793a41c18d195e3e65600bee16"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "锤娜丽莎秒删",
+      "rank": 15,
+      "title": "锤娜丽莎秒删",
+      "topic_id": "2315228b88565ed18545b4a654858eee95a502"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#陈芋汐打破女台20岁下滑魔咒#",
+      "rank": 16,
+      "title": "陈芋汐打破女台20岁下滑魔咒",
+      "topic_id": "2315221c925e7ea355543eac444bbfe9dab49c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "王鹤棣 哥们的哥们也很好",
+      "rank": 17,
+      "title": "王鹤棣 哥们的哥们也很好",
+      "topic_id": "231522027c7d197ad497f558f7bd352eeaefcb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#iQOO性能双子星登场#",
+      "rank": 18,
+      "title": "iQOO性能双子星登场",
+      "topic_id": "231522e7dc455a89e7990691710f1b7dc7dc4b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "迪丽热巴 明艳美人",
+      "rank": 19,
+      "title": "迪丽热巴 明艳美人",
+      "topic_id": "23152210a7db490b0a9ba89ebf31e53f60992e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "全红婵伤病",
+      "rank": 20,
+      "title": "全红婵伤病",
+      "topic_id": "2315222284339f0fe5d7f30c01aece29408a2d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#肖战跪着补妆#",
+      "rank": 21,
+      "title": "肖战跪着补妆",
+      "topic_id": "231522cbd5899dc5e6fe6e601f8ee3bd593a12"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "破坏夫妻关系最大的杀手",
+      "rank": 22,
+      "title": "破坏夫妻关系最大的杀手",
+      "topic_id": "23152220d67e1cfece45e92c4c23a2f0bb3189"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "周深直播",
+      "rank": 23,
+      "title": "周深直播",
+      "topic_id": "2315224a03f428c60a265aae6a3201557c2b93"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "金鹰奖节目单",
+      "rank": 24,
+      "title": "金鹰奖节目单",
+      "topic_id": "231522f035177348dd6272314c2bfc9274b1bb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#朱亚文金鹰奖最佳男配#",
+      "rank": 25,
+      "title": "朱亚文金鹰奖最佳男配",
+      "topic_id": "2315222024a346c3135cbd8b1b531d71054dc2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "全红婵 陈芋汐",
+      "rank": 26,
+      "title": "全红婵 陈芋汐",
+      "topic_id": "2315223c014240aa9bb25caf98bcc7361d1bc8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#肖战戴戒指了#",
+      "rank": 27,
+      "title": "肖战戴戒指了",
+      "topic_id": "23152251649e7b9aa6ba39ebb6d420d223c606"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#房贷贴息1个百分点#",
+      "rank": 28,
+      "title": "房贷贴息1个百分点",
+      "topic_id": "231522174203ee4879193527bebcc95ee4e5a4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "买车的底层逻辑变了",
+      "rank": 29,
+      "title": "买车的底层逻辑变了",
+      "topic_id": "231522a4e8eda4ed49fe7063bb3650423fa4a3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "华为Mate90全系配置曝光",
+      "rank": 30,
+      "title": "华为Mate90全系配置曝光",
+      "topic_id": "231522c5e05626997782677376b7726134a095"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#吴思颖崔译航直播亲了#",
+      "rank": 31,
+      "title": "吴思颖崔译航直播亲了",
+      "topic_id": "231522c929b194696d4615b5ca04a43e3956c3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "金智秀 Dior公主",
+      "rank": 32,
+      "title": "金智秀 Dior公主",
+      "topic_id": "2315224a159594d9521d842a880b2d03a96947"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "陈鹤文 沙玥儿",
+      "rank": 33,
+      "title": "陈鹤文 沙玥儿",
+      "topic_id": "2315228ff97531c8b19a2d17d003460cacf22e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#家有儿女小雪刘星合体#",
+      "rank": 34,
+      "title": "家有儿女小雪刘星合体",
+      "topic_id": "231522b24c7e04ce711b96c0a3ee5dd8910c17"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#iQOO16行业首发2K+165Hz#",
+      "rank": 35,
+      "title": "iQOO16行业首发2K+165Hz",
+      "topic_id": "231522e90dc9a14ac8d3cd9d9dc0cbce2cbcac"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "热量不高但饱腹感很强的食物",
+      "rank": 36,
+      "title": "热量不高但饱腹感很强的食物",
+      "topic_id": "231522430ddceb4079f9e9107c23ee247a697b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#兰香如故42集#",
+      "rank": 37,
+      "title": "兰香如故42集",
+      "topic_id": "2315224072b150e64ccecfea90605f9c5a0217"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "全红婵 陈若琳",
+      "rank": 38,
+      "title": "全红婵 陈若琳",
+      "topic_id": "231522f47133a57fed4cf681e93d5f3e4ce502"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#星涵亲了#",
+      "rank": 39,
+      "title": "星涵亲了",
+      "topic_id": "231522367b3ce39b2402e1cf39161cb4e2f3be"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "华人岳父母连开数枪杀女婿",
+      "rank": 40,
+      "title": "华人岳父母连开数枪杀女婿",
+      "topic_id": "231522037007db2f2f4278ca55406f91d41c34"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "鹤玥be了",
+      "rank": 41,
+      "title": "鹤玥be了",
+      "topic_id": "2315226a25a81e0f0c5b31b226e051d5e64db6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "贴息",
+      "rank": 42,
+      "title": "贴息",
+      "topic_id": "2315229864bff38b36bd0b1312e6a42c5d2628"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "混合接力",
+      "rank": 43,
+      "title": "混合接力",
+      "topic_id": "2315224ca406d87125eaadf08874bcd2497270"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "金鹰奖预测",
+      "rank": 44,
+      "title": "金鹰奖预测",
+      "topic_id": "231522360a0cfbd8d32e515314847b6b5f68d1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#黄灿灿聊天记录#",
+      "rank": 45,
+      "title": "黄灿灿聊天记录",
+      "topic_id": "23152236c1d1346a5aa1550a983445b06a300f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "中国男排vs韩国男排",
+      "rank": 46,
+      "title": "中国男排vs韩国男排",
+      "topic_id": "2315229ac1d9aa42e59cfc10a6a37ee78b33b8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#赵雅芝张凯丽为金鹰女神颁奖#",
+      "rank": 47,
+      "title": "赵雅芝张凯丽为金鹰女神颁奖",
+      "topic_id": "23152244d507fffe84c36f8f46e4a7a2d21d3e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "国庆节的前一天是烈士纪念日",
+      "rank": 48,
+      "title": "国庆节的前一天是烈士纪念日",
+      "topic_id": "231522ef79d0832328a1242892382c72b2b79e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "网传画师被骗四万离世",
+      "rank": 49,
+      "title": "网传画师被骗四万离世",
+      "topic_id": "231522f6b5565e1a81a2b90eac2c78a59b1159"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "陈芋汐仅差奥运单人金",
+      "rank": 50,
+      "title": "陈芋汐仅差奥运单人金",
+      "topic_id": "23152286b5e8436208bde671aace3f81413111"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
