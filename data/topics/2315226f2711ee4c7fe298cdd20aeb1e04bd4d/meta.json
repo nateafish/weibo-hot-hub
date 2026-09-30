@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1496814565
   },
-  "last_seen_at": "2026-09-30T08:00:00+08:00",
+  "last_seen_at": "2026-09-30T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%99%88%E6%A2%A6%E7%A6%8F%E5%8E%9F%E7%88%B1%E7%AC%AC4%E6%AC%A1%E4%BA%A4%E6%89%8B%23%26t%3D3&title=发布媒体",
-    "show_str": "17家媒体",
+    "show_str": "23家媒体",
     "users": [
       {
         "id": 1496814565,
@@ -28,6 +28,13 @@
         "screen_name": "新浪乒乓球",
         "verified": true,
         "verified_type": 7
+      },
+      {
+        "id": 6418480627,
+        "idstr": "6418480627",
+        "screen_name": "星视频",
+        "verified": true,
+        "verified_type": 3
       },
       {
         "id": 6369501744,
@@ -56,13 +63,6 @@
         "screen_name": "湃视频",
         "verified": true,
         "verified_type": 2
-      },
-      {
-        "id": 5763593746,
-        "idstr": "5763593746",
-        "screen_name": "资阳快播报",
-        "verified": true,
-        "verified_type": 3
       }
     ]
   },

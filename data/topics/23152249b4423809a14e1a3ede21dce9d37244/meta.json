@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2286092114
   },
-  "last_seen_at": "2026-09-30T08:00:00+08:00",
+  "last_seen_at": "2026-09-30T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%232026%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%E6%97%B6%E9%97%B4%23%26t%3D3&title=发布媒体",
-    "show_str": "35家媒体",
+    "show_str": "41家媒体",
     "users": [
       {
         "id": 2286092114,
@@ -30,9 +30,23 @@
         "verified_type": 3
       },
       {
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1941424392,
         "idstr": "1941424392",
         "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3275115274,
+        "idstr": "3275115274",
+        "screen_name": "中国吉林网",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 7958476122,
         "idstr": "7958476122",
         "screen_name": "永嘉融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7958253254,
-        "idstr": "7958253254",
-        "screen_name": "龙湾融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7958238666,
-        "idstr": "7958238666",
-        "screen_name": "瓯海融媒",
         "verified": true,
         "verified_type": 3
       }

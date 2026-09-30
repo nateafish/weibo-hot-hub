@@ -3,11 +3,19 @@
   "created_at": 1646504855,
   "first_seen_at": "2026-09-30T08:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-30T08:00:00+08:00",
+  "last_seen_at": "2026-09-30T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23AG%E8%BF%90%E8%90%A5%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "1家媒体",
+    "users": [
+      {
+        "id": 3275115274,
+        "idstr": "3275115274",
+        "screen_name": "中国吉林网",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "AG运营",
   "search_url": "https://s.weibo.com/weibo?q=%23ag%E8%BF%90%E8%90%A5%23",

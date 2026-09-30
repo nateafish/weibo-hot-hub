@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 1845864154
   },
-  "last_seen_at": "2026-09-30T08:00:00+08:00",
+  "last_seen_at": "2026-09-30T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%82%93%E4%BA%9A%E8%90%8D%E7%9B%B4%E8%A8%80%E8%BE%93%E7%90%83%E4%B8%8D%E8%A6%81%E6%89%BE%E5%80%9F%E5%8F%A3%23%26t%3D3&title=发布媒体",
-    "show_str": "14家媒体",
+    "show_str": "49家媒体",
     "users": [
+      {
+        "id": 2286092114,
+        "idstr": "2286092114",
+        "screen_name": "中国蓝新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1845864154,
         "idstr": "1845864154",
@@ -30,9 +37,16 @@
         "verified_type": 3
       },
       {
-        "id": 6268375888,
-        "idstr": "6268375888",
-        "screen_name": "看看新闻全球眼",
+        "id": 2337985010,
+        "idstr": "2337985010",
+        "screen_name": "瑞安融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1887344341,
+        "idstr": "1887344341",
+        "screen_name": "观察者网",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 5396094153,
-        "idstr": "5396094153",
-        "screen_name": "大众新闻-大众日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2992050891,
-        "idstr": "2992050891",
-        "screen_name": "北京时间",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2252846093,
-        "idstr": "2252846093",
-        "screen_name": "长春新闻",
+        "id": 1043320390,
+        "idstr": "1043320390",
+        "screen_name": "半岛晨报",
         "verified": true,
         "verified_type": 3
       }
