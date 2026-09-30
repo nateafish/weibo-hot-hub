@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 6393215903
   },
-  "last_seen_at": "2026-09-30T16:00:00+08:00",
+  "last_seen_at": "2026-09-30T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%B2%99%E7%8E%A5%E5%84%BF%E6%81%8B%E7%BB%BC%E5%B7%A8%E5%A9%B4%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "6家媒体",
     "users": [
       {
         "id": 2647971081,
@@ -23,9 +23,23 @@
         "verified_type": 3
       },
       {
+        "id": 2595230622,
+        "idstr": "2595230622",
+        "screen_name": "漳州新闻网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1882632930,
         "idstr": "1882632930",
         "screen_name": "新消息报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       },

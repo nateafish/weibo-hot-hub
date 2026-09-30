@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-09-30T18:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 1,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#永远铭记崇高精神#",
+      "rank": 1,
+      "title": "永远铭记崇高精神",
+      "topic_id": "231522af49aabfd31a3535b00c77b3c54c0d83"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#东航通报空姐下跪事件#",
+      "rank": 1,
+      "title": "东航通报空姐下跪事件",
+      "topic_id": "2315226829ee369b60e23b462b3c1dc542b951"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "飞天奖提名名单",
+      "rank": 2,
+      "title": "飞天奖提名名单",
+      "topic_id": "2315225096f166e0c6492f8e0e3820899104df"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#2500亿元国补资金已下达#",
+      "rank": 3,
+      "title": "2500亿元国补资金已下达",
+      "topic_id": "231522ef764514ea8463bd511b7b0959b9e18e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#惠英红团队已报警并求助大使馆#",
+      "rank": 4,
+      "title": "惠英红团队已报警并求助大使馆",
+      "topic_id": "2315221cd00737d2d4ae03cdf57e37d4b3bab7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "怪不得小诊所看病好得快",
+      "rank": 5,
+      "title": "怪不得小诊所看病好得快",
+      "topic_id": "2315224f93f4138d77077276a6f911da80c5bd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "张家齐 哪吒",
+      "rank": 6,
+      "title": "张家齐 哪吒",
+      "topic_id": "23152213f6d5005ed8b0c858bea668f4a058b4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#女子骑车压速别车被后车司机踹翻#",
+      "rank": 7,
+      "title": "女子骑车压速别车被后车司机踹翻",
+      "topic_id": "2315225a510b248c293afa3cebec35653aa891"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#现在就出发4定档#",
+      "rank": 8,
+      "title": "现在就出发4定档",
+      "topic_id": "231522d69a7a2bfa47d56c90841e971daa4acf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "韩国队 裁判",
+      "rank": 9,
+      "title": "韩国队 裁判",
+      "topic_id": "231522d573e790f6bf0fabbd74aca4623399e2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "亚运国足1比2韩国",
+      "rank": 10,
+      "title": "亚运国足1比2韩国",
+      "topic_id": "23152284281807c32090ef3d4078bf0206bdd9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#文春曝张本智和私生活#",
+      "rank": 11,
+      "title": "文春曝张本智和私生活",
+      "topic_id": "231522c53342f7225d853940c95f4febb12972"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#郭晓东道歉#",
+      "rank": 12,
+      "title": "郭晓东道歉",
+      "topic_id": "231522c9ce83f45b4bfd552d8ec7a4b1871d8f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "惠英红团队在巴黎被砸车抢劫",
+      "rank": 13,
+      "title": "惠英红团队在巴黎被砸车抢劫",
+      "topic_id": "231522ab5e7ff1bf040b5a4a003661d6dac670"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "公司取消福利只因真有员工用",
+      "rank": 14,
+      "title": "公司取消福利只因真有员工用",
+      "topic_id": "231522b1547ade235479b65311615dc0b978e2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#张本智和自称初中后没在外面约会#",
+      "rank": 15,
+      "title": "张本智和自称初中后没在外面约会",
+      "topic_id": "231522482f1c1b77ecf741a7f38fc656cc31d4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "飞天奖 没有利剑玫瑰",
+      "rank": 16,
+      "title": "飞天奖 没有利剑玫瑰",
+      "topic_id": "231522dab701a13c045ba7d9af11eb68513e51"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#陈芋汐一天要称十次体重#",
+      "rank": 17,
+      "title": "陈芋汐一天要称十次体重",
+      "topic_id": "231522fc3caa6690470943ea0f924deac71fdb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#孙怡曾称没有和董子健彻底掰了#",
+      "rank": 18,
+      "title": "孙怡曾称没有和董子健彻底掰了",
+      "topic_id": "2315220534c6e6046723ee3a2a5230419e4bf6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "DeepSeek组件与英伟达对应",
+      "rank": 19,
+      "title": "DeepSeek组件与英伟达对应",
+      "topic_id": "23152275d73929e8cf8191ed3fbab1bf99287f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "国足打了韩国队一个措手不及",
+      "rank": 20,
+      "title": "国足打了韩国队一个措手不及",
+      "topic_id": "2315221ed90dabf0d5d4a914ba0e4d310088a0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#坐上范丞丞的副驾#",
+      "rank": 21,
+      "title": "坐上范丞丞的副驾",
+      "topic_id": "23152216bec3ccfd210d229c7db7b574ec66b5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#美38年前发射的卫星在地球上空爆炸#",
+      "rank": 22,
+      "title": "美38年前发射的卫星在地球上空爆炸",
+      "topic_id": "231522ada38ea8ff4c0abe80b0ad803ee001f1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "女子陪丈夫年薪五十万只是备选",
+      "rank": 23,
+      "title": "女子陪丈夫年薪五十万只是备选",
+      "topic_id": "231522d335e5f1a6a3e796fb7ed1c2a4d298d0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "超长长长鹤棣",
+      "rank": 24,
+      "title": "超长长长鹤棣",
+      "topic_id": "23152202a8aafbf1f3ef11098f288fde6405b9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "山东新生入学率 腰斩",
+      "rank": 25,
+      "title": "山东新生入学率 腰斩",
+      "topic_id": "2315221237dad1cf0f0ea4d7a405ae28eb9885"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#亚运国足vs韩国#",
+      "rank": 26,
+      "title": "亚运国足vs韩国",
+      "topic_id": "231522d75df858c41bced8b8f60ae9f9347bf3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "日本网红否认南京大屠杀",
+      "rank": 27,
+      "title": "日本网红否认南京大屠杀",
+      "topic_id": "231522543bd64d1363c061f091b8844e337211"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "Tiffany月饼事件当事人回应建群",
+      "rank": 28,
+      "title": "Tiffany月饼事件当事人回应建群",
+      "topic_id": "231522fb26d16078bda84b42c4aeca0c5a7633"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#饭后出现4个症状或是胃癌信号#",
+      "rank": 29,
+      "title": "饭后出现4个症状或是胃癌信号",
+      "topic_id": "2315223d6b3f77bb167dcd421db82964fc1316"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#陈艺文获女子3米板金牌#",
+      "rank": 30,
+      "title": "陈艺文获女子3米板金牌",
+      "topic_id": "231522dc61413672dbf61157f1cdcfe7edbd4d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#林诗栋发文会捍卫国球荣耀#",
+      "rank": 31,
+      "title": "林诗栋发文会捍卫国球荣耀",
+      "topic_id": "2315220b04bf3a15221022515f3ec283ee5638"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "文春 张本智和",
+      "rank": 32,
+      "title": "文春 张本智和",
+      "topic_id": "2315223f66201ff3b2a57ad55b569dee3ced88"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "小城大事 飞天奖评奖期",
+      "rank": 33,
+      "title": "小城大事 飞天奖评奖期",
+      "topic_id": "2315228816e5fc9468196bb7ab249af8059799"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#消费者一年内投诉举报1520次#",
+      "rank": 34,
+      "title": "消费者一年内投诉举报1520次",
+      "topic_id": "2315221f61b03af5a00d060c60235b50c0b53d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#王楚然现发4面试#",
+      "rank": 35,
+      "title": "王楚然现发4面试",
+      "topic_id": "23152283818472df653e603361ec1077f5a7ae"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#外网夸迪丽热巴时装周的热帖#",
+      "rank": 36,
+      "title": "外网夸迪丽热巴时装周的热帖",
+      "topic_id": "231522b241ccf826671dca6f599c61693930db"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#多位艺人巴黎遭盗抢#",
+      "rank": 37,
+      "title": "多位艺人巴黎遭盗抢",
+      "topic_id": "2315220cd8714a8e3a07202146a44520e4ed63"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#东航通报读下来就两个字寒心#",
+      "rank": 38,
+      "title": "东航通报读下来就两个字寒心",
+      "topic_id": "2315224d84aab99ebafe87260492be59945d76"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#迪拜飞以色列航班飞行员打斗触发预警#",
+      "rank": 39,
+      "title": "迪拜飞以色列航班飞行员打斗触发预警",
+      "topic_id": "231522b24587903482f3dc877d75df7a810612"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "飞天奖提名发布会",
+      "rank": 40,
+      "title": "飞天奖提名发布会",
+      "topic_id": "2315228a9fefc7e8997e503f4304474865b408"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#U23男足回应不敌韩国U23#",
+      "rank": 41,
+      "title": "U23男足回应不敌韩国U23",
+      "topic_id": "23152223ca871b545fc3ba26d9e2d9e0047bf6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#成龙谣言源头#",
+      "rank": 42,
+      "title": "成龙谣言源头",
+      "topic_id": "231522f25afd704a32a68bde79623cca52f4c0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#美被轮奸女大学生在校常看到侵犯者#",
+      "rank": 43,
+      "title": "美被轮奸女大学生在校常看到侵犯者",
+      "topic_id": "231522f7be68030815eef72ce0cf196c24d526"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#57岁阿姨追星成毅把家装成痛屋#",
+      "rank": 44,
+      "title": "57岁阿姨追星成毅把家装成痛屋",
+      "topic_id": "231522c237c99f0bd92204f79a4c5adecf63ba"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#这居然是林志玲#",
+      "rank": 45,
+      "title": "这居然是林志玲",
+      "topic_id": "2315225f2cc83f5d8ed639fa41cd1a4efd9349"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "请3休13的人现在都到哪里了",
+      "rank": 46,
+      "title": "请3休13的人现在都到哪里了",
+      "topic_id": "231522e6c3c06cfa21fa832ef7e0390f80c0bb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#电视也要像手机一样一年一换了吗#",
+      "rank": 47,
+      "title": "电视也要像手机一样一年一换了吗",
+      "topic_id": "231522445145e253df46a5854d4d9004ada762"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#沙玥儿恋综巨婴#",
+      "rank": 48,
+      "title": "沙玥儿恋综巨婴",
+      "topic_id": "231522de41313101385132204a9be801cff560"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#迪拜飞以色列航班疑遭劫持#",
+      "rank": 49,
+      "title": "迪拜飞以色列航班疑遭劫持",
+      "topic_id": "23152225c0e6f3a3c448b6309ba62c8dbd49e2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#东方甄选回应劣质溜溜凳事件#",
+      "rank": 50,
+      "title": "东方甄选回应劣质溜溜凳事件",
+      "topic_id": "23152229fac4fa242452b14d5df3ce7a6d08ec"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
