@@ -3,15 +3,22 @@
   "created_at": 1790761094,
   "first_seen_at": "2026-09-30T20:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-30T20:00:00+08:00",
+  "last_seen_at": "2026-09-30T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%86%B3%E8%B5%9B%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "15家媒体",
     "users": [
       {
         "id": 1649401391,
         "idstr": "1649401391",
         "screen_name": "电子竞技杂志",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1744332207,
+        "idstr": "1744332207",
+        "screen_name": "钱江视频",
         "verified": true,
         "verified_type": 3
       },
@@ -23,30 +30,30 @@
         "verified_type": 3
       },
       {
+        "id": 5665811463,
+        "idstr": "5665811463",
+        "screen_name": "板扎在线",
+        "verified": true,
+        "verified_type": 7
+      },
+      {
+        "id": 3881380517,
+        "idstr": "3881380517",
+        "screen_name": "新华日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2460937233,
+        "idstr": "2460937233",
+        "screen_name": "热度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2360016402,
         "idstr": "2360016402",
         "screen_name": "宁波日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1895096900,
-        "idstr": "1895096900",
-        "screen_name": "深圳新闻网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1700720163,
-        "idstr": "1700720163",
-        "screen_name": "钱江晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1043320390,
-        "idstr": "1043320390",
-        "screen_name": "半岛晨报",
         "verified": true,
         "verified_type": 3
       }

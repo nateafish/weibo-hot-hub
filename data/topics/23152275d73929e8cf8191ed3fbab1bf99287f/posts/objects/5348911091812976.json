@@ -1,0 +1,8 @@
+{
+  "body": "今天 DeepSeek 宣布开源了面向华为昇腾的全套基础设施组件，和英伟达版本一一对应。\n#DeepSeek组件与英伟达对应#\nTileLang 昇腾版对标 CUDA，编程更简单还不损性能，还开源了 DeepGEMM、DeepEP、TileKernels、FlashMLA、DeepSelect。\n测试里计算和通信接近昇腾硬件上限，V4 训练用的 TileLang 算子也都在昇腾上适配了。华为那边给了不少支持，两家还在推昇腾950的128卡超节点。\n#DeepSeek称华为给予了毫无保留的支持#\n挺牛的，国产大模型底层工具链开始跨平台平替，迁移成本也降了。生态真起来的话，对更多国产 AI 芯片是好事。",
+  "created_at_text": "Wed Sep 30 18:14:05 +0800 2026",
+  "mid": "5348911091812976",
+  "uid": "1595443924",
+  "url": "https://m.weibo.cn/detail/5348911091812976",
+  "username": "科技小辛"
+}
