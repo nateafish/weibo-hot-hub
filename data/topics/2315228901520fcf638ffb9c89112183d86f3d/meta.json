@@ -3,10 +3,10 @@
   "created_at": 1790689407,
   "first_seen_at": "2026-09-29T23:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-30T07:00:00+08:00",
+  "last_seen_at": "2026-09-30T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%B0%8F%E5%B7%B7%E4%BA%BA%E5%AE%B6+%E9%99%AA%E8%B7%91%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "5家媒体",
     "users": [
       {
         "id": 1913382117,
@@ -16,9 +16,16 @@
         "verified_type": 3
       },
       {
-        "id": 2290787940,
-        "idstr": "2290787940",
-        "screen_name": "扬州晚报",
+        "id": 2002474925,
+        "idstr": "2002474925",
+        "screen_name": "佛山新闻网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1960785875,
+        "idstr": "1960785875",
+        "screen_name": "津云新闻",
         "verified": true,
         "verified_type": 3
       },

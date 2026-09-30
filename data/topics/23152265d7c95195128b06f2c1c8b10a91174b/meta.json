@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 1738004582
   },
-  "last_seen_at": "2026-09-30T07:00:00+08:00",
+  "last_seen_at": "2026-09-30T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A4%A9%E5%AE%89%E9%97%A8%E6%89%A7%E5%8B%A4%E6%AD%A6%E8%AD%A6%E8%A2%AB%E5%A4%A7%E6%A9%98%E7%8C%AB%E7%BC%A0%E7%BB%95%23%26t%3D3&title=发布媒体",
-    "show_str": "8家媒体",
+    "show_str": "11家媒体",
     "users": [
       {
         "id": 1738004582,
         "idstr": "1738004582",
         "screen_name": "纵览新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5743120946,
+        "idstr": "5743120946",
+        "screen_name": "鄱阳发布",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5608027665,
+        "idstr": "5608027665",
+        "screen_name": "中国环境",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1657914910,
-        "idstr": "1657914910",
-        "screen_name": "烟台日报社大小新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1644948230,
-        "idstr": "1644948230",
-        "screen_name": "北京头条",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1625232640,
-        "idstr": "1625232640",
-        "screen_name": "鲁中晨报",
+        "id": 1802564537,
+        "idstr": "1802564537",
+        "screen_name": "新派观察",
         "verified": true,
         "verified_type": 3
       }

@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 6023397804
   },
-  "last_seen_at": "2026-09-30T07:00:00+08:00",
+  "last_seen_at": "2026-09-30T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%99%88%E5%A6%A4%E9%A2%89%E9%A2%86%E5%85%88%E6%B3%B0%E5%9B%BD%E9%98%9F0.09%E7%A7%92%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "4家媒体",
     "users": [
       {
         "id": 6590980486,
@@ -23,9 +23,23 @@
         "verified_type": 7
       },
       {
+        "id": 6092578444,
+        "idstr": "6092578444",
+        "screen_name": "新浪种草官",
+        "verified": true,
+        "verified_type": 7
+      },
+      {
         "id": 1618051664,
         "idstr": "1618051664",
         "screen_name": "头条新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1036713140,
+        "idstr": "1036713140",
+        "screen_name": "杭州网",
         "verified": true,
         "verified_type": 3
       }

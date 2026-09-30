@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1644489953
   },
-  "last_seen_at": "2026-09-30T07:00:00+08:00",
+  "last_seen_at": "2026-09-30T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A4%AB%E5%A6%BB%E4%BA%B2%E7%83%AD%E6%97%B6%E5%95%AA%E4%B8%80%E5%A3%B0%E7%94%B7%E5%AD%90%E4%B8%8B%E4%BD%93%E7%88%86%E8%83%8E%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "5家媒体",
     "users": [
       {
         "id": 1644489953,
@@ -33,6 +33,20 @@
         "id": 6217683074,
         "idstr": "6217683074",
         "screen_name": "N视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1398613133,
+        "idstr": "1398613133",
+        "screen_name": "马上资讯",
         "verified": true,
         "verified_type": 3
       }

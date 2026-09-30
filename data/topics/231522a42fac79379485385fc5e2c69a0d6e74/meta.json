@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 2118872917
   },
-  "last_seen_at": "2026-09-30T07:00:00+08:00",
+  "last_seen_at": "2026-09-30T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BA%8E%E5%92%8C%E4%BC%9F2026%E5%B7%B2%E7%BB%8F%E6%8B%BF%E4%BA%86%E4%B8%89%E4%B8%AA%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "7家媒体",
     "users": [
+      {
+        "id": 1283367840,
+        "idstr": "1283367840",
+        "screen_name": "每日文艺播报",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2408975903,
         "idstr": "2408975903",
         "screen_name": "环球娱乐百分百",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2217754287,
+        "idstr": "2217754287",
+        "screen_name": "桂林晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,9 +44,23 @@
         "verified_type": 3
       },
       {
+        "id": 1960785875,
+        "idstr": "1960785875",
+        "screen_name": "津云新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1913382117,
         "idstr": "1913382117",
         "screen_name": "深圳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1677991972,
+        "idstr": "1677991972",
+        "screen_name": "晶报",
         "verified": true,
         "verified_type": 3
       }
