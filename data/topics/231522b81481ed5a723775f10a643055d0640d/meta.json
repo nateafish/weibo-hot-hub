@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1653603955
   },
-  "last_seen_at": "2026-09-30T10:00:00+08:00",
+  "last_seen_at": "2026-09-30T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%87%91%E9%B9%B0%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E5%A5%B3%E9%85%8D%E8%A7%92%E5%8F%8C%E5%8F%8C%E7%88%86%E5%86%B7%23%26t%3D3&title=发布媒体",
-    "show_str": "37家媒体",
+    "show_str": "58家媒体",
     "users": [
       {
         "id": 1653603955,
         "idstr": "1653603955",
         "screen_name": "扬子晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7590570074,
+        "idstr": "7590570074",
+        "screen_name": "山海视频",
         "verified": true,
         "verified_type": 3
       },
@@ -47,13 +54,6 @@
         "id": 2576743032,
         "idstr": "2576743032",
         "screen_name": "扬子壹财经",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2290787940,
-        "idstr": "2290787940",
-        "screen_name": "扬州晚报",
         "verified": true,
         "verified_type": 3
       },

@@ -1,0 +1,258 @@
+{
+  "captured_at": "2026-09-30T11:00:00+08:00",
+  "contributors": [
+    {
+      "contribution": 12,
+      "profile_url": "https://weibo.com/u/1618051664",
+      "rank": 1,
+      "uid": "1618051664",
+      "username": "头条新闻",
+      "verified": true,
+      "verified_type": 3
+    },
+    {
+      "contribution": 10,
+      "profile_url": "https://weibo.com/u/2011554341",
+      "rank": 2,
+      "uid": "2011554341",
+      "username": "喜由由",
+      "verified": false,
+      "verified_type": -1
+    },
+    {
+      "contribution": 7,
+      "profile_url": "https://weibo.com/u/1734959391",
+      "rank": 3,
+      "uid": "1734959391",
+      "username": "冰彬兵",
+      "verified": true,
+      "verified_type": 0
+    },
+    {
+      "contribution": 6,
+      "profile_url": "https://weibo.com/u/1249819153",
+      "rank": 4,
+      "uid": "1249819153",
+      "username": "云无心45",
+      "verified": true,
+      "verified_type": 0
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/9181363668",
+      "rank": 5,
+      "uid": "9181363668",
+      "username": "科技飞天锝",
+      "verified": false,
+      "verified_type": -1
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/9032215583",
+      "rank": 6,
+      "uid": "9032215583",
+      "username": "迷人的玩具熊",
+      "verified": true,
+      "verified_type": 0
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/8495214801",
+      "rank": 7,
+      "uid": "8495214801",
+      "username": "吃瓜地快乐",
+      "verified": false,
+      "verified_type": -1
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/8467023830",
+      "rank": 8,
+      "uid": "8467023830",
+      "username": "碳酸休克疗法",
+      "verified": false,
+      "verified_type": -1
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/8418582736",
+      "rank": 9,
+      "uid": "8418582736",
+      "username": "天气睛朗天天开心",
+      "verified": false,
+      "verified_type": -1
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/8388221525",
+      "rank": 10,
+      "uid": "8388221525",
+      "username": "温煦水母讲笑话",
+      "verified": true,
+      "verified_type": 0
+    }
+  ],
+  "contributors_scheme": "sinaweibo://cardlist?containerid=231522type%3D103%26q%3D%23%E9%82%93%E4%BA%9A%E8%90%8D%E8%87%AA%E6%9B%9D%E6%9B%BE%E5%9B%A0%E8%BE%93%E6%97%A5%E6%9C%AC%E9%80%89%E6%89%8B%E6%94%B6%E5%88%B0%E9%9E%8B%E5%B8%A6%23&title=话题贡献者排行",
+  "current_boards": {
+    "hot_band": {
+      "ori": {
+        "category": "体育",
+        "is_boom": 0,
+        "num": 330948,
+        "onband": 1,
+        "onboard_time": 1790736980,
+        "pos": 25,
+        "subject_querys": [
+          {
+            "scheme_query": "爱知名古屋亚运会",
+            "subject_query": "2026亚运会",
+            "subject_type": "event"
+          }
+        ],
+        "transparency_tag": null
+      },
+      "scheme": "sinaweibo://pageinfo?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Drealtimehot&title=热搜榜&extparam=",
+      "sub_info": [
+        {
+          "scheme": "sinaweibo://wbox?id=u57z5izf0g&page=pages/hotsearchpage/hotsearchpage_native&containerid=106003_-_type%3A25_-_filter_type%3Acollectionmini&trend_word=%E7%88%B1%E7%9F%A5%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A&time_filter_id=d30",
+          "text": "事件 | 2026亚运会"
+        }
+      ],
+      "text": "热搜榜第25位"
+    },
+    "hot_band_24_hour": {
+      "ori": {
+        "on_band": 1
+      }
+    },
+    "sports_band": {
+      "ori": {
+        "category": "体育",
+        "is_boom": 0,
+        "onband": 1,
+        "pos": 2,
+        "subject_querys": [
+          {
+            "scheme_query": "爱知名古屋亚运会",
+            "subject_query": "2026亚运会",
+            "subject_type": "event"
+          }
+        ]
+      },
+      "scheme": "sinaweibo://pageinfo?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Dsportnav&title=体育榜&extparam=",
+      "sub_info": [
+        {
+          "scheme": "sinaweibo://wbox?id=u57z5izf0g&page=pages/hotsearchpage/hotsearchpage_native&containerid=106003_-_type%3A25_-_filter_type%3Acollectionmini&trend_word=%E7%88%B1%E7%9F%A5%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A&time_filter_id=d30",
+          "text": "事件 | 2026亚运会"
+        }
+      ],
+      "text": "体育榜第2位"
+    }
+  },
+  "exact_counts": {
+    "buy_num": 0,
+    "g_mention": 494,
+    "gone_num": 0,
+    "interact": 2523,
+    "mention": 494,
+    "ori_m": 135,
+    "ori_uv": 117,
+    "r_valid": 5718341,
+    "read": 6368045,
+    "rec_num": 0,
+    "show": 0,
+    "star": 2,
+    "t_m_num": 247,
+    "t_r_num": 6378231,
+    "wants_num": 0
+  },
+  "heat": 2,
+  "overview": {
+    "24h": {
+      "interaction": {
+        "unit": "",
+        "val": 2523
+      },
+      "mention": {
+        "unit": "",
+        "val": 494
+      },
+      "original": {
+        "unit": "",
+        "val": 135
+      },
+      "read": {
+        "unit": "万",
+        "val": 635.2
+      }
+    },
+    "30d": {
+      "interaction": {
+        "unit": "",
+        "val": 2523
+      },
+      "mention": {
+        "unit": "",
+        "val": 494
+      },
+      "original": {
+        "unit": "",
+        "val": 135
+      },
+      "read": {
+        "unit": "万",
+        "val": 635.2
+      }
+    },
+    "all": {
+      "interaction": {
+        "unit": "",
+        "val": 2523
+      },
+      "mention": {
+        "unit": "",
+        "val": 494
+      },
+      "original": {
+        "unit": "",
+        "val": 135
+      },
+      "read": {
+        "unit": "万",
+        "val": 636.8
+      }
+    }
+  },
+  "rank_history": [
+    {
+      "cate": "hot_board",
+      "cate_desc": "热搜榜",
+      "duration_hour": 1,
+      "duration_minute": 68,
+      "duration_mod_min": 8,
+      "off_board_time": "202609301203",
+      "on_board_time": "202609301056",
+      "top_pos": 7,
+      "topic_flag": 1
+    },
+    {
+      "cate": "sport_board",
+      "cate_desc": "体育榜",
+      "duration_hour": 1,
+      "duration_minute": 88,
+      "duration_mod_min": 28,
+      "off_board_time": "202609301203",
+      "on_board_time": "202609301029",
+      "top_pos": 1,
+      "topic_flag": 1
+    }
+  ],
+  "title": "邓亚萍自曝曾因输日本选手收到鞋带",
+  "topic_id": "23152205b6996ee3e7d04e2156ed9fd503122e",
+  "window_counts": {
+    "1h_mention": 350,
+    "1h_ori_m": 98,
+    "24h_mention": 494,
+    "24h_read": 6345738
+  }
+}
