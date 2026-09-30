@@ -10,11 +10,19 @@
     "status": 2,
     "uid": 6580603676
   },
-  "last_seen_at": "2026-09-30T11:00:00+08:00",
+  "last_seen_at": "2026-09-30T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9F%AF%E6%B7%B3%E7%9F%AD%E5%89%A7%E5%9C%88%E4%BA%BA%E7%BC%98%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "1家媒体",
+    "users": [
+      {
+        "id": 1657914910,
+        "idstr": "1657914910",
+        "screen_name": "烟台日报社大小新闻",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#柯淳短剧圈人缘#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E6%9F%AF%E6%B7%B3%E7%9F%AD%E5%89%A7%E5%9C%88%E4%BA%BA%E7%BC%98%23",

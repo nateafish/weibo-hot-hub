@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1774057271
   },
-  "last_seen_at": "2026-09-30T11:00:00+08:00",
+  "last_seen_at": "2026-09-30T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%83%83%E7%99%8C%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%23%26t%3D3&title=发布媒体",
-    "show_str": "13家媒体",
+    "show_str": "20家媒体",
     "users": [
       {
         "id": 1774057271,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 2921799343,
+        "idstr": "2921799343",
+        "screen_name": "天下泉城",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2272985297,
         "idstr": "2272985297",
         "screen_name": "北京科教_健康北京",
@@ -54,13 +61,6 @@
         "id": 6993844458,
         "idstr": "6993844458",
         "screen_name": "微博泛生活",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6587633798,
-        "idstr": "6587633798",
-        "screen_name": "崇义发布",
         "verified": true,
         "verified_type": 3
       }
