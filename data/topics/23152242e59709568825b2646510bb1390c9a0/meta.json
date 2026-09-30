@@ -3,10 +3,10 @@
   "created_at": 1790778094,
   "first_seen_at": "2026-09-30T23:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-30T23:00:00+08:00",
+  "last_seen_at": "2026-10-01T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E9%A2%81%E5%A5%96%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "4家媒体",
     "users": [
       {
         "id": 1649401391,
@@ -19,6 +19,13 @@
         "id": 1652484947,
         "idstr": "1652484947",
         "screen_name": "新快报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497087080,
+        "idstr": "1497087080",
+        "screen_name": "羊城晚报",
         "verified": true,
         "verified_type": 3
       },
