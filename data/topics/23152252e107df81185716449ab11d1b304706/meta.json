@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 6105713761
   },
-  "last_seen_at": "2026-09-30T21:00:00+08:00",
+  "last_seen_at": "2026-09-30T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%BF%AA%E6%8B%9C%E8%88%AA%E7%A9%BA%E4%B9%98%E5%AE%A2%E5%B8%AE%E5%8A%A9%E9%A3%9E%E8%A1%8C%E5%91%98%E6%8E%A7%E5%88%B6%E4%BA%86%E9%A3%9E%E6%9C%BA%23%26t%3D3&title=发布媒体",
-    "show_str": "17家媒体",
+    "show_str": "23家媒体",
     "users": [
+      {
+        "id": 6105713761,
+        "idstr": "6105713761",
+        "screen_name": "红星新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1941424392,
         "idstr": "1941424392",
@@ -23,9 +30,16 @@
         "verified_type": 3
       },
       {
-        "id": 6105713761,
-        "idstr": "6105713761",
-        "screen_name": "红星新闻",
+        "id": 1681029540,
+        "idstr": "1681029540",
+        "screen_name": "新民周刊",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1043320390,
+        "idstr": "1043320390",
+        "screen_name": "半岛晨报",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2191398120,
-        "idstr": "2191398120",
-        "screen_name": "成都商报美食",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2028810631,
-        "idstr": "2028810631",
-        "screen_name": "新浪新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1974335820,
-        "idstr": "1974335820",
-        "screen_name": "成都商报报料",
+        "id": 3275115274,
+        "idstr": "3275115274",
+        "screen_name": "中国吉林网",
         "verified": true,
         "verified_type": 3
       }

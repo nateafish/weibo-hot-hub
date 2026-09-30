@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 7211561239
   },
-  "last_seen_at": "2026-09-30T21:00:00+08:00",
+  "last_seen_at": "2026-09-30T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%83%83%E7%99%8C%E5%9C%A8%E6%97%A9%E6%9C%9F%E6%B2%A1%E6%9C%89%E6%98%8E%E6%98%BE%E7%97%87%E7%8A%B6%23%26t%3D3&title=发布媒体",
-    "show_str": "21家媒体",
+    "show_str": "31家媒体",
     "users": [
       {
         "id": 7211561239,
         "idstr": "7211561239",
         "screen_name": "央视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1562479250,
+        "idstr": "1562479250",
+        "screen_name": "包头新闻网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1899910385,
+        "idstr": "1899910385",
+        "screen_name": "CCTV生活圈",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 3514732862,
-        "idstr": "3514732862",
-        "screen_name": "广西日报",
+        "id": 7732575151,
+        "idstr": "7732575151",
+        "screen_name": "东阿融媒",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 3285482562,
-        "idstr": "3285482562",
-        "screen_name": "烟台广播",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2992050891,
-        "idstr": "2992050891",
-        "screen_name": "北京时间",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2685336121,
-        "idstr": "2685336121",
-        "screen_name": "南宁晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2620088113,
-        "idstr": "2620088113",
-        "screen_name": "海报新闻",
+        "id": 7387466437,
+        "idstr": "7387466437",
+        "screen_name": "墨江融媒",
         "verified": true,
         "verified_type": 3
       }
