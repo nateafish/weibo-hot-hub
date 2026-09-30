@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 6418480627
   },
-  "last_seen_at": "2026-09-30T06:00:00+08:00",
+  "last_seen_at": "2026-09-30T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%BC%A0%E5%AE%B6%E9%BD%90%E8%AF%B4%E9%99%88%E8%8A%8B%E6%B1%9021%E5%B2%81%E7%8A%B6%E6%80%81%E5%8F%AF%E6%80%95%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "7家媒体",
     "users": [
       {
         "id": 6418480627,
@@ -47,6 +47,13 @@
         "id": 2356298087,
         "idstr": "2356298087",
         "screen_name": "河北经视",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       },

@@ -10,11 +10,19 @@
     "status": 2,
     "uid": 6100411626
   },
-  "last_seen_at": "2026-09-30T06:00:00+08:00",
+  "last_seen_at": "2026-09-30T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%91%A8%E6%B7%B1%E5%94%B1%E4%BA%8670%E9%A6%96%E6%AD%8C%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "1家媒体",
+    "users": [
+      {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#周深唱了70首歌#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%94%B1%E4%BA%8670%E9%A6%96%E6%AD%8C%23",
