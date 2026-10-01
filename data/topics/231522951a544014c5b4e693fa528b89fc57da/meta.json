@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1618051664
   },
-  "last_seen_at": "2026-10-01T07:00:00+08:00",
+  "last_seen_at": "2026-10-01T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23C%E7%BD%97%E4%B8%8E%E8%91%A1%E8%90%84%E7%89%99%E4%B8%BB%E5%B8%85%E5%90%84%E8%87%AA%E6%89%BF%E8%AE%A4%E9%94%99%E8%AF%AF%23%26t%3D3&title=发布媒体",
-    "show_str": "8家媒体",
+    "show_str": "10家媒体",
     "users": [
       {
         "id": 1618051664,
@@ -28,6 +28,13 @@
         "screen_name": "捉谣记",
         "verified": true,
         "verified_type": 7
+      },
+      {
+        "id": 6299534218,
+        "idstr": "6299534218",
+        "screen_name": "北青体育",
+        "verified": true,
+        "verified_type": 3
       },
       {
         "id": 6092578444,
@@ -47,13 +54,6 @@
         "id": 2252846093,
         "idstr": "2252846093",
         "screen_name": "长春新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2075245652,
-        "idstr": "2075245652",
-        "screen_name": "长春晚报",
         "verified": true,
         "verified_type": 3
       },
