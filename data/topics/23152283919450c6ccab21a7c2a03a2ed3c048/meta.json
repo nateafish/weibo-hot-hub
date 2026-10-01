@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 1997509257
   },
-  "last_seen_at": "2026-10-01T13:00:00+08:00",
+  "last_seen_at": "2026-10-01T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8D%8E%E4%B8%BAMate90%E4%BB%B7%E6%A0%BC%23%26t%3D3&title=发布媒体",
-    "show_str": "82家媒体",
+    "show_str": "83家媒体",
     "users": [
+      {
+        "id": 1826017320,
+        "idstr": "1826017320",
+        "screen_name": "IT之家",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 5864631680,
         "idstr": "5864631680",
@@ -54,13 +61,6 @@
         "id": 2159765687,
         "idstr": "2159765687",
         "screen_name": "开封日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1898268644,
-        "idstr": "1898268644",
-        "screen_name": "长江日报",
         "verified": true,
         "verified_type": 3
       }

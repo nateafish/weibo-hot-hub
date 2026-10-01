@@ -1,9 +1,16 @@
 {
-  "category": null,
+  "category": "社会",
   "created_at": 1790822974,
   "first_seen_at": "2026-10-01T13:00:00+08:00",
-  "host": null,
-  "last_seen_at": "2026-10-01T13:00:00+08:00",
+  "host": {
+    "claim_time": "2026.10.01-至今",
+    "created_at": "2026-10-01 14:26:32",
+    "is_claim": true,
+    "screen_name": "封面新闻",
+    "status": 2,
+    "uid": 1496814565
+  },
+  "last_seen_at": "2026-10-01T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8D%8E%E4%B8%BA%E5%AE%98%E5%AE%A3XMAGE%E4%B8%AD%E6%96%87%E5%90%8D%23%26t%3D3&title=发布媒体",
     "show_str": "16家媒体",
@@ -23,16 +30,16 @@
         "verified_type": 3
       },
       {
-        "id": 1655444627,
-        "idstr": "1655444627",
-        "screen_name": "潇湘晨报",
+        "id": 1796087453,
+        "idstr": "1796087453",
+        "screen_name": "荔枝新闻",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1043320390,
-        "idstr": "1043320390",
-        "screen_name": "半岛晨报",
+        "id": 1655444627,
+        "idstr": "1655444627",
+        "screen_name": "潇湘晨报",
         "verified": true,
         "verified_type": 3
       },
@@ -44,25 +51,25 @@
         "verified_type": 3
       },
       {
-        "id": 1496814565,
-        "idstr": "1496814565",
-        "screen_name": "封面新闻",
+        "id": 1043320390,
+        "idstr": "1043320390",
+        "screen_name": "半岛晨报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 7215387392,
-        "idstr": "7215387392",
-        "screen_name": "新车场",
+        "id": 1700720163,
+        "idstr": "1700720163",
+        "screen_name": "钱江晚报",
         "verified": true,
         "verified_type": 3
       }
     ]
   },
-  "query": "华为官宣XMAGE中文名",
+  "query": "#华为官宣XMAGE中文名#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%AE%98%E5%AE%A3xmage%E4%B8%AD%E6%96%87%E5%90%8D%23",
   "sub_category": null,
-  "summary": "",
+  "summary": "10月1日，华为Mate 90系列及全场景新品发布会上，移动影像新物种华为睿影Z10模块相机震撼亮相，这不是增距镜，而是业界首款带传感器的10倍连续光变模块相机。",
   "title": "华为官宣xmage中文名",
   "topic_id": "2315226ba578db77498232e86c5c3129b5c8c8"
 }
