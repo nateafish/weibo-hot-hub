@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 2028810631
   },
-  "last_seen_at": "2026-10-01T06:00:00+08:00",
+  "last_seen_at": "2026-10-01T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%BF%AA%E6%8B%9C%E8%88%AA%E7%A9%BA%E5%AE%A2%E6%9C%BA%E4%BA%8B%E6%95%85%E6%9C%80%E6%96%B0%E7%94%BB%E9%9D%A2%23%26t%3D3&title=发布媒体",
-    "show_str": "10家媒体",
+    "show_str": "12家媒体",
     "users": [
       {
         "id": 2028810631,
         "idstr": "2028810631",
         "screen_name": "新浪新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2290787940,
+        "idstr": "2290787940",
+        "screen_name": "扬州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1043320390,
+        "idstr": "1043320390",
+        "screen_name": "半岛晨报",
         "verified": true,
         "verified_type": 3
       },
@@ -37,30 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 2075245652,
+        "idstr": "2075245652",
+        "screen_name": "长春晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1959444680,
         "idstr": "1959444680",
         "screen_name": "云南网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1943154142,
-        "idstr": "1943154142",
-        "screen_name": "中安在线",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1893892941,
-        "idstr": "1893892941",
-        "screen_name": "北京日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1712686623,
-        "idstr": "1712686623",
-        "screen_name": "手机上的新浪",
         "verified": true,
         "verified_type": 3
       }
