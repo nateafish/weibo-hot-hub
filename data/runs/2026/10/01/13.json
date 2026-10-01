@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-10-01T13:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#重温总书记这番令人热血沸腾的话语#",
+      "rank": 1,
+      "title": "重温总书记这番令人热血沸腾的话语",
+      "topic_id": "231522206b32bd9c3e721014ff6b68c9f387f2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "华为Mate90价格",
+      "rank": 1,
+      "title": "华为Mate90价格",
+      "topic_id": "23152283919450c6ccab21a7c2a03a2ed3c048"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#央视国庆晚会阵容发布#",
+      "rank": 2,
+      "title": "央视国庆晚会阵容发布",
+      "topic_id": "231522774336342b9871455a3def981fc3d994"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "清澈的爱只为中国",
+      "rank": 3,
+      "title": "清澈的爱只为中国",
+      "topic_id": "231522cdc8463d76f915d269bd17e356060a29"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#主持人阿丘被通报#",
+      "rank": 4,
+      "title": "主持人阿丘被通报",
+      "topic_id": "23152257a470df64f4719ea9ee78655ecbcd64"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "人一旦会穿搭",
+      "rank": 5,
+      "title": "人一旦会穿搭",
+      "topic_id": "231522a823c4fc4bf26c0b210c9e492add3e4c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#2026央视国庆晚会节目单#",
+      "rank": 6,
+      "title": "2026央视国庆晚会节目单",
+      "topic_id": "2315221b0dd1484520627c94eb60452bfe6af3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "中国人的断句能力有多离谱",
+      "rank": 7,
+      "title": "中国人的断句能力有多离谱",
+      "topic_id": "23152220ba06ae9a00278756d668a563776892"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "小米汽车",
+      "rank": 8,
+      "title": "小米汽车",
+      "topic_id": "2315221cb5b213db3c1e0601f50389c1b84329"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#华为Mate90把芯片里的弯路走直了#",
+      "rank": 9,
+      "title": "华为Mate90把芯片里的弯路走直了",
+      "topic_id": "231522e50c0e810bd43a940d84c2b6dac27d6d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#江歌妈妈发长文尘埃终将落定#",
+      "rank": 10,
+      "title": "江歌妈妈发长文尘埃终将落定",
+      "topic_id": "231522fe703004102faf70d0f78cdfdb8a8647"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "中国航天员发来宇宙级祝福",
+      "rank": 11,
+      "title": "中国航天员发来宇宙级祝福",
+      "topic_id": "231522adbdade3fa747c00fd383287f346f7f2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#奚梦瑶晒婆婆赠送的婚嫁敬茶礼#",
+      "rank": 12,
+      "title": "奚梦瑶晒婆婆赠送的婚嫁敬茶礼",
+      "topic_id": "2315223e03a16c1876141cb8bf3aac7f6c41c6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "王楚钦 太平鸟",
+      "rank": 13,
+      "title": "王楚钦 太平鸟",
+      "topic_id": "231522a699b73c7231947d86a13bfec797a377"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#董璇回应再婚原因#",
+      "rank": 14,
+      "title": "董璇回应再婚原因",
+      "topic_id": "23152277dd47fb5033a5749dbd3b169e12015b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "不会穿搭的人建议反复观看",
+      "rank": 15,
+      "title": "不会穿搭的人建议反复观看",
+      "topic_id": "2315224124c0ae67189691059a0229950b24a8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#华为Mate90首发模块相机#",
+      "rank": 16,
+      "title": "华为Mate90首发模块相机",
+      "topic_id": "231522fa3e2d0642bd48ba60b306f9cef055d4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#12306回应候补成功后车已开走#",
+      "rank": 17,
+      "title": "12306回应候补成功后车已开走",
+      "topic_id": "231522bc020cf8f02a4bec81cd4f043ef16f36"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#Mate90首发光学昆仑玻璃#",
+      "rank": 18,
+      "title": "Mate90首发光学昆仑玻璃",
+      "topic_id": "231522799bba1845910772e2480c4937707c78"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#淡淡妈妈为张家齐妈妈鸣不平#",
+      "rank": 19,
+      "title": "淡淡妈妈为张家齐妈妈鸣不平",
+      "topic_id": "23152264c851216b163930708cd4cc1a8231a3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#郑钦文vs施晗#",
+      "rank": 20,
+      "title": "郑钦文vs施晗",
+      "topic_id": "2315221cb3c9b018a89e98001a1daad58bb739"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "坐两个帅哥中间不知谁脚臭",
+      "rank": 21,
+      "title": "坐两个帅哥中间不知谁脚臭",
+      "topic_id": "23152288a03b83cbece79c33171241148b7493"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#肖战央视国庆晚会特别节目#",
+      "rank": 22,
+      "title": "肖战央视国庆晚会特别节目",
+      "topic_id": "231522a69faee5d8152e39cd49ab1d6a5a6853"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#李承铉生理性喜欢#",
+      "rank": 23,
+      "title": "李承铉生理性喜欢",
+      "topic_id": "231522ef8a44d9ce8ef89b788a5a8a905ddc7f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#余承东回应Mate90定价#",
+      "rank": 24,
+      "title": "余承东回应Mate90定价",
+      "topic_id": "231522ebc9da712a44410cf29b6d2c8d27582a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#Mate90业界首创直播模式#",
+      "rank": 25,
+      "title": "Mate90业界首创直播模式",
+      "topic_id": "23152235cf897a2bbc7f51c7b598257fba28cd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张帅晋级亚运会决赛#",
+      "rank": 26,
+      "title": "张帅晋级亚运会决赛",
+      "topic_id": "2315226a95713fe6824c4fb5332097024f7452"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "女画师被假闲鱼客服骗四万后坠亡",
+      "rank": 27,
+      "title": "女画师被假闲鱼客服骗四万后坠亡",
+      "topic_id": "231522deb33e461b5650896aba5f6e39910266"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "现在就出发4",
+      "rank": 28,
+      "title": "现在就出发4",
+      "topic_id": "2315224dd9bfd96d1654af941dbdfb50158b7c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "国庆节",
+      "rank": 29,
+      "title": "国庆节",
+      "topic_id": "2315226d3f19383aa7a38150f07963e329a0b4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张帅2比0淘汰普丁塞娃#",
+      "rank": 30,
+      "title": "张帅2比0淘汰普丁塞娃",
+      "topic_id": "23152214054d521020112fcbf03cb7c476132d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#王俊凯穿这么少不冷吗#",
+      "rank": 31,
+      "title": "王俊凯穿这么少不冷吗",
+      "topic_id": "2315226b962a8c7b4bacd558553f4e0199783b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#武侯祠把非遗市集玩成了三国副本#",
+      "rank": 32,
+      "title": "武侯祠把非遗市集玩成了三国副本",
+      "topic_id": "23152269dcb4a9f9efbfbb4273725686005fdb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#Mate90系列升级睿影红枫人像#",
+      "rank": 33,
+      "title": "Mate90系列升级睿影红枫人像",
+      "topic_id": "2315221446eea16e79ebd88ed3be26ded21724"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "仙逆",
+      "rank": 34,
+      "title": "仙逆",
+      "topic_id": "2315226591c0fe39f614e349123bc77d25e9aa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#范丞丞在热搜看张凌赫王楚然的剧#",
+      "rank": 35,
+      "title": "范丞丞在热搜看张凌赫王楚然的剧",
+      "topic_id": "231522815f50214b7164b048fe5d2aaed2d366"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 8,
+      "posts": "saved",
+      "query": "#华为mate90这价格怎么样#",
+      "rank": 36,
+      "title": "华为mate90这价格怎么样",
+      "topic_id": "231522d71c34be6451dd628d788e66c92adb5f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#Mate90拼好网#",
+      "rank": 37,
+      "title": "Mate90拼好网",
+      "topic_id": "231522e76b0732665ec9b58b1f07f801f865bb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#华为nova泡泡玛特联名礼盒发布#",
+      "rank": 38,
+      "title": "华为nova泡泡玛特联名礼盒发布",
+      "topic_id": "231522a5e3bfa48030d0c69b8eb330c2c7e379"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#广东人国庆堵堵堵实况#",
+      "rank": 39,
+      "title": "广东人国庆堵堵堵实况",
+      "topic_id": "2315222050b4ec0d7eadfb01d8498e9de97f21"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "小米汽车55万目标差距",
+      "rank": 40,
+      "title": "小米汽车55万目标差距",
+      "topic_id": "231522847f5257684ea62190f4ace3c934850b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 7,
+      "posts": "saved",
+      "query": "桃晚安",
+      "rank": 41,
+      "title": "桃晚安",
+      "topic_id": "2315227357bb2df2b2dcb8d973307abaeeb39b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#多位球星点赞C罗退集训声明#",
+      "rank": 42,
+      "title": "多位球星点赞C罗退集训声明",
+      "topic_id": "231522e869c0ecb60a8630dbaaa6fdfc983006"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "酒吧人均190的男生是这样来的",
+      "rank": 43,
+      "title": "酒吧人均190的男生是这样来的",
+      "topic_id": "2315229afec5b2faffb6f19155cbcebf92d81b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#穆祉丞手握两部待播作品#",
+      "rank": 44,
+      "title": "穆祉丞手握两部待播作品",
+      "topic_id": "231522660092a0111db170a0b756e680e2d37f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#Mate90全系搭载旗舰韬芯片#",
+      "rank": 45,
+      "title": "Mate90全系搭载旗舰韬芯片",
+      "topic_id": "2315227e8842b731226e0494f3c85256e64d14"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "华为官宣XMAGE中文名",
+      "rank": 46,
+      "title": "华为官宣XMAGE中文名",
+      "topic_id": "2315226ba578db77498232e86c5c3129b5c8c8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "机长被刺伤仍开舱门救乘客",
+      "rank": 47,
+      "title": "机长被刺伤仍开舱门救乘客",
+      "topic_id": "231522ba49a762cc6d7fc9d7b499201ff28231"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#韩国人是这样吃柿饼的#",
+      "rank": 48,
+      "title": "韩国人是这样吃柿饼的",
+      "topic_id": "231522df58670d78a1533c6bbbc61b2e03784b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#林锦岐知道许兰香就是沈嘉兰了#",
+      "rank": 49,
+      "title": "林锦岐知道许兰香就是沈嘉兰了",
+      "topic_id": "2315220a333de22a7043c9af9d64816a739e7c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "特斯拉Model 3升级",
+      "rank": 50,
+      "title": "特斯拉Model 3升级",
+      "topic_id": "2315223454e954e8e81f3f3f35c6831a689a83"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

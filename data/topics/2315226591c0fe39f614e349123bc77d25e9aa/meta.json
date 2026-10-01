@@ -3,10 +3,10 @@
   "created_at": null,
   "first_seen_at": "2026-08-23T20:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-13T20:00:00+08:00",
+  "last_seen_at": "2026-10-01T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BB%99%E9%80%86%23%26t%3D3&title=发布媒体",
-    "show_str": "11家媒体",
+    "show_str": "12家媒体",
     "users": [
       {
         "id": 2346437860,
@@ -19,6 +19,13 @@
         "id": 2297936863,
         "idstr": "2297936863",
         "screen_name": "中国国家旅游",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1261788454,
+        "idstr": "1261788454",
+        "screen_name": "中国电影报道",
         "verified": true,
         "verified_type": 3
       },
@@ -47,13 +54,6 @@
         "id": 1941424392,
         "idstr": "1941424392",
         "screen_name": "台州晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1913382117,
-        "idstr": "1913382117",
-        "screen_name": "深圳晚报",
         "verified": true,
         "verified_type": 3
       }
