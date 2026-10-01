@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2011075080
   },
-  "last_seen_at": "2026-10-01T21:00:00+08:00",
+  "last_seen_at": "2026-10-01T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A5%B3%E8%A3%85%E9%AB%98%E9%80%80%E8%B4%A7%E7%8E%87%E9%80%BC%E5%87%BA2.4%E7%B1%B3%E9%98%B2%E6%8B%86%E4%B8%9D%E5%B8%A6%23%26t%3D3&title=发布媒体",
-    "show_str": "78家媒体",
+    "show_str": "83家媒体",
     "users": [
       {
         "id": 2011075080,
         "idstr": "2011075080",
         "screen_name": "齐鲁晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1956700750,
+        "idstr": "1956700750",
+        "screen_name": "电商派",
         "verified": true,
         "verified_type": 3
       },
@@ -37,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 1043320390,
+        "idstr": "1043320390",
+        "screen_name": "半岛晨报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6357456494,
         "idstr": "6357456494",
         "screen_name": "果然视频",
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2011445377,
-        "idstr": "2011445377",
-        "screen_name": "齐鲁壹点",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1899227237,
-        "idstr": "1899227237",
-        "screen_name": "青岛早报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1497418417,
-        "idstr": "1497418417",
-        "screen_name": "掌上温岭",
+        "id": 5539777260,
+        "idstr": "5539777260",
+        "screen_name": "菏泽日报",
         "verified": true,
         "verified_type": 3
       }
