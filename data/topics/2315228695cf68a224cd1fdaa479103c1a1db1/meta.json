@@ -10,17 +10,31 @@
     "status": 2,
     "uid": 5899831415
   },
-  "last_seen_at": "2026-10-01T08:00:00+08:00",
+  "last_seen_at": "2026-10-01T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%97%AB%E5%A6%AE%E6%88%91%E5%BF%98%E4%BA%86%E6%88%91%E4%B9%9F50%E5%A4%9A%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "6家媒体",
     "users": [
       {
-        "id": 5330128610,
-        "idstr": "5330128610",
-        "screen_name": "夏日晨光里",
-        "verified": false,
-        "verified_type": -1
+        "id": 7708039348,
+        "idstr": "7708039348",
+        "screen_name": "北青娱见",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1867427515,
+        "idstr": "1867427515",
+        "screen_name": "新派新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1805685140,
+        "idstr": "1805685140",
+        "screen_name": "安徽网",
+        "verified": true,
+        "verified_type": 3
       },
       {
         "id": 1751714412,
@@ -33,6 +47,13 @@
         "id": 1677991972,
         "idstr": "1677991972",
         "screen_name": "晶报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       }

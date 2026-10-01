@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-10-01T10:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#向全国各族人民致以节日祝贺#",
+      "rank": 1,
+      "title": "向全国各族人民致以节日祝贺",
+      "topic_id": "2315222b82d90b462b1e9c7e9b94264257c561"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#12306回应买不到票被迫买长乘短#",
+      "rank": 1,
+      "title": "12306回应买不到票被迫买长乘短",
+      "topic_id": "23152247a6154fa456a14b2304cf30cb7cd92c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "天安门放飞10000多只和平鸽",
+      "rank": 2,
+      "title": "天安门放飞10000多只和平鸽",
+      "topic_id": "2315228a7c6d0b5731af2df7e150fc61e15013"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "少年儿童高唱我们是共产主义接班人",
+      "rank": 3,
+      "title": "少年儿童高唱我们是共产主义接班人",
+      "topic_id": "2315225e8941a28f2c7e51cc0d36534ffee0d3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#中方对日本首相称呼发生变化#",
+      "rank": 4,
+      "title": "中方对日本首相称呼发生变化",
+      "topic_id": "2315226f03d846122ab8f1904fd6e5a494d7fa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#多位球星点赞C罗退集训声明#",
+      "rank": 5,
+      "title": "多位球星点赞C罗退集训声明",
+      "topic_id": "231522e869c0ecb60a8630dbaaa6fdfc983006"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "国庆节",
+      "rank": 6,
+      "title": "国庆节",
+      "topic_id": "2315226d3f19383aa7a38150f07963e329a0b4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#葡足协主席和热苏斯追到机场挽留C罗#",
+      "rank": 7,
+      "title": "葡足协主席和热苏斯追到机场挽留C罗",
+      "topic_id": "2315220648639ebafc8430a772a5b6fd6533ce"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#网友候补成功睡醒发现车已开走#",
+      "rank": 8,
+      "title": "网友候补成功睡醒发现车已开走",
+      "topic_id": "2315227a950f41c1f4dcc8a4c8ef8b36bbeed9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#各大车企9月交付量#",
+      "rank": 9,
+      "title": "各大车企9月交付量",
+      "topic_id": "23152287f1af4ef3bb3be2ca95e2be749ee1ad"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#周深在人民日报撰文#",
+      "rank": 10,
+      "title": "周深在人民日报撰文",
+      "topic_id": "23152211886ecd9b3e12873ceda98a6aca10cb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#就给张家齐拿了4个鸡蛋一把青菜#",
+      "rank": 11,
+      "title": "就给张家齐拿了4个鸡蛋一把青菜",
+      "topic_id": "2315221f291dda2aac7fed98c59bcbb9d3b2e1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#C罗要求葡萄牙主帅公开认错#",
+      "rank": 12,
+      "title": "C罗要求葡萄牙主帅公开认错",
+      "topic_id": "231522458186aa0e7d53e4ee7099e06345f265"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "白露两冠一金的19岁",
+      "rank": 13,
+      "title": "白露两冠一金的19岁",
+      "topic_id": "231522111f94c634c61091a482bd39f6c171c3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#多少明星都没这么多粉丝群#",
+      "rank": 14,
+      "title": "多少明星都没这么多粉丝群",
+      "topic_id": "2315220faeab923693de6d19f30f90240ac066"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#奚梦瑶给女儿买了可爱版菜篮子#",
+      "rank": 15,
+      "title": "奚梦瑶给女儿买了可爱版菜篮子",
+      "topic_id": "231522fd595ba7f42abe1a77090b4bf8b0c2b0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#为啥陈芋汐就能平稳熬过去#",
+      "rank": 16,
+      "title": "为啥陈芋汐就能平稳熬过去",
+      "topic_id": "231522d638b7e0288b305a6da2cd46383d9a2c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#官俊臣被体院借调#",
+      "rank": 17,
+      "title": "官俊臣被体院借调",
+      "topic_id": "2315220d919c48747272ee53bb22e412ad687a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "射击收官中国队冲最后两金",
+      "rank": 18,
+      "title": "射击收官中国队冲最后两金",
+      "topic_id": "231522641f705c6799de59198b989aa4b24aeb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#小伙骑行828公里赴京看升旗#",
+      "rank": 19,
+      "title": "小伙骑行828公里赴京看升旗",
+      "topic_id": "23152282a3dfce52d223cd51e1dd60708f367a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "国庆天安门广场升国旗完整视频",
+      "rank": 20,
+      "title": "国庆天安门广场升国旗完整视频",
+      "topic_id": "231522702ba58f28267729ab0639930cb0bec7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#奚梦瑶晒婆婆赠送的婚嫁敬茶礼#",
+      "rank": 21,
+      "title": "奚梦瑶晒婆婆赠送的婚嫁敬茶礼",
+      "topic_id": "2315223e03a16c1876141cb8bf3aac7f6c41c6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "这就是今晨的天安门广场",
+      "rank": 22,
+      "title": "这就是今晨的天安门广场",
+      "topic_id": "231522c94a7c3b65f8abcc1c5765e38e707ca4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "C罗宣布离开国家队集训营",
+      "rank": 23,
+      "title": "C罗宣布离开国家队集训营",
+      "topic_id": "231522fd0cfb3be34db6bdbbfc26e11d8de626"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "英国世界级AI成果遭群嘲",
+      "rank": 24,
+      "title": "英国世界级AI成果遭群嘲",
+      "topic_id": "231522a8d989ab47c505a94fa5c271f6579ebf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "2001和2026找工作对比",
+      "rank": 25,
+      "title": "2001和2026找工作对比",
+      "topic_id": "2315225aebb930bb18041b65a214042535965a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 7,
+      "posts": "saved",
+      "query": "桃晚安",
+      "rank": 26,
+      "title": "桃晚安",
+      "topic_id": "2315227357bb2df2b2dcb8d973307abaeeb39b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#这是国庆的北京#",
+      "rank": 27,
+      "title": "这是国庆的北京",
+      "topic_id": "2315229e7b1063aeba9bfedbc8fa718d41f7f2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "年轻人买房别顶格",
+      "rank": 28,
+      "title": "年轻人买房别顶格",
+      "topic_id": "2315226cbb6e14fb5f9cbf1920e24180b6f6b1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#葡媒称C罗已做出不可逆决定#",
+      "rank": 29,
+      "title": "葡媒称C罗已做出不可逆决定",
+      "topic_id": "2315225421d4219ef703fae9b29395bcaa2cbe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#五星红旗升起这一刻#",
+      "rank": 30,
+      "title": "五星红旗升起这一刻",
+      "topic_id": "2315227e83ccfa7bc0fae687bf3e119a8a110d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "冰工厂不语只是一味生产雷霆大冰块",
+      "rank": 31,
+      "title": "冰工厂不语只是一味生产雷霆大冰块",
+      "topic_id": "231522ee88809e4e1b52dc638166c6f9ac29f2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "小米汽车",
+      "rank": 32,
+      "title": "小米汽车",
+      "topic_id": "2315221cb5b213db3c1e0601f50389c1b84329"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "和公婆分开住才是成家",
+      "rank": 33,
+      "title": "和公婆分开住才是成家",
+      "topic_id": "231522183d4c571d5d0e345618ea369c921707"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#林锦岐目睹兰香生产大出血当场吓晕#",
+      "rank": 34,
+      "title": "林锦岐目睹兰香生产大出血当场吓晕",
+      "topic_id": "2315228d5f95368bcd48a675b8aa711433c77b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "特斯拉Model3焕新升级",
+      "rank": 35,
+      "title": "特斯拉Model3焕新升级",
+      "topic_id": "231522bfccbfa474228de8551d6af5ac657f5e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "小米汽车9月交付破4万",
+      "rank": 36,
+      "title": "小米汽车9月交付破4万",
+      "topic_id": "231522af95024d938fac9f72f36fbdd7a4b710"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "国庆文案",
+      "rank": 37,
+      "title": "国庆文案",
+      "topic_id": "231522faa1e2f037689722fee505adc1714d32"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 8,
+      "posts": "saved",
+      "query": "大叔身后戴眼镜的肯定有毒",
+      "rank": 38,
+      "title": "大叔身后戴眼镜的肯定有毒",
+      "topic_id": "231522fcfb99f1f42edd20c23a9f14800c02e9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#雷军回应小米汽车9月交付量#",
+      "rank": 39,
+      "title": "雷军回应小米汽车9月交付量",
+      "topic_id": "231522c48764fb4f090393f0fa0d94466e33c3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#葡萄牙足协回应C罗退出集训#",
+      "rank": 40,
+      "title": "葡萄牙足协回应C罗退出集训",
+      "topic_id": "2315222314e8322ee195e41e6e9001830344f4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#父亲突然离世邻居1分钟赶到帮忙#",
+      "rank": 41,
+      "title": "父亲突然离世邻居1分钟赶到帮忙",
+      "topic_id": "231522579ee49691016313c769dd6beebafb5d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#喀什父女跨越四千公里来京看升旗#",
+      "rank": 42,
+      "title": "喀什父女跨越四千公里来京看升旗",
+      "topic_id": "2315227699dae95db0468892d3d57b9464a9b7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "心疼陈鹤文",
+      "rank": 43,
+      "title": "心疼陈鹤文",
+      "topic_id": "231522c24d446f814e9b492b811abf8f3272d4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#闫妮我忘了我也50多了#",
+      "rank": 44,
+      "title": "闫妮我忘了我也50多了",
+      "topic_id": "2315228695cf68a224cd1fdaa479103c1a1db1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#C罗与葡萄牙主帅各自承认错误#",
+      "rank": 45,
+      "title": "C罗与葡萄牙主帅各自承认错误",
+      "topic_id": "231522951a544014c5b4e693fa528b89fc57da"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#热苏斯谈C罗离队#",
+      "rank": 46,
+      "title": "热苏斯谈C罗离队",
+      "topic_id": "231522739c2c2a8cc92b2350eb7bea01b89ec3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#林锦岐知道许兰香就是沈嘉兰了#",
+      "rank": 47,
+      "title": "林锦岐知道许兰香就是沈嘉兰了",
+      "topic_id": "2315220a333de22a7043c9af9d64816a739e7c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "赵丽颖飞天金鹰百花实绩",
+      "rank": 48,
+      "title": "赵丽颖飞天金鹰百花实绩",
+      "topic_id": "23152202ad2e91a794bac396d9b65126e58074"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "飞天奖提名名单",
+      "rank": 49,
+      "title": "飞天奖提名名单",
+      "topic_id": "2315225096f166e0c6492f8e0e3820899104df"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#迪拜航空劫机事件亲历者发声#",
+      "rank": 50,
+      "title": "迪拜航空劫机事件亲历者发声",
+      "topic_id": "231522225da5fd057223d106d29253b8cae3ec"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
