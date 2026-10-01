@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 6004281123
   },
-  "last_seen_at": "2026-10-01T20:00:00+08:00",
+  "last_seen_at": "2026-10-01T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%87%91%E4%BB%B7%E5%86%8D%E5%BA%A6%E7%9B%B4%E7%BA%BF%E8%B7%B3%E6%B0%B4%23%26t%3D3&title=发布媒体",
-    "show_str": "11家媒体",
+    "show_str": "20家媒体",
     "users": [
       {
         "id": 2286092114,
         "idstr": "2286092114",
         "screen_name": "中国蓝新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +37,30 @@
         "verified_type": 3
       },
       {
-        "id": 6254784663,
-        "idstr": "6254784663",
-        "screen_name": "朝九晚五Video",
+        "id": 7750453817,
+        "idstr": "7750453817",
+        "screen_name": "第1热评",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 6014513352,
-        "idstr": "6014513352",
-        "screen_name": "ING直播",
+        "id": 7738005609,
+        "idstr": "7738005609",
+        "screen_name": "第1眼看天下",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 6002842109,
-        "idstr": "6002842109",
-        "screen_name": "时差视频",
+        "id": 7735453948,
+        "idstr": "7735453948",
+        "screen_name": "第1观察",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 5994003317,
-        "idstr": "5994003317",
-        "screen_name": "老板联播",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5943595658,
-        "idstr": "5943595658",
-        "screen_name": "一手Video",
+        "id": 7525190844,
+        "idstr": "7525190844",
+        "screen_name": "第1眼网评",
         "verified": true,
         "verified_type": 3
       }

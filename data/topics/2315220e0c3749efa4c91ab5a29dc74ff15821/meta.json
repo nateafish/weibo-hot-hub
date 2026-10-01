@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 2011075080
   },
-  "last_seen_at": "2026-10-01T20:00:00+08:00",
+  "last_seen_at": "2026-10-01T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%AB%98%E9%80%9F%E6%9C%8D%E5%8A%A1%E5%8C%BA%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%85%85%E7%94%B5%E5%83%8F%E6%8E%92%E9%98%9F%E6%89%93%E9%A5%AD%23%26t%3D3&title=发布媒体",
-    "show_str": "23家媒体",
+    "show_str": "54家媒体",
     "users": [
       {
         "id": 2011075080,
         "idstr": "2011075080",
         "screen_name": "齐鲁晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2010802407,
+        "idstr": "2010802407",
+        "screen_name": "中国台州网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1738004582,
+        "idstr": "1738004582",
+        "screen_name": "纵览新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 6477929648,
+        "idstr": "6477929648",
+        "screen_name": "晶视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6357456494,
         "idstr": "6357456494",
         "screen_name": "果然视频",
@@ -37,30 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 5665811463,
-        "idstr": "5665811463",
-        "screen_name": "板扎在线",
-        "verified": true,
-        "verified_type": 7
-      },
-      {
-        "id": 2921799343,
-        "idstr": "2921799343",
-        "screen_name": "天下泉城",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2640662852,
-        "idstr": "2640662852",
-        "screen_name": "开屏动新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2259880587,
-        "idstr": "2259880587",
-        "screen_name": "内蒙古广播电视台",
+        "id": 6105713761,
+        "idstr": "6105713761",
+        "screen_name": "红星新闻",
         "verified": true,
         "verified_type": 3
       }

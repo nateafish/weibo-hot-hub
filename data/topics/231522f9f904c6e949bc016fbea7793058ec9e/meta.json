@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 6004281123
   },
-  "last_seen_at": "2026-10-01T20:00:00+08:00",
+  "last_seen_at": "2026-10-01T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E9%97%AE%E7%95%8C%E4%B8%9A%E5%8A%A1%E5%8D%87%E7%BA%A7%23%26t%3D3&title=发布媒体",
-    "show_str": "17家媒体",
+    "show_str": "22家媒体",
     "users": [
       {
         "id": 6004281123,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 7611147927,
+        "idstr": "7611147927",
+        "screen_name": "济南时报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7590570074,
         "idstr": "7590570074",
         "screen_name": "山海视频",
@@ -54,13 +61,6 @@
         "id": 6254784663,
         "idstr": "6254784663",
         "screen_name": "朝九晚五Video",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6060307497,
-        "idstr": "6060307497",
-        "screen_name": "观察者网出行中心",
         "verified": true,
         "verified_type": 3
       }
