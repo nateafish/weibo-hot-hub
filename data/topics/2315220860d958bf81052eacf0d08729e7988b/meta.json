@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2334112451
   },
-  "last_seen_at": "2026-10-02T13:00:00+08:00",
+  "last_seen_at": "2026-10-02T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23TOP%E6%9E%97%E7%8F%8D%E5%A8%9C%E6%89%BF%E8%AE%A4%E6%81%8B%E6%83%85%23%26t%3D3&title=发布媒体",
-    "show_str": "10家媒体",
+    "show_str": "11家媒体",
     "users": [
       {
         "id": 2252846093,
@@ -26,6 +26,13 @@
         "id": 2183542485,
         "idstr": "2183542485",
         "screen_name": "西安广播电视台",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497418417,
+        "idstr": "1497418417",
+        "screen_name": "掌上温岭",
         "verified": true,
         "verified_type": 3
       },
@@ -54,13 +61,6 @@
         "id": 2195600811,
         "idstr": "2195600811",
         "screen_name": "当代生活报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2027480085,
-        "idstr": "2027480085",
-        "screen_name": "水母网",
         "verified": true,
         "verified_type": 3
       }

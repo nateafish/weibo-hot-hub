@@ -3,11 +3,33 @@
   "created_at": 1790915198,
   "first_seen_at": "2026-10-02T13:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-02T13:00:00+08:00",
+  "last_seen_at": "2026-10-02T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9D%8E%E5%B0%8F%E5%86%89+%E4%BD%A0%E4%BB%AC%E8%BF%98%E6%9C%89%E6%88%8F%E6%8B%8D%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "3家媒体",
+    "users": [
+      {
+        "id": 2027480085,
+        "idstr": "2027480085",
+        "screen_name": "水母网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1744332207,
+        "idstr": "1744332207",
+        "screen_name": "钱江视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1280846847,
+        "idstr": "1280846847",
+        "screen_name": "指尖新闻-沈阳晚报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "李小冉 你们还有戏拍",
   "search_url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%8F%E5%86%89%20%E4%BD%A0%E4%BB%AC%E8%BF%98%E6%9C%89%E6%88%8F%E6%8B%8D%23",
