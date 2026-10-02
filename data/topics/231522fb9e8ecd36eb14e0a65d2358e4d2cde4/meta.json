@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1699432410
   },
-  "last_seen_at": "2026-10-02T10:00:00+08:00",
+  "last_seen_at": "2026-10-02T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%B0%88%E5%AE%B6%E5%9B%BD%E5%90%8C%E5%BF%83%23%26t%3D3&title=发布媒体",
-    "show_str": "7家媒体",
+    "show_str": "11家媒体",
     "users": [
       {
         "id": 1699432410,
@@ -26,6 +26,13 @@
         "id": 2318265821,
         "idstr": "2318265821",
         "screen_name": "半月谈",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6587633798,
+        "idstr": "6587633798",
+        "screen_name": "崇义发布",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 3901624042,
+        "idstr": "3901624042",
+        "screen_name": "山西日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2921799343,
         "idstr": "2921799343",
         "screen_name": "天下泉城",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2030806735,
-        "idstr": "2030806735",
-        "screen_name": "北方新报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1359974471,
-        "idstr": "1359974471",
-        "screen_name": "中国共青团杂志",
         "verified": true,
         "verified_type": 3
       }
