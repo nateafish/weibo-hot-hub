@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 6200688777
   },
-  "last_seen_at": "2026-10-02T15:00:00+08:00",
+  "last_seen_at": "2026-10-02T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8D%8E%E4%B8%BAMate90ProMax%E9%A1%B6%E9%85%8D%E7%89%88%E6%88%90%E9%94%80%E5%94%AE%E4%B8%BB%E5%8A%9B%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "7家媒体",
     "users": [
+      {
+        "id": 1738006505,
+        "idstr": "1738006505",
+        "screen_name": "机锋网",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 6982382342,
         "idstr": "6982382342",
@@ -30,9 +37,23 @@
         "verified_type": 3
       },
       {
+        "id": 6207911580,
+        "idstr": "6207911580",
+        "screen_name": "大河报豫视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6023976411,
         "idstr": "6023976411",
         "screen_name": "蓝睛",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5762891674,
+        "idstr": "5762891674",
+        "screen_name": "密度新闻",
         "verified": true,
         "verified_type": 3
       },
