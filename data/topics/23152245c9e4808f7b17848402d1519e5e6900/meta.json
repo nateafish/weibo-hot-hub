@@ -3,10 +3,10 @@
   "created_at": 1790904018,
   "first_seen_at": "2026-10-02T10:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-02T12:00:00+08:00",
+  "last_seen_at": "2026-10-02T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%94%B5%E8%A7%86%E5%89%A7%E5%90%8D+%E5%A5%B6%E8%8C%B6%E5%90%8D%23%26t%3D3&title=发布媒体",
-    "show_str": "13家媒体",
+    "show_str": "15家媒体",
     "users": [
       {
         "id": 3275115274,
@@ -19,6 +19,13 @@
         "id": 1652484947,
         "idstr": "1652484947",
         "screen_name": "新快报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2195600811,
+        "idstr": "2195600811",
+        "screen_name": "当代生活报",
         "verified": true,
         "verified_type": 3
       },
@@ -37,9 +44,9 @@
         "verified_type": 3
       },
       {
-        "id": 2195600811,
-        "idstr": "2195600811",
-        "screen_name": "当代生活报",
+        "id": 2041117703,
+        "idstr": "2041117703",
+        "screen_name": "合肥日报",
         "verified": true,
         "verified_type": 3
       },
@@ -47,13 +54,6 @@
         "id": 2027480085,
         "idstr": "2027480085",
         "screen_name": "水母网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1967926223,
-        "idstr": "1967926223",
-        "screen_name": "FM1031济南交通广播",
         "verified": true,
         "verified_type": 3
       }
