@@ -1,12 +1,19 @@
 {
-  "category": null,
+  "category": "体育",
   "created_at": 1790948044,
   "first_seen_at": "2026-10-02T22:00:00+08:00",
-  "host": null,
-  "last_seen_at": "2026-10-02T22:00:00+08:00",
+  "host": {
+    "claim_time": "2026.10.02-至今",
+    "created_at": "2026-10-02 23:04:23",
+    "is_claim": true,
+    "screen_name": "咪咕足球",
+    "status": 2,
+    "uid": 6364463714
+  },
+  "last_seen_at": "2026-10-02T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%9B%BD%E8%B6%B30%E6%AF%945%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%23%26t%3D3&title=发布媒体",
-    "show_str": "32家媒体",
+    "show_str": "73家媒体",
     "users": [
       {
         "id": 1744332207,
@@ -23,16 +30,16 @@
         "verified_type": 3
       },
       {
-        "id": 6299534218,
-        "idstr": "6299534218",
-        "screen_name": "北青体育",
+        "id": 1497087080,
+        "idstr": "1497087080",
+        "screen_name": "羊城晚报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 7051979649,
-        "idstr": "7051979649",
-        "screen_name": "咪咕冰雪",
+        "id": 1655068234,
+        "idstr": "1655068234",
+        "screen_name": "东方体育日报",
         "verified": true,
         "verified_type": 3
       },
@@ -44,25 +51,25 @@
         "verified_type": 7
       },
       {
-        "id": 7476748260,
-        "idstr": "7476748260",
-        "screen_name": "大公文匯網",
+        "id": 6092578444,
+        "idstr": "6092578444",
+        "screen_name": "新浪种草官",
         "verified": true,
-        "verified_type": 3
+        "verified_type": 7
       },
       {
-        "id": 2360016402,
-        "idstr": "2360016402",
-        "screen_name": "宁波日报",
+        "id": 1497418417,
+        "idstr": "1497418417",
+        "screen_name": "掌上温岭",
         "verified": true,
         "verified_type": 3
       }
     ]
   },
-  "query": "国足0比5巴勒斯坦",
+  "query": "#国足0比5巴勒斯坦#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B30%E6%AF%945%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%23",
   "sub_category": null,
-  "summary": "",
+  "summary": "最后时刻，颜骏凌扑救失误，国足5球落后巴勒斯坦。",
   "title": "国足0比5巴勒斯坦",
   "topic_id": "231522e6f50970a80b1854444499ccce9482ed"
 }

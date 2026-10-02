@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-10-02T23:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#我在山河在#",
+      "rank": 1,
+      "title": "我在山河在",
+      "topic_id": "231522b32211586ce9daab192afc1b9f5d869f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#董路谈国足0比5巴勒斯坦#",
+      "rank": 1,
+      "title": "董路谈国足0比5巴勒斯坦",
+      "topic_id": "231522bea768cb79d394c744758899252e00bc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#邵佳一道歉#",
+      "rank": 2,
+      "title": "邵佳一道歉",
+      "topic_id": "231522cb0fb8175977674aa8df6a99f5bfd649"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#多部门多措并举保障国庆公路出行#",
+      "rank": 3,
+      "title": "多部门多措并举保障国庆公路出行",
+      "topic_id": "231522786d5ecf89eb7c86815542e407d334c2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#沈腾李小冉也没戏拍了吗#",
+      "rank": 4,
+      "title": "沈腾李小冉也没戏拍了吗",
+      "topic_id": "2315229ff8e95d20f0995141afe496aa2c6744"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "Hero战胜AG",
+      "rank": 5,
+      "title": "Hero战胜AG",
+      "topic_id": "2315229d5d01d3b2b0b4821b13a67e392a0d69"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#国足0比5巴勒斯坦#",
+      "rank": 6,
+      "title": "国足0比5巴勒斯坦",
+      "topic_id": "231522e6f50970a80b1854444499ccce9482ed"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#杜翠雀杀了袁绍辉#",
+      "rank": 7,
+      "title": "杜翠雀杀了袁绍辉",
+      "topic_id": "2315226bc6542e92deea4e2abed926cd05f079"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#韬芯片让信号跑得更快#",
+      "rank": 8,
+      "title": "韬芯片让信号跑得更快",
+      "topic_id": "231522234b713a27ddf0eb0f6835128fa7719f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "王楚钦复盘亚运会",
+      "rank": 9,
+      "title": "王楚钦复盘亚运会",
+      "topic_id": "2315221fbe6a16ddf1369b320b14ec304c7fb9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "一诺尽力了",
+      "rank": 10,
+      "title": "一诺尽力了",
+      "topic_id": "231522aa49074f5721b56929a408d2df6e63e9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "蔡天凤碎尸案",
+      "rank": 11,
+      "title": "蔡天凤碎尸案",
+      "topic_id": "2315228a07b4892a75b1cf52bab09323c720e1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "墨尔本车祸致中国夫妻身亡",
+      "rank": 12,
+      "title": "墨尔本车祸致中国夫妻身亡",
+      "topic_id": "2315223fade1cb76594358a7aa57efb755d323"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#香港名媛蔡天凤碎尸案细节#",
+      "rank": 13,
+      "title": "香港名媛蔡天凤碎尸案细节",
+      "topic_id": "231522d1ac99a9fc27803cccd2c093b8968e64"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王俊凯闪身步#",
+      "rank": 14,
+      "title": "王俊凯闪身步",
+      "topic_id": "2315224ef464805f61849ecdd020547bfdbd39"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "鹭卓向粉丝道歉",
+      "rank": 15,
+      "title": "鹭卓向粉丝道歉",
+      "topic_id": "23152282869d1fc100b0e5d7e54bb5d2de6013"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "国足 惨败",
+      "rank": 16,
+      "title": "国足 惨败",
+      "topic_id": "231522078f9d8edf8945f328ce3d247ea97009"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "陈若琳有没有资格教全红婵",
+      "rank": 17,
+      "title": "陈若琳有没有资格教全红婵",
+      "topic_id": "231522cd387a3c745a3180e7f18c72de286fd2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "全世界都知道中国人放假了",
+      "rank": 18,
+      "title": "全世界都知道中国人放假了",
+      "topic_id": "23152289dd55dee2927dc57f57ac5f059b01af"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#JDG生死战对阵T1#",
+      "rank": 19,
+      "title": "JDG生死战对阵T1",
+      "topic_id": "23152247dfdd6709e0f632cc3a260a14c60354"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#国足球迷最后仍高喊继续战斗加油#",
+      "rank": 20,
+      "title": "国足球迷最后仍高喊继续战斗加油",
+      "topic_id": "2315224165ce603fe8e83fde5525865a91c086"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "顾廷烨 二婚男",
+      "rank": 21,
+      "title": "顾廷烨 二婚男",
+      "topic_id": "231522f4235a2bd7f90946d4cc05c02602b08b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#兰香如故袁绍辉去世#",
+      "rank": 22,
+      "title": "兰香如故袁绍辉去世",
+      "topic_id": "23152262cc15ae3e783116ee752fd9146deab5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#央视赞Mate90争气机换上争气芯#",
+      "rank": 23,
+      "title": "央视赞Mate90争气机换上争气芯",
+      "topic_id": "231522305b6e6d54ebaf436914c99b29691db1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "妈妈去世第四年翻到她朋友圈",
+      "rank": 24,
+      "title": "妈妈去世第四年翻到她朋友圈",
+      "topic_id": "2315220b1667163aeb308784b7434468ff1e62"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "女孩担心蒜头鼻遗传提分手",
+      "rank": 25,
+      "title": "女孩担心蒜头鼻遗传提分手",
+      "topic_id": "231522bb1835dcf8daca6847f538d62204e970"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "三文鱼一出生就是这个样子",
+      "rank": 26,
+      "title": "三文鱼一出生就是这个样子",
+      "topic_id": "23152260214812ef4e0c8cde46f0c766dd8c8c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#詹俊谈国足0比5巴勒斯坦#",
+      "rank": 27,
+      "title": "詹俊谈国足0比5巴勒斯坦",
+      "topic_id": "231522234cb5b70923ecb1c394c250f53935c8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "邵佳一 国足",
+      "rank": 28,
+      "title": "邵佳一 国足",
+      "topic_id": "23152259afa85c24860f59f6da1c3dde118777"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "百家讲坛观看顺序推荐",
+      "rank": 29,
+      "title": "百家讲坛观看顺序推荐",
+      "topic_id": "231522809acee04950ac18d3a54a3221674c23"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#天安门执勤点的小猫又来了#",
+      "rank": 30,
+      "title": "天安门执勤点的小猫又来了",
+      "topic_id": "231522a8436ab269595fe41ed992487efe6deb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#王一博惠英红小水林阳合照#",
+      "rank": 31,
+      "title": "王一博惠英红小水林阳合照",
+      "topic_id": "23152276ee6471306f98c2cd5fc53c5bfaa549"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#孙楠满江张彬彬曾辉怎么了#",
+      "rank": 32,
+      "title": "孙楠满江张彬彬曾辉怎么了",
+      "topic_id": "2315224d8889d60ff2216ef646d2431ed2130b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#国足惨败后防集体梦游#",
+      "rank": 33,
+      "title": "国足惨败后防集体梦游",
+      "topic_id": "2315223bfae40cc2a215a61a566f8c4a611005"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#布云朝克特vs德约科维奇#",
+      "rank": 34,
+      "title": "布云朝克特vs德约科维奇",
+      "topic_id": "23152229206778ece8cd723d4c60210b5c22f3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#生孩子的是兰香掐人中的是林锦岐#",
+      "rank": 35,
+      "title": "生孩子的是兰香掐人中的是林锦岐",
+      "topic_id": "23152278476ec9f99ae1d19ed7c1db015c31c5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "白日猫",
+      "rank": 36,
+      "title": "白日猫",
+      "topic_id": "2315227aa54eaeee66a781505857db110df794"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#韬芯片走出了世界半导体的一条新路#",
+      "rank": 37,
+      "title": "韬芯片走出了世界半导体的一条新路",
+      "topic_id": "2315228b81ce48f00dc433a2d98b2817058f0f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王一博C位看秀#",
+      "rank": 38,
+      "title": "王一博C位看秀",
+      "topic_id": "231522876a689f29d451b9364d86778dd681be"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#三甲医生回应麦琳7个月瘦了40斤#",
+      "rank": 39,
+      "title": "三甲医生回应麦琳7个月瘦了40斤",
+      "topic_id": "23152286cf95c6969313679fd99ad167344849"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "VCTCN四队全部淘汰",
+      "rank": 40,
+      "title": "VCTCN四队全部淘汰",
+      "topic_id": "23152296e9464c209256a340bc3311ea968828"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#国足排名遭巴勒斯坦超越#",
+      "rank": 41,
+      "title": "国足排名遭巴勒斯坦超越",
+      "topic_id": "231522789298b3a172d1a05e4ddb2c77f9babd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#林锦岐后悔当初没杀了杜翠雀#",
+      "rank": 42,
+      "title": "林锦岐后悔当初没杀了杜翠雀",
+      "topic_id": "231522a5cbfdcaae4237829472c361bfcf3940"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "肖战得闲谨制收视率",
+      "rank": 43,
+      "title": "肖战得闲谨制收视率",
+      "topic_id": "2315229aff90e7b16915b41e4eab9f39c1c53e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#ZmjjKK回应EDG淘汰#",
+      "rank": 44,
+      "title": "ZmjjKK回应EDG淘汰",
+      "topic_id": "2315228826537aec1a8fede0e35b91260c939d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#陈楚生陈昊宇披哥浪姐冠军合体#",
+      "rank": 45,
+      "title": "陈楚生陈昊宇披哥浪姐冠军合体",
+      "topic_id": "231522e4bdd8b88bdc3ba3102d266b22bd05bb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "披荆斩棘四公",
+      "rank": 46,
+      "title": "披荆斩棘四公",
+      "topic_id": "231522da9d3b08c8d8df6b6f25567c603c3449"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#巴勒斯坦回应5比0大胜国足#",
+      "rank": 47,
+      "title": "巴勒斯坦回应5比0大胜国足",
+      "topic_id": "23152298ae635dc275bffc7fc4c2d07ed16c60"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#被捅数刀的印度籍机长对话莫迪#",
+      "rank": 48,
+      "title": "被捅数刀的印度籍机长对话莫迪",
+      "topic_id": "231522123a91d6f3c3a59525410063e75b8c36"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#TOP林珍娜承认恋情#",
+      "rank": 49,
+      "title": "TOP林珍娜承认恋情",
+      "topic_id": "2315220860d958bf81052eacf0d08729e7988b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#颜骏凌开大脚差点被对方球员挡进球门#",
+      "rank": 50,
+      "title": "颜骏凌开大脚差点被对方球员挡进球门",
+      "topic_id": "23152243ccce8da1566cb415d990eac06c6cfe"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
