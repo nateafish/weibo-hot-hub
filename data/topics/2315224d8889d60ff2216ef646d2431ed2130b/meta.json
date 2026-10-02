@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 1496814565
   },
-  "last_seen_at": "2026-10-02T23:00:00+08:00",
+  "last_seen_at": "2026-10-03T01:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%AD%99%E6%A5%A0%E6%BB%A1%E6%B1%9F%E5%BC%A0%E5%BD%AC%E5%BD%AC%E6%9B%BE%E8%BE%89%E6%80%8E%E4%B9%88%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "12家媒体",
+    "show_str": "13家媒体",
     "users": [
       {
         "id": 1496814565,
         "idstr": "1496814565",
         "screen_name": "封面新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1655444627,
+        "idstr": "1655444627",
+        "screen_name": "潇湘晨报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7422806367,
+        "idstr": "7422806367",
+        "screen_name": "中网传播",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 5745238615,
         "idstr": "5745238615",
         "screen_name": "封面快播报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5743709752,
-        "idstr": "5743709752",
-        "screen_name": "绵阳快播报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5710586189,
-        "idstr": "5710586189",
-        "screen_name": "封面热点",
         "verified": true,
         "verified_type": 3
       }
