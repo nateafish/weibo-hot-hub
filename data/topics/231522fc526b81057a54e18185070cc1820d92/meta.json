@@ -3,10 +3,10 @@
   "created_at": 1790924582,
   "first_seen_at": "2026-10-02T16:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-02T16:00:00+08:00",
+  "last_seen_at": "2026-10-02T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%BA%B9%E8%BA%AB%E6%98%AF%E5%85%8D%E7%96%AB%E7%BB%86%E8%83%9E%E4%B8%80%E8%BE%88%E5%AD%90%E7%9A%84%E6%88%98%E6%96%97%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "6家媒体",
     "users": [
       {
         "id": 3288875501,
@@ -16,9 +16,37 @@
         "verified_type": 3
       },
       {
+        "id": 3165101432,
+        "idstr": "3165101432",
+        "screen_name": "广元日报看广元",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2046576145,
+        "idstr": "2046576145",
+        "screen_name": "商丘日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1744332207,
         "idstr": "1744332207",
         "screen_name": "钱江视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1725252714,
+        "idstr": "1725252714",
+        "screen_name": "温度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1308708761,
+        "idstr": "1308708761",
+        "screen_name": "千山晚报",
         "verified": true,
         "verified_type": 3
       }
