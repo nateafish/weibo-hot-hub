@@ -3,11 +3,33 @@
   "created_at": 1790900309,
   "first_seen_at": "2026-10-02T09:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-02T09:00:00+08:00",
+  "last_seen_at": "2026-10-02T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%A1%83%E6%99%9A%E5%AE%89%E5%9B%9E%E5%9B%BDplog%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "3家媒体",
+    "users": [
+      {
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1496814565,
+        "idstr": "1496814565",
+        "screen_name": "封面新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1280846847,
+        "idstr": "1280846847",
+        "screen_name": "指尖新闻-沈阳晚报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "桃晚安回国plog",
   "search_url": "https://s.weibo.com/weibo?q=%23%E6%A1%83%E6%99%9A%E5%AE%89%E5%9B%9E%E5%9B%BDplog%23",
