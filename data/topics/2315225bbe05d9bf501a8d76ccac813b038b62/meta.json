@@ -3,10 +3,10 @@
   "created_at": 1790918488,
   "first_seen_at": "2026-10-02T15:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-02T18:00:00+08:00",
+  "last_seen_at": "2026-10-02T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%AD%E5%8C%BB%E5%BB%BA%E8%AE%AE%E7%85%AE%E9%99%88%E7%9A%AE%E6%B0%B4%E5%96%9D%E5%A5%BD%E5%A4%84%E5%BE%88%E5%A4%9A%23%26t%3D3&title=发布媒体",
-    "show_str": "22家媒体",
+    "show_str": "25家媒体",
     "users": [
       {
         "id": 1913382117,
@@ -30,6 +30,13 @@
         "verified_type": 3
       },
       {
+        "id": 1867571077,
+        "idstr": "1867571077",
+        "screen_name": "听中国",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7292067871,
         "idstr": "7292067871",
         "screen_name": "鄂温克族自治旗融媒体中心",
@@ -47,13 +54,6 @@
         "id": 6716480738,
         "idstr": "6716480738",
         "screen_name": "金乡融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6444725927,
-        "idstr": "6444725927",
-        "screen_name": "吉祥新闻",
         "verified": true,
         "verified_type": 3
       }

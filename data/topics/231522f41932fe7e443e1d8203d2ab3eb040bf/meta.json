@@ -3,11 +3,33 @@
   "created_at": 1790935109,
   "first_seen_at": "2026-10-02T18:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-02T18:00:00+08:00",
+  "last_seen_at": "2026-10-02T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%94%A1%E5%A4%A9%E5%87%A4%E6%A1%88+%E8%B1%AA%E5%AE%85%E7%BA%A0%E7%BA%B7%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "3家媒体",
+    "users": [
+      {
+        "id": 1959444680,
+        "idstr": "1959444680",
+        "screen_name": "云南网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1280846847,
+        "idstr": "1280846847",
+        "screen_name": "指尖新闻-沈阳晚报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "蔡天凤案 豪宅纠纷",
   "search_url": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%A4%A9%E5%87%A4%E6%A1%88%20%E8%B1%AA%E5%AE%85%E7%BA%A0%E7%BA%B7%23",

@@ -10,11 +10,33 @@
     "status": 2,
     "uid": 3192099713
   },
-  "last_seen_at": "2026-10-02T18:00:00+08:00",
+  "last_seen_at": "2026-10-02T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%B0%91%E9%A3%9F%E5%A4%9A%E9%A4%90%E4%BC%9A%E5%AF%BC%E8%87%B4%E4%BD%A0%E7%9A%84%E8%83%B0%E5%B2%9B%E4%B8%80%E7%9B%B4%E5%9C%A8%E5%B7%A5%E4%BD%9C%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "3家媒体",
+    "users": [
+      {
+        "id": 2075245652,
+        "idstr": "2075245652",
+        "screen_name": "长春晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1943154142,
+        "idstr": "1943154142",
+        "screen_name": "中安在线",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1895096900,
+        "idstr": "1895096900",
+        "screen_name": "深圳新闻网",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#少食多餐会导致你的胰岛一直在工作#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E5%B0%91%E9%A3%9F%E5%A4%9A%E9%A4%90%E4%BC%9A%E5%AF%BC%E8%87%B4%E4%BD%A0%E7%9A%84%E8%83%B0%E5%B2%9B%E4%B8%80%E7%9B%B4%E5%9C%A8%E5%B7%A5%E4%BD%9C%23",
