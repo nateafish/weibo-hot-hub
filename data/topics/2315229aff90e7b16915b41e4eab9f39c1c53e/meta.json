@@ -3,11 +3,33 @@
   "created_at": 1790953659,
   "first_seen_at": "2026-10-02T23:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-03T06:00:00+08:00",
+  "last_seen_at": "2026-10-03T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%82%96%E6%88%98%E5%BE%97%E9%97%B2%E8%B0%A8%E5%88%B6%E6%94%B6%E8%A7%86%E7%8E%87%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "3家媒体",
+    "users": [
+      {
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1943154142,
+        "idstr": "1943154142",
+        "screen_name": "中安在线",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "肖战得闲谨制收视率",
   "search_url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%BE%97%E9%97%B2%E8%B0%A8%E5%88%B6%E6%94%B6%E8%A7%86%E7%8E%87%23",
