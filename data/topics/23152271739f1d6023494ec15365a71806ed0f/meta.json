@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1655444627
   },
-  "last_seen_at": "2026-10-03T07:00:00+08:00",
+  "last_seen_at": "2026-10-03T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%94%B7%E7%AB%A5%E7%88%B6%E4%BA%B2%E5%B7%B2%E4%B8%8E%E8%80%81%E6%9D%BF%E5%95%86%E9%87%8F%E9%9B%A8%E6%A3%9A%E8%B5%94%E5%81%BF%E4%BA%8B%E5%AE%9C%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "29家媒体",
     "users": [
       {
         "id": 1655444627,
         "idstr": "1655444627",
         "screen_name": "潇湘晨报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1657914910,
+        "idstr": "1657914910",
+        "screen_name": "烟台日报社大小新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,23 +37,30 @@
         "verified_type": 3
       },
       {
-        "id": 2318910945,
-        "idstr": "2318910945",
-        "screen_name": "新浪热点",
+        "id": 7694378984,
+        "idstr": "7694378984",
+        "screen_name": "大象综艺",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2105365573,
-        "idstr": "2105365573",
-        "screen_name": "威海播报",
+        "id": 7613700701,
+        "idstr": "7613700701",
+        "screen_name": "共富财经",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1887344341,
-        "idstr": "1887344341",
-        "screen_name": "观察者网",
+        "id": 7308140398,
+        "idstr": "7308140398",
+        "screen_name": "大象新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6750126856,
+        "idstr": "6750126856",
+        "screen_name": "大象微公益",
         "verified": true,
         "verified_type": 3
       }

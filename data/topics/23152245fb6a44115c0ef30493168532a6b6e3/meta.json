@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1774057271
   },
-  "last_seen_at": "2026-10-03T07:00:00+08:00",
+  "last_seen_at": "2026-10-03T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%9C%8B%E4%BC%BC%E5%85%BB%E8%83%83%E5%AE%9E%E9%99%85%E4%BC%A4%E8%83%83%E7%9A%844%E4%B8%AA%E4%B9%A0%E6%83%AF%23%26t%3D3&title=发布媒体",
-    "show_str": "8家媒体",
+    "show_str": "20家媒体",
     "users": [
       {
         "id": 1774057271,
@@ -37,6 +37,20 @@
         "verified_type": 3
       },
       {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6900707866,
+        "idstr": "6900707866",
+        "screen_name": "宜黄之窗",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 3251720635,
         "idstr": "3251720635",
         "screen_name": "邯郸网络广播电视台",
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2813313591,
-        "idstr": "2813313591",
-        "screen_name": "中新网海南",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2292896411,
-        "idstr": "2292896411",
-        "screen_name": "中工网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2272985297,
-        "idstr": "2272985297",
-        "screen_name": "北京科教_健康北京",
+        "id": 2921799343,
+        "idstr": "2921799343",
+        "screen_name": "天下泉城",
         "verified": true,
         "verified_type": 3
       }

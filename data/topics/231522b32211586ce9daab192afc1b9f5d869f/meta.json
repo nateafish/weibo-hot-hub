@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1699432410
   },
-  "last_seen_at": "2026-10-03T07:00:00+08:00",
+  "last_seen_at": "2026-10-03T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%88%91%E5%9C%A8%E5%B1%B1%E6%B2%B3%E5%9C%A8%23%26t%3D3&title=发布媒体",
-    "show_str": "28家媒体",
+    "show_str": "30家媒体",
     "users": [
       {
         "id": 1699432410,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 6005843218,
+        "idstr": "6005843218",
+        "screen_name": "央视军事报道",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 5519666559,
         "idstr": "5519666559",
         "screen_name": "海峡之声",
@@ -54,13 +61,6 @@
         "id": 6587633798,
         "idstr": "6587633798",
         "screen_name": "崇义发布",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6005843218,
-        "idstr": "6005843218",
-        "screen_name": "央视军事报道",
         "verified": true,
         "verified_type": 3
       }
