@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 2286908003
   },
-  "last_seen_at": "2026-10-03T11:00:00+08:00",
+  "last_seen_at": "2026-10-03T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%99%9A%E8%BE%88%E5%90%88%E5%8A%9B%E6%89%98%E4%B8%BE%E8%80%81%E4%BA%BA%E7%9C%8B%E5%8D%87%E5%9B%BD%E6%97%97%23%26t%3D3&title=发布媒体",
-    "show_str": "35家媒体",
+    "show_str": "61家媒体",
     "users": [
       {
         "id": 2286908003,
         "idstr": "2286908003",
         "screen_name": "人民网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5041831432,
+        "idstr": "5041831432",
+        "screen_name": "牟平融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3288875501,
+        "idstr": "3288875501",
+        "screen_name": "河南日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 1644948230,
-        "idstr": "1644948230",
-        "screen_name": "北京头条",
+        "id": 1727472420,
+        "idstr": "1727472420",
+        "screen_name": "泰山晚报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 7639071132,
-        "idstr": "7639071132",
-        "screen_name": "篝火视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6890796357,
-        "idstr": "6890796357",
-        "screen_name": "日照日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6444725927,
-        "idstr": "6444725927",
-        "screen_name": "吉祥新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6013658881,
-        "idstr": "6013658881",
-        "screen_name": "视听万安",
+        "id": 1686546714,
+        "idstr": "1686546714",
+        "screen_name": "环球网",
         "verified": true,
         "verified_type": 3
       }

@@ -1,0 +1,537 @@
+{
+  "captured_at": "2026-10-03T13:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 0,
+    "metrics_saved": 50,
+    "posts_saved": 50
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#总书记谈家国同心#",
+      "rank": 1,
+      "title": "总书记谈家国同心",
+      "topic_id": "231522fb9e8ecd36eb14e0a65d2358e4d2cde4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#王楚钦说男团打掉了自己部分精力#",
+      "rank": 1,
+      "title": "王楚钦说男团打掉了自己部分精力",
+      "topic_id": "231522b25ebcbcec8b054b5987b37a56ce6e52"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#高速充电80%强制离场引争议#",
+      "rank": 2,
+      "title": "高速充电80%强制离场引争议",
+      "topic_id": "2315220125015f4bfedbb9033c86312e09b99c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#晚辈合力托举老人看升国旗#",
+      "rank": 3,
+      "title": "晚辈合力托举老人看升国旗",
+      "topic_id": "231522784a202563ac424ed841c7985c2372d8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#纪梵希看秀待遇#",
+      "rank": 4,
+      "title": "纪梵希看秀待遇",
+      "topic_id": "2315226231bc2bec71db24cdea1784f7351a68"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#小沈阳夫妇逆袭成国庆档票房黑马#",
+      "rank": 5,
+      "title": "小沈阳夫妇逆袭成国庆档票房黑马",
+      "topic_id": "231522c101040ed582f250384bf6d608f0f01d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "AI面试 恐怖谷",
+      "rank": 6,
+      "title": "AI面试 恐怖谷",
+      "topic_id": "231522e1cfac66d12516cecae3655103abb489"
+    },
+    {
+      "ai": "pending",
+      "metrics": "failed",
+      "metrics_error": "TopicFetchError: Topic detail is missing a stable id or title",
+      "posts": "pending",
+      "query": "深圳走应急车道被罚三千",
+      "rank": 7,
+      "title": "深圳走应急车道被罚三千"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "范丞丞新歌制作公司发声",
+      "rank": 8,
+      "title": "范丞丞新歌制作公司发声",
+      "topic_id": "23152234d9d92d1080efc398df0b51478d0e48"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#谁撑起了国庆3.5亿票房#",
+      "rank": 9,
+      "title": "谁撑起了国庆3.5亿票房",
+      "topic_id": "23152228fc7642fc3a8f22e4e3221f1b222ed8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#小伙毕业刚入职就弄丢10台苹果手机#",
+      "rank": 10,
+      "title": "小伙毕业刚入职就弄丢10台苹果手机",
+      "topic_id": "23152205f760d33c6d6ffc7e8860806f202bee"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#田馥甄曾因立场争议作品下架#",
+      "rank": 11,
+      "title": "田馥甄曾因立场争议作品下架",
+      "topic_id": "231522cf2fb42da1afbc1af91969eb57953b46"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "张继科杯球迷大骂发球遮挡",
+      "rank": 12,
+      "title": "张继科杯球迷大骂发球遮挡",
+      "topic_id": "231522f4d9a9754c3d5eb38653c6e21e7d9b9d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "包贝尔 冷处理",
+      "rank": 13,
+      "title": "包贝尔 冷处理",
+      "topic_id": "2315226fe3f93db7876d34f226ad6671cf7610"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "徐明浩 范丞丞",
+      "rank": 14,
+      "title": "徐明浩 范丞丞",
+      "topic_id": "23152223a6617a81509823957e5f7aa568625f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "惠英红 妈你是不是在巴黎买了地",
+      "rank": 15,
+      "title": "惠英红 妈你是不是在巴黎买了地",
+      "topic_id": "2315224eb8d5f1bf4a90109ddc216f770b6a6b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "极客湾揭秘麒麟9050Pro",
+      "rank": 16,
+      "title": "极客湾揭秘麒麟9050Pro",
+      "topic_id": "231522c53a0c22a53e097d0e7837347bcf9b0a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#黄泽林夺亚运金牌#",
+      "rank": 17,
+      "title": "黄泽林夺亚运金牌",
+      "topic_id": "231522ee7b4756299ca9ea36dcef5819b61b4b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#蒋欣为了吃碗面太不容易了#",
+      "rank": 18,
+      "title": "蒋欣为了吃碗面太不容易了",
+      "topic_id": "231522e49012d0b2ac0f1cc290a6297bfff100"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "凡人修仙传",
+      "rank": 19,
+      "title": "凡人修仙传",
+      "topic_id": "231522a205d41df6c0bb92bf1a6dbb7cfcb8b9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "德国教材里的中国引争议",
+      "rank": 20,
+      "title": "德国教材里的中国引争议",
+      "topic_id": "231522cd48a48da5be45ce81fdd143fc638468"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#孙千衬衫开口Luke2.0#",
+      "rank": 21,
+      "title": "孙千衬衫开口Luke2.0",
+      "topic_id": "23152255fecc21db633ee7adba33ce95a7bae2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#好想像王一博一样不和任何人装熟#",
+      "rank": 22,
+      "title": "好想像王一博一样不和任何人装熟",
+      "topic_id": "2315227c8cf96bf1432cc7c49318fa26fdbd90"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "国庆很难找到中国人没去过的国家",
+      "rank": 23,
+      "title": "国庆很难找到中国人没去过的国家",
+      "topic_id": "231522ab43425a2b4f208d98f8d036bcbcfcf8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "冰淇淋已经进化成这样了吗",
+      "rank": 24,
+      "title": "冰淇淋已经进化成这样了吗",
+      "topic_id": "23152293671697de951dd52da8ce70aa2b20c3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#人人人人人青岛小麦岛人人人人人#",
+      "rank": 25,
+      "title": "人人人人人青岛小麦岛人人人人人",
+      "topic_id": "231522bb4a5a3a95cc6af8d336dbf30fbcac4d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#国足连自我尊重都不愿意很可怕#",
+      "rank": 26,
+      "title": "国足连自我尊重都不愿意很可怕",
+      "topic_id": "231522364bb047f11f61745678391079ba6e1d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#蔡天凤生前控诉前夫一家不知感恩#",
+      "rank": 27,
+      "title": "蔡天凤生前控诉前夫一家不知感恩",
+      "topic_id": "2315221b425569a3bb4d91941325f8a52a882f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "陈楚生陈昊宇 认识了大概有36个小时",
+      "rank": 28,
+      "title": "陈楚生陈昊宇 认识了大概有36个小时",
+      "topic_id": "23152240d85f42b0d5db18d6ef0b4e1e19d786"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张雪摩洛哥陷沙被当地孩子救了#",
+      "rank": 29,
+      "title": "张雪摩洛哥陷沙被当地孩子救了",
+      "topic_id": "23152216e33aa85e64c6470314bf4c94a2948f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#房车便宜了#",
+      "rank": 30,
+      "title": "房车便宜了",
+      "topic_id": "2315220c2f26a9219fa55b25f3be550ef5186b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "火灵儿被指抄袭暖暖",
+      "rank": 31,
+      "title": "火灵儿被指抄袭暖暖",
+      "topic_id": "231522bff5023ccb064f0c9f7593fc34bf8e35"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "原来出餐快也不一定就是预制菜",
+      "rank": 32,
+      "title": "原来出餐快也不一定就是预制菜",
+      "topic_id": "2315222ff935837eb4d29f3d8ef20e61035efb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#曝LPL过签现状#",
+      "rank": 33,
+      "title": "曝LPL过签现状",
+      "topic_id": "2315223ca2564ddafc0c81e211358727232920"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#田馥甄现在讲话要非常小心#",
+      "rank": 34,
+      "title": "田馥甄现在讲话要非常小心",
+      "topic_id": "231522006b348e673bede7d1bcc42e196fe901"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#短剧命中注定我爱你开播#",
+      "rank": 35,
+      "title": "短剧命中注定我爱你开播",
+      "topic_id": "231522b72d91a8c7a39a6e5424a5495c58ccdc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#律师称徐明浩新歌不构成抄袭#",
+      "rank": 36,
+      "title": "律师称徐明浩新歌不构成抄袭",
+      "topic_id": "23152290480743b5bfcae017fc4fa73e220dd4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#国庆买金变了#",
+      "rank": 37,
+      "title": "国庆买金变了",
+      "topic_id": "231522b8166663db7557e38f014f2139cbeaef"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#李光洙泡泡#",
+      "rank": 38,
+      "title": "李光洙泡泡",
+      "topic_id": "231522c67269d8d847345770df320d62caa6cb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#369爆料爱笑从BLG挖人#",
+      "rank": 39,
+      "title": "369爆料爱笑从BLG挖人",
+      "topic_id": "231522c0170ad5905e34a1669a27f6193f5a4d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#陈思诚回应陈飞宇台词出圈#",
+      "rank": 40,
+      "title": "陈思诚回应陈飞宇台词出圈",
+      "topic_id": "2315226ef2d233dc31de0858eae40291a6f4e9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#杜翠雀应该是兰香林锦岐的最后一难了#",
+      "rank": 41,
+      "title": "杜翠雀应该是兰香林锦岐的最后一难了",
+      "topic_id": "2315224cfc8b6b2cf9b565c5fc2632b268d0ed"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#日本司机路遇危险版狗熊哆嗦毛#",
+      "rank": 42,
+      "title": "日本司机路遇危险版狗熊哆嗦毛",
+      "topic_id": "23152265b1dcaec0b8463f44babfeee9fa5903"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "三妹妹被二姐姐血脉压制",
+      "rank": 43,
+      "title": "三妹妹被二姐姐血脉压制",
+      "topic_id": "231522d2c3b62fd85df62179567202103fd13c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "生孩子的人的钱哪来的",
+      "rank": 44,
+      "title": "生孩子的人的钱哪来的",
+      "topic_id": "2315222208c02c6796bdcc946419fa829a6268"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "明日方舟",
+      "rank": 45,
+      "title": "明日方舟",
+      "topic_id": "23152211942aa16f6bf2089d55196b13e8c097"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#韩媒感叹中国亚运每天都是金牌日#",
+      "rank": 46,
+      "title": "韩媒感叹中国亚运每天都是金牌日",
+      "topic_id": "2315225604eb9b796959aa9ae416d1a26317fb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#金价要反击了吗#",
+      "rank": 47,
+      "title": "金价要反击了吗",
+      "topic_id": "23152270e78d5cb23d1d97d962eca2d68b5b05"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "笑死邻里骂死家里的人",
+      "rank": 48,
+      "title": "笑死邻里骂死家里的人",
+      "topic_id": "231522f1150da0b30baf3b8feaa5f14d512330"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "EDG stew",
+      "rank": 49,
+      "title": "EDG stew",
+      "topic_id": "23152284b505e2ae0c3c23382aca5c24bd67bf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#孙颖莎说整场没有上风的时候#",
+      "rank": 50,
+      "title": "孙颖莎说整场没有上风的时候",
+      "topic_id": "23152217dae85f4fac4ce20f48055371386337"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 0.9803921568627451,
+      "metrics": 0.9803921568627451,
+      "posts": 0.9803921568627451
+    }
+  }
+}
