@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 1893892941
   },
-  "last_seen_at": "2026-10-03T09:00:00+08:00",
+  "last_seen_at": "2026-10-03T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%BE%8E%E6%B3%95%E5%BE%B7%E8%8B%B1%E6%84%8F%E6%97%A5%E5%8A%A07%E5%9B%BD%E5%B0%86%E5%85%B1%E5%90%8C%E8%A1%8C%E5%8A%A8%23%26t%3D3&title=发布媒体",
-    "show_str": "15家媒体",
+    "show_str": "41家媒体",
     "users": [
       {
         "id": 1893892941,
         "idstr": "1893892941",
         "screen_name": "北京日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2145917613,
+        "idstr": "2145917613",
+        "screen_name": "北京日报都视频",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +44,23 @@
         "verified_type": 3
       },
       {
-        "id": 1703371307,
-        "idstr": "1703371307",
-        "screen_name": "北京晚报",
+        "id": 1893801487,
+        "idstr": "1893801487",
+        "screen_name": "微天下",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 7542252663,
-        "idstr": "7542252663",
-        "screen_name": "北京质量报告",
+        "id": 1732739184,
+        "idstr": "1732739184",
+        "screen_name": "合肥在线",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 7126605018,
-        "idstr": "7126605018",
-        "screen_name": "各界新闻网官微",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3804173419,
-        "idstr": "3804173419",
-        "screen_name": "各界导报社官微",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2747175561,
-        "idstr": "2747175561",
-        "screen_name": "北青深一度",
+        "id": 1717833412,
+        "idstr": "1717833412",
+        "screen_name": "华商报",
         "verified": true,
         "verified_type": 3
       }

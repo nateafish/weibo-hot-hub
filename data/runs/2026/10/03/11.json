@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-10-03T11:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#总书记谈家国同心#",
+      "rank": 1,
+      "title": "总书记谈家国同心",
+      "topic_id": "231522fb9e8ecd36eb14e0a65d2358e4d2cde4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#王楚钦称渐渐失去了一些动力#",
+      "rank": 1,
+      "title": "王楚钦称渐渐失去了一些动力",
+      "topic_id": "2315225cdf0407cb21dbde965ff8b27ccaff1b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "现货黄金突破4220美元",
+      "rank": 2,
+      "title": "现货黄金突破4220美元",
+      "topic_id": "2315223a9f13087ceef3aeec9e0b91011a5772"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#晚辈合力托举老人看升国旗#",
+      "rank": 3,
+      "title": "晚辈合力托举老人看升国旗",
+      "topic_id": "231522784a202563ac424ed841c7985c2372d8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#马斯克女友被断崖式分手#",
+      "rank": 4,
+      "title": "马斯克女友被断崖式分手",
+      "topic_id": "231522cc449b8ca0e4487701fe7c5f17eee147"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#美法德英意日加7国将共同行动#",
+      "rank": 5,
+      "title": "美法德英意日加7国将共同行动",
+      "topic_id": "2315222aadcbf8f046a0fb0425011b4a9588da"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#韩媒嘲国足0比5还想去世界杯#",
+      "rank": 6,
+      "title": "韩媒嘲国足0比5还想去世界杯",
+      "topic_id": "23152237b9151a1f46aedf7df80ec3676b3fac"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#国足开球踢给巴勒斯坦解说懵圈#",
+      "rank": 7,
+      "title": "国足开球踢给巴勒斯坦解说懵圈",
+      "topic_id": "2315223f7e165fcc2ec06d5a6a35769a165ddf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张雪摩洛哥陷沙被当地孩子救了#",
+      "rank": 8,
+      "title": "张雪摩洛哥陷沙被当地孩子救了",
+      "topic_id": "23152216e33aa85e64c6470314bf4c94a2948f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#许兰香早就看懂了大太太暗示#",
+      "rank": 9,
+      "title": "许兰香早就看懂了大太太暗示",
+      "topic_id": "231522a43986aedf1aa1ea610609218f9bffa3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#一年一度乱穿衣#",
+      "rank": 10,
+      "title": "一年一度乱穿衣",
+      "topic_id": "231522d6e48e9213c750de92e76df0a8a097e9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#田馥甄曾因立场争议作品下架#",
+      "rank": 11,
+      "title": "田馥甄曾因立场争议作品下架",
+      "topic_id": "231522cf2fb42da1afbc1af91969eb57953b46"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "张继科杯球迷大骂发球遮挡",
+      "rank": 12,
+      "title": "张继科杯球迷大骂发球遮挡",
+      "topic_id": "231522f4d9a9754c3d5eb38653c6e21e7d9b9d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "德国教材里的中国引争议",
+      "rank": 13,
+      "title": "德国教材里的中国引争议",
+      "topic_id": "231522cd48a48da5be45ce81fdd143fc638468"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "电视剧 婚恋观",
+      "rank": 14,
+      "title": "电视剧 婚恋观",
+      "topic_id": "2315226e2441e2d031187580220956780d77c0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#国庆买金变了#",
+      "rank": 15,
+      "title": "国庆买金变了",
+      "topic_id": "231522b8166663db7557e38f014f2139cbeaef"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#田馥甄现在讲话要非常小心#",
+      "rank": 16,
+      "title": "田馥甄现在讲话要非常小心",
+      "topic_id": "231522006b348e673bede7d1bcc42e196fe901"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "江秋莲官司八年变公诉案件",
+      "rank": 17,
+      "title": "江秋莲官司八年变公诉案件",
+      "topic_id": "231522c1c17e35b7efeb1268cfee9ae90ed966"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "王楚钦说要重新考虑接下来的路",
+      "rank": 18,
+      "title": "王楚钦说要重新考虑接下来的路",
+      "topic_id": "231522c700b45dce2c9b08899cc744ce525314"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#刘嘉玲花几十万请繁花团吃豪华大餐#",
+      "rank": 19,
+      "title": "刘嘉玲花几十万请繁花团吃豪华大餐",
+      "topic_id": "23152209df2e31ea85b46ae49259868b7b2665"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#吴易昺今日决赛#",
+      "rank": 20,
+      "title": "吴易昺今日决赛",
+      "topic_id": "231522f60b9f34e9104e4a47fb401eb5c8c29d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "陈楚生陈昊宇 认识了大概有36个小时",
+      "rank": 21,
+      "title": "陈楚生陈昊宇 认识了大概有36个小时",
+      "topic_id": "23152240d85f42b0d5db18d6ef0b4e1e19d786"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王一博连官方直播都无法近身#",
+      "rank": 22,
+      "title": "王一博连官方直播都无法近身",
+      "topic_id": "2315221e6d25ec89ab08a649b3f2d8a69795bd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "生孩子的人的钱哪来的",
+      "rank": 23,
+      "title": "生孩子的人的钱哪来的",
+      "topic_id": "2315222208c02c6796bdcc946419fa829a6268"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#人人人人人青岛小麦岛人人人人人#",
+      "rank": 24,
+      "title": "人人人人人青岛小麦岛人人人人人",
+      "topic_id": "231522bb4a5a3a95cc6af8d336dbf30fbcac4d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#律师称徐明浩新歌不构成抄袭#",
+      "rank": 25,
+      "title": "律师称徐明浩新歌不构成抄袭",
+      "topic_id": "23152290480743b5bfcae017fc4fa73e220dd4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "被霸王龙咬了先擦洋葱",
+      "rank": 26,
+      "title": "被霸王龙咬了先擦洋葱",
+      "topic_id": "231522e6e5311ba4d49644367d75e910914aca"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#没了恋爱脑的二妹妹一点不忍了#",
+      "rank": 27,
+      "title": "没了恋爱脑的二妹妹一点不忍了",
+      "topic_id": "231522fe9676dab6df2a7ab528373234a56528"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "女子吐槽国内景区审美绝症",
+      "rank": 28,
+      "title": "女子吐槽国内景区审美绝症",
+      "topic_id": "23152263c8ec075723d363f2f14cfac8eeeac3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#蒋欣为了吃碗面太不容易了#",
+      "rank": 29,
+      "title": "蒋欣为了吃碗面太不容易了",
+      "topic_id": "231522e49012d0b2ac0f1cc290a6297bfff100"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#67岁阿姨花光积蓄去南极肿瘤变小了#",
+      "rank": 30,
+      "title": "67岁阿姨花光积蓄去南极肿瘤变小了",
+      "topic_id": "231522e787480585ddf56f24989c7dab5e35d9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "徐明浩 范丞丞",
+      "rank": 31,
+      "title": "徐明浩 范丞丞",
+      "topic_id": "23152223a6617a81509823957e5f7aa568625f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#好想像王一博一样不和任何人装熟#",
+      "rank": 32,
+      "title": "好想像王一博一样不和任何人装熟",
+      "topic_id": "2315227c8cf96bf1432cc7c49318fa26fdbd90"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#纪梵希大秀G社生图#",
+      "rank": 33,
+      "title": "纪梵希大秀G社生图",
+      "topic_id": "2315227ed871ebc52363e2a13c21433ff09a63"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女生自助餐暴食开腹取出三斤残渣#",
+      "rank": 34,
+      "title": "女生自助餐暴食开腹取出三斤残渣",
+      "topic_id": "2315228ba1dcaf5947302e25c741e0fd6db6a6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "冰淇淋已经进化成这样了吗",
+      "rank": 35,
+      "title": "冰淇淋已经进化成这样了吗",
+      "topic_id": "23152293671697de951dd52da8ce70aa2b20c3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "闺蜜成功更让人心如刀绞",
+      "rank": 36,
+      "title": "闺蜜成功更让人心如刀绞",
+      "topic_id": "231522e1145334d7cb25a6eef90089c1c2d98c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#林珍娜洗了5次纹身一次麻药都没涂过#",
+      "rank": 37,
+      "title": "林珍娜洗了5次纹身一次麻药都没涂过",
+      "topic_id": "231522ed57a6b72d7782a7aa7a291377123078"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#霍伊伦否认力挺C罗#",
+      "rank": 38,
+      "title": "霍伊伦否认力挺C罗",
+      "topic_id": "231522ccee0f84d0a51bce4813eeae4f2998eb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "刘雯巴黎又一场秀",
+      "rank": 39,
+      "title": "刘雯巴黎又一场秀",
+      "topic_id": "23152263ba76a663a5de09a426ebbe768d3258"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#考古的风吹到了谭松韵#",
+      "rank": 40,
+      "title": "考古的风吹到了谭松韵",
+      "topic_id": "231522c9c3b134a0c2eabd9a8d594718ed875b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "迪拜航空机长被刺仍开舱门",
+      "rank": 41,
+      "title": "迪拜航空机长被刺仍开舱门",
+      "topic_id": "23152247b73fb6d54bf77e2adffdbd3690d7f6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#林珍娜没有洗纹身前参加活动的样子#",
+      "rank": 42,
+      "title": "林珍娜没有洗纹身前参加活动的样子",
+      "topic_id": "231522db726de8ed251f54eb4fe0b83e3cf675"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "笑死邻里骂死家里的人",
+      "rank": 43,
+      "title": "笑死邻里骂死家里的人",
+      "topic_id": "231522f1150da0b30baf3b8feaa5f14d512330"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#葡足协主席希望C罗能体面谢幕#",
+      "rank": 44,
+      "title": "葡足协主席希望C罗能体面谢幕",
+      "topic_id": "231522435e6e724662c6baabc9890c77e87846"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "章若楠纪梵希看秀待遇",
+      "rank": 45,
+      "title": "章若楠纪梵希看秀待遇",
+      "topic_id": "231522d4691cad5b9e2336e65ae7dc0e962cf5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "EDG stew",
+      "rank": 46,
+      "title": "EDG stew",
+      "topic_id": "23152284b505e2ae0c3c23382aca5c24bd67bf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "人可以和不爱的人过一生吗",
+      "rank": 47,
+      "title": "人可以和不爱的人过一生吗",
+      "topic_id": "231522e2fe5e313a016df1fd9a162af490445e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "国足首发身价不及巴勒斯坦一半",
+      "rank": 48,
+      "title": "国足首发身价不及巴勒斯坦一半",
+      "topic_id": "2315225e083b4985666ab4444f0118b02aaddb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "董路 国足输巴勒斯坦比输泰国更恶心",
+      "rank": 49,
+      "title": "董路 国足输巴勒斯坦比输泰国更恶心",
+      "topic_id": "23152279b40ffe5a472c9ea65f6512322cf6a6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "苹果首款智能安防摄像头曝光",
+      "rank": 50,
+      "title": "苹果首款智能安防摄像头曝光",
+      "topic_id": "231522dfe535e6cd80097b91529da3fe20d90d"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
