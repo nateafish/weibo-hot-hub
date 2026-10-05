@@ -10,11 +10,32 @@
     "status": 2,
     "uid": 2855643032
   },
-  "last_seen_at": "2026-10-05T22:00:00+08:00",
+  "last_seen_at": "2026-10-06T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%92%8B%E6%AC%A3%E5%9B%9E%E5%A4%8D%E8%B0%AD%E6%9D%BE%E9%9F%B5%E5%98%89%E5%85%B0%E8%8B%A6%E4%BA%86%E4%BD%A0%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "9家媒体",
     "users": [
+      {
+        "id": 5396094153,
+        "idstr": "5396094153",
+        "screen_name": "大众新闻-大众日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3514732862,
+        "idstr": "3514732862",
+        "screen_name": "广西日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2460937233,
+        "idstr": "2460937233",
+        "screen_name": "热度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2027480085,
         "idstr": "2027480085",
@@ -40,20 +61,6 @@
         "id": 1809436135,
         "idstr": "1809436135",
         "screen_name": "咪咕视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1677991972,
-        "idstr": "1677991972",
-        "screen_name": "晶报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1647210043,
-        "idstr": "1647210043",
-        "screen_name": "百姓关注",
         "verified": true,
         "verified_type": 3
       }
