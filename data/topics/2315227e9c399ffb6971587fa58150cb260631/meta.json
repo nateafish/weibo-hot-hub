@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2803301701
   },
-  "last_seen_at": "2026-10-05T18:00:00+08:00",
+  "last_seen_at": "2026-10-05T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%98%8E%E7%8F%8D%E7%8F%8D%E8%AE%B2%E8%BF%B0%E5%9F%8B%E8%91%AC%E8%A2%AB%E6%9D%80%E7%94%B5%E8%AF%88%E4%BA%BA%E5%91%98%E7%BB%86%E8%8A%82%23%26t%3D3&title=发布媒体",
-    "show_str": "35家媒体",
+    "show_str": "58家媒体",
     "users": [
       {
         "id": 2803301701,
         "idstr": "2803301701",
         "screen_name": "人民日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1789681642,
+        "idstr": "1789681642",
+        "screen_name": "第一现场",
         "verified": true,
         "verified_type": 3
       },
@@ -37,13 +44,6 @@
         "verified_type": 3
       },
       {
-        "id": 1734530730,
-        "idstr": "1734530730",
-        "screen_name": "大河报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 2087169013,
         "idstr": "2087169013",
         "screen_name": "法治日报",
@@ -51,16 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 7211561239,
-        "idstr": "7211561239",
-        "screen_name": "央视频",
+        "id": 1734530730,
+        "idstr": "1734530730",
+        "screen_name": "大河报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 6444725927,
-        "idstr": "6444725927",
-        "screen_name": "吉祥新闻",
+        "id": 1642088277,
+        "idstr": "1642088277",
+        "screen_name": "财经网",
         "verified": true,
         "verified_type": 3
       }

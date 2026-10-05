@@ -3,10 +3,10 @@
   "created_at": 1791117630,
   "first_seen_at": "2026-10-05T18:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-05T18:00:00+08:00",
+  "last_seen_at": "2026-10-05T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9D%8E%E5%8B%92%E4%BC%98+%E5%B4%94%E6%99%8B%23%26t%3D3&title=发布媒体",
-    "show_str": "8家媒体",
+    "show_str": "11家媒体",
     "users": [
       {
         "id": 6105713761,
@@ -19,6 +19,13 @@
         "id": 2535760180,
         "idstr": "2535760180",
         "screen_name": "安徽视讯",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2460937233,
+        "idstr": "2460937233",
+        "screen_name": "热度新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -37,23 +44,16 @@
         "verified_type": 3
       },
       {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1709951635,
         "idstr": "1709951635",
         "screen_name": "哈尔滨日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1451977335,
-        "idstr": "1451977335",
-        "screen_name": "新晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1398613133,
-        "idstr": "1398613133",
-        "screen_name": "马上资讯",
         "verified": true,
         "verified_type": 3
       }
