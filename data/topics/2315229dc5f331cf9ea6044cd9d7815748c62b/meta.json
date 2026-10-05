@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 1776016817
   },
-  "last_seen_at": "2026-10-05T20:00:00+08:00",
+  "last_seen_at": "2026-10-05T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%A3%9E%E5%A4%A9%E5%A5%96%E8%A7%86%E5%B8%9D%E5%90%8E%E9%A2%84%E6%B5%8B%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "5家媒体",
     "users": [
+      {
+        "id": 3514732862,
+        "idstr": "3514732862",
+        "screen_name": "广西日报",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2087169013,
         "idstr": "2087169013",
@@ -23,9 +30,9 @@
         "verified_type": 3
       },
       {
-        "id": 1720962692,
-        "idstr": "1720962692",
-        "screen_name": "极目新闻",
+        "id": 1846116411,
+        "idstr": "1846116411",
+        "screen_name": "国际在线文娱",
         "verified": true,
         "verified_type": 3
       },
@@ -33,6 +40,13 @@
         "id": 1688743504,
         "idstr": "1688743504",
         "screen_name": "中国山东网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1657914910,
+        "idstr": "1657914910",
+        "screen_name": "烟台日报社大小新闻",
         "verified": true,
         "verified_type": 3
       }

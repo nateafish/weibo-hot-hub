@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1710972095
   },
-  "last_seen_at": "2026-10-05T20:00:00+08:00",
+  "last_seen_at": "2026-10-05T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%98%8E%E7%8F%8D%E7%8F%8D%E4%B8%B4%E5%88%91%E5%89%8D%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "13家媒体",
     "users": [
       {
         "id": 1710972095,
         "idstr": "1710972095",
         "screen_name": "CCTV法治在线",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1644489953,
+        "idstr": "1644489953",
+        "screen_name": "南方都市报",
         "verified": true,
         "verified_type": 3
       },
@@ -37,23 +44,23 @@
         "verified_type": 3
       },
       {
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2010802407,
+        "idstr": "2010802407",
+        "screen_name": "中国台州网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1959451603,
         "idstr": "1959451603",
         "screen_name": "锦观新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1726918143,
-        "idstr": "1726918143",
-        "screen_name": "中国青年报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1398613133,
-        "idstr": "1398613133",
-        "screen_name": "马上资讯",
         "verified": true,
         "verified_type": 3
       }
