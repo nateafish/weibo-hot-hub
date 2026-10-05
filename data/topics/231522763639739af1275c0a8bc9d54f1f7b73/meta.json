@@ -3,10 +3,10 @@
   "created_at": null,
   "first_seen_at": "2026-09-29T23:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-01T06:00:00+08:00",
+  "last_seen_at": "2026-10-05T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%A3%9E%E5%A4%A9%E5%A5%96%23%26t%3D3&title=发布媒体",
-    "show_str": "208家媒体",
+    "show_str": "280家媒体",
     "users": [
       {
         "id": 1642591402,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 1893761531,
+        "idstr": "1893761531",
+        "screen_name": "闪电新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1943724947,
         "idstr": "1943724947",
         "screen_name": "中国艺术报",
@@ -47,13 +54,6 @@
         "id": 1847123567,
         "idstr": "1847123567",
         "screen_name": "香港商報",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2818550401,
-        "idstr": "2818550401",
-        "screen_name": "衡水广播电视台",
         "verified": true,
         "verified_type": 3
       }

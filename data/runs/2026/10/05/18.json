@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-10-05T18:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#总书记深刻阐述民族团结#",
+      "rank": 1,
+      "title": "总书记深刻阐述民族团结",
+      "topic_id": "231522b813b39793207e8172faeb494ec816b3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "五天爬完五岳",
+      "rank": 1,
+      "title": "五天爬完五岳",
+      "topic_id": "23152236c51886490f9021e996f2525ef31be2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "诺贝尔奖",
+      "rank": 2,
+      "title": "诺贝尔奖",
+      "topic_id": "2315224f5df662e29dc727449c8977c7203bd6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#十一假期返程安全提示#",
+      "rank": 3,
+      "title": "十一假期返程安全提示",
+      "topic_id": "23152200ae0ade5ec32323223e70b7e4bd48dc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "芒果台这双眼到底能看多远",
+      "rank": 4,
+      "title": "芒果台这双眼到底能看多远",
+      "topic_id": "231522a9b8a88c3bea4907c808b2b3aa38d33d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#明珍珍讲述埋葬被杀电诈人员细节#",
+      "rank": 5,
+      "title": "明珍珍讲述埋葬被杀电诈人员细节",
+      "topic_id": "2315227e9c399ffb6971587fa58150cb260631"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "华为高通 芯片",
+      "rank": 6,
+      "title": "华为高通 芯片",
+      "topic_id": "2315229c520521fad752b3c2bf72dca1655bef"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "郑钦文局点遭观众干扰",
+      "rank": 7,
+      "title": "郑钦文局点遭观众干扰",
+      "topic_id": "231522eb8dced245c730fb452b0b7b3080d0ed"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女子被缅北电诈血本无归投河自尽#",
+      "rank": 8,
+      "title": "女子被缅北电诈血本无归投河自尽",
+      "topic_id": "231522472c9f946f1509dad7746f853cf0a5c2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "刘美含买超点发现戏份都被剪",
+      "rank": 9,
+      "title": "刘美含买超点发现戏份都被剪",
+      "topic_id": "231522a7b9ab94d6ae8f48032a7e7ebf2f3025"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#郑钦文进中网16强#",
+      "rank": 10,
+      "title": "郑钦文进中网16强",
+      "topic_id": "2315227af1b9078cbc9b579118d2dde1052162"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#李勒优回应#",
+      "rank": 11,
+      "title": "李勒优回应",
+      "topic_id": "23152272495ce41e007f34e6b198877ce3d501"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "蔡康永说是市长邀请自己去的",
+      "rank": 12,
+      "title": "蔡康永说是市长邀请自己去的",
+      "topic_id": "23152283f068ed0a921ebf2d80f6f14baa5686"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "李勒优 崔晋",
+      "rank": 13,
+      "title": "李勒优 崔晋",
+      "topic_id": "231522080b46f1c924b00fab3ffba44af8c949"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "2025年中国居民死亡原因TOP20",
+      "rank": 14,
+      "title": "2025年中国居民死亡原因TOP20",
+      "topic_id": "231522d39cc31af10840b343937bcddf82bd8d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#李一桐自曝被骗金额达六七位数#",
+      "rank": 15,
+      "title": "李一桐自曝被骗金额达六七位数",
+      "topic_id": "23152274f604133951cb43a6bb583786bce153"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#2026诺贝尔奖将揭晓#",
+      "rank": 16,
+      "title": "2026诺贝尔奖将揭晓",
+      "topic_id": "23152228e2cc88f291d3d8d7bc98ce124d9244"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "蔡康永 太平轮沉船",
+      "rank": 17,
+      "title": "蔡康永 太平轮沉船",
+      "topic_id": "231522566a4958f5a65d90a2722882a7884e4b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "飞天奖",
+      "rank": 18,
+      "title": "飞天奖",
+      "topic_id": "231522763639739af1275c0a8bc9d54f1f7b73"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#高通将收购华为部分专利#",
+      "rank": 19,
+      "title": "高通将收购华为部分专利",
+      "topic_id": "231522dd93a50cee730507cf3d0d7195efafc0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#郑钦文连续三场三盘获胜#",
+      "rank": 20,
+      "title": "郑钦文连续三场三盘获胜",
+      "topic_id": "231522db02083361a104774fa87bb29010574a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "38岁体制内干部求助大冰",
+      "rank": 21,
+      "title": "38岁体制内干部求助大冰",
+      "topic_id": "231522618a1637168b13c642053693cc5070bd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "王一博 等待",
+      "rank": 22,
+      "title": "王一博 等待",
+      "topic_id": "23152278cfd07d9a4516399690febf3e393a9b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#飞天奖颁奖典礼嘉宾#",
+      "rank": 23,
+      "title": "飞天奖颁奖典礼嘉宾",
+      "topic_id": "231522940781668aa581cb3452506d0aee518e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "旅行上厕所最听劝的人出现了",
+      "rank": 24,
+      "title": "旅行上厕所最听劝的人出现了",
+      "topic_id": "23152206700ef03f463bf8e0153aaa7bc12533"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#缅北电诈头目的钱多到发霉#",
+      "rank": 25,
+      "title": "缅北电诈头目的钱多到发霉",
+      "topic_id": "231522f630a1472fd7e69b75ae4793c0cf19d1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#WTT祝贺孙颖莎重返世排第一#",
+      "rank": 26,
+      "title": "WTT祝贺孙颖莎重返世排第一",
+      "topic_id": "23152242b98ca6b4e990598c07502f11df1482"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#2026诺贝尔生理学或医学奖公布#",
+      "rank": 27,
+      "title": "2026诺贝尔生理学或医学奖公布",
+      "topic_id": "2315228e146c2e360204d4333b02245df95555"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "曝9999元旗舰手机被砍",
+      "rank": 28,
+      "title": "曝9999元旗舰手机被砍",
+      "topic_id": "2315226f282f4b5e9c8f260e1eb311b38f6d83"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#郑钦文vs布兹科娃#",
+      "rank": 29,
+      "title": "郑钦文vs布兹科娃",
+      "topic_id": "231522334ba80d90cbd38401153eae3f051386"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#蔡天凤上学2次怀孕邝家没出钱#",
+      "rank": 30,
+      "title": "蔡天凤上学2次怀孕邝家没出钱",
+      "topic_id": "2315226e11c44fdee71dc6e2459ce5fc8d68c4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "KPL",
+      "rank": 31,
+      "title": "KPL",
+      "topic_id": "231522361877035a32f3073eb1259ee15286d8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#沈腾说王楚然翻白眼教科书来了#",
+      "rank": 32,
+      "title": "沈腾说王楚然翻白眼教科书来了",
+      "topic_id": "23152252259ea2159342b72928a4dab7724ccf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "37岁有房有车无贷生活",
+      "rank": 33,
+      "title": "37岁有房有车无贷生活",
+      "topic_id": "231522675089a58e41179656ad98ffb1b25d86"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#郑钦文2比1布兹科娃#",
+      "rank": 34,
+      "title": "郑钦文2比1布兹科娃",
+      "topic_id": "2315222ab46daca97d6aca117d4e10f5e317a4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#演员何麦去世#",
+      "rank": 35,
+      "title": "演员何麦去世",
+      "topic_id": "2315228ee9da835d685f91b896d14bc42ba771"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#崔晋否认李勒优与晋妈闹僵#",
+      "rank": 36,
+      "title": "崔晋否认李勒优与晋妈闹僵",
+      "topic_id": "2315221a29ac0d1434b8b97a29759c804b7290"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#电诈头目临刑前仍叫嚣狼生来要吃肉#",
+      "rank": 37,
+      "title": "电诈头目临刑前仍叫嚣狼生来要吃肉",
+      "topic_id": "23152216f3ff41bae7b575612b96ec0f9be8b5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "现实哪有网上那么多美女",
+      "rank": 38,
+      "title": "现实哪有网上那么多美女",
+      "topic_id": "23152228419688b91abba2dbf1643acaf45c78"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#代露娃称差点退圈全靠长相思#",
+      "rank": 39,
+      "title": "代露娃称差点退圈全靠长相思",
+      "topic_id": "2315226282902e08ca8b1238fb44fc76360fe6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "樊振东巴奥决赛为对手换球衣",
+      "rank": 40,
+      "title": "樊振东巴奥决赛为对手换球衣",
+      "topic_id": "23152270a31deb8938064234e7cccea4c46be5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#黄灿灿没有争取到进组的工作#",
+      "rank": 41,
+      "title": "黄灿灿没有争取到进组的工作",
+      "topic_id": "23152272d0632e0519495abdae05734a6599a9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#洛阳靠妆造把游客留住了#",
+      "rank": 42,
+      "title": "洛阳靠妆造把游客留住了",
+      "topic_id": "23152248f4c61126dc491a81c7c50420a354a3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "兰香如故大结局",
+      "rank": 43,
+      "title": "兰香如故大结局",
+      "topic_id": "2315221d43dfa3874ae417021742e30f41c654"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#松岛辉空称得到世排第一很开心#",
+      "rank": 44,
+      "title": "松岛辉空称得到世排第一很开心",
+      "topic_id": "231522da027c556dcff1ba21ece35b60769368"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "婆婆自述高考未被中科大录取",
+      "rank": 45,
+      "title": "婆婆自述高考未被中科大录取",
+      "topic_id": "2315228d41082a79540d20d646dbaafd5262fd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#10万人涌进5万人口县城#",
+      "rank": 46,
+      "title": "10万人涌进5万人口县城",
+      "topic_id": "2315227344f619e8e688e19573c3dbd5f55232"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "曝代露娃家破产母亲做月嫂供其追梦",
+      "rank": 47,
+      "title": "曝代露娃家破产母亲做月嫂供其追梦",
+      "topic_id": "2315221db779b91e140575a3f497f6598e8c07"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#我不是大师回应刘美含戏份被删#",
+      "rank": 48,
+      "title": "我不是大师回应刘美含戏份被删",
+      "topic_id": "231522a350c076ccf087eb0f598484f648904e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#JDG对战LGDNBW#",
+      "rank": 49,
+      "title": "JDG对战LGDNBW",
+      "topic_id": "23152296ac25bfd57d177e47db58c7f879cf66"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#任嘉伦方喊话红果#",
+      "rank": 50,
+      "title": "任嘉伦方喊话红果",
+      "topic_id": "2315223e420724e56131b7360a6f388d8dbfab"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
