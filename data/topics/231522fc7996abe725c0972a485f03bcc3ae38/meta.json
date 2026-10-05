@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1893892941
   },
-  "last_seen_at": "2026-10-06T05:00:00+08:00",
+  "last_seen_at": "2026-10-06T06:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%A2%81%E9%9D%96%E5%B4%913%E6%AF%940%E7%BE%8E%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF%E4%BA%9A%E5%86%9B%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "7家媒体",
     "users": [
       {
         "id": 1893892941,
@@ -33,6 +33,13 @@
         "id": 2145917613,
         "idstr": "2145917613",
         "screen_name": "北京日报都视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2105365573,
+        "idstr": "2105365573",
+        "screen_name": "威海播报",
         "verified": true,
         "verified_type": 3
       },
