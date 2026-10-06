@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 2258727970
   },
-  "last_seen_at": "2026-10-06T20:00:00+08:00",
+  "last_seen_at": "2026-10-06T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8%E6%96%B0%E7%AA%81%E7%A0%B4%23%26t%3D3&title=发布媒体",
-    "show_str": "7家媒体",
+    "show_str": "32家媒体",
     "users": [
       {
         "id": 2258727970,
         "idstr": "2258727970",
         "screen_name": "央视财经",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2217754287,
+        "idstr": "2217754287",
+        "screen_name": "桂林晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497087080,
+        "idstr": "1497087080",
+        "screen_name": "羊城晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1644358851,
+        "idstr": "1644358851",
+        "screen_name": "杭州日报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 6890796357,
-        "idstr": "6890796357",
-        "screen_name": "日照日报",
+        "id": 7126605018,
+        "idstr": "7126605018",
+        "screen_name": "各界新闻网官微",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2857758000,
-        "idstr": "2857758000",
-        "screen_name": "中国水运杂志",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1915096531,
-        "idstr": "1915096531",
-        "screen_name": "武汉交通广播",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1893278624,
-        "idstr": "1893278624",
-        "screen_name": "深圳特区报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1838672663,
-        "idstr": "1838672663",
-        "screen_name": "华夏时报",
+        "id": 6982382342,
+        "idstr": "6982382342",
+        "screen_name": "搜狐科技",
         "verified": true,
         "verified_type": 3
       }

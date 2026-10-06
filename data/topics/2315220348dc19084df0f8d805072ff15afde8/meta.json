@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 6925959429
   },
-  "last_seen_at": "2026-10-06T20:00:00+08:00",
+  "last_seen_at": "2026-10-06T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%B0%8F%E8%8E%B2%E6%98%AF%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8E%BB%E4%B8%96%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "9家媒体",
     "users": [
+      {
+        "id": 7571346388,
+        "idstr": "7571346388",
+        "screen_name": "云上河南",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 7337509043,
         "idstr": "7337509043",
@@ -23,9 +30,37 @@
         "verified_type": 3
       },
       {
+        "id": 7308140398,
+        "idstr": "7308140398",
+        "screen_name": "大象新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2647971081,
         "idstr": "2647971081",
         "screen_name": "时速新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2035321844,
+        "idstr": "2035321844",
+        "screen_name": "河池融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2027773605,
+        "idstr": "2027773605",
+        "screen_name": "大象文娱",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1677991972,
+        "idstr": "1677991972",
+        "screen_name": "晶报",
         "verified": true,
         "verified_type": 3
       }

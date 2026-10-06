@@ -10,11 +10,61 @@
     "status": 2,
     "uid": 6382755537
   },
-  "last_seen_at": "2026-10-06T20:00:00+08:00",
+  "last_seen_at": "2026-10-06T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9B%9D%E9%82%93%E7%B4%AB%E6%A3%8B%E7%94%B7%E5%8F%8B%E6%98%AF%E5%AF%8C%E4%B8%89%E4%BB%A3%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "7家媒体",
+    "users": [
+      {
+        "id": 1720962692,
+        "idstr": "1720962692",
+        "screen_name": "极目新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1280846847,
+        "idstr": "1280846847",
+        "screen_name": "指尖新闻-沈阳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2460937233,
+        "idstr": "2460937233",
+        "screen_name": "热度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1938523582,
+        "idstr": "1938523582",
+        "screen_name": "宁波晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1867427515,
+        "idstr": "1867427515",
+        "screen_name": "新派新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497087080,
+        "idstr": "1497087080",
+        "screen_name": "羊城晚报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#曝邓紫棋男友是富三代#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%82%93%E7%B4%AB%E6%A3%8B%E7%94%B7%E5%8F%8B%E6%98%AF%E5%AF%8C%E4%B8%89%E4%BB%A3%23",
