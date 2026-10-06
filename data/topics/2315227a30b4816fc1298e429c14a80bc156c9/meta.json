@@ -3,15 +3,29 @@
   "created_at": 1791266958,
   "first_seen_at": "2026-10-06T15:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-06T15:00:00+08:00",
+  "last_seen_at": "2026-10-06T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%99%88%E6%A5%9A%E7%94%9F+Oner%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "7家媒体",
     "users": [
       {
         "id": 2087169013,
         "idstr": "2087169013",
         "screen_name": "法治日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1774215272,
+        "idstr": "1774215272",
+        "screen_name": "武汉广播电视台",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2035321844,
+        "idstr": "2035321844",
+        "screen_name": "河池融媒",
         "verified": true,
         "verified_type": 3
       },
@@ -23,9 +37,16 @@
         "verified_type": 3
       },
       {
-        "id": 1774215272,
-        "idstr": "1774215272",
-        "screen_name": "武汉广播电视台",
+        "id": 1691507817,
+        "idstr": "1691507817",
+        "screen_name": "新闻日日睇",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1682207150,
+        "idstr": "1682207150",
+        "screen_name": "南方日报",
         "verified": true,
         "verified_type": 3
       },

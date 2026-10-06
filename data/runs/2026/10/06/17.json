@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-10-06T17:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 1,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#总书记谈家国同心#",
+      "rank": 1,
+      "title": "总书记谈家国同心",
+      "topic_id": "231522fb9e8ecd36eb14e0a65d2358e4d2cde4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#孩子打印作业开销家长直呼扛不住#",
+      "rank": 1,
+      "title": "孩子打印作业开销家长直呼扛不住",
+      "topic_id": "2315227a4d5884c18687e4a38ec233ba9b6f52"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "韩国博主在延边破大防",
+      "rank": 2,
+      "title": "韩国博主在延边破大防",
+      "topic_id": "23152207052d05bda12cec5a2252a1b3bc0496"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#国庆假期返程天气指南#",
+      "rank": 3,
+      "title": "国庆假期返程天气指南",
+      "topic_id": "23152261f16a65935c95a1e5e5ebcb1d012a62"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#代露娃你没试上我进公司了#",
+      "rank": 4,
+      "title": "代露娃你没试上我进公司了",
+      "topic_id": "231522c9dacfa164175a6bc33bf05c80b34fdf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#ZUIAN美签被卡原因#",
+      "rank": 5,
+      "title": "ZUIAN美签被卡原因",
+      "topic_id": "23152228528d4ce7295675589147208b036e16"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "黄友政决胜局10比8领先遭逆转",
+      "rank": 6,
+      "title": "黄友政决胜局10比8领先遭逆转",
+      "topic_id": "23152299f3fbae87d2a28c7031a00bf3617c6d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "减肥针抑制食欲靠减慢胃排空",
+      "rank": 7,
+      "title": "减肥针抑制食欲靠减慢胃排空",
+      "topic_id": "23152227cb424a7f7596403c522a7be76bc83e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#缅北电诈头目赚1亿要分3成给明家#",
+      "rank": 8,
+      "title": "缅北电诈头目赚1亿要分3成给明家",
+      "topic_id": "231522ce94b5fa087701f3ebbf6c45b57c7a3d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "丁笑滢不想和代露娃有竞争关系",
+      "rank": 9,
+      "title": "丁笑滢不想和代露娃有竞争关系",
+      "topic_id": "231522a8d3f2787896b56bed037da21a216e19"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#中方放弃谈判直接抓佤邦副总司令#",
+      "rank": 10,
+      "title": "中方放弃谈判直接抓佤邦副总司令",
+      "topic_id": "231522e39397da03a45bf752b44bd41e4616ef"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "左航穿越南国旗裤子引争议",
+      "rank": 11,
+      "title": "左航穿越南国旗裤子引争议",
+      "topic_id": "2315227713ccd16e5b9a585a69777ed4b5a9c5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#Lisa关车门这下#",
+      "rank": 12,
+      "title": "Lisa关车门这下",
+      "topic_id": "2315221da7592471b290525d70be17170423cf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "富家女凶杀案细节好诡异",
+      "rank": 13,
+      "title": "富家女凶杀案细节好诡异",
+      "topic_id": "2315228dd67432883d43a6be4efc70d4c823a3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#缅北血手印的主人还活着#",
+      "rank": 14,
+      "title": "缅北血手印的主人还活着",
+      "topic_id": "231522faf673454e4185ab52d5c62c16ca180e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "王一博说期待回酒店卸妆",
+      "rank": 15,
+      "title": "王一博说期待回酒店卸妆",
+      "topic_id": "231522b10bce90432f2ca32ea6a152f65b6fc2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#ZUIAN两次面签未通过#",
+      "rank": 16,
+      "title": "ZUIAN两次面签未通过",
+      "topic_id": "231522a1a957f27354c6f602e748be9837f823"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "残雪领跑诺贝尔文学奖",
+      "rank": 17,
+      "title": "残雪领跑诺贝尔文学奖",
+      "topic_id": "2315227bd1cda616b39d6c2a60e5f5159fcaba"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "陈楚生 Oner",
+      "rank": 18,
+      "title": "陈楚生 Oner",
+      "topic_id": "2315227a30b4816fc1298e429c14a80bc156c9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "何超盈孕期体重220斤",
+      "rank": 19,
+      "title": "何超盈孕期体重220斤",
+      "topic_id": "23152225eedee29b296c25f9d1f1572e050b6a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#全球纯燃油车新车销量占比首次跌破50%#",
+      "rank": 20,
+      "title": "全球纯燃油车新车销量占比首次跌破50%",
+      "topic_id": "2315224744adfd70d7d7b43b83a725b51a9314"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#美国暴发30多年来最严重麻疹疫情#",
+      "rank": 21,
+      "title": "美国暴发30多年来最严重麻疹疫情",
+      "topic_id": "231522fee472b1a1d4c9fad214c968538cc037"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝邓紫棋结婚#",
+      "rank": 22,
+      "title": "曝邓紫棋结婚",
+      "topic_id": "23152264b00c921cf6e02d7f3a899892d70159"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#网红牛奶湖遭圈地收费#",
+      "rank": 23,
+      "title": "网红牛奶湖遭圈地收费",
+      "topic_id": "2315226d0364160b4763e70751fb35674f8ae2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#陈楚生刑事民事重拳追责#",
+      "rank": 24,
+      "title": "陈楚生刑事民事重拳追责",
+      "topic_id": "231522d1428c3a7ca168ebb8ad76464ca55659"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#经纪人称zuian两次面签都没过挺惨的#",
+      "rank": 25,
+      "title": "经纪人称zuian两次面签都没过挺惨的",
+      "topic_id": "2315222d1b8b6b28fe4b160df42946c336594e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "当你意识到你正在变老",
+      "rank": 26,
+      "title": "当你意识到你正在变老",
+      "topic_id": "2315226b4472f3e1f31a839d7bc3d81b2fb6cf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#TES世界赛首发369#",
+      "rank": 27,
+      "title": "TES世界赛首发369",
+      "topic_id": "231522b273b3a8ee09be190322e76971fc0736"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#萨巴伦卡说被孙颖莎喜欢受宠若惊#",
+      "rank": 28,
+      "title": "萨巴伦卡说被孙颖莎喜欢受宠若惊",
+      "topic_id": "231522c3601590bc4a5437c448a18f606f6348"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#收费站人员持绿篱机拦摩托交警介入#",
+      "rank": 29,
+      "title": "收费站人员持绿篱机拦摩托交警介入",
+      "topic_id": "2315221de6779d061d102a84701d6ce0bc2334"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#缅北电诈用AK47射击逃跑人员#",
+      "rank": 30,
+      "title": "缅北电诈用AK47射击逃跑人员",
+      "topic_id": "2315228cfd01ae7625aa6fdfdd243923efc3ef"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝张婧仪Burberry转YSL#",
+      "rank": 31,
+      "title": "曝张婧仪Burberry转YSL",
+      "topic_id": "231522596df0ca7ac64d00d37ba1663ac53674"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "陈奕恒泡泡更新",
+      "rank": 32,
+      "title": "陈奕恒泡泡更新",
+      "topic_id": "231522c51cf12b19113352f0baa8b5a533c18a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#高市早苗被集体炮轰#",
+      "rank": 33,
+      "title": "高市早苗被集体炮轰",
+      "topic_id": "231522de49499076fcd276de0f78726cc26111"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#出差一周精致小狗被爸妈养成海胆#",
+      "rank": 34,
+      "title": "出差一周精致小狗被爸妈养成海胆",
+      "topic_id": "23152261f17c21d89c1e8aab8931ef7777c2f7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#梓渝登英语街教材#",
+      "rank": 35,
+      "title": "梓渝登英语街教材",
+      "topic_id": "231522ec8a5c55492de8717ecf927fe506fbfb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#迪丽热巴迪奥造型投票第一#",
+      "rank": 36,
+      "title": "迪丽热巴迪奥造型投票第一",
+      "topic_id": "2315228dd38374ab4169a965432f4bbf80ab49"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#曝孙千Celine转Burberry#",
+      "rank": 37,
+      "title": "曝孙千Celine转Burberry",
+      "topic_id": "23152272cb2bb24e32c54e86c4c67d1e625e23"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王一博的保镖被误认是东南亚明星#",
+      "rank": 38,
+      "title": "王一博的保镖被误认是东南亚明星",
+      "topic_id": "231522bc0a2fda6e962dad1641ab6c7362c5a0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#女子5天爬五岳花费不到4000元#",
+      "rank": 39,
+      "title": "女子5天爬五岳花费不到4000元",
+      "topic_id": "2315224ecc189d151bcae6d5c9ab0677624a92"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#农村大姨练瑜伽一年惊艳邻居姐妹#",
+      "rank": 40,
+      "title": "农村大姨练瑜伽一年惊艳邻居姐妹",
+      "topic_id": "231522972b57fc4eacde71b7ee7f69655758df"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "让人小脑萎缩的四大名场面",
+      "rank": 41,
+      "title": "让人小脑萎缩的四大名场面",
+      "topic_id": "23152297fa283ba93e90b700dacfc2cf2e8230"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#马来西亚报道肖战#",
+      "rank": 42,
+      "title": "马来西亚报道肖战",
+      "topic_id": "23152263e15a0687ca93b3d86a37107de39fa0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#吴慷仁古风小生网购麻将桌#",
+      "rank": 43,
+      "title": "吴慷仁古风小生网购麻将桌",
+      "topic_id": "2315226497a8efb5cef0fdd0863404db8fb825"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#邓紫棋方不回应结婚传闻#",
+      "rank": 44,
+      "title": "邓紫棋方不回应结婚传闻",
+      "topic_id": "231522af83724a9721e039fbbec3f31028ed20"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#明学昌畏罪自杀身亡照片曝光#",
+      "rank": 45,
+      "title": "明学昌畏罪自杀身亡照片曝光",
+      "topic_id": "231522c8de6c8c829780f557552ae9f53794dd"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "原来人和人的差距从小就有了",
+      "rank": 46,
+      "title": "原来人和人的差距从小就有了",
+      "topic_id": "231522bfcb4d67f68b97999bbd55fc083600f3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#TES为zuian争取第三次面签机会#",
+      "rank": 47,
+      "title": "TES为zuian争取第三次面签机会",
+      "topic_id": "231522bc43e47d01ec1ab0d824563ba355f0c3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "宁都收费站人员持电锯拦截摩托",
+      "rank": 48,
+      "title": "宁都收费站人员持电锯拦截摩托",
+      "topic_id": "231522d74b01f7d05b7fc74b22352c92a48dc9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#不敢想ZUIAN有多难受#",
+      "rank": 49,
+      "title": "不敢想ZUIAN有多难受",
+      "topic_id": "2315225b1ca2d977d35868788e3e63f0712103"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#马斯克用内存贵调侃黄仁勋#",
+      "rank": 50,
+      "title": "马斯克用内存贵调侃黄仁勋",
+      "topic_id": "23152204fd38849affbcd3a5fe812e96c14c3f"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 7814284786
   },
-  "last_seen_at": "2026-10-06T15:00:00+08:00",
+  "last_seen_at": "2026-10-06T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23TES%E4%B8%96%E7%95%8C%E8%B5%9B%E9%A6%96%E5%8F%91369%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "6家媒体",
     "users": [
+      {
+        "id": 2647971081,
+        "idstr": "2647971081",
+        "screen_name": "时速新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2460937233,
         "idstr": "2460937233",
         "screen_name": "热度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2035321844,
+        "idstr": "2035321844",
+        "screen_name": "河池融媒",
         "verified": true,
         "verified_type": 3
       },
