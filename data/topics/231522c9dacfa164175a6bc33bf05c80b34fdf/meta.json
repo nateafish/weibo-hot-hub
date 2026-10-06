@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 5857296503
   },
-  "last_seen_at": "2026-10-06T17:00:00+08:00",
+  "last_seen_at": "2026-10-06T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BB%A3%E9%9C%B2%E5%A8%83%E4%BD%A0%E6%B2%A1%E8%AF%95%E4%B8%8A%E6%88%91%E8%BF%9B%E5%85%AC%E5%8F%B8%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "7家媒体",
     "users": [
       {
         "id": 7590570074,
@@ -30,9 +30,23 @@
         "verified_type": 3
       },
       {
+        "id": 2659523842,
+        "idstr": "2659523842",
+        "screen_name": "黔东南融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2647971081,
         "idstr": "2647971081",
         "screen_name": "时速新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2535760180,
+        "idstr": "2535760180",
+        "screen_name": "安徽视讯",
         "verified": true,
         "verified_type": 3
       },

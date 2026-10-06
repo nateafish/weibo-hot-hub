@@ -3,10 +3,10 @@
   "created_at": 1791266958,
   "first_seen_at": "2026-10-06T15:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-06T17:00:00+08:00",
+  "last_seen_at": "2026-10-06T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%99%88%E6%A5%9A%E7%94%9F+Oner%23%26t%3D3&title=发布媒体",
-    "show_str": "7家媒体",
+    "show_str": "10家媒体",
     "users": [
       {
         "id": 2087169013,
@@ -19,6 +19,13 @@
         "id": 1774215272,
         "idstr": "1774215272",
         "screen_name": "武汉广播电视台",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2232625672,
+        "idstr": "2232625672",
+        "screen_name": "安庆天天直播",
         "verified": true,
         "verified_type": 3
       },
@@ -47,13 +54,6 @@
         "id": 1682207150,
         "idstr": "1682207150",
         "screen_name": "南方日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1656737654,
-        "idstr": "1656737654",
-        "screen_name": "现代快报",
         "verified": true,
         "verified_type": 3
       }

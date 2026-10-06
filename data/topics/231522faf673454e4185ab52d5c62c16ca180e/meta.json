@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1893892941
   },
-  "last_seen_at": "2026-10-06T17:00:00+08:00",
+  "last_seen_at": "2026-10-06T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%BC%85%E5%8C%97%E8%A1%80%E6%89%8B%E5%8D%B0%E7%9A%84%E4%B8%BB%E4%BA%BA%E8%BF%98%E6%B4%BB%E7%9D%80%23%26t%3D3&title=发布媒体",
-    "show_str": "37家媒体",
+    "show_str": "45家媒体",
     "users": [
       {
         "id": 1751714412,
@@ -30,9 +30,23 @@
         "verified_type": 3
       },
       {
+        "id": 1651428902,
+        "idstr": "1651428902",
+        "screen_name": "21世纪经济报道",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1618051664,
         "idstr": "1618051664",
         "screen_name": "头条新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5395667635,
+        "idstr": "5395667635",
+        "screen_name": "厦门广电",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 1893892941,
         "idstr": "1893892941",
         "screen_name": "北京日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1651428902,
-        "idstr": "1651428902",
-        "screen_name": "21世纪经济报道",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7542252663,
-        "idstr": "7542252663",
-        "screen_name": "北京质量报告",
         "verified": true,
         "verified_type": 3
       }
