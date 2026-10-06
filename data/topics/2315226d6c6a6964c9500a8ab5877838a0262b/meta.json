@@ -10,15 +10,57 @@
     "status": 2,
     "uid": 1649173367
   },
-  "last_seen_at": "2026-10-06T18:00:00+08:00",
+  "last_seen_at": "2026-10-06T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%9D%A1%E7%9C%A0%E5%87%BA%E7%8E%B0%E8%BF%99%E7%A7%8D%E9%97%AE%E9%A2%98%E8%AF%B4%E6%98%8E%E4%BD%A0%E5%8F%AF%E8%83%BD%E8%80%81%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "10家媒体",
     "users": [
       {
         "id": 1649173367,
         "idstr": "1649173367",
         "screen_name": "每日经济新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7211561239,
+        "idstr": "7211561239",
+        "screen_name": "央视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6715513747,
+        "idstr": "6715513747",
+        "screen_name": "宁县融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6444725927,
+        "idstr": "6444725927",
+        "screen_name": "吉祥新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2810373291,
+        "idstr": "2810373291",
+        "screen_name": "新华网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2660940103,
+        "idstr": "2660940103",
+        "screen_name": "环球网科技频道",
         "verified": true,
         "verified_type": 3
       }
