@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1796087453
   },
-  "last_seen_at": "2026-10-06T08:00:00+08:00",
+  "last_seen_at": "2026-10-06T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%94%B7%E5%AD%A9%E4%B9%B03%E7%93%B6%E9%A5%AE%E6%96%99%E8%BF%9E%E4%B8%AD71%E7%93%B6%23%26t%3D3&title=发布媒体",
-    "show_str": "22家媒体",
+    "show_str": "57家媒体",
     "users": [
       {
         "id": 1796087453,
         "idstr": "1796087453",
         "screen_name": "荔枝新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,6 +37,20 @@
         "verified_type": 3
       },
       {
+        "id": 2028810631,
+        "idstr": "2028810631",
+        "screen_name": "新浪新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1856446532,
+        "idstr": "1856446532",
+        "screen_name": "合新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1769216315,
         "idstr": "1769216315",
         "screen_name": "小莉帮忙",
@@ -37,30 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1403842922,
-        "idstr": "1403842922",
-        "screen_name": "琅琊新闻网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7741144531,
-        "idstr": "7741144531",
-        "screen_name": "荔枝健康",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7547774763,
-        "idstr": "7547774763",
-        "screen_name": "荔枝看法",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7514984576,
-        "idstr": "7514984576",
-        "screen_name": "荔枝起跑线",
+        "id": 1677991972,
+        "idstr": "1677991972",
+        "screen_name": "晶报",
         "verified": true,
         "verified_type": 3
       }
