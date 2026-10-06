@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1845864154
   },
-  "last_seen_at": "2026-10-06T06:00:00+08:00",
+  "last_seen_at": "2026-10-06T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%AD%E5%9B%BD%E8%AD%A6%E6%96%B9%E7%BC%85%E5%8C%97%E6%88%98%E7%81%AB%E4%B8%8B%E6%8C%96%E5%87%BA%E5%90%8C%E8%83%9E%E9%81%97%E4%BD%93%23%26t%3D3&title=发布媒体",
-    "show_str": "9家媒体",
+    "show_str": "16家媒体",
     "users": [
       {
         "id": 1845864154,
@@ -26,6 +26,13 @@
         "id": 1941424392,
         "idstr": "1941424392",
         "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6890796357,
+        "idstr": "6890796357",
+        "screen_name": "日照日报",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 1989020644,
-        "idstr": "1989020644",
-        "screen_name": "STV新闻坊",
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1925878362,
-        "idstr": "1925878362",
-        "screen_name": "SMGNEWS",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1895096900,
-        "idstr": "1895096900",
-        "screen_name": "深圳新闻网",
+        "id": 2318910945,
+        "idstr": "2318910945",
+        "screen_name": "新浪热点",
         "verified": true,
         "verified_type": 3
       }
