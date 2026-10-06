@@ -3,11 +3,18 @@
   "created_at": 1791257374,
   "first_seen_at": "2026-10-06T13:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-06T13:00:00+08:00",
+  "last_seen_at": "2026-10-06T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%87%8F%E8%82%A5%E9%92%88%E6%8A%91%E5%88%B6%E9%A3%9F%E6%AC%B2%E9%9D%A0%E5%87%8F%E6%85%A2%E8%83%83%E6%8E%92%E7%A9%BA%23%26t%3D3&title=发布媒体",
-    "show_str": "19家媒体",
+    "show_str": "49家媒体",
     "users": [
+      {
+        "id": 1744332207,
+        "idstr": "1744332207",
+        "screen_name": "钱江视频",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1677991972,
         "idstr": "1677991972",
@@ -16,9 +23,16 @@
         "verified_type": 3
       },
       {
-        "id": 1913382117,
-        "idstr": "1913382117",
-        "screen_name": "深圳晚报",
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2460937233,
+        "idstr": "2460937233",
+        "screen_name": "热度新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,30 +44,16 @@
         "verified_type": 3
       },
       {
-        "id": 6715513747,
-        "idstr": "6715513747",
-        "screen_name": "宁县融媒",
+        "id": 2010802407,
+        "idstr": "2010802407",
+        "screen_name": "中国台州网",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 6013658881,
-        "idstr": "6013658881",
-        "screen_name": "视听万安",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3901624042,
-        "idstr": "3901624042",
-        "screen_name": "山西日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3288875501,
-        "idstr": "3288875501",
-        "screen_name": "河南日报",
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
         "verified": true,
         "verified_type": 3
       }

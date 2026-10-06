@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1656737654
   },
-  "last_seen_at": "2026-10-06T13:00:00+08:00",
+  "last_seen_at": "2026-10-06T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%85%B3%E6%99%93%E5%BD%A4%E6%89%93%E7%BD%91%E7%90%83%E4%B8%A4%E5%B0%8F%E6%97%B6%E5%8F%AA%E5%96%9D%E4%BA%86%E4%B8%80%E6%AC%A1%E6%B0%B4%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "14家媒体",
     "users": [
       {
         "id": 1656737654,
@@ -37,23 +37,30 @@
         "verified_type": 3
       },
       {
+        "id": 1677991972,
+        "idstr": "1677991972",
+        "screen_name": "晶报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7590570074,
+        "idstr": "7590570074",
+        "screen_name": "山海视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7422806367,
+        "idstr": "7422806367",
+        "screen_name": "中网传播",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6536846182,
         "idstr": "6536846182",
         "screen_name": "现代快报快快看视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2630281751,
-        "idstr": "2630281751",
-        "screen_name": "快报泰州",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1398613133,
-        "idstr": "1398613133",
-        "screen_name": "马上资讯",
         "verified": true,
         "verified_type": 3
       }

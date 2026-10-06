@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 3266943013
   },
-  "last_seen_at": "2026-10-06T13:00:00+08:00",
+  "last_seen_at": "2026-10-06T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%96%87%E9%9F%B5%E6%82%A0%E9%95%BF%23%26t%3D3&title=发布媒体",
-    "show_str": "10家媒体",
+    "show_str": "12家媒体",
     "users": [
       {
         "id": 3266943013,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 6268080641,
+        "idstr": "6268080641",
+        "screen_name": "甘孜传媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 5539777260,
         "idstr": "5539777260",
         "screen_name": "菏泽日报",
@@ -54,13 +61,6 @@
         "id": 3919603060,
         "idstr": "3919603060",
         "screen_name": "内蒙古日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3901624042,
-        "idstr": "3901624042",
-        "screen_name": "山西日报",
         "verified": true,
         "verified_type": 3
       }

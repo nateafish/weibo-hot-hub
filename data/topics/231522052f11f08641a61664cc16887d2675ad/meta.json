@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1655444627
   },
-  "last_seen_at": "2026-10-06T13:00:00+08:00",
+  "last_seen_at": "2026-10-06T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%238%E5%B2%81%E7%94%B7%E7%AB%A5%E6%82%A3%E5%B0%BF%E6%AF%92%E7%97%87%E9%95%BF%E6%9C%9F%E5%90%83%E7%82%B8%E7%89%A9%E5%96%9D%E5%A5%B6%E8%8C%B6%23%26t%3D3&title=发布媒体",
-    "show_str": "15家媒体",
+    "show_str": "31家媒体",
     "users": [
       {
         "id": 1655444627,
@@ -23,9 +23,30 @@
         "verified_type": 3
       },
       {
+        "id": 6444725927,
+        "idstr": "6444725927",
+        "screen_name": "吉祥新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1398613133,
         "idstr": "1398613133",
         "screen_name": "马上资讯",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1682207150,
+        "idstr": "1682207150",
+        "screen_name": "南方日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7613700701,
+        "idstr": "7613700701",
+        "screen_name": "共富财经",
         "verified": true,
         "verified_type": 3
       },
@@ -40,27 +61,6 @@
         "id": 6715513747,
         "idstr": "6715513747",
         "screen_name": "宁县融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3901624042,
-        "idstr": "3901624042",
-        "screen_name": "山西日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3740356007,
-        "idstr": "3740356007",
-        "screen_name": "贵阳网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2612146692,
-        "idstr": "2612146692",
-        "screen_name": "凉山日报",
         "verified": true,
         "verified_type": 3
       }
