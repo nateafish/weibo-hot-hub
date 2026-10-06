@@ -1,17 +1,31 @@
 {
-  "category": null,
+  "category": "社会",
   "created_at": 1791287282,
   "first_seen_at": "2026-10-06T22:00:00+08:00",
-  "host": null,
-  "last_seen_at": "2026-10-06T22:00:00+08:00",
+  "host": {
+    "claim_time": "2026.10.06-至今",
+    "created_at": "2026-10-06 22:26:11",
+    "is_claim": true,
+    "screen_name": "观察者网",
+    "status": 2,
+    "uid": 1887344341
+  },
+  "last_seen_at": "2026-10-07T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9B%BD%E5%BA%86%E5%87%BA%E8%A1%8C%E8%AE%A9%E6%97%A5%E5%AA%92%E5%BE%88%E9%97%B9%E5%BF%83%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "9家媒体",
     "users": [
       {
         "id": 1887344341,
         "idstr": "1887344341",
         "screen_name": "观察者网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2308941133,
+        "idstr": "2308941133",
+        "screen_name": "锦州播报",
         "verified": true,
         "verified_type": 3
       },
@@ -23,25 +37,39 @@
         "verified_type": 3
       },
       {
+        "id": 2824067765,
+        "idstr": "2824067765",
+        "screen_name": "贺州日报官微",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2648560444,
+        "idstr": "2648560444",
+        "screen_name": "楚雄州融媒体中心",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1977902724,
+        "idstr": "1977902724",
+        "screen_name": "看台海",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1898885525,
         "idstr": "1898885525",
         "screen_name": "生活报新街派",
         "verified": true,
         "verified_type": 3
-      },
-      {
-        "id": 1398613133,
-        "idstr": "1398613133",
-        "screen_name": "马上资讯",
-        "verified": true,
-        "verified_type": 3
       }
     ]
   },
-  "query": "中国游客国庆出行让日媒很闹心",
+  "query": "#中国游客国庆出行让日媒很闹心#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9B%BD%E5%BA%86%E5%87%BA%E8%A1%8C%E8%AE%A9%E6%97%A5%E5%AA%92%E5%BE%88%E9%97%B9%E5%BF%83%23",
   "sub_category": null,
-  "summary": "",
+  "summary": "国庆21.3亿人次大迁徙，日媒眼巴巴：没来日本，中国游客都去哪了",
   "title": "中国游客国庆出行让日媒很闹心",
   "topic_id": "2315229cf8287fc739546ad98d6e96ea7e39d7"
 }

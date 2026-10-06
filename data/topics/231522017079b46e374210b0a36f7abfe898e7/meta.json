@@ -10,11 +10,25 @@
     "status": 2,
     "uid": 6436652527
   },
-  "last_seen_at": "2026-10-06T22:00:00+08:00",
+  "last_seen_at": "2026-10-07T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E8%80%81%E5%B9%B4%E5%A6%86%E5%8C%96%E4%BA%866%E4%B8%AA%E5%B0%8F%E6%97%B6%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "6家媒体",
     "users": [
+      {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1651428902,
+        "idstr": "1651428902",
+        "screen_name": "21世纪经济报道",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 7211561239,
         "idstr": "7211561239",
@@ -23,9 +37,23 @@
         "verified_type": 3
       },
       {
-        "id": 1651428902,
-        "idstr": "1651428902",
-        "screen_name": "21世纪经济报道",
+        "id": 2027480085,
+        "idstr": "2027480085",
+        "screen_name": "水母网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1677991972,
+        "idstr": "1677991972",
+        "screen_name": "晶报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1652484947,
+        "idstr": "1652484947",
+        "screen_name": "新快报",
         "verified": true,
         "verified_type": 3
       }

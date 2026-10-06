@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 7308140398
   },
-  "last_seen_at": "2026-10-06T22:00:00+08:00",
+  "last_seen_at": "2026-10-07T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%AF%8D%E4%BA%B2106%E5%B2%81%E7%88%B6%E4%BA%B2101%E5%B2%81%E5%A5%B3%E5%84%BF%E9%80%8F%E9%9C%B2%E9%95%BF%E5%AF%BF%E7%A7%98%E8%AF%80%23%26t%3D3&title=发布媒体",
-    "show_str": "15家媒体",
+    "show_str": "27家媒体",
     "users": [
       {
         "id": 7308140398,
         "idstr": "7308140398",
         "screen_name": "大象新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6715513747,
+        "idstr": "6715513747",
+        "screen_name": "宁县融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1704185933,
+        "idstr": "1704185933",
+        "screen_name": "聊城晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 5110439722,
         "idstr": "5110439722",
         "screen_name": "哈尔滨经济广播电台",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2815224714,
-        "idstr": "2815224714",
-        "screen_name": "海博TV",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2360016402,
-        "idstr": "2360016402",
-        "screen_name": "宁波日报",
         "verified": true,
         "verified_type": 3
       }
