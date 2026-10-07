@@ -3,11 +3,47 @@
   "created_at": 1791373918,
   "first_seen_at": "2026-10-08T03:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-08T05:00:00+08:00",
+  "last_seen_at": "2026-10-08T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BD%A9%E5%BE%B7%E7%BD%97%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "5家媒体",
+    "users": [
+      {
+        "id": 6254784663,
+        "idstr": "6254784663",
+        "screen_name": "朝九晚五Video",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6014513352,
+        "idstr": "6014513352",
+        "screen_name": "ING直播",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6004281123,
+        "idstr": "6004281123",
+        "screen_name": "梨视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6002842109,
+        "idstr": "6002842109",
+        "screen_name": "时差视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5943595658,
+        "idstr": "5943595658",
+        "screen_name": "一手Video",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "佩德罗宣布退役",
   "search_url": "https://s.weibo.com/weibo?q=%23%E4%BD%A9%E5%BE%B7%E7%BD%97%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9%23",

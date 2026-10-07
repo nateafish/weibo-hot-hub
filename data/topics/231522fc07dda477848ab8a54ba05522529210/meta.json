@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 1699432410
   },
-  "last_seen_at": "2026-10-08T05:00:00+08:00",
+  "last_seen_at": "2026-10-08T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E5%8C%97%E5%A4%A7%E4%BB%93%E7%A7%8B%E6%94%B6%E6%AD%A3%E9%85%A3%23%26t%3D3&title=发布媒体",
-    "show_str": "7家媒体",
+    "show_str": "11家媒体",
     "users": [
       {
         "id": 1699432410,
         "idstr": "1699432410",
         "screen_name": "新华社",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7523386243,
+        "idstr": "7523386243",
+        "screen_name": "南阳网官方微博",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5388240201,
+        "idstr": "5388240201",
+        "screen_name": "南阳日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3205295640,
+        "idstr": "3205295640",
+        "screen_name": "中新浙里",
         "verified": true,
         "verified_type": 3
       },
@@ -37,30 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2035321844,
-        "idstr": "2035321844",
-        "screen_name": "河池融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1891503444,
-        "idstr": "1891503444",
-        "screen_name": "西安日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1838672663,
-        "idstr": "1838672663",
-        "screen_name": "华夏时报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1698784044,
-        "idstr": "1698784044",
-        "screen_name": "三秦都市报",
+        "id": 2813313591,
+        "idstr": "2813313591",
+        "screen_name": "中新网海南",
         "verified": true,
         "verified_type": 3
       }
