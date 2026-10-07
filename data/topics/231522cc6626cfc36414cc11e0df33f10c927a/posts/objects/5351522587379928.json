@@ -1,0 +1,8 @@
+{
+  "body": "#全套Adobe软件开源实现#\nPhotoCraft用Rust从头clean-room实现Photoshop，不碰Adobe专有代码。PSD引擎按公开规范编写，真实文件可打开、编辑、重存并保持高度一致，还用Photoshop合成结果比对渐变、图层效果等渲染细节。纯Rust加wgpu，支持Metal、Vulkan、DX12、WebGPU，多线程滤镜、Copy-on-Write图块，可编译WASM。\n最特别的是为AI设计：500多条命令统一，UI、CLI、JSON、MCP驱动同一套引擎，AI Agent可直接操作，不用看屏幕猜点击。\n这不止一个项目。ArtCraft套件还在用Rust重写Lightroom、Illustrator、Premiere。过去需要几十年积累的复杂软件，正第一次面对被重新实现的可能。门槛在降，竞争方式也在变。\n#科技风向标#\n人工智能",
+  "created_at_text": "Wed Oct 07 23:11:14 +0800 2026",
+  "mid": "5351522587379928",
+  "uid": "2571347507",
+  "url": "https://m.weibo.cn/detail/5351522587379928",
+  "username": "小鱼看实事"
+}

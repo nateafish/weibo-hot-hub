@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1682207150
   },
-  "last_seen_at": "2026-10-07T21:00:00+08:00",
+  "last_seen_at": "2026-10-08T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BC%97%E5%A4%9A%E5%8F%B0%E6%B9%BE%E8%89%BA%E4%BA%BA%E6%98%8E%E7%A1%AE%E4%B8%80%E4%B8%AA%E4%B8%AD%E5%9B%BD%E7%AB%8B%E5%9C%BA%23%26t%3D3&title=发布媒体",
-    "show_str": "35家媒体",
+    "show_str": "36家媒体",
     "users": [
       {
         "id": 1682207150,
@@ -23,9 +23,23 @@
         "verified_type": 3
       },
       {
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1691507817,
         "idstr": "1691507817",
         "screen_name": "新闻日日睇",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1644948230,
+        "idstr": "1644948230",
+        "screen_name": "北京头条",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 6910453729,
         "idstr": "6910453729",
         "screen_name": "绍虞城事通网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5652470745,
-        "idstr": "5652470745",
-        "screen_name": "广西都市频道",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5324630614,
-        "idstr": "5324630614",
-        "screen_name": "饭娱乐官方微博",
         "verified": true,
         "verified_type": 3
       }
