@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-10-07T12:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#总书记反复提及一位红军师长#",
+      "rank": 1,
+      "title": "总书记反复提及一位红军师长",
+      "topic_id": "231522bb591237eae0cead2dbfe100ddc36ea4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "韩版衣服中国造国内搜不到",
+      "rank": 1,
+      "title": "韩版衣服中国造国内搜不到",
+      "topic_id": "231522eb721f872acabd869308fa283b8ef8cd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#2599元一桌的婚宴14道主菜上错7道#",
+      "rank": 2,
+      "title": "2599元一桌的婚宴14道主菜上错7道",
+      "topic_id": "2315222651e595b1fd11e542a6c1554e4115a1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#大国工程重器进度条刷新#",
+      "rank": 3,
+      "title": "大国工程重器进度条刷新",
+      "topic_id": "231522206b8edade822606a9104ca127cfef21"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#白俄女模特因高薪工作被骗缅甸园区#",
+      "rank": 4,
+      "title": "白俄女模特因高薪工作被骗缅甸园区",
+      "topic_id": "231522d3b2d35f767a51593a3e938eaad686d9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "iPhoneDuo 强制适配",
+      "rank": 5,
+      "title": "iPhoneDuo 强制适配",
+      "topic_id": "231522840f7ecf049eb915d92f7cfafee25194"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#阿根廷队长收到主裁判送的红黄牌#",
+      "rank": 6,
+      "title": "阿根廷队长收到主裁判送的红黄牌",
+      "topic_id": "2315222ceb0e7738b89edb8dd696306e4d8fe0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#龙餐馆冲击奥斯卡#",
+      "rank": 7,
+      "title": "龙餐馆冲击奥斯卡",
+      "topic_id": "2315229a20111e7ca725bafedb496bc8a5340c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#热苏斯回应C罗声明#",
+      "rank": 8,
+      "title": "热苏斯回应C罗声明",
+      "topic_id": "231522de2af7996d5d74761ba5c4b61f4aba60"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#小狗被爸妈养一周一天比一天好笑#",
+      "rank": 9,
+      "title": "小狗被爸妈养一周一天比一天好笑",
+      "topic_id": "231522054deaf6166ada0dc7956c09612ed47b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#梁靖崑1比3郭冠宏#",
+      "rank": 10,
+      "title": "梁靖崑1比3郭冠宏",
+      "topic_id": "231522788cfa9a867d76e5e25e72a543cd7cd1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "吴奇隆 不赚钱也是这个立场",
+      "rank": 11,
+      "title": "吴奇隆 不赚钱也是这个立场",
+      "topic_id": "23152251a6402cf6ac863e06153d1002c177b2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "俄罗斯鼠疫",
+      "rank": 12,
+      "title": "俄罗斯鼠疫",
+      "topic_id": "231522a06fe47b12624c7b884cb3dea47c9aa8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "钟丽缇女儿解释没有考上大学的原因",
+      "rank": 13,
+      "title": "钟丽缇女儿解释没有考上大学的原因",
+      "topic_id": "2315220909908ee452f77e69db7c4d8a20d3ed"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#恩佐哭了#",
+      "rank": 14,
+      "title": "恩佐哭了",
+      "topic_id": "23152220fd0fe670982264d03d9a73c1b1181b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "邓紫棋 Mark",
+      "rank": 15,
+      "title": "邓紫棋 Mark",
+      "topic_id": "2315222eebd0706cbbaccfa8a9f73adf4e8141"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#小莲扮演者是被亲生父母遗弃的#",
+      "rank": 16,
+      "title": "小莲扮演者是被亲生父母遗弃的",
+      "topic_id": "231522274a1a7051c409c80fddb86d718f93a9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#C罗自请重罚再归队#",
+      "rank": 17,
+      "title": "C罗自请重罚再归队",
+      "topic_id": "231522695de64f7f54c822f9a410e573ee1cd5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#大S墓前一片粉色海洋#",
+      "rank": 18,
+      "title": "大S墓前一片粉色海洋",
+      "topic_id": "231522eb3d35b3c82fa78725e581a521086625"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "电影欢迎来龙餐馆",
+      "rank": 19,
+      "title": "电影欢迎来龙餐馆",
+      "topic_id": "23152273f6882241695dfec4d043b07a4581ea"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "明珍珍被依法执行死刑",
+      "rank": 20,
+      "title": "明珍珍被依法执行死刑",
+      "topic_id": "231522c994b13ece305ebbe316e394588d874c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "5个好习惯减掉内脏脂肪",
+      "rank": 21,
+      "title": "5个好习惯减掉内脏脂肪",
+      "topic_id": "231522f6fc31b71321a08875272014bf0a59bf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝邓紫棋结婚#",
+      "rank": 22,
+      "title": "曝邓紫棋结婚",
+      "topic_id": "23152264b00c921cf6e02d7f3a899892d70159"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "大冰教穷人家孩子做小生意",
+      "rank": 23,
+      "title": "大冰教穷人家孩子做小生意",
+      "topic_id": "231522b4a08de5a19019309cd8bf77b1684055"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#曝VOGUE盛典集齐了四大流量花#",
+      "rank": 24,
+      "title": "曝VOGUE盛典集齐了四大流量花",
+      "topic_id": "2315222c7d29d2d148a8679e0bef43138310cb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#黄渤那句马骑人是一语三关#",
+      "rank": 25,
+      "title": "黄渤那句马骑人是一语三关",
+      "topic_id": "23152224fd34eacb599f807928991361175320"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#9岁儿童骑车横穿车道致他人十级伤残#",
+      "rank": 26,
+      "title": "9岁儿童骑车横穿车道致他人十级伤残",
+      "topic_id": "231522b19e7e0bcb075f8a4f7bd70f4f13b4e0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "代露娃 早恋",
+      "rank": 27,
+      "title": "代露娃 早恋",
+      "topic_id": "231522a830b5ae3d544320aa150bd3b76c2ac9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "看完AI短剧只想说真人短剧完了",
+      "rank": 28,
+      "title": "看完AI短剧只想说真人短剧完了",
+      "topic_id": "231522fa79c193535b4ee452440e077aa08708"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#冯禧和许嵩婚后首条动态#",
+      "rank": 29,
+      "title": "冯禧和许嵩婚后首条动态",
+      "topic_id": "2315223cfd5374bafd7eab4dbd1732f0c00b4a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#只要在导弹射程内我肯定能消灭你#",
+      "rank": 30,
+      "title": "只要在导弹射程内我肯定能消灭你",
+      "topic_id": "231522de9838270f3c51f988da41d8723b5524"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#谢楠小儿子用手表拍的曾沛慈唐艺昕#",
+      "rank": 31,
+      "title": "谢楠小儿子用手表拍的曾沛慈唐艺昕",
+      "topic_id": "231522cddb28a71581db928d03c5146bec47a4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#C罗公开离开国家队真相#",
+      "rank": 32,
+      "title": "C罗公开离开国家队真相",
+      "topic_id": "23152271b253dd65d1fc2c9c6e2c2ac6338693"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#Zuian现身JackeyLove直播间#",
+      "rank": 33,
+      "title": "Zuian现身JackeyLove直播间",
+      "topic_id": "231522146d6f2ef660f7a457facfb59bb80e88"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#婚宴14道菜上错7道酒店称赔两万#",
+      "rank": 34,
+      "title": "婚宴14道菜上错7道酒店称赔两万",
+      "topic_id": "231522b890a3abbc984bfe14beab23e653721f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "夫妻带娃新疆旅游花钱还受气",
+      "rank": 35,
+      "title": "夫妻带娃新疆旅游花钱还受气",
+      "topic_id": "2315226733d3d42e559d05838f756c317001d7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#丁禹兮孟子义柯淳神级机位#",
+      "rank": 36,
+      "title": "丁禹兮孟子义柯淳神级机位",
+      "topic_id": "2315222f475524b823b9f55457282616311e7c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#蔡文静唯一跟全家都有血缘关系之人#",
+      "rank": 37,
+      "title": "蔡文静唯一跟全家都有血缘关系之人",
+      "topic_id": "23152211e27080e2bd92f8108b1d2b769bad4e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "心酸房奴在烂尾楼里装修",
+      "rank": 38,
+      "title": "心酸房奴在烂尾楼里装修",
+      "topic_id": "231522d73e79d60229113137a0c917d2b8ce14"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 7,
+      "posts": "saved",
+      "query": "巴西网民评论盼中国来救",
+      "rank": 39,
+      "title": "巴西网民评论盼中国来救",
+      "topic_id": "231522d12f723c5e59206b21ea3440126669af"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#Al评选2026综艺第一名是它#",
+      "rank": 40,
+      "title": "Al评选2026综艺第一名是它",
+      "topic_id": "231522989ca545c336ea2c1475c987ec58fb26"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#莫德里奇回应C罗声明#",
+      "rank": 41,
+      "title": "莫德里奇回应C罗声明",
+      "topic_id": "2315221999c9f368f866addb3decb75bba7164"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#雷军发博又换新设备了#",
+      "rank": 42,
+      "title": "雷军发博又换新设备了",
+      "topic_id": "2315224869b214d92db93849ff8870c83bb4e6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#家属悬赏百万寻子找到尸体也给20万#",
+      "rank": 43,
+      "title": "家属悬赏百万寻子找到尸体也给20万",
+      "topic_id": "231522aa1dbb5dbad752ab75edc59ce2e22896"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#C罗表态热苏斯在自己不会归队#",
+      "rank": 44,
+      "title": "C罗表态热苏斯在自己不会归队",
+      "topic_id": "231522b3652d77b76e7fb851fc66c30a86b4c8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#王晓慧进组央视中剧#",
+      "rank": 45,
+      "title": "王晓慧进组央视中剧",
+      "topic_id": "2315224df67cf1c4c87d5d6f24bd9bb8ea1a1d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#偷偷藏不住海外热播国产剧断层#",
+      "rank": 46,
+      "title": "偷偷藏不住海外热播国产剧断层",
+      "topic_id": "231522a479e793e4728b40de700a3650e9b502"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 7,
+      "posts": "saved",
+      "query": "#多位球星发文告别阿根廷队长#",
+      "rank": 47,
+      "title": "多位球星发文告别阿根廷队长",
+      "topic_id": "2315221ee9ebd8cd016d674ad09b4923c81433"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#电诈窝点距瑞丽口岸不足200米#",
+      "rank": 48,
+      "title": "电诈窝点距瑞丽口岸不足200米",
+      "topic_id": "231522af281ffdccdfb6b7c9428b26b768f2c7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "宋茜 Victoria女王",
+      "rank": 49,
+      "title": "宋茜 Victoria女王",
+      "topic_id": "2315226d6e1518a8256500e3c70828403203bf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 8,
+      "posts": "saved",
+      "query": "#5名缅甸人诱骗白俄女模特获刑21年#",
+      "rank": 50,
+      "title": "5名缅甸人诱骗白俄女模特获刑21年",
+      "topic_id": "2315227e9319eeae84774021879c1a7e304e40"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
