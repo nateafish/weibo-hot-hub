@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 6320391439
   },
-  "last_seen_at": "2026-10-07T12:00:00+08:00",
+  "last_seen_at": "2026-10-07T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%A2%81%E9%9D%96%E5%B4%911%E6%AF%943%E9%83%AD%E5%86%A0%E5%AE%8F%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "32家媒体",
     "users": [
       {
         "id": 2992050891,
         "idstr": "2992050891",
         "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2011739333,
+        "idstr": "2011739333",
+        "screen_name": "新浪乒乓球",
+        "verified": true,
+        "verified_type": 7
+      },
+      {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -33,6 +47,20 @@
         "id": 1496862394,
         "idstr": "1496862394",
         "screen_name": "中国体育",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7542252663,
+        "idstr": "7542252663",
+        "screen_name": "北京质量报告",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7308140398,
+        "idstr": "7308140398",
+        "screen_name": "大象新闻",
         "verified": true,
         "verified_type": 3
       }
