@@ -10,15 +10,50 @@
     "status": 2,
     "uid": 2318910945
   },
-  "last_seen_at": "2026-10-07T18:00:00+08:00",
+  "last_seen_at": "2026-10-07T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%91%A1%E5%AA%92%E6%80%92%E6%89%B9C%E7%BD%97%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "6家媒体",
     "users": [
       {
         "id": 2318910945,
         "idstr": "2318910945",
         "screen_name": "新浪热点",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1723167603,
+        "idstr": "1723167603",
+        "screen_name": "950MusicRadio",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5822206027,
+        "idstr": "5822206027",
+        "screen_name": "北斗融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2028810631,
+        "idstr": "2028810631",
+        "screen_name": "新浪新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
         "verified": true,
         "verified_type": 3
       }

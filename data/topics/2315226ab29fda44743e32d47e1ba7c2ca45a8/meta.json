@@ -10,11 +10,26 @@
     "status": 2,
     "uid": 6159487799
   },
-  "last_seen_at": "2026-10-07T18:00:00+08:00",
+  "last_seen_at": "2026-10-07T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9D%9C%E7%BF%A0%E9%9B%80%E7%81%AB%E5%9C%BA%E8%8A%B1%E7%B5%AE%E6%AF%94%E6%AD%A3%E7%89%87%E8%BF%98%E5%90%93%E4%BA%BA%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "2家媒体",
+    "users": [
+      {
+        "id": 2618630987,
+        "idstr": "2618630987",
+        "screen_name": "西安网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2183542485,
+        "idstr": "2183542485",
+        "screen_name": "西安广播电视台",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#杜翠雀火场花絮比正片还吓人#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E6%9D%9C%E7%BF%A0%E9%9B%80%E7%81%AB%E5%9C%BA%E8%8A%B1%E7%B5%AE%E6%AF%94%E6%AD%A3%E7%89%87%E8%BF%98%E5%90%93%E4%BA%BA%23",
