@@ -3,11 +3,33 @@
   "created_at": 1791306895,
   "first_seen_at": "2026-10-07T08:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-07T08:00:00+08:00",
+  "last_seen_at": "2026-10-07T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%99%86%E8%99%8E%E9%9F%B3%E4%B9%90%E8%8A%82%E6%95%91%E4%BA%BA%E5%B1%85%E7%84%B6%E8%BF%99%E4%B9%88%E5%A5%BD%E7%AC%91%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "3家媒体",
+    "users": [
+      {
+        "id": 7708039348,
+        "idstr": "7708039348",
+        "screen_name": "北青娱见",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7590570074,
+        "idstr": "7590570074",
+        "screen_name": "山海视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1723216063,
+        "idstr": "1723216063",
+        "screen_name": "佛山新闻",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "陆虎音乐节救人居然这么好笑",
   "search_url": "https://s.weibo.com/weibo?q=%23%E9%99%86%E8%99%8E%E9%9F%B3%E4%B9%90%E8%8A%82%E6%95%91%E4%BA%BA%E5%B1%85%E7%84%B6%E8%BF%99%E4%B9%88%E5%A5%BD%E7%AC%91%23",
