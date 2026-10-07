@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-10-07T16:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#总书记反复提及一位红军师长#",
+      "rank": 1,
+      "title": "总书记反复提及一位红军师长",
+      "topic_id": "231522bb591237eae0cead2dbfe100ddc36ea4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王星被骗至妙瓦底4天被卖3次#",
+      "rank": 1,
+      "title": "王星被骗至妙瓦底4天被卖3次",
+      "topic_id": "2315224db8e1dfb1ce4a355939235663998419"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "太平轮后周家蔡家对比明显",
+      "rank": 2,
+      "title": "太平轮后周家蔡家对比明显",
+      "topic_id": "231522b33e9ead7bb6d44ce71b35daff2b3004"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#多举措全力护航假期铁路返程#",
+      "rank": 3,
+      "title": "多举措全力护航假期铁路返程",
+      "topic_id": "2315225f483b7fc3ccc8fedf83e2977cf73dc6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#女子美容院灌肠肠子被捅破#",
+      "rank": 4,
+      "title": "女子美容院灌肠肠子被捅破",
+      "topic_id": "231522d9ed08999c4ce82c6e0dff18c9510f2f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#柬埔寨太子集团头目陈志真容#",
+      "rank": 5,
+      "title": "柬埔寨太子集团头目陈志真容",
+      "topic_id": "231522561e031e74961382499ad54b3584b018"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#猫喂了没有成求救暗号#",
+      "rank": 6,
+      "title": "猫喂了没有成求救暗号",
+      "topic_id": "2315221411085a1d8be1dfd8b2fe29c99817a1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#中国警方回应缅北电诈死灰复燃#",
+      "rank": 7,
+      "title": "中国警方回应缅北电诈死灰复燃",
+      "topic_id": "231522ae1d812317bb268d2bec1a4c23f303b5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#电诈头目佘智江被捕时十分嚣张#",
+      "rank": 8,
+      "title": "电诈头目佘智江被捕时十分嚣张",
+      "topic_id": "231522307db158d72cedbcfddf0ac524f9bdc2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "看完AI短剧只想说真人短剧完了",
+      "rank": 9,
+      "title": "看完AI短剧只想说真人短剧完了",
+      "topic_id": "231522fa79c193535b4ee452440e077aa08708"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#兰香一生都没给林锦岐看香囊#",
+      "rank": 10,
+      "title": "兰香一生都没给林锦岐看香囊",
+      "topic_id": "231522e757e2624da41e668ef82c433af8a210"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "演员王星案",
+      "rank": 11,
+      "title": "演员王星案",
+      "topic_id": "23152256ed8c7c77aac5c2589bc1185f1eb4a6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张馨予央视一分钟自画像#",
+      "rank": 12,
+      "title": "张馨予央视一分钟自画像",
+      "topic_id": "231522450c2ed8ba52455bbafc3072e1d2b830"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "朝鲜人民的真旗舰手机",
+      "rank": 13,
+      "title": "朝鲜人民的真旗舰手机",
+      "topic_id": "231522bebaec9139c2086f1b462ae036a17df8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#白俄女模特因高薪工作被骗缅甸园区#",
+      "rank": 14,
+      "title": "白俄女模特因高薪工作被骗缅甸园区",
+      "topic_id": "231522d3b2d35f767a51593a3e938eaad686d9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "田作之赫",
+      "rank": 15,
+      "title": "田作之赫",
+      "topic_id": "23152258560f9c508556cd85a80d88871e895c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 0,
+      "posts": "saved",
+      "query": "#冯禧和许嵩婚后首条动态#",
+      "rank": 16,
+      "title": "冯禧和许嵩婚后首条动态",
+      "topic_id": "2315223cfd5374bafd7eab4dbd1732f0c00b4a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "吴奇隆 不赚钱也是这个立场",
+      "rank": 17,
+      "title": "吴奇隆 不赚钱也是这个立场",
+      "topic_id": "23152251a6402cf6ac863e06153d1002c177b2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#我不是NPC预告音轨与逐玉高度相似#",
+      "rank": 18,
+      "title": "我不是NPC预告音轨与逐玉高度相似",
+      "topic_id": "23152220d047e8febf1e37b11bbb6809a4544f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "俄罗斯鼠疫",
+      "rank": 19,
+      "title": "俄罗斯鼠疫",
+      "topic_id": "231522a06fe47b12624c7b884cb3dea47c9aa8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "余承东称华为基本摆脱美国技术依赖",
+      "rank": 20,
+      "title": "余承东称华为基本摆脱美国技术依赖",
+      "topic_id": "2315226673dedfe34efc1d5789babc4a71b287"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#粤J2888T车主称修车花了约半台车钱#",
+      "rank": 21,
+      "title": "粤J2888T车主称修车花了约半台车钱",
+      "topic_id": "23152200822b8bc79b3abb9d61b8f5b5d999e7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "5个好习惯减掉内脏脂肪",
+      "rank": 22,
+      "title": "5个好习惯减掉内脏脂肪",
+      "topic_id": "231522f6fc31b71321a08875272014bf0a59bf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "炎亚纶评论汪东城车祸舞台视频",
+      "rank": 23,
+      "title": "炎亚纶评论汪东城车祸舞台视频",
+      "topic_id": "231522c471e85dff4228c25850da211831009a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#老人给4个女儿签了遗嘱儿子不知情#",
+      "rank": 24,
+      "title": "老人给4个女儿签了遗嘱儿子不知情",
+      "topic_id": "231522d2461268d9be527bb810e4c92653f430"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#时代少年团国庆营业汇总#",
+      "rank": 25,
+      "title": "时代少年团国庆营业汇总",
+      "topic_id": "231522a09c56796b4705c550c0ba03dc4d8bc4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "一些让人惊掉下巴的冷知识",
+      "rank": 26,
+      "title": "一些让人惊掉下巴的冷知识",
+      "topic_id": "23152214b9f41c4ab7b5bb52c3af0fbe4be282"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "老辈子朋友圈都是现做的",
+      "rank": 27,
+      "title": "老辈子朋友圈都是现做的",
+      "topic_id": "23152242eff2dfa3d3bc64ed25e2a93276f5aa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#大S儿女特意举办法会为妈妈祈福#",
+      "rank": 28,
+      "title": "大S儿女特意举办法会为妈妈祈福",
+      "topic_id": "231522ef13a806347a3dc10008d2a930758300"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#换董事长头像骗财务转账1700万#",
+      "rank": 29,
+      "title": "换董事长头像骗财务转账1700万",
+      "topic_id": "231522113e51ebc0b8516fcf021fee17b1bb0b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#曝余文乐和王棠云离婚后仍同居#",
+      "rank": 30,
+      "title": "曝余文乐和王棠云离婚后仍同居",
+      "topic_id": "231522551095d3e771023547155fda9c9876b0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#赵丽颖现身谢娜话剧现场#",
+      "rank": 31,
+      "title": "赵丽颖现身谢娜话剧现场",
+      "topic_id": "231522c89680f060d7acea8cde289f1687b201"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝邓紫棋结婚#",
+      "rank": 32,
+      "title": "曝邓紫棋结婚",
+      "topic_id": "23152264b00c921cf6e02d7f3a899892d70159"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "iPhoneDuo 强制适配",
+      "rank": 33,
+      "title": "iPhoneDuo 强制适配",
+      "topic_id": "231522840f7ecf049eb915d92f7cfafee25194"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#颜十六自曝诱骗演员王星话术#",
+      "rank": 34,
+      "title": "颜十六自曝诱骗演员王星话术",
+      "topic_id": "231522882b8b757398b324aeaa5f00cb1b9f32"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#数码闲聊站晒麒麟9050Pro游戏实测数据#",
+      "rank": 35,
+      "title": "数码闲聊站晒麒麟9050Pro游戏实测数据",
+      "topic_id": "231522717de017022a813b273f67eb91f85776"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "张馨予字迹也会长大",
+      "rank": 36,
+      "title": "张馨予字迹也会长大",
+      "topic_id": "2315221b47ae7ea5b7a935c02a6fcedb9d0351"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#葡萄牙队友无人点赞C罗声明#",
+      "rank": 37,
+      "title": "葡萄牙队友无人点赞C罗声明",
+      "topic_id": "231522d5ab10da70ad613b59970ef0b6e3727a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "恋与深空偷跑",
+      "rank": 38,
+      "title": "恋与深空偷跑",
+      "topic_id": "23152272a395b9816a18ba7efe77498abaf820"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#罗云熙这段现挂简直是天才#",
+      "rank": 39,
+      "title": "罗云熙这段现挂简直是天才",
+      "topic_id": "23152249761f30ed0620a8377cf069d974463d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "古偶剧别把古代拍得太爽",
+      "rank": 40,
+      "title": "古偶剧别把古代拍得太爽",
+      "topic_id": "23152219264b2d9a075a7a37ba2993aef51153"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "高端养老院报价让家庭望而却步",
+      "rank": 41,
+      "title": "高端养老院报价让家庭望而却步",
+      "topic_id": "2315225ef72c666dc712838fa8b695eb580244"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#小莲扮演者是被亲生父母遗弃的#",
+      "rank": 42,
+      "title": "小莲扮演者是被亲生父母遗弃的",
+      "topic_id": "231522274a1a7051c409c80fddb86d718f93a9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#艾米看见粉丝换了iPhone18反应#",
+      "rank": 43,
+      "title": "艾米看见粉丝换了iPhone18反应",
+      "topic_id": "2315226c0cdf8cbfd0ffc9725d19186c3a8f08"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#温瑞博袁励岑3比2松岛辉空户上隼辅#",
+      "rank": 44,
+      "title": "温瑞博袁励岑3比2松岛辉空户上隼辅",
+      "topic_id": "231522046b1ad719f12488768256ae5ba0e937"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#许凯担心陈哲远谈不到恋爱#",
+      "rank": 45,
+      "title": "许凯担心陈哲远谈不到恋爱",
+      "topic_id": "231522d624dd1434ee9c326b1a377c729b1994"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#果然网球王子诚不欺我#",
+      "rank": 46,
+      "title": "果然网球王子诚不欺我",
+      "topic_id": "231522f7246485da1a4cd4b086c3ae72765fc7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#李玉刚万疆永久免费#",
+      "rank": 47,
+      "title": "李玉刚万疆永久免费",
+      "topic_id": "23152200dc04eb68f406c059a6280b6bc3c0ab"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "大冰教穷人家孩子做小生意",
+      "rank": 48,
+      "title": "大冰教穷人家孩子做小生意",
+      "topic_id": "231522b4a08de5a19019309cd8bf77b1684055"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#我不是NPC心虚#",
+      "rank": 49,
+      "title": "我不是NPC心虚",
+      "topic_id": "2315224fc853da7b19eeb16657d0b0af5249d3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#白俄女模特独自通关无强迫迹象#",
+      "rank": 50,
+      "title": "白俄女模特独自通关无强迫迹象",
+      "topic_id": "231522dcb4bea6a51de0e4e84c616f92ab07c2"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
