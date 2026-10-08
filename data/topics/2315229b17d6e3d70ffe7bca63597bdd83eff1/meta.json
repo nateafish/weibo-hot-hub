@@ -3,10 +3,10 @@
   "created_at": 1791427811,
   "first_seen_at": "2026-10-08T12:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-08T12:00:00+08:00",
+  "last_seen_at": "2026-10-08T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%87%82%E8%BD%A6%E5%B8%9D+%E8%84%9A%E5%8A%9B%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "5家媒体",
     "users": [
       {
         "id": 7735314100,
@@ -26,6 +26,13 @@
         "id": 7611147927,
         "idstr": "7611147927",
         "screen_name": "济南时报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1924115501,
+        "idstr": "1924115501",
+        "screen_name": "星島網",
         "verified": true,
         "verified_type": 3
       },
