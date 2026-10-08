@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-10-08T15:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#习主席这样讲述中华优秀传统文化故事#",
+      "rank": 1,
+      "title": "习主席这样讲述中华优秀传统文化故事",
+      "topic_id": "231522a8da0e7724962bc1cd44001b3f2500df"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#周启豪3比0张本智和#",
+      "rank": 1,
+      "title": "周启豪3比0张本智和",
+      "topic_id": "231522d495ac10e3f4e44a27c53cf09f5db73a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "江淮汽车",
+      "rank": 2,
+      "title": "江淮汽车",
+      "topic_id": "231522223fdf3dc4c52431005cb7c2807300d8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#全国秋粮收获过四成#",
+      "rank": 3,
+      "title": "全国秋粮收获过四成",
+      "topic_id": "23152242c1dad1a9390bf7f51cb8c8a7d8b980"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "余承东尊界品牌危机",
+      "rank": 4,
+      "title": "余承东尊界品牌危机",
+      "topic_id": "231522d90996e6213a1cadd59a028750d13741"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#江淮汽车回应尊界V800懂车帝测试#",
+      "rank": 5,
+      "title": "江淮汽车回应尊界V800懂车帝测试",
+      "topic_id": "231522056b7f07a717eb210fcbe16d8259eea1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "尊界V800",
+      "rank": 6,
+      "title": "尊界V800",
+      "topic_id": "2315223cd1a7bd825b65863cfb5cc96245bcc5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "喝大水",
+      "rank": 7,
+      "title": "喝大水",
+      "topic_id": "2315222ab31fc297c8477bf889ac48719335c5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "变形计 丽姐",
+      "rank": 8,
+      "title": "变形计 丽姐",
+      "topic_id": "231522b10f6efa86a4217288fb27b66d39bcc1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#江淮汽车被砸跌停#",
+      "rank": 9,
+      "title": "江淮汽车被砸跌停",
+      "topic_id": "2315223695b121b3e6a1d5d7527d33ff2aa505"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#曝孙颖莎比赛前去了急诊#",
+      "rank": 10,
+      "title": "曝孙颖莎比赛前去了急诊",
+      "topic_id": "231522ce0dbce7c2952d2332afff170240e08b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#抢占李一桐原ID账号被封#",
+      "rank": 11,
+      "title": "抢占李一桐原ID账号被封",
+      "topic_id": "231522514732029e71544ef0f0fe4fa0a7cbc8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "懂车老王质疑刹车测试黑盒",
+      "rank": 12,
+      "title": "懂车老王质疑刹车测试黑盒",
+      "topic_id": "231522459cd8ebe02ca510515ce1c7fbfde3d3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#疑似崔晋妈妈朋友圈发文#",
+      "rank": 13,
+      "title": "疑似崔晋妈妈朋友圈发文",
+      "topic_id": "231522d014ba05a267be35d53cd7463480b152"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#李勒优推荐视频文案#",
+      "rank": 14,
+      "title": "李勒优推荐视频文案",
+      "topic_id": "231522d85b10156d83d3586f6484e2457b5b55"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#陈乔恩回应前经纪人喊话#",
+      "rank": 15,
+      "title": "陈乔恩回应前经纪人喊话",
+      "topic_id": "231522447e733bce0f540e0785a79351e3f73f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "尊界V800品牌方未回应",
+      "rank": 16,
+      "title": "尊界V800品牌方未回应",
+      "topic_id": "23152262830716d815cc9865f0b789607f3ca9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#李一桐原ID换不回来了#",
+      "rank": 17,
+      "title": "李一桐原ID换不回来了",
+      "topic_id": "2315224482ae0355a7901b6e9dfe8a937ae26a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#金饰克价已暴跌约150元#",
+      "rank": 18,
+      "title": "金饰克价已暴跌约150元",
+      "topic_id": "23152201b116ac4fb4553bcb3efc83bda3e6d9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#太仓通报网传代孕情况#",
+      "rank": 19,
+      "title": "太仓通报网传代孕情况",
+      "topic_id": "231522aa7f2335a035553ae9a8cde8316e6d4c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#保时捷回归燃油车#",
+      "rank": 20,
+      "title": "保时捷回归燃油车",
+      "topic_id": "231522738bd4f5ac208cca40f012aecf9911c4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "尊界V800刹车踏板支架断裂",
+      "rank": 21,
+      "title": "尊界V800刹车踏板支架断裂",
+      "topic_id": "231522810ef24beb866e95efbcaa720069420f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#现在的针孔摄像头这么小#",
+      "rank": 22,
+      "title": "现在的针孔摄像头这么小",
+      "topic_id": "2315221ab17bb11a5602c7956ecf1fa88e07c7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#崔晋妈妈投诉网友#",
+      "rank": 23,
+      "title": "崔晋妈妈投诉网友",
+      "topic_id": "23152250ed1af5fda8f020849bdee9dbdb3964"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#易烊千玺你给我个痛快吧#",
+      "rank": 24,
+      "title": "易烊千玺你给我个痛快吧",
+      "topic_id": "2315226b9a953d420bc4213bbb44ddddc5e969"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#何超欣晒何猷君奚梦瑶全家福#",
+      "rank": 25,
+      "title": "何超欣晒何猷君奚梦瑶全家福",
+      "topic_id": "231522dce969fb3a2d60557d3e0d2b1f21a18b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "纳指 A股",
+      "rank": 26,
+      "title": "纳指 A股",
+      "topic_id": "231522264dadd25f04c1fb7c95acbba36beb58"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#彭玉去世#",
+      "rank": 27,
+      "title": "彭玉去世",
+      "topic_id": "231522b8ade53dd12ea6a71655abc56b7bbd3f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#俄不明原因肺炎死亡女子同学回应#",
+      "rank": 28,
+      "title": "俄不明原因肺炎死亡女子同学回应",
+      "topic_id": "23152217dcee68ffc82c7c68dd2014b3a124ef"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#女子要求楼顶藏坟原房东担责#",
+      "rank": 29,
+      "title": "女子要求楼顶藏坟原房东担责",
+      "topic_id": "23152228a0b4593e46b099322d6029de956f28"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王曼昱3比2战胜石洵瑶#",
+      "rank": 30,
+      "title": "王曼昱3比2战胜石洵瑶",
+      "topic_id": "2315225320b7d67692ffa8e2a5fa29e4b1f4a8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "玉簟秋",
+      "rank": 31,
+      "title": "玉簟秋",
+      "topic_id": "231522b4a7331fc3ad06f5975ac99dcbb44419"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "上官正义称举报后被限制离开",
+      "rank": 32,
+      "title": "上官正义称举报后被限制离开",
+      "topic_id": "23152206db15a4b70f39dde3671b15ce51ded7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "酸奶最伟大的吃法出现了",
+      "rank": 33,
+      "title": "酸奶最伟大的吃法出现了",
+      "topic_id": "231522c774415bd09e74c59490d69a2f4e2efd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "1600N 4589N",
+      "rank": 34,
+      "title": "1600N 4589N",
+      "topic_id": "2315224572c158f60773ca0cfd33f9f5596f43"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#周启豪回应3比0胜张本智和#",
+      "rank": 35,
+      "title": "周启豪回应3比0胜张本智和",
+      "topic_id": "231522aeddac2150c119947b6a0cb0bb9d411a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#周启豪给张本打没电了#",
+      "rank": 36,
+      "title": "周启豪给张本打没电了",
+      "topic_id": "23152284fda0d1672485d7cac789835ae8d906"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "被偏爱的孩子一眼就能看出来",
+      "rank": 37,
+      "title": "被偏爱的孩子一眼就能看出来",
+      "topic_id": "231522ba3d591184b4a3c9337a0eb368a3c56a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "邓紫棋为什么会看上Mark",
+      "rank": 38,
+      "title": "邓紫棋为什么会看上Mark",
+      "topic_id": "2315223c02bd318a0e8fda422591c68ca8911e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#当地华人谈俄罗斯不明肺炎#",
+      "rank": 39,
+      "title": "当地华人谈俄罗斯不明肺炎",
+      "topic_id": "2315227d0c390f1514370921f7e853de6a32f6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#朱思冰3比2蒯曼#",
+      "rank": 40,
+      "title": "朱思冰3比2蒯曼",
+      "topic_id": "231522f6de36b143bee274e1b36be862711925"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "网红小四爷 缅北",
+      "rank": 41,
+      "title": "网红小四爷 缅北",
+      "topic_id": "231522798a58a91d763828597f57e9c821710a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "羊剃毛前以为要死了",
+      "rank": 42,
+      "title": "羊剃毛前以为要死了",
+      "topic_id": "2315224b7de73090d2de4f840262f1dfc6d8bd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#杨瀚森登场12分钟#",
+      "rank": 43,
+      "title": "杨瀚森登场12分钟",
+      "topic_id": "2315225f2050d0670cce2edeacc0e8adecf528"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "王曼昱连轴转",
+      "rank": 44,
+      "title": "王曼昱连轴转",
+      "topic_id": "231522321cdd3ad1f0dd0a242bfa778edd4e90"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#王曼昱石洵瑶爆分#",
+      "rank": 45,
+      "title": "王曼昱石洵瑶爆分",
+      "topic_id": "231522af25cc02e9141d53ce10e99ce01bda66"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#迪丽热巴的3个月#",
+      "rank": 46,
+      "title": "迪丽热巴的3个月",
+      "topic_id": "231522f86e47f3773b8fe8189e872ec44e49dd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "新娘的朋友都是唯粉",
+      "rank": 47,
+      "title": "新娘的朋友都是唯粉",
+      "topic_id": "231522117ea555dda4848f09606e690a659cdd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "上官正义 太仓通报有信息出入",
+      "rank": 48,
+      "title": "上官正义 太仓通报有信息出入",
+      "topic_id": "2315224b003e428a13f4e03aea4c1f4b28aeb8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#刘学义果然人火了脸就清晰了#",
+      "rank": 49,
+      "title": "刘学义果然人火了脸就清晰了",
+      "topic_id": "2315225c78fe78b4c8860a6cc434f8ab90cce2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#俞承豪承认恋情#",
+      "rank": 50,
+      "title": "俞承豪承认恋情",
+      "topic_id": "231522038bc5a98e5e660351ad01b292d56c6a"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
