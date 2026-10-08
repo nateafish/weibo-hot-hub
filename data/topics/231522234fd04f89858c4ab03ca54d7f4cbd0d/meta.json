@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2816167560
   },
-  "last_seen_at": "2026-10-08T09:00:00+08:00",
+  "last_seen_at": "2026-10-08T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%87%8D%E5%BA%86%E6%9D%8E%E5%AD%90%E5%9D%9D%E5%9C%B0%E4%B8%8B33%E7%B1%B3%E8%97%8F%E7%9D%80%E4%B8%80%E4%BA%BF%E7%8E%B0%E9%92%9E%23%26t%3D3&title=发布媒体",
-    "show_str": "24家媒体",
+    "show_str": "45家媒体",
     "users": [
       {
         "id": 2816167560,
@@ -23,9 +23,30 @@
         "verified_type": 3
       },
       {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1704185933,
         "idstr": "1704185933",
         "screen_name": "聊城晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1043320390,
+        "idstr": "1043320390",
+        "screen_name": "半岛晨报",
         "verified": true,
         "verified_type": 3
       },
@@ -40,27 +61,6 @@
         "id": 7750453817,
         "idstr": "7750453817",
         "screen_name": "第1热评",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7738005609,
-        "idstr": "7738005609",
-        "screen_name": "第1眼看天下",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7735453948,
-        "idstr": "7735453948",
-        "screen_name": "第1观察",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7525190844,
-        "idstr": "7525190844",
-        "screen_name": "第1眼网评",
         "verified": true,
         "verified_type": 3
       }
