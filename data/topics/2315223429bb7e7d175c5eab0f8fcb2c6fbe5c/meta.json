@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1649173367
   },
-  "last_seen_at": "2026-10-08T08:00:00+08:00",
+  "last_seen_at": "2026-10-08T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BF%84%E7%BD%97%E6%96%AF%E7%8E%B0%E4%B8%8D%E6%98%8E%E5%8E%9F%E5%9B%A0%E8%82%BA%E7%82%8E%E6%AD%BB%E4%BA%A1%E7%97%85%E4%BE%8B%23%26t%3D3&title=发布媒体",
-    "show_str": "27家媒体",
+    "show_str": "53家媒体",
     "users": [
       {
         "id": 1649173367,
         "idstr": "1649173367",
         "screen_name": "每日经济新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1645578093,
+        "idstr": "1645578093",
+        "screen_name": "南风窗",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +37,30 @@
         "verified_type": 3
       },
       {
+        "id": 2039753857,
+        "idstr": "2039753857",
+        "screen_name": "CCTV4",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1960785875,
+        "idstr": "1960785875",
+        "screen_name": "津云新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1895096900,
+        "idstr": "1895096900",
+        "screen_name": "深圳新闻网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1667942985,
         "idstr": "1667942985",
         "screen_name": "长三角之声",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1893801487,
-        "idstr": "1893801487",
-        "screen_name": "微天下",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6890796357,
-        "idstr": "6890796357",
-        "screen_name": "日照日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6452231600,
-        "idstr": "6452231600",
-        "screen_name": "NBD视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6268375888,
-        "idstr": "6268375888",
-        "screen_name": "看看新闻全球眼",
         "verified": true,
         "verified_type": 3
       }

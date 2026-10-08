@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2992050891
   },
-  "last_seen_at": "2026-10-08T08:00:00+08:00",
+  "last_seen_at": "2026-10-08T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%AA%97%E8%B5%B0%E7%8E%8B%E6%98%9F%E7%9A%84%E4%BA%BA%E6%BD%9C%E4%BC%8F%E5%9C%A8%E5%A4%9A%E4%B8%AA%E5%BD%B1%E8%A7%86%E7%BE%A4%23%26t%3D3&title=发布媒体",
-    "show_str": "14家媒体",
+    "show_str": "25家媒体",
     "users": [
       {
         "id": 2992050891,
@@ -23,9 +23,30 @@
         "verified_type": 3
       },
       {
+        "id": 1618051664,
+        "idstr": "1618051664",
+        "screen_name": "头条新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2632236847,
+        "idstr": "2632236847",
+        "screen_name": "香港文匯網",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1899227237,
         "idstr": "1899227237",
         "screen_name": "青岛早报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1738004582,
+        "idstr": "1738004582",
+        "screen_name": "纵览新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -42,27 +63,6 @@
         "screen_name": "捉谣记",
         "verified": true,
         "verified_type": 7
-      },
-      {
-        "id": 6351311597,
-        "idstr": "6351311597",
-        "screen_name": "时间新闻视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6300853659,
-        "idstr": "6300853659",
-        "screen_name": "北京时间直播",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6275620464,
-        "idstr": "6275620464",
-        "screen_name": "BRTV-we-young",
-        "verified": true,
-        "verified_type": 3
       }
     ]
   },
