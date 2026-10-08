@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2318910945
   },
-  "last_seen_at": "2026-10-08T10:00:00+08:00",
+  "last_seen_at": "2026-10-08T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%BC%85%E5%8C%97%E6%98%8E%E5%AE%B611%E4%BA%BA%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23%26t%3D3&title=发布媒体",
-    "show_str": "25家媒体",
+    "show_str": "31家媒体",
     "users": [
       {
         "id": 2286092114,
@@ -23,9 +23,23 @@
         "verified_type": 3
       },
       {
+        "id": 1821499183,
+        "idstr": "1821499183",
+        "screen_name": "大连日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1644489953,
         "idstr": "1644489953",
         "screen_name": "南方都市报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 6217683074,
-        "idstr": "6217683074",
-        "screen_name": "N视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5822206027,
-        "idstr": "5822206027",
-        "screen_name": "北斗融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3229962754,
-        "idstr": "3229962754",
-        "screen_name": "陕视新闻",
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       }
