@@ -3,11 +3,26 @@
   "created_at": 1791449431,
   "first_seen_at": "2026-10-08T17:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-08T17:00:00+08:00",
+  "last_seen_at": "2026-10-08T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%234500N%E6%80%8E%E4%B9%88%E8%B8%A9%E5%88%B0%E7%9A%84%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "2家媒体",
+    "users": [
+      {
+        "id": 1884703150,
+        "idstr": "1884703150",
+        "screen_name": "胶东在线",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1651428902,
+        "idstr": "1651428902",
+        "screen_name": "21世纪经济报道",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "4500N怎么踩到的",
   "search_url": "https://s.weibo.com/weibo?q=%234500n%E6%80%8E%E4%B9%88%E8%B8%A9%E5%88%B0%E7%9A%84%23",

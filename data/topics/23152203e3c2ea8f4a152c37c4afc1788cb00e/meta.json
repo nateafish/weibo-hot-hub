@@ -3,11 +3,47 @@
   "created_at": 1791448959,
   "first_seen_at": "2026-10-08T17:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-08T17:00:00+08:00",
+  "last_seen_at": "2026-10-08T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%AD%99%E5%8D%83+%E7%92%80%E7%92%A8%E4%B9%8B%E4%B8%8A%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "5家媒体",
+    "users": [
+      {
+        "id": 3514732862,
+        "idstr": "3514732862",
+        "screen_name": "广西日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2535760180,
+        "idstr": "2535760180",
+        "screen_name": "安徽视讯",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2075245652,
+        "idstr": "2075245652",
+        "screen_name": "长春晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1403842922,
+        "idstr": "1403842922",
+        "screen_name": "琅琊新闻网",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "孙千 璀璨之上",
   "search_url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%83%20%E7%92%80%E7%92%A8%E4%B9%8B%E4%B8%8A%23",

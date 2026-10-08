@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2318910945
   },
-  "last_seen_at": "2026-10-08T17:00:00+08:00",
+  "last_seen_at": "2026-10-08T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%89%E7%94%B2%E5%8C%BB%E7%94%9F%E7%A7%B0%E5%96%9D%E5%A4%A7%E6%B0%B4%E4%B8%8D%E7%AD%89%E4%BA%8E%E7%A7%91%E5%AD%A6%E9%A5%AE%E6%B0%B4%23%26t%3D3&title=发布媒体",
-    "show_str": "52家媒体",
+    "show_str": "79家媒体",
     "users": [
       {
         "id": 2318910945,
         "idstr": "2318910945",
         "screen_name": "新浪热点",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1677991972,
+        "idstr": "1677991972",
+        "screen_name": "晶报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +37,30 @@
         "verified_type": 3
       },
       {
-        "id": 7590570074,
-        "idstr": "7590570074",
-        "screen_name": "山海视频",
+        "id": 2603611447,
+        "idstr": "2603611447",
+        "screen_name": "日照网",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 7020664161,
-        "idstr": "7020664161",
-        "screen_name": "福建经济生活频道",
+        "id": 2183542485,
+        "idstr": "2183542485",
+        "screen_name": "西安广播电视台",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 6715525032,
-        "idstr": "6715525032",
-        "screen_name": "成武融媒",
+        "id": 1642088277,
+        "idstr": "1642088277",
+        "screen_name": "财经网",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 6294758863,
-        "idstr": "6294758863",
-        "screen_name": "紫牛新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6105713761,
-        "idstr": "6105713761",
-        "screen_name": "红星新闻",
+        "id": 1043320390,
+        "idstr": "1043320390",
+        "screen_name": "半岛晨报",
         "verified": true,
         "verified_type": 3
       }

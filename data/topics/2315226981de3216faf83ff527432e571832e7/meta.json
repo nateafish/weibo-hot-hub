@@ -3,10 +3,10 @@
   "created_at": 1791443354,
   "first_seen_at": "2026-10-08T17:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-08T17:00:00+08:00",
+  "last_seen_at": "2026-10-08T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%B0%8A%E7%95%8CV800+%E7%AC%AC%E4%B8%89%E6%96%B9%E6%A3%80%E6%B5%8B%23%26t%3D3&title=发布媒体",
-    "show_str": "19家媒体",
+    "show_str": "21家媒体",
     "users": [
       {
         "id": 2337985010,
@@ -37,23 +37,23 @@
         "verified_type": 3
       },
       {
+        "id": 7472808083,
+        "idstr": "7472808083",
+        "screen_name": "大湾区新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7308140398,
+        "idstr": "7308140398",
+        "screen_name": "大象新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 5182171545,
         "idstr": "5182171545",
         "screen_name": "界面新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2460937233,
-        "idstr": "2460937233",
-        "screen_name": "热度新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2115259662,
-        "idstr": "2115259662",
-        "screen_name": "洪观新闻",
         "verified": true,
         "verified_type": 3
       }
