@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 2258727970
   },
-  "last_seen_at": "2026-10-08T15:00:00+08:00",
+  "last_seen_at": "2026-10-08T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%87%91%E9%A5%B0%E5%85%8B%E4%BB%B7%E5%B7%B2%E6%9A%B4%E8%B7%8C%E7%BA%A6150%E5%85%83%23%26t%3D3&title=发布媒体",
-    "show_str": "85家媒体",
+    "show_str": "132家媒体",
     "users": [
       {
         "id": 2258727970,
         "idstr": "2258727970",
         "screen_name": "央视财经",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1887790981,
+        "idstr": "1887790981",
+        "screen_name": "广州日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,13 +44,6 @@
         "verified_type": 3
       },
       {
-        "id": 2360016402,
-        "idstr": "2360016402",
-        "screen_name": "宁波日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 2685336121,
         "idstr": "2685336121",
         "screen_name": "南宁晚报",
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2337985010,
         "idstr": "2337985010",
         "screen_name": "瑞安融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1913382117,
-        "idstr": "1913382117",
-        "screen_name": "深圳晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1887344341,
-        "idstr": "1887344341",
-        "screen_name": "观察者网",
         "verified": true,
         "verified_type": 3
       }
