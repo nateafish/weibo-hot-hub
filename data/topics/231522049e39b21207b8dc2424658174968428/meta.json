@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1655444627
   },
-  "last_seen_at": "2026-10-08T07:00:00+08:00",
+  "last_seen_at": "2026-10-08T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B9%9D%E4%B8%AA%E8%88%85%E8%88%85%E6%9F%93%E4%B8%8D%E5%90%8C%E5%8F%91%E8%89%B2%E5%8F%82%E5%8A%A0%E4%BE%84%E5%A5%B3%E5%A9%9A%E7%A4%BC%23%26t%3D3&title=发布媒体",
-    "show_str": "7家媒体",
+    "show_str": "10家媒体",
     "users": [
       {
         "id": 6345673059,
@@ -26,6 +26,13 @@
         "id": 2535760180,
         "idstr": "2535760180",
         "screen_name": "安徽视讯",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 1734530730,
+        "idstr": "1734530730",
+        "screen_name": "大河报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1709951635,
         "idstr": "1709951635",
         "screen_name": "哈尔滨日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1451977335,
-        "idstr": "1451977335",
-        "screen_name": "新晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1420157965,
-        "idstr": "1420157965",
-        "screen_name": "上游新闻",
         "verified": true,
         "verified_type": 3
       }

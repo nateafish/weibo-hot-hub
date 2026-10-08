@@ -3,11 +3,19 @@
   "created_at": 1791389521,
   "first_seen_at": "2026-10-08T03:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-08T07:00:00+08:00",
+  "last_seen_at": "2026-10-08T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E5%8D%81%E4%B8%80%E5%A5%BD%E5%83%8F%E5%8F%AA%E4%B8%BA%E4%BA%86%E5%87%A0%E4%BB%B6%E4%BA%8B%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "1家媒体",
+    "users": [
+      {
+        "id": 1867571077,
+        "idstr": "1867571077",
+        "screen_name": "听中国",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "中国人的十一好像只为了几件事",
   "search_url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E5%8D%81%E4%B8%80%E5%A5%BD%E5%83%8F%E5%8F%AA%E4%B8%BA%E4%BA%86%E5%87%A0%E4%BB%B6%E4%BA%8B%23",
