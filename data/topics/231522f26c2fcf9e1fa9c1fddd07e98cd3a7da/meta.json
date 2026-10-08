@@ -3,10 +3,10 @@
   "created_at": 1791458572,
   "first_seen_at": "2026-10-08T21:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-08T21:00:00+08:00",
+  "last_seen_at": "2026-10-08T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E6%89%BE%E5%AD%A6%E7%94%9F%E6%97%B6%E4%BB%A3%E9%97%BA%E8%9C%9C%E6%8B%8DMV%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "4家媒体",
     "users": [
       {
         "id": 2106115754,
@@ -16,11 +16,25 @@
         "verified_type": 3
       },
       {
+        "id": 7708039348,
+        "idstr": "7708039348",
+        "screen_name": "北青娱见",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 5198008865,
         "idstr": "5198008865",
         "screen_name": "望望兔文化",
         "verified": true,
         "verified_type": 2
+      },
+      {
+        "id": 1677991972,
+        "idstr": "1677991972",
+        "screen_name": "晶报",
+        "verified": true,
+        "verified_type": 3
       }
     ]
   },
