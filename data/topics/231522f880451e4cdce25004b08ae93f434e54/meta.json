@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 6934599961
   },
-  "last_seen_at": "2026-10-08T18:00:00+08:00",
+  "last_seen_at": "2026-10-08T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B9%B0%E7%9A%84%E6%A6%B4%E8%8E%B2%E6%89%93%E5%BC%80%E9%87%8C%E9%9D%A2%E6%98%AF%E6%A9%A1%E7%9A%AE%E6%B3%A5%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "3家媒体",
     "users": [
       {
         "id": 5652470745,
         "idstr": "5652470745",
         "screen_name": "广西都市频道",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3288875501,
+        "idstr": "3288875501",
+        "screen_name": "河南日报",
         "verified": true,
         "verified_type": 3
       },

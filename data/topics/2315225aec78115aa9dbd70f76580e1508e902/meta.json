@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 6934599961
   },
-  "last_seen_at": "2026-10-08T18:00:00+08:00",
+  "last_seen_at": "2026-10-08T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%A5%BF%E8%A5%BF%E5%BC%97%E4%B9%A6%E5%BA%97%E6%98%AF%E5%A6%82%E4%BD%95%E7%9B%88%E5%88%A9%E7%9A%84%23%26t%3D3&title=发布媒体",
-    "show_str": "16家媒体",
+    "show_str": "19家媒体",
     "users": [
       {
         "id": 1912964267,
         "idstr": "1912964267",
         "screen_name": "长沙晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1899950161,
+        "idstr": "1899950161",
+        "screen_name": "南国早报",
         "verified": true,
         "verified_type": 3
       },
@@ -37,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 1497418417,
+        "idstr": "1497418417",
+        "screen_name": "掌上温岭",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2337985010,
         "idstr": "2337985010",
         "screen_name": "瑞安融媒",
@@ -47,20 +61,6 @@
         "id": 6013658881,
         "idstr": "6013658881",
         "screen_name": "视听万安",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5652470745,
-        "idstr": "5652470745",
-        "screen_name": "广西都市频道",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2685336121,
-        "idstr": "2685336121",
-        "screen_name": "南宁晚报",
         "verified": true,
         "verified_type": 3
       }
