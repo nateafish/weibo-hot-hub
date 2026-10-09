@@ -3,11 +3,33 @@
   "created_at": 1791543139,
   "first_seen_at": "2026-10-09T19:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-09T19:00:00+08:00",
+  "last_seen_at": "2026-10-09T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%AD%E5%B9%B4%E5%A4%AB%E5%A6%BB%E5%8D%81%E6%9D%A1%E4%BA%B2%E5%AF%86%E5%8A%A8%E4%BD%9C%E6%B8%85%E5%8D%95%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "3家媒体",
+    "users": [
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1774057271,
+        "idstr": "1774057271",
+        "screen_name": "生命时报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1636678683,
+        "idstr": "1636678683",
+        "screen_name": "长天新闻",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "中年夫妻十条亲密动作清单",
   "search_url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B9%B4%E5%A4%AB%E5%A6%BB%E5%8D%81%E6%9D%A1%E4%BA%B2%E5%AF%86%E5%8A%A8%E4%BD%9C%E6%B8%85%E5%8D%95%23",

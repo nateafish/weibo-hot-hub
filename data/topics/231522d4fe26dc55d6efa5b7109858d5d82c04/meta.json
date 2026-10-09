@@ -10,11 +10,33 @@
     "status": 2,
     "uid": 5165517157
   },
-  "last_seen_at": "2026-10-09T19:00:00+08:00",
+  "last_seen_at": "2026-10-09T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%81%8B%E7%BB%BC%E6%9C%89%E5%8F%B2%E4%BB%A5%E6%9D%A5%E6%9C%80%E7%81%AB%E7%9A%84%E5%A5%B3%E5%98%89%E5%AE%BE%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "3家媒体",
+    "users": [
+      {
+        "id": 1280846847,
+        "idstr": "1280846847",
+        "screen_name": "指尖新闻-沈阳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1043320390,
+        "idstr": "1043320390",
+        "screen_name": "半岛晨报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1943154142,
+        "idstr": "1943154142",
+        "screen_name": "中安在线",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#恋综有史以来最火的女嘉宾#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E6%81%8B%E7%BB%BC%E6%9C%89%E5%8F%B2%E4%BB%A5%E6%9D%A5%E6%9C%80%E7%81%AB%E7%9A%84%E5%A5%B3%E5%98%89%E5%AE%BE%23",

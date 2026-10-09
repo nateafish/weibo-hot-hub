@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2286092114
   },
-  "last_seen_at": "2026-10-09T19:00:00+08:00",
+  "last_seen_at": "2026-10-09T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E5%A5%B3%E5%84%BF%E4%B9%B010%E4%B8%87%E9%BB%84%E9%87%91%E9%80%81%E7%88%B6%E6%AF%8D%23%26t%3D3&title=发布媒体",
-    "show_str": "30家媒体",
+    "show_str": "42家媒体",
     "users": [
       {
         "id": 2286092114,
@@ -26,6 +26,13 @@
         "id": 7639071132,
         "idstr": "7639071132",
         "screen_name": "篝火视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7469265487,
+        "idstr": "7469265487",
+        "screen_name": "梁山县融媒体中心",
         "verified": true,
         "verified_type": 3
       },
@@ -54,13 +61,6 @@
         "id": 2622056220,
         "idstr": "2622056220",
         "screen_name": "新闻大连",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2360016402,
-        "idstr": "2360016402",
-        "screen_name": "宁波日报",
         "verified": true,
         "verified_type": 3
       }
