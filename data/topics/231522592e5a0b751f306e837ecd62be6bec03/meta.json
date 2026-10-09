@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2868676035
   },
-  "last_seen_at": "2026-09-15T12:00:00+08:00",
+  "last_seen_at": "2026-10-10T05:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8D%8E%E4%B8%BA%E8%B5%9B%E5%8A%9B%E6%96%AF%E5%90%88%E4%BD%9C%E6%A8%A1%E5%BC%8F%E8%B0%83%E6%95%B4%23%26t%3D3&title=发布媒体",
-    "show_str": "14家媒体",
+    "show_str": "30家媒体",
     "users": [
       {
         "id": 2868676035,
@@ -21,6 +21,27 @@
         "screen_name": "财联社APP",
         "verified": true,
         "verified_type": 3
+      },
+      {
+        "id": 2026044661,
+        "idstr": "2026044661",
+        "screen_name": "海量财经",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1885454921,
+        "idstr": "1885454921",
+        "screen_name": "蓝鲸新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2210869832,
+        "idstr": "2210869832",
+        "screen_name": "科技头版",
+        "verified": true,
+        "verified_type": 2
       },
       {
         "id": 1956700750,
@@ -42,31 +63,10 @@
         "screen_name": "白鹿视频",
         "verified": true,
         "verified_type": 3
-      },
-      {
-        "id": 6982382342,
-        "idstr": "6982382342",
-        "screen_name": "搜狐科技",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5762891674,
-        "idstr": "5762891674",
-        "screen_name": "密度新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5237278176,
-        "idstr": "5237278176",
-        "screen_name": "中国城市报",
-        "verified": true,
-        "verified_type": 3
       }
     ]
   },
-  "query": "#华为赛力斯合作模式调整#",
+  "query": "华为赛力斯合作模式调整",
   "search_url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E8%B5%9B%E5%8A%9B%E6%96%AF%E5%90%88%E4%BD%9C%E6%A8%A1%E5%BC%8F%E8%B0%83%E6%95%B4%23",
   "sub_category": null,
   "summary": "",
