@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 5993531560
   },
-  "last_seen_at": "2026-10-09T07:00:00+08:00",
+  "last_seen_at": "2026-10-09T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%9B%BD%E5%86%85%E9%87%91%E4%BB%B7%E8%B7%8C%E8%87%B3890%E5%85%83%23%26t%3D3&title=发布媒体",
-    "show_str": "32家媒体",
+    "show_str": "60家媒体",
     "users": [
       {
         "id": 5993531560,
         "idstr": "5993531560",
         "screen_name": "中新经纬",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3901624042,
+        "idstr": "3901624042",
+        "screen_name": "山西日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2026044661,
+        "idstr": "2026044661",
+        "screen_name": "海量财经",
         "verified": true,
         "verified_type": 3
       },
@@ -30,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 6715513747,
+        "idstr": "6715513747",
+        "screen_name": "宁县融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6248544856,
         "idstr": "6248544856",
         "screen_name": "贝果财经",
@@ -37,30 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 6040549176,
-        "idstr": "6040549176",
-        "screen_name": "究竟视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5762891674,
-        "idstr": "5762891674",
-        "screen_name": "密度新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5585485049,
-        "idstr": "5585485049",
-        "screen_name": "021视频-新闻晨报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5542843172,
-        "idstr": "5542843172",
-        "screen_name": "烟台日报传媒集团",
+        "id": 6070849931,
+        "idstr": "6070849931",
+        "screen_name": "山东财经报道-经济导报",
         "verified": true,
         "verified_type": 3
       }

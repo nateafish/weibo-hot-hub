@@ -3,15 +3,22 @@
   "created_at": 1791471682,
   "first_seen_at": "2026-10-09T01:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-09T07:00:00+08:00",
+  "last_seen_at": "2026-10-09T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%82%96%E6%88%98+%E5%8D%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "12家媒体",
     "users": [
       {
-        "id": 7422806367,
-        "idstr": "7422806367",
-        "screen_name": "中网传播",
+        "id": 2356298087,
+        "idstr": "2356298087",
+        "screen_name": "河北经视",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497087080,
+        "idstr": "1497087080",
+        "screen_name": "羊城晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -23,6 +30,13 @@
         "verified_type": 3
       },
       {
+        "id": 7422806367,
+        "idstr": "7422806367",
+        "screen_name": "中网传播",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2685336121,
         "idstr": "2685336121",
         "screen_name": "南宁晚报",
@@ -30,9 +44,16 @@
         "verified_type": 3
       },
       {
-        "id": 2356298087,
-        "idstr": "2356298087",
-        "screen_name": "河北经视",
+        "id": 2535760180,
+        "idstr": "2535760180",
+        "screen_name": "安徽视讯",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
         "verified": true,
         "verified_type": 3
       }
