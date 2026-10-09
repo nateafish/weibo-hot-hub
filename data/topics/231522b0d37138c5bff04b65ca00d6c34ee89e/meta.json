@@ -3,10 +3,10 @@
   "created_at": 1791545243,
   "first_seen_at": "2026-10-09T21:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-09T21:00:00+08:00",
+  "last_seen_at": "2026-10-09T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%B2%90%E8%A8%80%E7%88%B8%E7%88%B8%E6%98%AF%E6%B8%B8%E4%B9%90%E7%8E%8B%E5%AD%90%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "8家媒体",
     "users": [
       {
         "id": 5762891674,
@@ -23,9 +23,23 @@
         "verified_type": 3
       },
       {
-        "id": 1856446532,
-        "idstr": "1856446532",
-        "screen_name": "合新闻",
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1899950161,
+        "idstr": "1899950161",
+        "screen_name": "南国早报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1880922220,
+        "idstr": "1880922220",
+        "screen_name": "金华晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -40,13 +54,6 @@
         "id": 1656737654,
         "idstr": "1656737654",
         "screen_name": "现代快报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1497418417,
-        "idstr": "1497418417",
-        "screen_name": "掌上温岭",
         "verified": true,
         "verified_type": 3
       }

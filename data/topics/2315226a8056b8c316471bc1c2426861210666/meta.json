@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1893892941
   },
-  "last_seen_at": "2026-10-09T21:00:00+08:00",
+  "last_seen_at": "2026-10-09T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%B9%96%E5%8D%97%E6%B0%B8%E5%B7%9E%E9%80%9A%E6%8A%A5%E5%91%A8%E6%9F%90%E6%9F%90%E7%9B%B8%E5%85%B3%E4%B8%BE%E6%8A%A5%23%26t%3D3&title=发布媒体",
-    "show_str": "46家媒体",
+    "show_str": "64家媒体",
     "users": [
       {
         "id": 1893892941,
         "idstr": "1893892941",
         "screen_name": "北京日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -37,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 1895096900,
+        "idstr": "1895096900",
+        "screen_name": "深圳新闻网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1887344341,
         "idstr": "1887344341",
         "screen_name": "观察者网",
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 7542252663,
-        "idstr": "7542252663",
-        "screen_name": "北京质量报告",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6066193547,
-        "idstr": "6066193547",
-        "screen_name": "锋线视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5145725878,
-        "idstr": "5145725878",
-        "screen_name": "沸点视频",
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       }
