@@ -3,15 +3,36 @@
   "created_at": 1791509173,
   "first_seen_at": "2026-10-09T11:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-09T14:00:00+08:00",
+  "last_seen_at": "2026-10-09T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%B0%B8%E5%B7%9E%E5%A5%B3%E5%B1%80%E9%95%BF+%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%E5%BE%85%E5%85%AC%E5%B8%83%23%26t%3D3&title=发布媒体",
-    "show_str": "7家媒体",
+    "show_str": "10家媒体",
     "users": [
+      {
+        "id": 7483862675,
+        "idstr": "7483862675",
+        "screen_name": "狐度工作室",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6115560351,
+        "idstr": "6115560351",
+        "screen_name": "国是直通车",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2647971081,
         "idstr": "2647971081",
         "screen_name": "时速新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2622056220,
+        "idstr": "2622056220",
+        "screen_name": "新闻大连",
         "verified": true,
         "verified_type": 3
       },
@@ -33,27 +54,6 @@
         "id": 1899950161,
         "idstr": "1899950161",
         "screen_name": "南国早报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1882632930,
-        "idstr": "1882632930",
-        "screen_name": "新消息报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1863222751,
-        "idstr": "1863222751",
-        "screen_name": "当代广西杂志",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1720962692,
-        "idstr": "1720962692",
-        "screen_name": "极目新闻",
         "verified": true,
         "verified_type": 3
       }

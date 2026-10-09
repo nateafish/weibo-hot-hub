@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-10-09T15:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#丹心报国#",
+      "rank": 1,
+      "title": "丹心报国",
+      "topic_id": "2315221e2c17100e959de985d288b0734d671a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "桂花香是一种非牛顿流体",
+      "rank": 1,
+      "title": "桂花香是一种非牛顿流体",
+      "topic_id": "23152221f88e0a4d409234ac291f930b75a1c0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "村上春树作息健康到逆天",
+      "rank": 2,
+      "title": "村上春树作息健康到逆天",
+      "topic_id": "23152214ee77df72499d3671c25c0fb3a89dde"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#一场跨越90余年的对话看到泪目#",
+      "rank": 3,
+      "title": "一场跨越90余年的对话看到泪目",
+      "topic_id": "231522c623698fa50fda7f8fed36cc71e19842"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "抖音独播",
+      "rank": 4,
+      "title": "抖音独播",
+      "topic_id": "23152259e52e6336f81b28813a9bd3dcd4cf0d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#玉簟秋官宣定档#",
+      "rank": 5,
+      "title": "玉簟秋官宣定档",
+      "topic_id": "23152252e82897db58e51982d0824a438bbf2c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#公安部门介入新郎婚礼当天就医离世#",
+      "rank": 6,
+      "title": "公安部门介入新郎婚礼当天就医离世",
+      "topic_id": "2315226b5963fe6948722ea61593185a90a529"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张本美和模仿松岛辉空闹脾气#",
+      "rank": 7,
+      "title": "张本美和模仿松岛辉空闹脾气",
+      "topic_id": "2315224409ad96a1d85e3214e7fbd3f6b96c1b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#AI漫剧这么赚钱吗#",
+      "rank": 8,
+      "title": "AI漫剧这么赚钱吗",
+      "topic_id": "231522a727118618962a96c9b0808b6171e3a4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "深圳社保需补缴一千多元",
+      "rank": 9,
+      "title": "深圳社保需补缴一千多元",
+      "topic_id": "231522aee18d32d8290fd84e0523937d3dd718"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "100万存款算财务自由吗",
+      "rank": 10,
+      "title": "100万存款算财务自由吗",
+      "topic_id": "2315223e3b2d7ef284c8da4e539911056e237d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "永州女局长",
+      "rank": 11,
+      "title": "永州女局长",
+      "topic_id": "231522f827df8581a72e0257aaf1e39e5ac77c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#梅尼耶被妻子整容前的照片吓到了#",
+      "rank": 12,
+      "title": "梅尼耶被妻子整容前的照片吓到了",
+      "topic_id": "2315227d3ce7d6ccdd9404e836c6338bf83913"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#我的大学图书馆#",
+      "rank": 13,
+      "title": "我的大学图书馆",
+      "topic_id": "23152274051c66030bd38db8c04a27f289c26c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#李勒优承认面馆帮忙没工资#",
+      "rank": 14,
+      "title": "李勒优承认面馆帮忙没工资",
+      "topic_id": "23152266d09fb7b57c8bef517cf3a440658ab4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝男艺人比女艺人更容易被潜规则#",
+      "rank": 15,
+      "title": "曝男艺人比女艺人更容易被潜规则",
+      "topic_id": "23152200f293b4e68691e05b16800cef3333de"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#金莎疑似怀孕了#",
+      "rank": 16,
+      "title": "金莎疑似怀孕了",
+      "topic_id": "23152267353f464dc9561eda467e7dce329561"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "王艺迪2比4张本美和",
+      "rank": 17,
+      "title": "王艺迪2比4张本美和",
+      "topic_id": "231522002263779917698630099cec6533e96d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#李现的原ID还能改回来吗#",
+      "rank": 18,
+      "title": "李现的原ID还能改回来吗",
+      "topic_id": "2315229c4c84396713262cf44f2789ee60fd39"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "永州女局长事件时间线",
+      "rank": 19,
+      "title": "永州女局长事件时间线",
+      "topic_id": "231522ed07eebea819d019ceed29f127922f93"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#国产手机新一轮涨价潮#",
+      "rank": 20,
+      "title": "国产手机新一轮涨价潮",
+      "topic_id": "23152249a93bd50da08991a57c1184ef42f110"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#美国女囚注射死刑失败后恢复清醒#",
+      "rank": 21,
+      "title": "美国女囚注射死刑失败后恢复清醒",
+      "topic_id": "231522dace380243e4b162a8120ec8dda7cd41"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#北大博士当中学老师后与世界和解#",
+      "rank": 22,
+      "title": "北大博士当中学老师后与世界和解",
+      "topic_id": "231522058c64d18e4a2bbf378a8a34acc94837"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝李勒优想和崔晋一家一刀两断#",
+      "rank": 23,
+      "title": "曝李勒优想和崔晋一家一刀两断",
+      "topic_id": "23152234c87caee98e5176a13f6437779a3341"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "这是哪位大聪明想出来的剧本",
+      "rank": 24,
+      "title": "这是哪位大聪明想出来的剧本",
+      "topic_id": "23152203ba972e77b1283b25a752ede9cb4d11"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#杨幂打卡大兴安岭#",
+      "rank": 25,
+      "title": "杨幂打卡大兴安岭",
+      "topic_id": "2315226d7bdfe4799a0f04f9a29f2bfe600503"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#李一桐一抬手北舞毕业证掉出来了#",
+      "rank": 26,
+      "title": "李一桐一抬手北舞毕业证掉出来了",
+      "topic_id": "231522f8c584bfab2a660660f2598d4f3a6e04"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#陈幸同4比2桥本帆乃香#",
+      "rank": 27,
+      "title": "陈幸同4比2桥本帆乃香",
+      "topic_id": "231522d690eb01ee38006f5ca9215dd7028add"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 7,
+      "posts": "saved",
+      "query": "请回答1988",
+      "rank": 28,
+      "title": "请回答1988",
+      "topic_id": "23152269b0de86be865bd13f92a3036b7cab0b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "中国全自动杀猪场火到外网",
+      "rank": 29,
+      "title": "中国全自动杀猪场火到外网",
+      "topic_id": "231522447c30c452db130a019c1f5252c9c121"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#超强厄尔尼诺已形成#",
+      "rank": 30,
+      "title": "超强厄尔尼诺已形成",
+      "topic_id": "2315224895397a5a3ce9260ef3923ae3ff54d7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "建议所有妈妈建立个人SOP",
+      "rank": 31,
+      "title": "建议所有妈妈建立个人SOP",
+      "topic_id": "2315224e1bb0afb544a1343bef3562323ac82f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "恋与深空",
+      "rank": 32,
+      "title": "恋与深空",
+      "topic_id": "23152212815f543b6754a64be7a4f150402e82"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#女局长被举报婚内出轨有3个疑问#",
+      "rank": 33,
+      "title": "女局长被举报婚内出轨有3个疑问",
+      "topic_id": "231522baa37aba06103432c3f87891a4b6137a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "港媒取标题是真的不管明星的死活",
+      "rank": 34,
+      "title": "港媒取标题是真的不管明星的死活",
+      "topic_id": "23152290c01f62109f9a3e3b93355b09f3cb67"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "郑钦文vs斯维托丽娜",
+      "rank": 35,
+      "title": "郑钦文vs斯维托丽娜",
+      "topic_id": "231522a4d0425fee7646152103f505ca0eb8d5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "蔡天凤案疑点重重",
+      "rank": 36,
+      "title": "蔡天凤案疑点重重",
+      "topic_id": "23152246412db72ee0439896e8215a172549b9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#曝杨幂将演吃瓜时代的儿女们#",
+      "rank": 37,
+      "title": "曝杨幂将演吃瓜时代的儿女们",
+      "topic_id": "2315228876610d0d7155af9da82525a41a61ca"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "深圳社保年年涨",
+      "rank": 38,
+      "title": "深圳社保年年涨",
+      "topic_id": "231522eed92cafc5f5c9218507750a68428ae9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#男子与堂嫂分手后带汽油欲同归于尽#",
+      "rank": 39,
+      "title": "男子与堂嫂分手后带汽油欲同归于尽",
+      "topic_id": "231522167a7e66eadd57827e1942dac42af157"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#顾廷烨最想要的接送方式找到了#",
+      "rank": 40,
+      "title": "顾廷烨最想要的接送方式找到了",
+      "topic_id": "2315223f65f9bb8d017fb390e7d6cb15c178e2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#solotrip崛起带火了一种新装备#",
+      "rank": 41,
+      "title": "solotrip崛起带火了一种新装备",
+      "topic_id": "23152269878ad5614c02c2d7e4f078f1384e7b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "永州女局长 调查结果待公布",
+      "rank": 42,
+      "title": "永州女局长 调查结果待公布",
+      "topic_id": "231522464e478b89165d2abe2b9d07abd7b3d5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#红果AI演员又进新人了#",
+      "rank": 43,
+      "title": "红果AI演员又进新人了",
+      "topic_id": "23152283112b09b0a7bd3f1a89f4291becedf5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#蒋诗萌靠窦月减肥法减重100斤#",
+      "rank": 44,
+      "title": "蒋诗萌靠窦月减肥法减重100斤",
+      "topic_id": "231522cc988e32566c2e6417c2c767e93f439e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#小沈阳四公个喜排名#",
+      "rank": 45,
+      "title": "小沈阳四公个喜排名",
+      "topic_id": "2315221eec8ccb795ef91d08460d7ffcc3bdb2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张智霖回应儿子休学传闻#",
+      "rank": 46,
+      "title": "张智霖回应儿子休学传闻",
+      "topic_id": "23152229f00475de4081ea08cad60c38c7eff2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王橹杰付彬言入围视界大会年度角色#",
+      "rank": 47,
+      "title": "王橹杰付彬言入围视界大会年度角色",
+      "topic_id": "231522845e70f639b4f6bc26ca39b4a5511587"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "河南三支一扶转编政策待回应",
+      "rank": 48,
+      "title": "河南三支一扶转编政策待回应",
+      "topic_id": "23152205b9e61e170feee2bcf9148ca5ce9da3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#陈幸同谈半决赛再战削球#",
+      "rank": 49,
+      "title": "陈幸同谈半决赛再战削球",
+      "topic_id": "2315222231551f75fe5e15a2f1ec1ccd1b1491"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "林高远被赛车手们抛起来了",
+      "rank": 50,
+      "title": "林高远被赛车手们抛起来了",
+      "topic_id": "23152275f7dcd5400112eb31afd4fe76b1af07"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
