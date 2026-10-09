@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 3266943013
   },
-  "last_seen_at": "2026-10-09T23:00:00+08:00",
+  "last_seen_at": "2026-10-10T01:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8D%81%E4%BA%94%E4%BA%94%E5%BC%80%E5%B1%80%E5%85%AD%E5%BC%A0%E7%BD%91%E9%BD%90%E9%93%BA%E5%BC%80%23%26t%3D3&title=发布媒体",
-    "show_str": "16家媒体",
+    "show_str": "18家媒体",
     "users": [
       {
         "id": 3266943013,
@@ -26,6 +26,13 @@
         "id": 2685336121,
         "idstr": "2685336121",
         "screen_name": "南宁晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3901624042,
+        "idstr": "3901624042",
+        "screen_name": "山西日报",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 6444725927,
+        "idstr": "6444725927",
+        "screen_name": "吉祥新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6205409064,
         "idstr": "6205409064",
         "screen_name": "茌平融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5608027665,
-        "idstr": "5608027665",
-        "screen_name": "中国环境",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5542843172,
-        "idstr": "5542843172",
-        "screen_name": "烟台日报传媒集团",
         "verified": true,
         "verified_type": 3
       }
