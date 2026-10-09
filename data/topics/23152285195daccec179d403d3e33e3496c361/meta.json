@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 6340234841
   },
-  "last_seen_at": "2026-10-09T12:00:00+08:00",
+  "last_seen_at": "2026-10-09T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9D%8E%E5%8B%92%E4%BC%98%E5%AB%82%E5%AD%90%E6%98%AF%E5%AF%B9%E5%A5%B9%E6%9C%80%E7%9C%9F%E5%BF%83%E7%9A%84%E4%BA%BA%23%26t%3D3&title=发布媒体",
-    "show_str": "10家媒体",
+    "show_str": "13家媒体",
     "users": [
       {
         "id": 1288429914,
         "idstr": "1288429914",
         "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7575030448,
+        "idstr": "7575030448",
+        "screen_name": "白鹿视频",
         "verified": true,
         "verified_type": 3
       },
@@ -37,13 +44,6 @@
         "verified_type": 3
       },
       {
-        "id": 5396094153,
-        "idstr": "5396094153",
-        "screen_name": "大众新闻-大众日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 3165101432,
         "idstr": "3165101432",
         "screen_name": "广元日报看广元",
@@ -51,16 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 2460937233,
-        "idstr": "2460937233",
-        "screen_name": "热度新闻",
+        "id": 2618630987,
+        "idstr": "2618630987",
+        "screen_name": "西安网",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2027480085,
-        "idstr": "2027480085",
-        "screen_name": "水母网",
+        "id": 2460937233,
+        "idstr": "2460937233",
+        "screen_name": "热度新闻",
         "verified": true,
         "verified_type": 3
       }
