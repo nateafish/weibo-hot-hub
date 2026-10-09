@@ -10,11 +10,33 @@
     "status": 2,
     "uid": 3847642518
   },
-  "last_seen_at": "2026-10-09T11:00:00+08:00",
+  "last_seen_at": "2026-10-09T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%AD%E5%9B%BD%E7%90%83%E5%91%98%E5%BA%9E%E6%B8%85%E6%96%B9%E8%A2%AB%E7%BE%8E%E5%9B%BD%E6%8B%98%E7%95%99%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "3家媒体",
+    "users": [
+      {
+        "id": 5822206027,
+        "idstr": "5822206027",
+        "screen_name": "北斗融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2318910945,
+        "idstr": "2318910945",
+        "screen_name": "新浪热点",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1280846847,
+        "idstr": "1280846847",
+        "screen_name": "指尖新闻-沈阳晚报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#中国球员庞清方被美国拘留#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%90%83%E5%91%98%E5%BA%9E%E6%B8%85%E6%96%B9%E8%A2%AB%E7%BE%8E%E5%9B%BD%E6%8B%98%E7%95%99%23",
