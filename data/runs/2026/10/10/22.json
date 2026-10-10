@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-10-10T22:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#总书记考察的长征故地#",
+      "rank": 1,
+      "title": "总书记考察的长征故地",
+      "topic_id": "2315225baaa0af3cb6c0547537180ae7918ca4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#郑钦文创中网历史#",
+      "rank": 1,
+      "title": "郑钦文创中网历史",
+      "topic_id": "2315228065f1d349dfa0cca3dc57123dea5605"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#打一针让癌细胞生锈而死#",
+      "rank": 2,
+      "title": "打一针让癌细胞生锈而死",
+      "topic_id": "2315224c7faea0f4cf31f9cba288ef3755ebbb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#数读国庆假期县域市场成绩单#",
+      "rank": 3,
+      "title": "数读国庆假期县域市场成绩单",
+      "topic_id": "2315226c2a9cb6ff05a0d814d3ce61e5068924"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#雅思考试取消考生在考场外大哭#",
+      "rank": 4,
+      "title": "雅思考试取消考生在考场外大哭",
+      "topic_id": "231522dcd4464987607f13f63d29324959a6c5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#郑钦文请观众不要说话#",
+      "rank": 5,
+      "title": "郑钦文请观众不要说话",
+      "topic_id": "2315224c7b1ca7bdd1f8f820fc478b22d6336c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#王曼昱被张本美和逗笑了#",
+      "rank": 6,
+      "title": "王曼昱被张本美和逗笑了",
+      "topic_id": "231522d78162fd59d4c5f25a4234b8502bb0a8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#羊水栓塞抢救要花很多钱#",
+      "rank": 7,
+      "title": "羊水栓塞抢救要花很多钱",
+      "topic_id": "231522a22c7073ea2f9e718a8f526a565455c4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#杜兰特与徐静雨世纪大和解#",
+      "rank": 8,
+      "title": "杜兰特与徐静雨世纪大和解",
+      "topic_id": "231522e3d3bd6ee398a92e2d6c59cff894cd6e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "黄建生向江秋莲公开道歉",
+      "rank": 9,
+      "title": "黄建生向江秋莲公开道歉",
+      "topic_id": "23152214abeca5248aea786735788379bb8e3b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#鼓励灵活就业人员参加职工养老保险#",
+      "rank": 10,
+      "title": "鼓励灵活就业人员参加职工养老保险",
+      "topic_id": "231522c431ca5069a7681bdca786df8d9783be"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#崔晋说李勒优的钱都拿去买车开店#",
+      "rank": 11,
+      "title": "崔晋说李勒优的钱都拿去买车开店",
+      "topic_id": "231522c67a552ef644e97b80508ac0c94d98b4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "黄磊二女儿和黄磊一模一样",
+      "rank": 12,
+      "title": "黄磊二女儿和黄磊一模一样",
+      "topic_id": "23152217517b8091405dcc683060bc02819858"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "内娱的神之八秒",
+      "rank": 13,
+      "title": "内娱的神之八秒",
+      "topic_id": "2315224885d7957577cfacaca88e77158b8482"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#00花谁掉队了#",
+      "rank": 14,
+      "title": "00花谁掉队了",
+      "topic_id": "2315225f85925a7b57ff7b3681a54a57c1541d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#以青春之我建强农之业#",
+      "rank": 15,
+      "title": "以青春之我建强农之业",
+      "topic_id": "231522ec9190ab9218b8738dc1f3c4f6f7fe9e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#自闭症男童被踹家长理论遭持刀威胁#",
+      "rank": 16,
+      "title": "自闭症男童被踹家长理论遭持刀威胁",
+      "topic_id": "23152216aacbef3bc3d0300c06eb96920803de"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#禁止全隐藏式门把手#",
+      "rank": 17,
+      "title": "禁止全隐藏式门把手",
+      "topic_id": "231522f7bb7ebcf88c72b821e40daf4342d95b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#郑钦文决赛对阵安德列娃#",
+      "rank": 18,
+      "title": "郑钦文决赛对阵安德列娃",
+      "topic_id": "231522931e9a8630c782fb9ec1c821cc8d19f8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#仅退款形成黑灰产#",
+      "rank": 19,
+      "title": "仅退款形成黑灰产",
+      "topic_id": "231522acfce1dc5790e986264b4850a15fd61d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#女子全职上门喂养宠物长假赚1.8万#",
+      "rank": 20,
+      "title": "女子全职上门喂养宠物长假赚1.8万",
+      "topic_id": "23152264490faeedeec4c7536f33c5b85a9789"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#实体书走光露出AI提示暴露了什么#",
+      "rank": 21,
+      "title": "实体书走光露出AI提示暴露了什么",
+      "topic_id": "231522311b2135802f0d00ee86535be592be24"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "嫁金钗",
+      "rank": 22,
+      "title": "嫁金钗",
+      "topic_id": "2315226cf7f2bdf15634b7584b304741dfd7c3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#崔晋一台车够李勒优开好几家店了#",
+      "rank": 23,
+      "title": "崔晋一台车够李勒优开好几家店了",
+      "topic_id": "2315223e12fb12b82738ab7e942359dae46986"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "恋人",
+      "rank": 24,
+      "title": "恋人",
+      "topic_id": "2315222b6f4d2103081a0f06cc025fe21bfe85"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "郑钦文vs梅尔滕斯",
+      "rank": 25,
+      "title": "郑钦文vs梅尔滕斯",
+      "topic_id": "231522d9bc316996a5cd0ffb1c7343ed771763"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#男团成员撞脸沈腾#",
+      "rank": 26,
+      "title": "男团成员撞脸沈腾",
+      "topic_id": "231522204636deaff81c0d7b59d58ea15741ff"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "郑钦文排名",
+      "rank": 27,
+      "title": "郑钦文排名",
+      "topic_id": "23152272da2413038d99c096deb8ccdf67ff32"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#李连杰谈小女儿患抑郁症#",
+      "rank": 28,
+      "title": "李连杰谈小女儿患抑郁症",
+      "topic_id": "231522796fba03dd43afc40cce378073e51cd0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#怪不得张国立在娱乐圈地位这么高#",
+      "rank": 29,
+      "title": "怪不得张国立在娱乐圈地位这么高",
+      "topic_id": "23152271207067496ef762690eddc7f09ba42a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#自闭症男童乘电梯遭陌生男子踹飞#",
+      "rank": 30,
+      "title": "自闭症男童乘电梯遭陌生男子踹飞",
+      "topic_id": "2315227ee26de3d5d16fc93c150f30dad21a51"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女子癌症终末期的最后一个月#",
+      "rank": 31,
+      "title": "女子癌症终末期的最后一个月",
+      "topic_id": "231522c04cdf6f94978ea0fd44122e7cb622af"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#虞书欣成内娱首位太空应援艺人#",
+      "rank": 32,
+      "title": "虞书欣成内娱首位太空应援艺人",
+      "topic_id": "231522c563a57429986d5676316638aa4bcdcc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#官方回应自闭症男童乘电梯被踹飞#",
+      "rank": 33,
+      "title": "官方回应自闭症男童乘电梯被踹飞",
+      "topic_id": "2315222c00ff5a38150ed10a8f1a6face18090"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "刘亦菲到底有多美",
+      "rank": 34,
+      "title": "刘亦菲到底有多美",
+      "topic_id": "23152299434ba353d87e130962fb87aef382a8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#郑钦文排名重返TOP30#",
+      "rank": 35,
+      "title": "郑钦文排名重返TOP30",
+      "topic_id": "2315228c1e37f58ae82ae37681ea1c7f267e5f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王楚然王安宇的cp感#",
+      "rank": 36,
+      "title": "王楚然王安宇的cp感",
+      "topic_id": "231522196581bba0acd9db5ff5f8f3e7ab3642"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#两名中国男子国庆赴泰旅游失联#",
+      "rank": 37,
+      "title": "两名中国男子国庆赴泰旅游失联",
+      "topic_id": "231522d69f3048a95af2a4c4d1118b38804223"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "飞机没停稳乘客就往前挤",
+      "rank": 38,
+      "title": "飞机没停稳乘客就往前挤",
+      "topic_id": "231522172ad6cb511088ab35feac4ec6fdac0c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#中年破产三件套又多一个#",
+      "rank": 39,
+      "title": "中年破产三件套又多一个",
+      "topic_id": "231522c0156f3edf219be1664ad29a8c4bebeb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#成都蓉城0比1天津津门虎#",
+      "rank": 40,
+      "title": "成都蓉城0比1天津津门虎",
+      "topic_id": "2315225396e18d6981538f8c29085a6ae5df08"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "云旗 一会儿有个舞跳给你们看",
+      "rank": 41,
+      "title": "云旗 一会儿有个舞跳给你们看",
+      "topic_id": "231522a2cdb51ec02ff86a32bd705ea0d40a96"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "津门虎绝杀",
+      "rank": 42,
+      "title": "津门虎绝杀",
+      "topic_id": "231522bc2f2bead2c5a5474cf46ea23db56952"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王曼昱回应与佐藤瞳争冠#",
+      "rank": 43,
+      "title": "王曼昱回应与佐藤瞳争冠",
+      "topic_id": "23152268c2f61ae136eabaaf3fe567d942ae5d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#嫁金钗前两集被赞好快好爽#",
+      "rank": 44,
+      "title": "嫁金钗前两集被赞好快好爽",
+      "topic_id": "2315229fdaa8077d87f433883cc41a4a547aff"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "中国女主播被打赏到不停转圈",
+      "rank": 45,
+      "title": "中国女主播被打赏到不停转圈",
+      "topic_id": "23152269c5215df61b7d9fad34ca05fbc8dfe0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "不烧心",
+      "rank": 46,
+      "title": "不烧心",
+      "topic_id": "231522043252f7efa2ed7a740859bd94d89309"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#安德列娃谈决赛如果对郑钦文#",
+      "rank": 47,
+      "title": "安德列娃谈决赛如果对郑钦文",
+      "topic_id": "231522acf989c4e0f98d8ce26d62b7caa610c7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王楚然0米台跳水#",
+      "rank": 48,
+      "title": "王楚然0米台跳水",
+      "topic_id": "2315221d178f0d53612c014a1149f3eeb78ea7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#前夫到被举报出轨多人女局长单位大闹#",
+      "rank": 49,
+      "title": "前夫到被举报出轨多人女局长单位大闹",
+      "topic_id": "231522f78a1bcc2b890ab12711ed4a2566c107"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "年轻人对奔驰宝马祛魅了",
+      "rank": 50,
+      "title": "年轻人对奔驰宝马祛魅了",
+      "topic_id": "23152201cb238d807992fa1b3d390cb5eaf852"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
