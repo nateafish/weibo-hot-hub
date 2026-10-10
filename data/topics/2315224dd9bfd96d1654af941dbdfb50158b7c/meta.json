@@ -2,11 +2,18 @@
   "category": "综艺",
   "created_at": 1764241558,
   "first_seen_at": "2026-10-01T13:00:00+08:00",
-  "host": null,
-  "last_seen_at": "2026-10-01T13:00:00+08:00",
+  "host": {
+    "claim_time": "2026.10.09-至今",
+    "created_at": "2026-10-09 19:33:38",
+    "is_claim": true,
+    "screen_name": "现在就出发",
+    "status": 2,
+    "uid": 7844410473
+  },
+  "last_seen_at": "2026-10-10T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%914%23%26t%3D3&title=发布媒体",
-    "show_str": "94家媒体",
+    "show_str": "102家媒体",
     "users": [
       {
         "id": 1843633441,
@@ -44,16 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 1406911561,
-        "idstr": "1406911561",
-        "screen_name": "云南广播电视台",
+        "id": 3758512144,
+        "idstr": "3758512144",
+        "screen_name": "腾讯综艺",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 3758512144,
-        "idstr": "3758512144",
-        "screen_name": "腾讯综艺",
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
         "verified": true,
         "verified_type": 3
       }
@@ -62,7 +69,7 @@
   "query": "现在就出发4",
   "search_url": "https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%914%23",
   "sub_category": null,
-  "summary": "",
+  "summary": "《现在就出发》第四季10月10日起每周六周日12点SVIP更新，VIP次日12点抢先看一周，跟出发团一起快乐出发！",
   "title": "现在就出发4",
   "topic_id": "2315224dd9bfd96d1654af941dbdfb50158b7c"
 }
