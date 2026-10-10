@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 5756264412
   },
-  "last_seen_at": "2026-10-10T15:00:00+08:00",
+  "last_seen_at": "2026-10-10T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%82%85%E9%A6%96%E5%B0%94%E9%9D%A0%E8%B7%B3%E7%BB%B3%E7%98%A6%E5%88%B0140%E6%96%A4%E5%90%8E%23%26t%3D3&title=发布媒体",
-    "show_str": "11家媒体",
+    "show_str": "14家媒体",
     "users": [
+      {
+        "id": 1774057271,
+        "idstr": "1774057271",
+        "screen_name": "生命时报",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1714800385,
         "idstr": "1714800385",
@@ -26,13 +33,6 @@
         "id": 1941424392,
         "idstr": "1941424392",
         "screen_name": "台州晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1774057271,
-        "idstr": "1774057271",
-        "screen_name": "生命时报",
         "verified": true,
         "verified_type": 3
       },
@@ -58,9 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2299460371,
-        "idstr": "2299460371",
-        "screen_name": "福建电视剧频道",
+        "id": 3066213245,
+        "idstr": "3066213245",
+        "screen_name": "邯郸新闻网",
         "verified": true,
         "verified_type": 3
       }

@@ -3,15 +3,22 @@
   "created_at": 1791604294,
   "first_seen_at": "2026-10-10T13:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-10T15:00:00+08:00",
+  "last_seen_at": "2026-10-10T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%B0%8F%E5%B7%B7%E4%BA%BA%E5%AE%B6+%E5%A5%96%E7%BC%98%23%26t%3D3&title=发布媒体",
-    "show_str": "24家媒体",
+    "show_str": "28家媒体",
     "users": [
       {
         "id": 2360016402,
         "idstr": "2360016402",
         "screen_name": "宁波日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,20 +37,6 @@
         "verified_type": 3
       },
       {
-        "id": 1497418417,
-        "idstr": "1497418417",
-        "screen_name": "掌上温岭",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2286092114,
-        "idstr": "2286092114",
-        "screen_name": "中国蓝新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 7740926033,
         "idstr": "7740926033",
         "screen_name": "荔枝大文娱",
@@ -54,6 +47,13 @@
         "id": 7590570074,
         "idstr": "7590570074",
         "screen_name": "山海视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7299136456,
+        "idstr": "7299136456",
+        "screen_name": "冬呱看点",
         "verified": true,
         "verified_type": 3
       }

@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-10-10T17:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#四重视角看中华民族的文化主体性#",
+      "rank": 1,
+      "title": "四重视角看中华民族的文化主体性",
+      "topic_id": "23152245cb58a0b196a5afe924cc9f1f7970bf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#自闭症男童乘电梯遭陌生男子踹飞#",
+      "rank": 1,
+      "title": "自闭症男童乘电梯遭陌生男子踹飞",
+      "topic_id": "2315227ee26de3d5d16fc93c150f30dad21a51"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#花少偶数季魔咒确实服了#",
+      "rank": 2,
+      "title": "花少偶数季魔咒确实服了",
+      "topic_id": "2315223c441ee9b6852aa87080a8e03499d545"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#丰收的中国如此多娇#",
+      "rank": 3,
+      "title": "丰收的中国如此多娇",
+      "topic_id": "2315227e4d9b7ec809c707d53c08cf29e49f70"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王楚然0米台跳水#",
+      "rank": 4,
+      "title": "王楚然0米台跳水",
+      "topic_id": "2315221d178f0d53612c014a1149f3eeb78ea7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#鼓励灵活就业人员参加职工养老保险#",
+      "rank": 5,
+      "title": "鼓励灵活就业人员参加职工养老保险",
+      "topic_id": "231522c431ca5069a7681bdca786df8d9783be"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#宋佳回应视后争议#",
+      "rank": 6,
+      "title": "宋佳回应视后争议",
+      "topic_id": "231522c1a90ec9e3bf38c24fc8173e95074db9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#单亲妈妈仅退款童装勒索3千被刑拘#",
+      "rank": 7,
+      "title": "单亲妈妈仅退款童装勒索3千被刑拘",
+      "topic_id": "23152246792838dcf1d7a9a232702ac7656e2e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#国乒调整亚锦赛名单#",
+      "rank": 8,
+      "title": "国乒调整亚锦赛名单",
+      "topic_id": "2315222ea0efd7c1164abdc19f6a28be26d3a3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#C罗领跑历史最伟大金球奖投票#",
+      "rank": 9,
+      "title": "C罗领跑历史最伟大金球奖投票",
+      "topic_id": "23152201342bb219502d4e25899e95d6db6ad6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "核磁共振为什么这么贵",
+      "rank": 10,
+      "title": "核磁共振为什么这么贵",
+      "topic_id": "231522bc63d95974b378185e32dd54a1833c19"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#王仁君说演员要对角色有正确认知#",
+      "rank": 11,
+      "title": "王仁君说演员要对角色有正确认知",
+      "topic_id": "2315226f7532fe3676708697a37eeb06fb6df9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "沐言爸爸 太烧心啦",
+      "rank": 12,
+      "title": "沐言爸爸 太烧心啦",
+      "topic_id": "2315228d894c058cf1b59d47866586688cc1d3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#举报女局长出轨多人男子再发声#",
+      "rank": 13,
+      "title": "举报女局长出轨多人男子再发声",
+      "topic_id": "231522c6730378fc82fab7b97ca67ca8fafdf9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "内娱的神之八秒",
+      "rank": 14,
+      "title": "内娱的神之八秒",
+      "topic_id": "2315224885d7957577cfacaca88e77158b8482"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女子仅退款9斤蜜薯称有本事来拿#",
+      "rank": 15,
+      "title": "女子仅退款9斤蜜薯称有本事来拿",
+      "topic_id": "231522bc7b1575b0e36f347608a7d9580d0980"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#人社部通过数据找人动员参保#",
+      "rank": 16,
+      "title": "人社部通过数据找人动员参保",
+      "topic_id": "231522297c199a1956ee93f047facd1e8eda34"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "嫁金钗",
+      "rank": 17,
+      "title": "嫁金钗",
+      "topic_id": "2315226cf7f2bdf15634b7584b304741dfd7c3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王仁君成功接班唐国强#",
+      "rank": 18,
+      "title": "王仁君成功接班唐国强",
+      "topic_id": "231522d736a7c8b763481db9d9325a43aa378c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#买榴莲开出土豆太离谱#",
+      "rank": 19,
+      "title": "买榴莲开出土豆太离谱",
+      "topic_id": "2315227cb439e8b87ca9d983235410e827255f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "黑客被日本运维整崩溃",
+      "rank": 20,
+      "title": "黑客被日本运维整崩溃",
+      "topic_id": "2315224c005cc81f77afff84b627686f22e5e2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "突然发现物业费比房贷可怕多了",
+      "rank": 21,
+      "title": "突然发现物业费比房贷可怕多了",
+      "topic_id": "2315221e031c74514b83413f33db6e6127c232"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#王仁君裤子太紧没及时回复赵丽颖#",
+      "rank": 22,
+      "title": "王仁君裤子太紧没及时回复赵丽颖",
+      "topic_id": "231522aae5eda9dc4a7bd7c42fa7426fc90bf3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#迪丽热巴阿道夫#",
+      "rank": 23,
+      "title": "迪丽热巴阿道夫",
+      "topic_id": "231522aa21c879c22d8cd08a5162bbe119f4c5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#31岁男子练背一年换了张脸#",
+      "rank": 24,
+      "title": "31岁男子练背一年换了张脸",
+      "topic_id": "23152257ce1c361b758154366e23178aeda14a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#崔晋说晋妈养优优是他家最穷的时候#",
+      "rank": 25,
+      "title": "崔晋说晋妈养优优是他家最穷的时候",
+      "topic_id": "23152210b55ddde2dc885309fa093ee954438d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "山姆 亲友卡新规",
+      "rank": 26,
+      "title": "山姆 亲友卡新规",
+      "topic_id": "2315225c516db50561eae8759b43f4fd7ad8f8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#曝iPhoneDuo首次开机能显示用户名#",
+      "rank": 27,
+      "title": "曝iPhoneDuo首次开机能显示用户名",
+      "topic_id": "231522310ed4936bef46b5e18be06bfebfbb28"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "林诗栋梁靖崑因伤取消亚锦赛报名",
+      "rank": 28,
+      "title": "林诗栋梁靖崑因伤取消亚锦赛报名",
+      "topic_id": "2315229cc763ec51417344247b82bd57bd7642"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "武网",
+      "rank": 29,
+      "title": "武网",
+      "topic_id": "231522773ddf418d021db76f7c0d83ced34baf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王安宇王楚然你俩什么关系#",
+      "rank": 30,
+      "title": "王安宇王楚然你俩什么关系",
+      "topic_id": "23152291e56dbbda2dd0641718fc8f13da49ad"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "田柯宇被字节开除后创业",
+      "rank": 31,
+      "title": "田柯宇被字节开除后创业",
+      "topic_id": "2315227350d2d0a88d351176cb96934848bdbe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#中年破产三件套又多一个#",
+      "rank": 32,
+      "title": "中年破产三件套又多一个",
+      "topic_id": "231522c0156f3edf219be1664ad29a8c4bebeb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#警方通报王皓被围堵辱骂处理结果#",
+      "rank": 33,
+      "title": "警方通报王皓被围堵辱骂处理结果",
+      "topic_id": "2315221bc2ae7647e68016ad20a71f5a329b10"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#95花新排位#",
+      "rank": 34,
+      "title": "95花新排位",
+      "topic_id": "2315226c54d0dc65aa63af2778781c0fa4e796"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#iPhoneDuo开机欢迎画面爆料#",
+      "rank": 35,
+      "title": "iPhoneDuo开机欢迎画面爆料",
+      "topic_id": "23152249c610c254812f140d1729fc193087f3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#林昀儒4比0莫雷加德#",
+      "rank": 36,
+      "title": "林昀儒4比0莫雷加德",
+      "topic_id": "23152290e5a57f4e6ffc4b05e16332ce72a8ca"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "原来晒太阳和深度睡眠有关",
+      "rank": 37,
+      "title": "原来晒太阳和深度睡眠有关",
+      "topic_id": "2315225a270180bb4d16703700ed277bcc0f5c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "原来网球是一项反直觉运动",
+      "rank": 38,
+      "title": "原来网球是一项反直觉运动",
+      "topic_id": "231522dea3742752af5ae3105bfb77592db63e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#王安宇美背#",
+      "rank": 39,
+      "title": "王安宇美背",
+      "topic_id": "23152236414382911e323d9bea656012f895b7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#被举报女局长回应330万离婚费#",
+      "rank": 40,
+      "title": "被举报女局长回应330万离婚费",
+      "topic_id": "231522db491f6bc7cf6a26d4e57c5c19d59d02"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#傅首尔靠跳绳瘦到140斤后#",
+      "rank": 41,
+      "title": "傅首尔靠跳绳瘦到140斤后",
+      "topic_id": "2315225ad7b668d832f318b500711e54760f63"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#披哥唱跳不吃香了#",
+      "rank": 42,
+      "title": "披哥唱跳不吃香了",
+      "topic_id": "231522efe504962674582262ac2e237a0f226f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "小巷人家 奖缘",
+      "rank": 43,
+      "title": "小巷人家 奖缘",
+      "topic_id": "2315228d6ebb8ea2656788cb7386abe7bdef42"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#一粒山东种子里的国家安全感#",
+      "rank": 44,
+      "title": "一粒山东种子里的国家安全感",
+      "topic_id": "231522120c5059b535a4c1d24ae6eddf407b0a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#肖战现身天舞工作室#",
+      "rank": 45,
+      "title": "肖战现身天舞工作室",
+      "topic_id": "2315227330b59c50c5d826e2bad4f0e4e119ea"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#蔡徐坤新歌Demo进入挑选和继续制作#",
+      "rank": 46,
+      "title": "蔡徐坤新歌Demo进入挑选和继续制作",
+      "topic_id": "231522ead7ea43ee88cb7b1459e1ab3fb7bd98"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "博主愿花二十万彩礼娶闺蜜",
+      "rank": 47,
+      "title": "博主愿花二十万彩礼娶闺蜜",
+      "topic_id": "231522b0c1fe8b374aa70853f4ab50d5042c8a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "雅思",
+      "rank": 48,
+      "title": "雅思",
+      "topic_id": "231522df94bd30148f432a5cf58003f82ba0f7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#沐言爆火动图点赞已近千万#",
+      "rank": 49,
+      "title": "沐言爆火动图点赞已近千万",
+      "topic_id": "231522d3ed7ada5df702421454a4c0de030451"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#郑钦文半决赛对阵梅尔滕斯#",
+      "rank": 50,
+      "title": "郑钦文半决赛对阵梅尔滕斯",
+      "topic_id": "2315220ec2c18b546405b3fb5a43c70b245945"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
