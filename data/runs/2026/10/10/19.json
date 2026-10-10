@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-10-10T19:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#四重视角看中华民族的文化主体性#",
+      "rank": 1,
+      "title": "四重视角看中华民族的文化主体性",
+      "topic_id": "23152245cb58a0b196a5afe924cc9f1f7970bf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#雅思考试取消考生在考场外大哭#",
+      "rank": 1,
+      "title": "雅思考试取消考生在考场外大哭",
+      "topic_id": "231522dcd4464987607f13f63d29324959a6c5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#中年破产三件套又多一个#",
+      "rank": 2,
+      "title": "中年破产三件套又多一个",
+      "topic_id": "231522c0156f3edf219be1664ad29a8c4bebeb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#一双草鞋承载着家国信仰#",
+      "rank": 3,
+      "title": "一双草鞋承载着家国信仰",
+      "topic_id": "231522482a2edcd76a6fd7c774a0ab28fc6e50"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#自闭症男童被踹家长理论遭持刀威胁#",
+      "rank": 4,
+      "title": "自闭症男童被踹家长理论遭持刀威胁",
+      "topic_id": "23152216aacbef3bc3d0300c06eb96920803de"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#鼓励灵活就业人员参加职工养老保险#",
+      "rank": 5,
+      "title": "鼓励灵活就业人员参加职工养老保险",
+      "topic_id": "231522c431ca5069a7681bdca786df8d9783be"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "内娱的神之八秒",
+      "rank": 6,
+      "title": "内娱的神之八秒",
+      "topic_id": "2315224885d7957577cfacaca88e77158b8482"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#被举报出轨女局长称选择了扶贫式婚姻#",
+      "rank": 7,
+      "title": "被举报出轨女局长称选择了扶贫式婚姻",
+      "topic_id": "231522c839ea6f86a9e7e76e2a7fae41275e17"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#人社部通过数据找人动员参保#",
+      "rank": 8,
+      "title": "人社部通过数据找人动员参保",
+      "topic_id": "231522297c199a1956ee93f047facd1e8eda34"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#踹人男子辩称自闭症男童先触碰他#",
+      "rank": 9,
+      "title": "踹人男子辩称自闭症男童先触碰他",
+      "topic_id": "2315227cf4652c9c19ae30a229da44a391db67"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "中网女单将诞生新科冠军",
+      "rank": 10,
+      "title": "中网女单将诞生新科冠军",
+      "topic_id": "231522b1e623a79ce4b8014d82fcb1a832c0c4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "黄磊二女儿和黄磊一模一样",
+      "rank": 11,
+      "title": "黄磊二女儿和黄磊一模一样",
+      "topic_id": "23152217517b8091405dcc683060bc02819858"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#自闭症男童乘电梯遭陌生男子踹飞#",
+      "rank": 12,
+      "title": "自闭症男童乘电梯遭陌生男子踹飞",
+      "topic_id": "2315227ee26de3d5d16fc93c150f30dad21a51"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#禁止全隐藏式门把手#",
+      "rank": 13,
+      "title": "禁止全隐藏式门把手",
+      "topic_id": "231522f7bb7ebcf88c72b821e40daf4342d95b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王楚然0米台跳水#",
+      "rank": 14,
+      "title": "王楚然0米台跳水",
+      "topic_id": "2315221d178f0d53612c014a1149f3eeb78ea7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "年轻人对奔驰宝马祛魅了",
+      "rank": 15,
+      "title": "年轻人对奔驰宝马祛魅了",
+      "topic_id": "23152201cb238d807992fa1b3d390cb5eaf852"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "田柯宇被字节开除后创业",
+      "rank": 16,
+      "title": "田柯宇被字节开除后创业",
+      "topic_id": "2315227350d2d0a88d351176cb96934848bdbe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "沐言爸爸 太烧心啦",
+      "rank": 17,
+      "title": "沐言爸爸 太烧心啦",
+      "topic_id": "2315228d894c058cf1b59d47866586688cc1d3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#王俊凯921票价座位都变少了#",
+      "rank": 18,
+      "title": "王俊凯921票价座位都变少了",
+      "topic_id": "2315229177502a8b97a309e7be74ff6bb01b39"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#男团成员撞脸沈腾#",
+      "rank": 19,
+      "title": "男团成员撞脸沈腾",
+      "topic_id": "231522204636deaff81c0d7b59d58ea15741ff"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "宋佳回应视后获奖",
+      "rank": 20,
+      "title": "宋佳回应视后获奖",
+      "topic_id": "23152251471260d2373fdfc39830ce07de56b2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#举报女局长出轨多人男子再发声#",
+      "rank": 21,
+      "title": "举报女局长出轨多人男子再发声",
+      "topic_id": "231522c6730378fc82fab7b97ca67ca8fafdf9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#文玩地摊老板回应出售两套金缕玉衣#",
+      "rank": 22,
+      "title": "文玩地摊老板回应出售两套金缕玉衣",
+      "topic_id": "2315223ff861f0e0f67231e2663090ae02b180"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#花少偶数季魔咒确实服了#",
+      "rank": 23,
+      "title": "花少偶数季魔咒确实服了",
+      "topic_id": "2315223c441ee9b6852aa87080a8e03499d545"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#谁能拒绝迪丽热巴的天然香#",
+      "rank": 24,
+      "title": "谁能拒绝迪丽热巴的天然香",
+      "topic_id": "2315223d2c81056988877ee8dbc42fe342599d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "突然发现物业费比房贷可怕多了",
+      "rank": 25,
+      "title": "突然发现物业费比房贷可怕多了",
+      "topic_id": "2315221e031c74514b83413f33db6e6127c232"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#布云朝克特无缘上海赛32强#",
+      "rank": 26,
+      "title": "布云朝克特无缘上海赛32强",
+      "topic_id": "231522549e2dab9b819be046493972ae9d2f08"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#女局长说330万大多是向亲友借#",
+      "rank": 27,
+      "title": "女局长说330万大多是向亲友借",
+      "topic_id": "231522c3ecfeeb0fc1c0af2b977e564b3ebfe8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#豆包工作进化速度太快了#",
+      "rank": 28,
+      "title": "豆包工作进化速度太快了",
+      "topic_id": "231522cae3b7a5ca092662290b66be72d4a874"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "梓渝 二巡",
+      "rank": 29,
+      "title": "梓渝 二巡",
+      "topic_id": "23152208c661f4eb2af577b8f4f515293c1460"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女子癌症终末期的最后一个月#",
+      "rank": 30,
+      "title": "女子癌症终末期的最后一个月",
+      "topic_id": "231522c04cdf6f94978ea0fd44122e7cb622af"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#施诗恭喜王仁君#",
+      "rank": 31,
+      "title": "施诗恭喜王仁君",
+      "topic_id": "23152284500a9b48719ad5aff26dad7d5a285b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#郑钦文武网对位萨巴伦卡#",
+      "rank": 32,
+      "title": "郑钦文武网对位萨巴伦卡",
+      "topic_id": "23152292727594f0acfe94833b753792d32e10"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#单亲妈妈仅退款童装勒索3千被刑拘#",
+      "rank": 33,
+      "title": "单亲妈妈仅退款童装勒索3千被刑拘",
+      "topic_id": "23152246792838dcf1d7a9a232702ac7656e2e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#陈幸同1比4佐藤瞳#",
+      "rank": 34,
+      "title": "陈幸同1比4佐藤瞳",
+      "topic_id": "2315222708da2c95092f80df1d15e02ac79546"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝iPhoneDuo首次开机能显示用户名#",
+      "rank": 35,
+      "title": "曝iPhoneDuo首次开机能显示用户名",
+      "topic_id": "231522310ed4936bef46b5e18be06bfebfbb28"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "番茄小说下架被指缺乏实锤",
+      "rank": 36,
+      "title": "番茄小说下架被指缺乏实锤",
+      "topic_id": "23152251a26cb2cf4b2af58b372832d1dc64b4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#崔晋说晋妈养优优是他家最穷的时候#",
+      "rank": 37,
+      "title": "崔晋说晋妈养优优是他家最穷的时候",
+      "topic_id": "23152210b55ddde2dc885309fa093ee954438d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "F1新加坡冲刺赛",
+      "rank": 38,
+      "title": "F1新加坡冲刺赛",
+      "topic_id": "231522ccf73fa789e11adf52254c1cf89bf05e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 8,
+      "posts": "saved",
+      "query": "#日本乐天热销雪糕挤出红色异物是血#",
+      "rank": 39,
+      "title": "日本乐天热销雪糕挤出红色异物是血",
+      "topic_id": "23152209ce29a27c362ff4c33effbacd7cf69d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "嫁金钗",
+      "rank": 40,
+      "title": "嫁金钗",
+      "topic_id": "2315226cf7f2bdf15634b7584b304741dfd7c3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "山姆 亲友卡新规",
+      "rank": 41,
+      "title": "山姆 亲友卡新规",
+      "topic_id": "2315225c516db50561eae8759b43f4fd7ad8f8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#男领导给女下属发淫秽照理应严惩#",
+      "rank": 42,
+      "title": "男领导给女下属发淫秽照理应严惩",
+      "topic_id": "231522eccf35ff860615cd38e2b6ea08766ab6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王仁君成功接班唐国强#",
+      "rank": 43,
+      "title": "王仁君成功接班唐国强",
+      "topic_id": "231522d736a7c8b763481db9d9325a43aa378c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#31岁男子练背一年换了张脸#",
+      "rank": 44,
+      "title": "31岁男子练背一年换了张脸",
+      "topic_id": "23152257ce1c361b758154366e23178aeda14a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#国乒调整亚锦赛名单#",
+      "rank": 45,
+      "title": "国乒调整亚锦赛名单",
+      "topic_id": "2315222ea0efd7c1164abdc19f6a28be26d3a3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#王仁君王鹤润再合作#",
+      "rank": 46,
+      "title": "王仁君王鹤润再合作",
+      "topic_id": "2315226ce03e3080f9e3b3b619d176cc11163f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#C罗领跑历史最伟大金球奖投票#",
+      "rank": 47,
+      "title": "C罗领跑历史最伟大金球奖投票",
+      "topic_id": "23152201342bb219502d4e25899e95d6db6ad6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#95花新排位#",
+      "rank": 48,
+      "title": "95花新排位",
+      "topic_id": "2315226c54d0dc65aa63af2778781c0fa4e796"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "王曼昱vs张本美和",
+      "rank": 49,
+      "title": "王曼昱vs张本美和",
+      "topic_id": "231522b4fbc165232c9e36d4ef6daffd3e9ff2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#郑钦文vs李吉妮#",
+      "rank": 50,
+      "title": "郑钦文vs李吉妮",
+      "topic_id": "231522ba71acdaa5c62cb97b1293c15bc384fc"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
