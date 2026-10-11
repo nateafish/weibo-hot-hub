@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 1774057271
   },
-  "last_seen_at": "2026-10-11T15:00:00+08:00",
+  "last_seen_at": "2026-10-11T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%82%9D%E5%8A%9F%E8%BF%996%E4%B8%AA%E6%8C%87%E6%A0%87%E6%AD%A3%E5%B8%B8%E8%AF%B4%E6%98%8E%E8%82%9D%E5%81%A5%E5%BA%B7%23%26t%3D3&title=发布媒体",
-    "show_str": "11家媒体",
+    "show_str": "29家媒体",
     "users": [
       {
         "id": 1774057271,
         "idstr": "1774057271",
         "screen_name": "生命时报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1974576991,
+        "idstr": "1974576991",
+        "screen_name": "环球时报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7211561239,
+        "idstr": "7211561239",
+        "screen_name": "央视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6444725927,
+        "idstr": "6444725927",
+        "screen_name": "吉祥新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 3285482562,
+        "idstr": "3285482562",
+        "screen_name": "烟台广播",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 3251720635,
         "idstr": "3251720635",
         "screen_name": "邯郸网络广播电视台",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2837359911,
-        "idstr": "2837359911",
-        "screen_name": "博尔塔拉报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2660940103,
-        "idstr": "2660940103",
-        "screen_name": "环球网科技频道",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2272985297,
-        "idstr": "2272985297",
-        "screen_name": "北京科教_健康北京",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1977460817,
-        "idstr": "1977460817",
-        "screen_name": "央视网快看",
         "verified": true,
         "verified_type": 3
       }

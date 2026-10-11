@@ -1,0 +1,536 @@
+{
+  "captured_at": "2026-10-11T17:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 48,
+    "ai_unchanged": 0,
+    "metrics_saved": 49,
+    "posts_saved": 49
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#总书记深情讲述的长征故事与伟大长征精神#",
+      "rank": 1,
+      "title": "总书记深情讲述的长征故事与伟大长征精神",
+      "topic_id": "231522ec35722ff07f53bf0c8ff04436ee7fdb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "退休金一万到底要缴多少社保",
+      "rank": 1,
+      "title": "退休金一万到底要缴多少社保",
+      "topic_id": "2315224dcb274a116d5177b12f56c3a5719f47"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张家齐妈妈饭下面怎么藏着肉#",
+      "rank": 2,
+      "title": "张家齐妈妈饭下面怎么藏着肉",
+      "topic_id": "231522faa1ff87b5ea4e322939dee3bf327411"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#青春华章强农报国#",
+      "rank": 3,
+      "title": "青春华章强农报国",
+      "topic_id": "23152260117ee126db30d9fb7f4b15cf62b4da"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "大二专科生称靠切片三年赚七百万",
+      "rank": 4,
+      "title": "大二专科生称靠切片三年赚七百万",
+      "topic_id": "23152294be005ba400369bce8ea6431111515d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#尼泊尔再次暴发严重山洪#",
+      "rank": 5,
+      "title": "尼泊尔再次暴发严重山洪",
+      "topic_id": "231522981b69ad039535b21343e2a37a2fab5b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "代露娃被导演说没有教养",
+      "rank": 6,
+      "title": "代露娃被导演说没有教养",
+      "topic_id": "2315221f0611d76993971b9cf600d2ce667ff0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "双方父母都觉得自己占了天大的便宜",
+      "rank": 7,
+      "title": "双方父母都觉得自己占了天大的便宜",
+      "topic_id": "2315226257e1e0f80153789d45aa056c5550fd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张予曦不知道妈妈生了弟弟#",
+      "rank": 8,
+      "title": "张予曦不知道妈妈生了弟弟",
+      "topic_id": "23152280dab7b5a6dc5a7c687bb6026a71bb4e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#社保应该在应保尽保下功夫#",
+      "rank": 9,
+      "title": "社保应该在应保尽保下功夫",
+      "topic_id": "2315226bb1d6b0c803598ec13a22437128eeeb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#57岁男子两次猥亵哥哥10岁孙女#",
+      "rank": 10,
+      "title": "57岁男子两次猥亵哥哥10岁孙女",
+      "topic_id": "231522b232f8bccd4d0d6733aeaf480597ad48"
+    },
+    {
+      "ai": "pending",
+      "metrics": "failed",
+      "metrics_error": "TopicFetchError: Topic detail is missing a stable id or title",
+      "posts": "pending",
+      "query": "社保",
+      "rank": 11,
+      "title": "社保"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#多款儿童骑行箱斜坡上直接翻了#",
+      "rank": 12,
+      "title": "多款儿童骑行箱斜坡上直接翻了",
+      "topic_id": "231522f9739975e303eeaa90ea3d4916a5a026"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#梅艳芳连灵位上的籍贯信息都是假的#",
+      "rank": 13,
+      "title": "梅艳芳连灵位上的籍贯信息都是假的",
+      "topic_id": "2315222092b3bb5d9e5919bab77665d49c6278"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#突然不羡慕沐言一家了#",
+      "rank": 14,
+      "title": "突然不羡慕沐言一家了",
+      "topic_id": "2315228d3078cddb8f5ee001f511e04ff1e702"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "周杰伦被介绍为中国著名歌手",
+      "rank": 15,
+      "title": "周杰伦被介绍为中国著名歌手",
+      "topic_id": "231522727b7f1db73915ef2ee3a0be452dde15"
+    },
+    {
+      "ai": "pending",
+      "metrics": "failed",
+      "metrics_error": "TopicFetchError: Topic detail is missing a stable id or title",
+      "posts": "pending",
+      "query": "人民日报评刹车踏板风波",
+      "rank": 16,
+      "title": "人民日报评刹车踏板风波"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "胡歌称拍仙剑三很无聊",
+      "rank": 17,
+      "title": "胡歌称拍仙剑三很无聊",
+      "topic_id": "231522d4f551230221c2974058ca398e3bda5f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "华裔老两口枪杀女婿案曝惊天细节",
+      "rank": 18,
+      "title": "华裔老两口枪杀女婿案曝惊天细节",
+      "topic_id": "231522c8622ccdc307341e9852538b906743a5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#四部门为汽车安全划定红线#",
+      "rank": 19,
+      "title": "四部门为汽车安全划定红线",
+      "topic_id": "231522b2b892ce220ad8fed1b4ae333ecd5cee"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#闫妮自曝离婚后还会去前夫家里打掼蛋#",
+      "rank": 20,
+      "title": "闫妮自曝离婚后还会去前夫家里打掼蛋",
+      "topic_id": "231522c559505fb8fe8b8329bdcebb5c6591bf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#邻里闹纠纷一方拿出乾隆年间地契#",
+      "rank": 21,
+      "title": "邻里闹纠纷一方拿出乾隆年间地契",
+      "topic_id": "231522df734cbb67a8ed3942354a5c4bb77932"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#汽车安全底线必须守牢#",
+      "rank": 22,
+      "title": "汽车安全底线必须守牢",
+      "topic_id": "2315221bc0b90986b9806fda427db607efae3c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "李雪在胡歌面前提王凯",
+      "rank": 23,
+      "title": "李雪在胡歌面前提王凯",
+      "topic_id": "23152215eacff0471e756e844415d8a7907928"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#梅艳芳家人称拿不出赎金#",
+      "rank": 24,
+      "title": "梅艳芳家人称拿不出赎金",
+      "topic_id": "23152267e092dec363752f962822034d253759"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "养老金待遇削峰填谷",
+      "rank": 25,
+      "title": "养老金待遇削峰填谷",
+      "topic_id": "231522696af493a07da82e5984dc55d926c04e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "孩子摘月季被扎后老人挖月季",
+      "rank": 26,
+      "title": "孩子摘月季被扎后老人挖月季",
+      "topic_id": "231522f65c81d2909b03e4033a237c4f711ea3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#46岁数学家凭AI炒股登上富豪榜#",
+      "rank": 27,
+      "title": "46岁数学家凭AI炒股登上富豪榜",
+      "topic_id": "231522fa23da42d26170b24e2ad58a9ace6582"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "日本人早餐吃白米饭被老婆吐槽",
+      "rank": 28,
+      "title": "日本人早餐吃白米饭被老婆吐槽",
+      "topic_id": "231522e9a156cd220079bbdffc114a1763c4b6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#潘玮柏瘦到穿女装#",
+      "rank": 29,
+      "title": "潘玮柏瘦到穿女装",
+      "topic_id": "2315226823b552b4b6d89d25a1771906357523"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "爸妈被骗把骗子气出脏话",
+      "rank": 30,
+      "title": "爸妈被骗把骗子气出脏话",
+      "topic_id": "2315229c3dbcaa3c9f3d590a1a210e0b90782c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#网传时代少年团搬离湖光壹号#",
+      "rank": 31,
+      "title": "网传时代少年团搬离湖光壹号",
+      "topic_id": "23152205c99e82069749984c33d3910f9da568"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "虞书欣敖瑞鹏 我欲乘风",
+      "rank": 32,
+      "title": "虞书欣敖瑞鹏 我欲乘风",
+      "topic_id": "231522274aa16ee1646283fad0e428eac66c5e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#周启豪回应2比4松岛辉空#",
+      "rank": 33,
+      "title": "周启豪回应2比4松岛辉空",
+      "topic_id": "23152226c30bb9c724037908cc63f5850658ce"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "老人花150元升舱后质疑无餐水",
+      "rank": 34,
+      "title": "老人花150元升舱后质疑无餐水",
+      "topic_id": "231522304b6e11b7a8724006e906d16efc288d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#王安宇晒与黄景瑜合照#",
+      "rank": 35,
+      "title": "王安宇晒与黄景瑜合照",
+      "topic_id": "231522b81dacd665aa17b99e2f68725597afe6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#李连杰称离婚时已与前妻握手言和#",
+      "rank": 36,
+      "title": "李连杰称离婚时已与前妻握手言和",
+      "topic_id": "2315226fbd2b8eaa5f80f9fff90dbcea099d2d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "刘琳琳 小黄豆",
+      "rank": 37,
+      "title": "刘琳琳 小黄豆",
+      "topic_id": "2315227e6f0e1ce9d7ccbbd051819d9f0ec3dc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#遭咬死男子戴耳机跳舞求和老虎合影#",
+      "rank": 38,
+      "title": "遭咬死男子戴耳机跳舞求和老虎合影",
+      "topic_id": "231522b2fff022e06fe20ae67a8989c09f3c2d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#郑钦文决赛一票难求#",
+      "rank": 39,
+      "title": "郑钦文决赛一票难求",
+      "topic_id": "2315229f327f9f37026adfc6093f54489248a3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "两个闺女一个985一个菜市场",
+      "rank": 40,
+      "title": "两个闺女一个985一个菜市场",
+      "topic_id": "231522878b9b06de89c40102b4f6fb6073b9c9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "汪海林称了解到影视行业爆炸性内容",
+      "rank": 41,
+      "title": "汪海林称了解到影视行业爆炸性内容",
+      "topic_id": "231522e0d8b35e8e1b0fd5afb9a7fa0c0b52ae"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王一博马来西亚练车#",
+      "rank": 42,
+      "title": "王一博马来西亚练车",
+      "topic_id": "231522c55a37087a9e6e7e65ae3994ebfc2091"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "小孩为啥要为企业不放假买单",
+      "rank": 43,
+      "title": "小孩为啥要为企业不放假买单",
+      "topic_id": "2315228be4b0793eb3314ca1fa48d36071c596"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#蔡文静现实版家有儿女#",
+      "rank": 44,
+      "title": "蔡文静现实版家有儿女",
+      "topic_id": "23152229c587fdd99adfaadf5c5c2943063739"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#谢娜刘烨十多年都没有同台过#",
+      "rank": 45,
+      "title": "谢娜刘烨十多年都没有同台过",
+      "topic_id": "2315229fe452bea5cb599b03bd87396abe67ba"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#肝功这6个指标正常说明肝健康#",
+      "rank": 46,
+      "title": "肝功这6个指标正常说明肝健康",
+      "topic_id": "231522f26b11187db0f043b737c4191d604e33"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#仙剑三拍摄现场谁无聊#",
+      "rank": 47,
+      "title": "仙剑三拍摄现场谁无聊",
+      "topic_id": "231522a51dec796268ab1686b01cdd250e91a6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#金子涵称脸上被打了100多针#",
+      "rank": 48,
+      "title": "金子涵称脸上被打了100多针",
+      "topic_id": "2315228e179e3ee5a0f7c509d169ed5d48ff30"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#特朗普提议将太平洋改名为特朗普洋#",
+      "rank": 49,
+      "title": "特朗普提议将太平洋改名为特朗普洋",
+      "topic_id": "231522cc1045ac119539f85f2052c663ec7c69"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#被字节开除实习生创业获2亿美元估值#",
+      "rank": 50,
+      "title": "被字节开除实习生创业获2亿美元估值",
+      "topic_id": "231522e147e2c45ff7d8e7dd8e57aa3016efb0"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 0.9607843137254902,
+      "metrics": 0.9607843137254902,
+      "posts": 0.9607843137254902
+    }
+  }
+}
