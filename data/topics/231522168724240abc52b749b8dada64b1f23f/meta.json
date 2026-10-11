@@ -3,11 +3,18 @@
   "created_at": 1791687794,
   "first_seen_at": "2026-10-11T12:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-11T12:00:00+08:00",
+  "last_seen_at": "2026-10-11T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A4%9A%E8%B5%B7%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E8%B5%B4%E6%B3%B0%E5%A4%B1%E8%81%94%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "10家媒体",
     "users": [
+      {
+        "id": 6268375888,
+        "idstr": "6268375888",
+        "screen_name": "看看新闻全球眼",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 5822206027,
         "idstr": "5822206027",
@@ -23,16 +30,30 @@
         "verified_type": 3
       },
       {
-        "id": 1774215272,
-        "idstr": "1774215272",
-        "screen_name": "武汉广播电视台",
+        "id": 1989020644,
+        "idstr": "1989020644",
+        "screen_name": "STV新闻坊",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1280846847,
-        "idstr": "1280846847",
-        "screen_name": "指尖新闻-沈阳晚报",
+        "id": 1925878362,
+        "idstr": "1925878362",
+        "screen_name": "SMGNEWS",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1898885525,
+        "idstr": "1898885525",
+        "screen_name": "生活报新街派",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1845864154,
+        "idstr": "1845864154",
+        "screen_name": "看看新闻Knews",
         "verified": true,
         "verified_type": 3
       }
