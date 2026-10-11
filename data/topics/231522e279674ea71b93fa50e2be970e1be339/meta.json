@@ -3,10 +3,10 @@
   "created_at": 1675934247,
   "first_seen_at": "2026-10-11T23:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-12T04:00:00+08:00",
+  "last_seen_at": "2026-10-12T06:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E4%B9%B0%E4%B8%80%E9%80%81%E4%B8%80%23%26t%3D3&title=发布媒体",
-    "show_str": "9家媒体",
+    "show_str": "10家媒体",
     "users": [
       {
         "id": 2356298087,
@@ -19,6 +19,13 @@
         "id": 5665264752,
         "idstr": "5665264752",
         "screen_name": "万物库",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6890796357,
+        "idstr": "6890796357",
+        "screen_name": "日照日报",
         "verified": true,
         "verified_type": 3
       },
@@ -47,13 +54,6 @@
         "id": 1943154142,
         "idstr": "1943154142",
         "screen_name": "中安在线",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1887790981,
-        "idstr": "1887790981",
-        "screen_name": "广州日报",
         "verified": true,
         "verified_type": 3
       }
