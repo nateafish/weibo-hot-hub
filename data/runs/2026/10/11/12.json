@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-10-11T12:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#总书记深情讲述的长征故事与伟大长征精神#",
+      "rank": 1,
+      "title": "总书记深情讲述的长征故事与伟大长征精神",
+      "topic_id": "231522ec35722ff07f53bf0c8ff04436ee7fdb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "大二专科生称靠切片三年赚七百万",
+      "rank": 1,
+      "title": "大二专科生称靠切片三年赚七百万",
+      "topic_id": "23152294be005ba400369bce8ea6431111515d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#在曼谷失联摄影师已回国#",
+      "rank": 2,
+      "title": "在曼谷失联摄影师已回国",
+      "topic_id": "231522fa4857c4d7bf8be65c29311b2ab04ded"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#每一个名字都是山河丰碑#",
+      "rank": 3,
+      "title": "每一个名字都是山河丰碑",
+      "topic_id": "2315228ea38c4175d41bb7c0d5be504a9244d7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#白鹿新剧被张亮扇巴掌#",
+      "rank": 4,
+      "title": "白鹿新剧被张亮扇巴掌",
+      "topic_id": "231522cfd3e695d2e718bea4f331d210e68de7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#汽车刹车踏板绝不应该在驾驶中断裂#",
+      "rank": 5,
+      "title": "汽车刹车踏板绝不应该在驾驶中断裂",
+      "topic_id": "231522e2c043c70185a36b99f9a7e8766bbec7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "人民日报评刹车踏板风波",
+      "rank": 6,
+      "title": "人民日报评刹车踏板风波",
+      "topic_id": "23152216db854ee937b46e2ce4336d737842c2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#梅艳芳骨灰被盗#",
+      "rank": 7,
+      "title": "梅艳芳骨灰被盗",
+      "topic_id": "231522782087aff237618ad25544aa3409dc00"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#利雅得机场遭袭致12死309伤#",
+      "rank": 8,
+      "title": "利雅得机场遭袭致12死309伤",
+      "topic_id": "2315228c0123878df982baa47ca6e4c84ef87e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "张帅为高芙发声",
+      "rank": 9,
+      "title": "张帅为高芙发声",
+      "topic_id": "231522bdc19be7361ed8cda69b1a90f8ab8558"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女子长期鼻塞查出患癌#",
+      "rank": 10,
+      "title": "女子长期鼻塞查出患癌",
+      "topic_id": "231522386812e559b1cdb6feef423f3bbab6c9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#金子涵称脸上被打了100多针#",
+      "rank": 11,
+      "title": "金子涵称脸上被打了100多针",
+      "topic_id": "2315228e179e3ee5a0f7c509d169ed5d48ff30"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#闫妮自曝离婚后还会去前夫家里打掼蛋#",
+      "rank": 12,
+      "title": "闫妮自曝离婚后还会去前夫家里打掼蛋",
+      "topic_id": "231522c559505fb8fe8b8329bdcebb5c6591bf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#谢娜刘烨十多年都没有同台过#",
+      "rank": 13,
+      "title": "谢娜刘烨十多年都没有同台过",
+      "topic_id": "2315229fe452bea5cb599b03bd87396abe67ba"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "胡歌称拍仙剑三很无聊",
+      "rank": 14,
+      "title": "胡歌称拍仙剑三很无聊",
+      "topic_id": "231522d4f551230221c2974058ca398e3bda5f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "电诈园区打人视频曝光",
+      "rank": 15,
+      "title": "电诈园区打人视频曝光",
+      "topic_id": "23152251da3b54c18dcb90bd147ba201cf7a7b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "虎鲸妈妈带幼崽尸体十七天",
+      "rank": 16,
+      "title": "虎鲸妈妈带幼崽尸体十七天",
+      "topic_id": "231522e8bed52d75f9d60580ab16c2ddaa5a4c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "施永青建议推会漏的避孕套",
+      "rank": 17,
+      "title": "施永青建议推会漏的避孕套",
+      "topic_id": "2315226902e9835da47f0a68ba479d258f6a5c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "尿毒症大多是吃出来的",
+      "rank": 18,
+      "title": "尿毒症大多是吃出来的",
+      "topic_id": "231522826e23886a73f53932bdd6b0d203187f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "多起中国公民赴泰失联",
+      "rank": 19,
+      "title": "多起中国公民赴泰失联",
+      "topic_id": "231522168724240abc52b749b8dada64b1f23f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#丁禹兮拒绝拥抱孟子义路透#",
+      "rank": 20,
+      "title": "丁禹兮拒绝拥抱孟子义路透",
+      "topic_id": "231522c47e17b534f4065eaea1453d321fa1f0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#遭咬死男子戴耳机跳舞求和老虎合影#",
+      "rank": 21,
+      "title": "遭咬死男子戴耳机跳舞求和老虎合影",
+      "topic_id": "231522b2fff022e06fe20ae67a8989c09f3c2d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "王楚然现发4口碑反转",
+      "rank": 22,
+      "title": "王楚然现发4口碑反转",
+      "topic_id": "23152261a7667ddac6b89dae19655626d467d7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#包贝尔包文婧一同出游#",
+      "rank": 23,
+      "title": "包贝尔包文婧一同出游",
+      "topic_id": "231522d31cacb8a9f5cc7278de86d16da80c96"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#小黄豆宣布与刘琳琳绝交#",
+      "rank": 24,
+      "title": "小黄豆宣布与刘琳琳绝交",
+      "topic_id": "23152250b9ec6a26928ac318f7d6934d53facd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "匹克怎么也剪吊牌了",
+      "rank": 25,
+      "title": "匹克怎么也剪吊牌了",
+      "topic_id": "231522b06fe25d20b4e2dbce353fdb8fa18d0d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#好多品牌都不约而同开始剪吊牌了#",
+      "rank": 26,
+      "title": "好多品牌都不约而同开始剪吊牌了",
+      "topic_id": "231522a4fd5e6422170409899c906e07a3e183"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "嫁人也要嫁舍得开灯的家庭",
+      "rank": 27,
+      "title": "嫁人也要嫁舍得开灯的家庭",
+      "topic_id": "2315227f61b629eef2c934376657b5aa739a40"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#男子遭动物园老虎袭击身亡现场画面#",
+      "rank": 28,
+      "title": "男子遭动物园老虎袭击身亡现场画面",
+      "topic_id": "231522d9ec89660dbb423d8a41a3d7d90bf2ca"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#刘琳琳用了宁艺卓的文案#",
+      "rank": 29,
+      "title": "刘琳琳用了宁艺卓的文案",
+      "topic_id": "23152220a1059deb205f1fa08998d01977b356"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#岸本齐史火影忍者全新漫画#",
+      "rank": 30,
+      "title": "岸本齐史火影忍者全新漫画",
+      "topic_id": "231522d5bbe6bd99ce9b88765c486851ca1dc7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#70%肝癌患者早期无明显症状#",
+      "rank": 31,
+      "title": "70%肝癌患者早期无明显症状",
+      "topic_id": "231522dfa41527c0089cd330189dffec3e39fc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#4种小便异常提示肾出问题#",
+      "rank": 32,
+      "title": "4种小便异常提示肾出问题",
+      "topic_id": "2315222386211e5f6979454473002b85fc2537"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "格美司鲁肽二十天只瘦一斤",
+      "rank": 33,
+      "title": "格美司鲁肽二十天只瘦一斤",
+      "topic_id": "231522b5e6e561acde3eb860c09259d4c2c8ea"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#台湾民众在台北街头高喊要统一#",
+      "rank": 34,
+      "title": "台湾民众在台北街头高喊要统一",
+      "topic_id": "2315220a6013ec03f5a554ca5cd20e1e7c0717"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#曝李勒优崔晋私下和解#",
+      "rank": 35,
+      "title": "曝李勒优崔晋私下和解",
+      "topic_id": "2315226dcc8c091f752dbacdd9ea7a0a70ac37"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#林俊杰七七牵手逛街#",
+      "rank": 36,
+      "title": "林俊杰七七牵手逛街",
+      "topic_id": "23152296cac4db4f4e49ac06cb4b9d0ddc48fa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#遭袭身亡男子多次手指老虎警告#",
+      "rank": 37,
+      "title": "遭袭身亡男子多次手指老虎警告",
+      "topic_id": "2315223aeb4e889c43fbe18e31642f8a46e5b4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#许志安回应梅艳芳骨灰被盗#",
+      "rank": 38,
+      "title": "许志安回应梅艳芳骨灰被盗",
+      "topic_id": "23152273372020f64bea6d6373ecb220a0be28"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#英国男子遭老虎咬死目击者发声#",
+      "rank": 39,
+      "title": "英国男子遭老虎咬死目击者发声",
+      "topic_id": "231522baa4cd41c0b421edd400883d75199735"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#王仁君没想到怎么称呼高露#",
+      "rank": 40,
+      "title": "王仁君没想到怎么称呼高露",
+      "topic_id": "231522a3423f4c99d073e290ece364a0cc019a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "爱吃火腿的人天亮了",
+      "rank": 41,
+      "title": "爱吃火腿的人天亮了",
+      "topic_id": "2315222ff6d70d213a5b874c79b97a93318b21"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#周启豪冲击男单决赛#",
+      "rank": 42,
+      "title": "周启豪冲击男单决赛",
+      "topic_id": "2315226f18ed4c491d2aafc25ed0df3339655a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "明知不该买房却想要自己的家",
+      "rank": 43,
+      "title": "明知不该买房却想要自己的家",
+      "topic_id": "2315223eb8d764cd4790af3da5feda9435d5ee"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#S16入围赛抽签结果#",
+      "rank": 44,
+      "title": "S16入围赛抽签结果",
+      "topic_id": "231522d4ab7aac8cee4bd22846fdc70f01370b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "山西佛光寺出头之日冰箱贴火了",
+      "rank": 45,
+      "title": "山西佛光寺出头之日冰箱贴火了",
+      "topic_id": "2315221543234052ca125c73245eb940a377e4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#知否全员最不OOC的一群人#",
+      "rank": 46,
+      "title": "知否全员最不OOC的一群人",
+      "topic_id": "2315226caef59026eb779714f6f4b6af1ec327"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#章子怡宣布卢米埃尔电影节开幕#",
+      "rank": 47,
+      "title": "章子怡宣布卢米埃尔电影节开幕",
+      "topic_id": "231522c629c8577100b6d475ad5d2d8b003ecb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "王楚然接替金晨",
+      "rank": 48,
+      "title": "王楚然接替金晨",
+      "topic_id": "23152247104807467f74bfa5b8a4e710f5fdbc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#76人季前赛38分惨败#",
+      "rank": 49,
+      "title": "76人季前赛38分惨败",
+      "topic_id": "231522da8e1cba8c49fd11e7a607290b174330"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "曝iPhone18标准版推迟",
+      "rank": 50,
+      "title": "曝iPhone18标准版推迟",
+      "topic_id": "231522a4930927c4a6d78b4f17497c7413d009"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
