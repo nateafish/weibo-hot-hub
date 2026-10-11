@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1618051664
   },
-  "last_seen_at": "2026-10-11T09:00:00+08:00",
+  "last_seen_at": "2026-10-11T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%A6%99%E6%B8%AF%E9%AA%A8%E7%81%B0%E7%9B%97%E7%AA%83%E6%A1%88%E7%96%91%E6%B6%89%E8%B7%A8%E5%A2%83%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A2%23%26t%3D3&title=发布媒体",
-    "show_str": "14家媒体",
+    "show_str": "25家媒体",
     "users": [
       {
         "id": 1618051664,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 7590570074,
+        "idstr": "7590570074",
+        "screen_name": "山海视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6590980486,
         "idstr": "6590980486",
         "screen_name": "捉谣记",
@@ -56,13 +63,6 @@
         "screen_name": "新浪种草官",
         "verified": true,
         "verified_type": 7
-      },
-      {
-        "id": 2630281751,
-        "idstr": "2630281751",
-        "screen_name": "快报泰州",
-        "verified": true,
-        "verified_type": 3
       }
     ]
   },

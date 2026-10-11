@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 3266943013
   },
-  "last_seen_at": "2026-10-11T09:00:00+08:00",
+  "last_seen_at": "2026-10-11T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%99%92%E5%A4%AA%E9%98%B3%E8%A1%A5%E7%BB%B4D%E6%9C%80%E5%A5%BD%E9%80%89%E8%BF%99%E4%B8%AA%E6%97%B6%E6%AE%B5%23%26t%3D3&title=发布媒体",
-    "show_str": "28家媒体",
+    "show_str": "50家媒体",
     "users": [
       {
         "id": 3266943013,
@@ -30,6 +30,13 @@
         "verified_type": 3
       },
       {
+        "id": 7555742154,
+        "idstr": "7555742154",
+        "screen_name": "BRTV气象观天下",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 5539777260,
         "idstr": "5539777260",
         "screen_name": "菏泽日报",
@@ -37,30 +44,23 @@
         "verified_type": 3
       },
       {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1891503444,
+        "idstr": "1891503444",
+        "screen_name": "西安日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2105365573,
         "idstr": "2105365573",
         "screen_name": "威海播报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7732575151,
-        "idstr": "7732575151",
-        "screen_name": "东阿融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6444725927,
-        "idstr": "6444725927",
-        "screen_name": "吉祥新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5608027665,
-        "idstr": "5608027665",
-        "screen_name": "中国环境",
         "verified": true,
         "verified_type": 3
       }
