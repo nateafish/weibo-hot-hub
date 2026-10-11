@@ -1,0 +1,537 @@
+{
+  "captured_at": "2026-10-12T02:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 48,
+    "ai_unchanged": 1,
+    "metrics_saved": 50,
+    "posts_saved": 50
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#我们的长征路#",
+      "rank": 1,
+      "title": "我们的长征路",
+      "topic_id": "231522a98722887897a4081a0101d9df7ae432"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "霸王茶姬买一送一",
+      "rank": 1,
+      "title": "霸王茶姬买一送一",
+      "topic_id": "231522e279674ea71b93fa50e2be970e1be339"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#郑钦文就差一个大满贯冠军了#",
+      "rank": 2,
+      "title": "郑钦文就差一个大满贯冠军了",
+      "topic_id": "2315228ab9c774d34ba9d53f88a4a2608e62f7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "本周这些数据值得关注",
+      "rank": 3,
+      "title": "本周这些数据值得关注",
+      "topic_id": "23152289af81eeac8765a3d19d73fb7808257a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "李九 AG",
+      "rank": 4,
+      "title": "李九 AG",
+      "topic_id": "231522fa94378c54addefdd36033f01be8f98b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "李娜 郑钦文",
+      "rank": 5,
+      "title": "李娜 郑钦文",
+      "topic_id": "231522603e7abf4b662b6261d5820099006082"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#身高2.2米巨人网红小玥去世#",
+      "rank": 6,
+      "title": "身高2.2米巨人网红小玥去世",
+      "topic_id": "2315228e49aa46f8e7537de2b27ae0a668b729"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#郑钦文收获明年澳网的种子席位#",
+      "rank": 7,
+      "title": "郑钦文收获明年澳网的种子席位",
+      "topic_id": "231522eccb08e59dfad2dc7cad1f1910f79d9d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#李思潼妆前妆后变化好大#",
+      "rank": 8,
+      "title": "李思潼妆前妆后变化好大",
+      "topic_id": "2315228a60f32ce91ce7c4aca8dc3ee05a910a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "中国女性传统坐姿松弛张扬",
+      "rank": 9,
+      "title": "中国女性传统坐姿松弛张扬",
+      "topic_id": "231522fb0aa3258adf44c08420782ff7cad7cc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#厚本我不是NPC演技#",
+      "rank": 10,
+      "title": "厚本我不是NPC演技",
+      "topic_id": "231522d4e9ddbdeb3b0f91a596d4a90eecef0a"
+    },
+    {
+      "ai": "pending",
+      "metrics": "failed",
+      "metrics_error": "TopicFetchError: Topic detail is missing a stable id or title",
+      "posts": "pending",
+      "query": "社保",
+      "rank": 11,
+      "title": "社保"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#关晓彤回应去宋雨琦演唱会#",
+      "rank": 12,
+      "title": "关晓彤回应去宋雨琦演唱会",
+      "topic_id": "231522cd68a0ae395fc71834163fa0b21f20b6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "解说调侃AG轮换填错",
+      "rank": 13,
+      "title": "解说调侃AG轮换填错",
+      "topic_id": "2315221426e69fd34d79c6c1f9d3a0210f11cb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#记者暗访有偿陪伴服务#",
+      "rank": 14,
+      "title": "记者暗访有偿陪伴服务",
+      "topic_id": "2315226b3ca3ee9e720e4a442da6eba0c3f55f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#央视曝投资1.2亿项目仅建5个棚#",
+      "rank": 15,
+      "title": "央视曝投资1.2亿项目仅建5个棚",
+      "topic_id": "231522c54726b6555d72c413ffbf54de8f9f7f"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#中国人时隔14年再夺1000赛冠军#",
+      "rank": 16,
+      "title": "中国人时隔14年再夺1000赛冠军",
+      "topic_id": "23152287aa74163ecb1a40902ffe9009f0ec90"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#郑钦文中网夺冠捧杯时刻#",
+      "rank": 17,
+      "title": "郑钦文中网夺冠捧杯时刻",
+      "topic_id": "231522f6a8faaee5d1bf61d1d433ac7e2b7735"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "中网奖金",
+      "rank": 18,
+      "title": "中网奖金",
+      "topic_id": "231522db0637f2adb4ab7e95748230a8dcf566"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "网传缅北诈骗盯上泰百粉丝",
+      "rank": 19,
+      "title": "网传缅北诈骗盯上泰百粉丝",
+      "topic_id": "231522e24b633752e49d33182babd78f14348e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "利物浦红牌",
+      "rank": 20,
+      "title": "利物浦红牌",
+      "topic_id": "231522826e3a706b96d415824e1b1e5e65628f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "被骗缅北女孩遭遇惨不忍睹",
+      "rank": 21,
+      "title": "被骗缅北女孩遭遇惨不忍睹",
+      "topic_id": "231522c351b6649f42505c0121079f04e7a195"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#身上出现这样的红点要警惕#",
+      "rank": 22,
+      "title": "身上出现这样的红点要警惕",
+      "topic_id": "2315227830010e2635fd53f7d620d5220d39f9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "姐姐给老弟煮六包线面在外网火了",
+      "rank": 23,
+      "title": "姐姐给老弟煮六包线面在外网火了",
+      "topic_id": "231522fb4f505dd9322113714706d44002b462"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "神兵小将",
+      "rank": 24,
+      "title": "神兵小将",
+      "topic_id": "231522f6f22fc572cc5f91ace362e747bd9e38"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "郑钦文代言",
+      "rank": 25,
+      "title": "郑钦文代言",
+      "topic_id": "231522677c49e324f66568c7dfa18f12defd0d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "老护士辞职后儿科投诉翻倍",
+      "rank": 26,
+      "title": "老护士辞职后儿科投诉翻倍",
+      "topic_id": "2315228a87cae9521f227f03501f9c07e8e9db"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#李冰冰祝贺郑钦文中网夺冠#",
+      "rank": 27,
+      "title": "李冰冰祝贺郑钦文中网夺冠",
+      "topic_id": "23152222c38d396c6c88553724d254e860d5ac"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#保姆被误会勾引男主人#",
+      "rank": 28,
+      "title": "保姆被误会勾引男主人",
+      "topic_id": "2315222b639bb302efff0ff655192255706678"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "一定要频繁的记录和表达自己",
+      "rank": 29,
+      "title": "一定要频繁的记录和表达自己",
+      "topic_id": "2315224be6a9685be19d4e19ee6458f3d3fbc3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "杭州限狗令白天遛狗罚款",
+      "rank": 30,
+      "title": "杭州限狗令白天遛狗罚款",
+      "topic_id": "231522a8e6e41dbf21e810ab57c2227b616e7d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#李九说AG轮换是填错名单#",
+      "rank": 31,
+      "title": "李九说AG轮换是填错名单",
+      "topic_id": "231522b1fc2e78c1c9c41408978dc363038dfe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "郑钦文中网女单夺冠",
+      "rank": 32,
+      "title": "郑钦文中网女单夺冠",
+      "topic_id": "231522d44165ddd3788a1eade0cd306ff7212c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "无畏直播",
+      "rank": 33,
+      "title": "无畏直播",
+      "topic_id": "23152247092b41e40d18b1cb4ff5c5acff7a9d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#利物浦vs曼城#",
+      "rank": 34,
+      "title": "利物浦vs曼城",
+      "topic_id": "231522edade3c5a3411876451013d8be6a04a4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "安德列娃说知道自己叫小米辣",
+      "rank": 35,
+      "title": "安德列娃说知道自己叫小米辣",
+      "topic_id": "231522fb6ccd9c3712cf7c814bfd147bb19d1c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#郑钦文喜欢的中网歌单张韶涵含量拉满#",
+      "rank": 36,
+      "title": "郑钦文喜欢的中网歌单张韶涵含量拉满",
+      "topic_id": "2315221c6ed1cf84f625e386770fc77e8cdc54"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "林娜琏断眉合唱",
+      "rank": 37,
+      "title": "林娜琏断眉合唱",
+      "topic_id": "231522f2abe7182c15ba93e0500ad87af256a7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#AG大师轮换#",
+      "rank": 38,
+      "title": "AG大师轮换",
+      "topic_id": "2315226089e1e99f90a6f4df5149c101b2f042"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#王安宇回复黄景瑜#",
+      "rank": 39,
+      "title": "王安宇回复黄景瑜",
+      "topic_id": "231522939ee72847e92d7cb2697a128dee369c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#威少盛赞郑钦文#",
+      "rank": 40,
+      "title": "威少盛赞郑钦文",
+      "topic_id": "2315226fd6e63af73ddaaae929672fa0649535"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "印度男同事女友是六边形战士",
+      "rank": 41,
+      "title": "印度男同事女友是六边形战士",
+      "topic_id": "2315221368fb4b732008497d09ca2c4e7a2097"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#刘学义林锦岐告别兰香#",
+      "rank": 42,
+      "title": "刘学义林锦岐告别兰香",
+      "topic_id": "23152231afb68eeb4aa9f469dc3a8471436eb8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#周鸿祎攀岩从3米高处摔下#",
+      "rank": 43,
+      "title": "周鸿祎攀岩从3米高处摔下",
+      "topic_id": "231522e850f0af223083741995f2966dc27d9d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#2.2米去世女网红小玥曾被查出脑瘤#",
+      "rank": 44,
+      "title": "2.2米去世女网红小玥曾被查出脑瘤",
+      "topic_id": "2315228581ff8f869e96adeaddcff0378a9e9c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#松岛辉空启蒙教练是中国顶级球员#",
+      "rank": 45,
+      "title": "松岛辉空启蒙教练是中国顶级球员",
+      "topic_id": "231522e3612cae9b545b4fe62215762e3fcdd7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#龚俊F1采访#",
+      "rank": 46,
+      "title": "龚俊F1采访",
+      "topic_id": "2315220469fb36c39979f43c800d3cf029cc1c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "张盛解说漏掉李娜",
+      "rank": 47,
+      "title": "张盛解说漏掉李娜",
+      "topic_id": "231522eaac4ad89500ce653424e1d46d2b37e3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#AG染详对抗路#",
+      "rank": 48,
+      "title": "AG染详对抗路",
+      "topic_id": "231522c050d8e5489812a6f013979dcfe614b1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "拉夏贝尔偷用素人照片",
+      "rank": 49,
+      "title": "拉夏贝尔偷用素人照片",
+      "topic_id": "23152260cb93d4653142c68432405c34184a73"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张雪机车葡萄牙站次回合第3#",
+      "rank": 50,
+      "title": "张雪机车葡萄牙站次回合第3",
+      "topic_id": "23152246661bbab9318a5fda70ffdf0caf737d"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 0.9803921568627451,
+      "metrics": 0.9803921568627451,
+      "posts": 0.9803921568627451
+    }
+  }
+}
