@@ -1,0 +1,536 @@
+{
+  "captured_at": "2026-10-11T19:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 48,
+    "ai_unchanged": 0,
+    "metrics_saved": 49,
+    "posts_saved": 49
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#总书记深情讲述的长征故事与伟大长征精神#",
+      "rank": 1,
+      "title": "总书记深情讲述的长征故事与伟大长征精神",
+      "topic_id": "231522ec35722ff07f53bf0c8ff04436ee7fdb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "退休金一万到底要缴多少社保",
+      "rank": 1,
+      "title": "退休金一万到底要缴多少社保",
+      "topic_id": "2315224dcb274a116d5177b12f56c3a5719f47"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#插队被拒投诉儿科医生的家长已道歉#",
+      "rank": 2,
+      "title": "插队被拒投诉儿科医生的家长已道歉",
+      "topic_id": "231522e7b180d6a7e0f23ab48df4cd79c345dd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#青春华章强农报国#",
+      "rank": 3,
+      "title": "青春华章强农报国",
+      "topic_id": "23152260117ee126db30d9fb7f4b15cf62b4da"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王曼昱夺冠后比出两个1#",
+      "rank": 4,
+      "title": "王曼昱夺冠后比出两个1",
+      "topic_id": "231522a7ddb4d734f61930413829d14be02abb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#丁宁陈梦惊喜现身观战王曼昱决赛#",
+      "rank": 5,
+      "title": "丁宁陈梦惊喜现身观战王曼昱决赛",
+      "topic_id": "23152229f3d3f6d812690922cbe68c69225724"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#尼泊尔再次暴发严重山洪#",
+      "rank": 6,
+      "title": "尼泊尔再次暴发严重山洪",
+      "topic_id": "231522981b69ad039535b21343e2a37a2fab5b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王曼昱说今天这个冠军意义非凡#",
+      "rank": 7,
+      "title": "王曼昱说今天这个冠军意义非凡",
+      "topic_id": "231522ac7fff220e9acf5fd96355edd1feac87"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "中网",
+      "rank": 8,
+      "title": "中网",
+      "topic_id": "231522d1ea42f9ac2dd14f023c2412444c7f32"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "大二专科生称靠切片三年赚七百万",
+      "rank": 9,
+      "title": "大二专科生称靠切片三年赚七百万",
+      "topic_id": "23152294be005ba400369bce8ea6431111515d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王曼昱横扫佐藤瞳#",
+      "rank": 10,
+      "title": "王曼昱横扫佐藤瞳",
+      "topic_id": "231522111855e6ef1d93dff3886d34db13c349"
+    },
+    {
+      "ai": "pending",
+      "metrics": "failed",
+      "metrics_error": "TopicFetchError: Topic detail is missing a stable id or title",
+      "posts": "pending",
+      "query": "社保",
+      "rank": 11,
+      "title": "社保"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#突然不羡慕沐言一家了#",
+      "rank": 12,
+      "title": "突然不羡慕沐言一家了",
+      "topic_id": "2315228d3078cddb8f5ee001f511e04ff1e702"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#王安宇王楚然都以为胡图图姓陈#",
+      "rank": 13,
+      "title": "王安宇王楚然都以为胡图图姓陈",
+      "topic_id": "231522670bcf396444598e4925f5eac551ee3f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "周杰伦被介绍为中国著名歌手",
+      "rank": 14,
+      "title": "周杰伦被介绍为中国著名歌手",
+      "topic_id": "231522727b7f1db73915ef2ee3a0be452dde15"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#蔡文静被已婚男演员担心过于独立#",
+      "rank": 15,
+      "title": "蔡文静被已婚男演员担心过于独立",
+      "topic_id": "23152270e797b2e56fdefb4a21f4a00badc50f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "王曼昱vs佐藤瞳",
+      "rank": 16,
+      "title": "王曼昱vs佐藤瞳",
+      "topic_id": "231522bb98657bd96c42465a794fb3c2e10ec7"
+    },
+    {
+      "ai": "pending",
+      "metrics": "failed",
+      "metrics_error": "TopicFetchError: Topic detail is missing a stable id or title",
+      "posts": "pending",
+      "query": "人民日报评刹车踏板风波",
+      "rank": 17,
+      "title": "人民日报评刹车踏板风波"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王安宇晒与黄景瑜合照#",
+      "rank": 18,
+      "title": "王安宇晒与黄景瑜合照",
+      "topic_id": "231522b81dacd665aa17b99e2f68725597afe6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#张帅回应中网亚军#",
+      "rank": 19,
+      "title": "张帅回应中网亚军",
+      "topic_id": "231522f458f24eddf0f83e27e2e12e7afc9931"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王曼昱佐藤瞳轮换发球制#",
+      "rank": 20,
+      "title": "王曼昱佐藤瞳轮换发球制",
+      "topic_id": "231522d7ad69efffd35c0f26e1fbd5e5526891"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#网店被曝售卖狸花猫毛皮制品#",
+      "rank": 21,
+      "title": "网店被曝售卖狸花猫毛皮制品",
+      "topic_id": "23152215c13793f68f7474079efb5d9bb56775"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "wtt",
+      "rank": 22,
+      "title": "wtt",
+      "topic_id": "231522fe0768d6d455816d9185dd94f564309e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "王曼昱女单冠军",
+      "rank": 23,
+      "title": "王曼昱女单冠军",
+      "topic_id": "231522d139bf70655b83251cfd5f66582e6f3a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "代露娃被导演说没有教养",
+      "rank": 24,
+      "title": "代露娃被导演说没有教养",
+      "topic_id": "2315221f0611d76993971b9cf600d2ce667ff0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "胡歌称拍仙剑三很无聊",
+      "rank": 25,
+      "title": "胡歌称拍仙剑三很无聊",
+      "topic_id": "231522d4f551230221c2974058ca398e3bda5f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#王曼昱希望大家多为中国队加油#",
+      "rank": 26,
+      "title": "王曼昱希望大家多为中国队加油",
+      "topic_id": "2315222b923fc1b6d30f769e7af4a707c129e6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "虞书欣敖瑞鹏 我欲乘风",
+      "rank": 27,
+      "title": "虞书欣敖瑞鹏 我欲乘风",
+      "topic_id": "231522274aa16ee1646283fad0e428eac66c5e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#潘玮柏瘦到穿女装#",
+      "rank": 28,
+      "title": "潘玮柏瘦到穿女装",
+      "topic_id": "2315226823b552b4b6d89d25a1771906357523"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "孩子摘月季被扎后老人挖月季",
+      "rank": 29,
+      "title": "孩子摘月季被扎后老人挖月季",
+      "topic_id": "231522f65c81d2909b03e4033a237c4f711ea3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#代露娃白月梵星后接到的角色都是客串#",
+      "rank": 30,
+      "title": "代露娃白月梵星后接到的角色都是客串",
+      "topic_id": "231522a3a6b8992be7a2c8a78cae181cc1f54b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "拉夏贝尔偷用素人照片",
+      "rank": 31,
+      "title": "拉夏贝尔偷用素人照片",
+      "topic_id": "23152260cb93d4653142c68432405c34184a73"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "上海小伙看完厕所后租下超小卧室",
+      "rank": 32,
+      "title": "上海小伙看完厕所后租下超小卧室",
+      "topic_id": "2315223def43878b1d7e4fc131a2113b759535"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "日本人早餐吃白米饭被老婆吐槽",
+      "rank": 33,
+      "title": "日本人早餐吃白米饭被老婆吐槽",
+      "topic_id": "231522e9a156cd220079bbdffc114a1763c4b6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#HLE选手爆料冠军皮肤#",
+      "rank": 34,
+      "title": "HLE选手爆料冠军皮肤",
+      "topic_id": "231522e6d88b679edf44f7838ac1e0b90a63ec"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "华为被曝将推子品牌星芒",
+      "rank": 35,
+      "title": "华为被曝将推子品牌星芒",
+      "topic_id": "231522ae20e057e1fc9ac53062e420352c9cf8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "李雪在胡歌面前提王凯",
+      "rank": 36,
+      "title": "李雪在胡歌面前提王凯",
+      "topic_id": "23152215eacff0471e756e844415d8a7907928"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#中国大满贯王曼昱双冠#",
+      "rank": 37,
+      "title": "中国大满贯王曼昱双冠",
+      "topic_id": "231522acee1274a1871602b7935f78790fedbb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "养老金待遇削峰填谷",
+      "rank": 38,
+      "title": "养老金待遇削峰填谷",
+      "topic_id": "231522696af493a07da82e5984dc55d926c04e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#外地务工人员2元彩票中500万#",
+      "rank": 39,
+      "title": "外地务工人员2元彩票中500万",
+      "topic_id": "231522bb5d9cdd1ed10c8c9702893f5fc836d8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#2026中网票房1.32亿#",
+      "rank": 40,
+      "title": "2026中网票房1.32亿",
+      "topic_id": "2315222df372c4399419c4076741c543bd619c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "爸妈被骗把骗子气出脏话",
+      "rank": 41,
+      "title": "爸妈被骗把骗子气出脏话",
+      "topic_id": "2315229c3dbcaa3c9f3d590a1a210e0b90782c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#Kanavi冠军皮肤选奇亚娜#",
+      "rank": 42,
+      "title": "Kanavi冠军皮肤选奇亚娜",
+      "topic_id": "231522d134f21bc7636a23821c040c4319fd91"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#郑钦文若夺冠将收获770万奖金#",
+      "rank": 43,
+      "title": "郑钦文若夺冠将收获770万奖金",
+      "topic_id": "23152219fa384650eadb514ae424b5bca544a8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#山姆开心果被倒卖一包能赚28元#",
+      "rank": 44,
+      "title": "山姆开心果被倒卖一包能赚28元",
+      "topic_id": "231522d949a10782bcbe58cc3d16371e0a3700"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "美人余 闻不了老人味",
+      "rank": 45,
+      "title": "美人余 闻不了老人味",
+      "topic_id": "231522a2e1f636dfdb2927430d6307368aae58"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "华裔老两口枪杀女婿案曝惊天细节",
+      "rank": 46,
+      "title": "华裔老两口枪杀女婿案曝惊天细节",
+      "topic_id": "231522c8622ccdc307341e9852538b906743a5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "郑钦文vs安德列娃",
+      "rank": 47,
+      "title": "郑钦文vs安德列娃",
+      "topic_id": "23152253869e37da7acfd6853c9b9ae9efd6c1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#朱正廷的派对厨房夯爆了#",
+      "rank": 48,
+      "title": "朱正廷的派对厨房夯爆了",
+      "topic_id": "2315227659d1cd6bf5c234ae90aee15f12baf0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#张帅组合中网亚军#",
+      "rank": 49,
+      "title": "张帅组合中网亚军",
+      "topic_id": "231522f73e07f7ae50aecda58981012f6f866f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#闫妮自曝离婚后还会去前夫家里打掼蛋#",
+      "rank": 50,
+      "title": "闫妮自曝离婚后还会去前夫家里打掼蛋",
+      "topic_id": "231522c559505fb8fe8b8329bdcebb5c6591bf"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 0.9607843137254902,
+      "metrics": 0.9607843137254902,
+      "posts": 0.9607843137254902
+    }
+  }
+}
