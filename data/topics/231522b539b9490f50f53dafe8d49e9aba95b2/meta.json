@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 1653603955
   },
-  "last_seen_at": "2026-10-11T06:00:00+08:00",
+  "last_seen_at": "2026-10-11T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%A6%99%E6%B8%AF%E8%BF%91%E5%B9%B4%E5%A4%9A%E4%BD%8D%E5%90%8D%E4%BA%BA%E9%AA%A8%E7%81%B0%E8%A2%AB%E7%9B%97%23%26t%3D3&title=发布媒体",
-    "show_str": "7家媒体",
+    "show_str": "20家媒体",
     "users": [
       {
         "id": 1653603955,
         "idstr": "1653603955",
         "screen_name": "扬子晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1314608344,
+        "idstr": "1314608344",
+        "screen_name": "新闻晨报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7476748260,
+        "idstr": "7476748260",
+        "screen_name": "大公文匯網",
         "verified": true,
         "verified_type": 3
       },
@@ -40,27 +61,6 @@
         "id": 2744190984,
         "idstr": "2744190984",
         "screen_name": "家长大学堂",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2576743032,
-        "idstr": "2576743032",
-        "screen_name": "扬子壹财经",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2056346650,
-        "idstr": "2056346650",
-        "screen_name": "中国江苏网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1981141871,
-        "idstr": "1981141871",
-        "screen_name": "扬子汽车",
         "verified": true,
         "verified_type": 3
       }
