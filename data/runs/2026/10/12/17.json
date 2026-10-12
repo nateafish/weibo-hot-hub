@@ -1,0 +1,540 @@
+{
+  "captured_at": "2026-10-12T17:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "degraded",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 24
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#跟着总书记走好新时代的长征路#",
+      "rank": 1,
+      "title": "跟着总书记走好新时代的长征路",
+      "topic_id": "231522fb22019f1b18b562e2fa3f8606b3130d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "爱用洗衣凝珠的人天塌了",
+      "rank": 1,
+      "title": "爱用洗衣凝珠的人天塌了",
+      "topic_id": "231522455cda8cf7fb97739c2292eee43fd1a1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#男子肝癌晚期临终前曾特别想吃冰#",
+      "rank": 2,
+      "title": "男子肝癌晚期临终前曾特别想吃冰",
+      "topic_id": "231522c2fc4e321a11569b72abc66801d43c0c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#红星照耀中国#",
+      "rank": 3,
+      "title": "红星照耀中国",
+      "topic_id": "2315223d27ff94ee1551dabb75e76f2864da9b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝徐良在演唱会上对着嫂子饭撒#",
+      "rank": 4,
+      "title": "曝徐良在演唱会上对着嫂子饭撒",
+      "topic_id": "2315227f6486f7ace4b8b3135a7c5415799c26"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#李娜说打网球是一条很孤单的路#",
+      "rank": 5,
+      "title": "李娜说打网球是一条很孤单的路",
+      "topic_id": "231522a96fce08551f2bc7a166502919a7356c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#刘学义是在想怎么回谭松韵吗#",
+      "rank": 6,
+      "title": "刘学义是在想怎么回谭松韵吗",
+      "topic_id": "2315227a3f352722775e1ba01d4151970c5c2b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "赛力斯涨停",
+      "rank": 7,
+      "title": "赛力斯涨停",
+      "topic_id": "23152202ab0817043e906058721cf1cbf4b0fc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "牛顿顿顿吃肉下联怎么对",
+      "rank": 8,
+      "title": "牛顿顿顿吃肉下联怎么对",
+      "topic_id": "2315226ce6f104c3714d5e890a856a667e4fe9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王楚钦世界排名第5#",
+      "rank": 9,
+      "title": "王楚钦世界排名第5",
+      "topic_id": "231522d5edb713212198dfc207f293dcd0c2eb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#霸王茶姬店员劝退消费者#",
+      "rank": 10,
+      "title": "霸王茶姬店员劝退消费者",
+      "topic_id": "231522ad342788e7867065579770f1dffcccf9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "李佳琦疑似有孩子了",
+      "rank": 11,
+      "title": "李佳琦疑似有孩子了",
+      "topic_id": "231522d8d06234db460decd2416dcc4c5ccbfe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "陈小纭 脸",
+      "rank": 12,
+      "title": "陈小纭 脸",
+      "topic_id": "23152290ec2ef00ba49965c90e113fc21fddc3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "霸王茶姬 涨工资",
+      "rank": 13,
+      "title": "霸王茶姬 涨工资",
+      "topic_id": "23152241a80f932cdd0f4b28530f39983a9079"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#成毅饰演王轩青年王展飞#",
+      "rank": 14,
+      "title": "成毅饰演王轩青年王展飞",
+      "topic_id": "23152296b7b120719f8400f9c719f3f759590a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "演员拍戏 吸甲醛",
+      "rank": 15,
+      "title": "演员拍戏 吸甲醛",
+      "topic_id": "23152288fa4752603038151dcc0a3a82378bd4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#男子与2女子分别办婚宴百日宴#",
+      "rank": 16,
+      "title": "男子与2女子分别办婚宴百日宴",
+      "topic_id": "23152237ce770782692c60909b061610f386e1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#A2O新团出道秀#",
+      "rank": 17,
+      "title": "A2O新团出道秀",
+      "topic_id": "231522a706d3c72fc2d91cd21f98db61beead3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#超长蛋挞下架原因#",
+      "rank": 18,
+      "title": "超长蛋挞下架原因",
+      "topic_id": "23152224041e13f17a8fa083f80e0e70179d4f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#朱一龙高叶彭冠英北影同学聚会#",
+      "rank": 19,
+      "title": "朱一龙高叶彭冠英北影同学聚会",
+      "topic_id": "23152212564dd4f22e45a3e6720a068e8e25a8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "周鸿祎左膝粉碎性骨折恢复期长",
+      "rank": 20,
+      "title": "周鸿祎左膝粉碎性骨折恢复期长",
+      "topic_id": "2315221464b91cf4c6581f7ea1152054fc6461"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#刘宪华演唱会小提琴被调包了#",
+      "rank": 21,
+      "title": "刘宪华演唱会小提琴被调包了",
+      "topic_id": "231522a60e5d5bb33cfc437f6eaab50123eafe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "霸王茶姬",
+      "rank": 22,
+      "title": "霸王茶姬",
+      "topic_id": "2315227a522d21aa4c07208264c6d8430c3c96"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#霸王茶姬接不住爆单犯了低级失误#",
+      "rank": 23,
+      "title": "霸王茶姬接不住爆单犯了低级失误",
+      "topic_id": "2315228cd929c17348d26061bedddc19d35f96"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Expecting value: line 1 column 1 (char 0)",
+      "query": "#郑钦文登长城拍中网冠军写真#",
+      "rank": 24,
+      "title": "郑钦文登长城拍中网冠军写真",
+      "topic_id": "231522ce8fa136ca2fe1fab3d598ccc1dd83d6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Expecting value: line 1 column 1 (char 0)",
+      "query": "#郑钦文退武网官微遭吐槽草台班子#",
+      "rank": 25,
+      "title": "郑钦文退武网官微遭吐槽草台班子",
+      "topic_id": "231522cc46601f1e1cf245df93cba29f9f06f2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Expecting value: line 1 column 1 (char 0)",
+      "query": "#领克轿车翻下百米悬崖车主生还#",
+      "rank": 26,
+      "title": "领克轿车翻下百米悬崖车主生还",
+      "topic_id": "231522f1dcadabe9af01d915b4c97cb495a015"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Expecting value: line 1 column 1 (char 0)",
+      "query": "爸爸姓上官妈妈姓虞小孩叫什么",
+      "rank": 27,
+      "title": "爸爸姓上官妈妈姓虞小孩叫什么",
+      "topic_id": "231522493dd08be27afabeed1f55113225719b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Expecting value: line 1 column 1 (char 0)",
+      "query": "#谭松韵闷声干大事#",
+      "rank": 28,
+      "title": "谭松韵闷声干大事",
+      "topic_id": "23152266a19ca3826e2ca8b2c8298f6fc47527"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Expecting value: line 1 column 1 (char 0)",
+      "query": "#AI短剧正在围猎中年男性#",
+      "rank": 29,
+      "title": "AI短剧正在围猎中年男性",
+      "topic_id": "231522868b3ed810dc40f9b2295aa75f086c22"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Expecting value: line 1 column 1 (char 0)",
+      "query": "#霸王茶姬买一送一赢了订单输了体验#",
+      "rank": 30,
+      "title": "霸王茶姬买一送一赢了订单输了体验",
+      "topic_id": "231522853281a36ad5b9ea2012dc207e2aab53"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Expecting value: line 1 column 1 (char 0)",
+      "query": "化妆刷玉毛居然是猫毛",
+      "rank": 31,
+      "title": "化妆刷玉毛居然是猫毛",
+      "topic_id": "231522175c10dabcfd7978af3fc97bef65aafc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Expecting value: line 1 column 1 (char 0)",
+      "query": "#这才是许兰香和林锦岐的孩子#",
+      "rank": 32,
+      "title": "这才是许兰香和林锦岐的孩子",
+      "topic_id": "231522048d91e3ab198133ce1e2b6827a63551"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Expecting value: line 1 column 1 (char 0)",
+      "query": "#女子晒结婚六金结果万万没想到#",
+      "rank": 33,
+      "title": "女子晒结婚六金结果万万没想到",
+      "topic_id": "231522c4c626fbb25a4d603d6005e65d47552f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Expecting value: line 1 column 1 (char 0)",
+      "query": "#中国天眼发现真实三体系统#",
+      "rank": 34,
+      "title": "中国天眼发现真实三体系统",
+      "topic_id": "231522ff7de27a31776573acda34061e593ec9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Expecting value: line 1 column 1 (char 0)",
+      "query": "#31岁抗癌博主东东离世#",
+      "rank": 35,
+      "title": "31岁抗癌博主东东离世",
+      "topic_id": "23152285ca897d764e9e57e06bef07b8bb0d67"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Expecting value: line 1 column 1 (char 0)",
+      "query": "#smart精灵2号高定版限量开售#",
+      "rank": 36,
+      "title": "smart精灵2号高定版限量开售",
+      "topic_id": "2315222b2392f357807b3650a443f6ca122f4f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Expecting value: line 1 column 1 (char 0)",
+      "query": "#郑钦文退武网年终总决赛基本无望#",
+      "rank": 37,
+      "title": "郑钦文退武网年终总决赛基本无望",
+      "topic_id": "231522ef8f6b75cdfe7c12648222cc7bd1fda5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Expecting value: line 1 column 1 (char 0)",
+      "query": "#买了三个螃蟹吃发了十条朋友圈#",
+      "rank": 38,
+      "title": "买了三个螃蟹吃发了十条朋友圈",
+      "topic_id": "2315228dfd9a59da36a655307caf91f4c8b38d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Expecting value: line 1 column 1 (char 0)",
+      "query": "#霸王茶姬买一送一到底是谁在喝啊#",
+      "rank": 39,
+      "title": "霸王茶姬买一送一到底是谁在喝啊",
+      "topic_id": "2315229a8dd47e9feb21866ea9db0ce11f5622"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Expecting value: line 1 column 1 (char 0)",
+      "query": "#霸王茶姬就崩了致歉#",
+      "rank": 40,
+      "title": "霸王茶姬就崩了致歉",
+      "topic_id": "231522cde4f44a607882a433f79dd0c86ad07d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Expecting value: line 1 column 1 (char 0)",
+      "query": "#央视曝光后松原市紧急开会#",
+      "rank": 41,
+      "title": "央视曝光后松原市紧急开会",
+      "topic_id": "2315229ec21f9fd4b07faf06a4e0ada0661b3d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Expecting value: line 1 column 1 (char 0)",
+      "query": "A2O",
+      "rank": 42,
+      "title": "A2O",
+      "topic_id": "2315222d33e79a0f05f3c1ed25b82d2cb7ef50"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Expecting value: line 1 column 1 (char 0)",
+      "query": "#四无婚礼火了#",
+      "rank": 43,
+      "title": "四无婚礼火了",
+      "topic_id": "23152269da09f05f69d8447827534dfbd424ae"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Expecting value: line 1 column 1 (char 0)",
+      "query": "#A股全天大跌原因#",
+      "rank": 44,
+      "title": "A股全天大跌原因",
+      "topic_id": "231522173274c76e683de5be38df77be997df9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Expecting value: line 1 column 1 (char 0)",
+      "query": "#A股yyds又回来了#",
+      "rank": 45,
+      "title": "A股yyds又回来了",
+      "topic_id": "231522515878c35c1da88f9b51206406981223"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Expecting value: line 1 column 1 (char 0)",
+      "query": "王者荣耀",
+      "rank": 46,
+      "title": "王者荣耀",
+      "topic_id": "231522ccb61d96c8f867d4f6c412e95c4f173a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Expecting value: line 1 column 1 (char 0)",
+      "query": "郑钦文在长城与奖杯合照",
+      "rank": 47,
+      "title": "郑钦文在长城与奖杯合照",
+      "topic_id": "23152282b08f42e9cb67e4edbfe45fdd5d6dc4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Expecting value: line 1 column 1 (char 0)",
+      "query": "#李沁挥拍爆发力绝了#",
+      "rank": 48,
+      "title": "李沁挥拍爆发力绝了",
+      "topic_id": "23152206d2eb13fe8e8556a6ed7ae21ccf01fc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Expecting value: line 1 column 1 (char 0)",
+      "query": "#郑钦文夺冠了三老头互相拥抱#",
+      "rank": 49,
+      "title": "郑钦文夺冠了三老头互相拥抱",
+      "topic_id": "231522760edb683d0ee47cb7888d005140795f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "posts": "failed",
+      "posts_error": "ParseError: Mobile API failed after 5 attempts: Expecting value: line 1 column 1 (char 0)",
+      "query": "#曝晋妈面馆生意惨淡#",
+      "rank": 50,
+      "title": "曝晋妈面馆生意惨淡",
+      "topic_id": "231522b7d917dc09764e5171d71883f4cd3b90"
+    }
+  ],
+  "validation": {
+    "failed": [
+      "posts=47%"
+    ],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 0.47058823529411764
+    }
+  }
+}
