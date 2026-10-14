@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 6074356560
   },
-  "last_seen_at": "2026-10-02T07:00:00+08:00",
+  "last_seen_at": "2026-10-15T05:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%232026KPL%E5%B9%B4%E5%BA%A6%E6%80%BB%E5%86%B3%E8%B5%9B%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "4家媒体",
     "users": [
       {
         "id": 5788578441,
         "idstr": "5788578441",
         "screen_name": "丝路电竞",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1649401391,
+        "idstr": "1649401391",
+        "screen_name": "电子竞技杂志",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2813313591,
+        "idstr": "2813313591",
+        "screen_name": "中新网海南",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2045624511,
+        "idstr": "2045624511",
+        "screen_name": "济南音乐广播Music887",
         "verified": true,
         "verified_type": 3
       }
