@@ -3,10 +3,10 @@
   "created_at": 1791969417,
   "first_seen_at": "2026-10-14T20:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-14T23:00:00+08:00",
+  "last_seen_at": "2026-10-15T01:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%BB%84%E9%9C%84%E9%9B%B2+%E9%92%9F%E6%84%8F%23%26t%3D3&title=发布媒体",
-    "show_str": "15家媒体",
+    "show_str": "16家媒体",
     "users": [
       {
         "id": 1642591402,
@@ -19,6 +19,13 @@
         "id": 1497087080,
         "idstr": "1497087080",
         "screen_name": "羊城晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7422806367,
+        "idstr": "7422806367",
+        "screen_name": "中网传播",
         "verified": true,
         "verified_type": 3
       },
@@ -47,13 +54,6 @@
         "id": 7723774651,
         "idstr": "7723774651",
         "screen_name": "星财经Pro",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7723617113,
-        "idstr": "7723617113",
-        "screen_name": "星娱乐star",
         "verified": true,
         "verified_type": 3
       }
