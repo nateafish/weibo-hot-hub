@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 3229962754
   },
-  "last_seen_at": "2026-10-15T06:00:00+08:00",
+  "last_seen_at": "2026-10-15T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%99%88%E5%B0%8F%E6%98%A5%E5%92%8C%E7%96%91%E4%BC%BC%E5%BC%9F%E5%BC%9F%E8%80%B3%E6%9C%B5%E9%83%BD%E6%9C%89%E4%B8%AA%E7%AA%9D%E7%97%95%23%26t%3D3&title=发布媒体",
-    "show_str": "27家媒体",
+    "show_str": "29家媒体",
     "users": [
       {
         "id": 3229962754,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1789681642,
         "idstr": "1789681642",
         "screen_name": "第一现场",
@@ -54,13 +61,6 @@
         "id": 2460937233,
         "idstr": "2460937233",
         "screen_name": "热度新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2252846093,
-        "idstr": "2252846093",
-        "screen_name": "长春新闻",
         "verified": true,
         "verified_type": 3
       }
