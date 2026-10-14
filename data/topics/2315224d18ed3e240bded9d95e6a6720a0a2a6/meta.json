@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 3229962754
   },
-  "last_seen_at": "2026-10-14T22:00:00+08:00",
+  "last_seen_at": "2026-10-14T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%99%88%E5%B0%8F%E6%98%A5%E5%92%8C%E7%96%91%E4%BC%BC%E5%BC%9F%E5%BC%9F%E8%80%B3%E6%9C%B5%E9%83%BD%E6%9C%89%E4%B8%AA%E7%AA%9D%E7%97%95%23%26t%3D3&title=发布媒体",
-    "show_str": "11家媒体",
+    "show_str": "22家媒体",
     "users": [
       {
         "id": 3229962754,
         "idstr": "3229962754",
         "screen_name": "陕视新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2356298087,
+        "idstr": "2356298087",
+        "screen_name": "河北经视",
         "verified": true,
         "verified_type": 3
       },
@@ -37,16 +44,9 @@
         "verified_type": 3
       },
       {
-        "id": 7516679696,
-        "idstr": "7516679696",
-        "screen_name": "九派新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2647971081,
-        "idstr": "2647971081",
-        "screen_name": "时速新闻",
+        "id": 2460937233,
+        "idstr": "2460937233",
+        "screen_name": "热度新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -58,9 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1931238691,
-        "idstr": "1931238691",
-        "screen_name": "先锋新闻",
+        "id": 1734530730,
+        "idstr": "1734530730",
+        "screen_name": "大河报",
         "verified": true,
         "verified_type": 3
       }

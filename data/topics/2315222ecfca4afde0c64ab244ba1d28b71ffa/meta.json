@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 5951219126
   },
-  "last_seen_at": "2026-10-14T22:00:00+08:00",
+  "last_seen_at": "2026-10-14T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%82%96%E6%88%98%E7%9A%84%E7%83%A6%E6%81%BC%23%26t%3D3&title=发布媒体",
-    "show_str": "15家媒体",
+    "show_str": "20家媒体",
     "users": [
       {
         "id": 2992050891,
         "idstr": "2992050891",
         "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 7708039348,
+        "idstr": "7708039348",
+        "screen_name": "北青娱见",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7352760311,
         "idstr": "7352760311",
         "screen_name": "见智财经",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6248544856,
-        "idstr": "6248544856",
-        "screen_name": "贝果财经",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3229962754,
-        "idstr": "3229962754",
-        "screen_name": "陕视新闻",
         "verified": true,
         "verified_type": 3
       }
