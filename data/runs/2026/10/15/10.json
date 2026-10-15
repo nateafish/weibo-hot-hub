@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-10-15T10:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 2,
+    "ai_saved": 49,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#习近平向第140届中国进出口商品交易会致贺信#",
+      "rank": 1,
+      "title": "习近平向第140届中国进出口商品交易会致贺信",
+      "topic_id": "23152218e612ec71ec880242b76196d541f81f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "豆包对低认知人群有权威性",
+      "rank": 1,
+      "title": "豆包对低认知人群有权威性",
+      "topic_id": "2315220abc631196293a561682053ac0364eda"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "知否里的台词值得全文背诵",
+      "rank": 2,
+      "title": "知否里的台词值得全文背诵",
+      "topic_id": "2315229c6a74879e8da13d9f6997ab609b6434"
+    },
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#把保障人民健康融入各项政策#",
+      "rank": 3,
+      "title": "把保障人民健康融入各项政策",
+      "topic_id": "2315223b6e14c244c9466871ae0fe97fb41622"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#大麦公布肖战演唱会可售票数#",
+      "rank": 4,
+      "title": "大麦公布肖战演唱会可售票数",
+      "topic_id": "2315224b2964d1b7444b562442861a2d231733"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#黄牛回应演唱会门票被炒至25万#",
+      "rank": 5,
+      "title": "黄牛回应演唱会门票被炒至25万",
+      "topic_id": "231522a34d430d15b262fb471da8bc0c6d8187"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#美AI科技股暴跌#",
+      "rank": 6,
+      "title": "美AI科技股暴跌",
+      "topic_id": "2315220788c5a82ff17fe760f61daa2eb7bf94"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#代驾没开车就把钱挣了#",
+      "rank": 7,
+      "title": "代驾没开车就把钱挣了",
+      "topic_id": "2315221a818395d7b07194d85b55f9485202a1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#千万新房当嫁妆被陌生人拆成毛坯#",
+      "rank": 8,
+      "title": "千万新房当嫁妆被陌生人拆成毛坯",
+      "topic_id": "231522cbae99908c3097d01e98e93caa95abf9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#肖战演唱会南京站批文#",
+      "rank": 9,
+      "title": "肖战演唱会南京站批文",
+      "topic_id": "2315226e39754a93bac65509b7b33c77a2694a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#皇马7分43秒连轰3球#",
+      "rank": 10,
+      "title": "皇马7分43秒连轰3球",
+      "topic_id": "2315222400c2c7b455348a82a1459c385c99f5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#陈小春爸妈认识前结过婚有孩子#",
+      "rank": 11,
+      "title": "陈小春爸妈认识前结过婚有孩子",
+      "topic_id": "231522e5b4ab2f6473ead7268efb69fb94efa8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#蒋劲夫过上了他想要的生活#",
+      "rank": 12,
+      "title": "蒋劲夫过上了他想要的生活",
+      "topic_id": "2315229ec71637be5c5f13821046d087a50342"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "香港香烟包装",
+      "rank": 13,
+      "title": "香港香烟包装",
+      "topic_id": "2315229b90ca2564430d3120413f4550fb5a09"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "金晨自曝中专被叫垃圾婆",
+      "rank": 14,
+      "title": "金晨自曝中专被叫垃圾婆",
+      "topic_id": "2315223231a8d46b6d715ee3e042f21391691d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "宝蓝结婚",
+      "rank": 15,
+      "title": "宝蓝结婚",
+      "topic_id": "2315229da6ecdd74d9868df46f6b50a7ad019c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#韩股熔断日股大跌#",
+      "rank": 16,
+      "title": "韩股熔断日股大跌",
+      "topic_id": "231522d663a75e510d8e56ed991c95b6176dc1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#陈小春评论区#",
+      "rank": 17,
+      "title": "陈小春评论区",
+      "topic_id": "2315226e0f6a2880f8dd68d6ea949fb5b1cecc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#程潇主演等风热吻你#",
+      "rank": 18,
+      "title": "程潇主演等风热吻你",
+      "topic_id": "231522690e05f6f3e06f3742648377d56833aa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#国行iPhone接入通义千问#",
+      "rank": 19,
+      "title": "国行iPhone接入通义千问",
+      "topic_id": "231522634fa8fdf3df6a383495699eb22ea3a8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#杨利伟首飞太空曾经历生死26秒#",
+      "rank": 20,
+      "title": "杨利伟首飞太空曾经历生死26秒",
+      "topic_id": "231522c68d76021138d71a6b28fa01dc4f0327"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "DeepSeek崩了",
+      "rank": 21,
+      "title": "DeepSeek崩了",
+      "topic_id": "2315225039beb8e2d6d05cc99b47075295ecf4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "女孩月经量大补铁食补",
+      "rank": 22,
+      "title": "女孩月经量大补铁食补",
+      "topic_id": "231522ed618720db8f53636e43edcf6a953d01"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "柯淳余茵 好一个乖乖女",
+      "rank": 23,
+      "title": "柯淳余茵 好一个乖乖女",
+      "topic_id": "2315229a14df6af091dd937d6fb2335764e33e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "现在油车都跌成这样了",
+      "rank": 24,
+      "title": "现在油车都跌成这样了",
+      "topic_id": "231522326fd93d63603dba3c969309ac70c76e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "爱情公寓捏方便面梗笑不出来了",
+      "rank": 25,
+      "title": "爱情公寓捏方便面梗笑不出来了",
+      "topic_id": "2315223b5923c2c1310c139ecbee85f73833f4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "好一个乖乖女热度登顶",
+      "rank": 26,
+      "title": "好一个乖乖女热度登顶",
+      "topic_id": "23152204719bf2ba0b13acb5b939b0d98e0883"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "96岁老人独自坐43小时进西藏",
+      "rank": 27,
+      "title": "96岁老人独自坐43小时进西藏",
+      "topic_id": "2315222c406d7c8667aa26799a18eabfe0e896"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#男子健身冻了一冰柜熟土豆#",
+      "rank": 28,
+      "title": "男子健身冻了一冰柜熟土豆",
+      "topic_id": "231522114137de06103269e3206fd2b30bcb17"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "阿Sa被张致恒欠债风波气到叹气",
+      "rank": 29,
+      "title": "阿Sa被张致恒欠债风波气到叹气",
+      "topic_id": "23152297e7c81c857b6f35d595afbaa8ba1208"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#aijing母亲道歉#",
+      "rank": 30,
+      "title": "aijing母亲道歉",
+      "topic_id": "231522f33ba9b544779489c9ef9d56e5a2b8a5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#Puff自曝已离婚#",
+      "rank": 31,
+      "title": "Puff自曝已离婚",
+      "topic_id": "231522d0f686c4a32a6fe664fc6948442c26f3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#G社拍的郑钦文#",
+      "rank": 32,
+      "title": "G社拍的郑钦文",
+      "topic_id": "231522823fdb9ab112f64fa539868390f32b83"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "母亲没争抚养权想住儿子家",
+      "rank": 33,
+      "title": "母亲没争抚养权想住儿子家",
+      "topic_id": "23152233a7f7e92841aa36d80cf7f3e469caa7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "DeepSeek又崩了",
+      "rank": 34,
+      "title": "DeepSeek又崩了",
+      "topic_id": "231522dd0fdeadb048b98eaa3f5c5afb546a96"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#Puff回应离婚#",
+      "rank": 35,
+      "title": "Puff回应离婚",
+      "topic_id": "231522867eae5b14fab84a2c2b478d9b3ff118"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#网传李飞朋友圈#",
+      "rank": 36,
+      "title": "网传李飞朋友圈",
+      "topic_id": "231522f9ced9481d0172c4e49f9a18c7c47233"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#狗被提着一路偷吃油条没被发现#",
+      "rank": 37,
+      "title": "狗被提着一路偷吃油条没被发现",
+      "topic_id": "231522b6cf2c9febe0ebbb24f6c97104cd09bc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "人赚不到认知以外的钱",
+      "rank": 38,
+      "title": "人赚不到认知以外的钱",
+      "topic_id": "231522cf41a8b05ad23273ab4db9900626c331"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#7天6夜堵截蒙古国火灾330余公里#",
+      "rank": 39,
+      "title": "7天6夜堵截蒙古国火灾330余公里",
+      "topic_id": "23152245e614758716a732d1235462bda471ae"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#高原否认插足王菲窦唯的婚姻#",
+      "rank": 40,
+      "title": "高原否认插足王菲窦唯的婚姻",
+      "topic_id": "2315228a009d847551360f2a66c7ae67f9ed67"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#勇士官宣波尔津吉斯无限期缺阵#",
+      "rank": 41,
+      "title": "勇士官宣波尔津吉斯无限期缺阵",
+      "topic_id": "231522da15bcbe65bd7b9e6421d41709a4004a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#小沈阳炖3袋排骨5分钟就被抢光#",
+      "rank": 42,
+      "title": "小沈阳炖3袋排骨5分钟就被抢光",
+      "topic_id": "2315226143b8a79f4c3eaa545e47e9345bd4dd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#1岁宝宝误食含老鼠药鸡蛋父亲发声#",
+      "rank": 43,
+      "title": "1岁宝宝误食含老鼠药鸡蛋父亲发声",
+      "topic_id": "2315221c704ae3eb48da5fa11e90752c0b51f4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#等风热吻你主演阵容#",
+      "rank": 44,
+      "title": "等风热吻你主演阵容",
+      "topic_id": "2315222ff328d5323ba9fcc1f18c44e7ea4594"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#34岁女子坠井遇难居民提供事发视频#",
+      "rank": 45,
+      "title": "34岁女子坠井遇难居民提供事发视频",
+      "topic_id": "231522b043908f7ff6039564114cfa393bc7b5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#原来农村的柴火灶已经这么有型了#",
+      "rank": 46,
+      "title": "原来农村的柴火灶已经这么有型了",
+      "topic_id": "231522c55605ac354ed99bea564f02dcd89cdb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#闫妮做宣传而已太累了可不好#",
+      "rank": 47,
+      "title": "闫妮做宣传而已太累了可不好",
+      "topic_id": "2315220f2011090724ce419b27f0d74d8523db"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "老师校外偶遇学生假装没看见",
+      "rank": 48,
+      "title": "老师校外偶遇学生假装没看见",
+      "topic_id": "231522ffc20c33e49dbe2f3560558891e452a9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 4,
+      "posts": "saved",
+      "query": "飞机后排自称腿长好好笑",
+      "rank": 49,
+      "title": "飞机后排自称腿长好好笑",
+      "topic_id": "231522a632a59fff20ed7c4487827887369a55"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#雷军官宣小米汽车北方冬季六重保障#",
+      "rank": 50,
+      "title": "雷军官宣小米汽车北方冬季六重保障",
+      "topic_id": "231522d933c6da56ef5c50f660b9eb6ea5af87"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
