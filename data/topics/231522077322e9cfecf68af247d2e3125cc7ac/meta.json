@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 3266943013
   },
-  "last_seen_at": "2026-10-15T12:00:00+08:00",
+  "last_seen_at": "2026-10-15T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%2370%E5%91%A8%E5%B9%B4%E5%B9%BF%E4%BA%A4%E4%BC%9A%E6%96%B0%E7%8E%A9%E6%B3%95%23%26t%3D3&title=发布媒体",
-    "show_str": "9家媒体",
+    "show_str": "15家媒体",
     "users": [
+      {
+        "id": 3266943013,
+        "idstr": "3266943013",
+        "screen_name": "央视网",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2685336121,
         "idstr": "2685336121",
         "screen_name": "南宁晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1887790981,
+        "idstr": "1887790981",
+        "screen_name": "广州日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1736708753,
+        "idstr": "1736708753",
+        "screen_name": "珠海特区报",
         "verified": true,
         "verified_type": 3
       },
@@ -37,30 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 3266943013,
-        "idstr": "3266943013",
-        "screen_name": "央视网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2014655005,
-        "idstr": "2014655005",
-        "screen_name": "玉林广播电视台",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2001789077,
-        "idstr": "2001789077",
-        "screen_name": "兵团日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1959444680,
-        "idstr": "1959444680",
-        "screen_name": "云南网",
+        "id": 3037284894,
+        "idstr": "3037284894",
+        "screen_name": "经济日报",
         "verified": true,
         "verified_type": 3
       }
