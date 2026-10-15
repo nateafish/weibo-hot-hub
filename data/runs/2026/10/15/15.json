@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-10-15T15:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 1,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#中国第一展广交会的魅力#",
+      "rank": 1,
+      "title": "中国第一展广交会的魅力",
+      "topic_id": "231522fe01ebdb75eaa28be65f546a2f765c65"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "老外来中国不用微信也能支付",
+      "rank": 1,
+      "title": "老外来中国不用微信也能支付",
+      "topic_id": "2315227960de5520db866577216f101df65c92"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "减肥拿到了大结果",
+      "rank": 2,
+      "title": "减肥拿到了大结果",
+      "topic_id": "231522467694c08f87835816fc527e240a0f00"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 5,
+      "posts": "saved",
+      "query": "#10封书信读懂用命换命的信任#",
+      "rank": 3,
+      "title": "10封书信读懂用命换命的信任",
+      "topic_id": "231522edef48ac9666b114699cc81c0272909c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#李嘉诚现年98岁#",
+      "rank": 4,
+      "title": "李嘉诚现年98岁",
+      "topic_id": "231522f426fadbc48c7d198142f739c7418dcc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#Tim父亲出任影视飓风董事长#",
+      "rank": 5,
+      "title": "Tim父亲出任影视飓风董事长",
+      "topic_id": "231522d59112a6fb5cc6e149a1c7b2290a699b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#肖战大麦演唱会想看人数历史总榜第4#",
+      "rank": 6,
+      "title": "肖战大麦演唱会想看人数历史总榜第4",
+      "topic_id": "231522138510b6595cd8bf2bbbb37e95dd97d4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#70周年广交会新玩法#",
+      "rank": 7,
+      "title": "70周年广交会新玩法",
+      "topic_id": "231522077322e9cfecf68af247d2e3125cc7ac"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#全球股市大跌原因找到了#",
+      "rank": 8,
+      "title": "全球股市大跌原因找到了",
+      "topic_id": "231522133eca7939bf3bb62e8508a8daf1b1c8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "保时捷MissionS曝光",
+      "rank": 9,
+      "title": "保时捷MissionS曝光",
+      "topic_id": "231522fce237d1ce3fa959438a0616aa60e1f0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#appstore正式进入字节时代#",
+      "rank": 10,
+      "title": "appstore正式进入字节时代",
+      "topic_id": "2315228cb2370a92da62dee5d2e55bd1becf9a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#中朝新鸭绿江大桥为何如此重要#",
+      "rank": 11,
+      "title": "中朝新鸭绿江大桥为何如此重要",
+      "topic_id": "231522832f1c391478de9f9170fbb382df127c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#陈小春紧急上线查看#",
+      "rank": 12,
+      "title": "陈小春紧急上线查看",
+      "topic_id": "231522915d4398017aa69641ac46cf650b4c57"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#黄牛票来源曝光#",
+      "rank": 13,
+      "title": "黄牛票来源曝光",
+      "topic_id": "231522c3ca99f84e056822c51fd88ce90318c6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "豆包对低认知人群有权威性",
+      "rank": 14,
+      "title": "豆包对低认知人群有权威性",
+      "topic_id": "2315220abc631196293a561682053ac0364eda"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#大冰说李一桐内心特别强大#",
+      "rank": 15,
+      "title": "大冰说李一桐内心特别强大",
+      "topic_id": "2315228d64c0d97c45123f5d1f93a4d6b8f485"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#黄泽林承认与陈奕迅女儿分手#",
+      "rank": 16,
+      "title": "黄泽林承认与陈奕迅女儿分手",
+      "topic_id": "23152200a6fd6e49efebded9e0fcd771fc72e3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#长实否认李嘉诚逝世#",
+      "rank": 17,
+      "title": "长实否认李嘉诚逝世",
+      "topic_id": "2315225de591b7d7942321173f8d15d0a1a886"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#蒋劲夫过上了他想要的生活#",
+      "rank": 18,
+      "title": "蒋劲夫过上了他想要的生活",
+      "topic_id": "2315229ec71637be5c5f13821046d087a50342"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#A股跌破3700点主要受外围影响#",
+      "rank": 19,
+      "title": "A股跌破3700点主要受外围影响",
+      "topic_id": "231522aa9d8ca79181432a8b9238660d14a906"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#韩国紧急就股市发声#",
+      "rank": 20,
+      "title": "韩国紧急就股市发声",
+      "topic_id": "23152236ddd696db3a53a4bd903b8839a2fbe2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#ZUIAN第三次面签没过#",
+      "rank": 21,
+      "title": "ZUIAN第三次面签没过",
+      "topic_id": "231522f458e08a38621cf90a923b6b150ff66b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#男子刷短视频误触广告被扣7万元#",
+      "rank": 22,
+      "title": "男子刷短视频误触广告被扣7万元",
+      "topic_id": "231522c688f4f6885607586c3b78a3aeb6e895"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#全球热抢到票了吗#",
+      "rank": 23,
+      "title": "全球热抢到票了吗",
+      "topic_id": "231522e5eafbdccdd6ee1148fda61913fc5d76"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#大麦公布肖战演唱会可售票数#",
+      "rank": 24,
+      "title": "大麦公布肖战演唱会可售票数",
+      "topic_id": "2315224b2964d1b7444b562442861a2d231733"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "找对象要找社会化程度高的人",
+      "rank": 25,
+      "title": "找对象要找社会化程度高的人",
+      "topic_id": "231522d41d2a17e340478f2fb6008493992873"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#万元大奖还能这样花#",
+      "rank": 26,
+      "title": "万元大奖还能这样花",
+      "topic_id": "2315221412817a5f74d3c7716dc32a698fc3a5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "建议大家尽量不要长期待在家里",
+      "rank": 27,
+      "title": "建议大家尽量不要长期待在家里",
+      "topic_id": "231522d2fd31147bbbfc756bbf603336331cf8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#第一次见啃苹果卡嘴要到医院取出#",
+      "rank": 28,
+      "title": "第一次见啃苹果卡嘴要到医院取出",
+      "topic_id": "2315226c639c3cd0b7a36203ff67cddbdea3e4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "现在油车都跌成这样了",
+      "rank": 29,
+      "title": "现在油车都跌成这样了",
+      "topic_id": "231522326fd93d63603dba3c969309ac70c76e"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#国考报名要求电子社保卡等实名认证#",
+      "rank": 30,
+      "title": "国考报名要求电子社保卡等实名认证",
+      "topic_id": "231522b1ef75da2a4c7973a3787876fa70947d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#陈小春直言不会把送走的弟弟找回来#",
+      "rank": 31,
+      "title": "陈小春直言不会把送走的弟弟找回来",
+      "topic_id": "231522ebc77f5b7c56d01ad5a1d221a88cc540"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#ZUIAN的B签还是没过#",
+      "rank": 32,
+      "title": "ZUIAN的B签还是没过",
+      "topic_id": "23152268f592909ed058edee52e09016b7cad1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#千万新房当嫁妆被陌生人拆成毛坯#",
+      "rank": 33,
+      "title": "千万新房当嫁妆被陌生人拆成毛坯",
+      "topic_id": "231522cbae99908c3097d01e98e93caa95abf9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#内娱学历李健排第一#",
+      "rank": 34,
+      "title": "内娱学历李健排第一",
+      "topic_id": "23152235ee6405f28e4b619c8ecc2dc4503b07"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#紫薇小燕子合体了#",
+      "rank": 35,
+      "title": "紫薇小燕子合体了",
+      "topic_id": "231522420d306f414af349655b9a94f0e9a59d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#天价黄牛票是从哪来的#",
+      "rank": 36,
+      "title": "天价黄牛票是从哪来的",
+      "topic_id": "2315222809d74fbca03302060eb47fb13acde3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "兰香电视剧到底在歌颂什么",
+      "rank": 37,
+      "title": "兰香电视剧到底在歌颂什么",
+      "topic_id": "23152273f3976220607b0c618382999f6d8222"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#井柏然孙千现身早春晴朗研讨会#",
+      "rank": 38,
+      "title": "井柏然孙千现身早春晴朗研讨会",
+      "topic_id": "23152230a0c4f19a615ea92c87ccca204a88b0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#黄金直线反弹#",
+      "rank": 39,
+      "title": "黄金直线反弹",
+      "topic_id": "231522d8adc9e0e19eada754528b780cc03440"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#小城良方的宣发太有才了#",
+      "rank": 40,
+      "title": "小城良方的宣发太有才了",
+      "topic_id": "2315220f096b522f951f540237d368f51fc61f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#徐梦洁余茵乖乖女完全两个感觉#",
+      "rank": 41,
+      "title": "徐梦洁余茵乖乖女完全两个感觉",
+      "topic_id": "231522b467e2abc82dc3df16995be90b43f8c5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#TES帮助ZUIAN申请P签#",
+      "rank": 42,
+      "title": "TES帮助ZUIAN申请P签",
+      "topic_id": "231522880fdaa9643050dcaca0d4f9ee3b12b5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#国补还没领明白的人集合#",
+      "rank": 43,
+      "title": "国补还没领明白的人集合",
+      "topic_id": "2315224dd73052d33a8bb48db65508bc65f11e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "袁咏仪 不能拿我跟蔡少芬比普通话",
+      "rank": 44,
+      "title": "袁咏仪 不能拿我跟蔡少芬比普通话",
+      "topic_id": "231522670083244c5d65cc9e8d7a8462c325fc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "全球股市大跌",
+      "rank": 45,
+      "title": "全球股市大跌",
+      "topic_id": "23152282eeaf5f131e28a37941f12eb1ba0c6b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#物业回应千万新房被陌生人拆成毛坯#",
+      "rank": 46,
+      "title": "物业回应千万新房被陌生人拆成毛坯",
+      "topic_id": "23152200d8f1f05aa89acbea1173dca06717dd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#崔晋换掉与李勒优同框背景图#",
+      "rank": 47,
+      "title": "崔晋换掉与李勒优同框背景图",
+      "topic_id": "231522fd78760ac1ead0f7da8b6a3ba2736e6b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#蒋劲夫回应长期保持6%左右的体脂率#",
+      "rank": 48,
+      "title": "蒋劲夫回应长期保持6%左右的体脂率",
+      "topic_id": "2315220bb40ee51e7be6955139890b6b858161"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#陈哲远蒋欣新剧空降#",
+      "rank": 49,
+      "title": "陈哲远蒋欣新剧空降",
+      "topic_id": "231522841152da8aa8c0dba678a68cd3b3f3d7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#梅艳芳骨灰被盗求助多人爱答不理#",
+      "rank": 50,
+      "title": "梅艳芳骨灰被盗求助多人爱答不理",
+      "topic_id": "23152274a9a275cdfbb79e27a239a19115d299"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
