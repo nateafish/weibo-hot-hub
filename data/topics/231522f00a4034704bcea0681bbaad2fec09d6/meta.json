@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1499104401
   },
-  "last_seen_at": "2026-10-15T17:00:00+08:00",
+  "last_seen_at": "2026-10-15T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%B3%B0%E5%9B%BD%E7%8E%8B%E5%90%8E%E7%8B%AC%E8%87%AA%E9%A9%BE%E9%A9%B6%E9%A3%9E%E6%9C%BA%E5%8E%BB%E6%97%A5%E6%9C%AC%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "6家媒体",
     "users": [
       {
         "id": 2950854882,
@@ -30,6 +30,13 @@
         "verified_type": 3
       },
       {
+        "id": 2647971081,
+        "idstr": "2647971081",
+        "screen_name": "时速新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2252846093,
         "idstr": "2252846093",
         "screen_name": "长春新闻",
@@ -40,6 +47,13 @@
         "id": 1821499183,
         "idstr": "1821499183",
         "screen_name": "大连日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1681029540,
+        "idstr": "1681029540",
+        "screen_name": "新民周刊",
         "verified": true,
         "verified_type": 3
       }

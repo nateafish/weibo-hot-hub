@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 6343916471
   },
-  "last_seen_at": "2026-10-15T17:00:00+08:00",
+  "last_seen_at": "2026-10-15T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%BB%84%E5%AD%90%E9%9F%AC%E6%97%A9%E5%9C%A8%E7%BB%BC%E8%89%BA%E9%87%8C%E6%9A%97%E7%A4%BA%E8%BF%87%E6%9C%89%E5%84%BF%E5%AD%90%23%26t%3D3&title=发布媒体",
-    "show_str": "42家媒体",
+    "show_str": "45家媒体",
     "users": [
       {
         "id": 2346437860,
         "idstr": "2346437860",
         "screen_name": "三峡融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1734530730,
+        "idstr": "1734530730",
+        "screen_name": "大河报",
         "verified": true,
         "verified_type": 3
       },
@@ -37,13 +44,6 @@
         "verified_type": 3
       },
       {
-        "id": 2075245652,
-        "idstr": "2075245652",
-        "screen_name": "长春晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 1700720163,
         "idstr": "1700720163",
         "screen_name": "钱江晚报",
@@ -58,9 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1734530730,
-        "idstr": "1734530730",
-        "screen_name": "大河报",
+        "id": 1043320390,
+        "idstr": "1043320390",
+        "screen_name": "半岛晨报",
         "verified": true,
         "verified_type": 3
       }

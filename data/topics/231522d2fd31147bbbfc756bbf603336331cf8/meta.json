@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 6934599961
   },
-  "last_seen_at": "2026-10-15T17:00:00+08:00",
+  "last_seen_at": "2026-10-15T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E5%B0%BD%E9%87%8F%E4%B8%8D%E8%A6%81%E9%95%BF%E6%9C%9F%E5%BE%85%E5%9C%A8%E5%AE%B6%E9%87%8C%23%26t%3D3&title=发布媒体",
-    "show_str": "17家媒体",
+    "show_str": "20家媒体",
     "users": [
       {
         "id": 7202439638,
         "idstr": "7202439638",
         "screen_name": "乐陵融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5652470745,
+        "idstr": "5652470745",
+        "screen_name": "广西都市频道",
         "verified": true,
         "verified_type": 3
       },
@@ -54,13 +61,6 @@
         "id": 2291471981,
         "idstr": "2291471981",
         "screen_name": "济宁新闻网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1926909715,
-        "idstr": "1926909715",
-        "screen_name": "第一财经日报",
         "verified": true,
         "verified_type": 3
       }

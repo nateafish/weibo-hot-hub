@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1744332207
   },
-  "last_seen_at": "2026-10-15T17:00:00+08:00",
+  "last_seen_at": "2026-10-15T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A5%B3%E5%AD%90%E4%B9%B0iPhone18Pro%E8%A2%AB5%E5%90%8D%E9%AA%91%E6%89%8B%E5%86%92%E9%A2%86%E5%BF%AB%E9%80%92%23%26t%3D3&title=发布媒体",
-    "show_str": "43家媒体",
+    "show_str": "47家媒体",
     "users": [
       {
         "id": 1744332207,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 1651428902,
+        "idstr": "1651428902",
+        "screen_name": "21世纪经济报道",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1642088277,
         "idstr": "1642088277",
         "screen_name": "财经网",
@@ -54,13 +61,6 @@
         "id": 7575030448,
         "idstr": "7575030448",
         "screen_name": "白鹿视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7572918188,
-        "idstr": "7572918188",
-        "screen_name": "新华网财经",
         "verified": true,
         "verified_type": 3
       }

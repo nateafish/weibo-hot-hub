@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 1618051664
   },
-  "last_seen_at": "2026-10-15T17:00:00+08:00",
+  "last_seen_at": "2026-10-15T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9D%8E%E5%98%89%E8%AF%9A%E6%9A%82%E4%B8%8D%E6%89%93%E7%AE%97%E5%9B%9E%E5%BA%94%E5%8E%BB%E4%B8%96%E4%BC%A0%E9%97%BB%23%26t%3D3&title=发布媒体",
-    "show_str": "42家媒体",
+    "show_str": "52家媒体",
     "users": [
       {
         "id": 1618051664,
         "idstr": "1618051664",
         "screen_name": "头条新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7476748260,
+        "idstr": "7476748260",
+        "screen_name": "大公文匯網",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -49,20 +63,6 @@
         "screen_name": "掌上温岭",
         "verified": true,
         "verified_type": 3
-      },
-      {
-        "id": 6590980486,
-        "idstr": "6590980486",
-        "screen_name": "捉谣记",
-        "verified": true,
-        "verified_type": 7
-      },
-      {
-        "id": 6092578444,
-        "idstr": "6092578444",
-        "screen_name": "新浪种草官",
-        "verified": true,
-        "verified_type": 7
       }
     ]
   },
