@@ -3,11 +3,18 @@
   "created_at": 1792052087,
   "first_seen_at": "2026-10-15T17:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-15T18:00:00+08:00",
+  "last_seen_at": "2026-10-15T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%BE%88%E5%A4%9A%E4%BA%BA%E5%AF%B9%E5%90%83%E5%A4%9F%E8%9B%8B%E7%99%BD%E8%B4%A8%E6%B2%A1%E6%A6%82%E5%BF%B5%23%26t%3D3&title=发布媒体",
-    "show_str": "11家媒体",
+    "show_str": "16家媒体",
     "users": [
+      {
+        "id": 1677991972,
+        "idstr": "1677991972",
+        "screen_name": "晶报",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1651428902,
         "idstr": "1651428902",
@@ -44,16 +51,9 @@
         "verified_type": 3
       },
       {
-        "id": 2054900587,
-        "idstr": "2054900587",
-        "screen_name": "三农频道",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2001789077,
-        "idstr": "2001789077",
-        "screen_name": "兵团日报",
+        "id": 2183542485,
+        "idstr": "2183542485",
+        "screen_name": "西安广播电视台",
         "verified": true,
         "verified_type": 3
       }
