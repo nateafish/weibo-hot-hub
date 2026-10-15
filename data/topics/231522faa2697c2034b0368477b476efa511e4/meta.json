@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2286092114
   },
-  "last_seen_at": "2026-10-15T23:00:00+08:00",
+  "last_seen_at": "2026-10-16T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%99%88%E5%B0%8F%E6%98%A5%E7%88%B8%E7%88%B8%E4%B8%8D%E5%B8%8C%E6%9C%9B%E6%89%93%E6%89%B0%E5%BC%9F%E5%BC%9F%E7%94%9F%E6%B4%BB%23%26t%3D3&title=发布媒体",
-    "show_str": "20家媒体",
+    "show_str": "24家媒体",
     "users": [
       {
         "id": 2286092114,
@@ -26,6 +26,13 @@
         "id": 1941424392,
         "idstr": "1941424392",
         "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1700087532,
+        "idstr": "1700087532",
+        "screen_name": "三湘都市报",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 7422806367,
+        "idstr": "7422806367",
+        "screen_name": "中网传播",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6444725927,
         "idstr": "6444725927",
         "screen_name": "吉祥新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3229962754,
-        "idstr": "3229962754",
-        "screen_name": "陕视新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1991123083,
-        "idstr": "1991123083",
-        "screen_name": "江西日报",
         "verified": true,
         "verified_type": 3
       }

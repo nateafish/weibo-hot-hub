@@ -10,15 +10,50 @@
     "status": 2,
     "uid": 1644489953
   },
-  "last_seen_at": "2026-10-15T23:00:00+08:00",
+  "last_seen_at": "2026-10-16T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%B7%B1%E5%9C%B3%E5%85%A8%E5%B8%82%E5%85%A8%E5%A4%A9%E7%A6%81%E9%B8%A3%E5%96%87%E5%8F%AD5%E5%B9%B4%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "6家媒体",
     "users": [
       {
         "id": 1644489953,
         "idstr": "1644489953",
         "screen_name": "南方都市报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3901624042,
+        "idstr": "3901624042",
+        "screen_name": "山西日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2001789077,
+        "idstr": "2001789077",
+        "screen_name": "兵团日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1991123083,
+        "idstr": "1991123083",
+        "screen_name": "江西日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1959444680,
+        "idstr": "1959444680",
+        "screen_name": "云南网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1789681642,
+        "idstr": "1789681642",
+        "screen_name": "第一现场",
         "verified": true,
         "verified_type": 3
       }

@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 3266943013
   },
-  "last_seen_at": "2026-10-15T23:00:00+08:00",
+  "last_seen_at": "2026-10-16T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%9D%9A%E5%AE%9A%E5%AE%9E%E6%96%BD%E5%81%A5%E5%BA%B7%E4%BC%98%E5%85%88%E5%8F%91%E5%B1%95%E6%88%98%E7%95%A5%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "4家媒体",
     "users": [
       {
         "id": 3266943013,
@@ -26,6 +26,13 @@
         "id": 6587633798,
         "idstr": "6587633798",
         "screen_name": "崇义发布",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3901624042,
+        "idstr": "3901624042",
+        "screen_name": "山西日报",
         "verified": true,
         "verified_type": 3
       },
