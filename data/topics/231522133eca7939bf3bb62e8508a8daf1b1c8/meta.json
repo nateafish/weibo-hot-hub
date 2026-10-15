@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 5993531560
   },
-  "last_seen_at": "2026-10-15T15:00:00+08:00",
+  "last_seen_at": "2026-10-15T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "60家媒体",
+    "show_str": "88家媒体",
     "users": [
+      {
+        "id": 2286092114,
+        "idstr": "2286092114",
+        "screen_name": "中国蓝新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 5993531560,
         "idstr": "5993531560",
@@ -54,13 +61,6 @@
         "id": 1752825395,
         "idstr": "1752825395",
         "screen_name": "光明网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1684012053,
-        "idstr": "1684012053",
-        "screen_name": "财经杂志",
         "verified": true,
         "verified_type": 3
       }

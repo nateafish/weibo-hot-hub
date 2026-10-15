@@ -18,61 +18,61 @@
 
 ## 今日微博热搜（2026-10-15）
 
-最后更新：2026-10-15 15:00:00（北京时间）｜[微博热搜榜](<https://s.weibo.com/top/summary>)｜[本次 JSON](<data/hotlists/2026/10/15/15.json>)｜[历史归档](./data/hotlists/)
+最后更新：2026-10-15 17:00:00（北京时间）｜[微博热搜榜](<https://s.weibo.com/top/summary>)｜[本次 JSON](<data/hotlists/2026/10/15/17.json>)｜[历史归档](./data/hotlists/)
 
 | 热度排名 | 话题 | 热度 | 标记 |
 | ---: | --- | ---: | :---: |
-| 1 | [老外来中国不用微信也能支付](<https://s.weibo.com/weibo?q=%E8%80%81%E5%A4%96%E6%9D%A5%E4%B8%AD%E5%9B%BD%E4%B8%8D%E7%94%A8%E5%BE%AE%E4%BF%A1%E4%B9%9F%E8%83%BD%E6%94%AF%E4%BB%98&t=31&band_rank=1&Refer=top>) | 1,217,856 | — |
-| 2 | [减肥拿到了大结果](<https://s.weibo.com/weibo?q=%E5%87%8F%E8%82%A5%E6%8B%BF%E5%88%B0%E4%BA%86%E5%A4%A7%E7%BB%93%E6%9E%9C&t=31&band_rank=2&Refer=top>) | 999,158 | 新 |
-| 3 | [10封书信读懂用命换命的信任](<https://s.weibo.com/weibo?q=%2310%E5%B0%81%E4%B9%A6%E4%BF%A1%E8%AF%BB%E6%87%82%E7%94%A8%E5%91%BD%E6%8D%A2%E5%91%BD%E7%9A%84%E4%BF%A1%E4%BB%BB%23&t=31&band_rank=3&Refer=top>) | 708,312 | 新 |
-| 4 | [李嘉诚现年98岁](<https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%98%89%E8%AF%9A%E7%8E%B0%E5%B9%B498%E5%B2%81%23&t=31&band_rank=4&Refer=top>) | 694,734 | 新 |
-| 5 | [Tim父亲出任影视飓风董事长](<https://s.weibo.com/weibo?q=%23Tim%E7%88%B6%E4%BA%B2%E5%87%BA%E4%BB%BB%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E8%91%A3%E4%BA%8B%E9%95%BF%23&t=31&band_rank=5&Refer=top>) | 671,443 | — |
-| 6 | [70周年广交会新玩法](<https://s.weibo.com/weibo?q=%2370%E5%91%A8%E5%B9%B4%E5%B9%BF%E4%BA%A4%E4%BC%9A%E6%96%B0%E7%8E%A9%E6%B3%95%23&t=31&band_rank=7&Refer=top>) | 630,685 | — |
-| 7 | [全球股市大跌原因找到了](<https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=8&Refer=top>) | 611,290 | — |
-| 8 | [保时捷MissionS曝光](<https://s.weibo.com/weibo?q=%E4%BF%9D%E6%97%B6%E6%8D%B7MissionS%E6%9B%9D%E5%85%89&t=31&band_rank=9&Refer=top>) | 488,906 | 新 |
-| 9 | [appstore正式进入字节时代](<https://s.weibo.com/weibo?q=%23appstore%E6%AD%A3%E5%BC%8F%E8%BF%9B%E5%85%A5%E5%AD%97%E8%8A%82%E6%97%B6%E4%BB%A3%23&t=31&band_rank=10&Refer=top>) | 402,857 | — |
-| 10 | [中朝新鸭绿江大桥为何如此重要](<https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%9C%9D%E6%96%B0%E9%B8%AD%E7%BB%BF%E6%B1%9F%E5%A4%A7%E6%A1%A5%E4%B8%BA%E4%BD%95%E5%A6%82%E6%AD%A4%E9%87%8D%E8%A6%81%23&t=31&band_rank=11&Refer=top>) | 401,602 | 新 |
-| 11 | [陈小春紧急上线查看](<https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B0%8F%E6%98%A5%E7%B4%A7%E6%80%A5%E4%B8%8A%E7%BA%BF%E6%9F%A5%E7%9C%8B%23&t=31&band_rank=12&Refer=top>) | 401,185 | 新 |
-| 12 | [豆包对低认知人群有权威性](<https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%AF%B9%E4%BD%8E%E8%AE%A4%E7%9F%A5%E4%BA%BA%E7%BE%A4%E6%9C%89%E6%9D%83%E5%A8%81%E6%80%A7&t=31&band_rank=14&Refer=top>) | 397,799 | — |
-| 13 | [大冰说李一桐内心特别强大](<https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%86%B0%E8%AF%B4%E6%9D%8E%E4%B8%80%E6%A1%90%E5%86%85%E5%BF%83%E7%89%B9%E5%88%AB%E5%BC%BA%E5%A4%A7%23&t=31&band_rank=15&Refer=top>) | 396,406 | 新 |
-| 14 | [黄泽林承认与陈奕迅女儿分手](<https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B3%BD%E6%9E%97%E6%89%BF%E8%AE%A4%E4%B8%8E%E9%99%88%E5%A5%95%E8%BF%85%E5%A5%B3%E5%84%BF%E5%88%86%E6%89%8B%23&t=31&band_rank=16&Refer=top>) | 395,155 | — |
-| 15 | [长实否认李嘉诚逝世](<https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%AE%9E%E5%90%A6%E8%AE%A4%E6%9D%8E%E5%98%89%E8%AF%9A%E9%80%9D%E4%B8%96%23&t=31&band_rank=17&Refer=top>) | 393,897 | — |
-| 16 | [蒋劲夫过上了他想要的生活](<https://s.weibo.com/weibo?q=%23%E8%92%8B%E5%8A%B2%E5%A4%AB%E8%BF%87%E4%B8%8A%E4%BA%86%E4%BB%96%E6%83%B3%E8%A6%81%E7%9A%84%E7%94%9F%E6%B4%BB%23&t=31&band_rank=18&Refer=top>) | 373,459 | 热 |
-| 17 | [A股跌破3700点主要受外围影响](<https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%B7%8C%E7%A0%B43700%E7%82%B9%E4%B8%BB%E8%A6%81%E5%8F%97%E5%A4%96%E5%9B%B4%E5%BD%B1%E5%93%8D%23&t=31&band_rank=19&Refer=top>) | 328,820 | 新 |
-| 18 | [韩国紧急就股市发声](<https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%B4%A7%E6%80%A5%E5%B0%B1%E8%82%A1%E5%B8%82%E5%8F%91%E5%A3%B0%23&t=31&band_rank=20&Refer=top>) | 299,821 | 新 |
-| 19 | [ZUIAN第三次面签没过](<https://s.weibo.com/weibo?q=%23ZUIAN%E7%AC%AC%E4%B8%89%E6%AC%A1%E9%9D%A2%E7%AD%BE%E6%B2%A1%E8%BF%87%23&t=31&band_rank=21&Refer=top>) | 285,987 | 新 |
-| 20 | [男子刷短视频误触广告被扣7万元](<https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%88%B7%E7%9F%AD%E8%A7%86%E9%A2%91%E8%AF%AF%E8%A7%A6%E5%B9%BF%E5%91%8A%E8%A2%AB%E6%89%A37%E4%B8%87%E5%85%83%23&t=31&band_rank=22&Refer=top>) | 278,087 | 新 |
-| 21 | [全球热抢到票了吗](<https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E7%83%AD%E6%8A%A2%E5%88%B0%E7%A5%A8%E4%BA%86%E5%90%97%23&t=31&band_rank=23&Refer=top>) | 277,218 | 新 |
-| 22 | [找对象要找社会化程度高的人](<https://s.weibo.com/weibo?q=%E6%89%BE%E5%AF%B9%E8%B1%A1%E8%A6%81%E6%89%BE%E7%A4%BE%E4%BC%9A%E5%8C%96%E7%A8%8B%E5%BA%A6%E9%AB%98%E7%9A%84%E4%BA%BA&t=31&band_rank=25&Refer=top>) | 268,228 | 新 |
-| 23 | [万元大奖还能这样花](<https://s.weibo.com/weibo?q=%23%E4%B8%87%E5%85%83%E5%A4%A7%E5%A5%96%E8%BF%98%E8%83%BD%E8%BF%99%E6%A0%B7%E8%8A%B1%23&t=31&band_rank=26&Refer=top>) | 265,601 | 新 |
-| 24 | [建议大家尽量不要长期待在家里](<https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E5%B0%BD%E9%87%8F%E4%B8%8D%E8%A6%81%E9%95%BF%E6%9C%9F%E5%BE%85%E5%9C%A8%E5%AE%B6%E9%87%8C&t=31&band_rank=27&Refer=top>) | 261,048 | — |
-| 25 | [第一次见啃苹果卡嘴要到医院取出](<https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E5%95%83%E8%8B%B9%E6%9E%9C%E5%8D%A1%E5%98%B4%E8%A6%81%E5%88%B0%E5%8C%BB%E9%99%A2%E5%8F%96%E5%87%BA%23&t=31&band_rank=28&Refer=top>) | 258,589 | — |
-| 26 | [现在油车都跌成这样了](<https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E6%B2%B9%E8%BD%A6%E9%83%BD%E8%B7%8C%E6%88%90%E8%BF%99%E6%A0%B7%E4%BA%86&t=31&band_rank=29&Refer=top>) | 256,810 | — |
-| 27 | [国考报名要求电子社保卡等实名认证](<https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%80%83%E6%8A%A5%E5%90%8D%E8%A6%81%E6%B1%82%E7%94%B5%E5%AD%90%E7%A4%BE%E4%BF%9D%E5%8D%A1%E7%AD%89%E5%AE%9E%E5%90%8D%E8%AE%A4%E8%AF%81%23&t=31&band_rank=30&Refer=top>) | 251,279 | — |
-| 28 | [陈小春直言不会把送走的弟弟找回来](<https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B0%8F%E6%98%A5%E7%9B%B4%E8%A8%80%E4%B8%8D%E4%BC%9A%E6%8A%8A%E9%80%81%E8%B5%B0%E7%9A%84%E5%BC%9F%E5%BC%9F%E6%89%BE%E5%9B%9E%E6%9D%A5%23&t=31&band_rank=31&Refer=top>) | 251,098 | — |
-| 29 | [ZUIAN的B签还是没过](<https://s.weibo.com/weibo?q=%23ZUIAN%E7%9A%84B%E7%AD%BE%E8%BF%98%E6%98%AF%E6%B2%A1%E8%BF%87%23&t=31&band_rank=32&Refer=top>) | 247,700 | 新 |
-| 30 | [千万新房当嫁妆被陌生人拆成毛坯](<https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E6%96%B0%E6%88%BF%E5%BD%93%E5%AB%81%E5%A6%86%E8%A2%AB%E9%99%8C%E7%94%9F%E4%BA%BA%E6%8B%86%E6%88%90%E6%AF%9B%E5%9D%AF%23&t=31&band_rank=33&Refer=top>) | 234,621 | — |
-| 31 | [内娱学历李健排第一](<https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%AD%A6%E5%8E%86%E6%9D%8E%E5%81%A5%E6%8E%92%E7%AC%AC%E4%B8%80%23&t=31&band_rank=34&Refer=top>) | 228,955 | 新 |
-| 32 | [紫薇小燕子合体了](<https://s.weibo.com/weibo?q=%23%E7%B4%AB%E8%96%87%E5%B0%8F%E7%87%95%E5%AD%90%E5%90%88%E4%BD%93%E4%BA%86%23&t=31&band_rank=35&Refer=top>) | 214,650 | — |
-| 33 | [天价黄牛票是从哪来的](<https://s.weibo.com/weibo?q=%23%E5%A4%A9%E4%BB%B7%E9%BB%84%E7%89%9B%E7%A5%A8%E6%98%AF%E4%BB%8E%E5%93%AA%E6%9D%A5%E7%9A%84%23&t=31&band_rank=36&Refer=top>) | 210,681 | 新 |
-| 34 | [黄金直线反弹](<https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%9B%B4%E7%BA%BF%E5%8F%8D%E5%BC%B9%23&t=31&band_rank=39&Refer=top>) | 197,921 | — |
-| 35 | [TES帮助ZUIAN申请P签](<https://s.weibo.com/weibo?q=%23TES%E5%B8%AE%E5%8A%A9ZUIAN%E7%94%B3%E8%AF%B7P%E7%AD%BE%23&t=31&band_rank=42&Refer=top>) | 170,794 | 新 |
-| 36 | [国补还没领明白的人集合](<https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%A1%A5%E8%BF%98%E6%B2%A1%E9%A2%86%E6%98%8E%E7%99%BD%E7%9A%84%E4%BA%BA%E9%9B%86%E5%90%88%23&t=31&band_rank=43&Refer=top>) | 169,761 | 新 |
-| 37 | [袁咏仪 不能拿我跟蔡少芬比普通话](<https://s.weibo.com/weibo?q=%E8%A2%81%E5%92%8F%E4%BB%AA%20%E4%B8%8D%E8%83%BD%E6%8B%BF%E6%88%91%E8%B7%9F%E8%94%A1%E5%B0%91%E8%8A%AC%E6%AF%94%E6%99%AE%E9%80%9A%E8%AF%9D&t=31&band_rank=44&Refer=top>) | 169,332 | 新 |
-| 38 | [全球股市大跌](<https://s.weibo.com/weibo?q=%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82%E5%A4%A7%E8%B7%8C&t=31&band_rank=45&Refer=top>) | 168,942 | — |
-| 39 | [物业回应千万新房被陌生人拆成毛坯](<https://s.weibo.com/weibo?q=%23%E7%89%A9%E4%B8%9A%E5%9B%9E%E5%BA%94%E5%8D%83%E4%B8%87%E6%96%B0%E6%88%BF%E8%A2%AB%E9%99%8C%E7%94%9F%E4%BA%BA%E6%8B%86%E6%88%90%E6%AF%9B%E5%9D%AF%23&t=31&band_rank=46&Refer=top>) | 168,265 | — |
-| 40 | [崔晋换掉与李勒优同框背景图](<https://s.weibo.com/weibo?q=%23%E5%B4%94%E6%99%8B%E6%8D%A2%E6%8E%89%E4%B8%8E%E6%9D%8E%E5%8B%92%E4%BC%98%E5%90%8C%E6%A1%86%E8%83%8C%E6%99%AF%E5%9B%BE%23&t=31&band_rank=47&Refer=top>) | 162,845 | 新 |
-| 41 | [蒋劲夫回应长期保持6%左右的体脂率](<https://s.weibo.com/weibo?q=%23%E8%92%8B%E5%8A%B2%E5%A4%AB%E5%9B%9E%E5%BA%94%E9%95%BF%E6%9C%9F%E4%BF%9D%E6%8C%816%25%E5%B7%A6%E5%8F%B3%E7%9A%84%E4%BD%93%E8%84%82%E7%8E%87%23&t=31&band_rank=48&Refer=top>) | 155,365 | 新 |
-| 42 | [梅艳芳骨灰被盗求助多人爱答不理](<https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%89%B3%E8%8A%B3%E9%AA%A8%E7%81%B0%E8%A2%AB%E7%9B%97%E6%B1%82%E5%8A%A9%E5%A4%9A%E4%BA%BA%E7%88%B1%E7%AD%94%E4%B8%8D%E7%90%86%23&t=31&band_rank=50&Refer=top>) | 149,375 | 新 |
-| 43 | [中国第一展广交会的魅力](<https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%B1%95%E5%B9%BF%E4%BA%A4%E4%BC%9A%E7%9A%84%E9%AD%85%E5%8A%9B%23&Refer=new_time>) | — | 热 |
-| 44 | [肖战大麦演唱会想看人数历史总榜第4](<https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%A4%A7%E9%BA%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E6%83%B3%E7%9C%8B%E4%BA%BA%E6%95%B0%E5%8E%86%E5%8F%B2%E6%80%BB%E6%A6%9C%E7%AC%AC4%23&t=31&band_rank=6&Refer=top>) | — | — |
-| 45 | [黄牛票来源曝光](<https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%89%9B%E7%A5%A8%E6%9D%A5%E6%BA%90%E6%9B%9D%E5%85%89%23&t=31&band_rank=13&Refer=top>) | — | 热 |
-| 46 | [大麦公布肖战演唱会可售票数](<https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%BA%A6%E5%85%AC%E5%B8%83%E8%82%96%E6%88%98%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%AF%E5%94%AE%E7%A5%A8%E6%95%B0%23&t=31&band_rank=24&Refer=top>) | — | — |
-| 47 | [兰香电视剧到底在歌颂什么](<https://s.weibo.com/weibo?q=%E5%85%B0%E9%A6%99%E7%94%B5%E8%A7%86%E5%89%A7%E5%88%B0%E5%BA%95%E5%9C%A8%E6%AD%8C%E9%A2%82%E4%BB%80%E4%B9%88&t=31&band_rank=37&Refer=top>) | — | — |
-| 48 | [井柏然孙千现身早春晴朗研讨会](<https://s.weibo.com/weibo?q=%23%E4%BA%95%E6%9F%8F%E7%84%B6%E5%AD%99%E5%8D%83%E7%8E%B0%E8%BA%AB%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E7%A0%94%E8%AE%A8%E4%BC%9A%23&t=31&band_rank=38&Refer=top>) | — | 新 |
-| 49 | [小城良方的宣发太有才了](<https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E7%9A%84%E5%AE%A3%E5%8F%91%E5%A4%AA%E6%9C%89%E6%89%8D%E4%BA%86%23&t=31&band_rank=40&Refer=top>) | — | — |
-| 50 | [徐梦洁余茵乖乖女完全两个感觉](<https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%A2%A6%E6%B4%81%E4%BD%99%E8%8C%B5%E4%B9%96%E4%B9%96%E5%A5%B3%E5%AE%8C%E5%85%A8%E4%B8%A4%E4%B8%AA%E6%84%9F%E8%A7%89%23&t=31&band_rank=41&Refer=top>) | — | — |
-| 51 | [陈哲远蒋欣新剧空降](<https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E8%92%8B%E6%AC%A3%E6%96%B0%E5%89%A7%E7%A9%BA%E9%99%8D%23&t=31&band_rank=49&Refer=top>) | — | 新 |
+| 1 | [黄子韬徐艺洋宣布当爸妈](<https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E5%AE%A3%E5%B8%83%E5%BD%93%E7%88%B8%E5%A6%88%23&t=31&band_rank=2&Refer=top>) | 16,571,315 | 爆 |
+| 2 | [徐艺洋生子时间线](<https://s.weibo.com/weibo?q=%E5%BE%90%E8%89%BA%E6%B4%8B%E7%94%9F%E5%AD%90%E6%97%B6%E9%97%B4%E7%BA%BF&t=31&band_rank=11&Refer=top>) | 7,938,567 | 爆 |
+| 3 | [纸尿裤甲酰胺问题调查结果](<https://s.weibo.com/weibo?q=%23%E7%BA%B8%E5%B0%BF%E8%A3%A4%E7%94%B2%E9%85%B0%E8%83%BA%E9%97%AE%E9%A2%98%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%23&t=31&band_rank=1&Refer=top>) | 3,057,776 | — |
+| 4 | [中国载人航天这些首次太骄傲了](<https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%BD%BD%E4%BA%BA%E8%88%AA%E5%A4%A9%E8%BF%99%E4%BA%9B%E9%A6%96%E6%AC%A1%E5%A4%AA%E9%AA%84%E5%82%B2%E4%BA%86%23&t=31&band_rank=3&Refer=top>) | 1,824,110 | — |
+| 5 | [女子买iPhone18Pro被5名骑手冒领快递](<https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0iPhone18Pro%E8%A2%AB5%E5%90%8D%E9%AA%91%E6%89%8B%E5%86%92%E9%A2%86%E5%BF%AB%E9%80%92%23&t=31&band_rank=4&Refer=top>) | 1,754,404 | — |
+| 6 | [这是我见过最真诚的导师推荐信](<https://s.weibo.com/weibo?q=%E8%BF%99%E6%98%AF%E6%88%91%E8%A7%81%E8%BF%87%E6%9C%80%E7%9C%9F%E8%AF%9A%E7%9A%84%E5%AF%BC%E5%B8%88%E6%8E%A8%E8%8D%90%E4%BF%A1&t=31&band_rank=5&Refer=top>) | 1,714,928 | — |
+| 7 | [李嘉诚暂不打算回应去世传闻](<https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%98%89%E8%AF%9A%E6%9A%82%E4%B8%8D%E6%89%93%E7%AE%97%E5%9B%9E%E5%BA%94%E5%8E%BB%E4%B8%96%E4%BC%A0%E9%97%BB%23&t=31&band_rank=6&Refer=top>) | 1,624,845 | — |
+| 8 | [老外来中国不用微信也能支付](<https://s.weibo.com/weibo?q=%E8%80%81%E5%A4%96%E6%9D%A5%E4%B8%AD%E5%9B%BD%E4%B8%8D%E7%94%A8%E5%BE%AE%E4%BF%A1%E4%B9%9F%E8%83%BD%E6%94%AF%E4%BB%98&t=31&band_rank=7&Refer=top>) | 1,561,988 | — |
+| 9 | [Zuian道心破碎](<https://s.weibo.com/weibo?q=%23Zuian%E9%81%93%E5%BF%83%E7%A0%B4%E7%A2%8E%23&t=31&band_rank=8&Refer=top>) | 1,501,708 | 新 |
+| 10 | [泰国王后独自驾驶飞机去日本](<https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E7%8E%8B%E5%90%8E%E7%8B%AC%E8%87%AA%E9%A9%BE%E9%A9%B6%E9%A3%9E%E6%9C%BA%E5%8E%BB%E6%97%A5%E6%9C%AC%23&t=31&band_rank=9&Refer=top>) | 1,414,324 | 新 |
+| 11 | [多家纸尿裤品牌发声](<https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E7%BA%B8%E5%B0%BF%E8%A3%A4%E5%93%81%E7%89%8C%E5%8F%91%E5%A3%B0%23&t=31&band_rank=10&Refer=top>) | 1,357,422 | 新 |
+| 12 | [陈乔恩晒与乔任梁父母合照](<https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A9%E6%99%92%E4%B8%8E%E4%B9%94%E4%BB%BB%E6%A2%81%E7%88%B6%E6%AF%8D%E5%90%88%E7%85%A7%23&t=31&band_rank=13&Refer=top>) | 1,131,943 | 热 |
+| 13 | [24岁猝死女子面试前已呼吸困难](<https://s.weibo.com/weibo?q=%2324%E5%B2%81%E7%8C%9D%E6%AD%BB%E5%A5%B3%E5%AD%90%E9%9D%A2%E8%AF%95%E5%89%8D%E5%B7%B2%E5%91%BC%E5%90%B8%E5%9B%B0%E9%9A%BE%23&t=31&band_rank=14&Refer=top>) | 953,746 | 热 |
+| 14 | [内娱学历TOP15](<https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%AD%A6%E5%8E%86TOP15%23&t=31&band_rank=15&Refer=top>) | 739,411 | — |
+| 15 | [好奇回应纸尿裤未检出甲酰胺](<https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%A5%87%E5%9B%9E%E5%BA%94%E7%BA%B8%E5%B0%BF%E8%A3%A4%E6%9C%AA%E6%A3%80%E5%87%BA%E7%94%B2%E9%85%B0%E8%83%BA%23&t=31&band_rank=16&Refer=top>) | 631,125 | 新 |
+| 16 | [陈小春紧急上线查看](<https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B0%8F%E6%98%A5%E7%B4%A7%E6%80%A5%E4%B8%8A%E7%BA%BF%E6%9F%A5%E7%9C%8B%23&t=31&band_rank=17&Refer=top>) | 623,556 | 热 |
+| 17 | [李嘉诚现年98岁](<https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%98%89%E8%AF%9A%E7%8E%B0%E5%B9%B498%E5%B2%81%23&t=31&band_rank=19&Refer=top>) | 520,183 | — |
+| 18 | [纸尿裤](<https://s.weibo.com/weibo?q=%E7%BA%B8%E5%B0%BF%E8%A3%A4&t=31&band_rank=20&Refer=top>) | 513,550 | 新 |
+| 19 | [内娱学历李健排第一](<https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%AD%A6%E5%8E%86%E6%9D%8E%E5%81%A5%E6%8E%92%E7%AC%AC%E4%B8%80%23&t=31&band_rank=23&Refer=top>) | 485,082 | — |
+| 20 | [父亲回忆乔任梁去世前不正常征兆](<https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BF%86%E4%B9%94%E4%BB%BB%E6%A2%81%E5%8E%BB%E4%B8%96%E5%89%8D%E4%B8%8D%E6%AD%A3%E5%B8%B8%E5%BE%81%E5%85%86%23&t=31&band_rank=24&Refer=top>) | 394,025 | 新 |
+| 21 | [对方撤回截图也太端着了](<https://s.weibo.com/weibo?q=%E5%AF%B9%E6%96%B9%E6%92%A4%E5%9B%9E%E6%88%AA%E5%9B%BE%E4%B9%9F%E5%A4%AA%E7%AB%AF%E7%9D%80%E4%BA%86&t=31&band_rank=25&Refer=top>) | 300,702 | — |
+| 22 | [找对象要找社会化程度高的人](<https://s.weibo.com/weibo?q=%E6%89%BE%E5%AF%B9%E8%B1%A1%E8%A6%81%E6%89%BE%E7%A4%BE%E4%BC%9A%E5%8C%96%E7%A8%8B%E5%BA%A6%E9%AB%98%E7%9A%84%E4%BA%BA&t=31&band_rank=26&Refer=top>) | 281,727 | — |
+| 23 | [肖战站姐都没抢到票](<https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%AB%99%E5%A7%90%E9%83%BD%E6%B2%A1%E6%8A%A2%E5%88%B0%E7%A5%A8%23&t=31&band_rank=27&Refer=top>) | 278,207 | 新 |
+| 24 | [很多人对吃够蛋白质没概念](<https://s.weibo.com/weibo?q=%E5%BE%88%E5%A4%9A%E4%BA%BA%E5%AF%B9%E5%90%83%E5%A4%9F%E8%9B%8B%E7%99%BD%E8%B4%A8%E6%B2%A1%E6%A6%82%E5%BF%B5&t=31&band_rank=28&Refer=top>) | 271,889 | 新 |
+| 25 | [建议大家尽量不要长期待在家里](<https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E5%B0%BD%E9%87%8F%E4%B8%8D%E8%A6%81%E9%95%BF%E6%9C%9F%E5%BE%85%E5%9C%A8%E5%AE%B6%E9%87%8C&t=31&band_rank=29&Refer=top>) | 264,854 | — |
+| 26 | [谁敢代入粉丝视角](<https://s.weibo.com/weibo?q=%E8%B0%81%E6%95%A2%E4%BB%A3%E5%85%A5%E7%B2%89%E4%B8%9D%E8%A7%86%E8%A7%92&t=31&band_rank=30&Refer=top>) | 224,308 | 新 |
+| 27 | [互联网顶流集体出演天猫AI短剧](<https://s.weibo.com/weibo?q=%23%E4%BA%92%E8%81%94%E7%BD%91%E9%A1%B6%E6%B5%81%E9%9B%86%E4%BD%93%E5%87%BA%E6%BC%94%E5%A4%A9%E7%8C%ABAI%E7%9F%AD%E5%89%A7%23&t=31&band_rank=31&Refer=top>) | 216,929 | 新 |
+| 28 | [陈小春直言不会把送走的弟弟找回来](<https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B0%8F%E6%98%A5%E7%9B%B4%E8%A8%80%E4%B8%8D%E4%BC%9A%E6%8A%8A%E9%80%81%E8%B5%B0%E7%9A%84%E5%BC%9F%E5%BC%9F%E6%89%BE%E5%9B%9E%E6%9D%A5%23&t=31&band_rank=33&Refer=top>) | 215,103 | — |
+| 29 | [易烊千玺亮相天猫双11发布会](<https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E4%BA%AE%E7%9B%B8%E5%A4%A9%E7%8C%AB%E5%8F%8C11%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=34&Refer=top>) | 213,293 | 新 |
+| 30 | [荣耀WIN2把性能机价格卷到天花板](<https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80WIN2%E6%8A%8A%E6%80%A7%E8%83%BD%E6%9C%BA%E4%BB%B7%E6%A0%BC%E5%8D%B7%E5%88%B0%E5%A4%A9%E8%8A%B1%E6%9D%BF%23&t=31&band_rank=35&Refer=top>) | 212,812 | 新 |
+| 31 | [今年天猫双11九大亮点来了](<https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%A4%A9%E7%8C%AB%E5%8F%8C11%E4%B9%9D%E5%A4%A7%E4%BA%AE%E7%82%B9%E6%9D%A5%E4%BA%86%23&t=31&band_rank=36&Refer=top>) | 211,848 | 新 |
+| 32 | [公司宁愿流失老员工也不加薪](<https://s.weibo.com/weibo?q=%E5%85%AC%E5%8F%B8%E5%AE%81%E6%84%BF%E6%B5%81%E5%A4%B1%E8%80%81%E5%91%98%E5%B7%A5%E4%B9%9F%E4%B8%8D%E5%8A%A0%E8%96%AA&t=31&band_rank=37&Refer=top>) | 211,556 | 新 |
+| 33 | [库克回应苹果国行AI上线时间](<https://s.weibo.com/weibo?q=%23%E5%BA%93%E5%85%8B%E5%9B%9E%E5%BA%94%E8%8B%B9%E6%9E%9C%E5%9B%BD%E8%A1%8CAI%E4%B8%8A%E7%BA%BF%E6%97%B6%E9%97%B4%23&t=31&band_rank=40&Refer=top>) | 203,081 | 新 |
+| 34 | [影视飓风Tim辟谣](<https://s.weibo.com/weibo?q=%23%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8ETim%E8%BE%9F%E8%B0%A3%23&t=31&band_rank=41&Refer=top>) | 196,046 | — |
+| 35 | [摩根大通最新A股观点](<https://s.weibo.com/weibo?q=%23%E6%91%A9%E6%A0%B9%E5%A4%A7%E9%80%9A%E6%9C%80%E6%96%B0A%E8%82%A1%E8%A7%82%E7%82%B9%23&t=31&band_rank=42&Refer=top>) | 193,179 | 新 |
+| 36 | [苹果国行AI测试版10月底发布](<https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%9B%BD%E8%A1%8CAI%E6%B5%8B%E8%AF%95%E7%89%8810%E6%9C%88%E5%BA%95%E5%8F%91%E5%B8%83%23&t=31&band_rank=43&Refer=top>) | 183,687 | 新 |
+| 37 | [全球股市大跌原因找到了](<https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=44&Refer=top>) | 182,937 | — |
+| 38 | [换季衣橱焕新记](<https://s.weibo.com/weibo?q=%23%E6%8D%A2%E5%AD%A3%E8%A1%A3%E6%A9%B1%E7%84%95%E6%96%B0%E8%AE%B0%23&t=31&band_rank=45&Refer=top>) | 172,942 | 新 |
+| 39 | [全新旅行者7一上市就爆了](<https://s.weibo.com/weibo?q=%23%E5%85%A8%E6%96%B0%E6%97%85%E8%A1%8C%E8%80%857%E4%B8%80%E4%B8%8A%E5%B8%82%E5%B0%B1%E7%88%86%E4%BA%86%23&t=31&band_rank=46&Refer=top>) | 170,958 | 新 |
+| 40 | [保时捷MissionS曝光](<https://s.weibo.com/weibo?q=%E4%BF%9D%E6%97%B6%E6%8D%B7MissionS%E6%9B%9D%E5%85%89&t=31&band_rank=47&Refer=top>) | 170,087 | — |
+| 41 | [Babycare回应纸尿裤未检出甲酰胺](<https://s.weibo.com/weibo?q=%23Babycare%E5%9B%9E%E5%BA%94%E7%BA%B8%E5%B0%BF%E8%A3%A4%E6%9C%AA%E6%A3%80%E5%87%BA%E7%94%B2%E9%85%B0%E8%83%BA%23&t=31&band_rank=48&Refer=top>) | 163,959 | 新 |
+| 42 | [BOSS西装男团阵容](<https://s.weibo.com/weibo?q=%23BOSS%E8%A5%BF%E8%A3%85%E7%94%B7%E5%9B%A2%E9%98%B5%E5%AE%B9%23&t=31&band_rank=49&Refer=top>) | 163,128 | 新 |
+| 43 | [油价本轮不调整](<https://s.weibo.com/weibo?q=%23%E6%B2%B9%E4%BB%B7%E6%9C%AC%E8%BD%AE%E4%B8%8D%E8%B0%83%E6%95%B4%23&t=31&band_rank=50&Refer=top>) | 162,522 | — |
+| 44 | [总书记擘画健康中国建设](<https://s.weibo.com/weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%93%98%E7%94%BB%E5%81%A5%E5%BA%B7%E4%B8%AD%E5%9B%BD%E5%BB%BA%E8%AE%BE%23&Refer=new_time>) | — | 热 |
+| 45 | [黄子韬早在综艺里暗示过有儿子](<https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E6%97%A9%E5%9C%A8%E7%BB%BC%E8%89%BA%E9%87%8C%E6%9A%97%E7%A4%BA%E8%BF%87%E6%9C%89%E5%84%BF%E5%AD%90%23&t=31&band_rank=12&Refer=top>) | — | 新 |
+| 46 | [全球热没有抢到票](<https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E7%83%AD%E6%B2%A1%E6%9C%89%E6%8A%A2%E5%88%B0%E7%A5%A8%23&t=31&band_rank=18&Refer=top>) | — | — |
+| 47 | [张凌赫王楚然终于等到宣发期](<https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%8E%8B%E6%A5%9A%E7%84%B6%E7%BB%88%E4%BA%8E%E7%AD%89%E5%88%B0%E5%AE%A3%E5%8F%91%E6%9C%9F%23&t=31&band_rank=21&Refer=top>) | — | 新 |
+| 48 | [杨超越这部剧是女主吗](<https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E8%BF%99%E9%83%A8%E5%89%A7%E6%98%AF%E5%A5%B3%E4%B8%BB%E5%90%97%23&t=31&band_rank=22&Refer=top>) | — | 新 |
+| 49 | [肖战演唱会南京场设有9个vip区](<https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8D%97%E4%BA%AC%E5%9C%BA%E8%AE%BE%E6%9C%899%E4%B8%AAvip%E5%8C%BA%23&t=31&band_rank=32&Refer=top>) | — | 新 |
+| 50 | [顶流代抢把黄牛干崩溃](<https://s.weibo.com/weibo?q=%E9%A1%B6%E6%B5%81%E4%BB%A3%E6%8A%A2%E6%8A%8A%E9%BB%84%E7%89%9B%E5%B9%B2%E5%B4%A9%E6%BA%83&t=31&band_rank=38&Refer=top>) | — | 新 |
+| 51 | [绿泡泡下架余茵版乖乖女](<https://s.weibo.com/weibo?q=%23%E7%BB%BF%E6%B3%A1%E6%B3%A1%E4%B8%8B%E6%9E%B6%E4%BD%99%E8%8C%B5%E7%89%88%E4%B9%96%E4%B9%96%E5%A5%B3%23&t=31&band_rank=39&Refer=top>) | — | 新 |
 
 <!-- END TODAY_HOTLIST -->
 
