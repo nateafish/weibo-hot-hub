@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2620088113
   },
-  "last_seen_at": "2026-10-17T06:00:00+08:00",
+  "last_seen_at": "2026-10-17T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%2336%E5%B2%81%E5%A5%B3%E5%AD%905%E6%AC%A1%E6%80%80%E5%AD%95%E7%AC%AC4%E6%AC%A1%E5%89%96%E5%AE%AB%E4%BA%A7%E5%A4%A7%E5%87%BA%E8%A1%80%23%26t%3D3&title=发布媒体",
-    "show_str": "15家媒体",
+    "show_str": "16家媒体",
     "users": [
       {
         "id": 2620088113,
@@ -44,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 1704544512,
+        "idstr": "1704544512",
+        "screen_name": "半岛网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6867368137,
         "idstr": "6867368137",
         "screen_name": "大众网",
@@ -54,13 +61,6 @@
         "id": 2996573345,
         "idstr": "2996573345",
         "screen_name": "大众网德州",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2460937233,
-        "idstr": "2460937233",
-        "screen_name": "热度新闻",
         "verified": true,
         "verified_type": 3
       }
