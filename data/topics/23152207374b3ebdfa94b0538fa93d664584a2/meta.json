@@ -3,10 +3,10 @@
   "created_at": 1565612032,
   "first_seen_at": "2026-09-21T22:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-09-23T19:00:00+08:00",
+  "last_seen_at": "2026-10-16T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%99%BD%E9%B9%BF%E7%9B%B4%E6%92%AD%23%26t%3D3&title=发布媒体",
-    "show_str": "66家媒体",
+    "show_str": "67家媒体",
     "users": [
       {
         "id": 7422806367,
@@ -23,9 +23,9 @@
         "verified_type": 0
       },
       {
-        "id": 6444725927,
-        "idstr": "6444725927",
-        "screen_name": "吉祥新闻",
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -37,9 +37,16 @@
         "verified_type": 3
       },
       {
-        "id": 1913382117,
-        "idstr": "1913382117",
-        "screen_name": "深圳晚报",
+        "id": 6444725927,
+        "idstr": "6444725927",
+        "screen_name": "吉祥新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1677991972,
+        "idstr": "1677991972",
+        "screen_name": "晶报",
         "verified": true,
         "verified_type": 3
       },
@@ -47,13 +54,6 @@
         "id": 6525010965,
         "idstr": "6525010965",
         "screen_name": "狐厂大拷问",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2460937233,
-        "idstr": "2460937233",
-        "screen_name": "热度新闻",
         "verified": true,
         "verified_type": 3
       }
