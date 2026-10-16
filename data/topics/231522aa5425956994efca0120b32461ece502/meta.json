@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 6004281123
   },
-  "last_seen_at": "2026-10-16T11:00:00+08:00",
+  "last_seen_at": "2026-10-16T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%B0%86%E6%8D%A2%E7%99%BE%E4%BA%8B%E5%8F%AF%E4%B9%90%E4%B8%BA%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90%23%26t%3D3&title=发布媒体",
-    "show_str": "116家媒体",
+    "show_str": "147家媒体",
     "users": [
       {
         "id": 6004281123,
         "idstr": "6004281123",
         "screen_name": "梨视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1887344341,
+        "idstr": "1887344341",
+        "screen_name": "观察者网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2292896411,
+        "idstr": "2292896411",
+        "screen_name": "中工网",
         "verified": true,
         "verified_type": 3
       },
@@ -40,27 +61,6 @@
         "id": 1403842922,
         "idstr": "1403842922",
         "screen_name": "琅琊新闻网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5943595658,
-        "idstr": "5943595658",
-        "screen_name": "一手Video",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5652470745,
-        "idstr": "5652470745",
-        "screen_name": "广西都市频道",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2360016402,
-        "idstr": "2360016402",
-        "screen_name": "宁波日报",
         "verified": true,
         "verified_type": 3
       }
