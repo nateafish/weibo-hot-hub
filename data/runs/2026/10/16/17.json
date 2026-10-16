@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-10-16T17:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#习近平致信祝贺湖南大学建校100周年#",
+      "rank": 1,
+      "title": "习近平致信祝贺湖南大学建校100周年",
+      "topic_id": "231522a2bab0b692db929b33c86c30f83a1990"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#日本误报9.9级地震#",
+      "rank": 1,
+      "title": "日本误报9.9级地震",
+      "topic_id": "231522a991ebf7be5186ef28beae506a9af9d7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#嫁金钗开播#",
+      "rank": 2,
+      "title": "嫁金钗开播",
+      "topic_id": "231522bb0db2e53c882a847a7348d98d2a50d9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#第140届广交会有哪些新亮点#",
+      "rank": 3,
+      "title": "第140届广交会有哪些新亮点",
+      "topic_id": "231522b7de91350464a19763460a3f66fd9680"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#芒果真的拍了再见朋友#",
+      "rank": 4,
+      "title": "芒果真的拍了再见朋友",
+      "topic_id": "2315223fb0d34ce13732cb3ee33fce4e940da2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "传国玉玺五代后失踪",
+      "rank": 5,
+      "title": "传国玉玺五代后失踪",
+      "topic_id": "231522c49e36887d06e249a60e1d132de574a4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#39万人涌入Babycare直播间#",
+      "rank": 6,
+      "title": "39万人涌入Babycare直播间",
+      "topic_id": "2315220a150dfb2a01c75ff88c117d18f35f69"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "陈奕迅演唱会官宣",
+      "rank": 7,
+      "title": "陈奕迅演唱会官宣",
+      "topic_id": "2315227df282001a73400388d64f2b6d2e486e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "周迅 如懿传",
+      "rank": 8,
+      "title": "周迅 如懿传",
+      "topic_id": "23152212a52dbc27035bcfcc70e880894c3c33"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#维密请假事件当事人已离职#",
+      "rank": 9,
+      "title": "维密请假事件当事人已离职",
+      "topic_id": "231522bc532e510ea050892715da6d292bcd77"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#苹果店员回应iPhoneDuo抢购难度#",
+      "rank": 10,
+      "title": "苹果店员回应iPhoneDuo抢购难度",
+      "topic_id": "231522def6c488c1d06330391091347f08dda2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#黄子韬儿子国籍#",
+      "rank": 11,
+      "title": "黄子韬儿子国籍",
+      "topic_id": "23152227ba1b0f3bfa1fff34c0fa2182105854"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝何穗面试维密被拒#",
+      "rank": 12,
+      "title": "曝何穗面试维密被拒",
+      "topic_id": "23152270c1c474786ddb349079c7cb3d8584b1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#徐艺洋24年11月的状态#",
+      "rank": 13,
+      "title": "徐艺洋24年11月的状态",
+      "topic_id": "231522b7fa665dae81ffafc3af61bc40d7a3cb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#小城良方定档#",
+      "rank": 14,
+      "title": "小城良方定档",
+      "topic_id": "23152295343c800b698cae9ae03c230a4bed4a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "日韩股市大涨A股跳水30点",
+      "rank": 15,
+      "title": "日韩股市大涨A股跳水30点",
+      "topic_id": "231522f85c93451972adb7152da820c9fc692d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "9.9级地震远超智利9.5",
+      "rank": 16,
+      "title": "9.9级地震远超智利9.5",
+      "topic_id": "231522cc2a7032085f792f9919194eb971cad0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "黄子韬绣红旗人设被质疑割裂",
+      "rank": 17,
+      "title": "黄子韬绣红旗人设被质疑割裂",
+      "topic_id": "23152294181da33043196313026daa609c8024"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#徐艺洋曾试图提前公关#",
+      "rank": 18,
+      "title": "徐艺洋曾试图提前公关",
+      "topic_id": "2315225135e8ae29b49bf9e02c6f9ca5371ee6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "股民看不懂A股跳水",
+      "rank": 19,
+      "title": "股民看不懂A股跳水",
+      "topic_id": "23152207fca6e3fea30db667a1515a87dc0fe5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "不会穿搭的建议反复观看",
+      "rank": 20,
+      "title": "不会穿搭的建议反复观看",
+      "topic_id": "231522eb2dfa6c2adb30793fb88525d45d95be"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#特斯拉跑车时速可达370公里#",
+      "rank": 21,
+      "title": "特斯拉跑车时速可达370公里",
+      "topic_id": "231522e5bb823308ffb315552a742375a52b29"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#男子中1000万不到一月仅剩28元#",
+      "rank": 22,
+      "title": "男子中1000万不到一月仅剩28元",
+      "topic_id": "231522d29f7ff0de0cc7d291f5b77c4185ab87"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#谢娜用AI视频为赵丽颖庆生#",
+      "rank": 23,
+      "title": "谢娜用AI视频为赵丽颖庆生",
+      "topic_id": "2315224d434cb1cc6756bda87de9c02a2a1d9d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "9.9级地震是什么概念",
+      "rank": 24,
+      "title": "9.9级地震是什么概念",
+      "topic_id": "231522b06a72fdec0084676ca26efba13dba48"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "特斯拉Roadster真的会飞",
+      "rank": 25,
+      "title": "特斯拉Roadster真的会飞",
+      "topic_id": "231522eaf79c9b1f02e490f18e8d572ba76144"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#肖战打开手机一看天塌了#",
+      "rank": 26,
+      "title": "肖战打开手机一看天塌了",
+      "topic_id": "231522b8f9ece1b1874793fd31cc4da36960cb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王一博爆改站哥#",
+      "rank": 27,
+      "title": "王一博爆改站哥",
+      "topic_id": "23152289a07a00671d878bd14e462431a61dbf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#马斯克表情#",
+      "rank": 28,
+      "title": "马斯克表情",
+      "topic_id": "231522ffe1b02af1fe45d8deed6ec75621e5fc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "中国汽车与特斯拉差距",
+      "rank": 29,
+      "title": "中国汽车与特斯拉差距",
+      "topic_id": "23152265b503dd53fc0a41c4501b22db50c12c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#特斯拉回应Roadster能否中国上市#",
+      "rank": 30,
+      "title": "特斯拉回应Roadster能否中国上市",
+      "topic_id": "231522fddc168152380621166fb44c06f177de"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "特斯拉Roadster2",
+      "rank": 31,
+      "title": "特斯拉Roadster2",
+      "topic_id": "231522c578979902d4f68bedbf54e7f41cd157"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#Get王俊凯同款无压力穿搭#",
+      "rank": 32,
+      "title": "Get王俊凯同款无压力穿搭",
+      "topic_id": "231522eed7b766ce79704db9978af018c393c5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "周柯宇拍亲密戏太牛了",
+      "rank": 33,
+      "title": "周柯宇拍亲密戏太牛了",
+      "topic_id": "2315222e56584630040bd004489c71ef2d08de"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#奶奶趁水泥未干留下孙子脚印#",
+      "rank": 34,
+      "title": "奶奶趁水泥未干留下孙子脚印",
+      "topic_id": "2315220e621140a5d1dfaa3e74e5ac8ab1952a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#郑钦文中网夺冠奖金770万到手有多少#",
+      "rank": 35,
+      "title": "郑钦文中网夺冠奖金770万到手有多少",
+      "topic_id": "23152296d1ea70a62cc859fa103093a26fe571"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#何穗没有国际T台复出打算#",
+      "rank": 36,
+      "title": "何穗没有国际T台复出打算",
+      "topic_id": "2315229137ab579d107e75c82fe9fb05a87e93"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "杨和苏女朋友是他粉丝",
+      "rank": 37,
+      "title": "杨和苏女朋友是他粉丝",
+      "topic_id": "231522baca2b109913b88ed1128c87d811df1e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#A股午后全线跳水#",
+      "rank": 38,
+      "title": "A股午后全线跳水",
+      "topic_id": "23152205b1aa97e3d4178eb6c3e0947b8d6ee7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "公司因单休招不到人改成双休",
+      "rank": 39,
+      "title": "公司因单休招不到人改成双休",
+      "topic_id": "231522aed22ae001ea31bb3e06d8bfefcd9bcf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "演员张昊玥称有艺人自费拍戏",
+      "rank": 40,
+      "title": "演员张昊玥称有艺人自费拍戏",
+      "topic_id": "23152227de83247911987ff9485550785ff5b3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#乡政府拖欠工程款5000万称无力偿还#",
+      "rank": 41,
+      "title": "乡政府拖欠工程款5000万称无力偿还",
+      "topic_id": "2315224e72a6a6dea7d55a43880b5d31b2f105"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#肖战演唱会陈情令演唱会是同一个导演#",
+      "rank": 42,
+      "title": "肖战演唱会陈情令演唱会是同一个导演",
+      "topic_id": "231522217dc2be0dcd21396855e0d9e94aa364"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "Roadster 量产",
+      "rank": 43,
+      "title": "Roadster 量产",
+      "topic_id": "23152231ac4b037cea88bd4ccd9ba802c8f9fa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女子用1314等金额转走前任近20万#",
+      "rank": 44,
+      "title": "女子用1314等金额转走前任近20万",
+      "topic_id": "231522f20237fca666bfcd864f694428bad447"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#特斯拉Roadster全球发布会#",
+      "rank": 45,
+      "title": "特斯拉Roadster全球发布会",
+      "topic_id": "2315223cb083e4a84329c10342826eb9130c02"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#张钧甯已冻卵#",
+      "rank": 46,
+      "title": "张钧甯已冻卵",
+      "topic_id": "231522ad2a619742dff5298a0b6474485098dc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "Tarzan谈被LNG解约",
+      "rank": 47,
+      "title": "Tarzan谈被LNG解约",
+      "topic_id": "2315228c490c9b2ae799092946dae648b4dba5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "嫁金钗播前招商33个品牌",
+      "rank": 48,
+      "title": "嫁金钗播前招商33个品牌",
+      "topic_id": "2315229647dabb7d6844965962446c2fb5e628"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#蒋丽莎说林志玲像换了个人#",
+      "rank": 49,
+      "title": "蒋丽莎说林志玲像换了个人",
+      "topic_id": "2315228bcac5f008cb47a7aa38792f0dd699c2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "董璇的小宝儿好可爱",
+      "rank": 50,
+      "title": "董璇的小宝儿好可爱",
+      "topic_id": "231522e3e7f316c292ad4602aaf7a1bce869ed"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
