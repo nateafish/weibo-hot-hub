@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1679353042
   },
-  "last_seen_at": "2026-10-16T22:00:00+08:00",
+  "last_seen_at": "2026-10-17T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%B4%B9%E5%BE%B7%E5%8B%92%E6%9D%8E%E5%A8%9Cvs%E8%90%A8%E8%8A%AC%E5%85%84%E5%A6%B9%23%26t%3D3&title=发布媒体",
-    "show_str": "7家媒体",
+    "show_str": "9家媒体",
     "users": [
       {
         "id": 1744332207,
@@ -26,6 +26,13 @@
         "id": 1638781994,
         "idstr": "1638781994",
         "screen_name": "新浪体育",
+        "verified": true,
+        "verified_type": 7
+      },
+      {
+        "id": 7551227875,
+        "idstr": "7551227875",
+        "screen_name": "万维文艺",
         "verified": true,
         "verified_type": 7
       },
@@ -51,18 +58,11 @@
         "verified_type": 3
       },
       {
-        "id": 1943154142,
-        "idstr": "1943154142",
-        "screen_name": "中安在线",
+        "id": 2460937233,
+        "idstr": "2460937233",
+        "screen_name": "热度新闻",
         "verified": true,
         "verified_type": 3
-      },
-      {
-        "id": 1234849602,
-        "idstr": "1234849602",
-        "screen_name": "新浪网球",
-        "verified": true,
-        "verified_type": 7
       }
     ]
   },
