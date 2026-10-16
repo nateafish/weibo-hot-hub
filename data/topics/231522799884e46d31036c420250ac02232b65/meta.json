@@ -10,11 +10,40 @@
     "status": 2,
     "uid": 3717919832
   },
-  "last_seen_at": "2026-10-16T08:00:00+08:00",
+  "last_seen_at": "2026-10-16T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%9F%AD%E5%9B%BD%E9%A1%B6%E6%B5%81%E8%8A%B1%E8%B7%9F%E9%95%BF%E5%89%A7%E5%A5%B3%E4%B8%BB%E5%90%8C%E6%A1%86%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "4家媒体",
+    "users": [
+      {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2075245652,
+        "idstr": "2075245652",
+        "screen_name": "长春晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1802564537,
+        "idstr": "1802564537",
+        "screen_name": "新派观察",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497418417,
+        "idstr": "1497418417",
+        "screen_name": "掌上温岭",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#短国顶流花跟长剧女主同框#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%9B%BD%E9%A1%B6%E6%B5%81%E8%8A%B1%E8%B7%9F%E9%95%BF%E5%89%A7%E5%A5%B3%E4%B8%BB%E5%90%8C%E6%A1%86%23",

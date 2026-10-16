@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 3973292213
   },
-  "last_seen_at": "2026-10-16T08:00:00+08:00",
+  "last_seen_at": "2026-10-16T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9B%9D%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%E7%A7%91%E6%B4%9B%E7%A7%91%E6%B4%9B%E7%94%9F%E6%B6%AF%E6%88%96%E6%8F%90%E5%89%8D%E7%BB%93%E6%9D%9F%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "5家媒体",
     "users": [
       {
-        "id": 3057540037,
-        "idstr": "3057540037",
-        "screen_name": "人民日报海外版-海外网",
+        "id": 1497087080,
+        "idstr": "1497087080",
+        "screen_name": "羊城晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2618630987,
+        "idstr": "2618630987",
+        "screen_name": "西安网",
         "verified": true,
         "verified_type": 3
       },
@@ -26,6 +33,20 @@
         "id": 2183542485,
         "idstr": "2183542485",
         "screen_name": "西安广播电视台",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1802564537,
+        "idstr": "1802564537",
+        "screen_name": "新派观察",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497418417,
+        "idstr": "1497418417",
+        "screen_name": "掌上温岭",
         "verified": true,
         "verified_type": 3
       }
