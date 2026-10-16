@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 5044281310
   },
-  "last_seen_at": "2026-10-16T18:00:00+08:00",
+  "last_seen_at": "2026-10-16T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B9%A1%E6%94%BF%E5%BA%9C%E6%8B%96%E6%AC%A0%E5%B7%A5%E7%A8%8B%E6%AC%BE5000%E4%B8%87%E7%A7%B0%E6%97%A0%E5%8A%9B%E5%81%BF%E8%BF%98%23%26t%3D3&title=发布媒体",
-    "show_str": "16家媒体",
+    "show_str": "23家媒体",
     "users": [
       {
         "id": 5044281310,
         "idstr": "5044281310",
         "screen_name": "澎湃新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1975995305,
+        "idstr": "1975995305",
+        "screen_name": "西安晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 5608027665,
+        "idstr": "5608027665",
+        "screen_name": "中国环境",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 5606627706,
         "idstr": "5606627706",
         "screen_name": "澎湃问吧",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5237278176,
-        "idstr": "5237278176",
-        "screen_name": "中国城市报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2618638282,
-        "idstr": "2618638282",
-        "screen_name": "湖南日报",
         "verified": true,
         "verified_type": 3
       }

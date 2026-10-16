@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 3266943013
   },
-  "last_seen_at": "2026-10-16T18:00:00+08:00",
+  "last_seen_at": "2026-10-16T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%AC%AC140%E5%B1%8A%E5%B9%BF%E4%BA%A4%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E4%BA%AE%E7%82%B9%23%26t%3D3&title=发布媒体",
-    "show_str": "40家媒体",
+    "show_str": "63家媒体",
     "users": [
+      {
+        "id": 1691507817,
+        "idstr": "1691507817",
+        "screen_name": "新闻日日睇",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 3266943013,
         "idstr": "3266943013",
@@ -37,30 +44,23 @@
         "verified_type": 3
       },
       {
+        "id": 1497087080,
+        "idstr": "1497087080",
+        "screen_name": "羊城晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7030322196,
+        "idstr": "7030322196",
+        "screen_name": "天眼新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 3514732862,
         "idstr": "3514732862",
         "screen_name": "广西日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1727472420,
-        "idstr": "1727472420",
-        "screen_name": "泰山晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1691507817,
-        "idstr": "1691507817",
-        "screen_name": "新闻日日睇",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1403842922,
-        "idstr": "1403842922",
-        "screen_name": "琅琊新闻网",
         "verified": true,
         "verified_type": 3
       }

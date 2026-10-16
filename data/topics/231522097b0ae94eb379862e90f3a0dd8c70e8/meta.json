@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 1699432410
   },
-  "last_seen_at": "2026-10-16T18:00:00+08:00",
+  "last_seen_at": "2026-10-16T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%B1%95%E5%A4%B412%E4%BA%BA%E6%AD%BB%E4%BA%A1%E9%87%8D%E5%A4%A7%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%23%26t%3D3&title=发布媒体",
-    "show_str": "29家媒体",
+    "show_str": "55家媒体",
     "users": [
       {
         "id": 1699432410,
         "idstr": "1699432410",
         "screen_name": "新华社",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1420157965,
+        "idstr": "1420157965",
+        "screen_name": "上游新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -37,30 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 2286908003,
+        "idstr": "2286908003",
+        "screen_name": "人民网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2087169013,
         "idstr": "2087169013",
         "screen_name": "法治日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7373111326,
-        "idstr": "7373111326",
-        "screen_name": "正观新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3877613768,
-        "idstr": "3877613768",
-        "screen_name": "爱济南发布",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3204782330,
-        "idstr": "3204782330",
-        "screen_name": "海南日报",
         "verified": true,
         "verified_type": 3
       }

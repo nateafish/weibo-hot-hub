@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1796087453
   },
-  "last_seen_at": "2026-10-16T18:00:00+08:00",
+  "last_seen_at": "2026-10-16T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%89%8B%E6%9C%BA%E6%8E%89%E8%BF%9B%E5%9C%B0%E9%93%81%E7%BC%9D%E8%BF%9E%E6%92%AD16%E5%B0%8F%E6%97%B6%E7%9F%AD%E5%89%A7%23%26t%3D3&title=发布媒体",
-    "show_str": "50家媒体",
+    "show_str": "62家媒体",
     "users": [
       {
         "id": 1796087453,
         "idstr": "1796087453",
         "screen_name": "荔枝新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -37,32 +44,25 @@
         "verified_type": 3
       },
       {
-        "id": 7741144531,
-        "idstr": "7741144531",
-        "screen_name": "荔枝健康",
+        "id": 3275115274,
+        "idstr": "3275115274",
+        "screen_name": "中国吉林网",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 7474091977,
-        "idstr": "7474091977",
-        "screen_name": "我苏特稿",
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 7472681405,
-        "idstr": "7472681405",
-        "screen_name": "陕西广播电视报",
+        "id": 1895096900,
+        "idstr": "1895096900",
+        "screen_name": "深圳新闻网",
         "verified": true,
         "verified_type": 3
-      },
-      {
-        "id": 7313242117,
-        "idstr": "7313242117",
-        "screen_name": "深度视频",
-        "verified": false,
-        "verified_type": -1
       }
     ]
   },
