@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 8013830358
   },
-  "last_seen_at": "2026-10-16T09:00:00+08:00",
+  "last_seen_at": "2026-10-16T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BA%95%E6%9F%8F%E7%84%B6%E8%A2%AB%E5%A4%B8%E5%90%8E%E5%AE%B3%E7%BE%9E%E7%9A%84%E7%9C%8B%E5%90%91%E5%AD%99%E5%8D%83%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "3家媒体",
     "users": [
+      {
+        "id": 7422806367,
+        "idstr": "7422806367",
+        "screen_name": "中网传播",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2992050891,
         "idstr": "2992050891",
         "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1406911561,
+        "idstr": "1406911561",
+        "screen_name": "云南广播电视台",
         "verified": true,
         "verified_type": 3
       }

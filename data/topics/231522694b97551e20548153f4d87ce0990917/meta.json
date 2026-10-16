@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 5177755217
   },
-  "last_seen_at": "2026-10-16T09:00:00+08:00",
+  "last_seen_at": "2026-10-16T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%AE%A3%E5%B8%83%E4%BA%86%E4%B8%AA%E4%BC%97%E6%89%80%E5%91%A8%E7%9F%A5%E7%9A%84%E4%BA%8B%E6%83%85%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "6家媒体",
     "users": [
       {
         "id": 1677991972,
         "idstr": "1677991972",
         "screen_name": "晶报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497418417,
+        "idstr": "1497418417",
+        "screen_name": "掌上温岭",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7422806367,
+        "idstr": "7422806367",
+        "screen_name": "中网传播",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6154710641,
+        "idstr": "6154710641",
+        "screen_name": "广东广电网络",
         "verified": true,
         "verified_type": 3
       },
@@ -30,9 +51,9 @@
         "verified_type": 3
       },
       {
-        "id": 1497418417,
-        "idstr": "1497418417",
-        "screen_name": "掌上温岭",
+        "id": 1895096900,
+        "idstr": "1895096900",
+        "screen_name": "深圳新闻网",
         "verified": true,
         "verified_type": 3
       }
