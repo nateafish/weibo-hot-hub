@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 8004561704
   },
-  "last_seen_at": "2026-10-09T21:00:00+08:00",
+  "last_seen_at": "2026-10-17T04:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%BE%8E%E4%BA%BA%E4%BD%99%23%26t%3D3&title=发布媒体",
-    "show_str": "36家媒体",
+    "show_str": "52家媒体",
     "users": [
+      {
+        "id": 3752699924,
+        "idstr": "3752699924",
+        "screen_name": "腾讯电视剧",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1767910704,
         "idstr": "1767910704",
@@ -23,9 +30,16 @@
         "verified_type": 3
       },
       {
-        "id": 3752699924,
-        "idstr": "3752699924",
-        "screen_name": "腾讯电视剧",
+        "id": 3116322611,
+        "idstr": "3116322611",
+        "screen_name": "芭莎电影",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5310078607,
+        "idstr": "5310078607",
+        "screen_name": "成都商报谈资",
         "verified": true,
         "verified_type": 3
       },
@@ -37,30 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 5211873777,
+        "idstr": "5211873777",
+        "screen_name": "红星新文娱",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 3182423937,
         "idstr": "3182423937",
         "screen_name": "腾讯娱乐",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6459256544,
-        "idstr": "6459256544",
-        "screen_name": "上戏啦",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1642592432,
-        "idstr": "1642592432",
-        "screen_name": "新浪电视",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5688848952,
-        "idstr": "5688848952",
-        "screen_name": "腾讯微信读书",
         "verified": true,
         "verified_type": 3
       }
