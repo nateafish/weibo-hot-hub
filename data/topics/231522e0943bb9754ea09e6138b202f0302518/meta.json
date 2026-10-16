@@ -3,10 +3,10 @@
   "created_at": 1792072206,
   "first_seen_at": "2026-10-15T23:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-16T06:00:00+08:00",
+  "last_seen_at": "2026-10-16T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23AI%E5%B0%84%E9%9B%95%E8%8B%B1%E9%9B%84%E4%BC%A0%E7%9C%8B%E8%B5%B7%E6%9D%A5%E6%AF%94%E4%BA%BA%E6%BC%94%E7%9A%84%E5%A5%BD%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "10家媒体",
     "users": [
       {
         "id": 2685336121,
@@ -23,16 +23,37 @@
         "verified_type": 3
       },
       {
-        "id": 1751714412,
-        "idstr": "1751714412",
-        "screen_name": "大皖新闻",
+        "id": 6105713761,
+        "idstr": "6105713761",
+        "screen_name": "红星新闻",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1677991972,
-        "idstr": "1677991972",
-        "screen_name": "晶报",
+        "id": 3253939390,
+        "idstr": "3253939390",
+        "screen_name": "半岛新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       }
