@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 2258727970
   },
-  "last_seen_at": "2026-10-16T17:00:00+08:00",
+  "last_seen_at": "2026-10-16T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%91%E8%BD%A6%E6%97%B6%E9%80%9F%E5%8F%AF%E8%BE%BE370%E5%85%AC%E9%87%8C%23%26t%3D3&title=发布媒体",
-    "show_str": "10家媒体",
+    "show_str": "16家媒体",
     "users": [
       {
         "id": 2258727970,
         "idstr": "2258727970",
         "screen_name": "央视财经",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2337985010,
+        "idstr": "2337985010",
+        "screen_name": "瑞安融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1959444680,
+        "idstr": "1959444680",
+        "screen_name": "云南网",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1960785875,
-        "idstr": "1960785875",
-        "screen_name": "津云新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1959444680,
-        "idstr": "1959444680",
-        "screen_name": "云南网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1727472420,
-        "idstr": "1727472420",
-        "screen_name": "泰山晚报",
+        "id": 5762891674,
+        "idstr": "5762891674",
+        "screen_name": "密度新闻",
         "verified": true,
         "verified_type": 3
       }

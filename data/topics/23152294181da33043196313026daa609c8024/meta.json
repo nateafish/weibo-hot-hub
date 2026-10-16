@@ -3,11 +3,26 @@
   "created_at": 1792136620,
   "first_seen_at": "2026-10-16T17:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-16T17:00:00+08:00",
+  "last_seen_at": "2026-10-16T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%BB%84%E5%AD%90%E9%9F%AC%E7%BB%A3%E7%BA%A2%E6%97%97%E4%BA%BA%E8%AE%BE%E8%A2%AB%E8%B4%A8%E7%96%91%E5%89%B2%E8%A3%82%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "2家媒体",
+    "users": [
+      {
+        "id": 2460937233,
+        "idstr": "2460937233",
+        "screen_name": "热度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1280846847,
+        "idstr": "1280846847",
+        "screen_name": "指尖新闻-沈阳晚报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "黄子韬绣红旗人设被质疑割裂",
   "search_url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E7%BB%A3%E7%BA%A2%E6%97%97%E4%BA%BA%E8%AE%BE%E8%A2%AB%E8%B4%A8%E7%96%91%E5%89%B2%E8%A3%82%23",
