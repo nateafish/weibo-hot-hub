@@ -3,22 +3,29 @@
   "created_at": 1792233431,
   "first_seen_at": "2026-10-17T19:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-17T20:00:00+08:00",
+  "last_seen_at": "2026-10-17T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BA%8C%E5%8D%81%E5%B9%B4%E5%90%8E%E5%8F%91%E7%8E%B0%E8%80%81%E5%B8%88%E6%97%A9%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E6%92%92%E8%B0%8E%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "9家媒体",
     "users": [
-      {
-        "id": 2075245652,
-        "idstr": "2075245652",
-        "screen_name": "长春晚报",
-        "verified": true,
-        "verified_type": 3
-      },
       {
         "id": 1912416573,
         "idstr": "1912416573",
         "screen_name": "河南手机报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5396094153,
+        "idstr": "5396094153",
+        "screen_name": "大众新闻-大众日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2921799343,
+        "idstr": "2921799343",
+        "screen_name": "天下泉城",
         "verified": true,
         "verified_type": 3
       },
@@ -33,6 +40,20 @@
         "id": 2659523842,
         "idstr": "2659523842",
         "screen_name": "黔东南融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2620088113,
+        "idstr": "2620088113",
+        "screen_name": "海报新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2081474535,
+        "idstr": "2081474535",
+        "screen_name": "天津交通广播",
         "verified": true,
         "verified_type": 3
       }
