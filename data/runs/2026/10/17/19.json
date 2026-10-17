@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-10-17T19:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#习近平心系北疆大地#",
+      "rank": 1,
+      "title": "习近平心系北疆大地",
+      "topic_id": "2315221bd78d4bdaa35d2abe0458e2594f683d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#欠薪345万却砸钱送孩子韩国出道#",
+      "rank": 1,
+      "title": "欠薪345万却砸钱送孩子韩国出道",
+      "topic_id": "231522e97b219ef3abc83fc31a693879f0628f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#夫妻花67.3万买劳力士店员报警#",
+      "rank": 2,
+      "title": "夫妻花67.3万买劳力士店员报警",
+      "topic_id": "231522635f8b15070f9992e3f29b0ea708d339"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#广交会70年热卖单品大盘点#",
+      "rank": 3,
+      "title": "广交会70年热卖单品大盘点",
+      "topic_id": "231522d49c2ed2b5fa04e3ed71f96a3e47ec96"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#男子为女友母亲养老送终获500万遗产#",
+      "rank": 4,
+      "title": "男子为女友母亲养老送终获500万遗产",
+      "topic_id": "231522994e29ed073f14d522a00f4c105f9f90"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "二十年后发现老师早知道自己撒谎",
+      "rank": 5,
+      "title": "二十年后发现老师早知道自己撒谎",
+      "topic_id": "2315225d63ee401bc7162741e5b63676d101ce"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#嫁金钗真敢拍#",
+      "rank": 6,
+      "title": "嫁金钗真敢拍",
+      "topic_id": "231522e5c24e1d3e5165643b94b1f3753f0cd7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#单位欠缴社保处罚新规将施行#",
+      "rank": 7,
+      "title": "单位欠缴社保处罚新规将施行",
+      "topic_id": "2315227957b3744171e4f38831ecdc6c11f607"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "#客服回应大量iPhone漂浮海面#",
+      "rank": 8,
+      "title": "客服回应大量iPhone漂浮海面",
+      "topic_id": "231522e825e4caccca43f1ac3ff2298b7a6b6a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#刘丁硕说别提现役运动员#",
+      "rank": 9,
+      "title": "刘丁硕说别提现役运动员",
+      "topic_id": "23152289e05518d8e1327aa785465a134a504d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#学生插队被制止家长举报老师体罚#",
+      "rank": 10,
+      "title": "学生插队被制止家长举报老师体罚",
+      "topic_id": "231522fb8742889c720719f64a7887b97ba1ac"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#徐艺洋怀孕下楼梯那英扶了她一把#",
+      "rank": 11,
+      "title": "徐艺洋怀孕下楼梯那英扶了她一把",
+      "topic_id": "2315227dbb43ae4e9555296ec50e2e70f919ac"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#黄子韬直接包场免费请你们吃肥姨妈#",
+      "rank": 12,
+      "title": "黄子韬直接包场免费请你们吃肥姨妈",
+      "topic_id": "231522c0b20a6a86ad0f85c2e5da7792a4282c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#李晨郑恺看到王祖蓝回归的反应#",
+      "rank": 13,
+      "title": "李晨郑恺看到王祖蓝回归的反应",
+      "topic_id": "2315222e8b6165a3f9a343a2f7cb3617ef5f4e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "事业编和公务员区别",
+      "rank": 14,
+      "title": "事业编和公务员区别",
+      "topic_id": "231522987c2e4db52c4008ea0ea18592efe2b2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#贾乃亮否认有儿子#",
+      "rank": 15,
+      "title": "贾乃亮否认有儿子",
+      "topic_id": "231522c957a9b436819933bfcdcd21a8308430"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#家长怒斥让小孩扫厕所老师怎么不干#",
+      "rank": 16,
+      "title": "家长怒斥让小孩扫厕所老师怎么不干",
+      "topic_id": "231522a6c2068bc41e5f554614ae487679de90"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "嫁金钗",
+      "rank": 17,
+      "title": "嫁金钗",
+      "topic_id": "2315226cf7f2bdf15634b7584b304741dfd7c3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#上海徐浦大桥车祸视频曝光#",
+      "rank": 18,
+      "title": "上海徐浦大桥车祸视频曝光",
+      "topic_id": "23152238fc34ddcff22d93093846410587bbe8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#胡先煦搓澡让人认出来了#",
+      "rank": 19,
+      "title": "胡先煦搓澡让人认出来了",
+      "topic_id": "2315221cb1766a2128b49b9a6ebc34d3f7ea0f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#沈月好友翁小雯离婚#",
+      "rank": 20,
+      "title": "沈月好友翁小雯离婚",
+      "topic_id": "231522ce45d8c4c9505481cf123d99b3d06046"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#曝离婚多年做直播的男明星有儿子#",
+      "rank": 21,
+      "title": "曝离婚多年做直播的男明星有儿子",
+      "topic_id": "231522c1312887a67932ccee568f2f64447ae7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#大学生活费2000元每月少吗#",
+      "rank": 22,
+      "title": "大学生活费2000元每月少吗",
+      "topic_id": "2315220e60696c058321012f6614fe15240032"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "沈腾说王楚然录一期顶他三期",
+      "rank": 23,
+      "title": "沈腾说王楚然录一期顶他三期",
+      "topic_id": "231522cf8662ef2461f554339b09d23bc853d2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "#iPhoneDuo溢价从5.8万暴跌至7000#",
+      "rank": 24,
+      "title": "iPhoneDuo溢价从5.8万暴跌至7000",
+      "topic_id": "2315220a872ae68cabe49d7e3bf30e8ba84bc3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#老板吐槽免费一次被要求一直免费#",
+      "rank": 25,
+      "title": "老板吐槽免费一次被要求一直免费",
+      "topic_id": "231522a4d2a916dd4248bbf34abc316feec2d3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#陈赫回应王祖蓝回归奔跑吧#",
+      "rank": 26,
+      "title": "陈赫回应王祖蓝回归奔跑吧",
+      "topic_id": "23152207e8c8af447e8159a7af00db36589a1e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#雷佳音这是怎么了#",
+      "rank": 27,
+      "title": "雷佳音这是怎么了",
+      "topic_id": "2315223273ddf6aebee26a3f5c71f36c5b09aa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "徐浦大桥白车司机是否全责",
+      "rank": 28,
+      "title": "徐浦大桥白车司机是否全责",
+      "topic_id": "231522c197fd2cb3dfad3e2d01f5483635deed"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#货轮起火沉没渔民现场打捞全新iPhone#",
+      "rank": 29,
+      "title": "货轮起火沉没渔民现场打捞全新iPhone",
+      "topic_id": "23152281afebaa1038e5a19d0760b330d9a985"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "黄子韬徐艺洋孩子身高 拉腿",
+      "rank": 30,
+      "title": "黄子韬徐艺洋孩子身高 拉腿",
+      "topic_id": "231522149bba085f6702431613e30a63dc0085"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "全民纯过日子不烧心时代",
+      "rank": 31,
+      "title": "全民纯过日子不烧心时代",
+      "topic_id": "2315227783d63467ca96811cc047349c9f9a78"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#中国留学生披旭日旗被同胞怒斥#",
+      "rank": 32,
+      "title": "中国留学生披旭日旗被同胞怒斥",
+      "topic_id": "231522aef81534c45097daf027a7a252e183e1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#刘涛曾说蒋欣演技很好但情商太低#",
+      "rank": 33,
+      "title": "刘涛曾说蒋欣演技很好但情商太低",
+      "topic_id": "231522780af14626257e71c5091e1a3b689d01"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "终于有人把编制讲明白了",
+      "rank": 34,
+      "title": "终于有人把编制讲明白了",
+      "topic_id": "231522489f3679d10607e5dd7edacddbccf511"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "徐艺洋 孕相",
+      "rank": 35,
+      "title": "徐艺洋 孕相",
+      "topic_id": "2315228bc9b6686d1afdf4f17bcc122badfeac"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#陪患癌哥哥化疗弟弟查出直肠癌#",
+      "rank": 36,
+      "title": "陪患癌哥哥化疗弟弟查出直肠癌",
+      "topic_id": "231522bfc2c90891d6ab30a89bf98860f0129a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#盛艾敬父母欠薪被官媒点名#",
+      "rank": 37,
+      "title": "盛艾敬父母欠薪被官媒点名",
+      "topic_id": "231522a07063633c4779b9c65bb9bbba7d7a81"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#嫉妒心太强刘丁硕这句话太不应该了#",
+      "rank": 38,
+      "title": "嫉妒心太强刘丁硕这句话太不应该了",
+      "topic_id": "231522f3fa41c5997cd13719aa5bfba66666c2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#近六成班主任津贴每月不足400元#",
+      "rank": 39,
+      "title": "近六成班主任津贴每月不足400元",
+      "topic_id": "231522ce329973728f929e7f35723a632689a6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "iPhoneDuo官方壳用胶固定",
+      "rank": 40,
+      "title": "iPhoneDuo官方壳用胶固定",
+      "topic_id": "2315229181a71945c9afd9c192208cafb7d1f1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "王一博超话头像",
+      "rank": 41,
+      "title": "王一博超话头像",
+      "topic_id": "231522fc8b318e0f6dae78aa0401b8cb0b02de"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "迪丽热巴眼镜杀",
+      "rank": 42,
+      "title": "迪丽热巴眼镜杀",
+      "topic_id": "2315228673819384290c23cd00d33b15572383"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#比短剧更吸流量的超短剧诞生了#",
+      "rank": 43,
+      "title": "比短剧更吸流量的超短剧诞生了",
+      "topic_id": "23152227f81355790eadbb2e17f2e5bc28ebe8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#刘丁硕称输樊振东是人生最高光时刻#",
+      "rank": 44,
+      "title": "刘丁硕称输樊振东是人生最高光时刻",
+      "topic_id": "231522b2a0df91349eefa9a049c119814fd8da"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 8,
+      "posts": "saved",
+      "query": "#刘丁硕称王楚钦排名掉第四反倒松了口气#",
+      "rank": 45,
+      "title": "刘丁硕称王楚钦排名掉第四反倒松了口气",
+      "topic_id": "23152203c9b7f2fbba9485add18f81cc065fb5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "北京大雨",
+      "rank": 46,
+      "title": "北京大雨",
+      "topic_id": "23152278962cd647076bef25882acc6c335997"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#肖战画的小城良方代表物#",
+      "rank": 47,
+      "title": "肖战画的小城良方代表物",
+      "topic_id": "2315225d326d0816934efe3da69fa4c46f2b82"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#白鹿跑男化妆金鹤龙#",
+      "rank": 48,
+      "title": "白鹿跑男化妆金鹤龙",
+      "topic_id": "2315226993f8be36ed9d6a9fd7823334a853a9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "徐浦大桥肇事司机已被控制",
+      "rank": 49,
+      "title": "徐浦大桥肇事司机已被控制",
+      "topic_id": "231522e4f0efb9953696044c697f50f001c0fe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#河北卫视发了孙颖莎表情包#",
+      "rank": 50,
+      "title": "河北卫视发了孙颖莎表情包",
+      "topic_id": "23152271e0bc5ea7527aefa42a9488ba701a51"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

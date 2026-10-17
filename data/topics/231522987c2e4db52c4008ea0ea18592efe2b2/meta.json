@@ -3,11 +3,18 @@
   "created_at": 1792224567,
   "first_seen_at": "2026-10-17T16:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-17T17:00:00+08:00",
+  "last_seen_at": "2026-10-17T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BA%8B%E4%B8%9A%E7%BC%96%E5%92%8C%E5%85%AC%E5%8A%A1%E5%91%98%E5%8C%BA%E5%88%AB%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "7家媒体",
     "users": [
+      {
+        "id": 7474259554,
+        "idstr": "7474259554",
+        "screen_name": "快报帮",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 7030322196,
         "idstr": "7030322196",
@@ -19,6 +26,27 @@
         "id": 5167503212,
         "idstr": "5167503212",
         "screen_name": "贵州日报官微",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2621516563,
+        "idstr": "2621516563",
+        "screen_name": "咸阳日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2425315932,
+        "idstr": "2425315932",
+        "screen_name": "陕西天天网事",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2129239474,
+        "idstr": "2129239474",
+        "screen_name": "陕西网络广播电视台",
         "verified": true,
         "verified_type": 3
       },

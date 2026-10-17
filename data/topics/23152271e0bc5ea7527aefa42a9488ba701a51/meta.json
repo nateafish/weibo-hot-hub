@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 7441318559
   },
-  "last_seen_at": "2026-10-17T16:00:00+08:00",
+  "last_seen_at": "2026-10-17T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86%E5%8F%91%E4%BA%86%E5%AD%99%E9%A2%96%E8%8E%8E%E8%A1%A8%E6%83%85%E5%8C%85%23%26t%3D3&title=发布媒体",
-    "show_str": "10家媒体",
+    "show_str": "16家媒体",
     "users": [
       {
         "id": 7441318559,
@@ -23,9 +23,23 @@
         "verified_type": 3
       },
       {
+        "id": 7613700701,
+        "idstr": "7613700701",
+        "screen_name": "共富财经",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7122462629,
         "idstr": "7122462629",
         "screen_name": "咪咕文娱",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6525645286,
+        "idstr": "6525645286",
+        "screen_name": "长城视频",
         "verified": true,
         "verified_type": 3
       },
@@ -49,20 +63,6 @@
         "screen_name": "咪咕剧场",
         "verified": true,
         "verified_type": 3
-      },
-      {
-        "id": 2286092114,
-        "idstr": "2286092114",
-        "screen_name": "中国蓝新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2011739333,
-        "idstr": "2011739333",
-        "screen_name": "新浪乒乓球",
-        "verified": true,
-        "verified_type": 7
       }
     ]
   },
