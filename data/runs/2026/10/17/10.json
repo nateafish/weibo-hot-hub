@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-10-17T10:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#习近平在乌兰察布考察#",
+      "rank": 1,
+      "title": "习近平在乌兰察布考察",
+      "topic_id": "231522d75194d67198f237bc5fd4546ebf2edc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#92%的在岗班主任不愿意继续干了#",
+      "rank": 1,
+      "title": "92%的在岗班主任不愿意继续干了",
+      "topic_id": "2315228c21ae580eea7f3e8125c9551d4adb2b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "京城大师赛被曝裸检",
+      "rank": 2,
+      "title": "京城大师赛被曝裸检",
+      "topic_id": "2315228c9bfcf8d44e2254ad7d22f8cbf7990a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#这届广交会含新量拉满了#",
+      "rank": 3,
+      "title": "这届广交会含新量拉满了",
+      "topic_id": "2315225740df7e10640314f28b1217b8fae746"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#张继科疑似被刘丁硕删了微信#",
+      "rank": 4,
+      "title": "张继科疑似被刘丁硕删了微信",
+      "topic_id": "231522f2b48a91adeb2f8f57816d06c97a3189"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#母亲将大一儿子生活费从4000降至2000#",
+      "rank": 5,
+      "title": "母亲将大一儿子生活费从4000降至2000",
+      "topic_id": "2315229b28538e9bfb83413cbffdce146eaa0d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#皮肤科医生建议住酒店自带4样东西#",
+      "rank": 6,
+      "title": "皮肤科医生建议住酒店自带4样东西",
+      "topic_id": "23152273c02b2f94e6502903bc6bf284ad10fb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "#已婚董事长回应婚外龙凤胎亲子鉴定#",
+      "rank": 7,
+      "title": "已婚董事长回应婚外龙凤胎亲子鉴定",
+      "topic_id": "231522d88e5567e826b4c049b488c29d0402aa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#孙颖莎站错位了#",
+      "rank": 8,
+      "title": "孙颖莎站错位了",
+      "topic_id": "2315224f9170f558f44218f828cc6c6b63b7e4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#费德勒和李娜双打却无球可接#",
+      "rank": 9,
+      "title": "费德勒和李娜双打却无球可接",
+      "topic_id": "231522a9c669ba1f72fb8f30d0b5da8b3e89b4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "虞书欣云初令",
+      "rank": 10,
+      "title": "虞书欣云初令",
+      "topic_id": "231522f9ee9b9cc4265ef0afd871784e133dc1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#徐艺洋透露儿子体格发育超出同龄水平#",
+      "rank": 11,
+      "title": "徐艺洋透露儿子体格发育超出同龄水平",
+      "topic_id": "23152240c6215d198729686197778cba032ae2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "刘丁硕质疑张继科低价课",
+      "rank": 12,
+      "title": "刘丁硕质疑张继科低价课",
+      "topic_id": "2315225c9c9984a3632173717fbcdd655cdb29"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "中国留学生就身披旭日旗道歉",
+      "rank": 13,
+      "title": "中国留学生就身披旭日旗道歉",
+      "topic_id": "231522f25fca8e226507ce18d21e0b7ba1ff50"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#第一次见这么恨女主的男主#",
+      "rank": 14,
+      "title": "第一次见这么恨女主的男主",
+      "topic_id": "231522b1f3ee0225278cd3f89a283b6e2b8103"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#田曦薇和周也上的一个表演课吗#",
+      "rank": 15,
+      "title": "田曦薇和周也上的一个表演课吗",
+      "topic_id": "2315222a104d0982adbbdf2b49a9ded1f3d5c9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "交警称不拴绳狗被撞死按野狗处理",
+      "rank": 16,
+      "title": "交警称不拴绳狗被撞死按野狗处理",
+      "topic_id": "231522854ea3e8ac61be5c72c1f925247de02f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "郭宇欣直播被指屏蔽导演",
+      "rank": 17,
+      "title": "郭宇欣直播被指屏蔽导演",
+      "topic_id": "2315228e35136e9efbd9dfc49aba201f5d0da1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#拿打工人血汗钱给女儿铺星路#",
+      "rank": 18,
+      "title": "拿打工人血汗钱给女儿铺星路",
+      "topic_id": "231522dd0ba3c04b785d17d0271dec7bd897bd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "40多岁女生转行律师几乎没收入",
+      "rank": 19,
+      "title": "40多岁女生转行律师几乎没收入",
+      "topic_id": "231522ac7c6a3b6707f0211340bd8524c93f0f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#黄仁勋谈AI大跌#",
+      "rank": 20,
+      "title": "黄仁勋谈AI大跌",
+      "topic_id": "2315229825c287488f99aa74c048d8ff8494fc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#孟子义李昀锐大战黄子韬徐艺洋#",
+      "rank": 21,
+      "title": "孟子义李昀锐大战黄子韬徐艺洋",
+      "topic_id": "231522243cac660f9c64944782bd25167d3ee7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#36岁女子5次怀孕第4次剖宫产大出血#",
+      "rank": 22,
+      "title": "36岁女子5次怀孕第4次剖宫产大出血",
+      "topic_id": "231522a40a15b8786a888e53a13d48b494c85e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#iPhoneDuo首批黑色溢价16000元#",
+      "rank": 23,
+      "title": "iPhoneDuo首批黑色溢价16000元",
+      "topic_id": "231522d9298833c8367caab3b3471e6eaadd89"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "特斯拉",
+      "rank": 24,
+      "title": "特斯拉",
+      "topic_id": "2315229edef009c26359c7af8f5215a218043d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "尚公主",
+      "rank": 25,
+      "title": "尚公主",
+      "topic_id": "231522380a158e1677bff6917b26d3d36216c2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "心眼多是对智力的代偿",
+      "rank": 26,
+      "title": "心眼多是对智力的代偿",
+      "topic_id": "231522553fce2aa629b046ece59051b55b077b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "白宫新发言人上任五天被炒",
+      "rank": 27,
+      "title": "白宫新发言人上任五天被炒",
+      "topic_id": "231522b2880894050ae0be979eb8bd10485b3a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#黄子韬谁欺负我老婆了#",
+      "rank": 28,
+      "title": "黄子韬谁欺负我老婆了",
+      "topic_id": "23152247eb1406450f07e1543bc529cba13249"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#老人被中介哄骗220万房只卖70万#",
+      "rank": 29,
+      "title": "老人被中介哄骗220万房只卖70万",
+      "topic_id": "231522c3a7e37ed1b3e54a0508a3202f965055"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#骑电动车下车时务必关闭电源#",
+      "rank": 30,
+      "title": "骑电动车下车时务必关闭电源",
+      "topic_id": "23152230cacb30446c95a724d7dfe7021fbf75"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#女子给老公做的一周早餐在外网火了#",
+      "rank": 31,
+      "title": "女子给老公做的一周早餐在外网火了",
+      "topic_id": "2315220e86b2cb53af295826dcd780bcd8d277"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "珠穆朗玛峰峰顶什么样",
+      "rank": 32,
+      "title": "珠穆朗玛峰峰顶什么样",
+      "topic_id": "231522d7055ed8f0eb5a2ed98740c316669b36"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#第一次看到李昀锐孟子义这个视频#",
+      "rank": 33,
+      "title": "第一次看到李昀锐孟子义这个视频",
+      "topic_id": "2315221a66cc4b0cf7eddd2f21004c2f7c0c5b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#李秀满电话被打爆了#",
+      "rank": 34,
+      "title": "李秀满电话被打爆了",
+      "topic_id": "231522498629d35412ab54a0b9de663c35f73c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "刘丁硕称张继科打不过才退役",
+      "rank": 35,
+      "title": "刘丁硕称张继科打不过才退役",
+      "topic_id": "23152231ac86e663c0086949949b2a0f81ddd9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "黄凯曾抑郁到想放弃生命",
+      "rank": 36,
+      "title": "黄凯曾抑郁到想放弃生命",
+      "topic_id": "2315226b27aa56b1cb8ed174a6288170352285"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "中国留学生不会用美国打火机",
+      "rank": 37,
+      "title": "中国留学生不会用美国打火机",
+      "topic_id": "231522def69acf80e9a85b77acf948e028119e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#终于知道新疆马路上的箭头是干什么的了#",
+      "rank": 38,
+      "title": "终于知道新疆马路上的箭头是干什么的了",
+      "topic_id": "231522b6779d07e8466f905136c1270602a796"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "嫁金钗 真千金是假的假千金是真的",
+      "rank": 39,
+      "title": "嫁金钗 真千金是假的假千金是真的",
+      "topic_id": "23152240ae0bba20ec420e6be197778a600aa3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "猫瘾犯了猫却很警惕",
+      "rank": 40,
+      "title": "猫瘾犯了猫却很警惕",
+      "topic_id": "231522c3f0e14daff1dabe18619e6161f2f830"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 6,
+      "posts": "saved",
+      "query": "#张家界百龙天梯碰到疯狂的韩国游客#",
+      "rank": 41,
+      "title": "张家界百龙天梯碰到疯狂的韩国游客",
+      "topic_id": "2315224a360a65b8258449640bf5cb57b8aec7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "爸妈带你看世界四年没出河南",
+      "rank": 42,
+      "title": "爸妈带你看世界四年没出河南",
+      "topic_id": "2315225513240f8699738f3b22908400e1948c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#老人打扑克悔牌被踹后七天离世#",
+      "rank": 43,
+      "title": "老人打扑克悔牌被踹后七天离世",
+      "topic_id": "231522552201b10a2b37cfc353a83a186923ec"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "JY戴士 京城大师赛",
+      "rank": 44,
+      "title": "JY戴士 京城大师赛",
+      "topic_id": "231522948878ca67f2d79087982f761081d09d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "#医生在4岁宝宝睫毛上发现阴虱#",
+      "rank": 45,
+      "title": "医生在4岁宝宝睫毛上发现阴虱",
+      "topic_id": "2315223f4033a2a8305409daa0a28be8b779c6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "京城大师赛",
+      "rank": 46,
+      "title": "京城大师赛",
+      "topic_id": "231522fd6368939ece71fad62c366cfafc250f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#上海一试驾车冲上人行道撞飞路人#",
+      "rank": 47,
+      "title": "上海一试驾车冲上人行道撞飞路人",
+      "topic_id": "23152253129aa8064c70d4c054a9a203dbdcc1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "嫁金钗",
+      "rank": 48,
+      "title": "嫁金钗",
+      "topic_id": "2315226cf7f2bdf15634b7584b304741dfd7c3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "凯尔特人VS76人",
+      "rank": 49,
+      "title": "凯尔特人VS76人",
+      "topic_id": "231522bcf8c60526c7ee1c789fae7d87032953"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "产妇分娩哭喊不该被粗暴对待",
+      "rank": 50,
+      "title": "产妇分娩哭喊不该被粗暴对待",
+      "topic_id": "231522d82015912f7af5f56cf2f6b589498549"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
