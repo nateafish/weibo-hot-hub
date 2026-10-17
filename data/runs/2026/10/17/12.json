@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-10-17T12:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#习近平在内蒙古乌兰察布考察#",
+      "rank": 1,
+      "title": "习近平在内蒙古乌兰察布考察",
+      "topic_id": "23152236097bd1c579b58b367cc6f186d0f2b7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#拿打工人血汗钱给女儿铺星路#",
+      "rank": 1,
+      "title": "拿打工人血汗钱给女儿铺星路",
+      "topic_id": "231522dd0ba3c04b785d17d0271dec7bd897bd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#刘丁硕说国乒大家庭总有个别人不团结#",
+      "rank": 2,
+      "title": "刘丁硕说国乒大家庭总有个别人不团结",
+      "topic_id": "2315221804432accc36858c4a0ba00c49ab910"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#这届广交会含新量拉满了#",
+      "rank": 3,
+      "title": "这届广交会含新量拉满了",
+      "topic_id": "2315225740df7e10640314f28b1217b8fae746"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#刘丁硕指责张继科长期倚老卖老#",
+      "rank": 4,
+      "title": "刘丁硕指责张继科长期倚老卖老",
+      "topic_id": "23152222701222fb156610b68fe689714fef16"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "奔跑吧",
+      "rank": 5,
+      "title": "奔跑吧",
+      "topic_id": "23152298be6daf51ddcae1b301f07ddcf6a500"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#杨幂三生三世这段仿佛请神上身#",
+      "rank": 6,
+      "title": "杨幂三生三世这段仿佛请神上身",
+      "topic_id": "231522db1da76d35d036f8ab08197f88d3d284"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "#皮肤科医生建议住酒店自带4样东西#",
+      "rank": 7,
+      "title": "皮肤科医生建议住酒店自带4样东西",
+      "topic_id": "23152273c02b2f94e6502903bc6bf284ad10fb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "网友演示特斯拉roadster吸在路上",
+      "rank": 8,
+      "title": "网友演示特斯拉roadster吸在路上",
+      "topic_id": "231522a44af75867cd40d608cc8771a4541361"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#于正希望白鹿朝玉阶救古装长剧#",
+      "rank": 9,
+      "title": "于正希望白鹿朝玉阶救古装长剧",
+      "topic_id": "23152287c4a469988f29da86c5d29266b0e4ee"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#孙颖莎站错位了#",
+      "rank": 10,
+      "title": "孙颖莎站错位了",
+      "topic_id": "2315224f9170f558f44218f828cc6c6b63b7e4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "徐艺洋喝酒视频有奶瓶清洁剂",
+      "rank": 11,
+      "title": "徐艺洋喝酒视频有奶瓶清洁剂",
+      "topic_id": "231522bc7b98bf00930752d251bad83c3253f3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#沈月好友翁小雯离婚#",
+      "rank": 12,
+      "title": "沈月好友翁小雯离婚",
+      "topic_id": "231522ce45d8c4c9505481cf123d99b3d06046"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#曝尚公主剧宣内幕#",
+      "rank": 13,
+      "title": "曝尚公主剧宣内幕",
+      "topic_id": "23152272a4af78aa2cae0b2418ae6211984bc0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#肖战出发南京排练演唱会#",
+      "rank": 14,
+      "title": "肖战出发南京排练演唱会",
+      "topic_id": "23152254eaeaeab3bda1b4acb7c96524c273cc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "网友质疑刘丁硕身份",
+      "rank": 15,
+      "title": "网友质疑刘丁硕身份",
+      "topic_id": "2315221b97e86081a172738fa8370bb3b152a8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "中国留学生就身披旭日旗道歉",
+      "rank": 16,
+      "title": "中国留学生就身披旭日旗道歉",
+      "topic_id": "231522f25fca8e226507ce18d21e0b7ba1ff50"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "尚公主定档",
+      "rank": 17,
+      "title": "尚公主定档",
+      "topic_id": "23152219bb6dfd2fdfab46a57472cdb93e2290"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#徐艺洋太瘦了穿宽松的衣服完全不显怀#",
+      "rank": 18,
+      "title": "徐艺洋太瘦了穿宽松的衣服完全不显怀",
+      "topic_id": "231522b4bcbf519872aff30bf51729d699a076"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#徐志胜预言家#",
+      "rank": 19,
+      "title": "徐志胜预言家",
+      "topic_id": "2315221a8210eddbd722380a3c515d5fba015e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#省运会导演感谢孙颖莎带来流量#",
+      "rank": 20,
+      "title": "省运会导演感谢孙颖莎带来流量",
+      "topic_id": "23152247f2f101ae78d69f998de1e10f64cd58"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#新郎回应与新娘深情对视摆拍质疑#",
+      "rank": 21,
+      "title": "新郎回应与新娘深情对视摆拍质疑",
+      "topic_id": "2315222997789202fe6876b8969e7b1c5c28a5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#29岁教师瘫痪在教师节#",
+      "rank": 22,
+      "title": "29岁教师瘫痪在教师节",
+      "topic_id": "231522985809747eb7426077f30504dea7f2b5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "#iPhoneDuo溢价从5.8万暴跌至7000#",
+      "rank": 23,
+      "title": "iPhoneDuo溢价从5.8万暴跌至7000",
+      "topic_id": "2315220a872ae68cabe49d7e3bf30e8ba84bc3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "心眼多是对智力的代偿",
+      "rank": 24,
+      "title": "心眼多是对智力的代偿",
+      "topic_id": "231522553fce2aa629b046ece59051b55b077b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#李蠕蠕模仿AI短剧#",
+      "rank": 25,
+      "title": "李蠕蠕模仿AI短剧",
+      "topic_id": "23152226e427dc08f32cc1888bca4a466637cc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "郭宇欣直播被指屏蔽导演",
+      "rank": 26,
+      "title": "郭宇欣直播被指屏蔽导演",
+      "topic_id": "2315228e35136e9efbd9dfc49aba201f5d0da1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#JackeyLove说Zuian已经败了#",
+      "rank": 27,
+      "title": "JackeyLove说Zuian已经败了",
+      "topic_id": "231522ef3cda889fdedb6466749f7819cbf7e8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#梁靖崑儿子喊看孙颖莎把亲爸晾一边#",
+      "rank": 28,
+      "title": "梁靖崑儿子喊看孙颖莎把亲爸晾一边",
+      "topic_id": "23152292ffefc90a8fd5bf0eb5205b0107860b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#老人被中介哄骗220万房只卖70万#",
+      "rank": 29,
+      "title": "老人被中介哄骗220万房只卖70万",
+      "topic_id": "231522c3a7e37ed1b3e54a0508a3202f965055"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#高市早苗今年已4次拜鬼#",
+      "rank": 30,
+      "title": "高市早苗今年已4次拜鬼",
+      "topic_id": "23152272edf900ef926e873776b91293e4407e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#马嘉祺贺峻霖外务去前缀#",
+      "rank": 31,
+      "title": "马嘉祺贺峻霖外务去前缀",
+      "topic_id": "2315225519f0efc16af441aebd1b52da899b0e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "特斯拉",
+      "rank": 32,
+      "title": "特斯拉",
+      "topic_id": "2315229edef009c26359c7af8f5215a218043d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#董事长回应与女子生双胞胎无法落户#",
+      "rank": 33,
+      "title": "董事长回应与女子生双胞胎无法落户",
+      "topic_id": "23152219160e35e21cd0136d3c1e7ce9e3c70d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "京城大师赛被曝裸检",
+      "rank": 34,
+      "title": "京城大师赛被曝裸检",
+      "topic_id": "2315228c9bfcf8d44e2254ad7d22f8cbf7990a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#河北卫视回应孙颖莎站错位#",
+      "rank": 35,
+      "title": "河北卫视回应孙颖莎站错位",
+      "topic_id": "2315227f0588eac408c6020f5a70c46d325c5f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#果然高瘦的人穿这种裤子才好看#",
+      "rank": 36,
+      "title": "果然高瘦的人穿这种裤子才好看",
+      "topic_id": "2315224e7291f86fb7555a7f825d621211eb3e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#于正大赞兰香如故和主角#",
+      "rank": 37,
+      "title": "于正大赞兰香如故和主角",
+      "topic_id": "2315221b6c70e819e3cf81453474857e62920b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "盛艾敬父母公司欠薪被执行345万",
+      "rank": 38,
+      "title": "盛艾敬父母公司欠薪被执行345万",
+      "topic_id": "231522300bdad965c2493c756a149d346ca633"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#白宫发言人回应首秀翻车#",
+      "rank": 39,
+      "title": "白宫发言人回应首秀翻车",
+      "topic_id": "231522ad10bb83d6684ad867c42bbe82ca4acc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#嫁金钗走势#",
+      "rank": 40,
+      "title": "嫁金钗走势",
+      "topic_id": "2315225c049370264fa8951609f69ff978e607"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "交警称不拴绳狗被撞死按野狗处理",
+      "rank": 41,
+      "title": "交警称不拴绳狗被撞死按野狗处理",
+      "topic_id": "231522854ea3e8ac61be5c72c1f925247de02f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#杨瀚森NBA季前赛表现#",
+      "rank": 42,
+      "title": "杨瀚森NBA季前赛表现",
+      "topic_id": "2315220d4d88d0e1a0958d19ba8a888dcd4400"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#曝李昀锐孟子义跑男同组#",
+      "rank": 43,
+      "title": "曝李昀锐孟子义跑男同组",
+      "topic_id": "2315228bf5ad8a9f3e361e575c4dbc3fbdb016"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#蔡天凤现任丈夫庭上情绪失控#",
+      "rank": 44,
+      "title": "蔡天凤现任丈夫庭上情绪失控",
+      "topic_id": "231522661f4ac841b6f85b35ab8d3ffaefa5ab"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "产妇分娩哭喊不该被粗暴对待",
+      "rank": 45,
+      "title": "产妇分娩哭喊不该被粗暴对待",
+      "topic_id": "231522d82015912f7af5f56cf2f6b589498549"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#上海一试驾车冲上人行道撞飞路人#",
+      "rank": 46,
+      "title": "上海一试驾车冲上人行道撞飞路人",
+      "topic_id": "23152253129aa8064c70d4c054a9a203dbdcc1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#湖南把班主任和职称硬挂钩#",
+      "rank": 47,
+      "title": "湖南把班主任和职称硬挂钩",
+      "topic_id": "23152201aca0b1c1c48d3af93899e148649e99"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#阿普瑞庄园打出一张中国赛外卡#",
+      "rank": 48,
+      "title": "阿普瑞庄园打出一张中国赛外卡",
+      "topic_id": "2315229d7de575d6e69640a0234d5d07ba05ea"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "珠穆朗玛峰峰顶什么样",
+      "rank": 49,
+      "title": "珠穆朗玛峰峰顶什么样",
+      "topic_id": "231522d7055ed8f0eb5a2ed98740c316669b36"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "#盛艾敬父母欠薪时仍给女儿花重金#",
+      "rank": 50,
+      "title": "盛艾敬父母欠薪时仍给女儿花重金",
+      "topic_id": "231522cc7711021be0b781e8bb8dc6f8f4f49a"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
