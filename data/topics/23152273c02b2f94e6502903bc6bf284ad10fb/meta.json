@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 3229962754
   },
-  "last_seen_at": "2026-10-17T07:00:00+08:00",
+  "last_seen_at": "2026-10-17T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%9A%AE%E8%82%A4%E7%A7%91%E5%8C%BB%E7%94%9F%E5%BB%BA%E8%AE%AE%E4%BD%8F%E9%85%92%E5%BA%97%E8%87%AA%E5%B8%A64%E6%A0%B7%E4%B8%9C%E8%A5%BF%23%26t%3D3&title=发布媒体",
-    "show_str": "7家媒体",
+    "show_str": "13家媒体",
     "users": [
       {
         "id": 3229962754,
         "idstr": "3229962754",
         "screen_name": "陕视新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2188202475,
+        "idstr": "2188202475",
+        "screen_name": "南京晨报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +37,30 @@
         "verified_type": 3
       },
       {
+        "id": 2016841587,
+        "idstr": "2016841587",
+        "screen_name": "无锡电视官方微博",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1938523582,
+        "idstr": "1938523582",
+        "screen_name": "宁波晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1895096900,
+        "idstr": "1895096900",
+        "screen_name": "深圳新闻网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1738004582,
         "idstr": "1738004582",
         "screen_name": "纵览新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1708763410,
-        "idstr": "1708763410",
-        "screen_name": "浙江日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1611935011,
-        "idstr": "1611935011",
-        "screen_name": "中国报道",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1300949834,
-        "idstr": "1300949834",
-        "screen_name": "盐城晚报的微博",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1232121710,
-        "idstr": "1232121710",
-        "screen_name": "山西晚报",
         "verified": true,
         "verified_type": 3
       }

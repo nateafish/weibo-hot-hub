@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2803301701
   },
-  "last_seen_at": "2026-10-17T07:00:00+08:00",
+  "last_seen_at": "2026-10-17T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%AA%91%E7%94%B5%E5%8A%A8%E8%BD%A6%E4%B8%8B%E8%BD%A6%E6%97%B6%E5%8A%A1%E5%BF%85%E5%85%B3%E9%97%AD%E7%94%B5%E6%BA%90%23%26t%3D3&title=发布媒体",
-    "show_str": "16家媒体",
+    "show_str": "21家媒体",
     "users": [
       {
         "id": 2803301701,
         "idstr": "2803301701",
         "screen_name": "人民日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1682207150,
+        "idstr": "1682207150",
+        "screen_name": "南方日报",
         "verified": true,
         "verified_type": 3
       },
@@ -37,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 3288875501,
+        "idstr": "3288875501",
+        "screen_name": "河南日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 3242792887,
         "idstr": "3242792887",
         "screen_name": "吉林日报",
@@ -47,20 +61,6 @@
         "id": 3229962754,
         "idstr": "3229962754",
         "screen_name": "陕视新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2921799343,
-        "idstr": "2921799343",
-        "screen_name": "天下泉城",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2232625672,
-        "idstr": "2232625672",
-        "screen_name": "安庆天天直播",
         "verified": true,
         "verified_type": 3
       }
