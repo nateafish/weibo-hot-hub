@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 1887344341
   },
-  "last_seen_at": "2026-10-17T16:00:00+08:00",
+  "last_seen_at": "2026-10-17T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%B4%A7%E8%BD%AE%E6%B2%89%E6%B2%A1%E5%A4%A7%E9%87%8FiPhone%E6%BC%82%E6%B5%AE%E6%B5%B7%E9%9D%A2%23%26t%3D3&title=发布媒体",
-    "show_str": "13家媒体",
+    "show_str": "25家媒体",
     "users": [
       {
         "id": 1887344341,
         "idstr": "1887344341",
         "screen_name": "观察者网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3229962754,
+        "idstr": "3229962754",
+        "screen_name": "陕视新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2337985010,
+        "idstr": "2337985010",
+        "screen_name": "瑞安融媒",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 3229962754,
-        "idstr": "3229962754",
-        "screen_name": "陕视新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2118205862,
-        "idstr": "2118205862",
-        "screen_name": "宁夏新闻网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2075245652,
-        "idstr": "2075245652",
-        "screen_name": "长春晚报",
+        "id": 6444725927,
+        "idstr": "6444725927",
+        "screen_name": "吉祥新闻",
         "verified": true,
         "verified_type": 3
       }
