@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2118872917
   },
-  "last_seen_at": "2026-10-18T06:00:00+08:00",
+  "last_seen_at": "2026-10-18T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%BE%90%E8%89%BA%E6%B4%8B%E5%BC%9F%E5%BC%9F%E5%8F%91%E6%96%87%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "6家媒体",
     "users": [
       {
         "id": 1497087080,
@@ -30,9 +30,23 @@
         "verified_type": 3
       },
       {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2286092114,
         "idstr": "2286092114",
         "screen_name": "中国蓝新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
         "verified": true,
         "verified_type": 3
       },

@@ -10,11 +10,33 @@
     "status": 2,
     "uid": 5130213751
   },
-  "last_seen_at": "2026-10-18T06:00:00+08:00",
+  "last_seen_at": "2026-10-18T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%AB%81%E9%87%91%E9%92%97%E8%BF%99%E6%98%AF%E5%A5%94%E7%9D%80%E7%A0%B4%E7%BA%AA%E5%BD%95%E5%8E%BB%E7%9A%84%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "3家媒体",
+    "users": [
+      {
+        "id": 5396094153,
+        "idstr": "5396094153",
+        "screen_name": "大众新闻-大众日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2824067765,
+        "idstr": "2824067765",
+        "screen_name": "贺州日报官微",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#嫁金钗这是奔着破纪录去的#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E5%AB%81%E9%87%91%E9%92%97%E8%BF%99%E6%98%AF%E5%A5%94%E7%9D%80%E7%A0%B4%E7%BA%AA%E5%BD%95%E5%8E%BB%E7%9A%84%23",
