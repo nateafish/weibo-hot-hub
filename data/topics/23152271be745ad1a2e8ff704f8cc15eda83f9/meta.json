@@ -10,11 +10,33 @@
     "status": 2,
     "uid": 2306470021
   },
-  "last_seen_at": "2026-10-17T23:00:00+08:00",
+  "last_seen_at": "2026-10-18T01:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9B%BE%E8%BE%89%E6%B7%98%E6%B1%B0%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "3家媒体",
+    "users": [
+      {
+        "id": 1878335471,
+        "idstr": "1878335471",
+        "screen_name": "新浪综艺",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6477929648,
+        "idstr": "6477929648",
+        "screen_name": "晶视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1642591402,
+        "idstr": "1642591402",
+        "screen_name": "新浪娱乐",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "曾辉淘汰",
   "search_url": "https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%BE%89%E6%B7%98%E6%B1%B0%23",

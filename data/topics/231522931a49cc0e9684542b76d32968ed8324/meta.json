@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1893892941
   },
-  "last_seen_at": "2026-10-17T23:00:00+08:00",
+  "last_seen_at": "2026-10-18T01:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%82%96%E6%88%98%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8D%97%E4%BA%AC%E5%A4%AA%E5%B0%BD%E5%8A%9B%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "13家媒体",
+    "show_str": "22家媒体",
     "users": [
       {
         "id": 1893892941,
@@ -30,9 +30,23 @@
         "verified_type": 3
       },
       {
+        "id": 1677991972,
+        "idstr": "1677991972",
+        "screen_name": "晶报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7542252663,
         "idstr": "7542252663",
         "screen_name": "北京质量报告",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7422806367,
+        "idstr": "7422806367",
+        "screen_name": "中网传播",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2145917613,
-        "idstr": "2145917613",
-        "screen_name": "北京日报都视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2075245652,
-        "idstr": "2075245652",
-        "screen_name": "长春晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1943154142,
-        "idstr": "1943154142",
-        "screen_name": "中安在线",
+        "id": 2356298087,
+        "idstr": "2356298087",
+        "screen_name": "河北经视",
         "verified": true,
         "verified_type": 3
       }
