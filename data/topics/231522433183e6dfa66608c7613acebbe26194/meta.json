@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1644358851
   },
-  "last_seen_at": "2026-10-18T07:00:00+08:00",
+  "last_seen_at": "2026-10-18T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9D%AD%E5%B7%9E%E5%A4%A7%E4%B8%89%E5%A5%B3%E5%AD%A97%E4%B8%AA%E6%9C%88%E5%BC%8020%E5%AE%B6%E6%9F%A0%E6%AA%AC%E5%A5%B6%E5%BA%97%23%26t%3D3&title=发布媒体",
-    "show_str": "36家媒体",
+    "show_str": "67家媒体",
     "users": [
       {
         "id": 1644358851,
@@ -44,13 +44,6 @@
         "verified_type": 3
       },
       {
-        "id": 1913382117,
-        "idstr": "1913382117",
-        "screen_name": "深圳晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 1751714412,
         "idstr": "1751714412",
         "screen_name": "大皖新闻",
@@ -58,9 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 2356298087,
-        "idstr": "2356298087",
-        "screen_name": "河北经视",
+        "id": 3288875501,
+        "idstr": "3288875501",
+        "screen_name": "河南日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
         "verified": true,
         "verified_type": 3
       }
