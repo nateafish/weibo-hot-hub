@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 3663813903
   },
-  "last_seen_at": "2026-10-18T09:00:00+08:00",
+  "last_seen_at": "2026-10-18T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%82%96%E6%88%98%E5%8D%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%8C%E5%BC%80%23%26t%3D3&title=发布媒体",
-    "show_str": "7家媒体",
+    "show_str": "9家媒体",
     "users": [
       {
         "id": 2992050891,
         "idstr": "2992050891",
         "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2460937233,
+        "idstr": "2460937233",
+        "screen_name": "热度新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -37,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 1936119834,
+        "idstr": "1936119834",
+        "screen_name": "河北长城网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1913382117,
         "idstr": "1913382117",
         "screen_name": "深圳晚报",
@@ -47,20 +61,6 @@
         "id": 1767961804,
         "idstr": "1767961804",
         "screen_name": "大江新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1682207150,
-        "idstr": "1682207150",
-        "screen_name": "南方日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1657914910,
-        "idstr": "1657914910",
-        "screen_name": "烟台日报社大小新闻",
         "verified": true,
         "verified_type": 3
       }

@@ -3,15 +3,29 @@
   "created_at": 1792277917,
   "first_seen_at": "2026-10-18T09:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-18T09:00:00+08:00",
+  "last_seen_at": "2026-10-18T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%90%B4%E8%B6%8A%E5%8F%91%E5%A3%B0AI%E8%AF%88%E9%AA%97%E5%A4%AA%E6%81%B6%E5%8A%A3%23%26t%3D3&title=发布媒体",
-    "show_str": "12家媒体",
+    "show_str": "23家媒体",
     "users": [
       {
         "id": 1751714412,
         "idstr": "1751714412",
         "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7476096354,
+        "idstr": "7476096354",
+        "screen_name": "每刻视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7216381483,
+        "idstr": "7216381483",
+        "screen_name": "看成都",
         "verified": true,
         "verified_type": 3
       },
@@ -23,37 +37,23 @@
         "verified_type": 3
       },
       {
+        "id": 5762891674,
+        "idstr": "5762891674",
+        "screen_name": "密度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2594033604,
+        "idstr": "2594033604",
+        "screen_name": "晨报体育",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2252846093,
         "idstr": "2252846093",
         "screen_name": "长春新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2191398120,
-        "idstr": "2191398120",
-        "screen_name": "成都商报美食",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2087169013,
-        "idstr": "2087169013",
-        "screen_name": "法治日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2075245652,
-        "idstr": "2075245652",
-        "screen_name": "长春晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1974335820,
-        "idstr": "1974335820",
-        "screen_name": "成都商报报料",
         "verified": true,
         "verified_type": 3
       }
