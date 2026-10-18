@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1649173367
   },
-  "last_seen_at": "2026-10-18T15:00:00+08:00",
+  "last_seen_at": "2026-10-18T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A4%9A%E4%BD%8D%E6%98%8E%E6%98%9F%E8%87%AA%E6%9B%9D%E7%82%92%E8%82%A1%E5%B7%A8%E4%BA%8F%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "18家媒体",
     "users": [
       {
         "id": 1649173367,
         "idstr": "1649173367",
         "screen_name": "每日经济新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2346437860,
+        "idstr": "2346437860",
+        "screen_name": "三峡融媒",
         "verified": true,
         "verified_type": 3
       },
@@ -30,6 +37,20 @@
         "verified_type": 3
       },
       {
+        "id": 7577335075,
+        "idstr": "7577335075",
+        "screen_name": "星妹儿帮帮忙",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7399555658,
+        "idstr": "7399555658",
+        "screen_name": "红星资本局",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6452231600,
         "idstr": "6452231600",
         "screen_name": "NBD视频",
@@ -37,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2056962703,
-        "idstr": "2056962703",
-        "screen_name": "NBD汽车",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2026044661,
-        "idstr": "2026044661",
-        "screen_name": "海量财经",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1867427515,
-        "idstr": "1867427515",
-        "screen_name": "新派新闻",
+        "id": 2647971081,
+        "idstr": "2647971081",
+        "screen_name": "时速新闻",
         "verified": true,
         "verified_type": 3
       }
