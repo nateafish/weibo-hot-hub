@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1893892941
   },
-  "last_seen_at": "2026-10-18T12:00:00+08:00",
+  "last_seen_at": "2026-10-18T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E5%A4%A9%E4%BB%B7%E9%BB%84%E7%89%9B%E7%A5%A8%23%26t%3D3&title=发布媒体",
-    "show_str": "12家媒体",
+    "show_str": "37家媒体",
     "users": [
       {
         "id": 1893892941,
         "idstr": "1893892941",
         "screen_name": "北京日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +37,30 @@
         "verified_type": 3
       },
       {
+        "id": 1451977335,
+        "idstr": "1451977335",
+        "screen_name": "新晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497418417,
+        "idstr": "1497418417",
+        "screen_name": "掌上温岭",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7542252663,
         "idstr": "7542252663",
         "screen_name": "北京质量报告",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3877613768,
-        "idstr": "3877613768",
-        "screen_name": "爱济南发布",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2145917613,
-        "idstr": "2145917613",
-        "screen_name": "北京日报都视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1943154142,
-        "idstr": "1943154142",
-        "screen_name": "中安在线",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1838672663,
-        "idstr": "1838672663",
-        "screen_name": "华夏时报",
         "verified": true,
         "verified_type": 3
       }

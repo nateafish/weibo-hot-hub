@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 2656274875
   },
-  "last_seen_at": "2026-10-18T12:00:00+08:00",
+  "last_seen_at": "2026-10-18T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%B5%B4%E4%B9%8C%E5%85%B0%E5%AF%9F%E5%B8%83%E8%80%83%E5%AF%9F%E7%BA%AA%E5%AE%9E%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "8家媒体",
     "users": [
       {
         "id": 2656274875,
         "idstr": "2656274875",
         "screen_name": "央视新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6587633798,
+        "idstr": "6587633798",
+        "screen_name": "崇义发布",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5608027665,
+        "idstr": "5608027665",
+        "screen_name": "中国环境",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3901624042,
+        "idstr": "3901624042",
+        "screen_name": "山西日报",
         "verified": true,
         "verified_type": 3
       },
@@ -37,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1767961804,
-        "idstr": "1767961804",
-        "screen_name": "大江新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 1232121710,
         "idstr": "1232121710",
         "screen_name": "山西晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1036713140,
-        "idstr": "1036713140",
-        "screen_name": "杭州网",
         "verified": true,
         "verified_type": 3
       }

@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2318910945
   },
-  "last_seen_at": "2026-10-18T12:00:00+08:00",
+  "last_seen_at": "2026-10-18T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%B3%95%E5%9B%BD%E5%A4%9A%E5%9C%B0LV%E9%97%A8%E5%BA%97%E8%A2%AB%E6%B4%97%E5%8A%AB%E4%B8%80%E7%A9%BA%23%26t%3D3&title=发布媒体",
-    "show_str": "12家媒体",
+    "show_str": "15家媒体",
     "users": [
       {
         "id": 2318910945,
@@ -23,9 +23,23 @@
         "verified_type": 3
       },
       {
+        "id": 1308708761,
+        "idstr": "1308708761",
+        "screen_name": "千山晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7476748260,
         "idstr": "7476748260",
         "screen_name": "大公文匯網",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7354234663,
+        "idstr": "7354234663",
+        "screen_name": "大湾区之声",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 5137261048,
         "idstr": "5137261048",
         "screen_name": "中国侨网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3037284894,
-        "idstr": "3037284894",
-        "screen_name": "经济日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2950854882,
-        "idstr": "2950854882",
-        "screen_name": "英伦圈",
         "verified": true,
         "verified_type": 3
       }
