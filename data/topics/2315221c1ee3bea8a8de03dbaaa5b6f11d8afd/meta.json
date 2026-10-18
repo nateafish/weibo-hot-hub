@@ -3,11 +3,33 @@
   "created_at": 1792288509,
   "first_seen_at": "2026-10-18T10:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-18T10:00:00+08:00",
+  "last_seen_at": "2026-10-18T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%83%AD%E5%AE%87%E6%AC%A3+%E5%8F%B6%E9%9D%9E%E5%A4%9C%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "3家媒体",
+    "users": [
+      {
+        "id": 7708039348,
+        "idstr": "7708039348",
+        "screen_name": "北青娱见",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1959451603,
+        "idstr": "1959451603",
+        "screen_name": "锦观新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497087080,
+        "idstr": "1497087080",
+        "screen_name": "羊城晚报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "郭宇欣 叶非夜",
   "search_url": "https://s.weibo.com/weibo?q=%23%E9%83%AD%E5%AE%87%E6%AC%A3%20%E5%8F%B6%E9%9D%9E%E5%A4%9C%23",
