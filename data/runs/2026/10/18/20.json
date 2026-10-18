@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-10-18T20:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#总书记对老年人的久久关怀#",
+      "rank": 1,
+      "title": "总书记对老年人的久久关怀",
+      "topic_id": "23152254d0f72e4a8afb5d3fdc4456d8dbd4ea"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "接到网贷催收电话统一说不认识",
+      "rank": 1,
+      "title": "接到网贷催收电话统一说不认识",
+      "topic_id": "2315224827c9609878a0ac50b94630b990ef18"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#建议售价1980的眼镜片批发价30#",
+      "rank": 2,
+      "title": "建议售价1980的眼镜片批发价30",
+      "topic_id": "231522549d5c138d1aede4e5b1bb2ff865a672"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#文化中国行九九重阳节#",
+      "rank": 3,
+      "title": "文化中国行九九重阳节",
+      "topic_id": "23152264b7b0edec109c5770011c31a9bfeef4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "神父弥撒时被十字架砸中身亡",
+      "rank": 4,
+      "title": "神父弥撒时被十字架砸中身亡",
+      "topic_id": "23152256571bac2e067fef9824e205e65c83eb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#欧洲多国大规模抗议原因#",
+      "rank": 5,
+      "title": "欧洲多国大规模抗议原因",
+      "topic_id": "2315221c47abbae89e5028d3fbba0005b8c17d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#法国民众这次真急了#",
+      "rank": 6,
+      "title": "法国民众这次真急了",
+      "topic_id": "23152218750cb9d5c3c88f32a90c9e213ca93e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "上海大师赛男单决赛",
+      "rank": 7,
+      "title": "上海大师赛男单决赛",
+      "topic_id": "231522c03e55c73e937e38db51e1cd35bd94c5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#披荆斩棘6总决赛歌单#",
+      "rank": 8,
+      "title": "披荆斩棘6总决赛歌单",
+      "topic_id": "2315223d016c47d6432bb38ff6accf44f7b32f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#老伴去世103岁爷爷暴瘦70斤#",
+      "rank": 9,
+      "title": "老伴去世103岁爷爷暴瘦70斤",
+      "topic_id": "2315228e907d1e469ce761ae9f40ce015ce533"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张家齐妈妈说我是一个傻子一个笨蛋#",
+      "rank": 10,
+      "title": "张家齐妈妈说我是一个傻子一个笨蛋",
+      "topic_id": "231522d21a95b76e3a0618c4aeec6c627a1ca5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#韩国网友要求盛艾敬退团#",
+      "rank": 11,
+      "title": "韩国网友要求盛艾敬退团",
+      "topic_id": "231522cd5b6b6782fcbbd22ec3ab318f708c9e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#Angelababy回应被说显老#",
+      "rank": 12,
+      "title": "Angelababy回应被说显老",
+      "topic_id": "231522331195a1ba0c508458b7d828d1e2e968"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#球迷说刘丁硕把樊振东签名卖了五千一个#",
+      "rank": 13,
+      "title": "球迷说刘丁硕把樊振东签名卖了五千一个",
+      "topic_id": "231522acaed335de39024f7162ff190980a22b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#梅艳芳骨灰疑似被寺庙工作人员盗走#",
+      "rank": 14,
+      "title": "梅艳芳骨灰疑似被寺庙工作人员盗走",
+      "topic_id": "231522455d624f388d625286d0173c92f6af9d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#茉莉奶白爆单店员劝退消费者#",
+      "rank": 15,
+      "title": "茉莉奶白爆单店员劝退消费者",
+      "topic_id": "231522b75e6c21d12d9cba2533acd0a6ceb6a1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#黄多多背肌#",
+      "rank": 16,
+      "title": "黄多多背肌",
+      "topic_id": "23152275e6544ff00c909da77913ede06b4121"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#肖战演唱会音乐总监刘卓到南京了#",
+      "rank": 17,
+      "title": "肖战演唱会音乐总监刘卓到南京了",
+      "topic_id": "23152262fbcd1e62027fe2d8904141c4b08aee"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#王自如喊话罗永浩#",
+      "rank": 18,
+      "title": "王自如喊话罗永浩",
+      "topic_id": "2315229c38fc0987663535a74e4ae71624a81c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#嫁金钗次日云合超兰香如故#",
+      "rank": 19,
+      "title": "嫁金钗次日云合超兰香如故",
+      "topic_id": "23152293f6518853e64894778e4010a05cb889"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#法国内政部称55万人抗议#",
+      "rank": 20,
+      "title": "法国内政部称55万人抗议",
+      "topic_id": "231522e7aaa9b04996602519d832cf42931ff6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "法国骚乱 在法华人安全",
+      "rank": 21,
+      "title": "法国骚乱 在法华人安全",
+      "topic_id": "231522f7b7c5239578c8f8d6a6c1ba53f3aacf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王源模仿者王扁摆摊被打#",
+      "rank": 22,
+      "title": "王源模仿者王扁摆摊被打",
+      "topic_id": "231522246fee05d32775a9633515d16d3e7895"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#田曦薇三部剧三平台破万#",
+      "rank": 23,
+      "title": "田曦薇三部剧三平台破万",
+      "topic_id": "231522ba0551f59ecae4221143fa274c3c558b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "难怪北京没有穿搭焦虑哈哈",
+      "rank": 24,
+      "title": "难怪北京没有穿搭焦虑哈哈",
+      "topic_id": "2315226cd8fa554a5c9c3035b0efea7236cefa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#盛艾敬是否应该退团#",
+      "rank": 25,
+      "title": "盛艾敬是否应该退团",
+      "topic_id": "231522c81b2a6e4709f2343d29a02d810ca573"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "JDG KSG大师组加赛条件",
+      "rank": 26,
+      "title": "JDG KSG大师组加赛条件",
+      "topic_id": "2315221acb4d182aa28f668228e4ae520a93f1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#法国骚乱苹果爱马仕也成了目标#",
+      "rank": 27,
+      "title": "法国骚乱苹果爱马仕也成了目标",
+      "topic_id": "2315225ab4c798cb2a5d984d1332db382bdc9d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#律师称AI广告无标注涉嫌消费欺诈#",
+      "rank": 28,
+      "title": "律师称AI广告无标注涉嫌消费欺诈",
+      "topic_id": "231522af297af5db7f568d30f1e992ab3e3d74"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "嫁金钗",
+      "rank": 29,
+      "title": "嫁金钗",
+      "topic_id": "2315226cf7f2bdf15634b7584b304741dfd7c3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#抢到iPhoneDuo加价6千卖只谈到3千#",
+      "rank": 30,
+      "title": "抢到iPhoneDuo加价6千卖只谈到3千",
+      "topic_id": "231522a75c75877643ff6622f726926985042d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#法国骚乱百年市政厅被烧毁#",
+      "rank": 31,
+      "title": "法国骚乱百年市政厅被烧毁",
+      "topic_id": "231522683d562a4c78f166206ab8cd45fda39f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "嫁金钗破万",
+      "rank": 32,
+      "title": "嫁金钗破万",
+      "topic_id": "231522d4edde270e58c463b8abad6d25ffd840"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#关晓彤陈都灵感情变质#",
+      "rank": 33,
+      "title": "关晓彤陈都灵感情变质",
+      "topic_id": "2315220f3fa1d4a8f640c715da78c2a95e6e8e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#特斯拉飞行汽车在美国引发一连串疑问#",
+      "rank": 34,
+      "title": "特斯拉飞行汽车在美国引发一连串疑问",
+      "topic_id": "23152263bb71b3288b5b4f7ab09bf0f778ed21"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "长期喝牛奶vs从来不喝牛奶",
+      "rank": 35,
+      "title": "长期喝牛奶vs从来不喝牛奶",
+      "topic_id": "23152233634e5017683ed9d9bec404dd6f6f81"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "弟弟缺氧严重姐姐网上找免费救援",
+      "rank": 36,
+      "title": "弟弟缺氧严重姐姐网上找免费救援",
+      "topic_id": "2315229d7f1c314b262024ec84d4a5ac5b3b9b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#黄宣官宣当爸#",
+      "rank": 37,
+      "title": "黄宣官宣当爸",
+      "topic_id": "231522d548501fee425995a49d2382bd934889"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#胰腺癌真的太会伪装了#",
+      "rank": 38,
+      "title": "胰腺癌真的太会伪装了",
+      "topic_id": "231522cb08d2edc29fa320a6fced957d291c68"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#校方通报中国留学生课上披旭日旗#",
+      "rank": 39,
+      "title": "校方通报中国留学生课上披旭日旗",
+      "topic_id": "231522f1d80602b751d2e1ae87e62ce6289321"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "#云初令或与尚公主嫁金钗对打#",
+      "rank": 40,
+      "title": "云初令或与尚公主嫁金钗对打",
+      "topic_id": "23152287e1e14c9df82b0edda82719545a3412"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#怎样解决老人看电视难题#",
+      "rank": 41,
+      "title": "怎样解决老人看电视难题",
+      "topic_id": "231522ee74ed7108145fbad88e08ad08170a04"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#陈都灵跟粉丝求婚#",
+      "rank": 42,
+      "title": "陈都灵跟粉丝求婚",
+      "topic_id": "2315220f69a405ae01351872183ff9d4c8a64e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "男人结婚要晚点",
+      "rank": 43,
+      "title": "男人结婚要晚点",
+      "topic_id": "231522b2851d8db1fb5b17e11931f6a79f7a07"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王源崩之父林宥嘉崩之伯#",
+      "rank": 44,
+      "title": "王源崩之父林宥嘉崩之伯",
+      "topic_id": "2315221402f7267ffc9985b927dd060dc2a1c5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "EDGM终结KSG连胜",
+      "rank": 45,
+      "title": "EDGM终结KSG连胜",
+      "topic_id": "231522f944264548c873ecbf4bd95494a0ddb9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#为了不忘带钥匙老年人招式频出#",
+      "rank": 46,
+      "title": "为了不忘带钥匙老年人招式频出",
+      "topic_id": "231522038a0eb4a4fe1541f2816971de45a27e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#老人最需要的安全三件套是什么#",
+      "rank": 47,
+      "title": "老人最需要的安全三件套是什么",
+      "topic_id": "23152238f3dbf1bc5a2360aed9bb0d8e59d586"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#沈月工作室改名了#",
+      "rank": 48,
+      "title": "沈月工作室改名了",
+      "topic_id": "2315228dcea72358c2b3993c3513b86596b842"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#留几手说黄子韬徐艺洋是戏精网红#",
+      "rank": 49,
+      "title": "留几手说黄子韬徐艺洋是戏精网红",
+      "topic_id": "23152242cf7479b2df91f2db29ebbe0b596dd9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#京东校园之星选手唱我的太阳#",
+      "rank": 50,
+      "title": "京东校园之星选手唱我的太阳",
+      "topic_id": "2315226d1b09a6bb24eb6a51e42f1826873a66"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
