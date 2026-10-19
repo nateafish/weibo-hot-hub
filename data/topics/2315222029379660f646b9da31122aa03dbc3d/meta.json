@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 2452933723
   },
-  "last_seen_at": "2026-10-19T09:00:00+08:00",
+  "last_seen_at": "2026-10-19T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%BB%B4%E5%AF%86%E5%A4%A7%E7%A7%80%23%26t%3D3&title=发布媒体",
-    "show_str": "77家媒体",
+    "show_str": "147家媒体",
     "users": [
+      {
+        "id": 2286092114,
+        "idstr": "2286092114",
+        "screen_name": "中国蓝新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 3048800300,
         "idstr": "3048800300",
@@ -44,13 +51,6 @@
         "verified_type": 3
       },
       {
-        "id": 1288429914,
-        "idstr": "1288429914",
-        "screen_name": "今视频长天新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 2460937233,
         "idstr": "2460937233",
         "screen_name": "热度新闻",
@@ -58,9 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2286092114,
-        "idstr": "2286092114",
-        "screen_name": "中国蓝新闻",
+        "id": 2000016880,
+        "idstr": "2000016880",
+        "screen_name": "逐浪新闻",
         "verified": true,
         "verified_type": 3
       }

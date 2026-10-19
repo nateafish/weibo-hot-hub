@@ -10,11 +10,26 @@
     "status": 2,
     "uid": 7224874560
   },
-  "last_seen_at": "2026-10-19T09:00:00+08:00",
+  "last_seen_at": "2026-10-19T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%B1%B3%E5%8B%92%E8%AF%B4iG%E5%92%8CTES%E5%A4%AA%E9%9A%BE%E6%89%93%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "2家媒体",
+    "users": [
+      {
+        "id": 1943154142,
+        "idstr": "1943154142",
+        "screen_name": "中安在线",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#米勒说iG和TES太难打了#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E7%B1%B3%E5%8B%92%E8%AF%B4ig%E5%92%8Ctes%E5%A4%AA%E9%9A%BE%E6%89%93%E4%BA%86%23",

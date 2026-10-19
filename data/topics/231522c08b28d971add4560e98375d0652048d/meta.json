@@ -3,11 +3,26 @@
   "created_at": 1792367253,
   "first_seen_at": "2026-10-19T09:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-19T09:00:00+08:00",
+  "last_seen_at": "2026-10-19T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%B0%BD%E9%87%8F%E8%BF%9C%E7%A6%BB%E6%AD%BB%E5%91%B3%E5%BE%88%E9%87%8D%E7%9A%84%E4%BA%BA%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "2家媒体",
+    "users": [
+      {
+        "id": 1789681642,
+        "idstr": "1789681642",
+        "screen_name": "第一现场",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1411163204,
+        "idstr": "1411163204",
+        "screen_name": "人民日报健康客户端",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "尽量远离死味很重的人",
   "search_url": "https://s.weibo.com/weibo?q=%23%E5%B0%BD%E9%87%8F%E8%BF%9C%E7%A6%BB%E6%AD%BB%E5%91%B3%E5%BE%88%E9%87%8D%E7%9A%84%E4%BA%BA%23",
