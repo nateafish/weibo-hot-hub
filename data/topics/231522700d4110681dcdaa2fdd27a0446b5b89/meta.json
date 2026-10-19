@@ -10,7 +10,7 @@
     "status": 2,
     "uid": 5044281310
   },
-  "last_seen_at": "2026-10-20T01:00:00+08:00",
+  "last_seen_at": "2026-10-20T05:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BB%99%E4%BA%BA%E8%B7%B3%E5%90%8E%E6%8A%A5%E8%AD%A6%E8%A2%AB%E5%BC%BA%E5%A5%B8%E5%A4%9A%E5%90%8D%E5%8F%97%E5%AE%B3%E4%BA%BA%E8%A2%AB%E6%8A%93%23%26t%3D3&title=发布媒体",
     "show_str": "71家媒体",
@@ -19,6 +19,20 @@
         "id": 5044281310,
         "idstr": "5044281310",
         "screen_name": "澎湃新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5606627706,
+        "idstr": "5606627706",
+        "screen_name": "澎湃问吧",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1806646411,
+        "idstr": "1806646411",
+        "screen_name": "北方频道",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 6275620474,
         "idstr": "6275620474",
         "screen_name": "World湃",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6107645180,
-        "idstr": "6107645180",
-        "screen_name": "澎湃运动装",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5606627706,
-        "idstr": "5606627706",
-        "screen_name": "澎湃问吧",
         "verified": true,
         "verified_type": 3
       }
