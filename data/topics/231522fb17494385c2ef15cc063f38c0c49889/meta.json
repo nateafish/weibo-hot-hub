@@ -3,11 +3,32 @@
   "created_at": 1792390841,
   "first_seen_at": "2026-10-19T15:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-19T15:00:00+08:00",
+  "last_seen_at": "2026-10-19T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%9F%A9%E5%9B%A2%E5%BF%83%E8%BF%9E%E5%BF%83%E5%8D%B0%E5%B0%BC%E6%88%90%E5%91%98%E6%AF%8D%E4%BA%B2%E7%96%91%E6%94%AF%E6%8C%81%E5%B1%A0%E5%8D%8E%E4%BA%BA%E5%A3%AB%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "7家媒体",
     "users": [
+      {
+        "id": 1497418417,
+        "idstr": "1497418417",
+        "screen_name": "掌上温岭",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3684007222,
+        "idstr": "3684007222",
+        "screen_name": "自主汽车网",
+        "verified": true,
+        "verified_type": 7
+      },
+      {
+        "id": 2824067765,
+        "idstr": "2824067765",
+        "screen_name": "贺州日报官微",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2647971081,
         "idstr": "2647971081",
@@ -26,6 +47,13 @@
         "id": 2115259662,
         "idstr": "2115259662",
         "screen_name": "洪观新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1280846847,
+        "idstr": "1280846847",
+        "screen_name": "指尖新闻-沈阳晚报",
         "verified": true,
         "verified_type": 3
       }
