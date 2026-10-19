@@ -3,11 +3,47 @@
   "created_at": null,
   "first_seen_at": "2026-10-19T11:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-19T11:00:00+08:00",
+  "last_seen_at": "2026-10-19T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BD%95%E7%A9%97+%E7%BB%B4%E5%AF%86%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "5家媒体",
+    "users": [
+      {
+        "id": 2647971081,
+        "idstr": "2647971081",
+        "screen_name": "时速新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1959444680,
+        "idstr": "1959444680",
+        "screen_name": "云南网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1899227237,
+        "idstr": "1899227237",
+        "screen_name": "青岛早报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1406911561,
+        "idstr": "1406911561",
+        "screen_name": "云南广播电视台",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "何穗 维密",
   "search_url": "https://s.weibo.com/weibo/%23%E4%BD%95%E7%A9%97%20%E7%BB%B4%E5%AF%86%23",
