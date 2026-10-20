@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-10-20T08:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#总书记为何关注这项新基建#",
+      "rank": 1,
+      "title": "总书记为何关注这项新基建",
+      "topic_id": "2315227cf197ebab238936bca758e585e8c2b8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#身披旭日旗中国留学生已被遣返#",
+      "rank": 1,
+      "title": "身披旭日旗中国留学生已被遣返",
+      "topic_id": "231522572555c14558e837ee1bde6c7122b3b9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "蒙古国草原大火为何没烧进来",
+      "rank": 2,
+      "title": "蒙古国草原大火为何没烧进来",
+      "topic_id": "2315227316c63c1b3718c40cdfc5cc5b87a6bf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#六个字读懂中国经济新亮点#",
+      "rank": 3,
+      "title": "六个字读懂中国经济新亮点",
+      "topic_id": "231522f49296c57cf234f9fb31cf6a917a6df4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#董明珠称格力技工学校禁止谈恋爱#",
+      "rank": 4,
+      "title": "董明珠称格力技工学校禁止谈恋爱",
+      "topic_id": "231522a171db2ae07ed517b2d4b6160c3c62b4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#C罗遭葡萄牙足协处罚#",
+      "rank": 5,
+      "title": "C罗遭葡萄牙足协处罚",
+      "topic_id": "2315225746b1c51e5d974112ba58c8d0e47a12"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#披旭日旗中国留学生被遣返开除#",
+      "rank": 6,
+      "title": "披旭日旗中国留学生被遣返开除",
+      "topic_id": "231522cfb967a4cff7cfd69f0739ca39d56076"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#苹果本月第2场发布会定档#",
+      "rank": 7,
+      "title": "苹果本月第2场发布会定档",
+      "topic_id": "23152220f8b69feaa2ca896b55556053360063"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#圆通深夜致歉#",
+      "rank": 8,
+      "title": "圆通深夜致歉",
+      "topic_id": "231522a180e7b34f51c6f4bbf89bd11026a905"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#留学生披旭日旗暴露个人精神的病态#",
+      "rank": 9,
+      "title": "留学生披旭日旗暴露个人精神的病态",
+      "topic_id": "2315224ae4f2e2cf6f07a51a122add11ace763"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#C罗禁赛30天#",
+      "rank": 10,
+      "title": "C罗禁赛30天",
+      "topic_id": "231522a808b36bcfd79ffb9d8bd5c273f95ec2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#李小冉一忍再忍不想占用公共资源#",
+      "rank": 11,
+      "title": "李小冉一忍再忍不想占用公共资源",
+      "topic_id": "231522dd64c688b8862b6175c4d463dacd9876"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#首个二手房涨价的城市出现了#",
+      "rank": 12,
+      "title": "首个二手房涨价的城市出现了",
+      "topic_id": "231522395c62da11767e69556f471bcf5965dd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "男子出狱发现账户50多万只剩六块四",
+      "rank": 13,
+      "title": "男子出狱发现账户50多万只剩六块四",
+      "topic_id": "2315226b1327de4867636a7b9633bc5db5764e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "原来学霸是这样背书的",
+      "rank": 14,
+      "title": "原来学霸是这样背书的",
+      "topic_id": "231522d58a1098a9070897306ae1eab0c2d565"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#C罗致电葡足协主席告知要退出集训营#",
+      "rank": 15,
+      "title": "C罗致电葡足协主席告知要退出集训营",
+      "topic_id": "231522169f9dbfae5ff08cf8dbb2951a0996c1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#李小冉参加乘风时徐佳宁打赏至榜一#",
+      "rank": 16,
+      "title": "李小冉参加乘风时徐佳宁打赏至榜一",
+      "topic_id": "23152274667f2972f2bc1c5e7aaa9a0156a801"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#徐佳宁求婚时说给你五个亿让你作#",
+      "rank": 17,
+      "title": "徐佳宁求婚时说给你五个亿让你作",
+      "topic_id": "231522ad5ebf0b4d0eb4962af0aaa4778ba7ad"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#田曦薇剧宣真穿的婚纱#",
+      "rank": 18,
+      "title": "田曦薇剧宣真穿的婚纱",
+      "topic_id": "231522487cefc78c8601c2279cff77cb35f64c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "#谭松韵刘学义像疲惫了一天的新郎新娘#",
+      "rank": 19,
+      "title": "谭松韵刘学义像疲惫了一天的新郎新娘",
+      "topic_id": "231522cbba1d583bd9b838c97ebb11c7d8e690"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#湖人正式裁掉克内克特#",
+      "rank": 20,
+      "title": "湖人正式裁掉克内克特",
+      "topic_id": "231522c5d18a280e54fc3aadca2472274bbe53"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#仙人跳后报警被强奸多名受害人被抓#",
+      "rank": 21,
+      "title": "仙人跳后报警被强奸多名受害人被抓",
+      "topic_id": "231522700d4110681dcdaa2fdd27a0446b5b89"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#女子捐衣被写成企业捐赠#",
+      "rank": 22,
+      "title": "女子捐衣被写成企业捐赠",
+      "topic_id": "23152291f02b5e360a369c34b931c01112d393"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "代谢快的人vs代谢慢的人",
+      "rank": 23,
+      "title": "代谢快的人vs代谢慢的人",
+      "topic_id": "231522cb48fcdf2359021725a9e4fb1bd611e8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "法国女友因不让洗袜子生气",
+      "rank": 24,
+      "title": "法国女友因不让洗袜子生气",
+      "topic_id": "2315222895d3c2299fb34a63bfd23ce7d98a48"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#肖战小城良方开播品牌助阵#",
+      "rank": 25,
+      "title": "肖战小城良方开播品牌助阵",
+      "topic_id": "23152249a8eb352a628ef6caaa733c21fafca3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#南太行徒步失联女子已找到#",
+      "rank": 26,
+      "title": "南太行徒步失联女子已找到",
+      "topic_id": "231522b961431ab5ba22645ad9aa3bde977a56"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "出去玩十天回来被追着还钱",
+      "rank": 27,
+      "title": "出去玩十天回来被追着还钱",
+      "topic_id": "231522e6f45e916863d19e5c954a68613cfa86"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#魏娆夜香妇身份暴露#",
+      "rank": 28,
+      "title": "魏娆夜香妇身份暴露",
+      "topic_id": "231522699450ac993c80271a7530b7825b476e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#想要的晚年状态被10后老人具象化了#",
+      "rank": 29,
+      "title": "想要的晚年状态被10后老人具象化了",
+      "topic_id": "231522557e85ef7fca12d4862006637175aa2f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#法国骚乱反差一幕#",
+      "rank": 30,
+      "title": "法国骚乱反差一幕",
+      "topic_id": "2315229ffe871e6cb62f9f60fa7faad1c3e146"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#C罗主动承认指控#",
+      "rank": 31,
+      "title": "C罗主动承认指控",
+      "topic_id": "2315224e612f4dd9c1c129e07f1c79fd633049"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 8,
+      "posts": "saved",
+      "query": "#维密全球扭亏中国营收大涨#",
+      "rank": 32,
+      "title": "维密全球扭亏中国营收大涨",
+      "topic_id": "2315224075d7b6de8cea7306b39aee84ef7819"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#外网热议奚梦瑶重返维密走秀#",
+      "rank": 33,
+      "title": "外网热议奚梦瑶重返维密走秀",
+      "topic_id": "23152226417b710b31e8407421c0d445cab160"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "98岁爷爷嫌吃不饱要打工",
+      "rank": 34,
+      "title": "98岁爷爷嫌吃不饱要打工",
+      "topic_id": "231522ad743286d5043f143792078579b62b63"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "Aijing",
+      "rank": 35,
+      "title": "Aijing",
+      "topic_id": "23152291a5d025f73c388dbc0950e6604928f4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#祖孙三人被杀害凶手被执行死刑#",
+      "rank": 36,
+      "title": "祖孙三人被杀害凶手被执行死刑",
+      "topic_id": "2315226b37943d7eace3e55b043804172f7b26"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#沙特宣布处决两名孟加拉国公民#",
+      "rank": 37,
+      "title": "沙特宣布处决两名孟加拉国公民",
+      "topic_id": "231522df3922f437e3f769a0d749c1d5baa823"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "萨摩耶走秀时突然憋不住了",
+      "rank": 38,
+      "title": "萨摩耶走秀时突然憋不住了",
+      "topic_id": "23152266b6e9373e4c65918b4b1c31153b537c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#王一博拍摄华北豹#",
+      "rank": 39,
+      "title": "王一博拍摄华北豹",
+      "topic_id": "2315226276d01e1d9c820005eaec12e0952310"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "岳云鹏演出 听不清",
+      "rank": 40,
+      "title": "岳云鹏演出 听不清",
+      "topic_id": "231522a97983894f19a9537e14852bcc71d9d6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "苹果手机很多人不知道的操作",
+      "rank": 41,
+      "title": "苹果手机很多人不知道的操作",
+      "topic_id": "2315223dc3255521de9bf17242c268e8d6fdbc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "奔跑吧大湾区篇",
+      "rank": 42,
+      "title": "奔跑吧大湾区篇",
+      "topic_id": "23152290f79fd784720fc5df7e4fe3e8e5b471"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#仙人跳团伙利用15岁成员作诱饵敲诈#",
+      "rank": 43,
+      "title": "仙人跳团伙利用15岁成员作诱饵敲诈",
+      "topic_id": "2315224b70a7fbdf4482cc8138545eebb4f291"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#数码店老板吐槽iPhone18Pro卖不动#",
+      "rank": 44,
+      "title": "数码店老板吐槽iPhone18Pro卖不动",
+      "topic_id": "23152283ed51efacff319cd6e93929bdb49325"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#法国至少3000家商铺遭劫掠#",
+      "rank": 45,
+      "title": "法国至少3000家商铺遭劫掠",
+      "topic_id": "2315229d70ed6fd98afc9f404f7cd1e159b63c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "邵子恒22岁的特别生日",
+      "rank": 46,
+      "title": "邵子恒22岁的特别生日",
+      "topic_id": "2315228f326d3540755a68ffaff8b18a8587c0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#张雪官宣首款电摩#",
+      "rank": 47,
+      "title": "张雪官宣首款电摩",
+      "topic_id": "23152233dae55b0dd41a5cf382d84aecd3f76a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#房子降到150万好卖多了#",
+      "rank": 48,
+      "title": "房子降到150万好卖多了",
+      "topic_id": "231522d4f1205438e85f749f4cc7572d6a2ce5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#狗狗有蜱虫主人找鸡帮忙#",
+      "rank": 49,
+      "title": "狗狗有蜱虫主人找鸡帮忙",
+      "topic_id": "2315229c20be8402b3b376f74b5d0354ffcd03"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#谭松韵刘学义直播避嫌避成啥样了#",
+      "rank": 50,
+      "title": "谭松韵刘学义直播避嫌避成啥样了",
+      "topic_id": "231522014d39f37e805dbc1f53f94941f33d15"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

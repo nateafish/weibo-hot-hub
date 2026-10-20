@@ -3,11 +3,19 @@
   "created_at": 1792424569,
   "first_seen_at": "2026-10-20T05:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-20T05:00:00+08:00",
+  "last_seen_at": "2026-10-20T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E5%BE%88%E5%A4%9A%E4%BA%BA%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E6%93%8D%E4%BD%9C%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "1家媒体",
+    "users": [
+      {
+        "id": 5762891674,
+        "idstr": "5762891674",
+        "screen_name": "密度新闻",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "苹果手机很多人不知道的操作",
   "search_url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E5%BE%88%E5%A4%9A%E4%BA%BA%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E6%93%8D%E4%BD%9C%23",

@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 5585126261
   },
-  "last_seen_at": "2026-10-20T05:00:00+08:00",
+  "last_seen_at": "2026-10-20T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%94%B0%E6%9B%A6%E8%96%87%E5%89%A7%E5%AE%A3%E7%9C%9F%E7%A9%BF%E7%9A%84%E5%A9%9A%E7%BA%B1%23%26t%3D3&title=发布媒体",
-    "show_str": "8家媒体",
+    "show_str": "11家媒体",
     "users": [
       {
         "id": 7422806367,
@@ -26,6 +26,20 @@
         "id": 5168259491,
         "idstr": "5168259491",
         "screen_name": "听听FM",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6444725927,
+        "idstr": "6444725927",
+        "screen_name": "吉祥新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 1936119834,
         "idstr": "1936119834",
         "screen_name": "河北长城网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1700720163,
-        "idstr": "1700720163",
-        "screen_name": "钱江晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1677991972,
-        "idstr": "1677991972",
-        "screen_name": "晶报",
         "verified": true,
         "verified_type": 3
       }
