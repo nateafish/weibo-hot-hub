@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 7520789718
   },
-  "last_seen_at": "2026-10-20T22:00:00+08:00",
+  "last_seen_at": "2026-10-20T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E5%8F%91%E5%B8%83%E7%94%B5%E6%B1%A0%E4%BF%9D%E9%9A%9C%E6%94%BF%E7%AD%96%23%26t%3D3&title=发布媒体",
-    "show_str": "8家媒体",
+    "show_str": "12家媒体",
     "users": [
       {
         "id": 7520789718,
         "idstr": "7520789718",
         "screen_name": "铁骥视频科技频道",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7467694254,
+        "idstr": "7467694254",
+        "screen_name": "太乙科技",
+        "verified": true,
+        "verified_type": 7
+      },
+      {
+        "id": 1727472420,
+        "idstr": "1727472420",
+        "screen_name": "泰山晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1642088277,
+        "idstr": "1642088277",
+        "screen_name": "财经网",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 6418480627,
+        "idstr": "6418480627",
+        "screen_name": "星视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 5325240805,
         "idstr": "5325240805",
         "screen_name": "铁骥视频海外频道",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2460937233,
-        "idstr": "2460937233",
-        "screen_name": "热度新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1959444680,
-        "idstr": "1959444680",
-        "screen_name": "云南网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1727472420,
-        "idstr": "1727472420",
-        "screen_name": "泰山晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1652484947,
-        "idstr": "1652484947",
-        "screen_name": "新快报",
         "verified": true,
         "verified_type": 3
       }
