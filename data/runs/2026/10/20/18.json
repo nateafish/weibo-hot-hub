@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-10-20T18:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#中央社会主义学院建院70周年#",
+      "rank": 1,
+      "title": "中央社会主义学院建院70周年",
+      "topic_id": "2315222e98bc1cf213d0cac7fe98d81b9460ef"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#女子被流浪狗咬伤后几分钟狗死亡#",
+      "rank": 1,
+      "title": "女子被流浪狗咬伤后几分钟狗死亡",
+      "topic_id": "23152290855511f7b885e178a5f3e46a845096"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#情侣婚礼前分手新娘恳求新郎出席#",
+      "rank": 2,
+      "title": "情侣婚礼前分手新娘恳求新郎出席",
+      "topic_id": "23152240267c238e437aeec644ebc75c13f961"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#前三季度国民经济四大亮点#",
+      "rank": 3,
+      "title": "前三季度国民经济四大亮点",
+      "topic_id": "2315220c580cda3167ed774c6378aa43aa25da"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#钟南山院士才是真正的薄肌90后#",
+      "rank": 4,
+      "title": "钟南山院士才是真正的薄肌90后",
+      "topic_id": "2315222638a1be8957bc4b2b47bbc2a8d29664"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "钟南山心梗后仍每周运动3次",
+      "rank": 5,
+      "title": "钟南山心梗后仍每周运动3次",
+      "topic_id": "2315221f77685d78da9bed121da986f3396334"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "新鲜牛肉烫10秒到底够不够",
+      "rank": 6,
+      "title": "新鲜牛肉烫10秒到底够不够",
+      "topic_id": "2315223e474b2ff1b1d07c434594fc5793add2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#维密靠大学生翻身#",
+      "rank": 7,
+      "title": "维密靠大学生翻身",
+      "topic_id": "2315223117dc5e55e22cf848ac8812b9a85b57"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#小米全新车型曝光#",
+      "rank": 8,
+      "title": "小米全新车型曝光",
+      "topic_id": "231522076a1d338386553ce1704b8c78d6a426"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#小天才封闭社交倒逼家长购买#",
+      "rank": 9,
+      "title": "小天才封闭社交倒逼家长购买",
+      "topic_id": "23152240eb37ea8e95f447dffbbe0dd798f702"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#董明珠称橘子1块5太贵不准卖#",
+      "rank": 10,
+      "title": "董明珠称橘子1块5太贵不准卖",
+      "topic_id": "2315220d5c758eb695a5ddb6fe42ed6f3a7296"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#刘恺威黎纪君承认恋情#",
+      "rank": 11,
+      "title": "刘恺威黎纪君承认恋情",
+      "topic_id": "2315226d0e075205a33784d8ad11a6e717a887"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#王一博高原蹲守近半个月拍下华北豹#",
+      "rank": 12,
+      "title": "王一博高原蹲守近半个月拍下华北豹",
+      "topic_id": "231522ed054d221a29b147ae0f07e7932646ed"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "儿童手表封闭社交成常态",
+      "rank": 13,
+      "title": "儿童手表封闭社交成常态",
+      "topic_id": "231522a8022d4ea4aaedf773a34718d8bbd168"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#知情人称陈姓学生国庆节有挑衅举动#",
+      "rank": 14,
+      "title": "知情人称陈姓学生国庆节有挑衅举动",
+      "topic_id": "2315229cd68e52e8c76dc071fcd7a2dc0e674c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#肖战说菅韧姿角色和他一样#",
+      "rank": 15,
+      "title": "肖战说菅韧姿角色和他一样",
+      "topic_id": "23152226e7da008428140014d6de836ab16b58"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#刘恺威父亲说想快点见见黎纪君#",
+      "rank": 16,
+      "title": "刘恺威父亲说想快点见见黎纪君",
+      "topic_id": "231522f3bd735c2eebaf19c57b9bbccf1b841f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#披旭日旗中国留学生历史学哪去了#",
+      "rank": 17,
+      "title": "披旭日旗中国留学生历史学哪去了",
+      "topic_id": "23152218d58969475da52f1bc7e2958d3ec65b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#郭宇欣直播打赏退款#",
+      "rank": 18,
+      "title": "郭宇欣直播打赏退款",
+      "topic_id": "2315226dc053560a8956f5cd7751366b66363f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#全裸受检谁给的权力#",
+      "rank": 19,
+      "title": "全裸受检谁给的权力",
+      "topic_id": "231522e11e6a815304eb6e8839450e7387223a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#李小冉一忍再忍不想占用公共资源#",
+      "rank": 20,
+      "title": "李小冉一忍再忍不想占用公共资源",
+      "topic_id": "231522dd64c688b8862b6175c4d463dacd9876"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#我国没有抽中学历#",
+      "rank": 21,
+      "title": "我国没有抽中学历",
+      "topic_id": "231522d745231a8fb09d9c13e19cf331378b03"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "#曝iPhoneDuo折痕区来回滑动有波纹#",
+      "rank": 22,
+      "title": "曝iPhoneDuo折痕区来回滑动有波纹",
+      "topic_id": "2315225d37a51a13fd6d6b0ea4576368d3e4f6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#水煮蛋和螃蟹只差一个老吃家#",
+      "rank": 23,
+      "title": "水煮蛋和螃蟹只差一个老吃家",
+      "topic_id": "2315222cddadd3f7aebd366257576c08def206"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "智驾小蓝灯 L3车型",
+      "rank": 24,
+      "title": "智驾小蓝灯 L3车型",
+      "topic_id": "231522199451229d16c1f919e0ffcd3330b20c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#谁能认出来这是周深#",
+      "rank": 25,
+      "title": "谁能认出来这是周深",
+      "topic_id": "231522507af9c7b52c9f3ee5336cae364eb342"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#儿童手表新规难破小天才社交壁垒#",
+      "rank": 26,
+      "title": "儿童手表新规难破小天才社交壁垒",
+      "topic_id": "231522beaf368f343e41a8ce11ce34523688e3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#台湾年轻人悄悄爱上陆剧#",
+      "rank": 27,
+      "title": "台湾年轻人悄悄爱上陆剧",
+      "topic_id": "231522dcab5fc3fcbd837ab961ebbb5a3fb2b5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#11111元好运红包#",
+      "rank": 28,
+      "title": "11111元好运红包",
+      "topic_id": "2315227ba0eb45519f29fce7196321d475fe30"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#全国降温天猫服饰券加码#",
+      "rank": 29,
+      "title": "全国降温天猫服饰券加码",
+      "topic_id": "231522069c43ddea1912c729c22983190dda6a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#妈妈怕女儿吃苹果不洗故意裹面粉#",
+      "rank": 30,
+      "title": "妈妈怕女儿吃苹果不洗故意裹面粉",
+      "topic_id": "2315227865655d7e20a79766ab8870c17d01e3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#真的很需要进可攻退可守的穿搭#",
+      "rank": 31,
+      "title": "真的很需要进可攻退可守的穿搭",
+      "topic_id": "231522489848b807a3da1e296a33029cd5f3cd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#京东iPhone降价#",
+      "rank": 32,
+      "title": "京东iPhone降价",
+      "topic_id": "231522ede8677b62779c6b017ab061cf7f5fa6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "闫桉 头婚男主",
+      "rank": 33,
+      "title": "闫桉 头婚男主",
+      "topic_id": "231522c2f07f59eead864a5de138b0f6239afc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#喜人五年回归#",
+      "rank": 34,
+      "title": "喜人五年回归",
+      "topic_id": "23152259faab0f93e4bf49eaf8782b7e70ba01"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#张柏芝说养育3个儿子很轻松#",
+      "rank": 35,
+      "title": "张柏芝说养育3个儿子很轻松",
+      "topic_id": "2315222cfeeca3ca1bbebe3d22498f904a5fd4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#朱志鑫这是在喂我吃饭吗#",
+      "rank": 36,
+      "title": "朱志鑫这是在喂我吃饭吗",
+      "topic_id": "23152238a2577a63bfb3d2a7b48c6e6da18710"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#27岁宠物爱心博主感染罕见真菌离世#",
+      "rank": 37,
+      "title": "27岁宠物爱心博主感染罕见真菌离世",
+      "topic_id": "2315221df13586af4cd9c8aaed83ffd8d6e476"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#肖战演唱会二开售票无退票权益#",
+      "rank": 38,
+      "title": "肖战演唱会二开售票无退票权益",
+      "topic_id": "231522758c914ff2c1af6aa38f336371ecc563"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#马龙梁靖崑蛋糕八仙祝寿刚好8个人#",
+      "rank": 39,
+      "title": "马龙梁靖崑蛋糕八仙祝寿刚好8个人",
+      "topic_id": "231522faf3ecdad09baf62aa2bf4678c0b6f59"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "金鸡奖女配 死亡之组",
+      "rank": 40,
+      "title": "金鸡奖女配 死亡之组",
+      "topic_id": "231522325df93811168ffc1fd2826a671fa3c4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#独生女车祸离世八旬父母再获赔生活费#",
+      "rank": 41,
+      "title": "独生女车祸离世八旬父母再获赔生活费",
+      "topic_id": "231522f87be1a09014555a49484524f43e2cc6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#向太跟袁咏仪视频展示满墙的爱马仕#",
+      "rank": 42,
+      "title": "向太跟袁咏仪视频展示满墙的爱马仕",
+      "topic_id": "2315229f2a7882fabfe94220ae2bd7997772a1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#女子打砸酒水店五粮液定损30多万#",
+      "rank": 43,
+      "title": "女子打砸酒水店五粮液定损30多万",
+      "topic_id": "2315225d1ed3f8764fb7e62838d3b4cf3062b5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#韩路说小天才手表烂而且极贵#",
+      "rank": 44,
+      "title": "韩路说小天才手表烂而且极贵",
+      "topic_id": "231522e319162b14e2944b056376c66fb169cc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#曝方圆未整容前照片#",
+      "rank": 45,
+      "title": "曝方圆未整容前照片",
+      "topic_id": "231522fb55c2c78053629b2251c117b3fc1400"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#被困酒店卫生间1岁多婴儿险失温#",
+      "rank": 46,
+      "title": "被困酒店卫生间1岁多婴儿险失温",
+      "topic_id": "2315228e4f0377baf11834c170c72c8a49d0eb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#天猫美妆买一送一必入清单#",
+      "rank": 47,
+      "title": "天猫美妆买一送一必入清单",
+      "topic_id": "23152235b61615fc2f792ec5b5a5475aa7c657"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#GL8成LPGA赛事名流出行标配#",
+      "rank": 48,
+      "title": "GL8成LPGA赛事名流出行标配",
+      "topic_id": "231522047f08b5e28a0ee9fb8c5e6523a80031"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#黄仁勋称看到德国落后很痛心#",
+      "rank": 49,
+      "title": "黄仁勋称看到德国落后很痛心",
+      "topic_id": "231522abf4cd223f0d7158ec26131d48b09a9a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "小天才手表比中端手机还贵",
+      "rank": 50,
+      "title": "小天才手表比中端手机还贵",
+      "topic_id": "231522cc665acb7d5a74b0eb5220ba8b728c1a"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

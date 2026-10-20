@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 1653603955
   },
-  "last_seen_at": "2026-10-20T17:00:00+08:00",
+  "last_seen_at": "2026-10-20T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%A2%AB%E5%9B%B0%E9%85%92%E5%BA%97%E5%8D%AB%E7%94%9F%E9%97%B41%E5%B2%81%E5%A4%9A%E5%A9%B4%E5%84%BF%E9%99%A9%E5%A4%B1%E6%B8%A9%23%26t%3D3&title=发布媒体",
-    "show_str": "30家媒体",
+    "show_str": "47家媒体",
     "users": [
       {
         "id": 1653603955,
         "idstr": "1653603955",
         "screen_name": "扬子晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1744332207,
+        "idstr": "1744332207",
+        "screen_name": "钱江视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2337985010,
+        "idstr": "2337985010",
+        "screen_name": "瑞安融媒",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2337985010,
-        "idstr": "2337985010",
-        "screen_name": "瑞安融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 2056346650,
         "idstr": "2056346650",
         "screen_name": "中国江苏网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1708877153,
-        "idstr": "1708877153",
-        "screen_name": "都市报道",
         "verified": true,
         "verified_type": 3
       }
