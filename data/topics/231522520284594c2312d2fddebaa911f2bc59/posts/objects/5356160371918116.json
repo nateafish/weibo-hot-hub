@@ -1,0 +1,8 @@
+{
+  "body": "deepseek，真的，我哭死，自己真的一点都不留吗？\ndeepseek把他们内部的推理引擎开源了，就6小时前。\n开源了什么呢？\nSupported features:\nOptimized kernels, model and sampler runtime\nParallelism: Attention DP / balanced CP, MoE EP + EPLB\nDSpark and confidence-scheduled verification\nSWA bounded replay\nAsynchronous scheduling (zero-overhead batch scheduler)\nBatch-invariant inference\nDeterministic sampling\nStructured outputs\n这是一个大宝藏啊。\n目前支持的芯片有：\nNVIDIA SM100 GPU\n华为Ascend 950 NPU\n这意味着，国产芯片，直接可以在上面进行适配了。\nvLLM和SGlang这种开源推理引擎，可以直接在上面吸收营养，优化自己的引擎。\n就是说，自己部署一个deepseek，也可以做到接近deepseek官方的成本和速度了。\n这是真源神。\n项目地址：github.com/deepseek-ai/DeepInfer",
+  "created_at_text": "Tue Oct 20 18:20:08 +0800 2026",
+  "mid": "5356160371918116",
+  "uid": "3207410361",
+  "url": "https://m.weibo.cn/detail/5356160371918116",
+  "username": "挨踢牛魔王"
+}

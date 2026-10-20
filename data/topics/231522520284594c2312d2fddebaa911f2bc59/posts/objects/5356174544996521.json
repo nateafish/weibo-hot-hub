@@ -1,0 +1,8 @@
+{
+  "body": "DeepSeek 于2026年10月20日正式宣布，将其内部的生产级推理框架 DeepInfer 全面开源，并同步开源了生产级Token编解码组件 deepseek-recipe。\nDeepInfer 是一个集成了高性能算子与深度优化的推理引擎，旨在优化大规模模型部署，降低AI服务的算力成本与能源消耗。\n根据技术报告披露，基于 DeepInfer，DeepSeek 已实现 DeepSeek V4.1 Flash 的高吞吐、低延迟大规模推理服务。\n与 DeepInfer 一同开源的 deepseek-recipe 是一个生产级 Token 编解码组件。它的关键价值在于其处理逻辑与 DeepSeek 官方 API 完全对齐，这意味着社区开发者通过该组件可以获得与官方部署完全一致的 API 体验。\n此次开源是 DeepSeek 在开放大模型、TileLang 编译工具及推理算子库之后的又一重要步骤。其核心目的是分享内部的部署经验，帮助开发者和企业优化大规模推理的吞吐与延迟，从而降低算力成本、减少能源消耗，推动大模型的普惠应用。未来，DeepSeek 新模型的推理代码及后续优化也将在该框架中持续更新。\n#烽火问鼎计划#",
+  "created_at_text": "Tue Oct 20 19:16:27 +0800 2026",
+  "mid": "5356174544996521",
+  "uid": "2139949234",
+  "url": "https://m.weibo.cn/detail/5356174544996521",
+  "username": "飞扬军事铁背心"
+}
