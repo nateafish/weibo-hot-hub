@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1789681642
   },
-  "last_seen_at": "2026-10-21T06:00:00+08:00",
+  "last_seen_at": "2026-10-21T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%A6%99%E6%B8%AF%E5%90%8D%E5%AA%9B%E7%A2%8E%E5%B0%B8%E6%A1%88%E6%9B%9D%E5%85%B3%E9%94%AE%E6%96%B0%E8%AF%81%E8%AF%8D%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "10家媒体",
     "users": [
       {
         "id": 1789681642,
@@ -23,9 +23,44 @@
         "verified_type": 3
       },
       {
+        "id": 2115259662,
+        "idstr": "2115259662",
+        "screen_name": "洪观新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1700087532,
+        "idstr": "1700087532",
+        "screen_name": "三湘都市报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7152917023,
         "idstr": "7152917023",
         "screen_name": "第一时评",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2632236847,
+        "idstr": "2632236847",
+        "screen_name": "香港文匯網",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2232625672,
+        "idstr": "2232625672",
+        "screen_name": "安庆天天直播",
         "verified": true,
         "verified_type": 3
       }
