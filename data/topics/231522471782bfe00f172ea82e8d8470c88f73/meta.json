@@ -3,10 +3,10 @@
   "created_at": 1792571934,
   "first_seen_at": "2026-10-21T18:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-21T21:00:00+08:00",
+  "last_seen_at": "2026-10-21T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%AF%9B%E4%B8%8D%E6%98%93%E7%A7%B0%E7%BB%93%E5%A9%9A%E8%B6%8A%E6%9D%A5%E8%B6%8A%E4%B8%8D%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%23%26t%3D3&title=发布媒体",
-    "show_str": "15家媒体",
+    "show_str": "17家媒体",
     "users": [
       {
         "id": 1723167603,
@@ -30,6 +30,13 @@
         "verified_type": 3
       },
       {
+        "id": 1725252714,
+        "idstr": "1725252714",
+        "screen_name": "温度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7708039348,
         "idstr": "7708039348",
         "screen_name": "北青娱见",
@@ -47,13 +54,6 @@
         "id": 2286092114,
         "idstr": "2286092114",
         "screen_name": "中国蓝新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2232625672,
-        "idstr": "2232625672",
-        "screen_name": "安庆天天直播",
         "verified": true,
         "verified_type": 3
       }

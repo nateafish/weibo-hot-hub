@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-10-21T23:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#我们的长征路#",
+      "rank": 1,
+      "title": "我们的长征路",
+      "topic_id": "231522a98722887897a4081a0101d9df7ae432"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "红果短剧自砍摇钱树",
+      "rank": 1,
+      "title": "红果短剧自砍摇钱树",
+      "topic_id": "2315227e0a46e44cffc86e84e0904490d39bae"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "AG 退役",
+      "rank": 2,
+      "title": "AG 退役",
+      "topic_id": "231522e590117a445f41549b3d81e4ed6953f1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#他们走过二万五千里换来今天#",
+      "rank": 3,
+      "title": "他们走过二万五千里换来今天",
+      "topic_id": "2315228a85ce326aaed44c12856d3511f699e1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#肖战刘铮亮当群演了#",
+      "rank": 4,
+      "title": "肖战刘铮亮当群演了",
+      "topic_id": "231522e64f377d32df0f4dffba8fdd4a697873"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "泽连斯基愿保留75%领土以达和平",
+      "rank": 5,
+      "title": "泽连斯基愿保留75%领土以达和平",
+      "topic_id": "23152268da8ac96ced05e46695e3c8e2614bcb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#AG年总止步突围赛#",
+      "rank": 6,
+      "title": "AG年总止步突围赛",
+      "topic_id": "23152234bd80a77ad3525d4683ceca954e5923"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#钟意长生拥抱#",
+      "rank": 7,
+      "title": "钟意长生拥抱",
+      "topic_id": "231522772fe9065a4f07823c374947f9576a0a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#小城良方收视冲顶#",
+      "rank": 8,
+      "title": "小城良方收视冲顶",
+      "topic_id": "2315221c5b0634e4c16a4d59daca1d185b8070"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "嫁金钗",
+      "rank": 9,
+      "title": "嫁金钗",
+      "topic_id": "2315226cf7f2bdf15634b7584b304741dfd7c3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#南京警方回应留学生旭日旗事件#",
+      "rank": 10,
+      "title": "南京警方回应留学生旭日旗事件",
+      "topic_id": "2315225012f873a778238f79d636421fbfc274"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "张小斐 救场",
+      "rank": 11,
+      "title": "张小斐 救场",
+      "topic_id": "2315221ced87a80e9f3688d0dea1888ba687bb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝自费高定艺人名字#",
+      "rank": 12,
+      "title": "曝自费高定艺人名字",
+      "topic_id": "231522058613b927a8c442c9a9a99c4cc3c142"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#樊振东这次发文又引用了中庸和孟子#",
+      "rank": 13,
+      "title": "樊振东这次发文又引用了中庸和孟子",
+      "topic_id": "231522c8117ece47e9141c666fa4157ff9ae37"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "芭莎 有人在后台不出来",
+      "rank": 14,
+      "title": "芭莎 有人在后台不出来",
+      "topic_id": "2315226e6c006d7ce299598b5ea99cb1ad11c2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#小城良方首播数据#",
+      "rank": 15,
+      "title": "小城良方首播数据",
+      "topic_id": "23152244ddfd702ad81c27602f7fc639a2396c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "一诺状态",
+      "rank": 16,
+      "title": "一诺状态",
+      "topic_id": "2315223a0919ac4a0cf6f7d539c81f4d4bfdc5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#男子身中17刀身亡17岁少年被刑拘#",
+      "rank": 17,
+      "title": "男子身中17刀身亡17岁少年被刑拘",
+      "topic_id": "2315224bbe37577296a29e2eabd04f40525025"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#星钽5X大大方方自有高光#",
+      "rank": 18,
+      "title": "星钽5X大大方方自有高光",
+      "topic_id": "23152224e0a854e24fcea1e31f00aacc0c7263"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#南京警方称披旭日旗事件不是小事#",
+      "rank": 19,
+      "title": "南京警方称披旭日旗事件不是小事",
+      "topic_id": "231522d1a64103e5e5e63d5406b216a7020ff7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#香港查获多支尸皮针#",
+      "rank": 20,
+      "title": "香港查获多支尸皮针",
+      "topic_id": "23152218505326af2704d5b632b1fea3e9613e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "芭莎盛典红毯",
+      "rank": 21,
+      "title": "芭莎盛典红毯",
+      "topic_id": "231522670093026998020e1545be06902f2660"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#罗晋和唐嫣讨论女儿画的画#",
+      "rank": 22,
+      "title": "罗晋和唐嫣讨论女儿画的画",
+      "topic_id": "2315222402f273c69399bc8ebe360a922b7998"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "杨幂压轴",
+      "rank": 23,
+      "title": "杨幂压轴",
+      "topic_id": "231522dc422edbbec67ad49435589b33683a19"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#亲历者回应驴友高反拒付救援费身亡#",
+      "rank": 24,
+      "title": "亲历者回应驴友高反拒付救援费身亡",
+      "topic_id": "231522f2ce5f166f689e5913149527c5d1eb07"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝自费高定艺人把品牌pr气坏了#",
+      "rank": 25,
+      "title": "曝自费高定艺人把品牌pr气坏了",
+      "topic_id": "231522e8fb8bc8ddf5fdf973040f4987c67b11"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "蔡文静 红毯顺序",
+      "rank": 26,
+      "title": "蔡文静 红毯顺序",
+      "topic_id": "231522338a3901f7564dfa56829430d7b098f5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "长生状态",
+      "rank": 27,
+      "title": "长生状态",
+      "topic_id": "23152288a33ab3ea5e243f7683054b64034072"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "刘铮亮父亲冬泳溺亡",
+      "rank": 28,
+      "title": "刘铮亮父亲冬泳溺亡",
+      "topic_id": "23152282476932f634387d1e02eb69fa204be7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#女子在冰箱养蛙现吃现捞#",
+      "rank": 29,
+      "title": "女子在冰箱养蛙现吃现捞",
+      "topic_id": "23152256e0adbf183dbd354a0a6711558a6f8c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#法国街头燃烧马克龙看演唱会跳舞#",
+      "rank": 30,
+      "title": "法国街头燃烧马克龙看演唱会跳舞",
+      "topic_id": "231522630217612077f26fb3fd21f23d430642"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#上海婚纱店认领祖海高定#",
+      "rank": 31,
+      "title": "上海婚纱店认领祖海高定",
+      "topic_id": "23152276f97e96950ae67aa6fe61d2b642c4eb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#白鹿开毯#",
+      "rank": 32,
+      "title": "白鹿开毯",
+      "topic_id": "231522fc2366e004e084957b6f51cbeba2b0bd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#祖海高定压轴款#",
+      "rank": 33,
+      "title": "祖海高定压轴款",
+      "topic_id": "23152205b6932dcb94edf26e9433aa2fc22185"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "问界",
+      "rank": 34,
+      "title": "问界",
+      "topic_id": "231522a0632f7c634f7d3471b81976c767ae7a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "芭莎晚宴",
+      "rank": 35,
+      "title": "芭莎晚宴",
+      "topic_id": "23152262e98a20d33e71398f60cc601726b314"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "妈妈染上AI短剧后无法自拔",
+      "rank": 36,
+      "title": "妈妈染上AI短剧后无法自拔",
+      "topic_id": "2315227685949f6fa3dab121d4e5b69e9d91eb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "ES高定",
+      "rank": 37,
+      "title": "ES高定",
+      "topic_id": "2315220872101c72e231b1c74c24f0927b3234"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "白鹿芭莎第二套",
+      "rank": 38,
+      "title": "白鹿芭莎第二套",
+      "topic_id": "231522d8f8a8caeafc9855be665da9bba29dbc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#成都二仙桥大爷又因违规载货被拦#",
+      "rank": 39,
+      "title": "成都二仙桥大爷又因违规载货被拦",
+      "topic_id": "2315222112a7c1827fe8f01ff207377434ec7d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "影视飓风上手iPhoneDuo",
+      "rank": 40,
+      "title": "影视飓风上手iPhoneDuo",
+      "topic_id": "2315227c15ff6b900e9f8d54004556ecd58eff"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#终于有人注意到嫁金钗这些细节了#",
+      "rank": 41,
+      "title": "终于有人注意到嫁金钗这些细节了",
+      "topic_id": "231522414290bda8a0ea5d87664e7761be0844"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "毛不易称结婚越来越不意味着什么",
+      "rank": 42,
+      "title": "毛不易称结婚越来越不意味着什么",
+      "topic_id": "231522471782bfe00f172ea82e8d8470c88f73"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#茅台邀你共赴焕新非遗盛典#",
+      "rank": 43,
+      "title": "茅台邀你共赴焕新非遗盛典",
+      "topic_id": "231522a2102f1c28bcf2a40861f3cb6c111abe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#罗晋称呼唐嫣我太太#",
+      "rank": 44,
+      "title": "罗晋称呼唐嫣我太太",
+      "topic_id": "23152210357a2767a9dcea68c37e5855197592"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "买了网红衣服走进现实生活",
+      "rank": 45,
+      "title": "买了网红衣服走进现实生活",
+      "topic_id": "231522eb51b65204db281be21374ed9fc3284e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "钟意状态",
+      "rank": 46,
+      "title": "钟意状态",
+      "topic_id": "231522ae7840cf11b40b2998d2cf4cb98689bf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#一生断句的中国人#",
+      "rank": 47,
+      "title": "一生断句的中国人",
+      "topic_id": "231522950cca9fce97fced50af59a713ee2e36"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#校方回应李子祺博士期间不上临床#",
+      "rank": 48,
+      "title": "校方回应李子祺博士期间不上临床",
+      "topic_id": "23152255a0d881e47988d60f2946aa09633af5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#北汽星钽5X与冠军少女双向奔赴#",
+      "rank": 49,
+      "title": "北汽星钽5X与冠军少女双向奔赴",
+      "topic_id": "231522a3ed9cdfd85e1e051504854471c87ed5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#问界道路救援中心曾拨打122#",
+      "rank": 50,
+      "title": "问界道路救援中心曾拨打122",
+      "topic_id": "231522d9bf7570b4a2098644132ae0926dce72"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
