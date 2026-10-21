@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1726426884
   },
-  "last_seen_at": "2026-10-21T14:00:00+08:00",
+  "last_seen_at": "2026-10-21T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%85%A8%E7%90%83%E6%89%8B%E6%9C%BA%E9%94%80%E9%87%8F%E6%9A%B4%E8%B7%8C%23%26t%3D3&title=发布媒体",
-    "show_str": "37家媒体",
+    "show_str": "61家媒体",
     "users": [
       {
         "id": 1726426884,
@@ -30,9 +30,23 @@
         "verified_type": 3
       },
       {
+        "id": 5762891674,
+        "idstr": "5762891674",
+        "screen_name": "密度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2360016402,
         "idstr": "2360016402",
         "screen_name": "宁波日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1708877153,
+        "idstr": "1708877153",
+        "screen_name": "都市报道",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 7472856103,
-        "idstr": "7472856103",
-        "screen_name": "点时新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6982382342,
-        "idstr": "6982382342",
-        "screen_name": "搜狐科技",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6867368137,
-        "idstr": "6867368137",
-        "screen_name": "大众网",
+        "id": 1630423295,
+        "idstr": "1630423295",
+        "screen_name": "都市频道",
         "verified": true,
         "verified_type": 3
       }
