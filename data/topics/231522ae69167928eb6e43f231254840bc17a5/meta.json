@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 7308140398
   },
-  "last_seen_at": "2026-10-21T10:00:00+08:00",
+  "last_seen_at": "2026-10-21T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%E4%B8%BA%E4%BD%95%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%23%26t%3D3&title=发布媒体",
-    "show_str": "26家媒体",
+    "show_str": "106家媒体",
     "users": [
       {
         "id": 7308140398,
         "idstr": "7308140398",
         "screen_name": "大象新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1744332207,
+        "idstr": "1744332207",
+        "screen_name": "钱江视频",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +37,30 @@
         "verified_type": 3
       },
       {
-        "id": 2360016402,
-        "idstr": "2360016402",
-        "screen_name": "宁波日报",
+        "id": 2027480085,
+        "idstr": "2027480085",
+        "screen_name": "水母网",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1403842922,
-        "idstr": "1403842922",
-        "screen_name": "琅琊新闻网",
+        "id": 2075245652,
+        "idstr": "2075245652",
+        "screen_name": "长春晚报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 7694378984,
-        "idstr": "7694378984",
-        "screen_name": "大象综艺",
+        "id": 1774057271,
+        "idstr": "1774057271",
+        "screen_name": "生命时报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 6560653260,
-        "idstr": "6560653260",
-        "screen_name": "大象视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6444725927,
-        "idstr": "6444725927",
-        "screen_name": "吉祥新闻",
+        "id": 1714800385,
+        "idstr": "1714800385",
+        "screen_name": "第一帮帮团",
         "verified": true,
         "verified_type": 3
       }

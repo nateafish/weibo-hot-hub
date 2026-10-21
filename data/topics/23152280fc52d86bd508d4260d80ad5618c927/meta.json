@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 2286908003
   },
-  "last_seen_at": "2026-10-21T10:00:00+08:00",
+  "last_seen_at": "2026-10-21T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%2310%E4%B8%AA%E6%9C%88%E5%A4%A7%E5%A9%B4%E5%84%BF%E7%88%AC%E5%90%91%E6%B0%91%E8%AD%A6%E6%B1%82%E6%8A%B1%E6%8A%B1%23%26t%3D3&title=发布媒体",
-    "show_str": "21家媒体",
+    "show_str": "36家媒体",
     "users": [
       {
         "id": 2286908003,
         "idstr": "2286908003",
         "screen_name": "人民网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2337985010,
+        "idstr": "2337985010",
+        "screen_name": "瑞安融媒",
         "verified": true,
         "verified_type": 3
       },
@@ -37,30 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 2232625672,
+        "idstr": "2232625672",
+        "screen_name": "安庆天天直播",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1891503444,
         "idstr": "1891503444",
         "screen_name": "西安日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6715525032,
-        "idstr": "6715525032",
-        "screen_name": "成武融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6213974274,
-        "idstr": "6213974274",
-        "screen_name": "山西新闻联播",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5809333548,
-        "idstr": "5809333548",
-        "screen_name": "今日合水",
         "verified": true,
         "verified_type": 3
       }
