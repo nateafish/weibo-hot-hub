@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 6364463717
   },
-  "last_seen_at": "2026-10-21T07:00:00+08:00",
+  "last_seen_at": "2026-10-21T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A1%94%E5%9B%BE%E5%A7%8623%E4%B8%AD6%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "6家媒体",
     "users": [
       {
         "id": 6364463717,
@@ -23,11 +23,39 @@
         "verified_type": 3
       },
       {
+        "id": 1667867495,
+        "idstr": "1667867495",
+        "screen_name": "五星体育广播",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7467277921,
+        "idstr": "7467277921",
+        "screen_name": "万维视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6299534218,
+        "idstr": "6299534218",
+        "screen_name": "北青体育",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 5822206027,
         "idstr": "5822206027",
         "screen_name": "北斗融媒",
         "verified": true,
         "verified_type": 3
+      },
+      {
+        "id": 1638781994,
+        "idstr": "1638781994",
+        "screen_name": "新浪体育",
+        "verified": true,
+        "verified_type": 7
       }
     ]
   },
