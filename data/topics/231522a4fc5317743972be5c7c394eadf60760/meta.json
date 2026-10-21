@@ -3,11 +3,32 @@
   "created_at": 1792573568,
   "first_seen_at": "2026-10-21T18:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-21T18:00:00+08:00",
+  "last_seen_at": "2026-10-21T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83H2-X%E5%8A%9F%E5%A4%AB%E4%BC%A0%E5%A5%87%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "6家媒体",
     "users": [
+      {
+        "id": 3684007222,
+        "idstr": "3684007222",
+        "screen_name": "自主汽车网",
+        "verified": true,
+        "verified_type": 7
+      },
+      {
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2183542485,
+        "idstr": "2183542485",
+        "screen_name": "西安广播电视台",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1963106735,
         "idstr": "1963106735",
@@ -19,6 +40,13 @@
         "id": 1812379667,
         "idstr": "1812379667",
         "screen_name": "梧州零距离网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1725252714,
+        "idstr": "1725252714",
+        "screen_name": "温度新闻",
         "verified": true,
         "verified_type": 3
       }

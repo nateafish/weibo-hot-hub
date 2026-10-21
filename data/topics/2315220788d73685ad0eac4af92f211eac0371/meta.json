@@ -10,15 +10,43 @@
     "status": 2,
     "uid": 1644114654
   },
-  "last_seen_at": "2026-10-21T18:00:00+08:00",
+  "last_seen_at": "2026-10-21T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%B0%8F%E5%8C%BA%E7%96%91%E5%87%BA%E7%8E%B0%E5%A4%A7%E9%87%8F%E9%AA%A8%E7%81%B0%E6%88%BF%23%26t%3D3&title=发布媒体",
-    "show_str": "25家媒体",
+    "show_str": "37家媒体",
     "users": [
       {
         "id": 1644114654,
         "idstr": "1644114654",
         "screen_name": "新京报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1308708761,
+        "idstr": "1308708761",
+        "screen_name": "千山晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1280846847,
+        "idstr": "1280846847",
+        "screen_name": "指尖新闻-沈阳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1618051664,
+        "idstr": "1618051664",
+        "screen_name": "头条新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7373111326,
+        "idstr": "7373111326",
+        "screen_name": "正观新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -33,34 +61,6 @@
         "id": 6367828994,
         "idstr": "6367828994",
         "screen_name": "剥洋葱",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6124642021,
-        "idstr": "6124642021",
-        "screen_name": "新京报我们视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3198187532,
-        "idstr": "3198187532",
-        "screen_name": "西部法治报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2662619151,
-        "idstr": "2662619151",
-        "screen_name": "新京报体育",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2648560444,
-        "idstr": "2648560444",
-        "screen_name": "楚雄州融媒体中心",
         "verified": true,
         "verified_type": 3
       }
