@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-10-21T10:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#在新的长征路上继续奋勇前进#",
+      "rank": 1,
+      "title": "在新的长征路上继续奋勇前进",
+      "topic_id": "231522ea84dcbc246450cd705bcaa582059ee3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "樊振东发文抵制偷拍",
+      "rank": 1,
+      "title": "樊振东发文抵制偷拍",
+      "topic_id": "231522a490ed113b53b46d5ae3471660c5bec9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#国家癌症中心公布发病前五癌症#",
+      "rank": 2,
+      "title": "国家癌症中心公布发病前五癌症",
+      "topic_id": "2315221e5d797f09d8076195a8672304db566f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#医保个人账户跨省共济落地全国#",
+      "rank": 3,
+      "title": "医保个人账户跨省共济落地全国",
+      "topic_id": "231522982cdc4dfb5b4eb029b173c36a4e88de"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#男子捡到38000元留了道题给失主#",
+      "rank": 4,
+      "title": "男子捡到38000元留了道题给失主",
+      "topic_id": "2315220fee982d16168cf240c0de912d7acfaf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#甲状腺癌为何越来越多#",
+      "rank": 5,
+      "title": "甲状腺癌为何越来越多",
+      "topic_id": "231522ae69167928eb6e43f231254840bc17a5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "曾辉回应和韩雨彤参加恋综",
+      "rank": 6,
+      "title": "曾辉回应和韩雨彤参加恋综",
+      "topic_id": "231522c15a0f956d8d25f414c9e2831721573e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#2岁幼童坠亡孩子母亲怀疑丈夫作案#",
+      "rank": 7,
+      "title": "2岁幼童坠亡孩子母亲怀疑丈夫作案",
+      "topic_id": "231522f248b29fbb4d202c368829113d575370"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#詹姆斯76人生涯首分#",
+      "rank": 8,
+      "title": "詹姆斯76人生涯首分",
+      "topic_id": "231522dcdf5244041293d577e1c4585e6157a4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#樊振东称乐于回应理智球迷#",
+      "rank": 9,
+      "title": "樊振东称乐于回应理智球迷",
+      "topic_id": "231522bb488bb3a405b467ae95701b47e311eb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王凯说我全唱别人的歌开什么演唱会#",
+      "rank": 10,
+      "title": "王凯说我全唱别人的歌开什么演唱会",
+      "topic_id": "231522f3c447881b2185c0c02bd136cbdc14e5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#疑似崔秀彬照片事件当事人回应#",
+      "rank": 11,
+      "title": "疑似崔秀彬照片事件当事人回应",
+      "topic_id": "2315226039785cf97c33d948f7c18373700b2b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "易梦玲因护照被偷错过维密秀",
+      "rank": 12,
+      "title": "易梦玲因护照被偷错过维密秀",
+      "topic_id": "231522cd56c4b10bd35539100e5af82067279b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#贝儿化妆师造型师是鲍蕾#",
+      "rank": 13,
+      "title": "贝儿化妆师造型师是鲍蕾",
+      "topic_id": "23152265e163bade9ccc253292379d9381a51c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#球迷为樊振东发声#",
+      "rank": 14,
+      "title": "球迷为樊振东发声",
+      "topic_id": "231522c56e49aea63586926e9d14fd71d9139a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "台风",
+      "rank": 15,
+      "title": "台风",
+      "topic_id": "231522647d33aff1e4bb9ed725b08888cdda22"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#C罗失点又失空门#",
+      "rank": 16,
+      "title": "C罗失点又失空门",
+      "topic_id": "2315226469e1844d806f2bb86dad718f5f7c63"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#世界乱成一锅粥中国安心过日子#",
+      "rank": 17,
+      "title": "世界乱成一锅粥中国安心过日子",
+      "topic_id": "231522328fd6fec6be4302202ed42a713e5c04"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张雅琪超两个月未更新社媒#",
+      "rank": 18,
+      "title": "张雅琪超两个月未更新社媒",
+      "topic_id": "23152214f56f91de38eb0f6fbd735b45b97d92"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#樊振东说边界感强不等于冷漠#",
+      "rank": 19,
+      "title": "樊振东说边界感强不等于冷漠",
+      "topic_id": "231522d5b2546d5266aab487e6b4392dd4ca51"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#SpaceX特斯拉成立委员会讨论合并#",
+      "rank": 20,
+      "title": "SpaceX特斯拉成立委员会讨论合并",
+      "topic_id": "231522735331ef513eb609d983c3a32bfec46a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#唐禹哲获刑1年7个月缓刑3年#",
+      "rank": 21,
+      "title": "唐禹哲获刑1年7个月缓刑3年",
+      "topic_id": "2315229833d3d0659b7071af44a62c5dd1c28c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#任嘉伦预测马刺总冠军#",
+      "rank": 22,
+      "title": "任嘉伦预测马刺总冠军",
+      "topic_id": "2315223c77abd4781954d14f547027f85005b4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "大冰教你百试不爽拒绝借钱",
+      "rank": 23,
+      "title": "大冰教你百试不爽拒绝借钱",
+      "topic_id": "231522d4014ce2178a44bb03ccd1dfa91e9bed"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "鼓浪屿冷清不复当年盛景",
+      "rank": 24,
+      "title": "鼓浪屿冷清不复当年盛景",
+      "topic_id": "2315225a672042ac1320434026a9a22d915776"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#胃癌与食管癌跌出发病前五#",
+      "rank": 25,
+      "title": "胃癌与食管癌跌出发病前五",
+      "topic_id": "231522f92b7e237dedf4570c4199a7db5a6198"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#沈阳致6死16伤公交事故多人被处理#",
+      "rank": 26,
+      "title": "沈阳致6死16伤公交事故多人被处理",
+      "topic_id": "231522c96411b435d553973975b71e54de352e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#德国盾构机卖印度需中国放行#",
+      "rank": 27,
+      "title": "德国盾构机卖印度需中国放行",
+      "topic_id": "231522d838e586f6f5072fa77bc138b1179a05"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王一博是istp#",
+      "rank": 28,
+      "title": "王一博是istp",
+      "topic_id": "231522775deef31bf4fa1315da410a6644c885"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "大冰掏心掏肺谈职场",
+      "rank": 29,
+      "title": "大冰掏心掏肺谈职场",
+      "topic_id": "231522b42f9038b7ed03acb7b90883951181d4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#10个月大婴儿爬向民警求抱抱#",
+      "rank": 30,
+      "title": "10个月大婴儿爬向民警求抱抱",
+      "topic_id": "23152280fc52d86bd508d4260d80ad5618c927"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#陆毅鲍蕾女儿18岁生日试装#",
+      "rank": 31,
+      "title": "陆毅鲍蕾女儿18岁生日试装",
+      "topic_id": "231522abe0950e40b0aadacfbb5af6ee461ddf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#乔治凯尔特人首秀38分#",
+      "rank": 32,
+      "title": "乔治凯尔特人首秀38分",
+      "topic_id": "231522c7515294482b6643e3cc2582362b1791"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#詹姆斯罚球遭尼克斯球迷嘘声针对#",
+      "rank": 33,
+      "title": "詹姆斯罚球遭尼克斯球迷嘘声针对",
+      "topic_id": "231522da8194552bad08674c3e7c8702858b5a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "巴黎圣日耳曼4比2巴萨",
+      "rank": 34,
+      "title": "巴黎圣日耳曼4比2巴萨",
+      "topic_id": "231522c86eb20896ecc423ad2a893a0e748ef1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#大闸蟹价格暴跌超40%#",
+      "rank": 35,
+      "title": "大闸蟹价格暴跌超40%",
+      "topic_id": "231522608e0cf83c87c89f3ad57b2ad40d9800"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#科技新一说特斯拉手机钥匙断层第一#",
+      "rank": 36,
+      "title": "科技新一说特斯拉手机钥匙断层第一",
+      "topic_id": "2315222676ab287cc3f626977644d94bc4301a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#坠亡幼童父亲提出方案希望维持婚姻#",
+      "rank": 37,
+      "title": "坠亡幼童父亲提出方案希望维持婚姻",
+      "topic_id": "23152216f22c7964c3b373ed99cd3557939bba"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#国家数据集团将开启校园招聘#",
+      "rank": 38,
+      "title": "国家数据集团将开启校园招聘",
+      "topic_id": "2315229ad366ffcbe5c2c1555f845c79c348c0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#肖战第二次演医生角色#",
+      "rank": 39,
+      "title": "肖战第二次演医生角色",
+      "topic_id": "23152279f22c304ec1a978a30f899aa6d554c5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "咸鱼飞升",
+      "rank": 40,
+      "title": "咸鱼飞升",
+      "topic_id": "231522b03f56e8406a274183ce0ed609bce10c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#詹姆斯布朗复刻詹韦连线#",
+      "rank": 41,
+      "title": "詹姆斯布朗复刻詹韦连线",
+      "topic_id": "2315225277e41566949d604311104c07fe4ef3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张柏芝自曝五点起床陪儿子一整天#",
+      "rank": 42,
+      "title": "张柏芝自曝五点起床陪儿子一整天",
+      "topic_id": "231522173e8800d7c8da45c2f80d2bfa419b1e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#刘雯维密回归太权威了#",
+      "rank": 43,
+      "title": "刘雯维密回归太权威了",
+      "topic_id": "2315227e191ab208853e1d53f88dabb32d4e07"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#乳腺癌进入女性死亡前5#",
+      "rank": 44,
+      "title": "乳腺癌进入女性死亡前5",
+      "topic_id": "231522b73048fa65a9760b9dae378cae5057c0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#小红军的长征路看泪目了#",
+      "rank": 45,
+      "title": "小红军的长征路看泪目了",
+      "topic_id": "2315228904ab1de5ace4827f17a6d316de1734"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#疑似崔秀彬事件当事人被背刺#",
+      "rank": 46,
+      "title": "疑似崔秀彬事件当事人被背刺",
+      "topic_id": "231522f347d94a529373ed7936590e273579c3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#这是我见过最正常的唐氏#",
+      "rank": 47,
+      "title": "这是我见过最正常的唐氏",
+      "topic_id": "231522743a83db09dbd820a85d2c411a70624e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#原来周芙一开始就打算要魏娆的命#",
+      "rank": 48,
+      "title": "原来周芙一开始就打算要魏娆的命",
+      "topic_id": "231522fd38227a6a3eb1952625df6c2e6043c1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "NBA",
+      "rank": 49,
+      "title": "NBA",
+      "topic_id": "2315228e617358cf86c2b4ce01ad8309d2ac33"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "钟南山不老秘诀是抗阻训练",
+      "rank": 50,
+      "title": "钟南山不老秘诀是抗阻训练",
+      "topic_id": "231522929231b6db1686feef39fba32f5fba8c"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1642634100
   },
-  "last_seen_at": "2026-10-21T09:00:00+08:00",
+  "last_seen_at": "2026-10-21T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%A7%91%E6%8A%80%E6%96%B0%E4%B8%80%E8%AF%B4%E7%89%B9%E6%96%AF%E6%8B%89%E6%89%8B%E6%9C%BA%E9%92%A5%E5%8C%99%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "7家媒体",
     "users": [
       {
         "id": 1642634100,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 1963106735,
+        "idstr": "1963106735",
+        "screen_name": "搜狐汽车",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6068019631,
         "idstr": "6068019631",
         "screen_name": "逐光新闻",
@@ -47,6 +54,13 @@
         "id": 5821241824,
         "idstr": "5821241824",
         "screen_name": "奇点财经",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1958132051,
+        "idstr": "1958132051",
+        "screen_name": "中国商报",
         "verified": true,
         "verified_type": 3
       }
