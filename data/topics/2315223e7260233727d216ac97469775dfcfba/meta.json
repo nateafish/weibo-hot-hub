@@ -3,11 +3,18 @@
   "created_at": 1792671345,
   "first_seen_at": "2026-10-22T22:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-22T22:00:00+08:00",
+  "last_seen_at": "2026-10-22T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F+%E6%83%B3%E8%AF%B7%E4%B8%8D%E6%95%A2%E8%AF%B7%E7%9A%84%E9%83%BD%E6%94%BE%E8%A7%82%E5%AF%9F%E5%AE%A4%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "15家媒体",
+    "show_str": "21家媒体",
     "users": [
+      {
+        "id": 2075245652,
+        "idstr": "2075245652",
+        "screen_name": "长春晚报",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1878335471,
         "idstr": "1878335471",
@@ -16,9 +23,9 @@
         "verified_type": 3
       },
       {
-        "id": 5396094153,
-        "idstr": "5396094153",
-        "screen_name": "大众新闻-大众日报",
+        "id": 1642591402,
+        "idstr": "1642591402",
+        "screen_name": "新浪娱乐",
         "verified": true,
         "verified_type": 3
       },
@@ -30,30 +37,23 @@
         "verified_type": 3
       },
       {
-        "id": 2685336121,
-        "idstr": "2685336121",
-        "screen_name": "南宁晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2647971081,
-        "idstr": "2647971081",
-        "screen_name": "时速新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2617970297,
-        "idstr": "2617970297",
-        "screen_name": "湖南教育电视台",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 2252846093,
         "idstr": "2252846093",
         "screen_name": "长春新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1727472420,
+        "idstr": "1727472420",
+        "screen_name": "泰山晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6444725927,
+        "idstr": "6444725927",
+        "screen_name": "吉祥新闻",
         "verified": true,
         "verified_type": 3
       }
