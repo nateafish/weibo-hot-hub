@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 5061229888
   },
-  "last_seen_at": "2026-10-22T14:00:00+08:00",
+  "last_seen_at": "2026-10-22T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%BE%AE%E4%BF%A1%E5%9B%9E%E5%BA%94iPhoneDuo%E4%B8%8D%E9%80%82%E9%85%8D%23%26t%3D3&title=发布媒体",
-    "show_str": "41家媒体",
+    "show_str": "78家媒体",
     "users": [
       {
         "id": 1744332207,
@@ -26,6 +26,13 @@
         "id": 5061229888,
         "idstr": "5061229888",
         "screen_name": "财经网科技",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1406911561,
+        "idstr": "1406911561",
+        "screen_name": "云南广播电视台",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 2660940103,
-        "idstr": "2660940103",
-        "screen_name": "环球网科技频道",
+        "id": 1403842922,
+        "idstr": "1403842922",
+        "screen_name": "琅琊新闻网",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1926909715,
-        "idstr": "1926909715",
-        "screen_name": "第一财经日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1651428902,
-        "idstr": "1651428902",
-        "screen_name": "21世纪经济报道",
+        "id": 6372873842,
+        "idstr": "6372873842",
+        "screen_name": "时代财经",
         "verified": true,
         "verified_type": 3
       }

@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 1642585887
   },
-  "last_seen_at": "2026-10-22T14:00:00+08:00",
+  "last_seen_at": "2026-10-22T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23A%E8%82%A1%E7%BB%A7%E7%BB%AD%E6%8E%A2%E5%BA%95%23%26t%3D3&title=发布媒体",
-    "show_str": "12家媒体",
+    "show_str": "31家媒体",
     "users": [
       {
         "id": 1651428902,
         "idstr": "1651428902",
         "screen_name": "21世纪经济报道",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7577335075,
+        "idstr": "7577335075",
+        "screen_name": "星妹儿帮帮忙",
         "verified": true,
         "verified_type": 3
       },
@@ -37,30 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 2252846093,
-        "idstr": "2252846093",
-        "screen_name": "长春新闻",
+        "id": 6254784663,
+        "idstr": "6254784663",
+        "screen_name": "朝九晚五Video",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2188202475,
-        "idstr": "2188202475",
-        "screen_name": "南京晨报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1958132051,
-        "idstr": "1958132051",
-        "screen_name": "中国商报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1891108720,
-        "idstr": "1891108720",
-        "screen_name": "经视看地产",
+        "id": 6014513352,
+        "idstr": "6014513352",
+        "screen_name": "ING直播",
         "verified": true,
         "verified_type": 3
       }

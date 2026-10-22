@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 3245086291
   },
-  "last_seen_at": "2026-10-22T14:00:00+08:00",
+  "last_seen_at": "2026-10-22T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%88%91%E4%BB%AC%E7%9A%84%E5%92%96%E4%BD%8D%E4%B8%8D%E4%B8%80%E6%A0%B7%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "9家媒体",
     "users": [
       {
         "id": 1288429914,
         "idstr": "1288429914",
         "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7422806367,
+        "idstr": "7422806367",
+        "screen_name": "中网传播",
         "verified": true,
         "verified_type": 3
       },
@@ -37,9 +44,23 @@
         "verified_type": 3
       },
       {
-        "id": 1280846847,
-        "idstr": "1280846847",
-        "screen_name": "指尖新闻-沈阳晚报",
+        "id": 2183542485,
+        "idstr": "2183542485",
+        "screen_name": "西安广播电视台",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1959444680,
+        "idstr": "1959444680",
+        "screen_name": "云南网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1720962692,
+        "idstr": "1720962692",
+        "screen_name": "极目新闻",
         "verified": true,
         "verified_type": 3
       }
