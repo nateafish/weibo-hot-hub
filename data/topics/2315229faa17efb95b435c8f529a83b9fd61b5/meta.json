@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 1309198602
   },
-  "last_seen_at": "2026-10-22T11:00:00+08:00",
+  "last_seen_at": "2026-10-22T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%90%9B%E9%BB%9B%E5%88%B0%E6%AD%BB%E9%83%BD%E6%B2%A1%E5%8F%AB%E9%AD%8F%E6%81%92%E5%A8%A5%E4%B8%80%E5%A3%B0%E9%98%BF%E6%AF%8D%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "5家媒体",
     "users": [
+      {
+        "id": 7422806367,
+        "idstr": "7422806367",
+        "screen_name": "中网传播",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2252846093,
         "idstr": "2252846093",
@@ -23,9 +30,23 @@
         "verified_type": 3
       },
       {
+        "id": 1959444680,
+        "idstr": "1959444680",
+        "screen_name": "云南网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1882632930,
         "idstr": "1882632930",
         "screen_name": "新消息报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1280846847,
+        "idstr": "1280846847",
+        "screen_name": "指尖新闻-沈阳晚报",
         "verified": true,
         "verified_type": 3
       }
