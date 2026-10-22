@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 3203137375
   },
-  "last_seen_at": "2026-10-22T09:00:00+08:00",
+  "last_seen_at": "2026-10-22T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9D%8E%E5%98%89%E6%A0%BC%E7%94%B7%E5%8F%8B%E8%AF%B4%E4%BF%A9%E4%BA%BA24%E5%B0%8F%E6%97%B6%E5%9C%A8%E4%B8%80%E8%B5%B7%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "9家媒体",
     "users": [
       {
         "id": 3203137375,
         "idstr": "3203137375",
         "screen_name": "四川观察",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2286092114,
+        "idstr": "2286092114",
+        "screen_name": "中国蓝新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -44,15 +51,22 @@
         "verified_type": 3
       },
       {
-        "id": 1718950972,
-        "idstr": "1718950972",
-        "screen_name": "四川电视台新闻现场",
+        "id": 2647971081,
+        "idstr": "2647971081",
+        "screen_name": "时速新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1960785875,
+        "idstr": "1960785875",
+        "screen_name": "津云新闻",
         "verified": true,
         "verified_type": 3
       }
     ]
   },
-  "query": "李嘉格男友说俩人24小时在一起",
+  "query": "#李嘉格男友说俩人24小时在一起#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%98%89%E6%A0%BC%E7%94%B7%E5%8F%8B%E8%AF%B4%E4%BF%A9%E4%BA%BA24%E5%B0%8F%E6%97%B6%E5%9C%A8%E4%B8%80%E8%B5%B7%23",
   "sub_category": null,
   "summary": "近日，@李嘉格_ 男友董义枫@小董道理都懂 在《爱的修学旅行2》节目中的自述，两人恋爱一年几乎没分开过。",
