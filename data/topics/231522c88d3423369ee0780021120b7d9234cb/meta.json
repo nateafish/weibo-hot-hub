@@ -3,15 +3,29 @@
   "created_at": 1792631721,
   "first_seen_at": "2026-10-22T17:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-22T17:00:00+08:00",
+  "last_seen_at": "2026-10-22T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%BE%8E%E7%94%B2%E5%8C%BB%E7%96%97%E5%89%A7%23%26t%3D3&title=发布媒体",
-    "show_str": "11家媒体",
+    "show_str": "18家媒体",
     "users": [
+      {
+        "id": 1843633441,
+        "idstr": "1843633441",
+        "screen_name": "搜狐娱乐",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1642592432,
         "idstr": "1642592432",
         "screen_name": "新浪电视",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1618051664,
+        "idstr": "1618051664",
+        "screen_name": "头条新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -23,9 +37,9 @@
         "verified_type": 3
       },
       {
-        "id": 1843633441,
-        "idstr": "1843633441",
-        "screen_name": "搜狐娱乐",
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -37,25 +51,11 @@
         "verified_type": 3
       },
       {
-        "id": 6192935507,
-        "idstr": "6192935507",
-        "screen_name": "青流娱乐",
+        "id": 6590980486,
+        "idstr": "6590980486",
+        "screen_name": "捉谣记",
         "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2685336121,
-        "idstr": "2685336121",
-        "screen_name": "南宁晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2460937233,
-        "idstr": "2460937233",
-        "screen_name": "热度新闻",
-        "verified": true,
-        "verified_type": 3
+        "verified_type": 7
       }
     ]
   },

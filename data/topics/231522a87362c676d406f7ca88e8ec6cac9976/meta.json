@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2656274875
   },
-  "last_seen_at": "2026-10-22T17:00:00+08:00",
+  "last_seen_at": "2026-10-22T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8C%97%E4%BA%AC%E5%B8%82%E5%89%AF%E5%B8%82%E9%95%BF%E5%A4%8F%E6%9E%97%E8%8C%82%E8%A2%AB%E6%9F%A5%23%26t%3D3&title=发布媒体",
-    "show_str": "66家媒体",
+    "show_str": "88家媒体",
     "users": [
       {
         "id": 2656274875,
         "idstr": "2656274875",
         "screen_name": "央视新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1885454921,
+        "idstr": "1885454921",
+        "screen_name": "蓝鲸新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -37,9 +44,16 @@
         "verified_type": 3
       },
       {
-        "id": 1885454921,
-        "idstr": "1885454921",
-        "screen_name": "蓝鲸新闻",
+        "id": 5044281310,
+        "idstr": "5044281310",
+        "screen_name": "澎湃新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 1710972095,
         "idstr": "1710972095",
         "screen_name": "CCTV法治在线",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1699432410,
-        "idstr": "1699432410",
-        "screen_name": "新华社",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1642512402,
-        "idstr": "1642512402",
-        "screen_name": "中国新闻周刊",
         "verified": true,
         "verified_type": 3
       }
