@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-10-23T04:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 1,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#大力弘扬伟大长征精神#",
+      "rank": 1,
+      "title": "大力弘扬伟大长征精神",
+      "topic_id": "23152265b74e3d82d7bd08ffd9e185f90a553c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "西藏7级地震",
+      "rank": 1,
+      "title": "西藏7级地震",
+      "topic_id": "231522e4cc028433b045071a5bd6a5367c6d77"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "后会友期 想请不敢请的都放观察室了",
+      "rank": 2,
+      "title": "后会友期 想请不敢请的都放观察室了",
+      "topic_id": "2315223e7260233727d216ac97469775dfcfba"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#向着胜利再出发#",
+      "rank": 3,
+      "title": "向着胜利再出发",
+      "topic_id": "231522bd781d928318a0da5c62d14e68d29383"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#国乒女团2比3日本女团#",
+      "rank": 4,
+      "title": "国乒女团2比3日本女团",
+      "topic_id": "2315224c024c6c7892a3fcf53b152b5a8b63b1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#国乒男团夺亚锦赛第26冠#",
+      "rank": 5,
+      "title": "国乒男团夺亚锦赛第26冠",
+      "topic_id": "231522c8e2f84db5d0316992e28b71c111690d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#马天宇低谷期找杨幂谈心#",
+      "rank": 6,
+      "title": "马天宇低谷期找杨幂谈心",
+      "topic_id": "23152255e76bf537accb6a02aa2baa5a45fb59"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#在星巴克开会1小时被提醒点单5次#",
+      "rank": 7,
+      "title": "在星巴克开会1小时被提醒点单5次",
+      "topic_id": "23152203bc60db46b797104b9ddd295a39b746"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "赵丽颖霍建华 剧播不好别怪妆造",
+      "rank": 8,
+      "title": "赵丽颖霍建华 剧播不好别怪妆造",
+      "topic_id": "231522fc344dfceed74c16eeca64567b4bed68"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#人民日报评张凌赫申请赴台遭拒#",
+      "rank": 9,
+      "title": "人民日报评张凌赫申请赴台遭拒",
+      "topic_id": "231522bdcb0551e5084169f44a6627a3af038d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#直击西藏那曲7.0级地震#",
+      "rank": 10,
+      "title": "直击西藏那曲7.0级地震",
+      "topic_id": "231522cefcb97dfa62d4c5d59d31e87dce8aa9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "婚礼发言说虽然不是我的妻子",
+      "rank": 11,
+      "title": "婚礼发言说虽然不是我的妻子",
+      "topic_id": "231522a3651eae4af5df2a32919232c758e865"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "41岁女子存百万后去世",
+      "rank": 12,
+      "title": "41岁女子存百万后去世",
+      "topic_id": "231522f258c47d030c691003c876f8d106e987"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "美股",
+      "rank": 13,
+      "title": "美股",
+      "topic_id": "231522d0df61567e5cfbf00ac015762e6d6398"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#虞书欣怎么笑成这样#",
+      "rank": 14,
+      "title": "虞书欣怎么笑成这样",
+      "topic_id": "2315221b8751697dc0b794645a68e30fa683fc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "张家齐和妈妈的关系触痛网友",
+      "rank": 15,
+      "title": "张家齐和妈妈的关系触痛网友",
+      "topic_id": "2315226638f91f06c8918501913968ea1f4d7a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "国乒女团 桥本帆乃香",
+      "rank": 16,
+      "title": "国乒女团 桥本帆乃香",
+      "topic_id": "2315223da3f953f7cda9a950e2a03cec418d26"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#黄婷婷李艺彤闹掰谁在释怀谁在获利#",
+      "rank": 17,
+      "title": "黄婷婷李艺彤闹掰谁在释怀谁在获利",
+      "topic_id": "2315224557fa2b2f87de8a0e22e8785fae1354"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#坠亡幼童父亲回应扔掉孩子遗物#",
+      "rank": 18,
+      "title": "坠亡幼童父亲回应扔掉孩子遗物",
+      "topic_id": "231522c9484c35488c6343fad263f81e649566"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张萌后悔找马天宇上节目#",
+      "rank": 19,
+      "title": "张萌后悔找马天宇上节目",
+      "topic_id": "231522a971c6dfe7a6ebe5bcc960e972b02ec1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#孙俪邓超女儿小花跳舞总是撞上其他舞者#",
+      "rank": 20,
+      "title": "孙俪邓超女儿小花跳舞总是撞上其他舞者",
+      "topic_id": "231522c57721acddf406e83bcc29a704c742a6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "月嫂说宝宝只有两件衣服",
+      "rank": 21,
+      "title": "月嫂说宝宝只有两件衣服",
+      "topic_id": "231522e1b142095bf90c56f521915456e25379"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "女子称惠州海景房跌剩一千八",
+      "rank": 22,
+      "title": "女子称惠州海景房跌剩一千八",
+      "topic_id": "231522c02418f27ea653e1dba55f55a06bac15"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "苹果内屏磨砂膜能徒手撕下",
+      "rank": 23,
+      "title": "苹果内屏磨砂膜能徒手撕下",
+      "topic_id": "23152231fc70c1dae44754e17ec11c3817c335"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "厉娜 许飞",
+      "rank": 24,
+      "title": "厉娜 许飞",
+      "topic_id": "231522aa25b2cacf156949dabf0d4a96f654bf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#巴青地震亲历者讲述房子震得嘎嘎叫#",
+      "rank": 25,
+      "title": "巴青地震亲历者讲述房子震得嘎嘎叫",
+      "topic_id": "2315223343c8d4dcf70dc9a342b80939efa5b9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#白鹿工作室注销#",
+      "rank": 26,
+      "title": "白鹿工作室注销",
+      "topic_id": "231522930ad8a64957a3a95fb3290e25c739c5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 8,
+      "posts": "saved",
+      "query": "#西藏那曲7.0级地震最近县城57公里#",
+      "rank": 27,
+      "title": "西藏那曲7.0级地震最近县城57公里",
+      "topic_id": "23152239dcb3b6344517685bcb45af7c87d842"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#人民日报评医学生盲猜病情#",
+      "rank": 28,
+      "title": "人民日报评医学生盲猜病情",
+      "topic_id": "231522d49585b3fc1e8b7be553b63dd2db4aee"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "在北京没有社交的原因",
+      "rank": 29,
+      "title": "在北京没有社交的原因",
+      "topic_id": "231522a185e7fbcd3e7fbeaa39070716ab3862"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#西藏地震暂无人员伤亡#",
+      "rank": 30,
+      "title": "西藏地震暂无人员伤亡",
+      "topic_id": "2315222d8a32ac035bda05f9a76d168c380193"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#王彦霖回应肖战说倪大红赢了#",
+      "rank": 31,
+      "title": "王彦霖回应肖战说倪大红赢了",
+      "topic_id": "23152269a7234c8686a2417bf1b82cd423dc2b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#亚锦赛国乒男团1比0韩国#",
+      "rank": 32,
+      "title": "亚锦赛国乒男团1比0韩国",
+      "topic_id": "2315225e3c119a94e68aabb308f47612dc40b2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "国乒男团冲击四连冠",
+      "rank": 33,
+      "title": "国乒男团冲击四连冠",
+      "topic_id": "2315227b99d46ffb5072e9b59a694c4f8766e6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "A股 科技股",
+      "rank": 34,
+      "title": "A股 科技股",
+      "topic_id": "231522fc059a3d3b9802f7353a34d5a998986e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "曝奥迪华为合作开发A8",
+      "rank": 35,
+      "title": "曝奥迪华为合作开发A8",
+      "topic_id": "23152292e32459fd1c2d487b7dda9c1a770429"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#亚锦赛国乒男团2比0韩国#",
+      "rank": 36,
+      "title": "亚锦赛国乒男团2比0韩国",
+      "topic_id": "2315229bd94c0db01135c35eee8a34ccb290be"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#试拍王一博被朱珠美晕#",
+      "rank": 37,
+      "title": "试拍王一博被朱珠美晕",
+      "topic_id": "23152230e06d6cc16247cd80b68a49317421c6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#消防赶往西藏地震震中#",
+      "rank": 38,
+      "title": "消防赶往西藏地震震中",
+      "topic_id": "2315228d5634c9b4d6a9fd4b627c93344771cb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "陈天润 前女友",
+      "rank": 39,
+      "title": "陈天润 前女友",
+      "topic_id": "231522582c31dfa37d085221aa83fe7c5841e5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#何炅黄磊回乌镇蘑菇屋了#",
+      "rank": 40,
+      "title": "何炅黄磊回乌镇蘑菇屋了",
+      "topic_id": "23152298345408dfeac15801e1b3e6c75ead28"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#虞书欣八年前的活动只有三个粉丝#",
+      "rank": 41,
+      "title": "虞书欣八年前的活动只有三个粉丝",
+      "topic_id": "231522359b854d0c74cbb621435c0467c3cb8f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "李子祺10篇SCI被指挂名水刊",
+      "rank": 42,
+      "title": "李子祺10篇SCI被指挂名水刊",
+      "topic_id": "2315220ceb8c5de524ccfab5f5ab613f53c83a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "不必用现在的清醒嘲笑过去的自己",
+      "rank": 43,
+      "title": "不必用现在的清醒嘲笑过去的自己",
+      "topic_id": "23152274471dfe7f0e7e981d6e74c88f9adb2f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "侯英超称打削球没有捷径",
+      "rank": 44,
+      "title": "侯英超称打削球没有捷径",
+      "topic_id": "23152208faf30c04b49c6fe4c2e69fba9eabed"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#林诗栋3比0朴奎炫#",
+      "rank": 45,
+      "title": "林诗栋3比0朴奎炫",
+      "topic_id": "231522dabd1215005a4c2526d183f27439dc95"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#两部门派出工作组赶赴西藏震区#",
+      "rank": 46,
+      "title": "两部门派出工作组赶赴西藏震区",
+      "topic_id": "2315225f1924b47052213edd436b9d17f86a32"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#那曲本次地震为震中近5年最大地震#",
+      "rank": 47,
+      "title": "那曲本次地震为震中近5年最大地震",
+      "topic_id": "231522dd829059bebda8103c3031a3f5d925f4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "国乒男团vs韩国",
+      "rank": 48,
+      "title": "国乒男团vs韩国",
+      "topic_id": "2315226bb26ab80aad44530215cc2b4b8549c3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "刘宇宁 薄肌变大胸",
+      "rank": 49,
+      "title": "刘宇宁 薄肌变大胸",
+      "topic_id": "231522215df507ea3cd93f3f2a1055f2548c17"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "Lacoste大秀",
+      "rank": 50,
+      "title": "Lacoste大秀",
+      "topic_id": "231522394e41891a7ff0e16f80a96868aa1ba6"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
