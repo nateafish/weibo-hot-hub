@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 2318910945
   },
-  "last_seen_at": "2026-10-23T14:00:00+08:00",
+  "last_seen_at": "2026-10-23T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E9%97%AA%E5%A9%9A%E5%A8%B6%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%8D%9A%E5%A3%AB%E5%AE%A3%E5%B8%83%E7%A6%BB%E5%A9%9A%23%26t%3D3&title=发布媒体",
-    "show_str": "9家媒体",
+    "show_str": "12家媒体",
     "users": [
       {
         "id": 2318910945,
         "idstr": "2318910945",
         "screen_name": "新浪热点",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1043320390,
+        "idstr": "1043320390",
+        "screen_name": "半岛晨报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1398613133,
+        "idstr": "1398613133",
+        "screen_name": "马上资讯",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 2622056220,
         "idstr": "2622056220",
         "screen_name": "新闻大连",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2252846093,
-        "idstr": "2252846093",
-        "screen_name": "长春新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1704185933,
-        "idstr": "1704185933",
-        "screen_name": "聊城晚报",
         "verified": true,
         "verified_type": 3
       }
