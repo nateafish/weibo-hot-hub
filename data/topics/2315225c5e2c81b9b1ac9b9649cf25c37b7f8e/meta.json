@@ -10,11 +10,61 @@
     "status": 2,
     "uid": 3229962754
   },
-  "last_seen_at": "2026-10-23T17:00:00+08:00",
+  "last_seen_at": "2026-10-23T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B9%B0%E9%85%B8%E5%A5%B6%E9%80%81%E7%9A%84%E5%B0%8F%E9%B8%A1%E5%85%BB%E4%BA%864%E5%B9%B4%E5%8F%9825%E6%96%A4%23%26t%3D3&title=发布媒体",
-    "show_str": "40家媒体",
-    "users": []
+    "show_str": "42家媒体",
+    "users": [
+      {
+        "id": 3229962754,
+        "idstr": "3229962754",
+        "screen_name": "陕视新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2105365573,
+        "idstr": "2105365573",
+        "screen_name": "威海播报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1789681642,
+        "idstr": "1789681642",
+        "screen_name": "第一现场",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1926641510,
+        "idstr": "1926641510",
+        "screen_name": "浪潮新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7639071132,
+        "idstr": "7639071132",
+        "screen_name": "篝火视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6444725927,
+        "idstr": "6444725927",
+        "screen_name": "吉祥新闻",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#买酸奶送的小鸡养了4年变25斤#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E4%B9%B0%E9%85%B8%E5%A5%B6%E9%80%81%E7%9A%84%E5%B0%8F%E9%B8%A1%E5%85%BB%E4%BA%864%E5%B9%B4%E5%8F%9825%E6%96%A4%23",

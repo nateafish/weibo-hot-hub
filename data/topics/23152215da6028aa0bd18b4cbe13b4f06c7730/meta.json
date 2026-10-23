@@ -3,15 +3,22 @@
   "created_at": 1792743141,
   "first_seen_at": "2026-10-23T17:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-23T17:00:00+08:00",
+  "last_seen_at": "2026-10-23T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%B3%B0%E5%9B%BD%E6%97%85%E6%B8%B8%E9%83%A8%E9%95%BF%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%AE%89%E5%85%A8%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "2家媒体",
     "users": [
       {
         "id": 2337985010,
         "idstr": "2337985010",
         "screen_name": "瑞安融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1652484947,
+        "idstr": "1652484947",
+        "screen_name": "新快报",
         "verified": true,
         "verified_type": 3
       }

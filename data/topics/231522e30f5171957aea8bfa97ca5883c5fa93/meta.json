@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 7590570074
   },
-  "last_seen_at": "2026-10-23T17:00:00+08:00",
+  "last_seen_at": "2026-10-23T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23iPhoneDuo%E5%BD%93%E4%B8%BB%E5%8A%9B%E6%9C%BA%E8%80%83%E9%AA%8C%E8%87%AA%E9%80%82%E5%BA%94%E8%83%BD%E5%8A%9B%23%26t%3D3&title=发布媒体",
-    "show_str": "7家媒体",
+    "show_str": "11家媒体",
     "users": [
       {
         "id": 7590570074,
@@ -30,6 +30,27 @@
         "verified_type": 3
       },
       {
+        "id": 6023976411,
+        "idstr": "6023976411",
+        "screen_name": "蓝睛",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5828047833,
+        "idstr": "5828047833",
+        "screen_name": "观天下",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5758267327,
+        "idstr": "5758267327",
+        "screen_name": "徽视点",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2699599752,
         "idstr": "2699599752",
         "screen_name": "牛视频",
@@ -37,32 +58,11 @@
         "verified_type": 3
       },
       {
-        "id": 2171757642,
-        "idstr": "2171757642",
-        "screen_name": "浙江新闻频道",
+        "id": 2230631943,
+        "idstr": "2230631943",
+        "screen_name": "新浪眼",
         "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2167406082,
-        "idstr": "2167406082",
-        "screen_name": "小强热线-浙江教科",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1931238691,
-        "idstr": "1931238691",
-        "screen_name": "先锋新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1655238055,
-        "idstr": "1655238055",
-        "screen_name": "指尖焦点",
-        "verified": true,
-        "verified_type": 3
+        "verified_type": 7
       }
     ]
   },

@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 6320391439
   },
-  "last_seen_at": "2026-10-23T17:00:00+08:00",
+  "last_seen_at": "2026-10-23T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9D%BE%E5%B2%9B%E8%BE%89%E7%A9%BA%E7%94%B7%E5%8D%95%E9%80%80%E8%B5%9B%23%26t%3D3&title=发布媒体",
-    "show_str": "14家媒体",
+    "show_str": "20家媒体",
     "users": [
+      {
+        "id": 2337985010,
+        "idstr": "2337985010",
+        "screen_name": "瑞安融媒",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2011739333,
         "idstr": "2011739333",
@@ -26,6 +33,13 @@
         "id": 7051979649,
         "idstr": "7051979649",
         "screen_name": "咪咕冰雪",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1652484947,
+        "idstr": "1652484947",
+        "screen_name": "新快报",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 6299534218,
         "idstr": "6299534218",
         "screen_name": "北青体育",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5860927040,
-        "idstr": "5860927040",
-        "screen_name": "湃视频",
-        "verified": true,
-        "verified_type": 2
-      },
-      {
-        "id": 5350271203,
-        "idstr": "5350271203",
-        "screen_name": "体坛周报",
         "verified": true,
         "verified_type": 3
       }
