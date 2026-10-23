@@ -3,15 +3,22 @@
   "created_at": 1792715713,
   "first_seen_at": "2026-10-23T10:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-23T10:00:00+08:00",
+  "last_seen_at": "2026-10-23T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%88%B8%E5%A6%88%E7%BB%99%E5%84%BF%E5%AD%90%E8%BF%87%E5%8D%81%E5%85%AB%E5%B2%81%E7%94%9F%E6%97%A5%E7%A4%BC%E7%9C%8B%E5%93%AD%E7%BD%91%E5%8F%8B%23%26t%3D3&title=发布媒体",
-    "show_str": "7家媒体",
+    "show_str": "11家媒体",
     "users": [
       {
         "id": 7724193529,
         "idstr": "7724193529",
         "screen_name": "都市接到办",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7474259554,
+        "idstr": "7474259554",
+        "screen_name": "快报帮",
         "verified": true,
         "verified_type": 3
       },
@@ -23,37 +30,30 @@
         "verified_type": 3
       },
       {
-        "id": 1943154142,
-        "idstr": "1943154142",
-        "screen_name": "中安在线",
+        "id": 2425315932,
+        "idstr": "2425315932",
+        "screen_name": "陕西天天网事",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1915671961,
-        "idstr": "1915671961",
-        "screen_name": "陕西都市快报",
+        "id": 2286092114,
+        "idstr": "2286092114",
+        "screen_name": "中国蓝新闻",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1723044714,
-        "idstr": "1723044714",
-        "screen_name": "都市频道综艺",
+        "id": 2232625672,
+        "idstr": "2232625672",
+        "screen_name": "安庆天天直播",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1708877153,
-        "idstr": "1708877153",
-        "screen_name": "都市报道",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1630423295,
-        "idstr": "1630423295",
-        "screen_name": "都市频道",
+        "id": 2183542485,
+        "idstr": "2183542485",
+        "screen_name": "西安广播电视台",
         "verified": true,
         "verified_type": 3
       }
