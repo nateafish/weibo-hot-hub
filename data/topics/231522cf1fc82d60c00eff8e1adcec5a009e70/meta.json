@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1653603955
   },
-  "last_seen_at": "2026-10-23T08:00:00+08:00",
+  "last_seen_at": "2026-10-23T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8E%89%E5%A8%9C%E8%AF%B4%E8%AE%B8%E9%A3%9E%E8%83%8C%E5%88%BA%E5%B8%A6%E6%9D%A5%E4%BA%BA%E7%94%9F%E8%87%B3%E6%9A%97%E6%97%B6%E5%88%BB%23%26t%3D3&title=发布媒体",
-    "show_str": "11家媒体",
+    "show_str": "24家媒体",
     "users": [
       {
         "id": 1653603955,
@@ -26,6 +26,13 @@
         "id": 6294758863,
         "idstr": "6294758863",
         "screen_name": "紫牛新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5396094153,
+        "idstr": "5396094153",
+        "screen_name": "大众新闻-大众日报",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 5200047156,
-        "idstr": "5200047156",
-        "screen_name": "扬子晚报泰州频道",
+        "id": 1938523582,
+        "idstr": "1938523582",
+        "screen_name": "宁波晚报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 5110439722,
-        "idstr": "5110439722",
-        "screen_name": "哈尔滨经济广播电台",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2744190984,
-        "idstr": "2744190984",
-        "screen_name": "家长大学堂",
+        "id": 7422806367,
+        "idstr": "7422806367",
+        "screen_name": "中网传播",
         "verified": true,
         "verified_type": 3
       }
