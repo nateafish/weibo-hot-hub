@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 6365990425
   },
-  "last_seen_at": "2026-10-23T23:00:00+08:00",
+  "last_seen_at": "2026-10-24T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%87%8F%E7%BC%93%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BA%94%E7%94%A8%E5%B0%B1%E4%B8%9A%E6%9B%BF%E4%BB%A3%E5%BD%B1%E5%93%8D%23%26t%3D3&title=发布媒体",
-    "show_str": "15家媒体",
+    "show_str": "17家媒体",
     "users": [
       {
         "id": 6365990425,
         "idstr": "6365990425",
         "screen_name": "大河财立方",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2075245652,
+        "idstr": "2075245652",
+        "screen_name": "长春晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -33,13 +40,6 @@
         "id": 2660807713,
         "idstr": "2660807713",
         "screen_name": "财经新媒体",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2075245652,
-        "idstr": "2075245652",
-        "screen_name": "长春晚报",
         "verified": true,
         "verified_type": 3
       },
