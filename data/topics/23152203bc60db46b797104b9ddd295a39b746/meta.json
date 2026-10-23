@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 1683472727
   },
-  "last_seen_at": "2026-10-23T07:00:00+08:00",
+  "last_seen_at": "2026-10-23T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%9C%A8%E6%98%9F%E5%B7%B4%E5%85%8B%E5%BC%80%E4%BC%9A1%E5%B0%8F%E6%97%B6%E8%A2%AB%E6%8F%90%E9%86%92%E7%82%B9%E5%8D%955%E6%AC%A1%23%26t%3D3&title=发布媒体",
-    "show_str": "15家媒体",
+    "show_str": "36家媒体",
     "users": [
       {
         "id": 1683472727,
         "idstr": "1683472727",
         "screen_name": "央广网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +44,23 @@
         "verified_type": 3
       },
       {
-        "id": 5396094153,
-        "idstr": "5396094153",
-        "screen_name": "大众新闻-大众日报",
+        "id": 1043320390,
+        "idstr": "1043320390",
+        "screen_name": "半岛晨报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2118120483,
-        "idstr": "2118120483",
-        "screen_name": "青岛日报",
+        "id": 6928905395,
+        "idstr": "6928905395",
+        "screen_name": "大风视频",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2026044661,
-        "idstr": "2026044661",
-        "screen_name": "海量财经",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1967926223,
-        "idstr": "1967926223",
-        "screen_name": "FM1031济南交通广播",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1895431523,
-        "idstr": "1895431523",
-        "screen_name": "大公報-大公網",
+        "id": 6444725927,
+        "idstr": "6444725927",
+        "screen_name": "吉祥新闻",
         "verified": true,
         "verified_type": 3
       }

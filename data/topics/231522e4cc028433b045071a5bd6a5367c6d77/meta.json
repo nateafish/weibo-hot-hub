@@ -3,10 +3,10 @@
   "created_at": 1792680788,
   "first_seen_at": "2026-10-22T23:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-23T07:00:00+08:00",
+  "last_seen_at": "2026-10-23T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%A5%BF%E8%97%8F7%E7%BA%A7%E5%9C%B0%E9%9C%87%23%26t%3D3&title=发布媒体",
-    "show_str": "112家媒体",
+    "show_str": "175家媒体",
     "users": [
       {
         "id": 1699432410,
@@ -16,9 +16,23 @@
         "verified_type": 3
       },
       {
+        "id": 2286092114,
+        "idstr": "2286092114",
+        "screen_name": "中国蓝新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2656274875,
         "idstr": "2656274875",
         "screen_name": "央视新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
         "verified": true,
         "verified_type": 3
       },
@@ -37,23 +51,9 @@
         "verified_type": 3
       },
       {
-        "id": 2992050891,
-        "idstr": "2992050891",
-        "screen_name": "北京时间",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1700720163,
-        "idstr": "1700720163",
-        "screen_name": "钱江晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6969736115,
-        "idstr": "6969736115",
-        "screen_name": "西藏广播电视台",
+        "id": 2039753857,
+        "idstr": "2039753857",
+        "screen_name": "CCTV4",
         "verified": true,
         "verified_type": 3
       }

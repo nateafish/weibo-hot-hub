@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1784473157
   },
-  "last_seen_at": "2026-10-23T07:00:00+08:00",
+  "last_seen_at": "2026-10-23T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%9B%B4%E5%87%BB%E8%A5%BF%E8%97%8F%E9%82%A3%E6%9B%B27.0%E7%BA%A7%E5%9C%B0%E9%9C%87%23%26t%3D3&title=发布媒体",
-    "show_str": "14家媒体",
+    "show_str": "51家媒体",
     "users": [
       {
         "id": 1784473157,
         "idstr": "1784473157",
         "screen_name": "中国新闻网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2810373291,
+        "idstr": "2810373291",
+        "screen_name": "新华网",
         "verified": true,
         "verified_type": 3
       },
@@ -37,30 +44,23 @@
         "verified_type": 3
       },
       {
-        "id": 6890796357,
-        "idstr": "6890796357",
-        "screen_name": "日照日报",
+        "id": 2115259662,
+        "idstr": "2115259662",
+        "screen_name": "洪观新闻",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 5388240201,
-        "idstr": "5388240201",
-        "screen_name": "南阳日报",
+        "id": 1314608344,
+        "idstr": "1314608344",
+        "screen_name": "新闻晨报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 3604378011,
-        "idstr": "3604378011",
-        "screen_name": "中国新闻社",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2992050891,
-        "idstr": "2992050891",
-        "screen_name": "北京时间",
+        "id": 7523386243,
+        "idstr": "7523386243",
+        "screen_name": "南阳网官方微博",
         "verified": true,
         "verified_type": 3
       }

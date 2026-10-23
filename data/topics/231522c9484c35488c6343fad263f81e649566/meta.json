@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 2318910945
   },
-  "last_seen_at": "2026-10-23T07:00:00+08:00",
+  "last_seen_at": "2026-10-23T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%9D%A0%E4%BA%A1%E5%B9%BC%E7%AB%A5%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%94%E6%89%94%E6%8E%89%E5%AD%A9%E5%AD%90%E9%81%97%E7%89%A9%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "4家媒体",
     "users": [
       {
         "id": 2318910945,
         "idstr": "2318910945",
         "screen_name": "新浪热点",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1043320390,
+        "idstr": "1043320390",
+        "screen_name": "半岛晨报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5145725878,
+        "idstr": "5145725878",
+        "screen_name": "沸点视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1133520974,
+        "idstr": "1133520974",
+        "screen_name": "烟台广播电视台综合广播",
         "verified": true,
         "verified_type": 3
       }
