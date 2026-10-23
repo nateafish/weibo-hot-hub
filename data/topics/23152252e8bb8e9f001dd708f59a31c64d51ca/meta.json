@@ -3,10 +3,10 @@
   "created_at": 1535809151,
   "first_seen_at": "2026-10-23T18:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-23T19:00:00+08:00",
+  "last_seen_at": "2026-10-23T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%B5%B5%E4%B8%BD%E9%A2%96+%E5%8F%91%E5%9E%8B%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "3家媒体",
     "users": [
       {
         "id": 2535760180,
@@ -19,6 +19,13 @@
         "id": 2027480085,
         "idstr": "2027480085",
         "screen_name": "水母网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1677991972,
+        "idstr": "1677991972",
+        "screen_name": "晶报",
         "verified": true,
         "verified_type": 3
       }

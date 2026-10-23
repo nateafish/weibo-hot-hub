@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1751714412
   },
-  "last_seen_at": "2026-10-23T19:00:00+08:00",
+  "last_seen_at": "2026-10-23T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9D%8E%E6%98%8C%E9%92%B0%E9%AA%A8%E7%81%B0%E4%B8%80%E5%8D%8A%E8%91%AC%E6%89%AC%E5%B7%9E%E4%B8%80%E5%8D%8A%E7%95%99%E7%BE%8E%E5%9B%BD%23%26t%3D3&title=发布媒体",
-    "show_str": "70家媒体",
+    "show_str": "85家媒体",
     "users": [
       {
         "id": 1751714412,
@@ -30,6 +30,27 @@
         "verified_type": 3
       },
       {
+        "id": 1708763410,
+        "idstr": "1708763410",
+        "screen_name": "浙江日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1880922220,
+        "idstr": "1880922220",
+        "screen_name": "金华晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2318910945,
+        "idstr": "2318910945",
+        "screen_name": "新浪热点",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2337985010,
         "idstr": "2337985010",
         "screen_name": "瑞安融媒",
@@ -37,30 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1497087080,
-        "idstr": "1497087080",
-        "screen_name": "羊城晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1403842922,
-        "idstr": "1403842922",
-        "screen_name": "琅琊新闻网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1043320390,
-        "idstr": "1043320390",
-        "screen_name": "半岛晨报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2105365573,
-        "idstr": "2105365573",
-        "screen_name": "威海播报",
+        "id": 2115259662,
+        "idstr": "2115259662",
+        "screen_name": "洪观新闻",
         "verified": true,
         "verified_type": 3
       }
