@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 7953352786
   },
-  "last_seen_at": "2026-10-17T10:00:00+08:00",
+  "last_seen_at": "2026-10-23T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%B0%9A%E5%85%AC%E4%B8%BB%23%26t%3D3&title=发布媒体",
-    "show_str": "147家媒体",
+    "show_str": "181家媒体",
     "users": [
       {
         "id": 3752699924,
@@ -26,6 +26,13 @@
         "id": 1642592432,
         "idstr": "1642592432",
         "screen_name": "新浪电视",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1843633441,
+        "idstr": "1843633441",
+        "screen_name": "搜狐娱乐",
         "verified": true,
         "verified_type": 3
       },
@@ -54,13 +61,6 @@
         "id": 2810373291,
         "idstr": "2810373291",
         "screen_name": "新华网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1288429914,
-        "idstr": "1288429914",
-        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       }

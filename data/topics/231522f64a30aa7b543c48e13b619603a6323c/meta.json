@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1699432410
   },
-  "last_seen_at": "2026-10-23T16:00:00+08:00",
+  "last_seen_at": "2026-10-23T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%A5%BF%E8%97%8F%E5%B7%B4%E9%9D%92%E5%9C%B0%E9%9C%8716%E6%AD%BB76%E4%BC%A4%23%26t%3D3&title=发布媒体",
-    "show_str": "87家媒体",
+    "show_str": "138家媒体",
     "users": [
       {
         "id": 1699432410,
         "idstr": "1699432410",
         "screen_name": "新华社",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2460937233,
+        "idstr": "2460937233",
+        "screen_name": "热度新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +37,30 @@
         "verified_type": 3
       },
       {
-        "id": 2087169013,
-        "idstr": "2087169013",
-        "screen_name": "法治日报",
+        "id": 2115259662,
+        "idstr": "2115259662",
+        "screen_name": "洪观新闻",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 6115560351,
-        "idstr": "6115560351",
-        "screen_name": "国是直通车",
+        "id": 1727472420,
+        "idstr": "1727472420",
+        "screen_name": "泰山晚报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 3515639462,
-        "idstr": "3515639462",
-        "screen_name": "科技日报",
+        "id": 1700720163,
+        "idstr": "1700720163",
+        "screen_name": "钱江晚报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2685336121,
-        "idstr": "2685336121",
-        "screen_name": "南宁晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2647971081,
-        "idstr": "2647971081",
-        "screen_name": "时速新闻",
+        "id": 5044281310,
+        "idstr": "5044281310",
+        "screen_name": "澎湃新闻",
         "verified": true,
         "verified_type": 3
       }
