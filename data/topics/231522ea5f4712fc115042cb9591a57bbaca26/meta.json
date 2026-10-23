@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2028810631
   },
-  "last_seen_at": "2026-10-23T21:00:00+08:00",
+  "last_seen_at": "2026-10-23T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9D%8E%E6%98%8C%E9%92%B0%E5%8F%91%E5%A6%BB%E7%A6%BB%E4%B8%96%E5%90%8E%E4%B8%8E%E8%92%8B%E9%9C%9E%E8%90%8D%E9%A2%91%E7%B9%81%E9%80%9A%E4%BF%A1%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "10家媒体",
     "users": [
       {
         "id": 2028810631,
         "idstr": "2028810631",
         "screen_name": "新浪新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6004281123,
+        "idstr": "6004281123",
+        "screen_name": "梨视频",
         "verified": true,
         "verified_type": 3
       },
@@ -30,9 +37,30 @@
         "verified_type": 3
       },
       {
+        "id": 1880922220,
+        "idstr": "1880922220",
+        "screen_name": "金华晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1712686623,
         "idstr": "1712686623",
         "screen_name": "手机上的新浪",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1682207150,
+        "idstr": "1682207150",
+        "screen_name": "南方日报",
         "verified": true,
         "verified_type": 3
       }
