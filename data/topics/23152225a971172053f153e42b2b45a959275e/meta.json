@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 1642512402
   },
-  "last_seen_at": "2026-10-24T09:00:00+08:00",
+  "last_seen_at": "2026-10-24T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BE%A7%E7%A9%BA%E7%BF%BB%E8%A1%A8%E6%BC%94%E6%97%B6%E7%94%A9%E6%96%AD%E8%85%BF%23%26t%3D3&title=发布媒体",
-    "show_str": "21家媒体",
+    "show_str": "35家媒体",
     "users": [
       {
         "id": 1642512402,
         "idstr": "1642512402",
         "screen_name": "中国新闻周刊",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7399555658,
+        "idstr": "7399555658",
+        "screen_name": "红星资本局",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1267454277,
+        "idstr": "1267454277",
+        "screen_name": "凤凰周刊",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1887344341,
+        "idstr": "1887344341",
+        "screen_name": "观察者网",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 7577335075,
+        "idstr": "7577335075",
+        "screen_name": "星妹儿帮帮忙",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6444725927,
         "idstr": "6444725927",
         "screen_name": "吉祥新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5822206027,
-        "idstr": "5822206027",
-        "screen_name": "北斗融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5539777260,
-        "idstr": "5539777260",
-        "screen_name": "菏泽日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3205295640,
-        "idstr": "3205295640",
-        "screen_name": "中新浙里",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2813313591,
-        "idstr": "2813313591",
-        "screen_name": "中新网海南",
         "verified": true,
         "verified_type": 3
       }
