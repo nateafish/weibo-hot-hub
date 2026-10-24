@@ -10,11 +10,61 @@
     "status": 2,
     "uid": 2522098777
   },
-  "last_seen_at": "2026-10-24T07:00:00+08:00",
+  "last_seen_at": "2026-10-24T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23lpl%E7%91%9E%E5%A3%AB%E8%BD%AE%E9%A6%96%E8%BD%AE%E5%85%A8%E8%B4%A5%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "12家媒体",
+    "users": [
+      {
+        "id": 7761793874,
+        "idstr": "7761793874",
+        "screen_name": "白鹿科技",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7750531853,
+        "idstr": "7750531853",
+        "screen_name": "朱雀财经",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7575030448,
+        "idstr": "7575030448",
+        "screen_name": "白鹿视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6590980486,
+        "idstr": "6590980486",
+        "screen_name": "捉谣记",
+        "verified": true,
+        "verified_type": 7
+      },
+      {
+        "id": 6092578444,
+        "idstr": "6092578444",
+        "screen_name": "新浪种草官",
+        "verified": true,
+        "verified_type": 7
+      },
+      {
+        "id": 3048800300,
+        "idstr": "3048800300",
+        "screen_name": "新浪圈子",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2131593523,
+        "idstr": "2131593523",
+        "screen_name": "羊城晚报金羊网",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#lpl瑞士轮首轮全败#",
   "search_url": "https://s.weibo.com/weibo?q=%23lpl%E7%91%9E%E5%A3%AB%E8%BD%AE%E9%A6%96%E8%BD%AE%E5%85%A8%E8%B4%A5%23",
