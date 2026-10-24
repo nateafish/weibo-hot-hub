@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-10-24T14:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#我的长征学习手记#",
+      "rank": 1,
+      "title": "我的长征学习手记",
+      "topic_id": "231522ab54993954c7c790e32c271104554ac9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#年轻人正在抛弃帆布鞋#",
+      "rank": 1,
+      "title": "年轻人正在抛弃帆布鞋",
+      "topic_id": "231522fb4440e0a7903177ffe2e220c4ee80d7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张家齐被吐槽最不喜欢这个运动员太高调了#",
+      "rank": 2,
+      "title": "张家齐被吐槽最不喜欢这个运动员太高调了",
+      "topic_id": "2315222f85c54edd2b457f910572cf08d4e1a3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#长征的胜利是一步步走出来的#",
+      "rank": 3,
+      "title": "长征的胜利是一步步走出来的",
+      "topic_id": "23152259955a6b549ce7059895833a3b9d0313"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#泽连斯基再次喊话中国#",
+      "rank": 4,
+      "title": "泽连斯基再次喊话中国",
+      "topic_id": "2315228813f7dd1c467b28fbfe2626790bc89a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#父亲突发脑梗儿子用AI抢出救命时间#",
+      "rank": 5,
+      "title": "父亲突发脑梗儿子用AI抢出救命时间",
+      "topic_id": "231522d97f7fcb4ed96dee8320b61131b3b39b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#任泽平账号违规被禁止关注#",
+      "rank": 6,
+      "title": "任泽平账号违规被禁止关注",
+      "topic_id": "231522ba6e72f0f3844c26b5c98bdab63f7f31"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#田曦薇被问是魏娆还是君黛#",
+      "rank": 7,
+      "title": "田曦薇被问是魏娆还是君黛",
+      "topic_id": "2315222f842ee9e3ef546b63b316e06fe5e651"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#范丞丞裤子被扒掉的反应#",
+      "rank": 8,
+      "title": "范丞丞裤子被扒掉的反应",
+      "topic_id": "2315224cca32b6af131efae9a213487ce3f285"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#阿门封盖文班亚马#",
+      "rank": 9,
+      "title": "阿门封盖文班亚马",
+      "topic_id": "2315226e17ee56dfec280b7e695b3cc6ded698"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#勇士末节被轰17比0#",
+      "rank": 10,
+      "title": "勇士末节被轰17比0",
+      "topic_id": "231522df23902b6852fa134a5c1d57077be2e2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "黄多多说自己的头号粉丝是妹妹",
+      "rank": 11,
+      "title": "黄多多说自己的头号粉丝是妹妹",
+      "topic_id": "231522fd3218c805f9365092c894609d6b994b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "闵塔鲨回应",
+      "rank": 12,
+      "title": "闵塔鲨回应",
+      "topic_id": "231522a6f7fe7ac6ef02d01ec9aed73dec6f83"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#红秀主编说法庭见#",
+      "rank": 13,
+      "title": "红秀主编说法庭见",
+      "topic_id": "231522caca7824c470e348972b1c3b8b651d08"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#宝爸激动大叫吓得宝宝撤回一个清华#",
+      "rank": 14,
+      "title": "宝爸激动大叫吓得宝宝撤回一个清华",
+      "topic_id": "23152200d361d3d2332430d5760f4074d6f1bd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#迪丽热巴微指断层#",
+      "rank": 15,
+      "title": "迪丽热巴微指断层",
+      "topic_id": "2315223ae8fd6a19c145e070e337a996e858ef"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "AI对年轻人的影响被严重低估了",
+      "rank": 16,
+      "title": "AI对年轻人的影响被严重低估了",
+      "topic_id": "2315224fd72c12420812304a53786ec006fda3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#肖战听到粉丝喊脱掉的反应#",
+      "rank": 17,
+      "title": "肖战听到粉丝喊脱掉的反应",
+      "topic_id": "23152205df6f4c9d22b25be872c1cd1c84a338"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#严浩翔新剧有感情线#",
+      "rank": 18,
+      "title": "严浩翔新剧有感情线",
+      "topic_id": "231522f18b13315c040e1d16a4df1a2def9178"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#国务院要求优化家庭财税稳人口#",
+      "rank": 19,
+      "title": "国务院要求优化家庭财税稳人口",
+      "topic_id": "231522c5fff451fe128c56b2140d03d48ad593"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#杜兰特福克斯爆发冲突#",
+      "rank": 20,
+      "title": "杜兰特福克斯爆发冲突",
+      "topic_id": "23152200e75722e30fb57ce0448bd31911a4c2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#贾冰的厨艺事业又有了新进展#",
+      "rank": 21,
+      "title": "贾冰的厨艺事业又有了新进展",
+      "topic_id": "23152256bf727305c78ef2d1b0a1a293a29196"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "大S最有野心的那一年淡妆走红毯",
+      "rank": 22,
+      "title": "大S最有野心的那一年淡妆走红毯",
+      "topic_id": "231522c168bc54fbe204b0126daf56c676f65f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#iPhoneDuo屏幕开裂#",
+      "rank": 23,
+      "title": "iPhoneDuo屏幕开裂",
+      "topic_id": "231522a74786fd8d71b15db646275591c8f613"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "赵丽颖直播称没有关注粉丝",
+      "rank": 24,
+      "title": "赵丽颖直播称没有关注粉丝",
+      "topic_id": "231522c1798414636b3774390dff914aa8fd77"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#黄多多正式进圈#",
+      "rank": 25,
+      "title": "黄多多正式进圈",
+      "topic_id": "231522eb61bceaf3d4bcd27e1102f5f609658a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "突然发现大家的省钱方式到了极致",
+      "rank": 26,
+      "title": "突然发现大家的省钱方式到了极致",
+      "topic_id": "23152230582216689630682611ec03a38f7a24"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "天娱前员工分析厉娜许飞谁在撒谎",
+      "rank": 27,
+      "title": "天娱前员工分析厉娜许飞谁在撒谎",
+      "topic_id": "2315227628329fd1abb124eaf32ace4093b911"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#严浩翔新剧演技口碑#",
+      "rank": 28,
+      "title": "严浩翔新剧演技口碑",
+      "topic_id": "2315224b58e78661641332c46b573fa2881962"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "S16抽签 内战",
+      "rank": 29,
+      "title": "S16抽签 内战",
+      "topic_id": "231522efba962967f704c6c0d1f5c084319096"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#3毫米息肉1年长到3厘米已癌变#",
+      "rank": 30,
+      "title": "3毫米息肉1年长到3厘米已癌变",
+      "topic_id": "231522510dd9eb0a8e86d3a168745208c98056"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#网友还原赵丽颖直播全程#",
+      "rank": 31,
+      "title": "网友还原赵丽颖直播全程",
+      "topic_id": "23152269c8993744c0da5e131e23728223c470"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#AI创造的自由生活有多爽#",
+      "rank": 32,
+      "title": "AI创造的自由生活有多爽",
+      "topic_id": "23152294d84a152abe210b39a4d76db343e4a3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#肖战汗为什么能避开正脸流#",
+      "rank": 33,
+      "title": "肖战汗为什么能避开正脸流",
+      "topic_id": "231522eb12854d614ebdbf84265bf0b5b7a1ae"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#欧阳娜娜VOGUE红毯最忙的人#",
+      "rank": 34,
+      "title": "欧阳娜娜VOGUE红毯最忙的人",
+      "topic_id": "2315224607d624a7ceda95d5b935c13510744d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#美第一夫人促成俄乌局部停火#",
+      "rank": 35,
+      "title": "美第一夫人促成俄乌局部停火",
+      "topic_id": "231522f5752052a2d56e26620505f84ebeeeee"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "刘冲硬搬厕所让大家打卡",
+      "rank": 36,
+      "title": "刘冲硬搬厕所让大家打卡",
+      "topic_id": "23152263f1d569ca95bffc6cd6e5f1f1c5d30c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "祖海认领",
+      "rank": 37,
+      "title": "祖海认领",
+      "topic_id": "231522887f8284c7b6138e0f71f05a16157802"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "AI短剧公司几乎不需要基础岗",
+      "rank": 38,
+      "title": "AI短剧公司几乎不需要基础岗",
+      "topic_id": "2315224c962996ba677c25ad7836a9bb98efa2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#优酷又开始卖嫁金钗的戏服了#",
+      "rank": 39,
+      "title": "优酷又开始卖嫁金钗的戏服了",
+      "topic_id": "2315225ea45b9e8369ef83fa2e48f1d7fdfb3a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#嫁金钗花絮毛林林掩面痛哭这段#",
+      "rank": 40,
+      "title": "嫁金钗花絮毛林林掩面痛哭这段",
+      "topic_id": "23152296d8acacfcb657246fd60d3b64701fa2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#80后回忆杀上新新课件#",
+      "rank": 41,
+      "title": "80后回忆杀上新新课件",
+      "topic_id": "231522a3c7b8725f55a5b6b40ecd9c789d9143"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#李昀锐尚公主演技口碑#",
+      "rank": 42,
+      "title": "李昀锐尚公主演技口碑",
+      "topic_id": "2315227a9d78e53dcc24ed1cd143f31d744e54"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 7,
+      "posts": "saved",
+      "query": "#巴黎青年称西红柿价格十年涨六成#",
+      "rank": 43,
+      "title": "巴黎青年称西红柿价格十年涨六成",
+      "topic_id": "231522fff288a196294a54fc18a18619441d55"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "大帅cos苏烈",
+      "rank": 44,
+      "title": "大帅cos苏烈",
+      "topic_id": "2315225c67d513e2a8682b4c3ca0554f30e74e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#逐夏杀青#",
+      "rank": 45,
+      "title": "逐夏杀青",
+      "topic_id": "231522e66714c57e610a2f98777e69f6443bd2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#勇士灰熊爆发冲突#",
+      "rank": 46,
+      "title": "勇士灰熊爆发冲突",
+      "topic_id": "231522599b5dfe1a92de637bc2660b25d407c0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#胡先煦拉开王安宇眼罩一起欣赏#",
+      "rank": 47,
+      "title": "胡先煦拉开王安宇眼罩一起欣赏",
+      "topic_id": "231522964ba3c342b52d3de884d4f65578cd40"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "嫁金钗",
+      "rank": 48,
+      "title": "嫁金钗",
+      "topic_id": "2315226cf7f2bdf15634b7584b304741dfd7c3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "郭宁宁任福建省政府党组书记",
+      "rank": 49,
+      "title": "郭宁宁任福建省政府党组书记",
+      "topic_id": "231522d4df626fbb5d22c3d377391fe108c486"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 8,
+      "posts": "saved",
+      "query": "#诸葛宇杰任青海省委副书记#",
+      "rank": 50,
+      "title": "诸葛宇杰任青海省委副书记",
+      "topic_id": "231522542c4d33ff405e763b1b6f2f8cf1e741"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
