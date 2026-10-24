@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2522098777
   },
-  "last_seen_at": "2026-10-24T15:00:00+08:00",
+  "last_seen_at": "2026-10-24T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23Ning%E7%88%86%E6%96%99%E7%AE%A1%E6%B3%BD%E5%85%83%E8%A7%A3%E8%AF%B4S16%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "2家媒体",
     "users": [
       {
         "id": 1867427515,
         "idstr": "1867427515",
         "screen_name": "新派新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1802564537,
+        "idstr": "1802564537",
+        "screen_name": "新派观察",
         "verified": true,
         "verified_type": 3
       }
