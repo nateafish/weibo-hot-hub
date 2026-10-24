@@ -3,11 +3,26 @@
   "created_at": 1792797126,
   "first_seen_at": "2026-10-24T08:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-24T08:00:00+08:00",
+  "last_seen_at": "2026-10-24T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%94%9F%E4%BA%86%E4%B8%AA%E8%80%97%E5%AD%90%E5%B4%BD%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "2家媒体",
+    "users": [
+      {
+        "id": 2337985010,
+        "idstr": "2337985010",
+        "screen_name": "瑞安融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2188202475,
+        "idstr": "2188202475",
+        "screen_name": "南京晨报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "大熊猫生了个耗子崽",
   "search_url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%94%9F%E4%BA%86%E4%B8%AA%E8%80%97%E5%AD%90%E5%B4%BD%23",
