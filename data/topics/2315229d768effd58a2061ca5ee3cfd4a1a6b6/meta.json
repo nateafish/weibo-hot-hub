@@ -3,11 +3,25 @@
   "created_at": 1793009891,
   "first_seen_at": "2026-10-26T19:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-26T19:00:00+08:00",
+  "last_seen_at": "2026-10-26T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%AE%B8%E9%A3%9E%E5%8E%89%E5%A8%9C+%E8%A1%80%E7%B3%96%E6%84%9F%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "10家媒体",
     "users": [
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6444725927,
+        "idstr": "6444725927",
+        "screen_name": "吉祥新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2805275770,
         "idstr": "2805275770",
@@ -23,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 2460937233,
+        "idstr": "2460937233",
+        "screen_name": "热度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2183542485,
         "idstr": "2183542485",
         "screen_name": "西安广播电视台",
@@ -30,9 +51,9 @@
         "verified_type": 3
       },
       {
-        "id": 1656737654,
-        "idstr": "1656737654",
-        "screen_name": "现代快报",
+        "id": 1959444680,
+        "idstr": "1959444680",
+        "screen_name": "云南网",
         "verified": true,
         "verified_type": 3
       }
