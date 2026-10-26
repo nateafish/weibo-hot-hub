@@ -10,11 +10,25 @@
     "status": 2,
     "uid": 6004281123
   },
-  "last_seen_at": "2026-10-27T05:00:00+08:00",
+  "last_seen_at": "2026-10-27T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%87%91%E7%90%83%E6%8F%AD%E6%99%93%E6%97%B6%E9%97%B4%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "11家媒体",
     "users": [
+      {
+        "id": 1668293725,
+        "idstr": "1668293725",
+        "screen_name": "懂球帝",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7411081719,
+        "idstr": "7411081719",
+        "screen_name": "欧洲时报德国版",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 6254784663,
         "idstr": "6254784663",
@@ -40,6 +54,13 @@
         "id": 5943595658,
         "idstr": "5943595658",
         "screen_name": "一手Video",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3288875501,
+        "idstr": "3288875501",
+        "screen_name": "河南日报",
         "verified": true,
         "verified_type": 3
       }
