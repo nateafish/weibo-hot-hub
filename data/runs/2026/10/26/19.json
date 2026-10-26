@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-10-26T19:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#二十届五中全会开始举行#",
+      "rank": 1,
+      "title": "二十届五中全会开始举行",
+      "topic_id": "231522b92046a541908c7eaf821c9f98fe6362"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#长鑫拒绝为苹果降价#",
+      "rank": 1,
+      "title": "长鑫拒绝为苹果降价",
+      "topic_id": "231522ef851e9036c35c4438793622d4c948af"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#中方回应卢拉赢得巴西大选#",
+      "rank": 2,
+      "title": "中方回应卢拉赢得巴西大选",
+      "topic_id": "231522d8fd4eeefe606bc192adfa6639e113c2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#震区3个场景照见生命至上#",
+      "rank": 3,
+      "title": "震区3个场景照见生命至上",
+      "topic_id": "231522ba609a721424e5a76fea80a956337014"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#内存价格出现倒挂#",
+      "rank": 4,
+      "title": "内存价格出现倒挂",
+      "topic_id": "2315229e4e7eabd52c7171e0c5fc344c930de4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#奥迪中国四环标和字母标正式分家#",
+      "rank": 5,
+      "title": "奥迪中国四环标和字母标正式分家",
+      "topic_id": "231522ec7b4936a56ecaa7c0d72ac7fb9d5ed8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#多所高校将通过数字人民币发工资#",
+      "rank": 6,
+      "title": "多所高校将通过数字人民币发工资",
+      "topic_id": "231522476258d595b9d0551adb6c3b1c5ceaf1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "谁来了山东都得说倒装句",
+      "rank": 7,
+      "title": "谁来了山东都得说倒装句",
+      "topic_id": "231522d482a0766c5c3200f15fd5bbd9a12e7a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#县委书记被扔下水舆论为何一片叫好#",
+      "rank": 8,
+      "title": "县委书记被扔下水舆论为何一片叫好",
+      "topic_id": "23152248730946dcf09bfcad3247d3b292cf5e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#中国的卫星看中国台湾很正常#",
+      "rank": 9,
+      "title": "中国的卫星看中国台湾很正常",
+      "topic_id": "231522182c0711eccfdb9fc770a82a86e2de77"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#2026款理想i6还没上市就被拆了#",
+      "rank": 10,
+      "title": "2026款理想i6还没上市就被拆了",
+      "topic_id": "2315222942a150880cc1160c25bb770f781067"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#老干妈日销售额从万元跌至千元#",
+      "rank": 11,
+      "title": "老干妈日销售额从万元跌至千元",
+      "topic_id": "2315229cf12f650bf163b6c0e5468c4c603b5e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "北京对单身女性有多友好",
+      "rank": 12,
+      "title": "北京对单身女性有多友好",
+      "topic_id": "2315222413a1f34588efe5417b01e66cfa9b7c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#大衣哥因频繁被举报回老家种地#",
+      "rank": 13,
+      "title": "大衣哥因频繁被举报回老家种地",
+      "topic_id": "231522684131b2dd5cc936a5baf8f4b2ab9046"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#39岁网红查出肝癌到离世只有9个月#",
+      "rank": 14,
+      "title": "39岁网红查出肝癌到离世只有9个月",
+      "topic_id": "2315223237c57d2361ab4d3e2e3375955d992d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#Meiko世界赛历史第二KDA#",
+      "rank": 15,
+      "title": "Meiko世界赛历史第二KDA",
+      "topic_id": "2315224a3a14fcebd87b36bb9a2d138752cd20"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#皇马管理层送樊振东巴萨官方赠票#",
+      "rank": 16,
+      "title": "皇马管理层送樊振东巴萨官方赠票",
+      "topic_id": "23152204f93bab0142cd5b6295e909df51693d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "兰香如故",
+      "rank": 17,
+      "title": "兰香如故",
+      "topic_id": "231522c6a223bd3a54fc2af87227153bdbc48d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "年轻时为你写的歌 恐怕你早已忘了吧",
+      "rank": 18,
+      "title": "年轻时为你写的歌 恐怕你早已忘了吧",
+      "topic_id": "231522d17cca2fea4ac3f4516a65708714f7ba"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "许飞厉娜 血糖感",
+      "rank": 19,
+      "title": "许飞厉娜 血糖感",
+      "topic_id": "2315229d768effd58a2061ca5ee3cfd4a1a6b6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#星巴克不欠谁的#",
+      "rank": 20,
+      "title": "星巴克不欠谁的",
+      "topic_id": "231522d98c9b06c27648c9a5ec8182ca952556"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#徐艺洋个人品牌多次使用小海豚元素#",
+      "rank": 21,
+      "title": "徐艺洋个人品牌多次使用小海豚元素",
+      "topic_id": "231522c93425340ed124eb5dd79973c44977d1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#安踏FILA特步卖不动了#",
+      "rank": 22,
+      "title": "安踏FILA特步卖不动了",
+      "topic_id": "231522755ce0a239116af3f8925df89c3b8a5f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#马天宇主动提起李明德是要有反转了吗#",
+      "rank": 23,
+      "title": "马天宇主动提起李明德是要有反转了吗",
+      "topic_id": "231522c07ba8d2c71c289c54f04c5648da8565"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#女明星们VOGUE子弹时间对比#",
+      "rank": 24,
+      "title": "女明星们VOGUE子弹时间对比",
+      "topic_id": "2315221e68d5cd641da543b4c448d52b3aa494"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#樊振东文笔#",
+      "rank": 25,
+      "title": "樊振东文笔",
+      "topic_id": "23152280f963756ad0a45085e9c477e9e04e52"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#徐艺洋公司已申请小海豚玩偶专利#",
+      "rank": 26,
+      "title": "徐艺洋公司已申请小海豚玩偶专利",
+      "topic_id": "2315223764c60b4826b6404dbc8e017d9d2dfa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "苹果被疑走向雪崩",
+      "rank": 27,
+      "title": "苹果被疑走向雪崩",
+      "topic_id": "231522670780f691ede867af3343f6b6b7d9d9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#为什么平板不好卖了#",
+      "rank": 28,
+      "title": "为什么平板不好卖了",
+      "topic_id": "231522a09302a4df268c6e86e66a4caee2b82e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#樊振东的东式幽默藏不住了#",
+      "rank": 29,
+      "title": "樊振东的东式幽默藏不住了",
+      "topic_id": "231522f2e8832e79e5c1d514270cdc048cea93"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#A股大盘收红#",
+      "rank": 30,
+      "title": "A股大盘收红",
+      "topic_id": "231522d002091c6b387ca3de7ef4825e0d5bfa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "月亮",
+      "rank": 31,
+      "title": "月亮",
+      "topic_id": "2315223b373249de714a89a8f30d2b8a7a2ff4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "不要谈太难的恋爱",
+      "rank": 32,
+      "title": "不要谈太难的恋爱",
+      "topic_id": "231522b2be74748b9d6b9283ae1b4e4eae92af"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#老干妈辟谣AI裁员传闻#",
+      "rank": 33,
+      "title": "老干妈辟谣AI裁员传闻",
+      "topic_id": "231522ffc8e7246b1746af7e5ad56702718aa7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#郑钦文观战皇马vs巴萨#",
+      "rank": 34,
+      "title": "郑钦文观战皇马vs巴萨",
+      "topic_id": "231522ad9b38dcfcdad990b09e98fb565c3133"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "刘铮亮小蜜蜂裤衩",
+      "rank": 35,
+      "title": "刘铮亮小蜜蜂裤衩",
+      "topic_id": "231522a66f5b6ecc8ba40a5a1aded27c9eb7c6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#韩路直播锤鸿蒙智行新MPV#",
+      "rank": 36,
+      "title": "韩路直播锤鸿蒙智行新MPV",
+      "topic_id": "2315229f9a9df42f4dcdec77474e609d727cb8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#数码闲聊站曝27年TOP6都会上阔直板#",
+      "rank": 37,
+      "title": "数码闲聊站曝27年TOP6都会上阔直板",
+      "topic_id": "231522303d88ebbf3cee6c5ddc267edae04740"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#出轨妻子生前向母亲哭诉过得不幸福#",
+      "rank": 38,
+      "title": "出轨妻子生前向母亲哭诉过得不幸福",
+      "topic_id": "231522888603ee5b3cebcb26c853ae18b26f61"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 8,
+      "posts": "saved",
+      "query": "#南京博物院回应小孩踩踏已增设防护#",
+      "rank": 39,
+      "title": "南京博物院回应小孩踩踏已增设防护",
+      "topic_id": "2315220dd027305c9a019dfda65e8d19c1a237"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#普京坦言非常惊讶#",
+      "rank": 40,
+      "title": "普京坦言非常惊讶",
+      "topic_id": "231522872438cd2c30c96acf67f2a9ccd3a9f4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 8,
+      "posts": "saved",
+      "query": "#无畏拍的九尾#",
+      "rank": 41,
+      "title": "无畏拍的九尾",
+      "topic_id": "2315222717c708ab7ad68b98ea3af346de8eeb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#女子新房未入住被他人装修出租20年#",
+      "rank": 42,
+      "title": "女子新房未入住被他人装修出租20年",
+      "topic_id": "23152271f5d418a44d46c329f006753db6126f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "惠英红 金狮大赏评审主席",
+      "rank": 43,
+      "title": "惠英红 金狮大赏评审主席",
+      "topic_id": "231522e16e30a5ea3728ce5e27ccf534e4e236"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#爸爸给宝宝拍背反挨一巴掌气笑了#",
+      "rank": 44,
+      "title": "爸爸给宝宝拍背反挨一巴掌气笑了",
+      "topic_id": "231522b4e0b2ba1863366575fd340bebe1e014"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#金价一跌再跌还会继续跌吗#",
+      "rank": 45,
+      "title": "金价一跌再跌还会继续跌吗",
+      "topic_id": "231522395869673e36ad8e4cfcae86d9a5adec"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "许飞厉娜 我愿意跟你一起浪费时间",
+      "rank": 46,
+      "title": "许飞厉娜 我愿意跟你一起浪费时间",
+      "topic_id": "2315224891f50eff238be41fe2ac231dcbc45b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#马天宇录完后会友期说人类好可怕#",
+      "rank": 47,
+      "title": "马天宇录完后会友期说人类好可怕",
+      "topic_id": "23152268c24b7bc66ca1898899721d2651db36"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#老干妈3年参保人数跌超63%#",
+      "rank": 48,
+      "title": "老干妈3年参保人数跌超63%",
+      "topic_id": "23152292d05d33d4afac5c189f2e660e54dbc6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#周末北方下雪南方下雨#",
+      "rank": 49,
+      "title": "周末北方下雪南方下雨",
+      "topic_id": "23152230ff0c1969618954447111d85aaf98c4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#外交部回应金正恩参访丹东#",
+      "rank": 50,
+      "title": "外交部回应金正恩参访丹东",
+      "topic_id": "23152235122c439ee3ee163b096dffb06d434b"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
