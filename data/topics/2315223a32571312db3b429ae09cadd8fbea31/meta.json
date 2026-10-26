@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 5665264752
   },
-  "last_seen_at": "2026-10-26T22:00:00+08:00",
+  "last_seen_at": "2026-10-27T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%96%B0%E6%AC%BEiPadmini%E5%8F%91%E5%B8%83%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "6家媒体",
     "users": [
       {
         "id": 5665264752,
         "idstr": "5665264752",
         "screen_name": "万物库",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2460937233,
+        "idstr": "2460937233",
+        "screen_name": "热度新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -33,6 +40,20 @@
         "id": 1750852843,
         "idstr": "1750852843",
         "screen_name": "PChome",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1652484947,
+        "idstr": "1652484947",
+        "screen_name": "新快报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       }

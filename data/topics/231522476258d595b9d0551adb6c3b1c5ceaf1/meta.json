@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1682207150
   },
-  "last_seen_at": "2026-10-26T22:00:00+08:00",
+  "last_seen_at": "2026-10-27T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E5%B0%86%E9%80%9A%E8%BF%87%E6%95%B0%E5%AD%97%E4%BA%BA%E6%B0%91%E5%B8%81%E5%8F%91%E5%B7%A5%E8%B5%84%23%26t%3D3&title=发布媒体",
-    "show_str": "66家媒体",
+    "show_str": "72家媒体",
     "users": [
       {
         "id": 1682207150,
@@ -26,6 +26,13 @@
         "id": 2460937233,
         "idstr": "2460937233",
         "screen_name": "热度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1885454921,
+        "idstr": "1885454921",
+        "screen_name": "蓝鲸新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -47,13 +54,6 @@
         "id": 2360016402,
         "idstr": "2360016402",
         "screen_name": "宁波日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1885454921,
-        "idstr": "1885454921",
-        "screen_name": "蓝鲸新闻",
         "verified": true,
         "verified_type": 3
       },
