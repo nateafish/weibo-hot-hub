@@ -10,18 +10,11 @@
     "status": 2,
     "uid": 2855643032
   },
-  "last_seen_at": "2026-10-27T18:00:00+08:00",
+  "last_seen_at": "2026-10-27T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%92%8B%E6%AC%A3%E6%98%8E%E6%98%BE%E8%A2%AB%E5%90%93%E5%88%B0%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "7家媒体",
     "users": [
-      {
-        "id": 7708039348,
-        "idstr": "7708039348",
-        "screen_name": "北青娱见",
-        "verified": true,
-        "verified_type": 3
-      },
       {
         "id": 1618051664,
         "idstr": "1618051664",
@@ -33,6 +26,13 @@
         "id": 1288429914,
         "idstr": "1288429914",
         "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7708039348,
+        "idstr": "7708039348",
+        "screen_name": "北青娱见",
         "verified": true,
         "verified_type": 3
       },
@@ -49,6 +49,20 @@
         "screen_name": "新浪种草官",
         "verified": true,
         "verified_type": 7
+      },
+      {
+        "id": 1938523582,
+        "idstr": "1938523582",
+        "screen_name": "宁波晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
       }
     ]
   },
