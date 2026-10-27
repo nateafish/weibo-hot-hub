@@ -3,15 +3,36 @@
   "created_at": null,
   "first_seen_at": "2026-10-27T20:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-27T20:00:00+08:00",
+  "last_seen_at": "2026-10-27T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23AL%23%26t%3D3&title=发布媒体",
-    "show_str": "9家媒体",
+    "show_str": "20家媒体",
     "users": [
       {
         "id": 7460619577,
         "idstr": "7460619577",
         "screen_name": "托里融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6369501744,
+        "idstr": "6369501744",
+        "screen_name": "封面新闻视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5876448064,
+        "idstr": "5876448064",
+        "screen_name": "青蕉视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5867962564,
+        "idstr": "5867962564",
+        "screen_name": "达州快播报",
         "verified": true,
         "verified_type": 3
       },
@@ -23,37 +44,16 @@
         "verified_type": 3
       },
       {
-        "id": 5343085742,
-        "idstr": "5343085742",
-        "screen_name": "PentaQ刺猬电竞社",
-        "verified": true,
-        "verified_type": 0
-      },
-      {
-        "id": 5312228022,
-        "idstr": "5312228022",
-        "screen_name": "大象融媒",
+        "id": 5763593746,
+        "idstr": "5763593746",
+        "screen_name": "资阳快播报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 5286142904,
-        "idstr": "5286142904",
-        "screen_name": "极果",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2286092114,
-        "idstr": "2286092114",
-        "screen_name": "中国蓝新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2131593523,
-        "idstr": "2131593523",
-        "screen_name": "羊城晚报金羊网",
+        "id": 5745238615,
+        "idstr": "5745238615",
+        "screen_name": "封面快播报",
         "verified": true,
         "verified_type": 3
       }
