@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 2028810631
   },
-  "last_seen_at": "2026-10-27T09:00:00+08:00",
+  "last_seen_at": "2026-10-27T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23AL%E5%AE%98%E6%96%B9%E8%B5%9B%E5%90%8E%E8%87%B4%E6%AD%89%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "12家媒体",
     "users": [
       {
         "id": 2028810631,
         "idstr": "2028810631",
         "screen_name": "新浪新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1667942985,
+        "idstr": "1667942985",
+        "screen_name": "长三角之声",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1882632930,
+        "idstr": "1882632930",
+        "screen_name": "新消息报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 2460937233,
+        "idstr": "2460937233",
+        "screen_name": "热度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1959451603,
         "idstr": "1959451603",
         "screen_name": "锦观新闻",
@@ -37,9 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1712686623,
-        "idstr": "1712686623",
-        "screen_name": "手机上的新浪",
+        "id": 1943154142,
+        "idstr": "1943154142",
+        "screen_name": "中安在线",
         "verified": true,
         "verified_type": 3
       }

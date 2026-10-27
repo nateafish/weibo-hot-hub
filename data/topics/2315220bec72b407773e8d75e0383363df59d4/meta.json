@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 6822793633
   },
-  "last_seen_at": "2026-10-27T09:00:00+08:00",
+  "last_seen_at": "2026-10-27T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23AL%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%B7%AE%E6%88%90%E7%BB%A9LPL%E9%98%9F%E4%BC%8D%23%26t%3D3&title=发布媒体",
-    "show_str": "7家媒体",
+    "show_str": "22家媒体",
     "users": [
       {
         "id": 1618051664,
         "idstr": "1618051664",
         "screen_name": "头条新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7551227875,
+        "idstr": "7551227875",
+        "screen_name": "万维文艺",
+        "verified": true,
+        "verified_type": 7
+      },
+      {
+        "id": 7192225377,
+        "idstr": "7192225377",
+        "screen_name": "时代报告健康",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6832629459,
+        "idstr": "6832629459",
+        "screen_name": "麦穗财经",
         "verified": true,
         "verified_type": 3
       },
@@ -30,39 +51,18 @@
         "verified_type": 7
       },
       {
+        "id": 6373459851,
+        "idstr": "6373459851",
+        "screen_name": "麦穗视频快快看",
+        "verified": true,
+        "verified_type": 7
+      },
+      {
         "id": 6092578444,
         "idstr": "6092578444",
         "screen_name": "新浪种草官",
         "verified": true,
         "verified_type": 7
-      },
-      {
-        "id": 2131593523,
-        "idstr": "2131593523",
-        "screen_name": "羊城晚报金羊网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1912416573,
-        "idstr": "1912416573",
-        "screen_name": "河南手机报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1887344341,
-        "idstr": "1887344341",
-        "screen_name": "观察者网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1751714412,
-        "idstr": "1751714412",
-        "screen_name": "大皖新闻",
-        "verified": true,
-        "verified_type": 3
       }
     ]
   },
