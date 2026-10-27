@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 3266943013
   },
-  "last_seen_at": "2026-10-27T22:00:00+08:00",
+  "last_seen_at": "2026-10-28T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BB%8E%E5%A4%9A%E7%BB%84%E7%A1%AC%E6%A0%B8%E6%95%B0%E6%8D%AE%E9%80%8F%E8%A7%86%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E6%88%90%E7%BB%A9%E5%8D%95%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "8家媒体",
     "users": [
       {
         "id": 3266943013,
@@ -30,6 +30,20 @@
         "verified_type": 3
       },
       {
+        "id": 3205295640,
+        "idstr": "3205295640",
+        "screen_name": "中新浙里",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2308941133,
+        "idstr": "2308941133",
+        "screen_name": "锦州播报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2252846093,
         "idstr": "2252846093",
         "screen_name": "长春新闻",
@@ -37,9 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 1806503894,
-        "idstr": "1806503894",
-        "screen_name": "安徽商报",
+        "id": 1987235622,
+        "idstr": "1987235622",
+        "screen_name": "丹阳日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1838672663,
+        "idstr": "1838672663",
+        "screen_name": "华夏时报",
         "verified": true,
         "verified_type": 3
       }

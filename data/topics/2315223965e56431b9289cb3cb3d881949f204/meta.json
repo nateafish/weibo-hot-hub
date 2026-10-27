@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2028810631
   },
-  "last_seen_at": "2026-10-27T22:00:00+08:00",
+  "last_seen_at": "2026-10-28T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%AD%99%E9%A2%96%E8%8E%8E%E6%8A%8A%E5%8D%A2%E8%8C%A8%E5%85%A8%E7%AE%97%E4%BD%8F%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "7家媒体",
+    "show_str": "21家媒体",
     "users": [
       {
         "id": 2028810631,
         "idstr": "2028810631",
         "screen_name": "新浪新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2460937233,
+        "idstr": "2460937233",
+        "screen_name": "热度新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 7639071132,
+        "idstr": "7639071132",
+        "screen_name": "篝火视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6418480627,
         "idstr": "6418480627",
         "screen_name": "星视频",
@@ -37,30 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 2252846093,
-        "idstr": "2252846093",
-        "screen_name": "长春新闻",
+        "id": 6294758863,
+        "idstr": "6294758863",
+        "screen_name": "紫牛新闻",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2118120483,
-        "idstr": "2118120483",
-        "screen_name": "青岛日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1744332207,
-        "idstr": "1744332207",
-        "screen_name": "钱江视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1406911561,
-        "idstr": "1406911561",
-        "screen_name": "云南广播电视台",
+        "id": 5200047156,
+        "idstr": "5200047156",
+        "screen_name": "扬子晚报泰州频道",
         "verified": true,
         "verified_type": 3
       }
