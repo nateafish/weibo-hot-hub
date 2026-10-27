@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1763597487
   },
-  "last_seen_at": "2026-10-27T13:00:00+08:00",
+  "last_seen_at": "2026-10-27T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9D%8E%E5%81%A5%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%A9%9A%E7%A4%BC%E4%B8%8A%E7%9A%84%E5%8F%91%E8%A8%80%23%26t%3D3&title=发布媒体",
-    "show_str": "10家媒体",
+    "show_str": "22家媒体",
     "users": [
       {
         "id": 2346437860,
         "idstr": "2346437860",
         "screen_name": "三峡融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1043320390,
+        "idstr": "1043320390",
+        "screen_name": "半岛晨报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +37,30 @@
         "verified_type": 3
       },
       {
-        "id": 2647971081,
-        "idstr": "2647971081",
-        "screen_name": "时速新闻",
+        "id": 6966062673,
+        "idstr": "6966062673",
+        "screen_name": "大河报邻妹妹",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2535760180,
-        "idstr": "2535760180",
-        "screen_name": "安徽视讯",
+        "id": 6444725927,
+        "idstr": "6444725927",
+        "screen_name": "吉祥新闻",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2252846093,
-        "idstr": "2252846093",
-        "screen_name": "长春新闻",
+        "id": 6207911580,
+        "idstr": "6207911580",
+        "screen_name": "大河报豫视频",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1913382117,
-        "idstr": "1913382117",
-        "screen_name": "深圳晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1882632930,
-        "idstr": "1882632930",
-        "screen_name": "新消息报",
+        "id": 5396094153,
+        "idstr": "5396094153",
+        "screen_name": "大众新闻-大众日报",
         "verified": true,
         "verified_type": 3
       }
