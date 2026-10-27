@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1638782947
   },
-  "last_seen_at": "2026-10-27T11:00:00+08:00",
+  "last_seen_at": "2026-10-27T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%AF%8C%E5%A3%AB%E5%BA%B7%E5%91%98%E5%B7%A5%E6%9B%9DiPhoneDuo%E7%A2%8E%E5%B1%8F%E5%8E%9F%E5%9B%A0%23%26t%3D3&title=发布媒体",
-    "show_str": "39家媒体",
+    "show_str": "56家媒体",
     "users": [
       {
         "id": 1638782947,
         "idstr": "1638782947",
         "screen_name": "新浪财经",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -37,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 1931093993,
+        "idstr": "1931093993",
+        "screen_name": "热点科技",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1714800385,
         "idstr": "1714800385",
         "screen_name": "第一帮帮团",
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2360016402,
-        "idstr": "2360016402",
-        "screen_name": "宁波日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2337985010,
-        "idstr": "2337985010",
-        "screen_name": "瑞安融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1931093993,
-        "idstr": "1931093993",
-        "screen_name": "热点科技",
+        "id": 6115560351,
+        "idstr": "6115560351",
+        "screen_name": "国是直通车",
         "verified": true,
         "verified_type": 3
       }

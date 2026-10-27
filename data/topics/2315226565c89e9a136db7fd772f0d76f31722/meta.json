@@ -3,10 +3,10 @@
   "created_at": 1793058230,
   "first_seen_at": "2026-10-27T09:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-27T11:00:00+08:00",
+  "last_seen_at": "2026-10-27T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%88%9A%E5%85%A5%E8%81%8C%E5%8F%AB%E5%A5%B3%E9%A2%86%E5%AF%BC%E4%B8%80%E4%B8%AA%E6%9C%88%E7%86%8A%E5%A4%A7%23%26t%3D3&title=发布媒体",
-    "show_str": "12家媒体",
+    "show_str": "13家媒体",
     "users": [
       {
         "id": 1744332207,
@@ -19,6 +19,13 @@
         "id": 2360016402,
         "idstr": "2360016402",
         "screen_name": "宁波日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1959444680,
+        "idstr": "1959444680",
+        "screen_name": "云南网",
         "verified": true,
         "verified_type": 3
       },
@@ -47,13 +54,6 @@
         "id": 2115259662,
         "idstr": "2115259662",
         "screen_name": "洪观新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2041117703,
-        "idstr": "2041117703",
-        "screen_name": "合肥日报",
         "verified": true,
         "verified_type": 3
       }
