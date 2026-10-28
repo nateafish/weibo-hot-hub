@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 6418480627
   },
-  "last_seen_at": "2026-10-28T08:00:00+08:00",
+  "last_seen_at": "2026-10-28T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8C%97%E4%BA%AC%E5%8A%A8%E7%89%A9%E5%9B%AD%E9%80%9A%E6%8A%A5%E8%90%8C%E5%85%B0%E8%BA%AB%E4%BD%93%E7%8A%B6%E6%80%81%23%26t%3D3&title=发布媒体",
-    "show_str": "27家媒体",
+    "show_str": "46家媒体",
     "users": [
       {
         "id": 6418480627,
         "idstr": "6418480627",
         "screen_name": "星视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 7723774651,
-        "idstr": "7723774651",
-        "screen_name": "星财经Pro",
+        "id": 5608027665,
+        "idstr": "5608027665",
+        "screen_name": "中国环境",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 7723617113,
-        "idstr": "7723617113",
-        "screen_name": "星娱乐star",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7723479601,
-        "idstr": "7723479601",
-        "screen_name": "star星视距",
+        "id": 5145725878,
+        "idstr": "5145725878",
+        "screen_name": "沸点视频",
         "verified": true,
         "verified_type": 3
       }
