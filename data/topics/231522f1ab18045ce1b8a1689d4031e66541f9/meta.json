@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 2620088113
   },
-  "last_seen_at": "2026-10-28T20:00:00+08:00",
+  "last_seen_at": "2026-10-28T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%2323%E5%B2%81%E7%BD%91%E7%BA%A2%E5%A4%8F%E5%A4%8F%E6%8A%97%E7%99%8C5%E5%B9%B4%E5%8E%BB%E4%B8%96%23%26t%3D3&title=发布媒体",
-    "show_str": "36家媒体",
+    "show_str": "61家媒体",
     "users": [
       {
         "id": 2620088113,
         "idstr": "2620088113",
         "screen_name": "海报新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2647971081,
+        "idstr": "2647971081",
+        "screen_name": "时速新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1411163204,
+        "idstr": "1411163204",
+        "screen_name": "人民日报健康客户端",
         "verified": true,
         "verified_type": 3
       },
@@ -37,30 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 2647971081,
-        "idstr": "2647971081",
-        "screen_name": "时速新闻",
+        "id": 2000016880,
+        "idstr": "2000016880",
+        "screen_name": "逐浪新闻",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1895096900,
-        "idstr": "1895096900",
-        "screen_name": "深圳新闻网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1411163204,
-        "idstr": "1411163204",
-        "screen_name": "人民日报健康客户端",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1280846847,
-        "idstr": "1280846847",
-        "screen_name": "指尖新闻-沈阳晚报",
+        "id": 1959444680,
+        "idstr": "1959444680",
+        "screen_name": "云南网",
         "verified": true,
         "verified_type": 3
       }
