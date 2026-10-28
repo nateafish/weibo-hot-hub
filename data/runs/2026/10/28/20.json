@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-10-28T20:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 1,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#新征程上持之以恒推进全面从严治党#",
+      "rank": 1,
+      "title": "新征程上持之以恒推进全面从严治党",
+      "topic_id": "231522e8d3f0b77bc177f49d525609c4b0e129"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#皇马道歉函#",
+      "rank": 1,
+      "title": "皇马道歉函",
+      "topic_id": "2315226664f03a29f82bbdff2cc2ffbdb92773"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#刘延东同志逝世#",
+      "rank": 2,
+      "title": "刘延东同志逝世",
+      "topic_id": "2315225e9e60d477654b221c7da4c88fe277ab"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#我国工业结构向新向优向好#",
+      "rank": 3,
+      "title": "我国工业结构向新向优向好",
+      "topic_id": "231522a57b0e152849af20dfdc331fedd6dd62"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#现在就出发5原班人马#",
+      "rank": 4,
+      "title": "现在就出发5原班人马",
+      "topic_id": "23152257baa68c2769c70d7b0ff5bb9d8c50de"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#西班牙列车相撞已致50死#",
+      "rank": 5,
+      "title": "西班牙列车相撞已致50死",
+      "topic_id": "231522351002a299317240252075ae90742339"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#白玉兰班底#",
+      "rank": 6,
+      "title": "白玉兰班底",
+      "topic_id": "231522d6138afb935413ffb7a26a464455df56"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#皇马欠中国的不只是一句道歉#",
+      "rank": 7,
+      "title": "皇马欠中国的不只是一句道歉",
+      "topic_id": "23152216b36a1eb188d2d3b66a33e25c56df01"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#剑来赢了#",
+      "rank": 8,
+      "title": "剑来赢了",
+      "topic_id": "231522118177ada9465a1d9e8118b738ae65ee"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#藏北高原上的中国速度#",
+      "rank": 9,
+      "title": "藏北高原上的中国速度",
+      "topic_id": "23152216036bc261694b29630934223783b257"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#女子被蜱虫咬伤住ICU28天四肢瘫痪#",
+      "rank": 10,
+      "title": "女子被蜱虫咬伤住ICU28天四肢瘫痪",
+      "topic_id": "231522517713b83b7d80141a1d92cbc8dc44f9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#皇马在1.8亿粉平台发布道歉#",
+      "rank": 11,
+      "title": "皇马在1.8亿粉平台发布道歉",
+      "topic_id": "23152272a554b716e582690fc62ce805832668"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "华为",
+      "rank": 12,
+      "title": "华为",
+      "topic_id": "231522d63e7ea059dc68e97e2ef16531e47e6c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#金价暴跌女子一天两跑郑州买金#",
+      "rank": 13,
+      "title": "金价暴跌女子一天两跑郑州买金",
+      "topic_id": "231522c0e142cad2571c144f2bf8655ba796bf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#杨幂刘学义身高差#",
+      "rank": 14,
+      "title": "杨幂刘学义身高差",
+      "topic_id": "23152208c0b45a33743f8b01df7e29e5354c1f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "华为FreeClip",
+      "rank": 15,
+      "title": "华为FreeClip",
+      "topic_id": "2315222b538a695454014d3a1580d79eaf0b3f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "十日终焉阵容",
+      "rank": 16,
+      "title": "十日终焉阵容",
+      "topic_id": "231522eb1557164a92dd876e17f6f8e794db6a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#iQOONeo12随机抽样游戏也能满帧#",
+      "rank": 17,
+      "title": "iQOONeo12随机抽样游戏也能满帧",
+      "topic_id": "231522a86aa95e4eb328f8399ed5a9371a4e14"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "手机性能已经进化到这种程度了",
+      "rank": 18,
+      "title": "手机性能已经进化到这种程度了",
+      "topic_id": "2315221bcb5f9865aa20d52afd71aa33cc23cf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#唐嫣被排到第五位#",
+      "rank": 19,
+      "title": "唐嫣被排到第五位",
+      "topic_id": "231522a40d1f1231923a41996e95c6100b203e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "剑来预告",
+      "rank": 20,
+      "title": "剑来预告",
+      "topic_id": "231522fb51d71de423405c970861bcda172126"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "被所有人忽略的医疗剧真正硬伤",
+      "rank": 21,
+      "title": "被所有人忽略的医疗剧真正硬伤",
+      "topic_id": "231522d284b1c29a0a5588cedad8917cf27a5c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#坠亡男童母亲回家发现指纹无法入门#",
+      "rank": 22,
+      "title": "坠亡男童母亲回家发现指纹无法入门",
+      "topic_id": "231522e962b54bc07e79db6604a132b9072f65"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张铭恩解释女友下跪#",
+      "rank": 23,
+      "title": "张铭恩解释女友下跪",
+      "topic_id": "231522d2011f5abff5a4fb4c79489354f74a52"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#西媒就姆巴佩闯下大祸算了笔账#",
+      "rank": 24,
+      "title": "西媒就姆巴佩闯下大祸算了笔账",
+      "topic_id": "2315225229f786ba15ffcada64435ff8d96bfe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王凯陪王鸥过生日了#",
+      "rank": 25,
+      "title": "王凯陪王鸥过生日了",
+      "topic_id": "2315229f1506a51a52f800844b07b41baa3645"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "尚公主没搞懂九重紫为啥火",
+      "rank": 26,
+      "title": "尚公主没搞懂九重紫为啥火",
+      "topic_id": "23152282240aac7fa79742ac19ee2429f61db0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#中方重视姆巴佩作出的道歉#",
+      "rank": 27,
+      "title": "中方重视姆巴佩作出的道歉",
+      "topic_id": "231522759c6b60a1314cb575291ba9931198c5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张铭恩晒给女友拍的丑照片#",
+      "rank": 28,
+      "title": "张铭恩晒给女友拍的丑照片",
+      "topic_id": "23152289ba6b62948692bf86ebde2f80e0f82b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#姆巴佩的道歉没发1.35亿粉的iG上#",
+      "rank": 29,
+      "title": "姆巴佩的道歉没发1.35亿粉的iG上",
+      "topic_id": "2315226d8fe889ea4772cc27101ddc6f267677"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#男子借助AI买彩票中508万#",
+      "rank": 30,
+      "title": "男子借助AI买彩票中508万",
+      "topic_id": "231522c6d39a8a03aecee4a8ccee32884abdfd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#皇马就姆巴佩言论道歉#",
+      "rank": 31,
+      "title": "皇马就姆巴佩言论道歉",
+      "topic_id": "2315227f384d5db8eda7d0b7945b7d8fb30306"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#等风热吻你好多熟人#",
+      "rank": 32,
+      "title": "等风热吻你好多熟人",
+      "topic_id": "2315222dbc0b1ed5200f9bd47295b84059b9b8"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#海信回应与皇马合作#",
+      "rank": 33,
+      "title": "海信回应与皇马合作",
+      "topic_id": "2315229e67b3c771e43d583ce7ea1f1c2e39be"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#肖战回复张百乔#",
+      "rank": 34,
+      "title": "肖战回复张百乔",
+      "topic_id": "231522130f53d64fd8b3a7d8bb550711819057"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#法国足协回应姆巴佩事件#",
+      "rank": 35,
+      "title": "法国足协回应姆巴佩事件",
+      "topic_id": "231522c353d5045b709d195fada5031751aa30"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "将门独后",
+      "rank": 36,
+      "title": "将门独后",
+      "topic_id": "231522ffbc85acdac629ad7848d067ac20b7b5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#喜人奇妙夜3官宣#",
+      "rank": 37,
+      "title": "喜人奇妙夜3官宣",
+      "topic_id": "2315227defcecec22c9cc3769fe554f18ccbe5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#勃起功能是男性血管健康的晴雨表#",
+      "rank": 38,
+      "title": "勃起功能是男性血管健康的晴雨表",
+      "topic_id": "2315220e37938038f6e8c4e08205d921b1e2ac"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#内娱终于拍了无限流末世题材#",
+      "rank": 39,
+      "title": "内娱终于拍了无限流末世题材",
+      "topic_id": "23152219de65331619be995fd83e25dab35f4a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张泽禹左航同游#",
+      "rank": 40,
+      "title": "张泽禹左航同游",
+      "topic_id": "231522259076a64c29c1f4696ee4f759c8b0e7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "睡前踮脚20次两周后惊喜",
+      "rank": 41,
+      "title": "睡前踮脚20次两周后惊喜",
+      "topic_id": "2315228bc095d6ea69ad87d58648a1f4153d19"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#周也胡先煦新剧人鬼情未了#",
+      "rank": 42,
+      "title": "周也胡先煦新剧人鬼情未了",
+      "topic_id": "231522fababaae3042cd48f937ee26b0e65774"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#徐梦桃雪季开板带火全套新装备#",
+      "rank": 43,
+      "title": "徐梦桃雪季开板带火全套新装备",
+      "topic_id": "2315223442f6a09f0c9dbcbb381952cb7485d7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#国台办回应特朗普称没人在乎台海问题#",
+      "rank": 44,
+      "title": "国台办回应特朗普称没人在乎台海问题",
+      "topic_id": "2315224a60d0da90901d99e78f477019bc9f77"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#23岁网红夏夏抗癌5年去世#",
+      "rank": 45,
+      "title": "23岁网红夏夏抗癌5年去世",
+      "topic_id": "231522f1ab18045ce1b8a1689d4031e66541f9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "塞尔维亚女孩上街庆祝过上好日子",
+      "rank": 46,
+      "title": "塞尔维亚女孩上街庆祝过上好日子",
+      "topic_id": "23152299fd39dd99c2dfc57774eb20f86e7e32"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#易烊千玺为理想i6助力#",
+      "rank": 47,
+      "title": "易烊千玺为理想i6助力",
+      "topic_id": "231522ae78d00a1fccb78254d5b78ff3ab606e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "玉簟秋",
+      "rank": 48,
+      "title": "玉簟秋",
+      "topic_id": "231522b4a7331fc3ad06f5975ac99dcbb44419"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#中国赞助商已向皇马发出谴责#",
+      "rank": 49,
+      "title": "中国赞助商已向皇马发出谴责",
+      "topic_id": "231522bc5c729c8765953a8acf05dbe51ed574"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#玉簟秋大结局尺度#",
+      "rank": 50,
+      "title": "玉簟秋大结局尺度",
+      "topic_id": "2315227078e9c4400c94a42bbfa57a8480af48"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

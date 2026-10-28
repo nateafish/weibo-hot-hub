@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 5347795977
   },
-  "last_seen_at": "2026-10-28T18:00:00+08:00",
+  "last_seen_at": "2026-10-28T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%AD%E5%9B%BD%E8%B5%9E%E5%8A%A9%E5%95%86%E5%B7%B2%E5%90%91%E7%9A%87%E9%A9%AC%E5%8F%91%E5%87%BA%E8%B0%B4%E8%B4%A3%23%26t%3D3&title=发布媒体",
-    "show_str": "28家媒体",
+    "show_str": "38家媒体",
     "users": [
       {
         "id": 5347795977,
@@ -26,6 +26,20 @@
         "id": 1856446532,
         "idstr": "1856446532",
         "screen_name": "合新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2460937233,
+        "idstr": "2460937233",
+        "screen_name": "热度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2118120483,
+        "idstr": "2118120483",
+        "screen_name": "青岛日报",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 3966988353,
         "idstr": "3966988353",
         "screen_name": "尤溪县广播电视台",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2824067765,
-        "idstr": "2824067765",
-        "screen_name": "贺州日报官微",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2649732781,
-        "idstr": "2649732781",
-        "screen_name": "阳信融媒",
         "verified": true,
         "verified_type": 3
       }

@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 7900886890
   },
-  "last_seen_at": "2026-10-28T18:00:00+08:00",
+  "last_seen_at": "2026-10-28T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C3%E5%AE%98%E5%AE%A3%23%26t%3D3&title=发布媒体",
-    "show_str": "9家媒体",
+    "show_str": "14家媒体",
     "users": [
       {
         "id": 3758512144,
@@ -23,9 +23,16 @@
         "verified_type": 3
       },
       {
-        "id": 3645266160,
-        "idstr": "3645266160",
-        "screen_name": "巴音郭楞融媒",
+        "id": 1043320390,
+        "idstr": "1043320390",
+        "screen_name": "半岛晨报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 2685336121,
-        "idstr": "2685336121",
-        "screen_name": "南宁晚报",
+        "id": 2535760180,
+        "idstr": "2535760180",
+        "screen_name": "安徽视讯",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2041117703,
-        "idstr": "2041117703",
-        "screen_name": "合肥日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1878335471,
-        "idstr": "1878335471",
-        "screen_name": "新浪综艺",
+        "id": 2115259662,
+        "idstr": "2115259662",
+        "screen_name": "洪观新闻",
         "verified": true,
         "verified_type": 3
       }

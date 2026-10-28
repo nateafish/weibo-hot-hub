@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1656737654
   },
-  "last_seen_at": "2026-10-28T18:00:00+08:00",
+  "last_seen_at": "2026-10-28T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%B3%95%E5%9B%BD%E8%B6%B3%E5%8D%8F%E5%9B%9E%E5%BA%94%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%BA%8B%E4%BB%B6%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "17家媒体",
     "users": [
       {
         "id": 1656737654,
         "idstr": "1656737654",
         "screen_name": "现代快报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1644855075,
+        "idstr": "1644855075",
+        "screen_name": "华商网",
         "verified": true,
         "verified_type": 3
       },
@@ -37,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 2647971081,
+        "idstr": "2647971081",
+        "screen_name": "时速新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2630281751,
         "idstr": "2630281751",
         "screen_name": "快报泰州",
@@ -44,9 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1749990115,
-        "idstr": "1749990115",
-        "screen_name": "北京青年报",
+        "id": 2535760180,
+        "idstr": "2535760180",
+        "screen_name": "安徽视讯",
         "verified": true,
         "verified_type": 3
       }

@@ -3,15 +3,43 @@
   "created_at": 1793179455,
   "first_seen_at": "2026-10-28T18:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-28T18:00:00+08:00",
+  "last_seen_at": "2026-10-28T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%B0%9A%E5%85%AC%E4%B8%BB%E6%B2%A1%E6%90%9E%E6%87%82%E4%B9%9D%E9%87%8D%E7%B4%AB%E4%B8%BA%E5%95%A5%E7%81%AB%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "5家媒体",
     "users": [
+      {
+        "id": 7474259554,
+        "idstr": "7474259554",
+        "screen_name": "快报帮",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5396094153,
+        "idstr": "5396094153",
+        "screen_name": "大众新闻-大众日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2535760180,
+        "idstr": "2535760180",
+        "screen_name": "安徽视讯",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1915671961,
         "idstr": "1915671961",
         "screen_name": "陕西都市快报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497087080,
+        "idstr": "1497087080",
+        "screen_name": "羊城晚报",
         "verified": true,
         "verified_type": 3
       }
