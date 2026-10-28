@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 3266943013
   },
-  "last_seen_at": "2026-10-28T06:00:00+08:00",
+  "last_seen_at": "2026-10-28T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%88%91%E5%9B%BD%E4%BA%A7%E4%B8%9A%E7%BB%93%E6%9E%84%E5%90%91%E6%96%B0%E5%90%91%E4%BC%98%E5%90%91%E5%A5%BD%E5%8D%87%E7%BA%A7%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "9家媒体",
     "users": [
       {
         "id": 3266943013,
@@ -30,6 +30,20 @@
         "verified_type": 3
       },
       {
+        "id": 3037284894,
+        "idstr": "3037284894",
+        "screen_name": "经济日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3624248184,
+        "idstr": "3624248184",
+        "screen_name": "陕西网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 3229916011,
         "idstr": "3229916011",
         "screen_name": "冀时新闻",
@@ -37,9 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 2208160981,
-        "idstr": "2208160981",
-        "screen_name": "西安新闻网",
+        "id": 2813313591,
+        "idstr": "2813313591",
+        "screen_name": "中新网海南",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
         "verified": true,
         "verified_type": 3
       }

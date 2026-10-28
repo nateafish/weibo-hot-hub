@@ -3,11 +3,61 @@
   "created_at": 1793102014,
   "first_seen_at": "2026-10-28T02:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-28T06:00:00+08:00",
+  "last_seen_at": "2026-10-28T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E9%AB%98%E5%BC%80%E9%A2%A0%E8%B5%B0%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "9家媒体",
+    "users": [
+      {
+        "id": 2356298087,
+        "idstr": "2356298087",
+        "screen_name": "河北经视",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1867427515,
+        "idstr": "1867427515",
+        "screen_name": "新派新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3251720635,
+        "idstr": "3251720635",
+        "screen_name": "邯郸网络广播电视台",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2217754287,
+        "idstr": "2217754287",
+        "screen_name": "桂林晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2115259662,
+        "idstr": "2115259662",
+        "screen_name": "洪观新闻",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "小城良方高开颠走",
   "search_url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E9%AB%98%E5%BC%80%E9%A2%A0%E8%B5%B0%23",
