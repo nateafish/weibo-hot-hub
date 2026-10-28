@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1642088277
   },
-  "last_seen_at": "2026-10-28T11:00:00+08:00",
+  "last_seen_at": "2026-10-28T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A8%80%E6%94%B6%E5%85%A5%E5%8D%A0%E5%95%86%E4%B8%9A%E6%80%BB%E6%94%B6%E5%85%A538%25%23%26t%3D3&title=发布媒体",
-    "show_str": "13家媒体",
+    "show_str": "51家媒体",
     "users": [
       {
         "id": 1642088277,
         "idstr": "1642088277",
         "screen_name": "财经网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,20 +37,6 @@
         "verified_type": 3
       },
       {
-        "id": 2252846093,
-        "idstr": "2252846093",
-        "screen_name": "长春新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6372873842,
-        "idstr": "6372873842",
-        "screen_name": "时代财经",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 5061229888,
         "idstr": "5061229888",
         "screen_name": "财经网科技",
@@ -51,16 +44,23 @@
         "verified_type": 3
       },
       {
-        "id": 2647971081,
-        "idstr": "2647971081",
-        "screen_name": "时速新闻",
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2622056220,
-        "idstr": "2622056220",
-        "screen_name": "新闻大连",
+        "id": 2118120483,
+        "idstr": "2118120483",
+        "screen_name": "青岛日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1938523582,
+        "idstr": "1938523582",
+        "screen_name": "宁波晚报",
         "verified": true,
         "verified_type": 3
       }
