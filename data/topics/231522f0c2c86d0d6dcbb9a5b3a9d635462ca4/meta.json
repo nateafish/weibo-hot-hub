@@ -10,11 +10,25 @@
     "status": 2,
     "uid": 2572247607
   },
-  "last_seen_at": "2026-10-28T13:00:00+08:00",
+  "last_seen_at": "2026-10-28T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%8E%8B%E5%A4%A9%E8%BE%B0%E9%83%AD%E6%99%93%E5%A9%B7%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AB%E5%B9%B4%E6%98%A5%E5%AE%98%E5%AE%A3%23%26t%3D3&title=发布媒体",
-    "show_str": "15家媒体",
+    "show_str": "16家媒体",
     "users": [
+      {
+        "id": 1642591402,
+        "idstr": "1642591402",
+        "screen_name": "新浪娱乐",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1280846847,
+        "idstr": "1280846847",
+        "screen_name": "指尖新闻-沈阳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 7741144531,
         "idstr": "7741144531",
@@ -47,20 +61,6 @@
         "id": 6344061797,
         "idstr": "6344061797",
         "screen_name": "JSTV荔枝视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3562298415,
-        "idstr": "3562298415",
-        "screen_name": "荔枝网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2027480085,
-        "idstr": "2027480085",
-        "screen_name": "水母网",
         "verified": true,
         "verified_type": 3
       }
