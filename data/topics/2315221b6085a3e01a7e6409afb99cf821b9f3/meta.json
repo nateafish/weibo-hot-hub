@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2286092114
   },
-  "last_seen_at": "2026-10-29T12:00:00+08:00",
+  "last_seen_at": "2026-10-29T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9B%9D%E6%9C%89%E7%9A%87%E9%A9%AC%E9%AB%98%E7%AE%A1%E7%94%9A%E8%87%B3%E5%9C%A8%E7%9C%8B%E7%AC%91%E8%AF%9D%23%26t%3D3&title=发布媒体",
-    "show_str": "31家媒体",
+    "show_str": "34家媒体",
     "users": [
       {
         "id": 2286092114,
         "idstr": "2286092114",
         "screen_name": "中国蓝新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -37,9 +44,9 @@
         "verified_type": 3
       },
       {
-        "id": 1288429914,
-        "idstr": "1288429914",
-        "screen_name": "今视频长天新闻",
+        "id": 6250824982,
+        "idstr": "6250824982",
+        "screen_name": "时间视频",
         "verified": true,
         "verified_type": 3
       },
@@ -54,13 +61,6 @@
         "id": 5539777260,
         "idstr": "5539777260",
         "screen_name": "菏泽日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3251720635,
-        "idstr": "3251720635",
-        "screen_name": "邯郸网络广播电视台",
         "verified": true,
         "verified_type": 3
       }

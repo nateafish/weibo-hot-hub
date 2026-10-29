@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 1784473157
   },
-  "last_seen_at": "2026-10-29T12:00:00+08:00",
+  "last_seen_at": "2026-10-29T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%9C%A8%E8%87%AA%E6%88%91%E9%9D%A9%E5%91%BD%E4%B8%AD%E4%B8%8D%E6%96%AD%E7%84%95%E5%8F%91%E8%93%AC%E5%8B%83%E7%94%9F%E6%9C%BA%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "10家媒体",
     "users": [
       {
         "id": 1784473157,
         "idstr": "1784473157",
         "screen_name": "中国新闻网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2638176611,
+        "idstr": "2638176611",
+        "screen_name": "兴化发布",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5608027665,
+        "idstr": "5608027665",
+        "screen_name": "中国环境",
         "verified": true,
         "verified_type": 3
       },
@@ -30,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 3901624042,
+        "idstr": "3901624042",
+        "screen_name": "山西日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2815224714,
         "idstr": "2815224714",
         "screen_name": "海博TV",
@@ -37,16 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2812209690,
-        "idstr": "2812209690",
-        "screen_name": "黄石日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1192119933,
-        "idstr": "1192119933",
-        "screen_name": "北疆新闻",
+        "id": 2813313591,
+        "idstr": "2813313591",
+        "screen_name": "中新网海南",
         "verified": true,
         "verified_type": 3
       }
