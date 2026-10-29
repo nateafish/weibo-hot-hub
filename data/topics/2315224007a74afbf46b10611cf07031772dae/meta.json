@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 1909377960
   },
-  "last_seen_at": "2026-10-29T13:00:00+08:00",
+  "last_seen_at": "2026-10-29T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E7%AD%89%E6%B8%B8%E6%88%8F%E4%B8%8E%E4%B8%89%E4%B8%BD%E9%B8%A5%E8%81%94%E5%90%8D%23%26t%3D3&title=发布媒体",
-    "show_str": "33家媒体",
+    "show_str": "37家媒体",
     "users": [
       {
         "id": 2699599752,
         "idstr": "2699599752",
         "screen_name": "牛视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6928905395,
+        "idstr": "6928905395",
+        "screen_name": "大风视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6068019631,
+        "idstr": "6068019631",
+        "screen_name": "逐光新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2292899701,
+        "idstr": "2292899701",
+        "screen_name": "浪涨新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -40,27 +61,6 @@
         "id": 1909377960,
         "idstr": "1909377960",
         "screen_name": "起点新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7639071132,
-        "idstr": "7639071132",
-        "screen_name": "篝火视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7299136456,
-        "idstr": "7299136456",
-        "screen_name": "冬呱看点",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7200280790,
-        "idstr": "7200280790",
-        "screen_name": "正观特稿",
         "verified": true,
         "verified_type": 3
       }

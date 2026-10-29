@@ -3,11 +3,54 @@
   "created_at": 1793248684,
   "first_seen_at": "2026-10-29T13:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-29T13:00:00+08:00",
+  "last_seen_at": "2026-10-29T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23TheShy%E8%87%AA%E8%AE%A4%E9%80%89%E4%BA%9A%E6%81%92%E5%82%B2%E6%85%A2%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "6家媒体",
+    "users": [
+      {
+        "id": 5762891674,
+        "idstr": "5762891674",
+        "screen_name": "密度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2921799343,
+        "idstr": "2921799343",
+        "screen_name": "天下泉城",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2647971081,
+        "idstr": "2647971081",
+        "screen_name": "时速新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2628314830,
+        "idstr": "2628314830",
+        "screen_name": "合肥晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1856446532,
+        "idstr": "1856446532",
+        "screen_name": "合新闻",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "TheShy自认选亚恒傲慢",
   "search_url": "https://s.weibo.com/weibo?q=%23theshy%E8%87%AA%E8%AE%A4%E9%80%89%E4%BA%9A%E6%81%92%E5%82%B2%E6%85%A2%23",
