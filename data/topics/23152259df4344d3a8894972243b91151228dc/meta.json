@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 1644088831
   },
-  "last_seen_at": "2026-10-29T20:00:00+08:00",
+  "last_seen_at": "2026-10-29T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23MONAL05%E8%BD%A6%E5%A4%A7%E5%A5%BD%E5%BC%80%E5%8F%88%E5%A5%BD%E7%8E%A9%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "8家媒体",
     "users": [
       {
         "id": 7548869008,
         "idstr": "7548869008",
         "screen_name": "Tech产经网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7467694254,
+        "idstr": "7467694254",
+        "screen_name": "太乙科技",
+        "verified": true,
+        "verified_type": 7
+      },
+      {
+        "id": 7467277921,
+        "idstr": "7467277921",
+        "screen_name": "万维视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5821587877,
+        "idstr": "5821587877",
+        "screen_name": "河畔视频",
         "verified": true,
         "verified_type": 3
       },
@@ -30,9 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 1804565432,
-        "idstr": "1804565432",
-        "screen_name": "梅卿快车道官方微博",
+        "id": 1975753537,
+        "idstr": "1975753537",
+        "screen_name": "座驾",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
         "verified": true,
         "verified_type": 3
       }

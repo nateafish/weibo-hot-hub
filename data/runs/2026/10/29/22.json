@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-10-29T22:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 2,
+    "ai_saved": 47,
+    "ai_unchanged": 2,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#党的二十届五中全会公报#",
+      "rank": 1,
+      "title": "党的二十届五中全会公报",
+      "topic_id": "23152268ef87275db731428dde050f173e4e1e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "王腾感谢小米和雷总",
+      "rank": 1,
+      "title": "王腾感谢小米和雷总",
+      "topic_id": "23152222065e26d88ed4ff765445fb89a338e6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#外交部回应三丽鸥取消Vivant联名#",
+      "rank": 2,
+      "title": "外交部回应三丽鸥取消Vivant联名",
+      "topic_id": "231522bb9e34c0bd0b4d5e828ed5919280a3e7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#百年大党何以永葆生机活力#",
+      "rank": 3,
+      "title": "百年大党何以永葆生机活力",
+      "topic_id": "231522944fcab29c54affc2e65e2e1730157c5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#ISHORing定价1799元#",
+      "rank": 4,
+      "title": "ISHORing定价1799元",
+      "topic_id": "2315227b729d082602498a735335558ecd555b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#母亲照顾截瘫儿子35年出奇迹#",
+      "rank": 5,
+      "title": "母亲照顾截瘫儿子35年出奇迹",
+      "topic_id": "23152207e7b88c4ded39f4706abf454fd04da2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#比亚迪三季度业绩#",
+      "rank": 6,
+      "title": "比亚迪三季度业绩",
+      "topic_id": "231522c9e397eb0ec297d109b1b391cfe20143"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#MONAL05车大好开又好玩#",
+      "rank": 7,
+      "title": "MONAL05车大好开又好玩",
+      "topic_id": "23152259df4344d3a8894972243b91151228dc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#小鹏MONAL05价格炸裂#",
+      "rank": 8,
+      "title": "小鹏MONAL05价格炸裂",
+      "topic_id": "23152214bf3f11267793ccb3528b4a4bf4b5c1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#数说中国海洋经济动力澎湃#",
+      "rank": 9,
+      "title": "数说中国海洋经济动力澎湃",
+      "topic_id": "23152246418a8b13c16fcedafbf8b6358b653e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "梁靖崑温瑞博从搭档到对手",
+      "rank": 10,
+      "title": "梁靖崑温瑞博从搭档到对手",
+      "topic_id": "23152273224f1a3e7536690315d5bc250c3218"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "给阿嬷的情书为何口碑反转",
+      "rank": 11,
+      "title": "给阿嬷的情书为何口碑反转",
+      "topic_id": "2315228b27888a8d67b01951e4bd90b3baa98b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女高管隆胸死亡前曾抱怨全是坑#",
+      "rank": 12,
+      "title": "女高管隆胸死亡前曾抱怨全是坑",
+      "topic_id": "2315226a8b9bcd99994e11a50b4125c80469d1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#文吉儿上证据后王子璇失忆表现#",
+      "rank": 13,
+      "title": "文吉儿上证据后王子璇失忆表现",
+      "topic_id": "23152264559f65d18bc25af9049316153c1283"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#长沙一新生摆拍大体老师最新进展#",
+      "rank": 14,
+      "title": "长沙一新生摆拍大体老师最新进展",
+      "topic_id": "231522923d5a875862d0c07932716723742146"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#张升民同志简历#",
+      "rank": 15,
+      "title": "张升民同志简历",
+      "topic_id": "231522ef1c79c8721187a8e7ab76e0a422b2b8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#1招帮你认清是否真正热爱#",
+      "rank": 16,
+      "title": "1招帮你认清是否真正热爱",
+      "topic_id": "231522793d46a1cf23b4fb961067cf141ba42a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#多地有暴雪#",
+      "rank": 17,
+      "title": "多地有暴雪",
+      "topic_id": "231522d805a491a2b9d5392156e84eadbbcdda"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#男子刚出门遭狗扑咬持棍将其打死#",
+      "rank": 18,
+      "title": "男子刚出门遭狗扑咬持棍将其打死",
+      "topic_id": "231522a00cbf06ea789d339a778336c6ceaa61"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#三丽鸥英文官网仍无致歉公告#",
+      "rank": 19,
+      "title": "三丽鸥英文官网仍无致歉公告",
+      "topic_id": "23152259e0dfecc524b3dbb4244ac59d3867dd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#39岁女高管隆胸因麻醉过敏死亡#",
+      "rank": 20,
+      "title": "39岁女高管隆胸因麻醉过敏死亡",
+      "topic_id": "2315228531b6535877d78afa5f71084718e626"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#李宇春翻查何洁婚礼短信到凌晨两点#",
+      "rank": 21,
+      "title": "李宇春翻查何洁婚礼短信到凌晨两点",
+      "topic_id": "231522b1c3706fcade32eca0deeb84982c4cd2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#疑似王子璇文吉儿知情人爆料#",
+      "rank": 22,
+      "title": "疑似王子璇文吉儿知情人爆料",
+      "topic_id": "231522e80eb4e854e5c94610f7b8392fa17880"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#A股后市稳步走强或是主旋律#",
+      "rank": 23,
+      "title": "A股后市稳步走强或是主旋律",
+      "topic_id": "23152278f58660d4b9a27a1c3b94ed56e53ed6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "难怪说钟楚曦两年能画出一套房",
+      "rank": 24,
+      "title": "难怪说钟楚曦两年能画出一套房",
+      "topic_id": "231522dab95592fb8274328be601878c0403c2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#孙颖莎等10人记大功#",
+      "rank": 25,
+      "title": "孙颖莎等10人记大功",
+      "topic_id": "231522b19dc235c25d7d22bc09daff19f4a788"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#何洁曾发和李宇春聊天记录截图#",
+      "rank": 26,
+      "title": "何洁曾发和李宇春聊天记录截图",
+      "topic_id": "2315227401d2a746a253ea14c56fb43a1b5765"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#陈哲远吃猪脚饭吃出男人的浪漫#",
+      "rank": 27,
+      "title": "陈哲远吃猪脚饭吃出男人的浪漫",
+      "topic_id": "231522e80e7a859f033e4c33985255f0d8d36d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#魏娆直接废了太子#",
+      "rank": 28,
+      "title": "魏娆直接废了太子",
+      "topic_id": "231522f3373793301caf01b7e47a0e074f15f9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#男子吃凉土豆蘸辣椒面2个月瘦22斤#",
+      "rank": 29,
+      "title": "男子吃凉土豆蘸辣椒面2个月瘦22斤",
+      "topic_id": "231522daf4f292eac74c0738cdc1ac23ffda25"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#感觉厉娜能活99岁#",
+      "rank": 30,
+      "title": "感觉厉娜能活99岁",
+      "topic_id": "2315226d95796a36d11a4e8d0d5d097ea8da76"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "KPL",
+      "rank": 31,
+      "title": "KPL",
+      "topic_id": "231522361877035a32f3073eb1259ee15286d8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#迪丽热巴好像罚站的小学鸡#",
+      "rank": 32,
+      "title": "迪丽热巴好像罚站的小学鸡",
+      "topic_id": "231522f39c6f7d69b4e41f053c842a78f777ed"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "KSG对战WB",
+      "rank": 33,
+      "title": "KSG对战WB",
+      "topic_id": "23152229c1fedd15bcac63282a9bf075568634"
+    },
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#二十届五中全会公报一图速览#",
+      "rank": 34,
+      "title": "二十届五中全会公报一图速览",
+      "topic_id": "231522494dedfdfcbfe0db640478acae8fe5f5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "星巴克遭不消费人群抵制",
+      "rank": 35,
+      "title": "星巴克遭不消费人群抵制",
+      "topic_id": "2315227f7f21b7cae76ae3cc4c8805849ab1ab"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#三阴性乳腺癌被称为乳腺癌之王#",
+      "rank": 36,
+      "title": "三阴性乳腺癌被称为乳腺癌之王",
+      "topic_id": "23152271bad331bcd36af691829394e9aa5bc7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "为什么得银屑病的年轻人越来越多",
+      "rank": 37,
+      "title": "为什么得银屑病的年轻人越来越多",
+      "topic_id": "231522db2dd07394c512520ff861b043f34587"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#Meiko打服LYON辅助#",
+      "rank": 38,
+      "title": "Meiko打服LYON辅助",
+      "topic_id": "23152271f7a75658d62241b9479f61d3552fc1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#田曦薇15年高中时期的视频#",
+      "rank": 39,
+      "title": "田曦薇15年高中时期的视频",
+      "topic_id": "2315220e988abf17824ac77a3c0c8f48a18188"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#谁来管管小城良方编剧#",
+      "rank": 40,
+      "title": "谁来管管小城良方编剧",
+      "topic_id": "23152287d7e82b8a9c9d06f6f91d5746dc0b38"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#等风热吻你剧超现状#",
+      "rank": 41,
+      "title": "等风热吻你剧超现状",
+      "topic_id": "23152244d96747e92ada89570a7eeed3ce1587"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#红果红了#",
+      "rank": 42,
+      "title": "红果红了",
+      "topic_id": "23152224d8817f7b80719538453fafff50a181"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#校方回应大体老师骨骼被写轻浮文字#",
+      "rank": 43,
+      "title": "校方回应大体老师骨骼被写轻浮文字",
+      "topic_id": "231522910c557612d80dfcaaadfe567621f0a8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#三甲医生回应医学博士不会打方结#",
+      "rank": 44,
+      "title": "三甲医生回应医学博士不会打方结",
+      "topic_id": "23152255283ab30df5a799dc6b9305f5fcdd62"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#曝某女艺人不敢与梅尼耶妻子合照#",
+      "rank": 45,
+      "title": "曝某女艺人不敢与梅尼耶妻子合照",
+      "topic_id": "231522dd273ab9b3735d4e795beace96440110"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "阿维塔",
+      "rank": 46,
+      "title": "阿维塔",
+      "topic_id": "2315227cde1b2c597a48164b9ea36729927dca"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#隆胸身亡女子生前聊天记录曝光#",
+      "rank": 47,
+      "title": "隆胸身亡女子生前聊天记录曝光",
+      "topic_id": "231522758c24e934c36539602d3950e3d2c165"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "神仙打架股民跟着买单",
+      "rank": 48,
+      "title": "神仙打架股民跟着买单",
+      "topic_id": "231522a6de7008ffdeff8d530f00bda7aaf3ff"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "苹果新电脑卖12万",
+      "rank": 49,
+      "title": "苹果新电脑卖12万",
+      "topic_id": "23152288576bf4cdbe063be2193c1f6e97037a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#Lisa说现在跳不了出道曲的舞蹈动作#",
+      "rank": 50,
+      "title": "Lisa说现在跳不了出道曲的舞蹈动作",
+      "topic_id": "2315223696d47138dbb908072979790057ecac"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
