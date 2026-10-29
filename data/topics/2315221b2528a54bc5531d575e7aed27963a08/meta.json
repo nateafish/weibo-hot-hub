@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1893892941
   },
-  "last_seen_at": "2026-10-29T15:00:00+08:00",
+  "last_seen_at": "2026-10-29T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%8E%8B%E5%AD%90%E9%93%AD%E5%85%B4%E5%A5%8B%E5%89%82%E6%A3%80%E6%B5%8B%E9%98%B3%E6%80%A7%23%26t%3D3&title=发布媒体",
-    "show_str": "13家媒体",
+    "show_str": "37家媒体",
     "users": [
       {
         "id": 1893892941,
         "idstr": "1893892941",
         "screen_name": "北京日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2087169013,
+        "idstr": "2087169013",
+        "screen_name": "法治日报",
         "verified": true,
         "verified_type": 3
       },
@@ -37,30 +44,23 @@
         "verified_type": 3
       },
       {
-        "id": 2145917613,
-        "idstr": "2145917613",
-        "screen_name": "北京日报都视频",
+        "id": 5822206027,
+        "idstr": "5822206027",
+        "screen_name": "北斗融媒",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2087169013,
-        "idstr": "2087169013",
-        "screen_name": "法治日报",
+        "id": 5539777260,
+        "idstr": "5539777260",
+        "screen_name": "菏泽日报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1959182407,
-        "idstr": "1959182407",
-        "screen_name": "龙头视野",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1943154142,
-        "idstr": "1943154142",
-        "screen_name": "中安在线",
+        "id": 5044281310,
+        "idstr": "5044281310",
+        "screen_name": "澎湃新闻",
         "verified": true,
         "verified_type": 3
       }

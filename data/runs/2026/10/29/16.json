@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-10-29T16:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 48,
+    "ai_unchanged": 2,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#总书记引领推进全面从严治党#",
+      "rank": 1,
+      "title": "总书记引领推进全面从严治党",
+      "topic_id": "231522f7499ee4681329312af8a1be7edd0745"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#外交部回应三丽鸥取消Vivant联名#",
+      "rank": 1,
+      "title": "外交部回应三丽鸥取消Vivant联名",
+      "topic_id": "231522bb9e34c0bd0b4d5e828ed5919280a3e7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#三丽鸥致歉#",
+      "rank": 2,
+      "title": "三丽鸥致歉",
+      "topic_id": "231522a3fade8cc5e5d2b52c2e38d44dc750b9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#我国农产品全面提质路线图来了#",
+      "rank": 3,
+      "title": "我国农产品全面提质路线图来了",
+      "topic_id": "2315225e62d617855b8dec17e022de7f497c01"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王子铭兴奋剂检测阳性#",
+      "rank": 4,
+      "title": "王子铭兴奋剂检测阳性",
+      "topic_id": "2315221b2528a54bc5531d575e7aed27963a08"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#iPhoneDuo国内首销销量曝光#",
+      "rank": 5,
+      "title": "iPhoneDuo国内首销销量曝光",
+      "topic_id": "2315224c7ceca47fe65e4d9999cb7b6d4919b3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "嫁金钗优酷断更3天",
+      "rank": 6,
+      "title": "嫁金钗优酷断更3天",
+      "topic_id": "2315222460c73f6c2df15291b642178fcf23a5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#机构称A股科技调整不改大势#",
+      "rank": 7,
+      "title": "机构称A股科技调整不改大势",
+      "topic_id": "2315220e9dfe68ef41bf085ca3d8137c13dea1"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#三丽鸥日本官网致歉#",
+      "rank": 8,
+      "title": "三丽鸥日本官网致歉",
+      "topic_id": "231522f240c9337e8a7581cf9f8aa08a23d44e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#郑钦文奥运夺金画面入镜洛奥宣传片#",
+      "rank": 9,
+      "title": "郑钦文奥运夺金画面入镜洛奥宣传片",
+      "topic_id": "231522986647294abb86c7943efb2b254ce8b6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王子铭兴奋剂违规禁赛2年#",
+      "rank": 10,
+      "title": "王子铭兴奋剂违规禁赛2年",
+      "topic_id": "231522e42cf0f8c0bcd4462f2e83c5e71a6082"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#医学生在大体老师骨骼上写轻浮文字#",
+      "rank": 11,
+      "title": "医学生在大体老师骨骼上写轻浮文字",
+      "topic_id": "2315222226212ca8f0cf35db91cc4772b306bb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#油价30日起上调#",
+      "rank": 12,
+      "title": "油价30日起上调",
+      "topic_id": "231522ba6dda9a912211dd0faa06de8935167b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#中学小卖部只卖牛奶和水家长发声#",
+      "rank": 13,
+      "title": "中学小卖部只卖牛奶和水家长发声",
+      "topic_id": "2315225ef83cb5ae84a2a5bc12bb5a9da8bb2d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#乌干达食人魔落网照片嘴上有血迹#",
+      "rank": 14,
+      "title": "乌干达食人魔落网照片嘴上有血迹",
+      "topic_id": "231522cf0c21132b19a17fbb233c081e71e88a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#27岁抗癌博主悦悦离世#",
+      "rank": 15,
+      "title": "27岁抗癌博主悦悦离世",
+      "topic_id": "231522e6822694115e11b26e42cee4fd9f856a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "A股",
+      "rank": 16,
+      "title": "A股",
+      "topic_id": "2315229ff55ef4a3e846e498a336fdeb06cbdb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#乌干达军方宣布食人魔落网#",
+      "rank": 17,
+      "title": "乌干达军方宣布食人魔落网",
+      "topic_id": "231522d6e0adc36bc1ff1b14101192fdcbebd7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#机构称A股科技正是布局期#",
+      "rank": 18,
+      "title": "机构称A股科技正是布局期",
+      "topic_id": "2315222db6d05ff888b03363b7cd03430402c0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#马天宇一吃瓜就摘麦#",
+      "rank": 19,
+      "title": "马天宇一吃瓜就摘麦",
+      "topic_id": "2315220f1dce4ed4d6bc946a576d9e44a8db4e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#钓友钓58斤青鱼被拖入3米水中#",
+      "rank": 20,
+      "title": "钓友钓58斤青鱼被拖入3米水中",
+      "topic_id": "231522e97951ff8e91bd22b78f081ae807b09f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "何洁 超女前三我都不爽",
+      "rank": 21,
+      "title": "何洁 超女前三我都不爽",
+      "topic_id": "231522a956ae57f46680f2c26dcfec0575caa5"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "文吉儿王子璇 窒息",
+      "rank": 22,
+      "title": "文吉儿王子璇 窒息",
+      "topic_id": "23152270acb9cee62723edce5ae2f0cc0d123a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "喜欢好几年了你们咋不买",
+      "rank": 23,
+      "title": "喜欢好几年了你们咋不买",
+      "topic_id": "23152260967a18837b8f0394e539a0cafcbb0b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张萌马天宇为了吃瓜一直不和好#",
+      "rank": 24,
+      "title": "张萌马天宇为了吃瓜一直不和好",
+      "topic_id": "2315229a18196d8cb42ff7af69ce66a2a14fdf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#陈哲远为吃播饿了小半个月#",
+      "rank": 25,
+      "title": "陈哲远为吃播饿了小半个月",
+      "topic_id": "231522a2eb31741125d5bf26cbed205db20345"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#科创50创去年9月以来新低#",
+      "rank": 26,
+      "title": "科创50创去年9月以来新低",
+      "topic_id": "23152295b7f194604c1c6bd09b2637fedc9eb7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "文吉儿删了王子璇介绍的朋友",
+      "rank": 27,
+      "title": "文吉儿删了王子璇介绍的朋友",
+      "topic_id": "231522c6d50431eb6f73bb15bc6bd9a5bad004"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "青你1选手现状",
+      "rank": 28,
+      "title": "青你1选手现状",
+      "topic_id": "231522131461b55d2cbe800a93df0f11d9b864"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "TheShy自认选亚恒傲慢",
+      "rank": 29,
+      "title": "TheShy自认选亚恒傲慢",
+      "topic_id": "2315225496ce92b9fabe30af9e5e4c1860efd9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#女儿减重82斤回家妈妈心疼哭了#",
+      "rank": 30,
+      "title": "女儿减重82斤回家妈妈心疼哭了",
+      "topic_id": "231522b3797cabeda0ea3214017a81d2786773"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "淘宝",
+      "rank": 31,
+      "title": "淘宝",
+      "topic_id": "23152212ad5c790444f88966c2faf90e73d8c9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#关晓彤重复重复真的是有意义的#",
+      "rank": 32,
+      "title": "关晓彤重复重复真的是有意义的",
+      "topic_id": "231522fa50bede298da81c6579d836e202f331"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#iG全员回应晋级S16八强#",
+      "rank": 33,
+      "title": "iG全员回应晋级S16八强",
+      "topic_id": "231522600bfd0db2b96d75ea61d0c7c8c89878"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#感觉好多明星都半退圈了#",
+      "rank": 34,
+      "title": "感觉好多明星都半退圈了",
+      "topic_id": "231522dbec3ba49214a82f65c0cb90ca5d77ef"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#迪丽热巴360度子弹时间#",
+      "rank": 35,
+      "title": "迪丽热巴360度子弹时间",
+      "topic_id": "2315227cb2bfbbc9e3bea7c693fb432e26c328"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "第五人格",
+      "rank": 36,
+      "title": "第五人格",
+      "topic_id": "2315228fef4f8eac269bed1cd09eb50312ce52"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "后会友期 嗑拉了",
+      "rank": 37,
+      "title": "后会友期 嗑拉了",
+      "topic_id": "23152263e9dbbc811a8131265e8ff440e64611"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#校方回应大体老师骨骼被写轻浮文字#",
+      "rank": 38,
+      "title": "校方回应大体老师骨骼被写轻浮文字",
+      "topic_id": "231522910c557612d80dfcaaadfe567621f0a8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#后会友期下期嘉宾是何洁#",
+      "rank": 39,
+      "title": "后会友期下期嘉宾是何洁",
+      "topic_id": "23152295e1dbd9ead2072f07be76733f810d77"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#复旦红房子妇产科医院解读小城良方#",
+      "rank": 40,
+      "title": "复旦红房子妇产科医院解读小城良方",
+      "topic_id": "23152240b6da3b39b5b312a8be9a8ae15f60ac"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#男子疑女友出轨制听话水被拘役4个月#",
+      "rank": 41,
+      "title": "男子疑女友出轨制听话水被拘役4个月",
+      "topic_id": "231522e49392048425ac8196b0e1acee6b8d13"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#成龙72岁身上全是肌肉#",
+      "rank": 42,
+      "title": "成龙72岁身上全是肌肉",
+      "topic_id": "231522697b3ca653e3ad96ae6f5a20e4aabc10"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#陈哲远回复于正wao可以#",
+      "rank": 43,
+      "title": "陈哲远回复于正wao可以",
+      "topic_id": "231522441a547f3d31094c013623a91574ecf1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "阴阳师",
+      "rank": 44,
+      "title": "阴阳师",
+      "topic_id": "2315221148f3a3f29155fc33647303f21d4e0b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#嫁金钗22集了还在反转#",
+      "rank": 45,
+      "title": "嫁金钗22集了还在反转",
+      "topic_id": "231522222ea86d2336edc95b0a9e42f4b0ddad"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#长期吃西地那非的人嘴太严了#",
+      "rank": 46,
+      "title": "长期吃西地那非的人嘴太严了",
+      "topic_id": "23152276b518bb23f9701750df21ed7bb8d84a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "现在的殡葬业都发展成这样了",
+      "rank": 47,
+      "title": "现在的殡葬业都发展成这样了",
+      "topic_id": "231522625759b48b3c108e4ede7649fa4fa35c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#中国雇主因发薪冲突被缅甸工人杀死#",
+      "rank": 48,
+      "title": "中国雇主因发薪冲突被缅甸工人杀死",
+      "topic_id": "2315223670f696b3e73efec492b33049d9bf95"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#买14套老破小收租的人转向收息了#",
+      "rank": 49,
+      "title": "买14套老破小收租的人转向收息了",
+      "topic_id": "231522322696a7629bb462a7085aa564fb1bb0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#乌干达吃38人连环杀手已被抓获#",
+      "rank": 50,
+      "title": "乌干达吃38人连环杀手已被抓获",
+      "topic_id": "23152286f818f10a3a022f0e259d501f0970e9"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

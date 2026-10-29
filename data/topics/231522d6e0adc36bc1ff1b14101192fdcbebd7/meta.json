@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1653603955
   },
-  "last_seen_at": "2026-10-29T15:00:00+08:00",
+  "last_seen_at": "2026-10-29T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B9%8C%E5%B9%B2%E8%BE%BE%E5%86%9B%E6%96%B9%E5%AE%A3%E5%B8%83%E9%A3%9F%E4%BA%BA%E9%AD%94%E8%90%BD%E7%BD%91%23%26t%3D3&title=发布媒体",
-    "show_str": "17家媒体",
+    "show_str": "46家媒体",
     "users": [
       {
         "id": 1653603955,
@@ -26,6 +26,13 @@
         "id": 1856446532,
         "idstr": "1856446532",
         "screen_name": "合新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1734530730,
+        "idstr": "1734530730",
+        "screen_name": "大河报",
         "verified": true,
         "verified_type": 3
       },
@@ -51,16 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 5444842501,
-        "idstr": "5444842501",
-        "screen_name": "七台河新闻官博",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5200047156,
-        "idstr": "5200047156",
-        "screen_name": "扬子晚报泰州频道",
+        "id": 1899950161,
+        "idstr": "1899950161",
+        "screen_name": "南国早报",
         "verified": true,
         "verified_type": 3
       }

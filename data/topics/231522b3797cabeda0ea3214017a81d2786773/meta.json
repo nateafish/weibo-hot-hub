@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2481441215
   },
-  "last_seen_at": "2026-10-29T15:00:00+08:00",
+  "last_seen_at": "2026-10-29T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A5%B3%E5%84%BF%E5%87%8F%E9%87%8D82%E6%96%A4%E5%9B%9E%E5%AE%B6%E5%A6%88%E5%A6%88%E5%BF%83%E7%96%BC%E5%93%AD%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "42家媒体",
+    "show_str": "49家媒体",
     "users": [
       {
         "id": 2481441215,
@@ -30,9 +30,23 @@
         "verified_type": 3
       },
       {
+        "id": 1043320390,
+        "idstr": "1043320390",
+        "screen_name": "半岛晨报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 5396094153,
         "idstr": "5396094153",
         "screen_name": "大众新闻-大众日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3901624042,
+        "idstr": "3901624042",
+        "screen_name": "山西日报",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 1708877153,
         "idstr": "1708877153",
         "screen_name": "都市报道",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1644855075,
-        "idstr": "1644855075",
-        "screen_name": "华商网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1644489953,
-        "idstr": "1644489953",
-        "screen_name": "南方都市报",
         "verified": true,
         "verified_type": 3
       }

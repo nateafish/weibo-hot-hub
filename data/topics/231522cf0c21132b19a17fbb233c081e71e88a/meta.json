@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1653603955
   },
-  "last_seen_at": "2026-10-29T15:00:00+08:00",
+  "last_seen_at": "2026-10-29T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B9%8C%E5%B9%B2%E8%BE%BE%E9%A3%9F%E4%BA%BA%E9%AD%94%E8%90%BD%E7%BD%91%E7%85%A7%E7%89%87%E5%98%B4%E4%B8%8A%E6%9C%89%E8%A1%80%E8%BF%B9%23%26t%3D3&title=发布媒体",
-    "show_str": "10家媒体",
+    "show_str": "32家媒体",
     "users": [
       {
         "id": 1653603955,
@@ -30,6 +30,20 @@
         "verified_type": 3
       },
       {
+        "id": 1899950161,
+        "idstr": "1899950161",
+        "screen_name": "南国早报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6590980486,
+        "idstr": "6590980486",
+        "screen_name": "捉谣记",
+        "verified": true,
+        "verified_type": 7
+      },
+      {
         "id": 6294758863,
         "idstr": "6294758863",
         "screen_name": "紫牛新闻",
@@ -37,30 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 5444842501,
-        "idstr": "5444842501",
-        "screen_name": "七台河新闻官博",
+        "id": 6092578444,
+        "idstr": "6092578444",
+        "screen_name": "新浪种草官",
         "verified": true,
-        "verified_type": 3
+        "verified_type": 7
       },
       {
-        "id": 5200047156,
-        "idstr": "5200047156",
-        "screen_name": "扬子晚报泰州频道",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2744190984,
-        "idstr": "2744190984",
-        "screen_name": "家长大学堂",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2576743032,
-        "idstr": "2576743032",
-        "screen_name": "扬子壹财经",
+        "id": 5822206027,
+        "idstr": "5822206027",
+        "screen_name": "北斗融媒",
         "verified": true,
         "verified_type": 3
       }
