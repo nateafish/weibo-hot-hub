@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1744332207
   },
-  "last_seen_at": "2026-10-29T18:00:00+08:00",
+  "last_seen_at": "2026-10-29T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%2327%E5%B2%81%E5%B7%B2%E5%A9%9A%E5%A5%B3%E5%AD%90%E5%A9%9A%E5%A4%96%E6%83%85%E7%94%9F%E5%AD%90%E5%90%8E%E7%94%B7%E6%96%B9%E5%A4%B1%E8%81%94%23%26t%3D3&title=发布媒体",
-    "show_str": "15家媒体",
+    "show_str": "24家媒体",
     "users": [
       {
         "id": 1744332207,
         "idstr": "1744332207",
         "screen_name": "钱江视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1618051664,
+        "idstr": "1618051664",
+        "screen_name": "头条新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -44,25 +51,18 @@
         "verified_type": 3
       },
       {
-        "id": 5325240805,
-        "idstr": "5325240805",
-        "screen_name": "铁骥视频海外频道",
+        "id": 6590980486,
+        "idstr": "6590980486",
+        "screen_name": "捉谣记",
         "verified": true,
-        "verified_type": 3
+        "verified_type": 7
       },
       {
-        "id": 3275115274,
-        "idstr": "3275115274",
-        "screen_name": "中国吉林网",
+        "id": 6092578444,
+        "idstr": "6092578444",
+        "screen_name": "新浪种草官",
         "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3048800300,
-        "idstr": "3048800300",
-        "screen_name": "新浪圈子",
-        "verified": true,
-        "verified_type": 3
+        "verified_type": 7
       }
     ]
   },
