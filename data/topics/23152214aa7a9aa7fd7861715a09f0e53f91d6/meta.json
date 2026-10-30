@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1720962692
   },
-  "last_seen_at": "2026-10-30T12:00:00+08:00",
+  "last_seen_at": "2026-10-30T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%8A%8A%E5%A4%A7%E4%BD%93%E8%80%81%E5%B8%88%E9%81%97%E9%AA%A8%E5%BD%93%E7%8E%A9%E7%89%A9%E9%85%8D%E5%BD%93%E5%8C%BB%E7%94%9F%E5%90%97%23%26t%3D3&title=发布媒体",
-    "show_str": "98家媒体",
+    "show_str": "130家媒体",
     "users": [
       {
         "id": 1720962692,
@@ -26,6 +26,13 @@
         "id": 1744332207,
         "idstr": "1744332207",
         "screen_name": "钱江视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 5118600252,
-        "idstr": "5118600252",
-        "screen_name": "锡盟融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2011075080,
-        "idstr": "2011075080",
-        "screen_name": "齐鲁晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 1960601312,
         "idstr": "1960601312",
         "screen_name": "多彩贵州网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5118600252,
+        "idstr": "5118600252",
+        "screen_name": "锡盟融媒",
         "verified": true,
         "verified_type": 3
       }
