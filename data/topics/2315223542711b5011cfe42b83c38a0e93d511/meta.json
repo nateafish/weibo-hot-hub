@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 1642634100
   },
-  "last_seen_at": "2026-10-30T15:00:00+08:00",
+  "last_seen_at": "2026-10-30T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%AC%A3%E6%97%BA%E8%BE%BE%E5%9B%9E%E5%BA%94%E7%90%86%E6%83%B3%E5%B0%8F%E7%B1%B3%E8%87%AA%E7%A0%94%E7%94%B5%E6%B1%A0%23%26t%3D3&title=发布媒体",
-    "show_str": "9家媒体",
+    "show_str": "19家媒体",
     "users": [
+      {
+        "id": 2318910945,
+        "idstr": "2318910945",
+        "screen_name": "新浪热点",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1642634100,
         "idstr": "1642634100",
         "screen_name": "新浪科技",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1885454921,
+        "idstr": "1885454921",
+        "screen_name": "蓝鲸新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 6013508393,
-        "idstr": "6013508393",
-        "screen_name": "环球总财",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5994003317,
-        "idstr": "5994003317",
-        "screen_name": "老板联播",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5821241824,
-        "idstr": "5821241824",
-        "screen_name": "奇点财经",
+        "id": 6254784663,
+        "idstr": "6254784663",
+        "screen_name": "朝九晚五Video",
         "verified": true,
         "verified_type": 3
       }

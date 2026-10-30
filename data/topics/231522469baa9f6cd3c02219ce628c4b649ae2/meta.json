@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 7105384993
   },
-  "last_seen_at": "2026-10-30T15:00:00+08:00",
+  "last_seen_at": "2026-10-30T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%8A%80%E5%B8%88%E7%A7%B0%E8%AF%A5%E6%9C%8D%E5%8A%A1%E5%8C%85%E5%90%AB%E5%9C%A8%E4%BA%94%E7%99%BE%E5%85%83%E5%A5%97%E9%A4%90%E5%86%85%23%26t%3D3&title=发布媒体",
-    "show_str": "9家媒体",
+    "show_str": "23家媒体",
     "users": [
       {
         "id": 7105384993,
         "idstr": "7105384993",
         "screen_name": "南华视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2337985010,
+        "idstr": "2337985010",
+        "screen_name": "瑞安融媒",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +37,30 @@
         "verified_type": 3
       },
       {
-        "id": 6910453729,
-        "idstr": "6910453729",
-        "screen_name": "绍虞城事通网",
+        "id": 1398613133,
+        "idstr": "1398613133",
+        "screen_name": "马上资讯",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 6207911580,
-        "idstr": "6207911580",
-        "screen_name": "大河报豫视频",
+        "id": 1267454277,
+        "idstr": "1267454277",
+        "screen_name": "凤凰周刊",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 3169721372,
-        "idstr": "3169721372",
-        "screen_name": "巨流视频",
+        "id": 7613700701,
+        "idstr": "7613700701",
+        "screen_name": "共富财经",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2649732781,
-        "idstr": "2649732781",
-        "screen_name": "阳信融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2291471981,
-        "idstr": "2291471981",
-        "screen_name": "济宁新闻网",
+        "id": 7020664161,
+        "idstr": "7020664161",
+        "screen_name": "福建经济生活频道",
         "verified": true,
         "verified_type": 3
       }
