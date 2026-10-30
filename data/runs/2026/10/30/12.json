@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-10-30T12:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#党的二十届五中全会公报#",
+      "rank": 1,
+      "title": "党的二十届五中全会公报",
+      "topic_id": "23152268ef87275db731428dde050f173e4e1e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#中共中央举行发布会#",
+      "rank": 1,
+      "title": "中共中央举行发布会",
+      "topic_id": "231522586b612ca486b5466a409d881f1d7ee2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#冰柜被仅退款买家称将起诉卖家#",
+      "rank": 2,
+      "title": "冰柜被仅退款买家称将起诉卖家",
+      "topic_id": "2315227750357836cd9a1a098003ca16a435cf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#绿色转型擦亮中国经济底色#",
+      "rank": 3,
+      "title": "绿色转型擦亮中国经济底色",
+      "topic_id": "231522a19c6e9a99e0490c3acbcc97e8c23bc7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#摆拍大体老师头骨学生被处分#",
+      "rank": 4,
+      "title": "摆拍大体老师头骨学生被处分",
+      "topic_id": "23152212b2ff419cc0b3c94a128bf5800a672e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#张雪机车终于归张雪了#",
+      "rank": 5,
+      "title": "张雪机车终于归张雪了",
+      "topic_id": "2315229f2467dd61fbcacfe6ffe132c8a5f654"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王楚钦说勒布伦得让孙颖莎3到4分#",
+      "rank": 6,
+      "title": "王楚钦说勒布伦得让孙颖莎3到4分",
+      "topic_id": "231522d2718c0031dc0cfb2eba0a345eb7d105"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张雪90后专科生员工年薪五六十万#",
+      "rank": 7,
+      "title": "张雪90后专科生员工年薪五六十万",
+      "topic_id": "231522f062f469330fed5ca8e4e830adeaa207"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#BLG瑞士轮生死战现状#",
+      "rank": 8,
+      "title": "BLG瑞士轮生死战现状",
+      "topic_id": "231522a3ada372147779f2b4e57b7d2654cfb7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#JackeyLove想再拿一次S冠#",
+      "rank": 9,
+      "title": "JackeyLove想再拿一次S冠",
+      "topic_id": "2315221b6198b66b30f5da619d8c9a8a98a83d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#A股羊字辈多股涨停#",
+      "rank": 10,
+      "title": "A股羊字辈多股涨停",
+      "topic_id": "23152286315fe4a308f33c3af88dfca1d9ddc2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#厉娜吃5个菜许飞吃1个菜#",
+      "rank": 11,
+      "title": "厉娜吃5个菜许飞吃1个菜",
+      "topic_id": "231522d9acda457405e7e177be091feb080c88"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#把大体老师遗骨当玩物配当医生吗#",
+      "rank": 12,
+      "title": "把大体老师遗骨当玩物配当医生吗",
+      "topic_id": "23152214aa7a9aa7fd7861715a09f0e53f91d6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#人民日报锐评年轻人养不起老人了#",
+      "rank": 13,
+      "title": "人民日报锐评年轻人养不起老人了",
+      "topic_id": "231522b1554ac50b3fb2e3d97794ee972d660b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "王楚钦推动勒布伦挑战孙颖莎",
+      "rank": 14,
+      "title": "王楚钦推动勒布伦挑战孙颖莎",
+      "topic_id": "23152207280f544b1c811dfd28ee876fba8ac3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "金价",
+      "rank": 15,
+      "title": "金价",
+      "topic_id": "2315220939143c10eef68103b7bae2fe235d9e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#管泽元说JackeyLove太顶了#",
+      "rank": 16,
+      "title": "管泽元说JackeyLove太顶了",
+      "topic_id": "2315223aa13b29fccd67af270d329fdc4aaa61"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "博主建议中国高铁学习德国设计",
+      "rank": 17,
+      "title": "博主建议中国高铁学习德国设计",
+      "topic_id": "23152275fb30b0b2c439b1ba1af248f1a62286"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "马天宇许飞上树喊话厉娜",
+      "rank": 18,
+      "title": "马天宇许飞上树喊话厉娜",
+      "topic_id": "23152213b12932ca8b9d4a8446a652a04c9397"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#C罗15分钟3球#",
+      "rank": 19,
+      "title": "C罗15分钟3球",
+      "topic_id": "231522d846a5695d957c364cf453dcbcb43f70"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#降温倒计时天猫增发服饰券#",
+      "rank": 20,
+      "title": "降温倒计时天猫增发服饰券",
+      "topic_id": "2315221ab87c24e1fd6b033fef798e70795bcf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张雪称已将母亲拉黑#",
+      "rank": 21,
+      "title": "张雪称已将母亲拉黑",
+      "topic_id": "2315223ef7746424131016e6fa7a703641c861"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#红果红了#",
+      "rank": 22,
+      "title": "红果红了",
+      "topic_id": "23152224d8817f7b80719538453fafff50a181"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "孩子不吃饭医生点肯德基找原因",
+      "rank": 23,
+      "title": "孩子不吃饭医生点肯德基找原因",
+      "topic_id": "231522071775dd258a35d1ae2d8c93fe8b840a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#Viper说BLG不如不沟通#",
+      "rank": 24,
+      "title": "Viper说BLG不如不沟通",
+      "topic_id": "231522bc4b60dfc02b9f23c6c142fb80ffba61"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#肖战小城良方路人盘#",
+      "rank": 25,
+      "title": "肖战小城良方路人盘",
+      "topic_id": "23152231778a31f0bda17b796634027f1d1523"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#78名学生共用针头三个疑问需解答#",
+      "rank": 26,
+      "title": "78名学生共用针头三个疑问需解答",
+      "topic_id": "231522f2cb6f8481ffc7259df501e135f836ff"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#京东百吋电视1元#",
+      "rank": 27,
+      "title": "京东百吋电视1元",
+      "topic_id": "23152271bda6cc37fd14aa282cd16b8e203db9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "369 想赢就会兴奋怕输才会紧张",
+      "rank": 28,
+      "title": "369 想赢就会兴奋怕输才会紧张",
+      "topic_id": "231522a3c6c4410162e668b236d7525ab33761"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#李宇春得知后先自责道歉#",
+      "rank": 29,
+      "title": "李宇春得知后先自责道歉",
+      "topic_id": "231522a350663ad12a9ce1df38c2b3845c6956"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "孟子义回应尚公主播出压力",
+      "rank": 30,
+      "title": "孟子义回应尚公主播出压力",
+      "topic_id": "231522793a9393b611d3452e4960c4916e72a9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#Knight赛后回复369#",
+      "rank": 31,
+      "title": "Knight赛后回复369",
+      "topic_id": "231522006b111d8f81834b884bb7297f178fea"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#发现淘宝还能这么用的是天才#",
+      "rank": 32,
+      "title": "发现淘宝还能这么用的是天才",
+      "topic_id": "231522d23f3c990520dab92fb8d53b48d20695"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#对衣服贵在质感有了直观的感受#",
+      "rank": 33,
+      "title": "对衣服贵在质感有了直观的感受",
+      "topic_id": "2315220e0aadc14cdd7be2ef03b68acc1b3ad1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "辛芷蕾胡先煦逛到裸体浴场了",
+      "rank": 34,
+      "title": "辛芷蕾胡先煦逛到裸体浴场了",
+      "topic_id": "231522470fe61cccd6cf492cbc68000d7fada6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#李宇春翻查何洁婚礼短信到凌晨两点#",
+      "rank": 35,
+      "title": "李宇春翻查何洁婚礼短信到凌晨两点",
+      "topic_id": "231522b1c3706fcade32eca0deeb84982c4cd2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#马天宇回复孙怡是实力派根本用不到麦#",
+      "rank": 36,
+      "title": "马天宇回复孙怡是实力派根本用不到麦",
+      "topic_id": "2315226ff100b0b9dc0913ecab1edd488cea71"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#杨瀚森新秀合同总价值2139万美元#",
+      "rank": 37,
+      "title": "杨瀚森新秀合同总价值2139万美元",
+      "topic_id": "2315220780966cd5371dfff51a2c9c2ab1d60b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#披荆斩棘今晚总决赛#",
+      "rank": 38,
+      "title": "披荆斩棘今晚总决赛",
+      "topic_id": "231522f47b8cd5da877a8be08777e26eada15e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#肖战姜妍生活化演技#",
+      "rank": 39,
+      "title": "肖战姜妍生活化演技",
+      "topic_id": "2315227400d8588e4cbaca7d6979c95c39bcb6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "TES主力缺席仍晋级八强",
+      "rank": 40,
+      "title": "TES主力缺席仍晋级八强",
+      "topic_id": "23152256dc839e7c99f8ca52f131ceae778845"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#369和Bin赛前互动#",
+      "rank": 41,
+      "title": "369和Bin赛前互动",
+      "topic_id": "231522e90ee882aaeacf02859853f4a1130f5e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#10元快剪正在暴打全国的设计总监#",
+      "rank": 42,
+      "title": "10元快剪正在暴打全国的设计总监",
+      "topic_id": "2315227e24dcbd5b41249323c5a0c867cd6509"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "TES战胜BLG",
+      "rank": 43,
+      "title": "TES战胜BLG",
+      "topic_id": "231522ec3fb3fbcbd8e60387bd9c1a42fd98d0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#杨洋被男粉拉手的反应#",
+      "rank": 44,
+      "title": "杨洋被男粉拉手的反应",
+      "topic_id": "231522d52575c79a6f59c5dbc91588bf2759cd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#黄婉均为了和热巴同框砸了13万置办首饰#",
+      "rank": 45,
+      "title": "黄婉均为了和热巴同框砸了13万置办首饰",
+      "topic_id": "2315221a33b8a54f15024a40cbef873f840cb4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "三丽鸥",
+      "rank": 46,
+      "title": "三丽鸥",
+      "topic_id": "231522791313ac568b502dec3637c711bc8497"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "八尾",
+      "rank": 47,
+      "title": "八尾",
+      "topic_id": "231522038e8ab55085f26fca3efec62545c0c9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#女子喉咙剧痛竟是因误吞豆浆机刀片#",
+      "rank": 48,
+      "title": "女子喉咙剧痛竟是因误吞豆浆机刀片",
+      "topic_id": "231522d5ccfcb4ec8957390e7bdd988c2733bc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "X教授演员去世",
+      "rank": 49,
+      "title": "X教授演员去世",
+      "topic_id": "231522bd7311c7f8012aeae53e4a5dfc909a8d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#田曦薇出道前在校园演出现场跳爱你#",
+      "rank": 50,
+      "title": "田曦薇出道前在校园演出现场跳爱你",
+      "topic_id": "2315226c98f1092fdfcca5f5670cec08867d32"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
