@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 1720962692
   },
-  "last_seen_at": "2026-10-30T08:00:00+08:00",
+  "last_seen_at": "2026-10-30T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%8A%8A%E5%A4%A7%E4%BD%93%E8%80%81%E5%B8%88%E9%81%97%E9%AA%A8%E5%BD%93%E7%8E%A9%E7%89%A9%E9%85%8D%E5%BD%93%E5%8C%BB%E7%94%9F%E5%90%97%23%26t%3D3&title=发布媒体",
-    "show_str": "13家媒体",
+    "show_str": "44家媒体",
     "users": [
       {
         "id": 1720962692,
         "idstr": "1720962692",
         "screen_name": "极目新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1744332207,
+        "idstr": "1744332207",
+        "screen_name": "钱江视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6715513747,
+        "idstr": "6715513747",
+        "screen_name": "宁县融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2011075080,
+        "idstr": "2011075080",
+        "screen_name": "齐鲁晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 7030322196,
-        "idstr": "7030322196",
-        "screen_name": "天眼新闻",
+        "id": 7694378984,
+        "idstr": "7694378984",
+        "screen_name": "大象综艺",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 6417271136,
-        "idstr": "6417271136",
-        "screen_name": "极目文娱",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6351317189,
-        "idstr": "6351317189",
-        "screen_name": "鞍山广播电视台",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6141086679,
-        "idstr": "6141086679",
-        "screen_name": "极目视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2622056220,
-        "idstr": "2622056220",
-        "screen_name": "新闻大连",
+        "id": 7571346388,
+        "idstr": "7571346388",
+        "screen_name": "云上河南",
         "verified": true,
         "verified_type": 3
       }
