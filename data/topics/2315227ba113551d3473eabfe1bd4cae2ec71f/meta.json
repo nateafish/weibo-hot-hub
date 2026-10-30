@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 1921551257
   },
-  "last_seen_at": "2026-10-30T14:00:00+08:00",
+  "last_seen_at": "2026-10-30T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%94%B0%E6%9B%A6%E8%96%87%E6%98%AF%E4%B8%AD%E5%9F%BA%E5%9B%A0%E5%BD%A9%E7%A5%A8%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "3家媒体",
     "users": [
       {
         "id": 1043320390,
         "idstr": "1043320390",
         "screen_name": "半岛晨报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1406911561,
+        "idstr": "1406911561",
+        "screen_name": "云南广播电视台",
         "verified": true,
         "verified_type": 3
       }

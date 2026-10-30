@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1647210043
   },
-  "last_seen_at": "2026-10-30T14:00:00+08:00",
+  "last_seen_at": "2026-10-30T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%88%B8%E7%88%B8%E5%90%83%E6%8E%89%E5%A5%B3%E5%84%BF%E6%A3%92%E6%A3%92%E7%B3%96%E6%99%9A%E4%B8%8A%E6%8C%A8%E4%BA%86%E4%B8%80%E5%B7%B4%E6%8E%8C%23%26t%3D3&title=发布媒体",
-    "show_str": "15家媒体",
+    "show_str": "29家媒体",
     "users": [
       {
         "id": 1647210043,
         "idstr": "1647210043",
         "screen_name": "百姓关注",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 7746378521,
-        "idstr": "7746378521",
-        "screen_name": "百姓健康",
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 6023976411,
-        "idstr": "6023976411",
-        "screen_name": "蓝睛",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5822206027,
-        "idstr": "5822206027",
-        "screen_name": "北斗融媒",
+        "id": 2337985010,
+        "idstr": "2337985010",
+        "screen_name": "瑞安融媒",
         "verified": true,
         "verified_type": 3
       }
