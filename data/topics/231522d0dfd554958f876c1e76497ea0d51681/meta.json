@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 1655444627
   },
-  "last_seen_at": "2026-11-03T19:00:00+08:00",
+  "last_seen_at": "2026-11-03T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%B8%85%E5%8D%8E%E7%A0%94%E7%A9%B6%E7%94%9F%E6%80%80%E5%AD%95%E6%80%95%E8%A2%AB%E9%80%80%E5%AD%A6%E8%8E%B7%E5%AF%BC%E5%B8%88%E6%94%AF%E6%8C%81%23%26t%3D3&title=发布媒体",
-    "show_str": "20家媒体",
+    "show_str": "36家媒体",
     "users": [
+      {
+        "id": 2286092114,
+        "idstr": "2286092114",
+        "screen_name": "中国蓝新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1655444627,
         "idstr": "1655444627",
@@ -30,37 +37,30 @@
         "verified_type": 3
       },
       {
+        "id": 1280846847,
+        "idstr": "1280846847",
+        "screen_name": "指尖新闻-沈阳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6294758863,
+        "idstr": "6294758863",
+        "screen_name": "紫牛新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6217683074,
+        "idstr": "6217683074",
+        "screen_name": "N视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6207911580,
         "idstr": "6207911580",
         "screen_name": "大河报豫视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5396094153,
-        "idstr": "5396094153",
-        "screen_name": "大众新闻-大众日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2663751563,
-        "idstr": "2663751563",
-        "screen_name": "南京广播电视台",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2647971081,
-        "idstr": "2647971081",
-        "screen_name": "时速新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2535760180,
-        "idstr": "2535760180",
-        "screen_name": "安徽视讯",
         "verified": true,
         "verified_type": 3
       }
