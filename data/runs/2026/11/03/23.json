@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-03T23:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#习近平总书记的黄河牵挂#",
+      "rank": 1,
+      "title": "习近平总书记的黄河牵挂",
+      "topic_id": "23152289b60f2ed347753d1e6926b9668a07f7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女子每天玩手机10小时患手机痴呆症#",
+      "rank": 1,
+      "title": "女子每天玩手机10小时患手机痴呆症",
+      "topic_id": "2315223310a1daed17857c0cdfe18073d4c91a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "华为星芒价格",
+      "rank": 2,
+      "title": "华为星芒价格",
+      "topic_id": "231522758f6f7d3827bed759c18b5be0661e25"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#开源开放共建共享#",
+      "rank": 3,
+      "title": "开源开放共建共享",
+      "topic_id": "231522ec064ddb7a69838e8861ee51a064bd29"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "嫁金钗烂尾了吗",
+      "rank": 4,
+      "title": "嫁金钗烂尾了吗",
+      "topic_id": "2315223c4f2aafc2145e0f0798e96b23814a00"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#九寨沟冲突全员失态#",
+      "rank": 5,
+      "title": "九寨沟冲突全员失态",
+      "topic_id": "231522a7bfcfdc84baf9b9f7b88ccb0827fabf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王楚钦赛后关心林德状况#",
+      "rank": 6,
+      "title": "王楚钦赛后关心林德状况",
+      "topic_id": "23152206629c6a5373f44445b44bc1d46fc75c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王楚钦回应3比0林德#",
+      "rank": 7,
+      "title": "王楚钦回应3比0林德",
+      "topic_id": "2315225b5cf415968e26b4abb1c301c15a4e68"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "CBA",
+      "rank": 8,
+      "title": "CBA",
+      "topic_id": "2315223944b025c9ca7eec3154b44666ae04a0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "盛李豪 洛杉矶奥运会",
+      "rank": 9,
+      "title": "盛李豪 洛杉矶奥运会",
+      "topic_id": "23152237c5062c261995aaec6efe54f91292e7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#TES对战iG首发名单#",
+      "rank": 10,
+      "title": "TES对战iG首发名单",
+      "topic_id": "2315220c4476a0b9a75bc67ecc83c036555ca1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "许飞经纪人 去找厉娜",
+      "rank": 11,
+      "title": "许飞经纪人 去找厉娜",
+      "topic_id": "231522eda69c905b1838aadfd18610d3082864"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "倪萍 医美",
+      "rank": 12,
+      "title": "倪萍 医美",
+      "topic_id": "231522e0b40af05613ea24acad3546ee8b84c5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王玉雯工作室被气成啥样了#",
+      "rank": 13,
+      "title": "王玉雯工作室被气成啥样了",
+      "topic_id": "23152234a543153f6932041c49d517de0e2200"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "终于知道大家搬离高层的原因",
+      "rank": 14,
+      "title": "终于知道大家搬离高层的原因",
+      "topic_id": "2315220381ae3ca9a7b93370e2e7bff0bdee95"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#玄彬说孙艺珍不让演爱情戏就不演#",
+      "rank": 15,
+      "title": "玄彬说孙艺珍不让演爱情戏就不演",
+      "topic_id": "231522c8cc7a14621b940b6e992cb587fc178b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "女生刷到另一个自己竟是双胞胎",
+      "rank": 16,
+      "title": "女生刷到另一个自己竟是双胞胎",
+      "topic_id": "231522e937e8ecb32c05796977cfef88732532"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#白小纯疑似回应与王子璇传闻#",
+      "rank": 17,
+      "title": "白小纯疑似回应与王子璇传闻",
+      "topic_id": "2315221eca6ea60f5638b8871cdfab427bf5e2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "4AM任套娃拍照",
+      "rank": 18,
+      "title": "4AM任套娃拍照",
+      "topic_id": "231522144ac4775e36e521b8ca433473d691db"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#张本美和累哭了#",
+      "rank": 19,
+      "title": "张本美和累哭了",
+      "topic_id": "231522601c4f929de2a31117faa64e8a62b37d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#女子买一等座却只能站着平台无补偿#",
+      "rank": 20,
+      "title": "女子买一等座却只能站着平台无补偿",
+      "topic_id": "2315220588ad779081b6bb517485b95e4fb149"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#精分患者被伪造病历虚假出入院#",
+      "rank": 21,
+      "title": "精分患者被伪造病历虚假出入院",
+      "topic_id": "23152220693be6f9a3639a6e4d093dc623fa6c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "许飞为厉娜系十分钟鞋带",
+      "rank": 22,
+      "title": "许飞为厉娜系十分钟鞋带",
+      "topic_id": "23152254963513e116fb1106b3b4242f68d50b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "嫁金钗 第二季",
+      "rank": 23,
+      "title": "嫁金钗 第二季",
+      "topic_id": "2315225606d57f93f4626f462522020ded6f61"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "天霸",
+      "rank": 24,
+      "title": "天霸",
+      "topic_id": "23152270aa6176d7f3fa73a9e86aac9487ef5c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#这些高嘌呤食物要少吃#",
+      "rank": 25,
+      "title": "这些高嘌呤食物要少吃",
+      "topic_id": "23152242109ca6ef25a63943b585a19dc6264f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "迪丽热巴 哈曼卡顿",
+      "rank": 26,
+      "title": "迪丽热巴 哈曼卡顿",
+      "topic_id": "2315227c82df8acf764c60a243cb5e93c2c041"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#清华在读女生怀孕生娃神级时间管理#",
+      "rank": 27,
+      "title": "清华在读女生怀孕生娃神级时间管理",
+      "topic_id": "23152230be9b1662420c3de072d46fb674734f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#泰港7比4北京国安#",
+      "rank": 28,
+      "title": "泰港7比4北京国安",
+      "topic_id": "2315222eebf9f1f541daf901a2f14ff1a324fe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#伊朗提出地区持久和平5项原则#",
+      "rank": 29,
+      "title": "伊朗提出地区持久和平5项原则",
+      "topic_id": "23152286395ee73730c557e5ee2f4740e892de"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#盛李豪实现全满贯#",
+      "rank": 30,
+      "title": "盛李豪实现全满贯",
+      "topic_id": "231522b63010a8430e0c3702f4c9149dc66388"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝白小纯青稚一起去了韩国#",
+      "rank": 31,
+      "title": "曝白小纯青稚一起去了韩国",
+      "topic_id": "2315229273095c6aba2fd3e003158007b4a424"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#油价上涨甲醇电混开始流行#",
+      "rank": 32,
+      "title": "油价上涨甲醇电混开始流行",
+      "topic_id": "231522a8db997eb8dc5d0c9c8449661d114e1d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 7,
+      "posts": "saved",
+      "query": "#林德有些球让王楚钦不舒服#",
+      "rank": 33,
+      "title": "林德有些球让王楚钦不舒服",
+      "topic_id": "231522e7e297f19f086f36710141178da548cc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "王者荣耀",
+      "rank": 34,
+      "title": "王者荣耀",
+      "topic_id": "231522ccb61d96c8f867d4f6c412e95c4f173a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#一下没认出这是小S#",
+      "rank": 35,
+      "title": "一下没认出这是小S",
+      "topic_id": "231522e757dae3088f3e669eeea24d9a139a6f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#清华研究生怀孕怕被退学获导师支持#",
+      "rank": 36,
+      "title": "清华研究生怀孕怕被退学获导师支持",
+      "topic_id": "231522d0dfd554958f876c1e76497ea0d51681"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#浪琴否认赵丽颖到期#",
+      "rank": 37,
+      "title": "浪琴否认赵丽颖到期",
+      "topic_id": "2315220baff14ea9a7d14a89a8c9e57020daf5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#杨幂是最爱上瑜伽课之人了#",
+      "rank": 38,
+      "title": "杨幂是最爱上瑜伽课之人了",
+      "topic_id": "231522a4d52137c2031be39445d064c6cd3b20"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#恋爱兄妹朴宰亨宣布恋情#",
+      "rank": 39,
+      "title": "恋爱兄妹朴宰亨宣布恋情",
+      "topic_id": "231522c0fc4651e669d9f30c3a90e750912c18"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "阴阳师",
+      "rank": 40,
+      "title": "阴阳师",
+      "topic_id": "2315221148f3a3f29155fc33647303f21d4e0b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "闫桉 升咖",
+      "rank": 41,
+      "title": "闫桉 升咖",
+      "topic_id": "231522c9738a5ccd86c2ea571714bc50de984e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "王楚钦vs林德",
+      "rank": 42,
+      "title": "王楚钦vs林德",
+      "topic_id": "231522f43e783fdb50c46215a3e31212c6a6a7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "田曦薇 你们慢点看啊",
+      "rank": 43,
+      "title": "田曦薇 你们慢点看啊",
+      "topic_id": "2315223dfd14408476677271c474c662d6bdc6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#霍建华说拍如懿传内心很煎熬#",
+      "rank": 44,
+      "title": "霍建华说拍如懿传内心很煎熬",
+      "topic_id": "2315229bfd411be576bac485384a13363afc5c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#肖战让姜妍少看点成功学吧#",
+      "rank": 45,
+      "title": "肖战让姜妍少看点成功学吧",
+      "topic_id": "231522a2ad3f23380f1f7bd5d71a0b48af562b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#致对手去世西乙门将在更衣室哭泣祈祷#",
+      "rank": 46,
+      "title": "致对手去世西乙门将在更衣室哭泣祈祷",
+      "topic_id": "2315229a388a31a1cfca339c462555f40391e5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "VOGUE主编谈迪丽热巴出圈",
+      "rank": 47,
+      "title": "VOGUE主编谈迪丽热巴出圈",
+      "topic_id": "2315229fa18668c467317b33b7e6dd4e241259"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#骨折乘客买到中铺想换下铺未成功#",
+      "rank": 48,
+      "title": "骨折乘客买到中铺想换下铺未成功",
+      "topic_id": "2315220deb18ded2475c9c1fbb992a59bdf689"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "王子璇高考 忘涂答题卡",
+      "rank": 49,
+      "title": "王子璇高考 忘涂答题卡",
+      "topic_id": "231522972f21a74571ab24f370527812ea17a4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "刘亦菲用港姐方式挥手",
+      "rank": 50,
+      "title": "刘亦菲用港姐方式挥手",
+      "topic_id": "231522e3a86bed94b630a8ae2ff51b9d02d84d"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
