@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 7399555658
   },
-  "last_seen_at": "2026-11-03T14:00:00+08:00",
+  "last_seen_at": "2026-11-03T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23A%E8%82%A1%E7%BE%8A%E5%AD%97%E8%BE%88%E9%9B%86%E4%BD%93%E6%B6%A8%E5%81%9C%23%26t%3D3&title=发布媒体",
-    "show_str": "13家媒体",
+    "show_str": "19家媒体",
     "users": [
       {
         "id": 7399555658,
         "idstr": "7399555658",
         "screen_name": "红星资本局",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1650111241,
+        "idstr": "1650111241",
+        "screen_name": "中国经营报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1684012053,
+        "idstr": "1684012053",
+        "screen_name": "财经杂志",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1882632930,
+        "idstr": "1882632930",
+        "screen_name": "新消息报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 6013508393,
+        "idstr": "6013508393",
+        "screen_name": "环球总财",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2853016445,
         "idstr": "2853016445",
         "screen_name": "钛媒体APP",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2287707595,
-        "idstr": "2287707595",
-        "screen_name": "济南广播电视台",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2026044661,
-        "idstr": "2026044661",
-        "screen_name": "海量财经",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1988645095,
-        "idstr": "1988645095",
-        "screen_name": "北京商报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1958132051,
-        "idstr": "1958132051",
-        "screen_name": "中国商报",
         "verified": true,
         "verified_type": 3
       }
