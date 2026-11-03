@@ -3,10 +3,10 @@
   "created_at": 1793692157,
   "first_seen_at": "2026-11-03T18:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-03T23:00:00+08:00",
+  "last_seen_at": "2026-11-04T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%80%AA%E8%90%8D+%E5%8C%BB%E7%BE%8E%23%26t%3D3&title=发布媒体",
-    "show_str": "17家媒体",
+    "show_str": "19家媒体",
     "users": [
       {
         "id": 2286092114,
@@ -30,6 +30,13 @@
         "verified_type": 3
       },
       {
+        "id": 1403842922,
+        "idstr": "1403842922",
+        "screen_name": "琅琊新闻网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6444725927,
         "idstr": "6444725927",
         "screen_name": "吉祥新闻",
@@ -47,13 +54,6 @@
         "id": 2535760180,
         "idstr": "2535760180",
         "screen_name": "安徽视讯",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2183542485,
-        "idstr": "2183542485",
-        "screen_name": "西安广播电视台",
         "verified": true,
         "verified_type": 3
       }
