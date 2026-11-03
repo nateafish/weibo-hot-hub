@@ -3,10 +3,10 @@
   "created_at": 1775993203,
   "first_seen_at": "2026-11-04T03:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-04T05:00:00+08:00",
+  "last_seen_at": "2026-11-04T06:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23WTT%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F%E5%86%A0%E5%86%9B%E8%B5%9B2026%23%26t%3D3&title=发布媒体",
-    "show_str": "8家媒体",
+    "show_str": "9家媒体",
     "users": [
       {
         "id": 2011739333,
@@ -19,6 +19,13 @@
         "id": 2028810631,
         "idstr": "2028810631",
         "screen_name": "新浪新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7051979649,
+        "idstr": "7051979649",
+        "screen_name": "咪咕冰雪",
         "verified": true,
         "verified_type": 3
       },
@@ -47,13 +54,6 @@
         "id": 1819318401,
         "idstr": "1819318401",
         "screen_name": "央视网体育",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1712686623,
-        "idstr": "1712686623",
-        "screen_name": "手机上的新浪",
         "verified": true,
         "verified_type": 3
       }
