@@ -3,15 +3,29 @@
   "created_at": 1793774291,
   "first_seen_at": "2026-11-04T17:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-04T19:00:00+08:00",
+  "last_seen_at": "2026-11-04T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9B%9D%E7%9F%AD%E5%89%A7%E9%A1%B6%E6%B5%81%E5%88%98%E5%BF%B5%E6%B6%89%E5%AB%8C%E5%88%91%E4%BA%8B%E7%8A%AF%E7%BD%AA%E9%81%AD%E8%B0%83%E6%9F%A5%23%26t%3D3&title=发布媒体",
-    "show_str": "25家媒体",
+    "show_str": "59家媒体",
     "users": [
+      {
+        "id": 1744332207,
+        "idstr": "1744332207",
+        "screen_name": "钱江视频",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2318910945,
         "idstr": "2318910945",
         "screen_name": "新浪热点",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,30 +44,16 @@
         "verified_type": 3
       },
       {
-        "id": 6369501744,
-        "idstr": "6369501744",
-        "screen_name": "封面新闻视频",
+        "id": 7708039348,
+        "idstr": "7708039348",
+        "screen_name": "北青娱见",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 6336553950,
-        "idstr": "6336553950",
-        "screen_name": "新浪大文娱",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5876448064,
-        "idstr": "5876448064",
-        "screen_name": "青蕉视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5867962564,
-        "idstr": "5867962564",
-        "screen_name": "达州快播报",
+        "id": 6867368137,
+        "idstr": "6867368137",
+        "screen_name": "大众网",
         "verified": true,
         "verified_type": 3
       }

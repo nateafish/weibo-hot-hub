@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-04T21:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 8,
+      "posts": "saved",
+      "query": "#从两座纪念碑读懂中阿千年之交#",
+      "rank": 1,
+      "title": "从两座纪念碑读懂中阿千年之交",
+      "topic_id": "2315225fabd7dab8e322f1efb62130f2936523"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "嫁金钗忘删AI水印了",
+      "rank": 1,
+      "title": "嫁金钗忘删AI水印了",
+      "topic_id": "231522431b455da0f699c7d2069999d570c6b2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "一个爱吃漂亮饭的人轻轻的碎了",
+      "rank": 2,
+      "title": "一个爱吃漂亮饭的人轻轻的碎了",
+      "topic_id": "231522b38545996b7006b8f87883a54c09da9d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#进博会见证中国开放的大门越开越大#",
+      "rank": 3,
+      "title": "进博会见证中国开放的大门越开越大",
+      "topic_id": "231522937b3a716b8521020d59565eee031458"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#后会友期第二季呼声TOP10#",
+      "rank": 4,
+      "title": "后会友期第二季呼声TOP10",
+      "topic_id": "2315222c1d8d577d1fa4cf4febac76e2afd4b5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女子每月花3600住酒店上班#",
+      "rank": 5,
+      "title": "女子每月花3600住酒店上班",
+      "topic_id": "2315223ab35f1083c69ff5213bbe491880ba5d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王子璇是文吉儿的名牌包#",
+      "rank": 6,
+      "title": "王子璇是文吉儿的名牌包",
+      "topic_id": "231522bdedc57a3c460756eb3a8025c67709fb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "亚洲大学排名揭晓",
+      "rank": 7,
+      "title": "亚洲大学排名揭晓",
+      "topic_id": "23152270aef8aab3b4a73379ff372c6c3d8503"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#高市早苗以怪异姿势面见日本天皇#",
+      "rank": 8,
+      "title": "高市早苗以怪异姿势面见日本天皇",
+      "topic_id": "2315220001bf8960d48e382b5db092fc74008e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#韩网热议iG晋级四强#",
+      "rank": 9,
+      "title": "韩网热议iG晋级四强",
+      "topic_id": "2315222091844c9fc7fcba40a5bd64013db502"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#贺兰山失联22岁女孩已确认死亡#",
+      "rank": 10,
+      "title": "贺兰山失联22岁女孩已确认死亡",
+      "topic_id": "2315222530f229f2101eea7fbf6e9c8ab57ad6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "曝短剧顶流刘念涉嫌刑事犯罪遭调查",
+      "rank": 11,
+      "title": "曝短剧顶流刘念涉嫌刑事犯罪遭调查",
+      "topic_id": "231522c588dfd10b1278ea8dfac62187029cc7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#叶非夜实名举报郭宇欣偷税漏税#",
+      "rank": 12,
+      "title": "叶非夜实名举报郭宇欣偷税漏税",
+      "topic_id": "23152209e296d3d3c432a2c8f4bf430ccad108"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#易烊千玺方辟谣恋情传闻#",
+      "rank": 13,
+      "title": "易烊千玺方辟谣恋情传闻",
+      "topic_id": "2315221125077c24a7d26211a4b62d731efab8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#迪丽热巴出演迪奥短片#",
+      "rank": 14,
+      "title": "迪丽热巴出演迪奥短片",
+      "topic_id": "231522e67b0ed7bdb21d59c38b5d443645c743"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "股市大反攻亏损全补回来",
+      "rank": 15,
+      "title": "股市大反攻亏损全补回来",
+      "topic_id": "2315223a29190929b4281fe6603380ab432047"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "这就是勤换洗水杯的原因",
+      "rank": 16,
+      "title": "这就是勤换洗水杯的原因",
+      "topic_id": "2315223344915cd528521e66158020f642bcda"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#毛晓彤说肖战群戏也全神贯注#",
+      "rank": 17,
+      "title": "毛晓彤说肖战群戏也全神贯注",
+      "topic_id": "231522e94f2169696f2402047b115ec9c050b4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#天娱老员工打假厉娜告密者#",
+      "rank": 18,
+      "title": "天娱老员工打假厉娜告密者",
+      "topic_id": "23152262c8a4457fb7a62bdbd6dd3ff6a82f3c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#黄金为何直线拉涨#",
+      "rank": 19,
+      "title": "黄金为何直线拉涨",
+      "topic_id": "231522f076e38af9db8397540c232c67318eab"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "内存短缺或持续到2030年",
+      "rank": 20,
+      "title": "内存短缺或持续到2030年",
+      "topic_id": "231522237f1bd2e6a7c9bd6e6822a85e46153c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#369彻底出圈#",
+      "rank": 21,
+      "title": "369彻底出圈",
+      "topic_id": "231522505bf0229f4cf7e4b1efce20f854957c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "郭宇欣 张力壬",
+      "rank": 22,
+      "title": "郭宇欣 张力壬",
+      "topic_id": "231522dcb41f7dd53e7fb18ddc2abb64145f10"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#李嘉格车澈离婚原因#",
+      "rank": 23,
+      "title": "李嘉格车澈离婚原因",
+      "topic_id": "23152226d2e581e4d880b81cec678b119e256c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#Jennie比基尼身材#",
+      "rank": 24,
+      "title": "Jennie比基尼身材",
+      "topic_id": "231522c4c8a936933f5833d7c5f3d0971716f1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#胡歌成毅热聊#",
+      "rank": 25,
+      "title": "胡歌成毅热聊",
+      "topic_id": "231522a49a74d36745b4615c216196c97381c6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#女子做大拉皮手术毁容自嘲像外星人#",
+      "rank": 26,
+      "title": "女子做大拉皮手术毁容自嘲像外星人",
+      "topic_id": "23152293d10beb6a988378398800ea74557eb8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#陕西发生重大刑案嫌疑人持刀在逃#",
+      "rank": 27,
+      "title": "陕西发生重大刑案嫌疑人持刀在逃",
+      "topic_id": "2315229b6ce64667a833f6c8bcc38a2b782564"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "今年杭州已有800余户家庭选择骨灰撒江",
+      "rank": 28,
+      "title": "今年杭州已有800余户家庭选择骨灰撒江",
+      "topic_id": "23152287083b101c3b20857580379b7a1fdf18"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#A股暴力反弹原因#",
+      "rank": 29,
+      "title": "A股暴力反弹原因",
+      "topic_id": "23152264ec9097f35ecb00e049336812beb1ad"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#中方就中俄美元首会晤保持着沟通#",
+      "rank": 30,
+      "title": "中方就中俄美元首会晤保持着沟通",
+      "topic_id": "23152269673d22687c0a2dc8af19575e9708dd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "好聪明的路人打码方法",
+      "rank": 31,
+      "title": "好聪明的路人打码方法",
+      "topic_id": "2315220ff8418908e0a46345b561adae7cc332"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "毛晓彤锐评许飞厉娜感情",
+      "rank": 32,
+      "title": "毛晓彤锐评许飞厉娜感情",
+      "topic_id": "231522de79b4ece8968d309f89ffecfbe9b31e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "小孩都知道买东西是隐形家务",
+      "rank": 33,
+      "title": "小孩都知道买东西是隐形家务",
+      "topic_id": "2315224d0e7e6dcf70ec671b6ff30d6b397bb0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "韩网吐槽没有年轻人演了吗",
+      "rank": 34,
+      "title": "韩网吐槽没有年轻人演了吗",
+      "topic_id": "231522c69c7840078f68b75a5baeec381b66bf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#刘念工作室声明#",
+      "rank": 35,
+      "title": "刘念工作室声明",
+      "topic_id": "231522a872afa0cfb0be30d90fa1b31f975ad8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "杭州骨灰撒钱塘江领现金补贴",
+      "rank": 36,
+      "title": "杭州骨灰撒钱塘江领现金补贴",
+      "topic_id": "231522db4a343766c70df209ec859c8b65f66e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#罗正自曝徐艺洋退回份子钱#",
+      "rank": 37,
+      "title": "罗正自曝徐艺洋退回份子钱",
+      "topic_id": "231522d2ce45967d8c0c65393c302df2d5aa0c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#章子怡冻得发抖#",
+      "rank": 38,
+      "title": "章子怡冻得发抖",
+      "topic_id": "231522ce70b5cead534a120a01df234b9e6152"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 6,
+      "posts": "saved",
+      "query": "换工作工资翻倍十四薪",
+      "rank": 39,
+      "title": "换工作工资翻倍十四薪",
+      "topic_id": "2315229f9505c219046e6d8cca350fbfc96d04"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张雪反问网友怎么还傲慢上了#",
+      "rank": 40,
+      "title": "张雪反问网友怎么还傲慢上了",
+      "topic_id": "2315225f8fa0d2eb05046a913e85e5a3895cfe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#高梓淇二婚不是爱的结业证书#",
+      "rank": 41,
+      "title": "高梓淇二婚不是爱的结业证书",
+      "topic_id": "231522f52712bdc5958069dda03df71de1cb4f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#杨坤自曝患抑郁症二十年#",
+      "rank": 42,
+      "title": "杨坤自曝患抑郁症二十年",
+      "topic_id": "2315221ab3bb3549d3c9148cdb68b0a443181b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#卢昱晓笑到痛苦了林一还在加料#",
+      "rank": 43,
+      "title": "卢昱晓笑到痛苦了林一还在加料",
+      "topic_id": "2315225d3f1a52072d5ce906faccef7852fcbb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "从什么时候发现婆婆不是善茬",
+      "rank": 44,
+      "title": "从什么时候发现婆婆不是善茬",
+      "topic_id": "23152296d341a102c07076705c17b853359794"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 4,
+      "posts": "saved",
+      "query": "日本取消吃饭族为省钱",
+      "rank": 45,
+      "title": "日本取消吃饭族为省钱",
+      "topic_id": "231522bcc21257ef7e43da9818ac2415f91db8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#浙大排名亚洲大学第14#",
+      "rank": 46,
+      "title": "浙大排名亚洲大学第14",
+      "topic_id": "2315224420d0247460099fccf37999bab7b4bf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "赵昭仪 颜安",
+      "rank": 47,
+      "title": "赵昭仪 颜安",
+      "topic_id": "2315222dca8659d59cb56be659fd7d98f7fd78"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#你家家电免疫力还剩多少#",
+      "rank": 48,
+      "title": "你家家电免疫力还剩多少",
+      "topic_id": "231522644d81691363853a0a02cd16f364588f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "后会友期 放母带",
+      "rank": 49,
+      "title": "后会友期 放母带",
+      "topic_id": "231522bf56e97859b5eb44e38719e3e7358fc9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#369说最后一舞#",
+      "rank": 50,
+      "title": "369说最后一舞",
+      "topic_id": "231522b530916ea6382bbe75c2ef754b9bbcf2"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
