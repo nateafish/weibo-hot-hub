@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 8372331856
   },
-  "last_seen_at": "2026-11-04T13:00:00+08:00",
+  "last_seen_at": "2026-11-04T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%98%B3%E9%9B%A8%E5%AE%9A%E6%A1%A3%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "9家媒体",
     "users": [
       {
         "id": 1843633441,
         "idstr": "1843633441",
         "screen_name": "搜狐娱乐",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1280846847,
+        "idstr": "1280846847",
+        "screen_name": "指尖新闻-沈阳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1809436135,
+        "idstr": "1809436135",
+        "screen_name": "咪咕视频",
         "verified": true,
         "verified_type": 3
       },
@@ -37,16 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 1642592432,
-        "idstr": "1642592432",
-        "screen_name": "新浪电视",
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1283367840,
-        "idstr": "1283367840",
-        "screen_name": "每日文艺播报",
+        "id": 2045624511,
+        "idstr": "2045624511",
+        "screen_name": "济南音乐广播Music887",
         "verified": true,
         "verified_type": 3
       }

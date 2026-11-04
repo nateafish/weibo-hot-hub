@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 6105713761
   },
-  "last_seen_at": "2026-11-04T13:00:00+08:00",
+  "last_seen_at": "2026-11-04T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%8A%E6%B5%B7%E7%94%B7%E7%AF%AE%E5%86%8D%E7%AD%BENBA%E7%BA%A7%E5%A4%96%E6%8F%B4%23%26t%3D3&title=发布媒体",
-    "show_str": "8家媒体",
+    "show_str": "13家媒体",
     "users": [
       {
         "id": 7613700701,
         "idstr": "7613700701",
         "screen_name": "共富财经",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6536846182,
+        "idstr": "6536846182",
+        "screen_name": "现代快报快快看视频",
         "verified": true,
         "verified_type": 3
       },
@@ -30,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 2630281751,
+        "idstr": "2630281751",
+        "screen_name": "快报泰州",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2191398120,
         "idstr": "2191398120",
         "screen_name": "成都商报美食",
@@ -37,30 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 2105365573,
+        "idstr": "2105365573",
+        "screen_name": "威海播报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1989020644,
         "idstr": "1989020644",
         "screen_name": "STV新闻坊",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1974335820,
-        "idstr": "1974335820",
-        "screen_name": "成都商报报料",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1925878362,
-        "idstr": "1925878362",
-        "screen_name": "SMGNEWS",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1845864154,
-        "idstr": "1845864154",
-        "screen_name": "看看新闻Knews",
         "verified": true,
         "verified_type": 3
       }
