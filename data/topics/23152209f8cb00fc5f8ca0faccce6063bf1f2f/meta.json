@@ -10,11 +10,61 @@
     "status": 2,
     "uid": 2522098777
   },
-  "last_seen_at": "2026-11-04T14:00:00+08:00",
+  "last_seen_at": "2026-11-04T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23369%E8%AF%B4%E8%A2%ABTheShy%E5%BE%81%E6%9C%8D%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "21家媒体",
+    "users": [
+      {
+        "id": 1403842922,
+        "idstr": "1403842922",
+        "screen_name": "琅琊新闻网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7761793874,
+        "idstr": "7761793874",
+        "screen_name": "白鹿科技",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7750531853,
+        "idstr": "7750531853",
+        "screen_name": "朱雀财经",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7575030448,
+        "idstr": "7575030448",
+        "screen_name": "白鹿视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6590980486,
+        "idstr": "6590980486",
+        "screen_name": "捉谣记",
+        "verified": true,
+        "verified_type": 7
+      },
+      {
+        "id": 6418480627,
+        "idstr": "6418480627",
+        "screen_name": "星视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6254784663,
+        "idstr": "6254784663",
+        "screen_name": "朝九晚五Video",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#369说被TheShy征服了#",
   "search_url": "https://s.weibo.com/weibo?q=%23369%E8%AF%B4%E8%A2%ABtheshy%E5%BE%81%E6%9C%8D%E4%BA%86%23",
