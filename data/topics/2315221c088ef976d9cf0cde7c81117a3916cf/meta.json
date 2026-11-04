@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1845864154
   },
-  "last_seen_at": "2026-11-04T06:00:00+08:00",
+  "last_seen_at": "2026-11-04T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9D%82%E4%BA%A4%E6%B0%B4%E7%A8%BB%E4%B8%93%E5%AE%B6%E9%82%93%E5%9B%BD%E5%AF%8C%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "10家媒体",
     "users": [
       {
         "id": 1845864154,
         "idstr": "1845864154",
         "screen_name": "看看新闻Knews",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5388240201,
+        "idstr": "5388240201",
+        "screen_name": "南阳日报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,16 +37,30 @@
         "verified_type": 3
       },
       {
-        "id": 1681029540,
-        "idstr": "1681029540",
-        "screen_name": "新民周刊",
+        "id": 1043320390,
+        "idstr": "1043320390",
+        "screen_name": "半岛晨报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1192119933,
-        "idstr": "1192119933",
-        "screen_name": "北疆新闻",
+        "id": 3037284894,
+        "idstr": "3037284894",
+        "screen_name": "经济日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2011805155,
+        "idstr": "2011805155",
+        "screen_name": "烟台音乐广播",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2011075080,
+        "idstr": "2011075080",
+        "screen_name": "齐鲁晚报",
         "verified": true,
         "verified_type": 3
       }
