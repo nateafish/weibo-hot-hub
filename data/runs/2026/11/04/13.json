@@ -1,0 +1,537 @@
+{
+  "captured_at": "2026-11-04T13:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 0,
+    "metrics_saved": 50,
+    "posts_saved": 50
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#总书记对黄河保护发展的深切牵挂#",
+      "rank": 1,
+      "title": "总书记对黄河保护发展的深切牵挂",
+      "topic_id": "23152236561405105003f7c7e91aa34ea5a2f4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#气象局回应苹果天气APP预报极端天气#",
+      "rank": 1,
+      "title": "气象局回应苹果天气APP预报极端天气",
+      "topic_id": "231522d3f04553ba35495087d147056b479dac"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#南京大学抬头率#",
+      "rank": 2,
+      "title": "南京大学抬头率",
+      "topic_id": "2315226041c7e50238610c65c86878fc8660c0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#9图看中国互联网发展最新成就#",
+      "rank": 3,
+      "title": "9图看中国互联网发展最新成就",
+      "topic_id": "23152228d431d3f3ca39caa380599d02ad1bab"
+    },
+    {
+      "ai": "pending",
+      "metrics": "failed",
+      "metrics_error": "TopicFetchError: Topic detail is missing a stable id or title",
+      "posts": "pending",
+      "query": "特朗普",
+      "rank": 4,
+      "title": "特朗普"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#红果短剧到底有多离谱#",
+      "rank": 5,
+      "title": "红果短剧到底有多离谱",
+      "topic_id": "2315227594ff6b320e8a4a82831ec6e63170fd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#TheShy谈369一打三守家#",
+      "rank": 6,
+      "title": "TheShy谈369一打三守家",
+      "topic_id": "231522257c35704ad7649b0a9da05ed20d05f7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#刘学义真画地为牢了厉娜#",
+      "rank": 7,
+      "title": "刘学义真画地为牢了厉娜",
+      "topic_id": "231522342ce7ab147819dbb173cf88f1aac028"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#TheShy和369赛后拥抱#",
+      "rank": 8,
+      "title": "TheShy和369赛后拥抱",
+      "topic_id": "231522ab1d3eee2cab019182fdf19e36219d34"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#KPL十周年表演赛阵容官宣#",
+      "rank": 9,
+      "title": "KPL十周年表演赛阵容官宣",
+      "topic_id": "231522646fef3f5c920b3b351077368748a227"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#苹果天气APP预报北京等地零下30度#",
+      "rank": 10,
+      "title": "苹果天气APP预报北京等地零下30度",
+      "topic_id": "2315221f893cf048face63ea774cba3047784f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#美民主党夺回参议院#",
+      "rank": 11,
+      "title": "美民主党夺回参议院",
+      "topic_id": "231522495910084e46ae5c26866e1e772bcb94"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "林一找到了发烧有去医院的证据",
+      "rank": 12,
+      "title": "林一找到了发烧有去医院的证据",
+      "topic_id": "2315221e1ca2fdb4ff7b5517f0c7cf8a37b818"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "白小纯 我爸烟瘾大也生了我这个天才",
+      "rank": 13,
+      "title": "白小纯 我爸烟瘾大也生了我这个天才",
+      "topic_id": "2315221f34a3775979bdcdd40fe2d7fedba0ea"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张雪回应校招起薪10万被嫌低#",
+      "rank": 14,
+      "title": "张雪回应校招起薪10万被嫌低",
+      "topic_id": "23152233e63f322559ebb186195af0dc89edc0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "易烊千玺和于适粉丝都发了澄清",
+      "rank": 15,
+      "title": "易烊千玺和于适粉丝都发了澄清",
+      "topic_id": "2315223f91ce99d52f9a2079db6e2d8c186e72"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#小伙200多万买14套房年收租21万#",
+      "rank": 16,
+      "title": "小伙200多万买14套房年收租21万",
+      "topic_id": "23152208c41153fcad33946a1107762354b632"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#时代少年团4小时纪录片#",
+      "rank": 17,
+      "title": "时代少年团4小时纪录片",
+      "topic_id": "2315221013b01911a0cfec063e1c551b1f241b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "苹果天气突现-32",
+      "rank": 18,
+      "title": "苹果天气突现-32",
+      "topic_id": "231522e553fb09f73b148e39a3a01e895c212f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#姜妍的生活真的好有仪式感#",
+      "rank": 19,
+      "title": "姜妍的生活真的好有仪式感",
+      "topic_id": "23152234f21009c1e74d0cd569bf9774bd0136"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#向公安局索赔14万亿美元二审被驳回#",
+      "rank": 20,
+      "title": "向公安局索赔14万亿美元二审被驳回",
+      "topic_id": "2315223980e1e968c829dd250c8cd87e2d184e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#女子遭男友老板直播调侃身材后抑郁#",
+      "rank": 21,
+      "title": "女子遭男友老板直播调侃身材后抑郁",
+      "topic_id": "2315228952023d01f8d22120ed143f7acabe9e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#1岁多男童误吞26颗磁吸五子棋#",
+      "rank": 22,
+      "title": "1岁多男童误吞26颗磁吸五子棋",
+      "topic_id": "23152231e024b26be7eda9a3bbaef0a73811d2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#徐艺洋原本打算将罗正礼金全部退回#",
+      "rank": 23,
+      "title": "徐艺洋原本打算将罗正礼金全部退回",
+      "topic_id": "2315220264376154da7dff1d0e7a1c19ac7b2f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "iG战胜TES",
+      "rank": 24,
+      "title": "iG战胜TES",
+      "topic_id": "231522cd0453288465b1deae5e99cacbcae01e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#刘亦菲刘诗诗唐嫣杨幂友谊#",
+      "rank": 25,
+      "title": "刘亦菲刘诗诗唐嫣杨幂友谊",
+      "topic_id": "2315224ff6b7f80857aac2ff23f956e6765154"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "媳妇规定的卫生间使用流程火了",
+      "rank": 26,
+      "title": "媳妇规定的卫生间使用流程火了",
+      "topic_id": "231522a53e66a78457fb616d775f6e389142a4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#苹果客服回应天气离谱#",
+      "rank": 27,
+      "title": "苹果客服回应天气离谱",
+      "topic_id": "231522b6843439dd3ec0c37578a1080ebeabf8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#KPL巅峰之夜表演嘉宾官宣#",
+      "rank": 28,
+      "title": "KPL巅峰之夜表演嘉宾官宣",
+      "topic_id": "23152248575b15724cd66afcd3e30dcf0c6b68"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#今天是太阳雨定档#",
+      "rank": 29,
+      "title": "今天是太阳雨定档",
+      "topic_id": "23152250a93cba0c08b714af82d73333f3adca"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#美媒预测美中期选举结果#",
+      "rank": 30,
+      "title": "美媒预测美中期选举结果",
+      "topic_id": "23152266f7f96cf5508642804e23651f0b25c9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#LPL安慰TES#",
+      "rank": 31,
+      "title": "LPL安慰TES",
+      "topic_id": "2315229d16d09e30232e30000e328e84e10877"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#美国中期选举如何影响全球经济#",
+      "rank": 32,
+      "title": "美国中期选举如何影响全球经济",
+      "topic_id": "231522f0deeca70b5d7a621c35b6dc0cb62dcb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王星越去健身房了厉娜#",
+      "rank": 33,
+      "title": "王星越去健身房了厉娜",
+      "topic_id": "2315224bdc4a9cb8aac0e5c7dc9390b29cfa43"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#TheShy回应S16长暂停#",
+      "rank": 34,
+      "title": "TheShy回应S16长暂停",
+      "topic_id": "231522067c59efc3c33694230014087e57f254"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#特朗普称若美国人厌倦就去以当总理#",
+      "rank": 35,
+      "title": "特朗普称若美国人厌倦就去以当总理",
+      "topic_id": "231522460a3b2f2f502785ef33452b43d8c1cf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#LOL官方回应S16长暂停#",
+      "rank": 36,
+      "title": "LOL官方回应S16长暂停",
+      "topic_id": "2315225188938feecc1ecfe817ab247b5b87fe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "TES对战IG",
+      "rank": 37,
+      "title": "TES对战IG",
+      "topic_id": "231522f89abc2a0915d9abd2c051c46dcbea05"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "何炅 我画地为牢啊撒贝宁",
+      "rank": 38,
+      "title": "何炅 我画地为牢啊撒贝宁",
+      "topic_id": "23152257ba450a6e4b5a30d64bdd6b0c89e350"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#上海男篮再签NBA级外援#",
+      "rank": 39,
+      "title": "上海男篮再签NBA级外援",
+      "topic_id": "231522d1b598c45bfef66f399bfcc6002674c4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 7,
+      "posts": "saved",
+      "query": "#此时魏娆已经完全掌握了一切#",
+      "rank": 40,
+      "title": "此时魏娆已经完全掌握了一切",
+      "topic_id": "231522676a3e715f482f6e290494526577313b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#爱情和友情没有本质区别#",
+      "rank": 41,
+      "title": "爱情和友情没有本质区别",
+      "topic_id": "231522186c84bdce3a7a8f0e08bd375433ec3d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#TES止步S16八强#",
+      "rank": 42,
+      "title": "TES止步S16八强",
+      "topic_id": "231522b4b4fb7a6a8819287fdd830bd93df3da"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#小城良方班底好是因为肖战点头了#",
+      "rank": 43,
+      "title": "小城良方班底好是因为肖战点头了",
+      "topic_id": "231522cb2910f1b17f3b027f2c81b9878771a5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "清华父亲211妻子孩子没考上高中",
+      "rank": 44,
+      "title": "清华父亲211妻子孩子没考上高中",
+      "topic_id": "2315222a92c588a87c742de3777e8e34c57533"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 8,
+      "posts": "saved",
+      "query": "#恋与深空男主打八段锦#",
+      "rank": 45,
+      "title": "恋与深空男主打八段锦",
+      "topic_id": "231522ffd6a57c1e5d40e058b04ed5d95d24f5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#管泽元说iG从涅槃到世界赛四强#",
+      "rank": 46,
+      "title": "管泽元说iG从涅槃到世界赛四强",
+      "topic_id": "23152227001444800875dcd65473a536e94f61"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#过日子的人还是习惯用拼多多#",
+      "rank": 47,
+      "title": "过日子的人还是习惯用拼多多",
+      "topic_id": "231522df62f725a3896cd8d3e711e6f2653069"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#世界市长在宁波共话未来#",
+      "rank": 48,
+      "title": "世界市长在宁波共话未来",
+      "topic_id": "2315229b7401e2c0241883e26f4ffdb4505ae7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#美国中期选举杀出一群局外人#",
+      "rank": 49,
+      "title": "美国中期选举杀出一群局外人",
+      "topic_id": "231522e30c09b18c494d2bfbf35570202e75cc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "小米SU7U纽北疑似6分58",
+      "rank": 50,
+      "title": "小米SU7U纽北疑似6分58",
+      "topic_id": "23152276dd231cc5707974864f6cc859b5be12"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 0.9803921568627451,
+      "metrics": 0.9803921568627451,
+      "posts": 0.9803921568627451
+    }
+  }
+}
