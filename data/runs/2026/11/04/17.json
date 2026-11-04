@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-04T17:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#从数字看五中全会决定诞生记#",
+      "rank": 1,
+      "title": "从数字看五中全会决定诞生记",
+      "topic_id": "231522e7a3c4873fb5916d60cd1115b958d1ee"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "这就是勤换洗水杯的原因",
+      "rank": 1,
+      "title": "这就是勤换洗水杯的原因",
+      "topic_id": "2315223344915cd528521e66158020f642bcda"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#A股暴力反弹原因#",
+      "rank": 2,
+      "title": "A股暴力反弹原因",
+      "topic_id": "23152264ec9097f35ecb00e049336812beb1ad"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#保护企业网络名誉权的指南来了#",
+      "rank": 3,
+      "title": "保护企业网络名誉权的指南来了",
+      "topic_id": "2315229ada2b96dbd800e64a1030143c011990"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "亚洲大学排名揭晓",
+      "rank": 4,
+      "title": "亚洲大学排名揭晓",
+      "topic_id": "23152270aef8aab3b4a73379ff372c6c3d8503"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#后会友期曾邀约杨幂唐嫣被婉拒#",
+      "rank": 5,
+      "title": "后会友期曾邀约杨幂唐嫣被婉拒",
+      "topic_id": "231522e61d7dc5e613f22ebfde6dc05822459a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#马斯克回应美国中期选举#",
+      "rank": 6,
+      "title": "马斯克回应美国中期选举",
+      "topic_id": "2315221e2bbdaa702b67293f7a3d42568c6c55"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#厉娜该清理朋友圈了#",
+      "rank": 7,
+      "title": "厉娜该清理朋友圈了",
+      "topic_id": "2315228d1af8c48cfedab9f836845349368adf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#A股史诗级大涨#",
+      "rank": 8,
+      "title": "A股史诗级大涨",
+      "topic_id": "23152216efce6179c8122eb79395eac2ca1bad"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#男子出租屋轻生二房东被判赔76万#",
+      "rank": 9,
+      "title": "男子出租屋轻生二房东被判赔76万",
+      "topic_id": "23152287703deb2b60448f9719906e5775a821"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 8,
+      "posts": "saved",
+      "query": "#丈夫砸防盗网坠亡妻子称不等于自杀#",
+      "rank": 10,
+      "title": "丈夫砸防盗网坠亡妻子称不等于自杀",
+      "topic_id": "231522138403aec3883f64fca55f8388787244"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "曝短剧顶流刘念涉嫌刑事犯罪遭调查",
+      "rank": 11,
+      "title": "曝短剧顶流刘念涉嫌刑事犯罪遭调查",
+      "topic_id": "231522c588dfd10b1278ea8dfac62187029cc7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#国会大变天特朗普剩余任期怎么办#",
+      "rank": 12,
+      "title": "国会大变天特朗普剩余任期怎么办",
+      "topic_id": "2315222a2469a1d461ac951bf0a14bd9e42556"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#文吉儿真的是触碰艺人的大忌#",
+      "rank": 13,
+      "title": "文吉儿真的是触碰艺人的大忌",
+      "topic_id": "231522edd80f6aa8b247d7d7d7b68298c78d37"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#李嘉格自曝被车澈打压#",
+      "rank": 14,
+      "title": "李嘉格自曝被车澈打压",
+      "topic_id": "231522930bd4897471f8bb6cf11650609fafeb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#TES输IG后台休息室镜头曝光#",
+      "rank": 15,
+      "title": "TES输IG后台休息室镜头曝光",
+      "topic_id": "231522eda44f5e04aa55721922034ee97c7f3e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "林一找到了发烧有去医院的证据",
+      "rank": 16,
+      "title": "林一找到了发烧有去医院的证据",
+      "topic_id": "2315221e1ca2fdb4ff7b5517f0c7cf8a37b818"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "王安宇曾忘还迪丽热巴450元",
+      "rank": 17,
+      "title": "王安宇曾忘还迪丽热巴450元",
+      "topic_id": "2315229527284f8afa5bf55dfd653295cea3ec"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#小伙200多万买14套房年收租21万#",
+      "rank": 18,
+      "title": "小伙200多万买14套房年收租21万",
+      "topic_id": "23152208c41153fcad33946a1107762354b632"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#北京一立冬就下雪#",
+      "rank": 19,
+      "title": "北京一立冬就下雪",
+      "topic_id": "231522217a7aa23d972791994ec0c2e0317b60"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#气象局回应苹果天气APP预报极端天气#",
+      "rank": 20,
+      "title": "气象局回应苹果天气APP预报极端天气",
+      "topic_id": "231522d3f04553ba35495087d147056b479dac"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#男子存2500元变25000元拒绝退还#",
+      "rank": 21,
+      "title": "男子存2500元变25000元拒绝退还",
+      "topic_id": "231522cc40335fd42801b59bb43afa00ab9d54"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#特朗普放话频繁行使否决权#",
+      "rank": 22,
+      "title": "特朗普放话频繁行使否决权",
+      "topic_id": "231522dd7ec22396785232b176a55e5e516a09"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#奥巴马发文祝贺民主党#",
+      "rank": 23,
+      "title": "奥巴马发文祝贺民主党",
+      "topic_id": "2315224f9f2a9f4f91c318d0dda1a6671c96c0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "369 开始打瓦",
+      "rank": 24,
+      "title": "369 开始打瓦",
+      "topic_id": "23152233f05cd092bc4239098b8fe304599c48"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#厉娜的工作联系方式变了#",
+      "rank": 25,
+      "title": "厉娜的工作联系方式变了",
+      "topic_id": "2315223d55f2c736c56537ef736a53199c2d0e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#369说被TheShy征服了#",
+      "rank": 26,
+      "title": "369说被TheShy征服了",
+      "topic_id": "23152209f8cb00fc5f8ca0faccce6063bf1f2f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#特朗普称对伊朗战争是选举失利原因#",
+      "rank": 27,
+      "title": "特朗普称对伊朗战争是选举失利原因",
+      "topic_id": "231522a299a1870984be33eb719155d9e66384"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#李嘉格车澈离婚原因#",
+      "rank": 28,
+      "title": "李嘉格车澈离婚原因",
+      "topic_id": "23152226d2e581e4d880b81cec678b119e256c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#罗正自曝徐艺洋退回份子钱#",
+      "rank": 29,
+      "title": "罗正自曝徐艺洋退回份子钱",
+      "topic_id": "231522d2ce45967d8c0c65393c302df2d5aa0c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#肖战四部剧都上榜了#",
+      "rank": 30,
+      "title": "肖战四部剧都上榜了",
+      "topic_id": "231522869984093f19510637d383f3e6039654"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#TheShy遭贴脸开大#",
+      "rank": 31,
+      "title": "TheShy遭贴脸开大",
+      "topic_id": "231522f436fa05de4278dd4caa5ed4df8ddbb5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#JackeyLove锐评Meiko#",
+      "rank": 32,
+      "title": "JackeyLove锐评Meiko",
+      "topic_id": "231522a2ca9485212930419130211153752d7a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#TheShy回应被369征服了#",
+      "rank": 33,
+      "title": "TheShy回应被369征服了",
+      "topic_id": "231522184a480b8f918fedef88ebf2c7a40a24"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "家电免疫力",
+      "rank": 34,
+      "title": "家电免疫力",
+      "topic_id": "2315223911c9d469ce3ceb3d1a66b4140d332e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#SM艺人明年第一季度回归计划#",
+      "rank": 35,
+      "title": "SM艺人明年第一季度回归计划",
+      "topic_id": "231522a760fd60c1c4bcb5d75fd32cb2d532a1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#贺峻霖收到研究生录取通知书的反应#",
+      "rank": 36,
+      "title": "贺峻霖收到研究生录取通知书的反应",
+      "topic_id": "231522f5aa2590a06fefdd5e0727dac5fc3ce6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#高梓淇问女友对他妹妹是不是真心的#",
+      "rank": 37,
+      "title": "高梓淇问女友对他妹妹是不是真心的",
+      "topic_id": "231522c41107072aeb566b812318fc223eac31"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王者KPL十周年版本#",
+      "rank": 38,
+      "title": "王者KPL十周年版本",
+      "topic_id": "2315226a614e96a6bd4508115b453f72b8b971"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#向公安局索赔14万亿美元二审被驳回#",
+      "rank": 39,
+      "title": "向公安局索赔14万亿美元二审被驳回",
+      "topic_id": "2315223980e1e968c829dd250c8cd87e2d184e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 7,
+      "posts": "saved",
+      "query": "#原来是曹格帮儿子追的女朋友#",
+      "rank": 40,
+      "title": "原来是曹格帮儿子追的女朋友",
+      "topic_id": "231522d80186df919f9ec015d2ade30d9f4e1b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#在福鹿家偶遇杨幂了#",
+      "rank": 41,
+      "title": "在福鹿家偶遇杨幂了",
+      "topic_id": "231522890c85b828cd51a87947fffcded9986d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "特朗普 破防",
+      "rank": 42,
+      "title": "特朗普 破防",
+      "topic_id": "231522b70470cdc177713321696823619241af"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#鹿晗点赞theweeknd#",
+      "rank": 43,
+      "title": "鹿晗点赞theweeknd",
+      "topic_id": "231522e99fcf37ca637060e4f89e1fc2167531"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#369的未来职业计划#",
+      "rank": 44,
+      "title": "369的未来职业计划",
+      "topic_id": "23152222f0761b1836a5ec14d85abb2449a462"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#小英cos迪丽热巴红毯造型#",
+      "rank": 45,
+      "title": "小英cos迪丽热巴红毯造型",
+      "topic_id": "231522108263388aadd85997a44466635ad6d6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#我承认之前对高梓淇太大声了#",
+      "rank": 46,
+      "title": "我承认之前对高梓淇太大声了",
+      "topic_id": "231522eb00b77254398682e7cd4e0c773f0aa5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#LCK解说称赞369#",
+      "rank": 47,
+      "title": "LCK解说称赞369",
+      "topic_id": "23152208344c21ce897b6b7a76d0b18ee25706"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#时代少年团听到辛苦了的反应#",
+      "rank": 48,
+      "title": "时代少年团听到辛苦了的反应",
+      "topic_id": "2315229fb4b39ee855a27a89d117d084693368"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#易烊千玺所谓传闻均为无中生有#",
+      "rank": 49,
+      "title": "易烊千玺所谓传闻均为无中生有",
+      "topic_id": "2315221fe854775456d2f5e03b54812ed4536e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#369对无畏契约玩家说我回来了#",
+      "rank": 50,
+      "title": "369对无畏契约玩家说我回来了",
+      "topic_id": "231522e8565ca5970d034cdcf935be3dee269a"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

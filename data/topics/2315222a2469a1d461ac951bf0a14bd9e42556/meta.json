@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 2615417307
   },
-  "last_seen_at": "2026-11-04T16:00:00+08:00",
+  "last_seen_at": "2026-11-04T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%9B%BD%E4%BC%9A%E5%A4%A7%E5%8F%98%E5%A4%A9%E7%89%B9%E6%9C%97%E6%99%AE%E5%89%A9%E4%BD%99%E4%BB%BB%E6%9C%9F%E6%80%8E%E4%B9%88%E5%8A%9E%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "28家媒体",
     "users": [
       {
         "id": 2615417307,
         "idstr": "2615417307",
         "screen_name": "凤凰网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1744332207,
+        "idstr": "1744332207",
+        "screen_name": "钱江视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1700720163,
+        "idstr": "1700720163",
+        "screen_name": "钱江晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,16 +44,23 @@
         "verified_type": 3
       },
       {
-        "id": 1644948230,
-        "idstr": "1644948230",
-        "screen_name": "北京头条",
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1280846847,
-        "idstr": "1280846847",
-        "screen_name": "指尖新闻-沈阳晚报",
+        "id": 7096189920,
+        "idstr": "7096189920",
+        "screen_name": "第1眼视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6362632222,
+        "idstr": "6362632222",
+        "screen_name": "小央视频",
         "verified": true,
         "verified_type": 3
       }
