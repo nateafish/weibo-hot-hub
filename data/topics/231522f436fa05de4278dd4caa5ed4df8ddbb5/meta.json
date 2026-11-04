@@ -10,11 +10,40 @@
     "status": 2,
     "uid": 5679399630
   },
-  "last_seen_at": "2026-11-04T17:00:00+08:00",
+  "last_seen_at": "2026-11-04T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23TheShy%E9%81%AD%E8%B4%B4%E8%84%B8%E5%BC%80%E5%A4%A7%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "4家媒体",
+    "users": [
+      {
+        "id": 7611147927,
+        "idstr": "7611147927",
+        "screen_name": "济南时报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6418480627,
+        "idstr": "6418480627",
+        "screen_name": "星视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5118600252,
+        "idstr": "5118600252",
+        "screen_name": "锡盟融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1711530911,
+        "idstr": "1711530911",
+        "screen_name": "新黄河",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#TheShy遭贴脸开大#",
   "search_url": "https://s.weibo.com/weibo?q=%23theshy%E9%81%AD%E8%B4%B4%E8%84%B8%E5%BC%80%E5%A4%A7%23",

@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2286092114
   },
-  "last_seen_at": "2026-11-04T17:00:00+08:00",
+  "last_seen_at": "2026-11-04T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%BD%97%E6%AD%A3%E8%87%AA%E6%9B%9D%E5%BE%90%E8%89%BA%E6%B4%8B%E9%80%80%E5%9B%9E%E4%BB%BD%E5%AD%90%E9%92%B1%23%26t%3D3&title=发布媒体",
-    "show_str": "13家媒体",
+    "show_str": "15家媒体",
     "users": [
       {
         "id": 2286092114,
@@ -23,9 +23,16 @@
         "verified_type": 3
       },
       {
-        "id": 1912416573,
-        "idstr": "1912416573",
-        "screen_name": "河南手机报",
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7202439638,
+        "idstr": "7202439638",
+        "screen_name": "乐陵融媒",
         "verified": true,
         "verified_type": 3
       },
@@ -54,13 +61,6 @@
         "id": 1943154142,
         "idstr": "1943154142",
         "screen_name": "中安在线",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1829407315,
-        "idstr": "1829407315",
-        "screen_name": "蓝媒视频官方微博",
         "verified": true,
         "verified_type": 3
       }
