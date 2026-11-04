@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2855643032
   },
-  "last_seen_at": "2026-11-04T22:00:00+08:00",
+  "last_seen_at": "2026-11-05T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%82%96%E6%88%98%E7%A9%BF%E4%BF%9D%E6%9A%96%E8%A3%A4%E8%85%BF%E8%BF%98%E9%82%A3%E4%B9%88%E7%BB%86%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "7家媒体",
     "users": [
       {
         "id": 1618051664,
         "idstr": "1618051664",
         "screen_name": "头条新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -35,6 +42,27 @@
         "screen_name": "新浪种草官",
         "verified": true,
         "verified_type": 7
+      },
+      {
+        "id": 2460937233,
+        "idstr": "2460937233",
+        "screen_name": "热度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1677991972,
+        "idstr": "1677991972",
+        "screen_name": "晶报",
+        "verified": true,
+        "verified_type": 3
       }
     ]
   },
