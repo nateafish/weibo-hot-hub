@@ -3,11 +3,61 @@
   "created_at": 1793803426,
   "first_seen_at": "2026-11-05T07:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-05T07:00:00+08:00",
+  "last_seen_at": "2026-11-05T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%8B%B9%E6%9E%9CiPhoneDuo%E8%B6%8A%E6%B5%8B%E8%B6%8A%E5%A4%B1%E6%9C%9B%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "10家媒体",
+    "users": [
+      {
+        "id": 1651428902,
+        "idstr": "1651428902",
+        "screen_name": "21世纪经济报道",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7020664161,
+        "idstr": "7020664161",
+        "screen_name": "福建经济生活频道",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6372873842,
+        "idstr": "6372873842",
+        "screen_name": "时代财经",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6013508393,
+        "idstr": "6013508393",
+        "screen_name": "环球总财",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2813313591,
+        "idstr": "2813313591",
+        "screen_name": "中新网海南",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2621516563,
+        "idstr": "2621516563",
+        "screen_name": "咸阳日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2299460371,
+        "idstr": "2299460371",
+        "screen_name": "福建电视剧频道",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "苹果iPhoneDuo越测越失望",
   "search_url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9Ciphoneduo%E8%B6%8A%E6%B5%8B%E8%B6%8A%E5%A4%B1%E6%9C%9B%23",

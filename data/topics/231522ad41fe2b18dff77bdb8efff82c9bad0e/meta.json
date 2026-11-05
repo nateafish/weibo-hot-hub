@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1645773865
   },
-  "last_seen_at": "2026-11-05T07:00:00+08:00",
+  "last_seen_at": "2026-11-05T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%88%B1%E5%90%83%E9%B1%BC%E7%9A%84%E5%B9%BF%E4%B8%9C%E4%BA%BA%E5%A4%A9%E5%A1%8C%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "16家媒体",
+    "show_str": "23家媒体",
     "users": [
       {
         "id": 7141087529,
         "idstr": "7141087529",
         "screen_name": "铁骥视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -37,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 1160746241,
+        "idstr": "1160746241",
+        "screen_name": "中国食品报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7745699370,
         "idstr": "7745699370",
         "screen_name": "粤广中视网",
@@ -44,23 +58,9 @@
         "verified_type": 2
       },
       {
-        "id": 5762891674,
-        "idstr": "5762891674",
-        "screen_name": "密度新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3901624042,
-        "idstr": "3901624042",
-        "screen_name": "山西日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2535760180,
-        "idstr": "2535760180",
-        "screen_name": "安徽视讯",
+        "id": 6013658881,
+        "idstr": "6013658881",
+        "screen_name": "视听万安",
         "verified": true,
         "verified_type": 3
       }

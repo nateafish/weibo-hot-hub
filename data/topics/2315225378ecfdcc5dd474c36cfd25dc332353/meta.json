@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 3349909324
   },
-  "last_seen_at": "2026-11-05T07:00:00+08:00",
+  "last_seen_at": "2026-11-05T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%84%82%E8%82%AA%E8%82%9D%E6%98%AF%E5%85%A8%E8%BA%AB%E4%BB%A3%E8%B0%A2%E7%B4%8A%E4%B9%B1%E7%9A%84%E9%A2%84%E8%AD%A6%E4%BF%A1%E5%8F%B7%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "25家媒体",
     "users": [
+      {
+        "id": 1651428902,
+        "idstr": "1651428902",
+        "screen_name": "21世纪经济报道",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2272985297,
         "idstr": "2272985297",
@@ -30,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 2318910945,
+        "idstr": "2318910945",
+        "screen_name": "新浪热点",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2105365573,
         "idstr": "2105365573",
         "screen_name": "威海播报",
@@ -37,16 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 1943154142,
-        "idstr": "1943154142",
-        "screen_name": "中安在线",
+        "id": 1720962692,
+        "idstr": "1720962692",
+        "screen_name": "极目新闻",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1732802301,
-        "idstr": "1732802301",
-        "screen_name": "河南交通广播",
+        "id": 1704653603,
+        "idstr": "1704653603",
+        "screen_name": "鞍山日报",
         "verified": true,
         "verified_type": 3
       }
