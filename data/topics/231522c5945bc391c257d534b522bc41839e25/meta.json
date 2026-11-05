@@ -3,11 +3,18 @@
   "created_at": 1793858042,
   "first_seen_at": "2026-11-05T16:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-05T16:00:00+08:00",
+  "last_seen_at": "2026-11-05T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%B6%8510%E4%B8%87%E5%A5%B3%E6%80%A7%E5%8E%95%E6%89%80%E8%A2%AB%E6%8B%8D%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "28家媒体",
     "users": [
+      {
+        "id": 1618051664,
+        "idstr": "1618051664",
+        "screen_name": "头条新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 5182171545,
         "idstr": "5182171545",
@@ -23,11 +30,32 @@
         "verified_type": 3
       },
       {
+        "id": 7200280790,
+        "idstr": "7200280790",
+        "screen_name": "正观特稿",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6982382342,
         "idstr": "6982382342",
         "screen_name": "搜狐科技",
         "verified": true,
         "verified_type": 3
+      },
+      {
+        "id": 6890796357,
+        "idstr": "6890796357",
+        "screen_name": "日照日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6590980486,
+        "idstr": "6590980486",
+        "screen_name": "捉谣记",
+        "verified": true,
+        "verified_type": 7
       }
     ]
   },

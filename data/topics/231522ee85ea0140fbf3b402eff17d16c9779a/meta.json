@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1699432410
   },
-  "last_seen_at": "2026-11-05T16:00:00+08:00",
+  "last_seen_at": "2026-11-05T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B9%A0%E4%B8%BB%E5%B8%AD%E5%BC%95%E9%A2%86%E6%8E%A8%E5%8A%A8%E8%BF%9B%E5%8D%9A%E4%BC%9A%E8%B6%8A%E5%8A%9E%E8%B6%8A%E5%A5%BD%23%26t%3D3&title=发布媒体",
-    "show_str": "8家媒体",
+    "show_str": "10家媒体",
     "users": [
       {
         "id": 1699432410,
         "idstr": "1699432410",
         "screen_name": "新华社",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6587633798,
+        "idstr": "6587633798",
+        "screen_name": "崇义发布",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 1987235622,
+        "idstr": "1987235622",
+        "screen_name": "丹阳日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2921799343,
         "idstr": "2921799343",
         "screen_name": "天下泉城",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2640922742,
-        "idstr": "2640922742",
-        "screen_name": "阿勒泰地区融媒体中心",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1812379667,
-        "idstr": "1812379667",
-        "screen_name": "梧州零距离网",
         "verified": true,
         "verified_type": 3
       }

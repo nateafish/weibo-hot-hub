@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-05T18:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#习主席引领推动进博会越办越好#",
+      "rank": 1,
+      "title": "习主席引领推动进博会越办越好",
+      "topic_id": "231522ee85ea0140fbf3b402eff17d16c9779a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#2027放假安排公布#",
+      "rank": 1,
+      "title": "2027放假安排公布",
+      "topic_id": "231522b174ab571a273ebf427e315153a78e50"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#端午中秋各1天假#",
+      "rank": 2,
+      "title": "端午中秋各1天假",
+      "topic_id": "231522c13458f05cdc8f83041819504b67b952"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#100秒解锁进博会亮点#",
+      "rank": 3,
+      "title": "100秒解锁进博会亮点",
+      "topic_id": "231522fa18d5c98f229a19d429d557bfb3d934"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#2027春节9天假#",
+      "rank": 4,
+      "title": "2027春节9天假",
+      "topic_id": "2315224f35b6686d58bd1a9005db033d6e5ef0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#青稚听到王子璇说不会和好表情#",
+      "rank": 5,
+      "title": "青稚听到王子璇说不会和好表情",
+      "topic_id": "2315225ba269e2f3002528ac81af80f7f76372"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#白小纯青稚排名#",
+      "rank": 6,
+      "title": "白小纯青稚排名",
+      "topic_id": "23152244402f1285588cc720772bc61e2d7c12"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#黄之锋再判10年#",
+      "rank": 7,
+      "title": "黄之锋再判10年",
+      "topic_id": "231522a07c07e327d3e9d81eed01f0962da2f3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#2027中秋端午不调休#",
+      "rank": 8,
+      "title": "2027中秋端午不调休",
+      "topic_id": "231522c7aee3f5b8c851c737eb447a2ef3e1f3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#许飞脚踹厉娜#",
+      "rank": 9,
+      "title": "许飞脚踹厉娜",
+      "topic_id": "2315228cb0807c98f2e960ea101c34a23bc7f6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#2027放假安排日历版#",
+      "rank": 10,
+      "title": "2027放假安排日历版",
+      "topic_id": "231522b74bf7c7f2755c9edba42306e6b2fee1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "王子璇口碑",
+      "rank": 11,
+      "title": "王子璇口碑",
+      "topic_id": "231522857f9cf24501de4279c0a94a8217b00b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张子萱拍穿搭视频陈赫忍不住抱她#",
+      "rank": 12,
+      "title": "张子萱拍穿搭视频陈赫忍不住抱她",
+      "topic_id": "2315229e72ffce374f7e6d76c53c4da6f93fd1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "张萌觉得马天宇认为她是老板娘",
+      "rank": 13,
+      "title": "张萌觉得马天宇认为她是老板娘",
+      "topic_id": "231522608b07d635f321d05fec95a44679af9f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "雇主辞退阿姨后称付出真心遭报应",
+      "rank": 14,
+      "title": "雇主辞退阿姨后称付出真心遭报应",
+      "topic_id": "231522cd8690932f29c24b1692245b9129b784"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#独生子女不一定能继承父母全部遗产#",
+      "rank": 15,
+      "title": "独生子女不一定能继承父母全部遗产",
+      "topic_id": "231522582a297aaab8ffa3a30749f3badbbdb7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#2027年调休减少#",
+      "rank": 16,
+      "title": "2027年调休减少",
+      "topic_id": "23152267029d5ee91a7c85d41339b87f01cd3f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#38岁男子被骗到缅甸因太老卖不掉#",
+      "rank": 17,
+      "title": "38岁男子被骗到缅甸因太老卖不掉",
+      "topic_id": "231522b4fc7a0023a88399ff3728c80524c89f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#印部长宣称中国不给盾构机就自己造#",
+      "rank": 18,
+      "title": "印部长宣称中国不给盾构机就自己造",
+      "topic_id": "231522b1ac77644180d0994878a01f5b6a3992"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#福鹿家Mi度超标#",
+      "rank": 19,
+      "title": "福鹿家Mi度超标",
+      "topic_id": "231522eb204fd1b55aa3de96595ee60b43e2c0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "AI短剧持械入宋剧情太牛",
+      "rank": 20,
+      "title": "AI短剧持械入宋剧情太牛",
+      "topic_id": "23152226b3cccd4a6aaeae5aa7ae888ac01c84"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#张泉灵可能没看懂白小纯排名#",
+      "rank": 21,
+      "title": "张泉灵可能没看懂白小纯排名",
+      "topic_id": "231522ff8123a9994e470a365ca7b13ed475aa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#卵巢癌真的很善于伪装#",
+      "rank": 22,
+      "title": "卵巢癌真的很善于伪装",
+      "topic_id": "231522fd6f0917c31f160125eaba2902ae206d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#厉娜说和许飞不会成为朋友#",
+      "rank": 23,
+      "title": "厉娜说和许飞不会成为朋友",
+      "topic_id": "2315223004bbcccbb4d2fe672eae14e668046f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#刘维回应去谢娜演唱会被指忘本#",
+      "rank": 24,
+      "title": "刘维回应去谢娜演唱会被指忘本",
+      "topic_id": "2315221a87bf0f73448e2111f5fb8b99ee9df1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#张萌看完文吉儿转账秒切老板脸#",
+      "rank": 25,
+      "title": "张萌看完文吉儿转账秒切老板脸",
+      "topic_id": "231522359a696680a1e76053e39025e1a993ef"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "超10万女性厕所被拍",
+      "rank": 26,
+      "title": "超10万女性厕所被拍",
+      "topic_id": "231522c5945bc391c257d534b522bc41839e25"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#多地宣布结婚奖钱#",
+      "rank": 27,
+      "title": "多地宣布结婚奖钱",
+      "topic_id": "231522fa05fdd5dd2654fb77dd41dd31d87da7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#卵巢癌早期症状有哪些#",
+      "rank": 28,
+      "title": "卵巢癌早期症状有哪些",
+      "topic_id": "2315228dfd47cd7b086491eacf8a5df09f5d97"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#大冰谈普通家庭的孩子未来靠什么突围#",
+      "rank": 29,
+      "title": "大冰谈普通家庭的孩子未来靠什么突围",
+      "topic_id": "231522597f714eb8e1ddcf98957370b3081fdc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "许飞问马天宇最严重的是哪一对",
+      "rank": 30,
+      "title": "许飞问马天宇最严重的是哪一对",
+      "topic_id": "2315229cba30cafb9be6277c88b6b9b7d42474"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#缅甸水牢虐待中国公民细节曝光#",
+      "rank": 31,
+      "title": "缅甸水牢虐待中国公民细节曝光",
+      "topic_id": "2315225572e1688f39a64b0cd5cb5734ecba0f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女子称应聘医院岗位被要求上交丝袜#",
+      "rank": 32,
+      "title": "女子称应聘医院岗位被要求上交丝袜",
+      "topic_id": "23152268a4a489d9acd4af17797ccc1de8d1bf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "发朋友圈要有滞后感",
+      "rank": 33,
+      "title": "发朋友圈要有滞后感",
+      "topic_id": "231522cf86aef304dad7d1a5d1d3b364000d22"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#元旦清明端午中秋不调休#",
+      "rank": 34,
+      "title": "元旦清明端午中秋不调休",
+      "topic_id": "231522d6f8b05c2fcf54f7a5b4bd25101f2e14"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#芒果今年已爆六部综艺#",
+      "rank": 35,
+      "title": "芒果今年已爆六部综艺",
+      "topic_id": "231522c820a1ee957fd6ac961ae671e9835b8f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "白小纯自称联盟前十",
+      "rank": 36,
+      "title": "白小纯自称联盟前十",
+      "topic_id": "2315229957c04fa59b8f2f1203116891c2592e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女子每天几百颗小粉丸体重不到50斤#",
+      "rank": 37,
+      "title": "女子每天几百颗小粉丸体重不到50斤",
+      "topic_id": "2315220083292b46adf83292fb1cca98dab5f4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#2027长假后最长工作日只有6天#",
+      "rank": 38,
+      "title": "2027长假后最长工作日只有6天",
+      "topic_id": "231522624274e6346e92eb5e10a488d3d2df4e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "孙子偷拿手机卖掉爷爷要回还要车费",
+      "rank": 39,
+      "title": "孙子偷拿手机卖掉爷爷要回还要车费",
+      "topic_id": "231522aad7d994e3841179ff8084119e51ff54"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "春节9天假拿两个周日换的",
+      "rank": 40,
+      "title": "春节9天假拿两个周日换的",
+      "topic_id": "23152251344153f8253798a470290245065e94"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "白小纯 加密文字",
+      "rank": 41,
+      "title": "白小纯 加密文字",
+      "topic_id": "231522168c3e91256d436d46bc9dbdbf8bc424"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#小学招跟岗教师无薪资不包食宿#",
+      "rank": 42,
+      "title": "小学招跟岗教师无薪资不包食宿",
+      "topic_id": "23152251d4ebec68b187669cbe6733e83102eb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "结婚登记同比减少50.4万对",
+      "rank": 43,
+      "title": "结婚登记同比减少50.4万对",
+      "topic_id": "2315227b23499ee2c5568076cfd8f5d71fbfaf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#克莱绝杀快船#",
+      "rank": 44,
+      "title": "克莱绝杀快船",
+      "topic_id": "2315226b6939ccff157b752d26992382705469"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#10串10串又10串#",
+      "rank": 45,
+      "title": "10串10串又10串",
+      "topic_id": "23152234da9915c80cb2dbef7593775f0948c0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#女子用筋膜枪打肚子减赘肉查出卵巢癌#",
+      "rank": 46,
+      "title": "女子用筋膜枪打肚子减赘肉查出卵巢癌",
+      "topic_id": "23152235004b045bef2e83641c46d9f79311b5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#第一个拒绝吴磊拥抱的女人出现了#",
+      "rank": 47,
+      "title": "第一个拒绝吴磊拥抱的女人出现了",
+      "topic_id": "231522e157cbcbd57be3b7ac99366c8cbf2d44"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#陈晓卿带李诞回老家拍美食#",
+      "rank": 48,
+      "title": "陈晓卿带李诞回老家拍美食",
+      "topic_id": "2315229fb293d121db2183885605ca37ff0eb3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#一图看2027节假日怎么放#",
+      "rank": 49,
+      "title": "一图看2027节假日怎么放",
+      "topic_id": "23152215db0ffcd7286edbf71b51850d2e5919"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "超64万辆汽车将被召回 涉多个品牌",
+      "rank": 50,
+      "title": "超64万辆汽车将被召回 涉多个品牌",
+      "topic_id": "2315221b294acb003624bc4b5f0199cbbb1aee"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
