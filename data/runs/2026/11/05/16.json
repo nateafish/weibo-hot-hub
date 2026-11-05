@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-05T16:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#习主席引领推动进博会越办越好#",
+      "rank": 1,
+      "title": "习主席引领推动进博会越办越好",
+      "topic_id": "231522ee85ea0140fbf3b402eff17d16c9779a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#黄之锋再判10年#",
+      "rank": 1,
+      "title": "黄之锋再判10年",
+      "topic_id": "231522a07c07e327d3e9d81eed01f0962da2f3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "AI短剧持械入宋剧情太牛",
+      "rank": 2,
+      "title": "AI短剧持械入宋剧情太牛",
+      "topic_id": "23152226b3cccd4a6aaeae5aa7ae888ac01c84"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#第九届进博会亮点扎堆#",
+      "rank": 3,
+      "title": "第九届进博会亮点扎堆",
+      "topic_id": "231522c969ce1b49c8bc1bbb38ff27b8ca0b4b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#厉娜说和许飞不会成为朋友#",
+      "rank": 4,
+      "title": "厉娜说和许飞不会成为朋友",
+      "topic_id": "2315223004bbcccbb4d2fe672eae14e668046f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#独生子女不一定能继承父母全部遗产#",
+      "rank": 5,
+      "title": "独生子女不一定能继承父母全部遗产",
+      "topic_id": "231522582a297aaab8ffa3a30749f3badbbdb7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#男子买金亏114万割肉后隔天大涨#",
+      "rank": 6,
+      "title": "男子买金亏114万割肉后隔天大涨",
+      "topic_id": "231522c45cc2c5d769ec180b6e76b1460035b5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#克莱绝杀快船#",
+      "rank": 7,
+      "title": "克莱绝杀快船",
+      "topic_id": "2315226b6939ccff157b752d26992382705469"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#芒果今年已爆六部综艺#",
+      "rank": 8,
+      "title": "芒果今年已爆六部综艺",
+      "topic_id": "231522c820a1ee957fd6ac961ae671e9835b8f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 0,
+      "posts": "saved",
+      "query": "许飞问马天宇最严重的是哪一对",
+      "rank": 9,
+      "title": "许飞问马天宇最严重的是哪一对",
+      "topic_id": "2315229cba30cafb9be6277c88b6b9b7d42474"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#白小纯青稚不是PEL递上去的第一对#",
+      "rank": 10,
+      "title": "白小纯青稚不是PEL递上去的第一对",
+      "topic_id": "231522dae4afc1427cf8ef9c01c4cf2580988d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#文吉儿觉得收下钱是帮王子璇翻篇#",
+      "rank": 11,
+      "title": "文吉儿觉得收下钱是帮王子璇翻篇",
+      "topic_id": "231522567c77a5301bb8ff2680aaafe493c16c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张子萱拍穿搭视频陈赫忍不住抱她#",
+      "rank": 12,
+      "title": "张子萱拍穿搭视频陈赫忍不住抱她",
+      "topic_id": "2315229e72ffce374f7e6d76c53c4da6f93fd1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#文班亚马52分24板8帽#",
+      "rank": 13,
+      "title": "文班亚马52分24板8帽",
+      "topic_id": "231522cbe18576613217cf110c6bfd898807df"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#张泉灵可能没看懂白小纯排名#",
+      "rank": 14,
+      "title": "张泉灵可能没看懂白小纯排名",
+      "topic_id": "231522ff8123a9994e470a365ca7b13ed475aa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "大冰分享很可能发大财的行业",
+      "rank": 15,
+      "title": "大冰分享很可能发大财的行业",
+      "topic_id": "2315227110b05287b042149fc4e0ee342b63e5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "商南刑案 秦岭山林搜捕难",
+      "rank": 16,
+      "title": "商南刑案 秦岭山林搜捕难",
+      "topic_id": "231522acf40d32903a4cd00ff4f0e7ae339289"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#第一个拒绝吴磊拥抱的女人出现了#",
+      "rank": 17,
+      "title": "第一个拒绝吴磊拥抱的女人出现了",
+      "topic_id": "231522e157cbcbd57be3b7ac99366c8cbf2d44"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#文吉儿当着镜头的面把转账收了#",
+      "rank": 18,
+      "title": "文吉儿当着镜头的面把转账收了",
+      "topic_id": "231522a413082ed1535a3d8938fd3ce6cadb79"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "超10万女性厕所被拍",
+      "rank": 19,
+      "title": "超10万女性厕所被拍",
+      "topic_id": "231522c5945bc391c257d534b522bc41839e25"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#印部长扬言不会向中国乞求盾构机#",
+      "rank": 20,
+      "title": "印部长扬言不会向中国乞求盾构机",
+      "topic_id": "2315220bea1e36f8be04099425c83822ff73d2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#43岁未婚未育女子决定领养闺蜜#",
+      "rank": 21,
+      "title": "43岁未婚未育女子决定领养闺蜜",
+      "topic_id": "231522595b1de43a2708ba09ff3156fceb9310"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "白小纯青稚 文盲吵架",
+      "rank": 22,
+      "title": "白小纯青稚 文盲吵架",
+      "topic_id": "2315227f9334f082d5c8f0b16080e5a15e8e70"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#抖音副总裁再发声#",
+      "rank": 23,
+      "title": "抖音副总裁再发声",
+      "topic_id": "23152284fef2ae67c3c39ca678dba949f18714"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#38岁男子被骗到缅甸因太老卖不掉#",
+      "rank": 24,
+      "title": "38岁男子被骗到缅甸因太老卖不掉",
+      "topic_id": "231522b4fc7a0023a88399ff3728c80524c89f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#卵巢癌早期症状有哪些#",
+      "rank": 25,
+      "title": "卵巢癌早期症状有哪些",
+      "topic_id": "2315228dfd47cd7b086491eacf8a5df09f5d97"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女子用筋膜枪打肚子减赘肉查出卵巢癌#",
+      "rank": 26,
+      "title": "女子用筋膜枪打肚子减赘肉查出卵巢癌",
+      "topic_id": "23152235004b045bef2e83641c46d9f79311b5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#B站成台湾人最喜欢的视频平台之一#",
+      "rank": 27,
+      "title": "B站成台湾人最喜欢的视频平台之一",
+      "topic_id": "2315220f03290343ea25dcd80c584d8ca2323e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#大冰谈普通家庭的孩子未来靠什么突围#",
+      "rank": 28,
+      "title": "大冰谈普通家庭的孩子未来靠什么突围",
+      "topic_id": "231522597f714eb8e1ddcf98957370b3081fdc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#10串10串又10串#",
+      "rank": 29,
+      "title": "10串10串又10串",
+      "topic_id": "23152234da9915c80cb2dbef7593775f0948c0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "张萌觉得马天宇认为她是老板娘",
+      "rank": 30,
+      "title": "张萌觉得马天宇认为她是老板娘",
+      "topic_id": "231522608b07d635f321d05fec95a44679af9f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#NBA回应文班亚马52分24板8帽#",
+      "rank": 31,
+      "title": "NBA回应文班亚马52分24板8帽",
+      "topic_id": "2315222a03650d2d7880c896be9c39dace177c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "孙子偷拿手机卖掉爷爷要回还要车费",
+      "rank": 32,
+      "title": "孙子偷拿手机卖掉爷爷要回还要车费",
+      "topic_id": "231522aad7d994e3841179ff8084119e51ff54"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#奥尼尔谈文班亚马砍52分#",
+      "rank": 33,
+      "title": "奥尼尔谈文班亚马砍52分",
+      "topic_id": "23152261928c7b5865cbd5352713a0c10209fe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "金价",
+      "rank": 34,
+      "title": "金价",
+      "topic_id": "2315220939143c10eef68103b7bae2fe235d9e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝85花齐聚W盛典#",
+      "rank": 35,
+      "title": "曝85花齐聚W盛典",
+      "topic_id": "23152252a6ec1e9284164e654528f001ef6d4f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#女子称应聘医院岗位被要求上交丝袜#",
+      "rank": 36,
+      "title": "女子称应聘医院岗位被要求上交丝袜",
+      "topic_id": "23152268a4a489d9acd4af17797ccc1de8d1bf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女厕偷拍者有女性甚至夫妻#",
+      "rank": 37,
+      "title": "女厕偷拍者有女性甚至夫妻",
+      "topic_id": "231522cc9d75b60a1a9e1b068b7eb944790d15"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "BLG Smoggy",
+      "rank": 38,
+      "title": "BLG Smoggy",
+      "topic_id": "231522f299be049ee8ed7e1fd94e5ae3b853d2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王子璇道歉#",
+      "rank": 39,
+      "title": "王子璇道歉",
+      "topic_id": "231522348dbd5e478e87783785f2a814b7cf0d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#被烧伤男生父亲二审路上崩溃大哭#",
+      "rank": 40,
+      "title": "被烧伤男生父亲二审路上崩溃大哭",
+      "topic_id": "2315223690913383b353ed7ace04df6fe11621"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#有人把手机密码设成手机生日#",
+      "rank": 41,
+      "title": "有人把手机密码设成手机生日",
+      "topic_id": "231522de008c1a539f88f4ea4409b873a47a28"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#赵丽颖出发金鸡创投大会#",
+      "rank": 42,
+      "title": "赵丽颖出发金鸡创投大会",
+      "topic_id": "231522565ebb49f8d8037cb16071dda97bf0d7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#前三季度全国结婚登记464.8万对#",
+      "rank": 43,
+      "title": "前三季度全国结婚登记464.8万对",
+      "topic_id": "231522649865dea6f13b691a1a8024eecfda67"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "马兴瑞被控受贿数额特别巨大",
+      "rank": 44,
+      "title": "马兴瑞被控受贿数额特别巨大",
+      "topic_id": "2315227212cc1cc7b6d87169ff8066db251262"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#波司登AREAL这阵容是天花板级吧#",
+      "rank": 45,
+      "title": "波司登AREAL这阵容是天花板级吧",
+      "topic_id": "2315224e61ae21514eb81eb475e1ecfdd63cd8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#唐嫣当选上海浦东文联副主席#",
+      "rank": 46,
+      "title": "唐嫣当选上海浦东文联副主席",
+      "topic_id": "2315223495db80e1e0ecad95d87fa94aade6fd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "高市早苗称书法是日本宝贵文化",
+      "rank": 47,
+      "title": "高市早苗称书法是日本宝贵文化",
+      "topic_id": "231522da9ff8ba5539cfa19374ea06a543937d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "欧文绝杀不中",
+      "rank": 48,
+      "title": "欧文绝杀不中",
+      "topic_id": "231522971653b4a3e61f5d9407d47aa6558770"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#马天宇越过张萌找张萌老公道歉#",
+      "rank": 49,
+      "title": "马天宇越过张萌找张萌老公道歉",
+      "topic_id": "231522244b13a5ff1b782da7205beb107f5b75"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#问界新M8大规模进入华为体验店#",
+      "rank": 50,
+      "title": "问界新M8大规模进入华为体验店",
+      "topic_id": "23152294dec0cc68adc0df2c9103a417801e5e"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
