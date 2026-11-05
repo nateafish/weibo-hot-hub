@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2656274875
   },
-  "last_seen_at": "2026-11-05T22:00:00+08:00",
+  "last_seen_at": "2026-11-05T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%232027%E6%94%BE%E5%81%87%E5%AE%89%E6%8E%92%E5%85%AC%E5%B8%83%23%26t%3D3&title=发布媒体",
-    "show_str": "361家媒体",
+    "show_str": "367家媒体",
     "users": [
       {
         "id": 2656274875,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 2115259662,
+        "idstr": "2115259662",
+        "screen_name": "洪观新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2087169013,
         "idstr": "2087169013",
         "screen_name": "法治日报",
@@ -54,13 +61,6 @@
         "id": 2824067765,
         "idstr": "2824067765",
         "screen_name": "贺州日报官微",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2308711425,
-        "idstr": "2308711425",
-        "screen_name": "新疆日报",
         "verified": true,
         "verified_type": 3
       }

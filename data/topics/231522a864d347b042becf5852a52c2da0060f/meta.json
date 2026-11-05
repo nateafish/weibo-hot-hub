@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1649173367
   },
-  "last_seen_at": "2026-11-05T22:00:00+08:00",
+  "last_seen_at": "2026-11-05T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%B1%B1%E5%A7%86%E5%8D%96%E5%A7%8B%E7%A5%96%E9%B8%9F%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "13家媒体",
+    "show_str": "15家媒体",
     "users": [
       {
         "id": 1649173367,
@@ -26,6 +26,13 @@
         "id": 1651428902,
         "idstr": "1651428902",
         "screen_name": "21世纪经济报道",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1801817195,
+        "idstr": "1801817195",
+        "screen_name": "辽沈晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -51,16 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2950854882,
-        "idstr": "2950854882",
-        "screen_name": "英伦圈",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2660807713,
-        "idstr": "2660807713",
-        "screen_name": "财经新媒体",
+        "id": 5388240201,
+        "idstr": "5388240201",
+        "screen_name": "南阳日报",
         "verified": true,
         "verified_type": 3
       }

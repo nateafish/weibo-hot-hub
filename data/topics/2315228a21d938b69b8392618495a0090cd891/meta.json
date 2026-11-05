@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 1644088831
   },
-  "last_seen_at": "2026-11-05T22:00:00+08:00",
+  "last_seen_at": "2026-11-05T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%AC%AC%E4%BA%8C%E4%BB%A3%E6%B5%B7%E8%B1%B907%E5%85%A8%E8%83%BD%E9%85%8D%E7%BD%AE%E5%A4%AA%E5%A4%AF%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "3家媒体",
     "users": [
       {
         "id": 1981141871,
         "idstr": "1981141871",
         "screen_name": "扬子汽车",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1963106735,
+        "idstr": "1963106735",
+        "screen_name": "搜狐汽车",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1862417074,
+        "idstr": "1862417074",
+        "screen_name": "轿车情报杂志",
         "verified": true,
         "verified_type": 3
       }
