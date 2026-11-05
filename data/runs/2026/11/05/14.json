@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-05T14:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#重温习主席的乌镇网事#",
+      "rank": 1,
+      "title": "重温习主席的乌镇网事",
+      "topic_id": "231522ab1a0a525a6ae5b9f07daf1c6874f554"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "白小纯青稚 文盲吵架",
+      "rank": 1,
+      "title": "白小纯青稚 文盲吵架",
+      "topic_id": "2315227f9334f082d5c8f0b16080e5a15e8e70"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女子用筋膜枪打肚子减赘肉查出卵巢癌#",
+      "rank": 2,
+      "title": "女子用筋膜枪打肚子减赘肉查出卵巢癌",
+      "topic_id": "23152235004b045bef2e83641c46d9f79311b5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#第九届进博会亮点扎堆#",
+      "rank": 3,
+      "title": "第九届进博会亮点扎堆",
+      "topic_id": "231522c969ce1b49c8bc1bbb38ff27b8ca0b4b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#文班亚马52分24板8帽#",
+      "rank": 4,
+      "title": "文班亚马52分24板8帽",
+      "topic_id": "231522cbe18576613217cf110c6bfd898807df"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#38岁男子被骗到缅甸因太老卖不掉#",
+      "rank": 5,
+      "title": "38岁男子被骗到缅甸因太老卖不掉",
+      "topic_id": "231522b4fc7a0023a88399ff3728c80524c89f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王子璇说不想跟文吉儿做朋友了#",
+      "rank": 6,
+      "title": "王子璇说不想跟文吉儿做朋友了",
+      "topic_id": "23152274ba934867b0da42afa6276b1b0fd4d0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#芒果今年已爆六部综艺#",
+      "rank": 7,
+      "title": "芒果今年已爆六部综艺",
+      "topic_id": "231522c820a1ee957fd6ac961ae671e9835b8f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#黄之锋再判10年#",
+      "rank": 8,
+      "title": "黄之锋再判10年",
+      "topic_id": "231522a07c07e327d3e9d81eed01f0962da2f3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女厕偷拍者有女性甚至夫妻#",
+      "rank": 9,
+      "title": "女厕偷拍者有女性甚至夫妻",
+      "topic_id": "231522cc9d75b60a1a9e1b068b7eb944790d15"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "欧文绝杀不中",
+      "rank": 10,
+      "title": "欧文绝杀不中",
+      "topic_id": "231522971653b4a3e61f5d9407d47aa6558770"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "王子璇把3万还给文吉儿了",
+      "rank": 11,
+      "title": "王子璇把3万还给文吉儿了",
+      "topic_id": "231522cdad766bd648c55d8c90a2516bfc8cde"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#陕西重大刑案伤者中包括民警#",
+      "rank": 12,
+      "title": "陕西重大刑案伤者中包括民警",
+      "topic_id": "23152242bbe8eb89adddaedc3aa67f1281b328"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#厉娜说和许飞不会成为朋友#",
+      "rank": 13,
+      "title": "厉娜说和许飞不会成为朋友",
+      "topic_id": "2315223004bbcccbb4d2fe672eae14e668046f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "大冰分享很可能发大财的行业",
+      "rank": 14,
+      "title": "大冰分享很可能发大财的行业",
+      "topic_id": "2315227110b05287b042149fc4e0ee342b63e5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#马天宇越过张萌找张萌老公道歉#",
+      "rank": 15,
+      "title": "马天宇越过张萌找张萌老公道歉",
+      "topic_id": "231522244b13a5ff1b782da7205beb107f5b75"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#28岁幼师孕晚期咳嗽数月突发重症#",
+      "rank": 16,
+      "title": "28岁幼师孕晚期咳嗽数月突发重症",
+      "topic_id": "23152216cb4a6aa16c637746f8a1c5d08b7807"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#云旗郝熠然冬日邂逅#",
+      "rank": 17,
+      "title": "云旗郝熠然冬日邂逅",
+      "topic_id": "2315221cb633ac3b844a9b8e9674b3c1ea27a1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#第一个拒绝吴磊拥抱的女人出现了#",
+      "rank": 18,
+      "title": "第一个拒绝吴磊拥抱的女人出现了",
+      "topic_id": "231522e157cbcbd57be3b7ac99366c8cbf2d44"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#肖战以前跑龙套也在C位#",
+      "rank": 19,
+      "title": "肖战以前跑龙套也在C位",
+      "topic_id": "231522546559aaf9874082536144a72c176b99"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "AI短剧持械入宋剧情太牛",
+      "rank": 20,
+      "title": "AI短剧持械入宋剧情太牛",
+      "topic_id": "23152226b3cccd4a6aaeae5aa7ae888ac01c84"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#三甲医生回应公司的灯会让人变胖#",
+      "rank": 21,
+      "title": "三甲医生回应公司的灯会让人变胖",
+      "topic_id": "23152248c063cff6b4dc58e9d20d724bf19a26"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#文班亚马史诗级数据#",
+      "rank": 22,
+      "title": "文班亚马史诗级数据",
+      "topic_id": "231522478eba98a6f4e44290acba77f529c5eb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "金价",
+      "rank": 23,
+      "title": "金价",
+      "topic_id": "2315220939143c10eef68103b7bae2fe235d9e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "大学生无偿代跑拒绝供出同学",
+      "rank": 24,
+      "title": "大学生无偿代跑拒绝供出同学",
+      "topic_id": "2315220efaab31a61d1a2c313e1e4abf19d5cd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#唐嫣当选上海浦东文联副主席#",
+      "rank": 25,
+      "title": "唐嫣当选上海浦东文联副主席",
+      "topic_id": "2315223495db80e1e0ecad95d87fa94aade6fd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "原来过日子人是这样用瑜伽垫的",
+      "rank": 26,
+      "title": "原来过日子人是这样用瑜伽垫的",
+      "topic_id": "231522faf751e162780d6c47ec378cca7964ee"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张子萱拍穿搭视频陈赫忍不住抱她#",
+      "rank": 27,
+      "title": "张子萱拍穿搭视频陈赫忍不住抱她",
+      "topic_id": "2315229e72ffce374f7e6d76c53c4da6f93fd1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王皓史策合体带火京东纸巾#",
+      "rank": 28,
+      "title": "王皓史策合体带火京东纸巾",
+      "topic_id": "2315226ecdec7b1ecad118fd0c37edcbcb583d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#赵丽颖出发厦门#",
+      "rank": 29,
+      "title": "赵丽颖出发厦门",
+      "topic_id": "23152294a0dd1c8d8bca401b772fd209e9c106"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "高市早苗称书法是日本宝贵文化",
+      "rank": 30,
+      "title": "高市早苗称书法是日本宝贵文化",
+      "topic_id": "231522da9ff8ba5539cfa19374ea06a543937d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "白小纯的偶像",
+      "rank": 31,
+      "title": "白小纯的偶像",
+      "topic_id": "2315227090df52e93ef3122f18a680d53270b0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#2026巅峰之夜节目单#",
+      "rank": 32,
+      "title": "2026巅峰之夜节目单",
+      "topic_id": "2315226f8c97745d3e5c2502b3894be38e9bbe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#Crisp预测DK三比一BLG#",
+      "rank": 33,
+      "title": "Crisp预测DK三比一BLG",
+      "topic_id": "2315229fa2ebd99c07846327b2bdc6a4f8c2ae"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#Ruler力挺JiaQi#",
+      "rank": 34,
+      "title": "Ruler力挺JiaQi",
+      "topic_id": "2315220e41668129e794bf982246ed84c04393"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#A股又突变#",
+      "rank": 35,
+      "title": "A股又突变",
+      "topic_id": "23152290356cafbe8a8b6b6d5d9241cdfe035a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#内存涨价就是为了做这些东西吗#",
+      "rank": 36,
+      "title": "内存涨价就是为了做这些东西吗",
+      "topic_id": "23152231d8482342cdba010d89e1ec87f622a1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#森林狼火箭爆发冲突#",
+      "rank": 37,
+      "title": "森林狼火箭爆发冲突",
+      "topic_id": "231522b0a3c153a6195a49f7aeeb3a6a7e2f29"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#黄金突然大涨原因#",
+      "rank": 38,
+      "title": "黄金突然大涨原因",
+      "topic_id": "2315228d9577bfc7d792ea0bdba3383b907eaf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#马天宇问白小纯青稚和好啦#",
+      "rank": 39,
+      "title": "马天宇问白小纯青稚和好啦",
+      "topic_id": "2315223fa614da2add6e890daae75d601a4ec7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#TOP登陆少年地库cha#",
+      "rank": 40,
+      "title": "TOP登陆少年地库cha",
+      "topic_id": "231522e8beff546326772903e9d7b78e29e0bc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#曝宗师加入AG打野#",
+      "rank": 41,
+      "title": "曝宗师加入AG打野",
+      "topic_id": "231522a5991ae181156a13e7b59a03c5518434"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#肖战叫彭楚粤彭制作人#",
+      "rank": 42,
+      "title": "肖战叫彭楚粤彭制作人",
+      "topic_id": "23152271c4bf94f6958a6102cc1dee4230b02c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "许飞 这是厉娜的位置",
+      "rank": 43,
+      "title": "许飞 这是厉娜的位置",
+      "topic_id": "23152280911f277475f1f2facd71e0accfa630"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#何炅预测后会友期会爆#",
+      "rank": 44,
+      "title": "何炅预测后会友期会爆",
+      "topic_id": "2315224f6db42ad6b82cd09dd4a53c249d67ed"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "和平精英",
+      "rank": 45,
+      "title": "和平精英",
+      "topic_id": "23152211d6e5c3b8641062e9ae6b7b26604ba5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "郭晓东庆祝结婚十九周年",
+      "rank": 46,
+      "title": "郭晓东庆祝结婚十九周年",
+      "topic_id": "2315229350c477a68344841c1c3278295ef579"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#杜华用AI短视频给许飞道歉#",
+      "rank": 47,
+      "title": "杜华用AI短视频给许飞道歉",
+      "topic_id": "231522dfa3899cf47283169b4f51f2759c91ae"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#丞磊被问理想型就差把名字说出来了#",
+      "rank": 48,
+      "title": "丞磊被问理想型就差把名字说出来了",
+      "topic_id": "231522abb18a4e5996deb2dcde7309854cd101"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#大金镯子早买几天省出一部手机#",
+      "rank": 49,
+      "title": "大金镯子早买几天省出一部手机",
+      "topic_id": "231522571edc2e10d9dabedd372b546708ee37"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "极氪7X抄底还是等新款",
+      "rank": 50,
+      "title": "极氪7X抄底还是等新款",
+      "topic_id": "23152257dce3900981711efe38784895aeccaa"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

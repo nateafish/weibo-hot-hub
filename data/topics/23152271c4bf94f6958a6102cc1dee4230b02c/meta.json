@@ -10,11 +10,25 @@
     "status": 2,
     "uid": 2572247607
   },
-  "last_seen_at": "2026-11-05T13:00:00+08:00",
+  "last_seen_at": "2026-11-05T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%82%96%E6%88%98%E5%8F%AB%E5%BD%AD%E6%A5%9A%E7%B2%A4%E5%BD%AD%E5%88%B6%E4%BD%9C%E4%BA%BA%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "7家媒体",
     "users": [
+      {
+        "id": 6444725927,
+        "idstr": "6444725927",
+        "screen_name": "吉祥新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2992050891,
         "idstr": "2992050891",
@@ -23,9 +37,9 @@
         "verified_type": 3
       },
       {
-        "id": 6444725927,
-        "idstr": "6444725927",
-        "screen_name": "吉祥新闻",
+        "id": 3514732862,
+        "idstr": "3514732862",
+        "screen_name": "广西日报",
         "verified": true,
         "verified_type": 3
       },
@@ -47,13 +61,6 @@
         "id": 1594590224,
         "idstr": "1594590224",
         "screen_name": "博客天下",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1288429914,
-        "idstr": "1288429914",
-        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       }

@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 7087906569
   },
-  "last_seen_at": "2026-11-05T13:00:00+08:00",
+  "last_seen_at": "2026-11-05T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%2338%E5%B2%81%E7%94%B7%E5%AD%90%E8%A2%AB%E9%AA%97%E5%88%B0%E7%BC%85%E7%94%B8%E5%9B%A0%E5%A4%AA%E8%80%81%E5%8D%96%E4%B8%8D%E6%8E%89%23%26t%3D3&title=发布媒体",
-    "show_str": "28家媒体",
+    "show_str": "44家媒体",
     "users": [
       {
         "id": 7087906569,
@@ -30,6 +30,13 @@
         "verified_type": 3
       },
       {
+        "id": 2075245652,
+        "idstr": "2075245652",
+        "screen_name": "长春晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2615417307,
         "idstr": "2615417307",
         "screen_name": "凤凰网",
@@ -37,9 +44,9 @@
         "verified_type": 3
       },
       {
-        "id": 1806128454,
-        "idstr": "1806128454",
-        "screen_name": "凤凰网国际",
+        "id": 2628314830,
+        "idstr": "2628314830",
+        "screen_name": "合肥晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -51,18 +58,11 @@
         "verified_type": 3
       },
       {
-        "id": 1267454277,
-        "idstr": "1267454277",
-        "screen_name": "凤凰周刊",
+        "id": 1806128454,
+        "idstr": "1806128454",
+        "screen_name": "凤凰网国际",
         "verified": true,
         "verified_type": 3
-      },
-      {
-        "id": 7745699370,
-        "idstr": "7745699370",
-        "screen_name": "粤广中视网",
-        "verified": true,
-        "verified_type": 2
       }
     ]
   },
