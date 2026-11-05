@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 1790550774
   },
-  "last_seen_at": "2026-11-05T18:00:00+08:00",
+  "last_seen_at": "2026-11-05T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%8E%8B%E5%AD%90%E7%92%87%E5%8F%A3%E7%A2%91%23%26t%3D3&title=发布媒体",
-    "show_str": "14家媒体",
+    "show_str": "23家媒体",
     "users": [
+      {
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2460937233,
         "idstr": "2460937233",
         "screen_name": "热度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497087080,
+        "idstr": "1497087080",
+        "screen_name": "羊城晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,9 +51,9 @@
         "verified_type": 3
       },
       {
-        "id": 2252846093,
-        "idstr": "2252846093",
-        "screen_name": "长春新闻",
+        "id": 2010802407,
+        "idstr": "2010802407",
+        "screen_name": "中国台州网",
         "verified": true,
         "verified_type": 3
       },
@@ -40,27 +61,6 @@
         "id": 1975995305,
         "idstr": "1975995305",
         "screen_name": "西安晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1880922220,
-        "idstr": "1880922220",
-        "screen_name": "金华晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1856446532,
-        "idstr": "1856446532",
-        "screen_name": "合新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1806505430,
-        "idstr": "1806505430",
-        "screen_name": "合肥网—安徽商报官方网站",
         "verified": true,
         "verified_type": 3
       }

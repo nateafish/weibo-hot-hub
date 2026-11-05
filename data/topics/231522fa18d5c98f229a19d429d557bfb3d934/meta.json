@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2803301701
   },
-  "last_seen_at": "2026-11-05T18:00:00+08:00",
+  "last_seen_at": "2026-11-05T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23100%E7%A7%92%E8%A7%A3%E9%94%81%E8%BF%9B%E5%8D%9A%E4%BC%9A%E4%BA%AE%E7%82%B9%23%26t%3D3&title=发布媒体",
-    "show_str": "40家媒体",
+    "show_str": "48家媒体",
     "users": [
       {
         "id": 2803301701,
@@ -26,6 +26,20 @@
         "id": 6715513747,
         "idstr": "6715513747",
         "screen_name": "宁县融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 6587633798,
         "idstr": "6587633798",
         "screen_name": "崇义发布",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2685336121,
-        "idstr": "2685336121",
-        "screen_name": "南宁晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2612146692,
-        "idstr": "2612146692",
-        "screen_name": "凉山日报",
         "verified": true,
         "verified_type": 3
       }

@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 7087906569
   },
-  "last_seen_at": "2026-11-05T18:00:00+08:00",
+  "last_seen_at": "2026-11-05T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%2338%E5%B2%81%E7%94%B7%E5%AD%90%E8%A2%AB%E9%AA%97%E5%88%B0%E7%BC%85%E7%94%B8%E5%9B%A0%E5%A4%AA%E8%80%81%E5%8D%96%E4%B8%8D%E6%8E%89%23%26t%3D3&title=发布媒体",
-    "show_str": "65家媒体",
+    "show_str": "68家媒体",
     "users": [
       {
         "id": 7087906569,
@@ -37,6 +37,20 @@
         "verified_type": 3
       },
       {
+        "id": 5550357934,
+        "idstr": "5550357934",
+        "screen_name": "动静贵州",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6140533125,
+        "idstr": "6140533125",
+        "screen_name": "冬呱视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2615417307,
         "idstr": "2615417307",
         "screen_name": "凤凰网",
@@ -47,20 +61,6 @@
         "id": 2628314830,
         "idstr": "2628314830",
         "screen_name": "合肥晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2318910945,
-        "idstr": "2318910945",
-        "screen_name": "新浪热点",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1928118655,
-        "idstr": "1928118655",
-        "screen_name": "凤凰读书",
         "verified": true,
         "verified_type": 3
       }
