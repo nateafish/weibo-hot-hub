@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 3266943013
   },
-  "last_seen_at": "2026-11-05T11:00:00+08:00",
+  "last_seen_at": "2026-11-05T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%AC%AC%E4%B9%9D%E5%B1%8A%E8%BF%9B%E5%8D%9A%E4%BC%9A%E4%BA%AE%E7%82%B9%E6%89%8E%E5%A0%86%23%26t%3D3&title=发布媒体",
-    "show_str": "13家媒体",
+    "show_str": "42家媒体",
     "users": [
+      {
+        "id": 1681029540,
+        "idstr": "1681029540",
+        "screen_name": "新民周刊",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 3266943013,
         "idstr": "3266943013",
         "screen_name": "央视网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2001789077,
+        "idstr": "2001789077",
+        "screen_name": "兵团日报",
         "verified": true,
         "verified_type": 3
       },
@@ -37,30 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 2001789077,
-        "idstr": "2001789077",
-        "screen_name": "兵团日报",
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 5118600252,
-        "idstr": "5118600252",
-        "screen_name": "锡盟融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3229916011,
-        "idstr": "3229916011",
-        "screen_name": "冀时新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2709473301,
-        "idstr": "2709473301",
-        "screen_name": "巴西南美侨报",
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       }
