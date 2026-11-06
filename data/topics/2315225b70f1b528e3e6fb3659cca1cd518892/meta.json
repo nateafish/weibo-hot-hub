@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 3266943013
   },
-  "last_seen_at": "2026-11-06T12:00:00+08:00",
+  "last_seen_at": "2026-11-06T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23120%E7%A7%92%E6%84%9F%E5%8F%97%E8%BF%9B%E5%8D%9A%E7%A3%81%E5%90%B8%E5%8A%9B%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "8家媒体",
     "users": [
       {
         "id": 3266943013,
         "idstr": "3266943013",
         "screen_name": "央视网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5608027665,
+        "idstr": "5608027665",
+        "screen_name": "中国环境",
         "verified": true,
         "verified_type": 3
       },
@@ -30,9 +37,30 @@
         "verified_type": 3
       },
       {
+        "id": 2648560444,
+        "idstr": "2648560444",
+        "screen_name": "楚雄州融媒体中心",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2460937233,
         "idstr": "2460937233",
         "screen_name": "热度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2001789077,
+        "idstr": "2001789077",
+        "screen_name": "兵团日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2813313591,
+        "idstr": "2813313591",
+        "screen_name": "中新网海南",
         "verified": true,
         "verified_type": 3
       }
