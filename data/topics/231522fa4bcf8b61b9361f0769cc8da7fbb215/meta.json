@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 5351798445
   },
-  "last_seen_at": "2026-11-06T16:00:00+08:00",
+  "last_seen_at": "2026-11-06T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E9%AB%98%E4%BC%9A%E5%A0%AA%E6%AF%94QQ%E7%A9%BA%E9%97%B4%23%26t%3D3&title=发布媒体",
-    "show_str": "7家媒体",
+    "show_str": "8家媒体",
     "users": [
+      {
+        "id": 7740926033,
+        "idstr": "7740926033",
+        "screen_name": "荔枝大文娱",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 7596699767,
         "idstr": "7596699767",
@@ -56,13 +63,6 @@
         "screen_name": "荔枝新闻",
         "verified": true,
         "verified_type": 3
-      },
-      {
-        "id": 1709343950,
-        "idstr": "1709343950",
-        "screen_name": "希望文艺",
-        "verified": true,
-        "verified_type": 2
       }
     ]
   },

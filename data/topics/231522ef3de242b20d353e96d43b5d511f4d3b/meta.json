@@ -3,11 +3,18 @@
   "created_at": 1793944828,
   "first_seen_at": "2026-11-06T14:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-06T16:00:00+08:00",
+  "last_seen_at": "2026-11-06T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E9%9D%92%E7%A8%9A+%E7%AA%92%E6%81%AF%23%26t%3D3&title=发布媒体",
-    "show_str": "25家媒体",
+    "show_str": "39家媒体",
     "users": [
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2115259662,
         "idstr": "2115259662",
@@ -49,13 +56,6 @@
         "screen_name": "麦穗视频快快看",
         "verified": true,
         "verified_type": 7
-      },
-      {
-        "id": 6207911580,
-        "idstr": "6207911580",
-        "screen_name": "大河报豫视频",
-        "verified": true,
-        "verified_type": 3
       }
     ]
   },
