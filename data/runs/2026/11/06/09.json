@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-06T09:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#五中全会精神学习手册请查收#",
+      "rank": 1,
+      "title": "五中全会精神学习手册请查收",
+      "topic_id": "231522b6fc2f3987abe42dd8bee5727cc96714"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "BLG战胜DK",
+      "rank": 1,
+      "title": "BLG战胜DK",
+      "topic_id": "231522ffa336caf986e1e35e663f613b9eab54"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#温瑞博3比0王楚钦#",
+      "rank": 2,
+      "title": "温瑞博3比0王楚钦",
+      "topic_id": "231522d0030251d80ba58e120e0ad3f79f854a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#何以中国对话红山#",
+      "rank": 3,
+      "title": "何以中国对话红山",
+      "topic_id": "23152210d11f45b6a222071e3ef6aeaaa93044"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#54岁大哥靠AI短剧还清负债#",
+      "rank": 4,
+      "title": "54岁大哥靠AI短剧还清负债",
+      "topic_id": "23152295f86ab216ffaa6cbd7e208e679b5c25"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "黄金",
+      "rank": 5,
+      "title": "黄金",
+      "topic_id": "23152211289a9c3dbe0fb8810cf271903fc8ac"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#陆翊长文回应和文吉儿王子璇关系#",
+      "rank": 6,
+      "title": "陆翊长文回应和文吉儿王子璇关系",
+      "topic_id": "2315226adf5b99f3ce5a78168e1f5d2e5de071"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#美股崩跌原因#",
+      "rank": 7,
+      "title": "美股崩跌原因",
+      "topic_id": "2315226bb23e8f5f77909b6c22b677ac04c748"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#BLG晋级S16半决赛#",
+      "rank": 8,
+      "title": "BLG晋级S16半决赛",
+      "topic_id": "2315225e8a0414cf94a1bc8b46c8d80da91712"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "无薪招聘",
+      "rank": 9,
+      "title": "无薪招聘",
+      "topic_id": "2315224b15294667ad7443c0ed846f2233a6db"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "美股",
+      "rank": 10,
+      "title": "美股",
+      "topic_id": "231522d0df61567e5cfbf00ac015762e6d6398"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王子璇走心发言疑似预制#",
+      "rank": 11,
+      "title": "王子璇走心发言疑似预制",
+      "topic_id": "231522fe1166e16972192585980798cf27ee24"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "文吉儿 陆翊",
+      "rank": 12,
+      "title": "文吉儿 陆翊",
+      "topic_id": "231522fadab588495a9b38c5ab80370bf42497"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#DK对战BLG#",
+      "rank": 13,
+      "title": "DK对战BLG",
+      "topic_id": "231522e0ee8398e1406c41f545cea39bb2c118"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#所有人都认为张萌老公才是公司老板#",
+      "rank": 14,
+      "title": "所有人都认为张萌老公才是公司老板",
+      "topic_id": "23152221e0b34551e4c7c646f53439edfe6d05"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "结婚两周年精心打扮却淋雨",
+      "rank": 15,
+      "title": "结婚两周年精心打扮却淋雨",
+      "topic_id": "231522b1d2273f6013e1b616a909c180426165"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#孙俪晒邓超五哈嘉年华后状态#",
+      "rank": 16,
+      "title": "孙俪晒邓超五哈嘉年华后状态",
+      "topic_id": "231522f018543cb692d9b07eba400b4fe4e2df"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王楚钦无缘WTT法兰克福冠军赛8强#",
+      "rank": 17,
+      "title": "王楚钦无缘WTT法兰克福冠军赛8强",
+      "topic_id": "231522c304ba4a791150864598eb49e2110484"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张颂文张雪迎谷雨吻戏#",
+      "rank": 18,
+      "title": "张颂文张雪迎谷雨吻戏",
+      "topic_id": "231522e72dbdcd1c3f051ad7abdfadfdd69cba"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#BLG连续淘汰HLE和DK#",
+      "rank": 19,
+      "title": "BLG连续淘汰HLE和DK",
+      "topic_id": "2315223130bf88e10cbd197c0be007095890d5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "6G下载4K要多少流量",
+      "rank": 20,
+      "title": "6G下载4K要多少流量",
+      "topic_id": "23152218f27f3519ff95aa8ef17c1f9c5d6e61"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "司马缸砸光的珍贵监控视频",
+      "rank": 21,
+      "title": "司马缸砸光的珍贵监控视频",
+      "topic_id": "2315229674221d3deb2769274a5e36db91612a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "北京旅游笑话经久不衰",
+      "rank": 22,
+      "title": "北京旅游笑话经久不衰",
+      "topic_id": "231522019511238d3228ffb9a0f0ab7448e574"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#官方回应居民医保参保人数下降#",
+      "rank": 23,
+      "title": "官方回应居民医保参保人数下降",
+      "topic_id": "2315224678eef2d1aec001b27eefc57e754b71"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#Bin连续单杀Siwoo#",
+      "rank": 24,
+      "title": "Bin连续单杀Siwoo",
+      "topic_id": "23152273aeb702a45ed59a09fd135455e04be3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#FIFA禁止国家队退役球衣#",
+      "rank": 25,
+      "title": "FIFA禁止国家队退役球衣",
+      "topic_id": "23152238982c5d043ed8cd1c3b9351b5dfefea"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "白小纯帮青稚挡酒好震撼",
+      "rank": 26,
+      "title": "白小纯帮青稚挡酒好震撼",
+      "topic_id": "2315221f632fcd44adaf737482367fb59ede4d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "纳斯达克",
+      "rank": 27,
+      "title": "纳斯达克",
+      "topic_id": "231522ee11c93f1f078abeb3321630960fc5ae"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#张萌真是老天追着喂饭吃#",
+      "rank": 28,
+      "title": "张萌真是老天追着喂饭吃",
+      "topic_id": "2315220b7855141381d744c86447a79660c6e8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "美国AI禁令 科技股",
+      "rank": 29,
+      "title": "美国AI禁令 科技股",
+      "topic_id": "23152296223cf4ae088c81b446e87bfa0f3d33"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#端午中秋各1天假#",
+      "rank": 30,
+      "title": "端午中秋各1天假",
+      "topic_id": "231522c13458f05cdc8f83041819504b67b952"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#曝白小纯天早期天霸工资#",
+      "rank": 31,
+      "title": "曝白小纯天早期天霸工资",
+      "topic_id": "2315221990de3cb74150575bf9c9319efdb0df"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "英雄联盟S16",
+      "rank": 32,
+      "title": "英雄联盟S16",
+      "topic_id": "231522b2e8ddfa73df1d3b677622c37031d3b3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#BLG打DK拿到三个赛点#",
+      "rank": 33,
+      "title": "BLG打DK拿到三个赛点",
+      "topic_id": "23152259e19b4ba4494c410ad50a08d56013dd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "朋友为八个被扔蛋黄讨公道",
+      "rank": 34,
+      "title": "朋友为八个被扔蛋黄讨公道",
+      "topic_id": "2315225df9b810efb552c6499c7d653fa39ca7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#杨子珊现在不拍戏了#",
+      "rank": 35,
+      "title": "杨子珊现在不拍戏了",
+      "topic_id": "2315228734c4c97781bf7484a47129b54a636b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#田曦薇压轴出场#",
+      "rank": 36,
+      "title": "田曦薇压轴出场",
+      "topic_id": "2315228c69c08349fe4629734fad8a2a9dec20"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "许飞下意识的体面和分担",
+      "rank": 37,
+      "title": "许飞下意识的体面和分担",
+      "topic_id": "231522141ade5e4325918fb0a1daf124dced21"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#蔡天凤碎尸案三名被告均否认谋杀罪#",
+      "rank": 38,
+      "title": "蔡天凤碎尸案三名被告均否认谋杀罪",
+      "topic_id": "231522ffea508ce005a3a3d6efbf9bc7af1954"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#Elk看Viper选蛇女#",
+      "rank": 39,
+      "title": "Elk看Viper选蛇女",
+      "topic_id": "2315228fd03232b5b3542180e199a17cb28c6b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#卵巢癌70%的患者生存时间不超5年#",
+      "rank": 40,
+      "title": "卵巢癌70%的患者生存时间不超5年",
+      "topic_id": "23152224303529445ac4767c03756f64ec6f41"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#普京签署法令接管日本烟草在俄资产#",
+      "rank": 41,
+      "title": "普京签署法令接管日本烟草在俄资产",
+      "topic_id": "231522ee3f8fed07babbb377d10b37fb1fca8b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "电竞男这两位闹翻了",
+      "rank": 42,
+      "title": "电竞男这两位闹翻了",
+      "topic_id": "23152216c46422417ca9afcfcc00bd45e1afe3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#袁成杰被列为失信被执行人#",
+      "rank": 43,
+      "title": "袁成杰被列为失信被执行人",
+      "topic_id": "231522aaabe98d65c79d63bb3175500010c9cb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#赵丽颖出席金鸡开幕仪式#",
+      "rank": 44,
+      "title": "赵丽颖出席金鸡开幕仪式",
+      "topic_id": "23152296c93bbe119d4f3cd5f3356c80acac13"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#3个日常习惯是血糖波动的元凶#",
+      "rank": 45,
+      "title": "3个日常习惯是血糖波动的元凶",
+      "topic_id": "23152253c24018e09dd726a8fd9628f39200b8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#韩股再度跌到熔断了#",
+      "rank": 46,
+      "title": "韩股再度跌到熔断了",
+      "topic_id": "231522b4f7fa938ce66cba4c7d1031df85af0b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#BLG五比零LCK#",
+      "rank": 47,
+      "title": "BLG五比零LCK",
+      "topic_id": "2315224f81ec98aaac82ffda03050b2e2962e7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#卵巢癌早期容易被误以为长胖#",
+      "rank": 48,
+      "title": "卵巢癌早期容易被误以为长胖",
+      "topic_id": "231522b1df24a222eece545675f09654ab77fc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "43岁韩莹连挑国乒四位名将",
+      "rank": 49,
+      "title": "43岁韩莹连挑国乒四位名将",
+      "topic_id": "2315229bac4ac8cb64d0901ea3299a7d28c858"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#何同学说MacBookPro触屏不好用#",
+      "rank": 50,
+      "title": "何同学说MacBookPro触屏不好用",
+      "topic_id": "23152245acbe961e27dada9b3d281e37b8196e"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
