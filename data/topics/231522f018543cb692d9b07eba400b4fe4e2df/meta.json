@@ -10,11 +10,25 @@
     "status": 2,
     "uid": 6343916471
   },
-  "last_seen_at": "2026-11-06T09:00:00+08:00",
+  "last_seen_at": "2026-11-06T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%AD%99%E4%BF%AA%E6%99%92%E9%82%93%E8%B6%85%E4%BA%94%E5%93%88%E5%98%89%E5%B9%B4%E5%8D%8E%E5%90%8E%E7%8A%B6%E6%80%81%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "6家媒体",
     "users": [
+      {
+        "id": 1789681642,
+        "idstr": "1789681642",
+        "screen_name": "第一现场",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7590570074,
+        "idstr": "7590570074",
+        "screen_name": "山海视频",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2535760180,
         "idstr": "2535760180",
@@ -23,9 +37,23 @@
         "verified_type": 3
       },
       {
+        "id": 2027480085,
+        "idstr": "2027480085",
+        "screen_name": "水母网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1497418417,
         "idstr": "1497418417",
         "screen_name": "掌上温岭",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       }

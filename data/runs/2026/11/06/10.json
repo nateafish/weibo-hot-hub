@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-06T10:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 1,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#五中全会精神学习手册请查收#",
+      "rank": 1,
+      "title": "五中全会精神学习手册请查收",
+      "topic_id": "231522b6fc2f3987abe42dd8bee5727cc96714"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#54岁大哥靠AI短剧还清负债#",
+      "rank": 1,
+      "title": "54岁大哥靠AI短剧还清负债",
+      "topic_id": "23152295f86ab216ffaa6cbd7e208e679b5c25"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "BLG战胜DK",
+      "rank": 2,
+      "title": "BLG战胜DK",
+      "topic_id": "231522ffa336caf986e1e35e663f613b9eab54"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#何以中国对话红山#",
+      "rank": 3,
+      "title": "何以中国对话红山",
+      "topic_id": "23152210d11f45b6a222071e3ef6aeaaa93044"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#温瑞博3比0王楚钦#",
+      "rank": 4,
+      "title": "温瑞博3比0王楚钦",
+      "topic_id": "231522d0030251d80ba58e120e0ad3f79f854a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "黄金",
+      "rank": 5,
+      "title": "黄金",
+      "topic_id": "23152211289a9c3dbe0fb8810cf271903fc8ac"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#韩国解说看BLG三比零DK快哭了#",
+      "rank": 6,
+      "title": "韩国解说看BLG三比零DK快哭了",
+      "topic_id": "231522e3be438ec83b144cb398eb23ca4364e0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "王楚钦肩袖膝盖劳损",
+      "rank": 7,
+      "title": "王楚钦肩袖膝盖劳损",
+      "topic_id": "231522005be8dbafdfef2ad61af011a2d2eab6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#外卖大战三家少了上千亿#",
+      "rank": 8,
+      "title": "外卖大战三家少了上千亿",
+      "topic_id": "231522e49d38232ec3fa1e0cc5676abd4cb3ae"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "尚公主居然拍了156天",
+      "rank": 9,
+      "title": "尚公主居然拍了156天",
+      "topic_id": "231522c476f54684098bdf55dffda5673d9f7b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#美股崩跌原因#",
+      "rank": 10,
+      "title": "美股崩跌原因",
+      "topic_id": "2315226bb23e8f5f77909b6c22b677ac04c748"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王子璇走心发言疑似预制#",
+      "rank": 11,
+      "title": "王子璇走心发言疑似预制",
+      "topic_id": "231522fe1166e16972192585980798cf27ee24"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "教师招聘考试一视同仁",
+      "rank": 12,
+      "title": "教师招聘考试一视同仁",
+      "topic_id": "231522c60131695b5fbda42e4a9c2e34cb1bdf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#所有人都认为张萌老公才是公司老板#",
+      "rank": 13,
+      "title": "所有人都认为张萌老公才是公司老板",
+      "topic_id": "23152221e0b34551e4c7c646f53439edfe6d05"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#陆翊前两年还和文吉儿有联系#",
+      "rank": 14,
+      "title": "陆翊前两年还和文吉儿有联系",
+      "topic_id": "231522d7a864bcf844cadd56affa4e66055739"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张凌赫从查无此人到顶流只用了半年#",
+      "rank": 15,
+      "title": "张凌赫从查无此人到顶流只用了半年",
+      "topic_id": "231522d40cdc72b7681cbd5979d8ca0f7a0fad"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#管泽元谈BLG击败DK#",
+      "rank": 16,
+      "title": "管泽元谈BLG击败DK",
+      "topic_id": "2315224d46c9457cefaff87fc7a5cabce71133"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "结婚两周年精心打扮却淋雨",
+      "rank": 17,
+      "title": "结婚两周年精心打扮却淋雨",
+      "topic_id": "231522b1d2273f6013e1b616a909c180426165"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "A股",
+      "rank": 18,
+      "title": "A股",
+      "topic_id": "2315229ff55ef4a3e846e498a336fdeb06cbdb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#马天宇说和张萌不能一直待在一起#",
+      "rank": 19,
+      "title": "马天宇说和张萌不能一直待在一起",
+      "topic_id": "2315229eed5c43f1ac66f9ec044b075b53003d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "文吉儿 陆翊",
+      "rank": 20,
+      "title": "文吉儿 陆翊",
+      "topic_id": "231522fadab588495a9b38c5ab80370bf42497"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "司马缸砸光的珍贵监控视频",
+      "rank": 21,
+      "title": "司马缸砸光的珍贵监控视频",
+      "topic_id": "2315229674221d3deb2769274a5e36db91612a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "网友称爷爷在康熙年间当官",
+      "rank": 22,
+      "title": "网友称爷爷在康熙年间当官",
+      "topic_id": "2315228c2dccf902a453df5642ee0e290b5b7a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#赵丽颖金鸡公式照#",
+      "rank": 23,
+      "title": "赵丽颖金鸡公式照",
+      "topic_id": "2315221746c879da346327f1108ac9b2039266"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "美国AI禁令 科技股",
+      "rank": 24,
+      "title": "美国AI禁令 科技股",
+      "topic_id": "23152296223cf4ae088c81b446e87bfa0f3d33"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#孙俪晒邓超五哈嘉年华后状态#",
+      "rank": 25,
+      "title": "孙俪晒邓超五哈嘉年华后状态",
+      "topic_id": "231522f018543cb692d9b07eba400b4fe4e2df"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王楚钦无缘WTT法兰克福冠军赛8强#",
+      "rank": 26,
+      "title": "王楚钦无缘WTT法兰克福冠军赛8强",
+      "topic_id": "231522c304ba4a791150864598eb49e2110484"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "白小纯帮青稚挡酒好震撼",
+      "rank": 27,
+      "title": "白小纯帮青稚挡酒好震撼",
+      "topic_id": "2315221f632fcd44adaf737482367fb59ede4d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#FIFA禁止国家队退役球衣#",
+      "rank": 28,
+      "title": "FIFA禁止国家队退役球衣",
+      "topic_id": "23152238982c5d043ed8cd1c3b9351b5dfefea"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#官方回应居民医保参保人数下降#",
+      "rank": 29,
+      "title": "官方回应居民医保参保人数下降",
+      "topic_id": "2315224678eef2d1aec001b27eefc57e754b71"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#端午中秋各1天假#",
+      "rank": 30,
+      "title": "端午中秋各1天假",
+      "topic_id": "231522c13458f05cdc8f83041819504b67b952"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#Viper预测BLG半决赛打T1#",
+      "rank": 31,
+      "title": "Viper预测BLG半决赛打T1",
+      "topic_id": "23152223b8338db2ea460ef9974b575c814378"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王子璇手机是被收走的#",
+      "rank": 32,
+      "title": "王子璇手机是被收走的",
+      "topic_id": "23152201c74a33777668793ec6f02431143bd8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#Bin连续单杀Siwoo#",
+      "rank": 33,
+      "title": "Bin连续单杀Siwoo",
+      "topic_id": "23152273aeb702a45ed59a09fd135455e04be3"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "北京旅游笑话经久不衰",
+      "rank": 34,
+      "title": "北京旅游笑话经久不衰",
+      "topic_id": "231522019511238d3228ffb9a0f0ab7448e574"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "吴磊被请喝茅台手摇成拨浪鼓",
+      "rank": 35,
+      "title": "吴磊被请喝茅台手摇成拨浪鼓",
+      "topic_id": "231522c4a92340ed854448a4b424d212b09a6d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "无薪招聘",
+      "rank": 36,
+      "title": "无薪招聘",
+      "topic_id": "2315224b15294667ad7443c0ed846f2233a6db"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#北京中小学将全部取消外送餐#",
+      "rank": 37,
+      "title": "北京中小学将全部取消外送餐",
+      "topic_id": "23152233e193655a84213127abe7c2df273459"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "王楚钦因伤休战36天",
+      "rank": 38,
+      "title": "王楚钦因伤休战36天",
+      "topic_id": "2315224b7e9a42ee37f0f861bc91a97fa083c0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#BLG晋级S16半决赛#",
+      "rank": 39,
+      "title": "BLG晋级S16半决赛",
+      "topic_id": "2315225e8a0414cf94a1bc8b46c8d80da91712"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#Bin心流状态#",
+      "rank": 40,
+      "title": "Bin心流状态",
+      "topic_id": "231522ac4d4f7dbe306f6ec9d45f8ca2791108"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#卵巢癌早期容易被误以为长胖#",
+      "rank": 41,
+      "title": "卵巢癌早期容易被误以为长胖",
+      "topic_id": "231522b1df24a222eece545675f09654ab77fc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#蔡天凤碎尸案三名被告均否认谋杀罪#",
+      "rank": 42,
+      "title": "蔡天凤碎尸案三名被告均否认谋杀罪",
+      "topic_id": "231522ffea508ce005a3a3d6efbf9bc7af1954"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "恋与深空",
+      "rank": 43,
+      "title": "恋与深空",
+      "topic_id": "23152212815f543b6754a64be7a4f150402e82"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "纳斯达克",
+      "rank": 44,
+      "title": "纳斯达克",
+      "topic_id": "231522ee11c93f1f078abeb3321630960fc5ae"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#田曦薇压轴出场#",
+      "rank": 45,
+      "title": "田曦薇压轴出场",
+      "topic_id": "2315228c69c08349fe4629734fad8a2a9dec20"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#Bin展望半决赛#",
+      "rank": 46,
+      "title": "Bin展望半决赛",
+      "topic_id": "2315220c44e9cf6939ef7900ace180fec62e87"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#卵巢癌70%的患者生存时间不超5年#",
+      "rank": 47,
+      "title": "卵巢癌70%的患者生存时间不超5年",
+      "topic_id": "23152224303529445ac4767c03756f64ec6f41"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#众解说看BLG打人机晋级四强#",
+      "rank": 48,
+      "title": "众解说看BLG打人机晋级四强",
+      "topic_id": "231522af1d2bf472fafef192ac0f266078d844"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#4岁女童患罕见病皮肤一碰就破#",
+      "rank": 49,
+      "title": "4岁女童患罕见病皮肤一碰就破",
+      "topic_id": "231522ae915f00d87d23f161f30805d81a5ea1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#何同学说MacBookPro触屏不好用#",
+      "rank": 50,
+      "title": "何同学说MacBookPro触屏不好用",
+      "topic_id": "23152245acbe961e27dada9b3d281e37b8196e"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

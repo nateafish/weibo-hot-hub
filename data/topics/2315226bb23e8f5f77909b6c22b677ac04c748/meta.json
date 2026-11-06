@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 6004281123
   },
-  "last_seen_at": "2026-11-06T09:00:00+08:00",
+  "last_seen_at": "2026-11-06T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%BE%8E%E8%82%A1%E5%B4%A9%E8%B7%8C%E5%8E%9F%E5%9B%A0%23%26t%3D3&title=发布媒体",
-    "show_str": "43家媒体",
+    "show_str": "90家媒体",
     "users": [
       {
         "id": 1744332207,
         "idstr": "1744332207",
         "screen_name": "钱江视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2286092114,
+        "idstr": "2286092114",
+        "screen_name": "中国蓝新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 1887344341,
+        "idstr": "1887344341",
+        "screen_name": "观察者网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2252846093,
         "idstr": "2252846093",
         "screen_name": "长春新闻",
@@ -37,30 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 6254784663,
-        "idstr": "6254784663",
-        "screen_name": "朝九晚五Video",
+        "id": 1838672663,
+        "idstr": "1838672663",
+        "screen_name": "华夏时报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 6014513352,
-        "idstr": "6014513352",
-        "screen_name": "ING直播",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6002842109,
-        "idstr": "6002842109",
-        "screen_name": "时差视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5994003317,
-        "idstr": "5994003317",
-        "screen_name": "老板联播",
+        "id": 1651428902,
+        "idstr": "1651428902",
+        "screen_name": "21世纪经济报道",
         "verified": true,
         "verified_type": 3
       }

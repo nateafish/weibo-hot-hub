@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1959451603
   },
-  "last_seen_at": "2026-11-06T09:00:00+08:00",
+  "last_seen_at": "2026-11-06T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23BLG%E6%99%8B%E7%BA%A7S16%E5%8D%8A%E5%86%B3%E8%B5%9B%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "12家媒体",
     "users": [
       {
         "id": 5343085742,
@@ -23,30 +23,44 @@
         "verified_type": 0
       },
       {
+        "id": 1314608344,
+        "idstr": "1314608344",
+        "screen_name": "新闻晨报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7791215292,
+        "idstr": "7791215292",
+        "screen_name": "中新电竞",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7231104173,
+        "idstr": "7231104173",
+        "screen_name": "咪咕电竞",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5822206027,
+        "idstr": "5822206027",
+        "screen_name": "北斗融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5788578441,
+        "idstr": "5788578441",
+        "screen_name": "丝路电竞",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2813313591,
         "idstr": "2813313591",
         "screen_name": "中新网海南",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1959451603,
-        "idstr": "1959451603",
-        "screen_name": "锦观新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1744332207,
-        "idstr": "1744332207",
-        "screen_name": "钱江视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1288429914,
-        "idstr": "1288429914",
-        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       }
