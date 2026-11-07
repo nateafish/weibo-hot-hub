@@ -3,11 +3,61 @@
   "created_at": 1542532282,
   "first_seen_at": "2026-11-07T18:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-07T18:00:00+08:00",
+  "last_seen_at": "2026-11-07T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%B1%9F%E5%8D%97+%E4%BB%8A%E4%BD%95%E5%9C%A8%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "9家媒体",
+    "users": [
+      {
+        "id": 2087169013,
+        "idstr": "2087169013",
+        "screen_name": "法治日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2425315932,
+        "idstr": "2425315932",
+        "screen_name": "陕西天天网事",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7708039348,
+        "idstr": "7708039348",
+        "screen_name": "北青娱见",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7474259554,
+        "idstr": "7474259554",
+        "screen_name": "快报帮",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5652470745,
+        "idstr": "5652470745",
+        "screen_name": "广西都市频道",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5118600252,
+        "idstr": "5118600252",
+        "screen_name": "锡盟融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2815224714,
+        "idstr": "2815224714",
+        "screen_name": "海博TV",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "江南 今何在",
   "search_url": "https://s.weibo.com/weibo?q=%23%E6%B1%9F%E5%8D%97%20%E4%BB%8A%E4%BD%95%E5%9C%A8%23",
