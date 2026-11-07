@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1796087453
   },
-  "last_seen_at": "2026-11-07T23:00:00+08:00",
+  "last_seen_at": "2026-11-08T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E9%97%AB%E5%A6%AE%E7%82%B9%E8%AF%84%E7%88%B1%E6%83%85%E9%A2%98%E6%9D%90%E7%94%B5%E5%BD%B1%23%26t%3D3&title=发布媒体",
-    "show_str": "9家媒体",
+    "show_str": "10家媒体",
     "users": [
       {
         "id": 1796087453,
@@ -44,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 2356298087,
+        "idstr": "2356298087",
+        "screen_name": "河北经视",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2252846093,
         "idstr": "2252846093",
         "screen_name": "长春新闻",
@@ -54,13 +61,6 @@
         "id": 2232625672,
         "idstr": "2232625672",
         "screen_name": "安庆天天直播",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2000016880,
-        "idstr": "2000016880",
-        "screen_name": "逐浪新闻",
         "verified": true,
         "verified_type": 3
       }

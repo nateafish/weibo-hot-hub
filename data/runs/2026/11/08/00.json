@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-08T00:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#共赴进博之约共享中国机遇#",
+      "rank": 1,
+      "title": "共赴进博之约共享中国机遇",
+      "topic_id": "2315222e051570c6121d5894a122066095dc0e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#多平台下架推不倒戒指#",
+      "rank": 1,
+      "title": "多平台下架推不倒戒指",
+      "topic_id": "231522dbd1f0f02d46ea318e98e06f87e442ab"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#8省份大到暴雪#",
+      "rank": 2,
+      "title": "8省份大到暴雪",
+      "topic_id": "231522da370de24f7434ef63a3f33a80db8055"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#共赴APEC之约#",
+      "rank": 3,
+      "title": "共赴APEC之约",
+      "topic_id": "23152271ea8abe9d0eff8c3dc6e4508e2ad80b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#国乒男单6站冠军赛仅1次晋级决赛#",
+      "rank": 4,
+      "title": "国乒男单6站冠军赛仅1次晋级决赛",
+      "topic_id": "2315229219fb181c0e702197f3904b8b68523d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#嫁金钗最好嗑的一个视频出现了#",
+      "rank": 5,
+      "title": "嫁金钗最好嗑的一个视频出现了",
+      "topic_id": "231522b38a7fe3889c2999c1f49dda3ac16ae9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#乘客车上削苹果急刹车水果刀插心脏#",
+      "rank": 6,
+      "title": "乘客车上削苹果急刹车水果刀插心脏",
+      "topic_id": "231522d0b90e864d071ad09e3dc40ff29f2082"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#赵丽颖也得变着法哄自己上班#",
+      "rank": 7,
+      "title": "赵丽颖也得变着法哄自己上班",
+      "topic_id": "231522934b5d7253fda81c17bd7918b0f181d7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "陈幸同2比4张本美和",
+      "rank": 8,
+      "title": "陈幸同2比4张本美和",
+      "topic_id": "2315229ea62d59127de2da13fd731e4e04e81c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#温瑞博0比4林昀儒#",
+      "rank": 9,
+      "title": "温瑞博0比4林昀儒",
+      "topic_id": "231522e564fa28bab3c731c717f189f74e4e39"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#国乒教练回应青奥会颗粒无收#",
+      "rank": 10,
+      "title": "国乒教练回应青奥会颗粒无收",
+      "topic_id": "231522d55bca73b4b0f6ac3ecbc64ab7bb8ae2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#爸爸去哪儿3重聚为康康庆生#",
+      "rank": 11,
+      "title": "爸爸去哪儿3重聚为康康庆生",
+      "topic_id": "231522820f5cee5c41aa49ead1148a0c9183f0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "马天宇 李明德",
+      "rank": 12,
+      "title": "马天宇 李明德",
+      "topic_id": "231522b38627bca7bff341e1d9da7ff1a1528d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "博主私信发现两人偷情对话",
+      "rank": 13,
+      "title": "博主私信发现两人偷情对话",
+      "topic_id": "23152216600a9187b11cbbaed793ba60dc90bb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "李一桐疑似内涵芒果",
+      "rank": 14,
+      "title": "李一桐疑似内涵芒果",
+      "topic_id": "231522a64f1c5d6b32dbde3fe323fcc5673040"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#刘丹透露小糯米在英国读书#",
+      "rank": 15,
+      "title": "刘丹透露小糯米在英国读书",
+      "topic_id": "231522819e1ddb5e14f0e02a1419d7debe0477"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "两千万粉博主称不投流卖三万",
+      "rank": 16,
+      "title": "两千万粉博主称不投流卖三万",
+      "topic_id": "231522d9de621eb145068737fb471d839168c6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#鹿晗投资天霸至今没拿过分红#",
+      "rank": 17,
+      "title": "鹿晗投资天霸至今没拿过分红",
+      "topic_id": "231522b2bc2f4ae934a2dbae8853e873037711"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "孩子不在家夫妻还需要在一起吗",
+      "rank": 18,
+      "title": "孩子不在家夫妻还需要在一起吗",
+      "topic_id": "23152263c8931b36f606895a14d5a97c1d2c10"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#提纯提白小纯啊#",
+      "rank": 19,
+      "title": "提纯提白小纯啊",
+      "topic_id": "2315220f87707a4d85fbf61a653f2eb6ed7fd7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#孙燕姿都尴尬得不知道说啥了#",
+      "rank": 20,
+      "title": "孙燕姿都尴尬得不知道说啥了",
+      "topic_id": "23152285c81fd70fe9701e2033aa15dc781c2b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#iPhone20外观#",
+      "rank": 21,
+      "title": "iPhone20外观",
+      "topic_id": "231522345c692f86b718616f92bd31374e50c8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "大S剥虾论八年后被读懂",
+      "rank": 22,
+      "title": "大S剥虾论八年后被读懂",
+      "topic_id": "231522007bd160af8ca7bd11e629482d9477c7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#芒果有条通天路你走不走#",
+      "rank": 23,
+      "title": "芒果有条通天路你走不走",
+      "topic_id": "23152232fd0f00afc4d072af77e516b686f312"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "马斯克高度评价中国车企竞争力",
+      "rank": 24,
+      "title": "马斯克高度评价中国车企竞争力",
+      "topic_id": "231522bbd4966292815226aa189f7da915bc93"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "今何在",
+      "rank": 25,
+      "title": "今何在",
+      "topic_id": "231522e51bcae6afbfa7b78b071d14865ce773"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "梁文锋DeepSeek不止国运级",
+      "rank": 26,
+      "title": "梁文锋DeepSeek不止国运级",
+      "topic_id": "231522897313d93cbf62314219f2b6512b5db2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#曝90剧花美国待产#",
+      "rank": 27,
+      "title": "曝90剧花美国待产",
+      "topic_id": "2315228e08ab9f42bf3b21bb6d9a0e4e9723c9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#刘熙墨脸部二度烧伤#",
+      "rank": 28,
+      "title": "刘熙墨脸部二度烧伤",
+      "topic_id": "231522f8c0c08cea605d85669d752ed542047a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#北京的雪有多大#",
+      "rank": 29,
+      "title": "北京的雪有多大",
+      "topic_id": "231522ff5fc23a7797e1473d3cf5c47dcc8991"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#火树是最懂白小纯青稚的人#",
+      "rank": 30,
+      "title": "火树是最懂白小纯青稚的人",
+      "topic_id": "231522a4d71d9864fbe97ed3b0baae406a4801"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王子璇回答白小纯后被消音#",
+      "rank": 31,
+      "title": "王子璇回答白小纯后被消音",
+      "topic_id": "23152269d74a39901863301b1c2f10e4736df5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝w盛典最终阵容#",
+      "rank": 32,
+      "title": "曝w盛典最终阵容",
+      "topic_id": "23152261929910ddd20ba36fe0904f8f3c86f3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#男子被小奶狗抓伤确诊狂犬病#",
+      "rank": 33,
+      "title": "男子被小奶狗抓伤确诊狂犬病",
+      "topic_id": "231522063315be0c60c6ea74ecff630629d0d6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#女子欲轻生已婚男回复在家不方便#",
+      "rank": 34,
+      "title": "女子欲轻生已婚男回复在家不方便",
+      "topic_id": "2315220b671569c3e6e1ce42c1dfd883fce836"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#初见面时厉娜看了两次许飞的戒指#",
+      "rank": 35,
+      "title": "初见面时厉娜看了两次许飞的戒指",
+      "topic_id": "23152257810b421640e1f4c1b191d4d93ba4d7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "杨颖文咏珊 后会友期",
+      "rank": 36,
+      "title": "杨颖文咏珊 后会友期",
+      "topic_id": "231522d8d7c4b41a745810af4a166199d7d915"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王橹杰台历晒单断层第一#",
+      "rank": 37,
+      "title": "王橹杰台历晒单断层第一",
+      "topic_id": "23152244ca185c69ad432ebfa7d6f2122550e5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "江南 今何在",
+      "rank": 38,
+      "title": "江南 今何在",
+      "topic_id": "231522ace82e0feac948202ff6e438ce37e035"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#男子健身长期吃鸡肉丸乳房发育#",
+      "rank": 39,
+      "title": "男子健身长期吃鸡肉丸乳房发育",
+      "topic_id": "23152286b3093cb88d1a46c79cfe0b4781d41c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#姜妍一顿饭就花了20块#",
+      "rank": 40,
+      "title": "姜妍一顿饭就花了20块",
+      "topic_id": "2315220ec9d109605385926e0d6686a156b06e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#林昀儒回应4比0温瑞博#",
+      "rank": 41,
+      "title": "林昀儒回应4比0温瑞博",
+      "topic_id": "231522396cb8aa14df3a37ae150beed89105dc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#国乒教练承认年轻选手抗压能力不足#",
+      "rank": 42,
+      "title": "国乒教练承认年轻选手抗压能力不足",
+      "topic_id": "231522d5f53c85304be2a071428b7ff164429c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#夏之光问尼格买提有孩子了吗#",
+      "rank": 43,
+      "title": "夏之光问尼格买提有孩子了吗",
+      "topic_id": "231522f317b24b2ff3bb2371b8c466980316b2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#白小纯破防的原因#",
+      "rank": 44,
+      "title": "白小纯破防的原因",
+      "topic_id": "231522b4dd6f2d3ede65e7f33b9d1a63d55ba3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#男子因幼犬轻咬未处理引发狂犬病#",
+      "rank": 45,
+      "title": "男子因幼犬轻咬未处理引发狂犬病",
+      "topic_id": "23152240b91d82d9a65abf6423eebd34e17578"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "胡军晒康康成人礼照",
+      "rank": 46,
+      "title": "胡军晒康康成人礼照",
+      "topic_id": "2315229d0196a9bb7e8462014e77f5dcd7f8a7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 8,
+      "posts": "saved",
+      "query": "#伊朗取消导弹射程限制#",
+      "rank": 47,
+      "title": "伊朗取消导弹射程限制",
+      "topic_id": "2315223ecec7853746f846eef22963064849d2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#赵丽颖闫妮点评爱情题材电影#",
+      "rank": 48,
+      "title": "赵丽颖闫妮点评爱情题材电影",
+      "topic_id": "2315224251973236360d63936700ad3f4487b5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#墨尔本外卖骑手称最低时薪约31澳元#",
+      "rank": 49,
+      "title": "墨尔本外卖骑手称最低时薪约31澳元",
+      "topic_id": "23152250c5cd82d3bc2fdfc12344e6f6fdd070"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#女老师连做引体向上现场哇声一片#",
+      "rank": 50,
+      "title": "女老师连做引体向上现场哇声一片",
+      "topic_id": "2315229f2436605ddc2d5f319602150ca8b507"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

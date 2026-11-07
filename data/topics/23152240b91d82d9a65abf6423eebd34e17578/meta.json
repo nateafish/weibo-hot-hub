@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2011075080
   },
-  "last_seen_at": "2026-11-07T23:00:00+08:00",
+  "last_seen_at": "2026-11-08T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%94%B7%E5%AD%90%E5%9B%A0%E5%B9%BC%E7%8A%AC%E8%BD%BB%E5%92%AC%E6%9C%AA%E5%A4%84%E7%90%86%E5%BC%95%E5%8F%91%E7%8B%82%E7%8A%AC%E7%97%85%23%26t%3D3&title=发布媒体",
-    "show_str": "8家媒体",
+    "show_str": "9家媒体",
     "users": [
       {
         "id": 2011075080,
@@ -26,6 +26,13 @@
         "id": 6890796357,
         "idstr": "6890796357",
         "screen_name": "日照日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3514732862,
+        "idstr": "3514732862",
+        "screen_name": "广西日报",
         "verified": true,
         "verified_type": 3
       },
@@ -44,13 +51,6 @@
         "verified_type": 3
       },
       {
-        "id": 3514732862,
-        "idstr": "3514732862",
-        "screen_name": "广西日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 2460937233,
         "idstr": "2460937233",
         "screen_name": "热度新闻",
@@ -58,9 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2011445377,
-        "idstr": "2011445377",
-        "screen_name": "齐鲁壹点",
+        "id": 2118120483,
+        "idstr": "2118120483",
+        "screen_name": "青岛日报",
         "verified": true,
         "verified_type": 3
       }
