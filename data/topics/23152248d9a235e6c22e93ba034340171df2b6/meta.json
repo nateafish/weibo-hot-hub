@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 5756404150
   },
-  "last_seen_at": "2026-11-08T07:00:00+08:00",
+  "last_seen_at": "2026-11-08T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23iG%E5%AF%B9%E6%88%98GEN%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "9家媒体",
     "users": [
+      {
+        "id": 5343085742,
+        "idstr": "5343085742",
+        "screen_name": "PentaQ刺猬电竞社",
+        "verified": true,
+        "verified_type": 0
+      },
       {
         "id": 7467277921,
         "idstr": "7467277921",
@@ -23,9 +30,37 @@
         "verified_type": 3
       },
       {
+        "id": 6590980486,
+        "idstr": "6590980486",
+        "screen_name": "捉谣记",
+        "verified": true,
+        "verified_type": 7
+      },
+      {
+        "id": 6092578444,
+        "idstr": "6092578444",
+        "screen_name": "新浪种草官",
+        "verified": true,
+        "verified_type": 7
+      },
+      {
         "id": 5788578441,
         "idstr": "5788578441",
         "screen_name": "丝路电竞",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2813313591,
+        "idstr": "2813313591",
+        "screen_name": "中新网海南",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2131593523,
+        "idstr": "2131593523",
+        "screen_name": "羊城晚报金羊网",
         "verified": true,
         "verified_type": 3
       }
