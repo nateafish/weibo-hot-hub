@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-09T00:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 1,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#高原上习近平让出自己的氧气袋#",
+      "rank": 1,
+      "title": "高原上习近平让出自己的氧气袋",
+      "topic_id": "231522a51dadac3edfb1dabd70b186b13c0490"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#马斯克突爆孙正义猛料#",
+      "rank": 1,
+      "title": "马斯克突爆孙正义猛料",
+      "topic_id": "231522bca92adb07e3f01781f1faf0f2fda796"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "疑似秦始皇儿子遗骸遭肢解",
+      "rank": 2,
+      "title": "疑似秦始皇儿子遗骸遭肢解",
+      "topic_id": "231522d94cd6388de714d2ecff00160ce7fe60"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#中国消费图景向新向优#",
+      "rank": 3,
+      "title": "中国消费图景向新向优",
+      "topic_id": "23152219d10627b76c2159469ef422c8440a56"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "许飞 厉娜",
+      "rank": 4,
+      "title": "许飞 厉娜",
+      "topic_id": "231522a4f9deaeb3ccf54bbb784262d10814b6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "发生日快乐才知老同学已离世",
+      "rank": 5,
+      "title": "发生日快乐才知老同学已离世",
+      "topic_id": "2315229d5b5ffbc709993b3a696c61776556c2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#无锡女厕惊现站立式小便厕位#",
+      "rank": 6,
+      "title": "无锡女厕惊现站立式小便厕位",
+      "topic_id": "2315226957eb2516d79e269c0e812bdb15371a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#疑似秦始皇儿子头骨面容复原图#",
+      "rank": 7,
+      "title": "疑似秦始皇儿子头骨面容复原图",
+      "topic_id": "2315222476b5bc29ee50d976417f506a200173"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#山姆多款始祖鸟加拿大鹅被抢空#",
+      "rank": 8,
+      "title": "山姆多款始祖鸟加拿大鹅被抢空",
+      "topic_id": "231522f9a3cad6e18b58b030d29ce8a30bbabd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "许飞 我作茧自缚",
+      "rank": 9,
+      "title": "许飞 我作茧自缚",
+      "topic_id": "231522d23d60a6b7cb81c5c1646656bf9331ac"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#大连主教练被泼啤酒滑倒光速变脸#",
+      "rank": 10,
+      "title": "大连主教练被泼啤酒滑倒光速变脸",
+      "topic_id": "231522257c755a9a1a64ce4cd6c1357f6e69a1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#金子涵被骗#",
+      "rank": 11,
+      "title": "金子涵被骗",
+      "topic_id": "2315225d5fa9b95cf97564cf50a54b13b6da3a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#蔡少芬一家五口在香港住83平的房子#",
+      "rank": 12,
+      "title": "蔡少芬一家五口在香港住83平的房子",
+      "topic_id": "2315223e979a4388bcbdba5257fc7466298cc2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "女子查到男友父亲有案底后崩溃",
+      "rank": 13,
+      "title": "女子查到男友父亲有案底后崩溃",
+      "topic_id": "2315224b7124a2411504687ff2c358a22242a5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#小糯米才12岁#",
+      "rank": 14,
+      "title": "小糯米才12岁",
+      "topic_id": "231522c9949083c11e31bcb750deba0fa5c0bd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#陈浩民家保姆工资每月6000多#",
+      "rank": 15,
+      "title": "陈浩民家保姆工资每月6000多",
+      "topic_id": "231522ef5c54c2a127de299f2e3982c7dc1694"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#大连景区对山东人免费#",
+      "rank": 16,
+      "title": "大连景区对山东人免费",
+      "topic_id": "2315224e7f10c0848db0e5de55f79c93336a57"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#文吉儿微信名#",
+      "rank": 17,
+      "title": "文吉儿微信名",
+      "topic_id": "231522f4b0f6027fe48a48f7d8afa25eb43619"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#女子打轻薄针后脸垮得像老人#",
+      "rank": 18,
+      "title": "女子打轻薄针后脸垮得像老人",
+      "topic_id": "231522ccd4e81987a7804ba93004b847015796"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#太原一建筑火灾致5死#",
+      "rank": 19,
+      "title": "太原一建筑火灾致5死",
+      "topic_id": "231522ac89d21fbe9f1bbba758f109f10cb223"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#芒果综艺播放量有点吓人#",
+      "rank": 20,
+      "title": "芒果综艺播放量有点吓人",
+      "topic_id": "23152296e2e7007180c7eb908e26c4fb2bee50"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝迪丽热巴没买房常年住酒店#",
+      "rank": 21,
+      "title": "曝迪丽热巴没买房常年住酒店",
+      "topic_id": "2315222364b43c0001cd2a4bb830931469fd97"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#成都球员痛哭#",
+      "rank": 22,
+      "title": "成都球员痛哭",
+      "topic_id": "23152239b84b343a96ec832bfd2469752370f5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#白小纯对青稚早已松口#",
+      "rank": 23,
+      "title": "白小纯对青稚早已松口",
+      "topic_id": "231522748ef48f989e53fb0582e7d5bca2fb81"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝天霸粉丝群曾蛐蛐青稚#",
+      "rank": 24,
+      "title": "曝天霸粉丝群曾蛐蛐青稚",
+      "topic_id": "231522717c32de1b50e243afe49c2a7f80f109"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#WB和JDG会师凤凰山#",
+      "rank": 25,
+      "title": "WB和JDG会师凤凰山",
+      "topic_id": "2315228ad9f93ceb8e703c2347b8cbb50c30e5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张萌知道马天宇喜欢小孩也是拼了#",
+      "rank": 26,
+      "title": "张萌知道马天宇喜欢小孩也是拼了",
+      "topic_id": "231522905ca36eccf378ad441b2e52672853eb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#白小纯叫王子璇姐姐完整过程#",
+      "rank": 27,
+      "title": "白小纯叫王子璇姐姐完整过程",
+      "topic_id": "231522a584db4b2dc867be45772c1822960356"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#WB凤凰山见#",
+      "rank": 28,
+      "title": "WB凤凰山见",
+      "topic_id": "23152289e42730090c4246d39caf14d433ad81"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#疑似文吉儿社媒账号注销#",
+      "rank": 29,
+      "title": "疑似文吉儿社媒账号注销",
+      "topic_id": "231522e45dc1c479f81e9fb09eab4c08edf4bc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#11元拍下鹤岗1套房突然中止#",
+      "rank": 30,
+      "title": "11元拍下鹤岗1套房突然中止",
+      "topic_id": "231522227b0a0bf97611fc0443ef77ba0806d5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "漠河舞厅 王安宇李宛妲",
+      "rank": 31,
+      "title": "漠河舞厅 王安宇李宛妲",
+      "topic_id": "231522f367a3d01244faaecdf8d0a909e6c188"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#颜安退出密逃团综录制#",
+      "rank": 32,
+      "title": "颜安退出密逃团综录制",
+      "topic_id": "231522235f64578a882d32a476047e42fb86ec"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "九尾说Gemini墨迹",
+      "rank": 33,
+      "title": "九尾说Gemini墨迹",
+      "topic_id": "231522ec7617e651763695691eab98682ea6a4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "陈浚铭身高",
+      "rank": 34,
+      "title": "陈浚铭身高",
+      "topic_id": "231522891bd69378d3da3f4056ea29a73efe94"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#杨幂吃饭话好多动作也多#",
+      "rank": 35,
+      "title": "杨幂吃饭话好多动作也多",
+      "topic_id": "231522c131ca532ecdb4a031f51b85da0e970b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "邝玲玲太原活动疑似被叫停",
+      "rank": 36,
+      "title": "邝玲玲太原活动疑似被叫停",
+      "topic_id": "231522dee75cf0d8431df3114424bb5dffcd29"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#演员阿颜扁桃体切除术后感染离世#",
+      "rank": 37,
+      "title": "演员阿颜扁桃体切除术后感染离世",
+      "topic_id": "231522f7f50d935827a3e850b1b60856abcbbe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#后会友期招商#",
+      "rank": 38,
+      "title": "后会友期招商",
+      "topic_id": "231522e84f844dcb40b547d6d8855612dab827"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#中国人心目中天庭的样子火了#",
+      "rank": 39,
+      "title": "中国人心目中天庭的样子火了",
+      "topic_id": "231522c2e878f6c35bbdd15c3cfa3c44e134ab"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "山姆加拿大鹅比官方便宜5000元",
+      "rank": 40,
+      "title": "山姆加拿大鹅比官方便宜5000元",
+      "topic_id": "23152275cdb98b99efa521420f94d12d585e12"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#最尊重钱的平台诞生了#",
+      "rank": 41,
+      "title": "最尊重钱的平台诞生了",
+      "topic_id": "23152239635f68287fba2001e98e1b93b0f52c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "后会友期黄焖鸡门口没监控",
+      "rank": 42,
+      "title": "后会友期黄焖鸡门口没监控",
+      "topic_id": "231522bb645c942d7e15ac5e794f2f13369bf9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#甄嬛传的富察贵人竟然当制片人了#",
+      "rank": 43,
+      "title": "甄嬛传的富察贵人竟然当制片人了",
+      "topic_id": "231522e30f3c65158f494fbc805374c3e1d226"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "嫁金钗剧情挟胚胎以令诸侯",
+      "rank": 44,
+      "title": "嫁金钗剧情挟胚胎以令诸侯",
+      "topic_id": "231522d77be2a45bde07e68c6cb5f23f1590a4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "芒果找神人这方面是有点手段的",
+      "rank": 45,
+      "title": "芒果找神人这方面是有点手段的",
+      "topic_id": "23152259b88f1a8ac08c526f87e4da75696c19"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#太原火灾送医院救治38人#",
+      "rank": 46,
+      "title": "太原火灾送医院救治38人",
+      "topic_id": "2315224fd1bd7a5673c9e695bc02513c6b18d3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#61岁大爷自学网购下单15吨红薯#",
+      "rank": 47,
+      "title": "61岁大爷自学网购下单15吨红薯",
+      "topic_id": "231522f521051a60fd126899742dfdfd5a09e0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#宋轶短发#",
+      "rank": 48,
+      "title": "宋轶短发",
+      "topic_id": "231522be459624ff24d84fae32cde91256e7c6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#代高政要和闫桉参加后会友期#",
+      "rank": 49,
+      "title": "代高政要和闫桉参加后会友期",
+      "topic_id": "2315223509d6b964feab00c318f67235feac28"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#好记者讲好故事首次进校园#",
+      "rank": 50,
+      "title": "好记者讲好故事首次进校园",
+      "topic_id": "2315221ff94efff4467b275b5c4620049bd7ea"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
