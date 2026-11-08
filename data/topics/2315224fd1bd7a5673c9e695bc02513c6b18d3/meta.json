@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2803301701
   },
-  "last_seen_at": "2026-11-09T04:00:00+08:00",
+  "last_seen_at": "2026-11-09T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A4%AA%E5%8E%9F%E7%81%AB%E7%81%BE%E9%80%81%E5%8C%BB%E9%99%A2%E6%95%91%E6%B2%BB38%E4%BA%BA%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "9家媒体",
     "users": [
       {
         "id": 2803301701,
         "idstr": "2803301701",
         "screen_name": "人民日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3037284894,
+        "idstr": "3037284894",
+        "screen_name": "经济日报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,6 +37,20 @@
         "verified_type": 3
       },
       {
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2292896411,
+        "idstr": "2292896411",
+        "screen_name": "中工网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1941424392,
         "idstr": "1941424392",
         "screen_name": "台州晚报",
@@ -37,16 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1663072851,
-        "idstr": "1663072851",
-        "screen_name": "中国日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1653603955,
-        "idstr": "1653603955",
-        "screen_name": "扬子晚报",
+        "id": 1801817195,
+        "idstr": "1801817195",
+        "screen_name": "辽沈晚报",
         "verified": true,
         "verified_type": 3
       }
