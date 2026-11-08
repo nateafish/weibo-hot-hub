@@ -3,11 +3,33 @@
   "created_at": 1794094647,
   "first_seen_at": "2026-11-08T08:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-08T08:00:00+08:00",
+  "last_seen_at": "2026-11-08T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%AD%A6%E6%9D%BE%E6%89%93%E8%99%8E%E7%9B%91%E6%8E%A7%E5%B0%81%E5%AD%98%E5%A4%9A%E5%B9%B4%E5%90%8E%E6%B5%81%E5%87%BA%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "3家媒体",
+    "users": [
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1700720163,
+        "idstr": "1700720163",
+        "screen_name": "钱江晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1043320390,
+        "idstr": "1043320390",
+        "screen_name": "半岛晨报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "武松打虎监控封存多年后流出",
   "search_url": "https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%9D%BE%E6%89%93%E8%99%8E%E7%9B%91%E6%8E%A7%E5%B0%81%E5%AD%98%E5%A4%9A%E5%B9%B4%E5%90%8E%E6%B5%81%E5%87%BA%23",

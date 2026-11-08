@@ -3,21 +3,63 @@
   "created_at": 1590743089,
   "first_seen_at": "2026-10-24T03:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-10-24T05:00:00+08:00",
+  "last_seen_at": "2026-11-08T10:00:00+08:00",
   "media_info": {
-    "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23GEN%E6%88%98%E8%83%9CIG%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23GEN%E6%88%98%E8%83%9CiG%23%26t%3D3&title=发布媒体",
+    "show_str": "28家媒体",
     "users": [
+      {
+        "id": 1618051664,
+        "idstr": "1618051664",
+        "screen_name": "头条新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 5343085742,
         "idstr": "5343085742",
         "screen_name": "PentaQ刺猬电竞社",
         "verified": true,
         "verified_type": 0
+      },
+      {
+        "id": 6590980486,
+        "idstr": "6590980486",
+        "screen_name": "捉谣记",
+        "verified": true,
+        "verified_type": 7
+      },
+      {
+        "id": 6092578444,
+        "idstr": "6092578444",
+        "screen_name": "新浪种草官",
+        "verified": true,
+        "verified_type": 7
+      },
+      {
+        "id": 2460937233,
+        "idstr": "2460937233",
+        "screen_name": "热度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5539777260,
+        "idstr": "5539777260",
+        "screen_name": "菏泽日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2318910945,
+        "idstr": "2318910945",
+        "screen_name": "新浪热点",
+        "verified": true,
+        "verified_type": 3
       }
     ]
   },
-  "query": "GEN战胜IG",
+  "query": "GEN战胜iG",
   "search_url": "https://s.weibo.com/weibo?q=%23gen%E6%88%98%E8%83%9Cig%23",
   "sub_category": null,
   "summary": "",
