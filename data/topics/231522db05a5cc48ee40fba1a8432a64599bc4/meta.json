@@ -10,11 +10,61 @@
     "status": 2,
     "uid": 2522098777
   },
-  "last_seen_at": "2026-11-09T14:00:00+08:00",
+  "last_seen_at": "2026-11-09T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23iG%E6%8A%95%E8%B5%84%E4%BA%BA%E5%BC%80%E5%9B%A2AL%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "39家媒体",
+    "users": [
+      {
+        "id": 1744332207,
+        "idstr": "1744332207",
+        "screen_name": "钱江视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2115259662,
+        "idstr": "2115259662",
+        "screen_name": "洪观新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1880922220,
+        "idstr": "1880922220",
+        "screen_name": "金华晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1618051664,
+        "idstr": "1618051664",
+        "screen_name": "头条新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6590980486,
+        "idstr": "6590980486",
+        "screen_name": "捉谣记",
+        "verified": true,
+        "verified_type": 7
+      },
+      {
+        "id": 6351705477,
+        "idstr": "6351705477",
+        "screen_name": "北京新闻",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#iG投资人开团AL#",
   "search_url": "https://s.weibo.com/weibo?q=%23ig%E6%8A%95%E8%B5%84%E4%BA%BA%E5%BC%80%E5%9B%A2al%23",

@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-09T18:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#习近平致电祝贺约托娃当选保加利亚总统#",
+      "rank": 1,
+      "title": "习近平致电祝贺约托娃当选保加利亚总统",
+      "topic_id": "231522e7f96e322485f62e8e934255599f44be"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王楚钦发文反思总结#",
+      "rank": 1,
+      "title": "王楚钦发文反思总结",
+      "topic_id": "23152257fc0a1dc10a77d52277d63f08cc9d73"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "W盛典红毯",
+      "rank": 2,
+      "title": "W盛典红毯",
+      "topic_id": "2315228fee4ea07b9fa959349204845dd83fc0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#为了守护万家灯火他们迎难而上#",
+      "rank": 3,
+      "title": "为了守护万家灯火他们迎难而上",
+      "topic_id": "23152283e79531fea2a36476c0172eb98d00bc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#iG投资人爆料爱笑聊天截图#",
+      "rank": 4,
+      "title": "iG投资人爆料爱笑聊天截图",
+      "topic_id": "2315229c2d438747ab9e7d8273975f573c7867"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#马天宇厉娜评论区互怼#",
+      "rank": 5,
+      "title": "马天宇厉娜评论区互怼",
+      "topic_id": "231522cb029cf429fea6668e4ca6ba13b434fe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "为什么满地都是口腔诊所",
+      "rank": 6,
+      "title": "为什么满地都是口腔诊所",
+      "topic_id": "23152213c5acf147c3b786b25e4177d64c3e14"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#青稚疑似删的是CD录音#",
+      "rank": 7,
+      "title": "青稚疑似删的是CD录音",
+      "topic_id": "2315226f525ce1aebbb01f152a663ee23b5b7e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#日本地铁太压抑了#",
+      "rank": 8,
+      "title": "日本地铁太压抑了",
+      "topic_id": "231522649ef6ce654103bde67e839267186111"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张雪机车米兰展车零件被偷光#",
+      "rank": 9,
+      "title": "张雪机车米兰展车零件被偷光",
+      "topic_id": "23152271999492b0bea2b965e33297ff21a51c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "爱笑 张总",
+      "rank": 10,
+      "title": "爱笑 张总",
+      "topic_id": "231522c189b5f020b7d6f90d18f0fc9d5eca52"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#黄仁勋出轨对象公司曾采购300亿芯片#",
+      "rank": 11,
+      "title": "黄仁勋出轨对象公司曾采购300亿芯片",
+      "topic_id": "2315228eae35d0287e4555299832cf7f123fe4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#让女性站立小便就是真的女性友好吗#",
+      "rank": 12,
+      "title": "让女性站立小便就是真的女性友好吗",
+      "topic_id": "231522eb0b9e0dba5ae475936958869a54acc6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#曝黄乐与朋友打赌能请来黄仁勋#",
+      "rank": 13,
+      "title": "曝黄乐与朋友打赌能请来黄仁勋",
+      "topic_id": "231522166f5cf10bdd7c9e4fa8aae82565b825"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#杨幂一下穿了两套祖海高定#",
+      "rank": 14,
+      "title": "杨幂一下穿了两套祖海高定",
+      "topic_id": "231522ba9a99e3afb5d7cd6e9fb85d165755aa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "英伟达",
+      "rank": 15,
+      "title": "英伟达",
+      "topic_id": "23152272045facd4857d6b512b2286769bbd2b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "迪丽热巴爸爸助农直播",
+      "rank": 16,
+      "title": "迪丽热巴爸爸助农直播",
+      "topic_id": "2315223b12b607325c8ad1611aaf43b81303e6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "刘诗诗 复古名伶",
+      "rank": 17,
+      "title": "刘诗诗 复古名伶",
+      "topic_id": "231522c70923c0b5c736d52d4f3642750edf80"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "许飞人品",
+      "rank": 18,
+      "title": "许飞人品",
+      "topic_id": "23152218d5a0853d0ce6336e076d53cc3e20f2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#女子借给闺蜜4万反遭杀害藏尸28年#",
+      "rank": 19,
+      "title": "女子借给闺蜜4万反遭杀害藏尸28年",
+      "topic_id": "2315225abb573367d9665681af38462060ca6c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#商场卫生间照镜子被广告吓一跳#",
+      "rank": 20,
+      "title": "商场卫生间照镜子被广告吓一跳",
+      "topic_id": "231522619dc31a65f5151f3b0d67c1d8c85540"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "美民主党拟对马斯克发起调查",
+      "rank": 21,
+      "title": "美民主党拟对马斯克发起调查",
+      "topic_id": "231522b0de183de99c2cf1f31496d4ff1d2ccb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#搬家9公里收费13900元#",
+      "rank": 22,
+      "title": "搬家9公里收费13900元",
+      "topic_id": "231522ab9cf0c3450761fe31880aba5941c85b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#玛莎拉蒂与尊界新车外观确认#",
+      "rank": 23,
+      "title": "玛莎拉蒂与尊界新车外观确认",
+      "topic_id": "231522b60ff5422095d9695ec4952157ede5f0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#猫的树发文#",
+      "rank": 24,
+      "title": "猫的树发文",
+      "topic_id": "23152240834c344e52b1a68175b8a28c2322d2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#闪送员被撞身亡公司拒认工亡#",
+      "rank": 25,
+      "title": "闪送员被撞身亡公司拒认工亡",
+      "topic_id": "2315220e462fc73aee73413c7cd61bd1ae2a57"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#iG投资人开团AL#",
+      "rank": 26,
+      "title": "iG投资人开团AL",
+      "topic_id": "231522db05a5cc48ee40fba1a8432a64599bc4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#爱笑被LPL多队开团#",
+      "rank": 27,
+      "title": "爱笑被LPL多队开团",
+      "topic_id": "2315220d7ee6cbf3da97bb2b4ce716c9dfa0aa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "高迪 大美",
+      "rank": 28,
+      "title": "高迪 大美",
+      "topic_id": "231522ffe883a38946ab147f6afefb0887ecf5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "W盛典85花 大气从容之美",
+      "rank": 29,
+      "title": "W盛典85花 大气从容之美",
+      "topic_id": "231522ea09c8c44d8eef84c97aa03201c6979b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝金子涵父母都在美国#",
+      "rank": 30,
+      "title": "曝金子涵父母都在美国",
+      "topic_id": "231522a9714f630ef42d340fae62d836f69c33"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#迪丽热巴爸爸20分钟卖了7000单苹果#",
+      "rank": 31,
+      "title": "迪丽热巴爸爸20分钟卖了7000单苹果",
+      "topic_id": "231522d8855ae471f0c60b67ab80910741ca90"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#郑钦文W盛典出发图#",
+      "rank": 32,
+      "title": "郑钦文W盛典出发图",
+      "topic_id": "231522ec32dd5f81d2abc9266a46ef95cdecd9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "闲鱼聊天记录太尴尬了",
+      "rank": 33,
+      "title": "闲鱼聊天记录太尴尬了",
+      "topic_id": "231522909b7f119b038ca4c01e239c6d0c264e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "虞书欣 W盛典",
+      "rank": 34,
+      "title": "虞书欣 W盛典",
+      "topic_id": "231522effc4e8f974e50a1b247f8c084e2a2f9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#许飞不在厉娜的反应#",
+      "rank": 35,
+      "title": "许飞不在厉娜的反应",
+      "topic_id": "23152200959337f779cb4c48ab238908bd9cd4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#宋茜穿的这个裙子能坐下吗#",
+      "rank": 36,
+      "title": "宋茜穿的这个裙子能坐下吗",
+      "topic_id": "231522b86c697d20b0f8e5f4eea466cb9f7f9f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#一汽大众取消两年年终奖#",
+      "rank": 37,
+      "title": "一汽大众取消两年年终奖",
+      "topic_id": "231522a56bbe866303f504e3bf3f5baea1d08f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "女同事充五千油卡是现实版刻舟求剑",
+      "rank": 38,
+      "title": "女同事充五千油卡是现实版刻舟求剑",
+      "topic_id": "231522541460c2c654c6a65834b06b56300b6a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#3元一包的泡面推出79.9元高端款#",
+      "rank": 39,
+      "title": "3元一包的泡面推出79.9元高端款",
+      "topic_id": "2315229e75d51226210d4d68231ed8123af2e7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "郑钦文W盛典红毯首秀",
+      "rank": 40,
+      "title": "郑钦文W盛典红毯首秀",
+      "topic_id": "231522c6cb75df8f5cc18a71592185cfbd34d4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#西游记最无法用科学解释的离奇事件#",
+      "rank": 41,
+      "title": "西游记最无法用科学解释的离奇事件",
+      "topic_id": "231522c27cf532257eb2e59e89f713231d3171"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#天猫好六夜彩排根本藏不住事#",
+      "rank": 42,
+      "title": "天猫好六夜彩排根本藏不住事",
+      "topic_id": "2315223471649d07582fa4a333d67d43b15e87"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#青稚黄山plog#",
+      "rank": 43,
+      "title": "青稚黄山plog",
+      "topic_id": "23152280782d613b113eb2f42cdcdd43054448"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#陈梦宋茜陈好聚会合照#",
+      "rank": 44,
+      "title": "陈梦宋茜陈好聚会合照",
+      "topic_id": "231522f5da6faf28492255e8b5d9e427dfbad1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "朱一龙 谁说男明星不能戴大珠宝",
+      "rank": 45,
+      "title": "朱一龙 谁说男明星不能戴大珠宝",
+      "topic_id": "231522268614c28c6fb2693e91c355be1a3a68"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#爱笑回应#",
+      "rank": 46,
+      "title": "爱笑回应",
+      "topic_id": "23152255f11ba21a794c311877cbc1c420a13f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "W盛典出图",
+      "rank": 47,
+      "title": "W盛典出图",
+      "topic_id": "231522cc427335f600e1ed4b2e5fc760d157c5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#高迪大美时间线#",
+      "rank": 48,
+      "title": "高迪大美时间线",
+      "topic_id": "231522d8e056bafd123830fdd9a28606ef2875"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#在淘宝不占便宜就算亏#",
+      "rank": 49,
+      "title": "在淘宝不占便宜就算亏",
+      "topic_id": "2315221a618ec6cac6cb575c1cf1674c175165"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#太原一建筑火灾9人伤势较重#",
+      "rank": 50,
+      "title": "太原一建筑火灾9人伤势较重",
+      "topic_id": "23152238eb76cf2fb35f7c9a625ea75c13e5bc"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
