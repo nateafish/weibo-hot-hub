@@ -10,15 +10,43 @@
     "status": 2,
     "uid": 7391324928
   },
-  "last_seen_at": "2026-11-09T22:00:00+08:00",
+  "last_seen_at": "2026-11-10T05:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%88%91%E7%9A%84%E6%9C%89%E7%BD%AA%E4%B9%8B%E4%BA%BA%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "5家媒体",
     "users": [
       {
         "id": 5992358951,
         "idstr": "5992358951",
         "screen_name": "韩剧TV",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1926909715,
+        "idstr": "1926909715",
+        "screen_name": "第一财经日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6040549176,
+        "idstr": "6040549176",
+        "screen_name": "究竟视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1816256200,
+        "idstr": "1816256200",
+        "screen_name": "一财快讯",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1702925432,
+        "idstr": "1702925432",
+        "screen_name": "第一财经",
         "verified": true,
         "verified_type": 3
       }
