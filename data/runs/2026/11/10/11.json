@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-10T11:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#总书记高度重视长江保护与发展#",
+      "rank": 1,
+      "title": "总书记高度重视长江保护与发展",
+      "topic_id": "2315222a57e8966b7664bbde6908cef0dc63f2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "小米四款车全部上榜",
+      "rank": 1,
+      "title": "小米四款车全部上榜",
+      "topic_id": "2315220ef1009df88d33a315ac107c6930473f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "石家庄陨石确认为普通球粒陨石",
+      "rank": 2,
+      "title": "石家庄陨石确认为普通球粒陨石",
+      "topic_id": "231522f66a0b960439ef82dbb2caa4484f8d40"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#浦江潮涌共赴进博之约#",
+      "rank": 3,
+      "title": "浦江潮涌共赴进博之约",
+      "topic_id": "2315223fa3678753d862856de92dae7f2c2322"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#网友不买账王子璇白小纯恋情澄清#",
+      "rank": 4,
+      "title": "网友不买账王子璇白小纯恋情澄清",
+      "topic_id": "231522502b5db1538d5e6018392c0e86edb1b4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "东北成人礼割双眼皮是真的吗",
+      "rank": 5,
+      "title": "东北成人礼割双眼皮是真的吗",
+      "topic_id": "231522f8c65652716ee824a8d5a15bad8b11fb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "等风热吻你全阵容官宣",
+      "rank": 6,
+      "title": "等风热吻你全阵容官宣",
+      "topic_id": "2315224ad0f7782c2c68fe61c5b639af1e5e41"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女子独自露营遭陌生男子骚扰#",
+      "rank": 7,
+      "title": "女子独自露营遭陌生男子骚扰",
+      "topic_id": "231522f46e659333563c964c49fec12d7dcdbc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#泸州花坛藏尸案一审宣判#",
+      "rank": 8,
+      "title": "泸州花坛藏尸案一审宣判",
+      "topic_id": "2315229b7edc4761add1aecad6fbe336a7b71c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "合肥地震",
+      "rank": 9,
+      "title": "合肥地震",
+      "topic_id": "2315225ff58c488bd56770e9e63995cee56b40"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王楚钦孙颖莎参赛混团世界杯#",
+      "rank": 10,
+      "title": "王楚钦孙颖莎参赛混团世界杯",
+      "topic_id": "23152230e9b946003bb4ebf08b2b0795dcbbe3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#花坛藏尸案一人死刑一人死缓#",
+      "rank": 11,
+      "title": "花坛藏尸案一人死刑一人死缓",
+      "topic_id": "231522a0d6a5f129b4bce4256594bc92aaa4fa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "金晨 没澄清不住海边没有妹妹",
+      "rank": 12,
+      "title": "金晨 没澄清不住海边没有妹妹",
+      "topic_id": "2315227eaf21abe1c9be0d8fc0f7851e977244"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#白小纯说去韩国打了水光针#",
+      "rank": 13,
+      "title": "白小纯说去韩国打了水光针",
+      "topic_id": "2315225241cea3c91ab539eb8489d6253e6af3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "W盛典最牛的裙子",
+      "rank": 14,
+      "title": "W盛典最牛的裙子",
+      "topic_id": "231522464d0671fad2c6d33b2346c22e11369b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "许飞穿的衣服给我钱都不知道在哪买",
+      "rank": 15,
+      "title": "许飞穿的衣服给我钱都不知道在哪买",
+      "topic_id": "231522fb2d905c038c8ec246e013ae6f7b0fc9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#倪妮左拥刘诗诗右抱杨幂#",
+      "rank": 16,
+      "title": "倪妮左拥刘诗诗右抱杨幂",
+      "topic_id": "231522c4317d34cf9e4a165680b73d2ee0031c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "郑钦文谷爱凌W盛典秀肌肉",
+      "rank": 17,
+      "title": "郑钦文谷爱凌W盛典秀肌肉",
+      "topic_id": "2315221dcafa0d87becef8c9c5cb5addc8c0ca"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#石家庄天降陨石最大单体35公斤#",
+      "rank": 18,
+      "title": "石家庄天降陨石最大单体35公斤",
+      "topic_id": "2315221102acd6652dd0140031d79d44e18658"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "等风热吻你",
+      "rank": 19,
+      "title": "等风热吻你",
+      "topic_id": "231522650a2d53e0c954efdf936ec00f11321c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#白敬亭果然看上井柏然的衣服了#",
+      "rank": 20,
+      "title": "白敬亭果然看上井柏然的衣服了",
+      "topic_id": "23152277719769e1ec2c1b66e174c2f4a639bc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张凌赫是真升咖了#",
+      "rank": 21,
+      "title": "张凌赫是真升咖了",
+      "topic_id": "231522290d3aae2f22cd9e4c7bc0680f1220f7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "白小纯 王子璇",
+      "rank": 22,
+      "title": "白小纯 王子璇",
+      "topic_id": "2315229283c5e33dd71f645e1b7b5242d266ef"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#英伟达市值一夜蒸发1.29万亿元#",
+      "rank": 23,
+      "title": "英伟达市值一夜蒸发1.29万亿元",
+      "topic_id": "23152273a6fa806e5e64f1f8cc00654a939943"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#余承东用魔术打开华为新款小折电脑#",
+      "rank": 24,
+      "title": "余承东用魔术打开华为新款小折电脑",
+      "topic_id": "231522c344b4758b5535d841d25ccd6833aad1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#乒协公布2026混团世界杯参赛名单#",
+      "rank": 25,
+      "title": "乒协公布2026混团世界杯参赛名单",
+      "topic_id": "2315220d7fc5da8112ba8353e4fd2bead14ac7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#一碗免费面咋把隔壁小店逼到想搬家#",
+      "rank": 26,
+      "title": "一碗免费面咋把隔壁小店逼到想搬家",
+      "topic_id": "231522b01b91dbcc02db17ec476c2bc446494a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#BLG到纽约了#",
+      "rank": 27,
+      "title": "BLG到纽约了",
+      "topic_id": "2315229cadf2f67fc84010a5d8c305784c4036"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#唐嫣W盛典晚宴座位#",
+      "rank": 28,
+      "title": "唐嫣W盛典晚宴座位",
+      "topic_id": "231522939a4a8acf71433b8f34d9df82b223ab"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#W盛典红毯神级镜头出现了#",
+      "rank": 29,
+      "title": "W盛典红毯神级镜头出现了",
+      "topic_id": "2315226e27e69e48d6424d741f465059ce347c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "环太平沟",
+      "rank": 30,
+      "title": "环太平沟",
+      "topic_id": "23152245eede49770d3eb948ec99e4acd38785"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#樊振东回应BLG晋级S16决赛#",
+      "rank": 31,
+      "title": "樊振东回应BLG晋级S16决赛",
+      "topic_id": "231522fa890f0828b7d13edec21cf6865e2ff9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "舍友狗去世全宿舍要披麻戴孝吗",
+      "rank": 32,
+      "title": "舍友狗去世全宿舍要披麻戴孝吗",
+      "topic_id": "2315222c35d3ece4520bdf79f2e57a2efcd020"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#前队友谈被青稚压力#",
+      "rank": 33,
+      "title": "前队友谈被青稚压力",
+      "topic_id": "23152217eb88c79bbaf21ab6bf8f4af4cd5918"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#浓眉半场30分8篮板#",
+      "rank": 34,
+      "title": "浓眉半场30分8篮板",
+      "topic_id": "231522da20fe971c0efa9dbaeb868ad24b8997"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王传君坦言爱情公寓只是份工作#",
+      "rank": 35,
+      "title": "王传君坦言爱情公寓只是份工作",
+      "topic_id": "2315223433f1da05205ba4706656c506bf4a86"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#华为小折叠电脑来了#",
+      "rank": 36,
+      "title": "华为小折叠电脑来了",
+      "topic_id": "2315222cadc9dafd8bcf043cf05a174c2730dd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#iPhoneAir2机模曝光#",
+      "rank": 37,
+      "title": "iPhoneAir2机模曝光",
+      "topic_id": "2315221d4b0c28031113c47d4c1eecd93a1f85"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#迪丽热巴自曝有人加其父母微信骚扰#",
+      "rank": 38,
+      "title": "迪丽热巴自曝有人加其父母微信骚扰",
+      "topic_id": "231522d3d77dc813e12732ecffa4a62910b102"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "从洗洁精就能看出来设计师的重要性",
+      "rank": 39,
+      "title": "从洗洁精就能看出来设计师的重要性",
+      "topic_id": "23152281e9364d7cb8cec372b000d3eed56c4f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#29周胎儿重度脑积水子宫内做手术#",
+      "rank": 40,
+      "title": "29周胎儿重度脑积水子宫内做手术",
+      "topic_id": "231522da7d760797cd2f81aebd8aa50f4a4891"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "花坛埋尸案儿子将带母亲遗像出庭",
+      "rank": 41,
+      "title": "花坛埋尸案儿子将带母亲遗像出庭",
+      "topic_id": "231522d7cbc9488fccc0736f183c009ec23bf7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "永远死不掉的人有多孤独",
+      "rank": 42,
+      "title": "永远死不掉的人有多孤独",
+      "topic_id": "23152290a5427b2645b90866f65b96e952c825"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#迪丽热巴爸爸回应直播目的#",
+      "rank": 43,
+      "title": "迪丽热巴爸爸回应直播目的",
+      "topic_id": "2315229df357be6b9db8f655a71ade63cbacc0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#李勒优退出晋妈生鲜公司#",
+      "rank": 44,
+      "title": "李勒优退出晋妈生鲜公司",
+      "topic_id": "23152298160300d7c38482dff6c6f1fe787022"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "黄友政蒯曼凭混双入选",
+      "rank": 45,
+      "title": "黄友政蒯曼凭混双入选",
+      "topic_id": "2315226a8b66edf671b440bfbac819b36dd313"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#老外在中国买了满满一床#",
+      "rank": 46,
+      "title": "老外在中国买了满满一床",
+      "topic_id": "2315229e8aea65bc176fb6e9241d62686fb6dd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#辛芷蕾口红蹭到了钟楚曦衬衫上#",
+      "rank": 47,
+      "title": "辛芷蕾口红蹭到了钟楚曦衬衫上",
+      "topic_id": "2315225addd7e5d9c4c94ba92f4236375c732f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#陈某芬杨某根一审死刑#",
+      "rank": 48,
+      "title": "陈某芬杨某根一审死刑",
+      "topic_id": "23152238e925f0d23173b0788eb8e8c6b20d3c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#杨幂给倪妮整理裙摆#",
+      "rank": 49,
+      "title": "杨幂给倪妮整理裙摆",
+      "topic_id": "2315223d6d42344afddb44a1bf0888e74b1297"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#青风吹又生首发预告#",
+      "rank": 50,
+      "title": "青风吹又生首发预告",
+      "topic_id": "231522d6f0e4244172496c72ea801616e3ac14"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

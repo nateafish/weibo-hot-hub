@@ -10,11 +10,19 @@
     "status": 2,
     "uid": 6468005444
   },
-  "last_seen_at": "2026-11-10T09:00:00+08:00",
+  "last_seen_at": "2026-11-10T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%94%90%E5%AB%A3W%E7%9B%9B%E5%85%B8%E6%99%9A%E5%AE%B4%E5%BA%A7%E4%BD%8D%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "1家媒体",
+    "users": [
+      {
+        "id": 1657914910,
+        "idstr": "1657914910",
+        "screen_name": "烟台日报社大小新闻",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#唐嫣W盛典晚宴座位#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3w%E7%9B%9B%E5%85%B8%E6%99%9A%E5%AE%B4%E5%BA%A7%E4%BD%8D%23",
