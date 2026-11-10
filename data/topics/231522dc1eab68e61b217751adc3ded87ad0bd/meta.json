@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1847582585
   },
-  "last_seen_at": "2026-11-11T00:00:00+08:00",
+  "last_seen_at": "2026-11-11T01:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%94%B7%E5%AD%90%E8%82%9B%E9%97%A8%E8%97%8F%E5%86%B0%E6%AF%92%E5%85%A5%E5%A2%83%E8%A2%AB%E6%8A%93%23%26t%3D3&title=发布媒体",
-    "show_str": "10家媒体",
+    "show_str": "9家媒体",
     "users": [
       {
         "id": 1847582585,
@@ -26,6 +26,13 @@
         "id": 1751714412,
         "idstr": "1751714412",
         "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -47,13 +54,6 @@
         "id": 2097288255,
         "idstr": "2097288255",
         "screen_name": "都市快报大杭州",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2685336121,
-        "idstr": "2685336121",
-        "screen_name": "南宁晚报",
         "verified": true,
         "verified_type": 3
       },
