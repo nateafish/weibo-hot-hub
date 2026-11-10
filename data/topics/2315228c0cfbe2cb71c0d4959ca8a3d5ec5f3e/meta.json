@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1700720163
   },
-  "last_seen_at": "2026-11-11T05:00:00+08:00",
+  "last_seen_at": "2026-11-11T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%8A%B1%E5%9D%9B%E8%97%8F%E5%B0%B8%E6%A1%88%E5%8A%A8%E6%89%8B%E8%A1%8C%E5%87%B6%E8%80%85%E4%B8%BA%E4%BD%95%E6%AD%BB%E7%BC%93%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "6家媒体",
     "users": [
       {
         "id": 1700720163,
@@ -37,9 +37,23 @@
         "verified_type": 3
       },
       {
+        "id": 5388240201,
+        "idstr": "5388240201",
+        "screen_name": "南阳日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1882166882,
         "idstr": "1882166882",
         "screen_name": "钱江晚报悠游天下",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1735221154,
+        "idstr": "1735221154",
+        "screen_name": "城市晚报官方微博",
         "verified": true,
         "verified_type": 3
       }

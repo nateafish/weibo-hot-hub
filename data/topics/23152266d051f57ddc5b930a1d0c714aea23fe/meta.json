@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2286092114
   },
-  "last_seen_at": "2026-11-11T05:00:00+08:00",
+  "last_seen_at": "2026-11-11T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%2313%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%85%B9%E7%97%9B1%E5%B9%B4%E5%AE%B6%E9%95%BF%E5%BF%BD%E8%A7%86%E7%A1%AE%E8%AF%8A%E8%83%83%E7%99%8C%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "8家媒体",
     "users": [
       {
         "id": 2286092114,
@@ -26,6 +26,20 @@
         "id": 5539777260,
         "idstr": "5539777260",
         "screen_name": "菏泽日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5110439722,
+        "idstr": "5110439722",
+        "screen_name": "哈尔滨经济广播电台",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2105365573,
+        "idstr": "2105365573",
+        "screen_name": "威海播报",
         "verified": true,
         "verified_type": 3
       },
@@ -47,13 +61,6 @@
         "id": 1725252714,
         "idstr": "1725252714",
         "screen_name": "温度新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1497418417,
-        "idstr": "1497418417",
-        "screen_name": "掌上温岭",
         "verified": true,
         "verified_type": 3
       }

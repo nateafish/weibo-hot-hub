@@ -3,11 +3,54 @@
   "created_at": 1794321478,
   "first_seen_at": "2026-11-11T00:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-11T05:00:00+08:00",
+  "last_seen_at": "2026-11-11T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%87%91%E9%B8%A1%E6%9C%80%E4%BD%B3%E5%AF%BC%E6%BC%94+%E7%88%86%E5%86%B7%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "6家媒体",
+    "users": [
+      {
+        "id": 3048800300,
+        "idstr": "3048800300",
+        "screen_name": "新浪圈子",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2824067765,
+        "idstr": "2824067765",
+        "screen_name": "贺州日报官微",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2105365573,
+        "idstr": "2105365573",
+        "screen_name": "威海播报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2028810631,
+        "idstr": "2028810631",
+        "screen_name": "新浪新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1727472420,
+        "idstr": "1727472420",
+        "screen_name": "泰山晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1712686623,
+        "idstr": "1712686623",
+        "screen_name": "手机上的新浪",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "金鸡最佳导演 爆冷",
   "search_url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E9%B8%A1%E6%9C%80%E4%BD%B3%E5%AF%BC%E6%BC%94%20%E7%88%86%E5%86%B7%23",
