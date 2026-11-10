@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1774057271
   },
-  "last_seen_at": "2026-11-10T07:00:00+08:00",
+  "last_seen_at": "2026-11-10T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%AB%8B%E5%86%AC%E5%90%8E%E8%A6%81%E6%94%B9%E4%B8%80%E4%B8%8B%E7%9D%A1%E8%A7%89%E6%97%B6%E9%97%B4%23%26t%3D3&title=发布媒体",
-    "show_str": "32家媒体",
+    "show_str": "51家媒体",
     "users": [
       {
         "id": 1774057271,
@@ -23,9 +23,23 @@
         "verified_type": 3
       },
       {
+        "id": 7756786365,
+        "idstr": "7756786365",
+        "screen_name": "文登融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1974576991,
         "idstr": "1974576991",
         "screen_name": "环球时报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1699432410,
+        "idstr": "1699432410",
+        "screen_name": "新华社",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2612146692,
-        "idstr": "2612146692",
-        "screen_name": "凉山日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2476121622,
-        "idstr": "2476121622",
-        "screen_name": "新浪安徽",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1750344480,
-        "idstr": "1750344480",
-        "screen_name": "北京交通广播",
+        "id": 2810373291,
+        "idstr": "2810373291",
+        "screen_name": "新华网",
         "verified": true,
         "verified_type": 3
       }

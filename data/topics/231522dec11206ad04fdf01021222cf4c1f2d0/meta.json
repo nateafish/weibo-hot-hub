@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 6105713761
   },
-  "last_seen_at": "2026-11-10T07:00:00+08:00",
+  "last_seen_at": "2026-11-10T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%80%81%E4%BA%BA%E5%B0%866%E4%BA%BF%E9%81%97%E4%BA%A7%E7%95%99%E7%BB%99%E5%86%8D%E5%A9%9A%E5%A6%BB%E5%AD%90%23%26t%3D3&title=发布媒体",
-    "show_str": "22家媒体",
+    "show_str": "71家媒体",
     "users": [
       {
         "id": 6105713761,
         "idstr": "6105713761",
         "screen_name": "红星新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6900707866,
+        "idstr": "6900707866",
+        "screen_name": "宜黄之窗",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +37,30 @@
         "verified_type": 3
       },
       {
-        "id": 5388240201,
-        "idstr": "5388240201",
-        "screen_name": "南阳日报",
+        "id": 1734530730,
+        "idstr": "1734530730",
+        "screen_name": "大河报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1691507817,
-        "idstr": "1691507817",
-        "screen_name": "新闻日日睇",
+        "id": 1420157965,
+        "idstr": "1420157965",
+        "screen_name": "上游新闻",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1288429914,
-        "idstr": "1288429914",
-        "screen_name": "今视频长天新闻",
+        "id": 6207911580,
+        "idstr": "6207911580",
+        "screen_name": "大河报豫视频",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2824067765,
-        "idstr": "2824067765",
-        "screen_name": "贺州日报官微",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2622056220,
-        "idstr": "2622056220",
-        "screen_name": "新闻大连",
+        "id": 6115560351,
+        "idstr": "6115560351",
+        "screen_name": "国是直通车",
         "verified": true,
         "verified_type": 3
       }

@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2318910945
   },
-  "last_seen_at": "2026-11-10T07:00:00+08:00",
+  "last_seen_at": "2026-11-10T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%94%B7%E5%AD%90%E5%9B%9E%E5%BA%94%E7%BB%93%E5%A9%9A25%E5%B9%B4%E4%B8%8D%E8%AE%A9%E5%A6%BB%E5%AD%90%E4%B8%8A%E7%8F%AD%23%26t%3D3&title=发布媒体",
-    "show_str": "8家媒体",
+    "show_str": "9家媒体",
     "users": [
       {
         "id": 2318910945,
@@ -26,6 +26,13 @@
         "id": 2105365573,
         "idstr": "2105365573",
         "screen_name": "威海播报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1644855075,
+        "idstr": "1644855075",
+        "screen_name": "华商网",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 1938523582,
+        "idstr": "1938523582",
+        "screen_name": "宁波晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1767961804,
         "idstr": "1767961804",
         "screen_name": "大江新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1644855075,
-        "idstr": "1644855075",
-        "screen_name": "华商网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1625232640,
-        "idstr": "1625232640",
-        "screen_name": "鲁中晨报",
         "verified": true,
         "verified_type": 3
       }
