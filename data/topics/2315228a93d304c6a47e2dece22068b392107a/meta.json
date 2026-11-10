@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 3809799228
   },
-  "last_seen_at": "2026-11-10T08:00:00+08:00",
+  "last_seen_at": "2026-11-10T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E9%92%9F%E6%A5%9A%E6%9B%A6%E4%BA%92%E5%8A%A8%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "3家媒体",
     "users": [
       {
         "id": 2252846093,
@@ -26,6 +26,13 @@
         "id": 1913382117,
         "idstr": "1913382117",
         "screen_name": "深圳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1677991972,
+        "idstr": "1677991972",
+        "screen_name": "晶报",
         "verified": true,
         "verified_type": 3
       }

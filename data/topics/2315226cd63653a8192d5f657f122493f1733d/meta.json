@@ -3,10 +3,10 @@
   "created_at": 1794251602,
   "first_seen_at": "2026-11-10T08:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-10T08:00:00+08:00",
+  "last_seen_at": "2026-11-10T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%BB%84%E4%BB%81%E5%8B%8B+%E4%BD%A9%E5%A5%87%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "12家媒体",
     "users": [
       {
         "id": 1744332207,
@@ -16,9 +16,23 @@
         "verified_type": 3
       },
       {
-        "id": 5993531560,
-        "idstr": "5993531560",
-        "screen_name": "中新经纬",
+        "id": 3229962754,
+        "idstr": "3229962754",
+        "screen_name": "陕视新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2647971081,
+        "idstr": "2647971081",
+        "screen_name": "时速新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2346437860,
+        "idstr": "2346437860",
+        "screen_name": "三峡融媒",
         "verified": true,
         "verified_type": 3
       },
@@ -37,9 +51,9 @@
         "verified_type": 3
       },
       {
-        "id": 1280846847,
-        "idstr": "1280846847",
-        "screen_name": "指尖新闻-沈阳晚报",
+        "id": 1959444680,
+        "idstr": "1959444680",
+        "screen_name": "云南网",
         "verified": true,
         "verified_type": 3
       }

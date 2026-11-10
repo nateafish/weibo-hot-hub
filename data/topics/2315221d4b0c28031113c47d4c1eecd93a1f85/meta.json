@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 6004281123
   },
-  "last_seen_at": "2026-11-10T08:00:00+08:00",
+  "last_seen_at": "2026-11-10T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23iPhoneAir2%E6%9C%BA%E6%A8%A1%E6%9B%9D%E5%85%89%23%26t%3D3&title=发布媒体",
-    "show_str": "10家媒体",
+    "show_str": "18家媒体",
     "users": [
       {
         "id": 6004281123,
         "idstr": "6004281123",
         "screen_name": "梨视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5762891674,
+        "idstr": "5762891674",
+        "screen_name": "密度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1738006505,
+        "idstr": "1738006505",
+        "screen_name": "机锋网",
         "verified": true,
         "verified_type": 3
       },
@@ -30,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 7516679696,
+        "idstr": "7516679696",
+        "screen_name": "九派新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6254784663,
         "idstr": "6254784663",
         "screen_name": "朝九晚五Video",
@@ -37,30 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 6014513352,
-        "idstr": "6014513352",
-        "screen_name": "ING直播",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6002842109,
-        "idstr": "6002842109",
-        "screen_name": "时差视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5994003317,
-        "idstr": "5994003317",
-        "screen_name": "老板联播",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5943595658,
-        "idstr": "5943595658",
-        "screen_name": "一手Video",
+        "id": 6207911580,
+        "idstr": "6207911580",
+        "screen_name": "大河报豫视频",
         "verified": true,
         "verified_type": 3
       }
