@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 3266943013
   },
-  "last_seen_at": "2026-11-10T22:00:00+08:00",
+  "last_seen_at": "2026-11-11T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%88%B0APEC%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%94%BE%E7%BA%B5%E6%B7%B1%23%26t%3D3&title=发布媒体",
-    "show_str": "12家媒体",
+    "show_str": "13家媒体",
     "users": [
       {
         "id": 3266943013,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 1727472420,
+        "idstr": "1727472420",
+        "screen_name": "泰山晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7753664177,
         "idstr": "7753664177",
         "screen_name": "商河融媒",
@@ -54,13 +61,6 @@
         "id": 7030322196,
         "idstr": "7030322196",
         "screen_name": "天眼新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5167503212,
-        "idstr": "5167503212",
-        "screen_name": "贵州日报官微",
         "verified": true,
         "verified_type": 3
       }

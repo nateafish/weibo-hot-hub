@@ -10,11 +10,25 @@
     "status": 2,
     "uid": 6529461694
   },
-  "last_seen_at": "2026-11-10T22:00:00+08:00",
+  "last_seen_at": "2026-11-11T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BD%95%E7%82%85%E7%94%9A%E8%87%B3%E5%94%B1%E5%BE%97%E6%AF%94%E8%AE%B8%E9%A3%9E%E5%A5%BD%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "7家媒体",
     "users": [
+      {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1936119834,
+        "idstr": "1936119834",
+        "screen_name": "河北长城网",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1878335471,
         "idstr": "1878335471",
@@ -44,9 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1652484947,
-        "idstr": "1652484947",
-        "screen_name": "新快报",
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       }

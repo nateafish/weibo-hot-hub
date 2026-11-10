@@ -1,0 +1,182 @@
+{
+  "captured_at": "2026-11-11T00:00:00+08:00",
+  "contributors": [
+    {
+      "contribution": 7,
+      "profile_url": "https://weibo.com/u/3229962754",
+      "rank": 1,
+      "uid": "3229962754",
+      "username": "陕视新闻",
+      "verified": true,
+      "verified_type": 3
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/7982989078",
+      "rank": 2,
+      "uid": "7982989078",
+      "username": "渝11y栩",
+      "verified": true,
+      "verified_type": 0
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/7340446382",
+      "rank": 3,
+      "uid": "7340446382",
+      "username": "说了从现在开始算",
+      "verified": true,
+      "verified_type": 0
+    },
+    {
+      "contribution": 5,
+      "profile_url": "https://weibo.com/u/7314742963",
+      "rank": 4,
+      "uid": "7314742963",
+      "username": "倒霉少一点",
+      "verified": true,
+      "verified_type": 0
+    }
+  ],
+  "contributors_scheme": "sinaweibo://cardlist?containerid=231522type%3D103%26q%3D%2310%E5%B2%81%E9%82%A3%E5%B9%B4%E5%A6%88%E5%A6%88%E5%87%AD%E7%A9%BA%E6%B6%88%E5%A4%B1%E5%86%8D%E8%A7%81%E5%B7%B2%E6%98%AF%E7%99%BD%E9%AA%A8%23&title=话题贡献者排行",
+  "current_boards": {
+    "hot_band": {
+      "ori": {
+        "category": "民生新闻",
+        "is_boom": 0,
+        "num": 670192,
+        "onband": 1,
+        "onboard_time": 1794326480,
+        "pos": 19,
+        "subject_querys": [],
+        "transparency_tag": null
+      },
+      "scheme": "sinaweibo://pageinfo?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Drealtimehot&title=热搜榜&extparam=",
+      "sub_info": [],
+      "text": "热搜榜第19位"
+    },
+    "hot_band_24_hour": {
+      "ori": {
+        "on_band": 1
+      }
+    },
+    "social_band": {
+      "ori": {
+        "category": "民生新闻",
+        "is_boom": 0,
+        "onband": 1,
+        "pos": 10,
+        "subject_querys": []
+      },
+      "scheme": "sinaweibo://pageinfo?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Dsocial&title=社会榜&extparam=",
+      "sub_info": [],
+      "text": "社会榜第10位"
+    }
+  },
+  "exact_counts": {
+    "buy_num": 0,
+    "g_mention": 66,
+    "gone_num": 0,
+    "interact": 301,
+    "mention": 66,
+    "ori_m": 12,
+    "ori_uv": 11,
+    "r_valid": 681645,
+    "read": 798190,
+    "rec_num": 0,
+    "show": 0,
+    "star": 1.5,
+    "t_m_num": 7,
+    "t_r_num": 308823,
+    "wants_num": 0
+  },
+  "heat": 1,
+  "overview": {
+    "24h": {
+      "interaction": {
+        "unit": "",
+        "val": 301
+      },
+      "mention": {
+        "unit": "",
+        "val": 66
+      },
+      "original": {
+        "unit": "",
+        "val": 12
+      },
+      "read": {
+        "unit": "万",
+        "val": 79
+      }
+    },
+    "30d": {
+      "interaction": {
+        "unit": "",
+        "val": 301
+      },
+      "mention": {
+        "unit": "",
+        "val": 66
+      },
+      "original": {
+        "unit": "",
+        "val": 12
+      },
+      "read": {
+        "unit": "万",
+        "val": 79
+      }
+    },
+    "all": {
+      "interaction": {
+        "unit": "",
+        "val": 301
+      },
+      "mention": {
+        "unit": "",
+        "val": 66
+      },
+      "original": {
+        "unit": "",
+        "val": 12
+      },
+      "read": {
+        "unit": "万",
+        "val": 79.8
+      }
+    }
+  },
+  "rank_history": [
+    {
+      "cate": "hot_board",
+      "cate_desc": "热搜榜",
+      "duration_hour": 0,
+      "duration_minute": 13,
+      "duration_mod_min": 13,
+      "off_board_time": "202611110013",
+      "on_board_time": "202611110001",
+      "top_pos": 19,
+      "topic_flag": 1
+    },
+    {
+      "cate": "society_board",
+      "cate_desc": "社会榜",
+      "duration_hour": 0,
+      "duration_minute": 12,
+      "duration_mod_min": 12,
+      "off_board_time": "202611110014",
+      "on_board_time": "202611110003",
+      "top_pos": 10,
+      "topic_flag": 1
+    }
+  ],
+  "title": "10岁那年妈妈凭空消失再见已是白骨",
+  "topic_id": "23152282740d0a4d3b836be4c3653d20767a7a",
+  "window_counts": {
+    "1h_mention": 29,
+    "1h_ori_m": 7,
+    "24h_mention": 66,
+    "24h_read": 789644
+  }
+}
