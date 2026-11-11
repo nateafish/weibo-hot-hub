@@ -3,15 +3,57 @@
   "created_at": 1528753802,
   "first_seen_at": "2026-08-15T01:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-06T14:00:00+08:00",
+  "last_seen_at": "2026-11-11T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23PEL%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "7家媒体",
     "users": [
+      {
+        "id": 2072579737,
+        "idstr": "2072579737",
+        "screen_name": "湖南国际频道",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5758267327,
+        "idstr": "5758267327",
+        "screen_name": "徽视点",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1736068007,
+        "idstr": "1736068007",
+        "screen_name": "DV现场",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1680198782,
+        "idstr": "1680198782",
+        "screen_name": "更东莞",
+        "verified": false,
+        "verified_type": -1
+      },
       {
         "id": 1649401391,
         "idstr": "1649401391",
         "screen_name": "电子竞技杂志",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1496814565,
+        "idstr": "1496814565",
+        "screen_name": "封面新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1281296332,
+        "idstr": "1281296332",
+        "screen_name": "百姓就业",
         "verified": true,
         "verified_type": 3
       }
