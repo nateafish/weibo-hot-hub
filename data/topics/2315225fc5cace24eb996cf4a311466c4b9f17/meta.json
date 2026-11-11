@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1738004582
   },
-  "last_seen_at": "2026-11-12T05:00:00+08:00",
+  "last_seen_at": "2026-11-12T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%BD%91%E7%BA%A2%E6%89%93pk%E7%8C%9D%E6%AD%BB%E6%AF%8D%E4%BA%B2%E4%B8%8D%E7%9F%A5%E5%85%B6%E5%81%9A%E5%8D%B1%E9%99%A9%E7%9B%B4%E6%92%AD%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "6家媒体",
     "users": [
       {
         "id": 1738004582,
         "idstr": "1738004582",
         "screen_name": "纵览新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6890796357,
+        "idstr": "6890796357",
+        "screen_name": "日照日报",
         "verified": true,
         "verified_type": 3
       },
@@ -33,6 +40,13 @@
         "id": 2698146894,
         "idstr": "2698146894",
         "screen_name": "河北新闻网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2286092114,
+        "idstr": "2286092114",
+        "screen_name": "中国蓝新闻",
         "verified": true,
         "verified_type": 3
       },
