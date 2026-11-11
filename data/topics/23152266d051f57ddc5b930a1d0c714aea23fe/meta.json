@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 2286092114
   },
-  "last_seen_at": "2026-11-11T07:00:00+08:00",
+  "last_seen_at": "2026-11-11T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%2313%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%85%B9%E7%97%9B1%E5%B9%B4%E5%AE%B6%E9%95%BF%E5%BF%BD%E8%A7%86%E7%A1%AE%E8%AF%8A%E8%83%83%E7%99%8C%23%26t%3D3&title=发布媒体",
-    "show_str": "8家媒体",
+    "show_str": "25家媒体",
     "users": [
       {
         "id": 2286092114,
         "idstr": "2286092114",
         "screen_name": "中国蓝新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1704185933,
+        "idstr": "1704185933",
+        "screen_name": "聊城晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6910453729,
+        "idstr": "6910453729",
+        "screen_name": "绍虞城事通网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6021980686,
+        "idstr": "6021980686",
+        "screen_name": "费县融媒",
         "verified": true,
         "verified_type": 3
       },
@@ -37,30 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2105365573,
-        "idstr": "2105365573",
-        "screen_name": "威海播报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1829407315,
-        "idstr": "1829407315",
-        "screen_name": "蓝媒视频官方微博",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1763569030,
-        "idstr": "1763569030",
-        "screen_name": "新闻深一度",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1725252714,
-        "idstr": "1725252714",
-        "screen_name": "温度新闻",
+        "id": 3901624042,
+        "idstr": "3901624042",
+        "screen_name": "山西日报",
         "verified": true,
         "verified_type": 3
       }

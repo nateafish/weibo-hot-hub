@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 5665264752
   },
-  "last_seen_at": "2026-11-11T07:00:00+08:00",
+  "last_seen_at": "2026-11-11T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%8B%BC%E5%A4%9A%E5%A4%9A%E9%80%81%E8%B4%A7%E4%B8%8A%E9%97%A8%E6%96%B0%E8%A7%8411%E6%9C%8813%E6%97%A5%E7%94%9F%E6%95%88%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "9家媒体",
     "users": [
       {
         "id": 5665264752,
         "idstr": "5665264752",
         "screen_name": "万物库",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1826017320,
+        "idstr": "1826017320",
+        "screen_name": "IT之家",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6068019631,
+        "idstr": "6068019631",
+        "screen_name": "逐光新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,9 +44,23 @@
         "verified_type": 3
       },
       {
-        "id": 1735221154,
-        "idstr": "1735221154",
-        "screen_name": "城市晚报官方微博",
+        "id": 2824067765,
+        "idstr": "2824067765",
+        "screen_name": "贺州日报官微",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2145932164,
+        "idstr": "2145932164",
+        "screen_name": "东莞日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2041593395,
+        "idstr": "2041593395",
+        "screen_name": "搜狐济宁",
         "verified": true,
         "verified_type": 3
       }
