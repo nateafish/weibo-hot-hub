@@ -10,8 +10,10 @@ from datetime import datetime
 from pathlib import Path
 from typing import Any, Iterable
 
+import httpx
+
 from .topic import TopicBundle
-from .ai_search import AiAnswer
+from .ai_search import REFERENCE_CATEGORIES, AiAnswer, fetch_reference_posts, reference_list_url
 from .weibo import Post
 
 
@@ -29,8 +31,12 @@ def content_hash(value: Any) -> str:
 
 
 def atomic_json(path: Path, value: Any) -> None:
-    path.parent.mkdir(parents=True, exist_ok=True)
     payload = json.dumps(value, ensure_ascii=False, indent=2, sort_keys=True) + "\n"
+    _atomic_text(path, payload)
+
+
+def _atomic_text(path: Path, payload: str) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
     with tempfile.NamedTemporaryFile(
         "w", encoding="utf-8", dir=path.parent, delete=False
     ) as handle:
@@ -156,6 +162,9 @@ def save_ai_answer(
     captured_at: datetime,
     answer: AiAnswer,
     source_url: str,
+    *,
+    reference_http: httpx.Client | None = None,
+    known_posts: Iterable[Post] = (),
 ) -> Path | None:
     if answer.refused or not answer.markdown:
         return None
@@ -163,16 +172,35 @@ def save_ai_answer(
     ai_root = topic_root / "ai"
     state_path = ai_root / "state.json"
     digest = hashlib.sha256(answer.markdown.encode()).hexdigest()
-    if state_path.exists():
-        state = json.loads(state_path.read_text(encoding="utf-8"))
-        if state.get("content_sha256") == digest:
+    references = answer.references
+    answer_revision = content_hash([digest, answer.version, answer.sources])
+    revision = content_hash([
+        answer_revision,
+        [references.percentages, list(references.members.items())] if references else None,
+    ])
+    state = json.loads(state_path.read_text(encoding="utf-8")) if state_path.exists() else {}
+    previous_path = state.get("path")
+    previous = topic_root / previous_path if previous_path else None
+    if state.get("answer_sha256") == answer_revision and previous is not None and previous.is_file():
+        if references is None:
             return None
+        trace_path = previous.with_suffix(".references.json")
+        existing = json.loads(trace_path.read_text(encoding="utf-8")) if trace_path.exists() else None
+        if existing is None or state.get("revision_sha256") == revision:
+            if existing is None or any(not post.get("username") for post in existing["posts"]):
+                _save_answer_references(trace_path, captured_at, answer, source_url, reference_http, known_posts, existing)
+            if state.get("revision_sha256") != revision:
+                atomic_json(state_path, {**state, "revision_sha256": revision})
+            return None
+
+    if not state.get("revision_sha256") and not references and state.get("content_sha256") == digest and state.get("version") == answer.version:
+        return None
     output = (
         ai_root
         / captured_at.strftime("%Y")
         / captured_at.strftime("%m")
         / captured_at.strftime("%d")
-        / f"{captured_at:%H%M%S}-{digest[:8]}.md"
+        / f"{captured_at:%H%M%S}-{revision[:8]}.md"
     )
     output.parent.mkdir(parents=True, exist_ok=True)
     frontmatter = {
@@ -193,15 +221,71 @@ def save_ai_answer(
         sources = "\n\n## 信源\n\n" + "\n".join(
             f"- {url}" for url in answer.sources
         )
-    output.write_text(f"---\n{metadata}\n---\n\n{answer.markdown}{sources}\n", encoding="utf-8")
+    if references:
+        _save_answer_references(output.with_suffix(".references.json"), captured_at, answer, source_url, reference_http, known_posts)
+    _atomic_text(output, f"---\n{metadata}\n---\n\n{answer.markdown}{sources}\n")
     atomic_json(
         state_path,
         {
             "captured_at": captured_at.isoformat(),
             "content_sha256": digest,
+            "answer_sha256": answer_revision,
+            "revision_sha256": revision,
             "upstream_md5": answer.upstream_md5,
             "version": answer.version,
             "path": str(output.relative_to(topic_root)),
         },
     )
     return output
+
+
+def _save_answer_references(
+    path: Path,
+    captured_at: datetime,
+    answer: AiAnswer,
+    source_url: str,
+    http: httpx.Client | None,
+    known_posts: Iterable[Post],
+    existing: dict[str, Any] | None = None,
+) -> None:
+    refs = answer.references
+    if refs is None:
+        return
+    prior = {item["mid"]: item for item in existing["posts"]} if existing else {}
+    posts = {post.mid: post for post in known_posts if post.mid in refs.members}
+    wanted = {
+        mid for mid in refs.members
+        if not prior.get(mid, {}).get("username") and (mid not in posts or not posts[mid].username)
+    }
+    if http is not None and wanted:
+        posts.update(fetch_reference_posts(http, answer.query, wanted))
+
+    rows = []
+    for mid, category in refs.members.items():
+        post = posts.get(mid)
+        fallback = prior.get(mid, {})
+        rows.append({
+            "mid": mid,
+            "username": fallback.get("username") or (post.username if post else None) or refs.inline_names.get(mid),
+            "uid": fallback.get("uid") or (post.uid if post else None),
+            "url": (post.url if post else None) or fallback.get("url") or f"https://m.weibo.cn/detail/{mid}",
+            "category": REFERENCE_CATEGORIES.get(category) if category else None,
+            "created_at_text": fallback.get("created_at_text") or (post.created_at_text if post else None),
+            "excerpt": fallback.get("excerpt") or (post.body[:240] if post else None),
+        })
+
+    trace = {
+        "answer_version": answer.version,
+        "captured_at": existing["captured_at"] if existing else captured_at.isoformat(),
+        "source_url": source_url,
+        "reference_url": reference_list_url(answer.query),
+        "reported_count": len(refs.members),
+        "breakdown": [
+            {"label": REFERENCE_CATEGORIES[key], "percent": percent,
+             "url": reference_list_url(answer.query, category=key if key != "media" else "")}
+            for key, percent in refs.percentages.items()
+        ],
+        "posts": rows,
+    }
+    if trace != existing:
+        atomic_json(path, trace)

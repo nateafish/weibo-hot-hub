@@ -347,17 +347,21 @@ def _ai_files(topic_root: Path, output_topic_root: Path) -> list[dict[str, Any]]
     for path in sorted((topic_root / "ai").glob("*/*/*/*.md"), reverse=True):
         metadata, markdown = _parse_frontmatter(path.read_text(encoding="utf-8"))
         version_id = "-".join(path.relative_to(topic_root / "ai").parts).removesuffix(".md")
+        trace = _read_json(path.with_suffix(".references.json"))
+        if not isinstance(trace, dict) or str(trace.get("answer_version") or "null") != metadata.get("version", "null"):
+            trace = None
         record = {
             "id": version_id,
             "captured_at": metadata.get("captured_at", ""),
             "query": metadata.get("query", ""),
             "source_url": metadata.get("source_url", ""),
             "content_sha256": metadata.get("content_sha256", ""),
+            **({"has_reference_trace": True} if trace else {}),
         }
         versions.append(record)
         _write_json(
             output_topic_root / "ai" / f"{version_id}.json",
-            {"metadata": metadata, "markdown": markdown},
+            {"metadata": metadata, "markdown": markdown, **({"reference_trace": trace} if trace else {})},
         )
     versions.sort(key=lambda item: item["captured_at"], reverse=True)
     return versions
@@ -377,6 +381,8 @@ def _export_topics(
         trends = _trend_files(topic_root)
         posts = _post_files(topic_root)
         versions = _ai_files(topic_root, output_topic_root)
+        reference_paths = sorted((topic_root / "ai" / "references").glob("*/*/*/*.json"), reverse=True)
+        reference_trace = next((trace for path in reference_paths if (trace := _read_json(path))), None)
         for date, records in snapshots.items():
             _write_json(output_topic_root / "snapshots" / f"{date}.json", records)
         for date, records in trends.items():
@@ -401,6 +407,7 @@ def _export_topics(
             "trend_dates": sorted(trends),
             "post_dates": sorted(posts),
             "ai_versions": versions,
+            **({"ai_reference_trace": reference_trace} if reference_trace else {}),
             "stats": stats,
         }
         _write_json(output_topic_root / "summary.json", summary)
@@ -416,7 +423,7 @@ def _export_topics(
                 "best_rank": stats.get("best_rank"),
                 "hours_seen": stats.get("hours_seen", 0),
                 "has_posts": bool(posts),
-                "has_ai": bool(versions),
+                "has_ai": bool(versions or reference_trace),
             }
         )
     _write_json(output_root / "topics" / "index.json", topic_index)

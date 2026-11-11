@@ -11,7 +11,10 @@ from urllib.parse import parse_qs, urlparse
 import httpx
 from bs4 import BeautifulSoup
 
-from .weibo import LoginRequired, canonical_https
+from .weibo import (
+    LoginRequired, ParseError, Post, _sleep_with_jitter, assert_authenticated,
+    canonical_https, parse_search_page,
+)
 
 
 AI_ENDPOINT = "https://ai.s.weibo.com/api/wis/show.json"
@@ -25,6 +28,21 @@ class AiSearchError(RuntimeError):
     pass
 
 
+REFERENCE_CATEGORIES = {
+    "gold_orange_v": "金橙V",
+    "verified": "认证用户",
+    "normal": "普通用户",
+    "media": "媒体",
+}
+
+
+@dataclass(frozen=True)
+class AiReferences:
+    percentages: dict[str, float]
+    members: dict[str, str | None]
+    inline_names: dict[str, str]
+
+
 @dataclass(frozen=True)
 class AiAnswer:
     query: str
@@ -36,6 +54,7 @@ class AiAnswer:
     refused: bool
     markdown: str
     sources: list[str]
+    references: AiReferences | None = None
 
 
 def ai_headers(cookie: str) -> dict[str, str]:
@@ -82,7 +101,7 @@ def fetch_ai_answer(http: httpx.Client, topic: str) -> AiAnswer:
         raise AiSearchError("AI search returned non-JSON") from exc
     if not isinstance(payload, dict):
         raise AiSearchError("AI search payload is not an object")
-    return normalize_ai_answer(payload)
+    return normalize_ai_answer({**payload, "query": payload.get("query") or topic})
 
 
 def _scheme_links(value: Any) -> list[tuple[str, str]]:
@@ -94,6 +113,8 @@ def _scheme_links(value: Any) -> list[tuple[str, str]]:
         candidates = [data]
     output: list[tuple[str, str]] = []
     for item in candidates:
+        if not isinstance(item, dict):
+            continue
         url = canonical_https(str(item.get("scheme") or ""))
         if url:
             output.append((str(item.get("name") or item.get("index") or "微博来源"), url))
@@ -140,6 +161,50 @@ def message_to_markdown(message: str) -> str:
     return value.strip()
 
 
+def _normalize_references(raw: Any, markdown: str) -> AiReferences | None:
+    if isinstance(raw, str):
+        try:
+            raw = json.loads(raw)
+        except json.JSONDecodeError:
+            return None
+    if not isinstance(raw, dict):
+        return None
+
+    percentages: dict[str, float] = {}
+    members: dict[str, str | None] = {}
+    for category in REFERENCE_CATEGORIES:
+        ratio = re.fullmatch(r"(\d+(?:\.\d+)?)\s*%?", str(raw.get(f"{category}_ratio", "")).strip())
+        if ratio and float(ratio[1]) <= 100:
+            percentages[category] = float(ratio[1])
+        ids = raw.get(f"{category}_mids")
+        if isinstance(ids, list):
+            for mid in map(str, ids):
+                if mid.isdecimal():
+                    members.setdefault(mid, category)
+
+    ranks = raw.get("ref_mid_rank")
+    if isinstance(ranks, dict):
+        for mid in ranks:
+            if mid.isdecimal():
+                members.setdefault(mid, None)
+
+        def reference_rank(mid: str) -> int:
+            item = ranks.get(mid)
+            rank = item.get("rank") if isinstance(item, dict) else None
+            return int(str(rank)) if str(rank).isdecimal() else len(members) + 1
+
+        members = dict(sorted(members.items(), key=lambda item: reference_rank(item[0])))
+
+    if not members and not percentages:
+        return None
+    inline_names = {
+        mid: name.strip()
+        for name, mid in re.findall(r"\[([^\]\n]+)\]\(https://m\.weibo\.cn/(?:detail|status(?:/detail)?)/(\d+)(?:[/?#][^\s)]*)?\)", markdown)
+        if mid in members and not re.fullmatch(r"\s*(?:\d+|微博来源|微博素材)\s*", name)
+    }
+    return AiReferences(percentages, members, inline_names)
+
+
 def normalize_ai_answer(payload: dict[str, Any]) -> AiAnswer:
     message = str(payload.get("msg") or "")
     markdown = message_to_markdown(message)
@@ -162,12 +227,51 @@ def normalize_ai_answer(payload: dict[str, Any]) -> AiAnswer:
         refused=refused,
         markdown=markdown,
         sources=sources,
+        references=_normalize_references(payload.get("reliable_tips"), markdown),
     )
 
 
-def reference_list_url(topic: str, page: int = 1) -> str:
+def reference_list_url(topic: str, page: int = 1, category: str = "") -> str:
     query = httpx.QueryParams(
-        {"q": topic, "res_type": "ref_blog", "u_type": "", "page": page}
+        {"q": topic, "res_type": "ref_blog", "u_type": category, "page": page}
     )
     return f"https://s.weibo.com/aisearchmore?{query}"
+
+
+def fetch_reference_posts(http: httpx.Client, topic: str, wanted: set[str]) -> dict[str, Post]:
+    """Resolve posts by the answer's IDs, even if the search page has since changed."""
+    found: dict[str, Post] = {}
+    pages = {1}
+    visited: set[int] = set()
+    while pages:
+        page = min(pages)
+        pages.remove(page)
+        visited.add(page)
+        if len(visited) > 1:
+            _sleep_with_jitter(0.4, 0.2)
+        try:
+            response = http.get(reference_list_url(topic, page), timeout=12)
+            response.raise_for_status()
+            assert_authenticated(response)
+            posts = parse_search_page(response.text)
+        except (httpx.HTTPError, LoginRequired, ParseError):
+            break
+
+        for post in posts:
+            if post.mid in wanted and (post.mid not in found or post.username):
+                found[post.mid] = post
+        if all(mid in found and found[mid].username for mid in wanted):
+            break
+        soup = BeautifulSoup(response.text, "html.parser")
+        for anchor in soup.select('#pl_feedlist_index a[href*="page="]'):
+            link = urlparse(str(anchor.get("href", "")))
+            params = parse_qs(link.query)
+            number = params.get("page", [""])[0]
+            if (
+                link.path == "/aisearchmore" and params.get("res_type") == ["ref_blog"]
+                and params.get("q") == [topic] and "u_type" not in params
+                and number.isdecimal() and int(number) not in visited
+            ):
+                pages.add(int(number))
+    return found
 

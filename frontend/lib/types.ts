@@ -91,6 +91,7 @@ export interface AiVersion {
   query?: string;
   source_url?: string;
   content_sha256?: string;
+  has_reference_trace?: boolean;
 }
 
 export interface TopicSummary {
@@ -101,7 +102,25 @@ export interface TopicSummary {
   trend_dates: string[];
   post_dates: string[];
   ai_versions: AiVersion[];
+  ai_reference_trace?: AiReferenceTrace;
   stats: Record<string, number | string | null>;
+}
+
+export interface AiReferenceTrace {
+  answer_version?: string | null;
+  captured_at: string;
+  source_url: string;
+  reference_url: string;
+  reported_count: number;
+  breakdown: { label: string; percent: number; url: string }[];
+  posts: {
+    mid: string;
+    username?: string | null;
+    url: string;
+    category?: string | null;
+    created_at_text?: string | null;
+    excerpt?: string | null;
+  }[];
 }
 
 export interface TrendPoint { at: string; label: string; value: number }
@@ -136,4 +155,5 @@ export interface PostDay {
 export interface AiContent {
   metadata: Record<string, string>;
   markdown: string;
+  reference_trace?: AiReferenceTrace;
 }

@@ -121,6 +121,7 @@ def run_hourly(data_root: Path, pages: int = 1, max_topics: int = 0) -> dict[str
             raise RuntimeError("WEIBO_MOBILE_COOKIE failed /api/config login check")
         use_mobile_posts = True
         for index, hot_topic in enumerate(selected):
+            known_posts = []
             item: dict[str, Any] = {
                 "rank": hot_topic.rank,
                 "title": hot_topic.title,
@@ -161,8 +162,9 @@ def run_hourly(data_root: Path, pages: int = 1, max_topics: int = 0) -> dict[str
                     use_mobile_posts,
                 )
                 save_post_pages(data_root, bundle.topic_id, captured_at, post_pages)
+                known_posts = unique_posts(post_pages)
                 item["posts"] = "saved"
-                item["post_count"] = len(unique_posts(post_pages))
+                item["post_count"] = len(known_posts)
             except Exception as exc:
                 item["posts"] = "failed"
                 item["posts_error"] = _error(exc)
@@ -172,9 +174,11 @@ def run_hourly(data_root: Path, pages: int = 1, max_topics: int = 0) -> dict[str
                 output = save_ai_answer(
                     data_root,
                     bundle.topic_id,
-                    captured_at,
+                    datetime.now(captured_at.tzinfo).replace(microsecond=0),
                     answer,
                     ai_search_url(hot_topic.query),
+                    reference_http=post_pc_http,
+                    known_posts=known_posts,
                 )
                 item["ai"] = "refused" if answer.refused else ("saved" if output else "unchanged")
             except Exception as exc:

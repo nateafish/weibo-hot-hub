@@ -8,7 +8,7 @@ from zoneinfo import ZoneInfo
 from .ai_search import ai_client, fetch_ai_answer
 from .storage import save_ai_answer
 from .topic import fetch_topic_bundle, topic_client
-from .weibo import ai_search_url, cookie_from_env
+from .weibo import ai_search_url, client, cookie_from_env
 
 
 def main() -> None:
@@ -19,11 +19,13 @@ def main() -> None:
     captured_at = datetime.now(ZoneInfo("Asia/Shanghai")).replace(microsecond=0)
     with topic_client() as public_http:
         bundle = fetch_topic_bundle(public_http, args.topic, captured_at)
-    with ai_client(cookie_from_env()) as http:
+    cookie = cookie_from_env()
+    with ai_client(cookie) as http, client(cookie) as reference_http:
         answer = fetch_ai_answer(http, args.topic)
-    output = save_ai_answer(
-        args.data_root, bundle.topic_id, captured_at, answer, ai_search_url(args.topic)
-    )
+        output = save_ai_answer(
+            args.data_root, bundle.topic_id, captured_at, answer, ai_search_url(args.topic),
+            reference_http=reference_http,
+        )
     print(output or "unchanged-or-refused")
 
 

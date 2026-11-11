@@ -33,6 +33,8 @@ test("mobile navigation exposes all four pages", async ({ page }, testInfo) => {
 test("AI archive renders markdown and HTTPS sources", async ({ page }) => {
   await page.goto("/topic/?id=231522720a9ba0fab3b46ab7f606b51b58d8cc");
   await page.getByRole("tab", { name: "智搜" }).click();
+  await page.getByRole("combobox", { name: "采集版本" }).click();
+  await page.getByRole("option", { name: "2026/08/12 21:39" }).click();
   await expect(page.getByRole("heading", { name: /核心数据创历史新低/ })).toBeVisible();
   const source = page.getByRole("link", { name: "https://m.weibo.cn/detail/5331088060977776" });
   await expect(source).toHaveAttribute("href", "https://m.weibo.cn/detail/5331088060977776");
