@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 7839012165
   },
-  "last_seen_at": "2026-11-11T20:00:00+08:00",
+  "last_seen_at": "2026-11-11T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%B0%9A%E5%85%AC%E4%B8%BB%E5%A4%A7%E7%BB%93%E5%B1%80%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "7家媒体",
     "users": [
+      {
+        "id": 1895096900,
+        "idstr": "1895096900",
+        "screen_name": "深圳新闻网",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 3752699924,
         "idstr": "3752699924",
@@ -23,9 +30,37 @@
         "verified_type": 3
       },
       {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2027480085,
+        "idstr": "2027480085",
+        "screen_name": "水母网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1677991972,
         "idstr": "1677991972",
         "screen_name": "晶报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1647210043,
+        "idstr": "1647210043",
+        "screen_name": "百姓关注",
         "verified": true,
         "verified_type": 3
       }

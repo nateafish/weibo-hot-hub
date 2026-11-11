@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 1775084261
   },
-  "last_seen_at": "2026-11-11T20:00:00+08:00",
+  "last_seen_at": "2026-11-11T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%AE%B8%E9%A3%9E%E7%9F%A5%E9%81%93%E9%99%88%E7%91%B6%E5%8F%AB%E8%B5%9B%E5%8D%9A%E5%8E%89%E5%A8%9C%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "5家媒体",
     "users": [
+      {
+        "id": 1642591402,
+        "idstr": "1642591402",
+        "screen_name": "新浪娱乐",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 5539777260,
         "idstr": "5539777260",
@@ -30,16 +37,16 @@
         "verified_type": 3
       },
       {
-        "id": 1656737654,
-        "idstr": "1656737654",
-        "screen_name": "现代快报",
+        "id": 1880922220,
+        "idstr": "1880922220",
+        "screen_name": "金华晚报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1642591402,
-        "idstr": "1642591402",
-        "screen_name": "新浪娱乐",
+        "id": 1656737654,
+        "idstr": "1656737654",
+        "screen_name": "现代快报",
         "verified": true,
         "verified_type": 3
       }

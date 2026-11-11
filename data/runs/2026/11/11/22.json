@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-11T22:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#习近平主席这样寄语亚太发展#",
+      "rank": 1,
+      "title": "习近平主席这样寄语亚太发展",
+      "topic_id": "231522a0158c8e747806ff03d10810d4fae2c6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#兰香如故配角拿到男女主资源了#",
+      "rank": 1,
+      "title": "兰香如故配角拿到男女主资源了",
+      "topic_id": "23152210c5857be169c6e1b7561d06da98e8ad"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#店主代买彩票中825万私自兑奖#",
+      "rank": 2,
+      "title": "店主代买彩票中825万私自兑奖",
+      "topic_id": "231522b156f126ad617740566a84f23e8d6d48"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#万千气象看陕西#",
+      "rank": 3,
+      "title": "万千气象看陕西",
+      "topic_id": "231522cc83b6796c0eb43fe188942f578da0c9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#3岁女孩练芭蕾2年蜕变惊人#",
+      "rank": 4,
+      "title": "3岁女孩练芭蕾2年蜕变惊人",
+      "topic_id": "231522aa83a22e7aa14ab2e47c6031742dd50e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#白小纯不依赖哥哥算长大吗#",
+      "rank": 5,
+      "title": "白小纯不依赖哥哥算长大吗",
+      "topic_id": "23152244b9c686e40e09832cf3cf0ec8f8be2b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "商场看中羽绒服网上便宜一千",
+      "rank": 6,
+      "title": "商场看中羽绒服网上便宜一千",
+      "topic_id": "231522560c97e6c6cb9482b79c660223c869a9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "金鸡奖两幕对比太扎心",
+      "rank": 7,
+      "title": "金鸡奖两幕对比太扎心",
+      "topic_id": "2315226f00c81003de53a76444c0050cf00b4f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "离岸信托个税10月入库超1200亿",
+      "rank": 8,
+      "title": "离岸信托个税10月入库超1200亿",
+      "topic_id": "23152261d0d15a79703cc9ce4ada04c7d750d5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#菲律宾总统最新涉华表态#",
+      "rank": 9,
+      "title": "菲律宾总统最新涉华表态",
+      "topic_id": "231522488550179eef0552efd66aea9b9a778f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "朋友求偶感特别强有多好笑",
+      "rank": 10,
+      "title": "朋友求偶感特别强有多好笑",
+      "topic_id": "231522753d76e0f18fdc8dbbfc64f71e83a82a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "霍启山娜然 结婚",
+      "rank": 11,
+      "title": "霍启山娜然 结婚",
+      "topic_id": "231522b587883f91c0ac9832feb57cf4a47ba4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#霍启刚郭晶晶11月11日办的世纪婚礼#",
+      "rank": 12,
+      "title": "霍启刚郭晶晶11月11日办的世纪婚礼",
+      "topic_id": "2315220612110ce3eb0ed94eb7bf83e03e9bee"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "杨幂 神之一蹲",
+      "rank": 13,
+      "title": "杨幂 神之一蹲",
+      "topic_id": "2315220d729b00d94653d84328d253fab2a307"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#疑似许飞厉娜告密监控视频泄露#",
+      "rank": 14,
+      "title": "疑似许飞厉娜告密监控视频泄露",
+      "topic_id": "23152273b9ae39972f6d8c19d1ed0c6050e7e6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#正午阳光辟谣谍报上不封顶招商#",
+      "rank": 15,
+      "title": "正午阳光辟谣谍报上不封顶招商",
+      "topic_id": "231522944d5b37690d12c455865e2007b8d30d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "我爸不敢坐我的车写了篇报告",
+      "rank": 16,
+      "title": "我爸不敢坐我的车写了篇报告",
+      "topic_id": "231522bdf7d81e3c9be9910da03f585d862a49"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "曝iPhone20Pro全固态按键",
+      "rank": 17,
+      "title": "曝iPhone20Pro全固态按键",
+      "topic_id": "231522a2caaa716d536649ae08c3f18962c8ec"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#谷雨张颂文张雪迎床戏#",
+      "rank": 18,
+      "title": "谷雨张颂文张雪迎床戏",
+      "topic_id": "2315229e7612075208ccc7eadb4d02ec805820"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#李昀锐语音口令红包#",
+      "rank": 19,
+      "title": "李昀锐语音口令红包",
+      "topic_id": "2315225d9746a1f7124dcc1718048083345c90"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#凯迪拉克CT5#",
+      "rank": 20,
+      "title": "凯迪拉克CT5",
+      "topic_id": "2315221578daa8daf484c9c2c21567be562481"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#0.01分赢下保研第二天就被室友举报#",
+      "rank": 21,
+      "title": "0.01分赢下保研第二天就被室友举报",
+      "topic_id": "231522f09b4b14c0f4e81b3b00d3b265800e8f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 7,
+      "posts": "saved",
+      "query": "#双11同款空调反而贵了331元#",
+      "rank": 22,
+      "title": "双11同款空调反而贵了331元",
+      "topic_id": "231522b5bd90ec637bf2645304a0b07318c3e3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#赵丽颖起诉红果短剧#",
+      "rank": 23,
+      "title": "赵丽颖起诉红果短剧",
+      "topic_id": "231522c7a879775d1c8f6851774be9ed5e1038"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#许飞听到厉娜小名老钱笑都冒出来了#",
+      "rank": 24,
+      "title": "许飞听到厉娜小名老钱笑都冒出来了",
+      "topic_id": "2315225508e8c34806796f33454efc85a22e51"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "王楚钦打法被研究",
+      "rank": 25,
+      "title": "王楚钦打法被研究",
+      "topic_id": "231522e8d5f3e7be1c9637ec0a2840d45af5c9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "中年人的显老行为太形象了",
+      "rank": 26,
+      "title": "中年人的显老行为太形象了",
+      "topic_id": "231522df774f4179157d7546ce5d0522252a0d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张萌送iPhone18马天宇送iPhone14#",
+      "rank": 27,
+      "title": "张萌送iPhone18马天宇送iPhone14",
+      "topic_id": "23152246cfcfd7b2300f058ef881d48445e506"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#曝王心凌拎着750万台币现金买珠宝#",
+      "rank": 28,
+      "title": "曝王心凌拎着750万台币现金买珠宝",
+      "topic_id": "23152278fda1680ff82f6db95fd6e8defaa8d8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "武汉年入百万的补课老师不少",
+      "rank": 29,
+      "title": "武汉年入百万的补课老师不少",
+      "topic_id": "23152253096600dd8cb0651a3aab33ec602b83"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "日本上司因中国下属回OK不爽",
+      "rank": 30,
+      "title": "日本上司因中国下属回OK不爽",
+      "topic_id": "2315225f414ec19c6b4df5f787659fc325ccab"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#青稚现队友辟谣#",
+      "rank": 31,
+      "title": "青稚现队友辟谣",
+      "topic_id": "23152206f85fa7b67293f65651970f7605dbdc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 5,
+      "posts": "saved",
+      "query": "#彩票店主私兑825万奖金全家被起诉#",
+      "rank": 32,
+      "title": "彩票店主私兑825万奖金全家被起诉",
+      "topic_id": "231522a34e78b2aeb64a4e351d464859f5ce72"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#霍震霆被问是否满意霍启山女友#",
+      "rank": 33,
+      "title": "霍震霆被问是否满意霍启山女友",
+      "topic_id": "2315227425cbf4b9eb94eddf416026140306a0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "虞书欣直播",
+      "rank": 34,
+      "title": "虞书欣直播",
+      "topic_id": "23152281c5c3ac397e89453c84be76025b196f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#未来5年会计事业这样发展#",
+      "rank": 35,
+      "title": "未来5年会计事业这样发展",
+      "topic_id": "231522333e8de09269ed794298bbb4072cadf3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#胚胎案丈夫近期多次上门想协商离婚#",
+      "rank": 36,
+      "title": "胚胎案丈夫近期多次上门想协商离婚",
+      "topic_id": "23152255898aa501c6622d50ec9975211871a5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#娜然哪怕在何穗旁边也完全不输#",
+      "rank": 37,
+      "title": "娜然哪怕在何穗旁边也完全不输",
+      "topic_id": "2315225908c48530e40b6ea4ccf20e935a8489"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#Rookie祝福TheShy#",
+      "rank": 38,
+      "title": "Rookie祝福TheShy",
+      "topic_id": "231522805512b18d311612d0cfa7cfe8724ccf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "大冰对抗紧张的方法太牛了",
+      "rank": 39,
+      "title": "大冰对抗紧张的方法太牛了",
+      "topic_id": "2315227c062d5d87521bcce28e6e1c1bc7699c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#机械臂捡快递遇异形件直接扔走#",
+      "rank": 40,
+      "title": "机械臂捡快递遇异形件直接扔走",
+      "topic_id": "2315224ae7421c12ead75d3a9c9e72e72e7e98"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "尚公主大结局",
+      "rank": 41,
+      "title": "尚公主大结局",
+      "topic_id": "231522a340a04e509427fc959f2fc496f6512a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "许飞知道陈瑶叫赛博厉娜了",
+      "rank": 42,
+      "title": "许飞知道陈瑶叫赛博厉娜了",
+      "topic_id": "23152205cc42cb3eae647d004d4e19a23aa651"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#白敬亭井柏然宋威龙王嘉尔张凌赫同框#",
+      "rank": 43,
+      "title": "白敬亭井柏然宋威龙王嘉尔张凌赫同框",
+      "topic_id": "2315226dd9df524e8397124c63ffe99da856d6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#张颂文张雪迎真的有吻戏#",
+      "rank": 44,
+      "title": "张颂文张雪迎真的有吻戏",
+      "topic_id": "231522192aec687a2b90f5348d89e4c5fddb87"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "一直以为对象没朋友是加分项",
+      "rank": 45,
+      "title": "一直以为对象没朋友是加分项",
+      "topic_id": "23152224b639d849e4b5d5efc2df708a4534bb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "谍报上不封顶",
+      "rank": 46,
+      "title": "谍报上不封顶",
+      "topic_id": "2315228358833d47ceca3425452f4d59e23a0e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "谷雨",
+      "rank": 47,
+      "title": "谷雨",
+      "topic_id": "23152203d6cdf1e42ef31fa12380ed0d3dc34a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "华为星芒补全价格矩阵",
+      "rank": 48,
+      "title": "华为星芒补全价格矩阵",
+      "topic_id": "231522e3b6bc5c7a6d919f2411eed4b009ae44"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#白小纯气运之子#",
+      "rank": 49,
+      "title": "白小纯气运之子",
+      "topic_id": "231522af6ca51b3f6490946b9a9ae3d33a553d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#杨超越模仿董思成letswinwin#",
+      "rank": 50,
+      "title": "杨超越模仿董思成letswinwin",
+      "topic_id": "2315224369c7860626fa0720eb71cf8e13288a"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
