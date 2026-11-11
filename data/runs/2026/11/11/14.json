@@ -1,0 +1,537 @@
+{
+  "captured_at": "2026-11-11T14:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 0,
+    "metrics_saved": 50,
+    "posts_saved": 50
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#总书记这样呼吁海内外全体中华儿女#",
+      "rank": 1,
+      "title": "总书记这样呼吁海内外全体中华儿女",
+      "topic_id": "231522f9735016824137af4cd2aa102ea3a1c3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "司美格鲁肽副作用",
+      "rank": 1,
+      "title": "司美格鲁肽副作用",
+      "topic_id": "2315227ace0710e0944f039059947fa93ac9d1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#林生斌名下关联13家公司#",
+      "rank": 2,
+      "title": "林生斌名下关联13家公司",
+      "topic_id": "23152299753318207e9221018c110309e475dd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#前10个月外贸强劲增长#",
+      "rank": 3,
+      "title": "前10个月外贸强劲增长",
+      "topic_id": "231522e21e4c8aad80842d45c645576a603f66"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张雪冠军车拍卖款不再捐给韩红基金会#",
+      "rank": 4,
+      "title": "张雪冠军车拍卖款不再捐给韩红基金会",
+      "topic_id": "231522fd9f27e58cee616ab14c862302bff6d8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#比亚迪汽车发布声明#",
+      "rank": 5,
+      "title": "比亚迪汽车发布声明",
+      "topic_id": "231522b084614f6c55b0afa659979f99c5eb50"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#董宇辉回应千层蛋糕保质期#",
+      "rank": 6,
+      "title": "董宇辉回应千层蛋糕保质期",
+      "topic_id": "231522dcd7cc9252edaad19567f6962a434e5e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#女孩在拼豆店干坐离开前留纸条道歉#",
+      "rank": 7,
+      "title": "女孩在拼豆店干坐离开前留纸条道歉",
+      "topic_id": "231522936efd00f510f665eba64b0dce47c578"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#特朗普离任时给拜登的信全文曝光#",
+      "rank": 8,
+      "title": "特朗普离任时给拜登的信全文曝光",
+      "topic_id": "231522fc95e1e85fb2bfb463c6966b80e5523c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#尚公主穿帮#",
+      "rank": 9,
+      "title": "尚公主穿帮",
+      "topic_id": "231522bbfbbff7a2a5ae852bb21d154714cae8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#嫁金钗陆濯假死被放在彩蛋里了#",
+      "rank": 10,
+      "title": "嫁金钗陆濯假死被放在彩蛋里了",
+      "topic_id": "2315222dd51e9c0a081df6fa3dd2dd9df7d0d4"
+    },
+    {
+      "ai": "pending",
+      "metrics": "failed",
+      "metrics_error": "TopicFetchError: Topic detail is missing a stable id or title",
+      "posts": "pending",
+      "query": "林生斌",
+      "rank": 11,
+      "title": "林生斌"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#拜登遇袭#",
+      "rank": 12,
+      "title": "拜登遇袭",
+      "topic_id": "231522a92567426a86bc6d0aca0744c43c72ed"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#天猫双11巅峰价真便宜#",
+      "rank": 13,
+      "title": "天猫双11巅峰价真便宜",
+      "topic_id": "231522405a0d8653f08bc729ed4f756d8b96dc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#黄景瑜只有和王雨馨那段婚姻#",
+      "rank": 14,
+      "title": "黄景瑜只有和王雨馨那段婚姻",
+      "topic_id": "231522459b44050d9b2ac62e451929c3a5a10f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#毛林林没整容的原因#",
+      "rank": 15,
+      "title": "毛林林没整容的原因",
+      "topic_id": "23152263d1ccf94064c88a05399d7b4c3960ec"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "许飞 厉娜",
+      "rank": 16,
+      "title": "许飞 厉娜",
+      "topic_id": "231522a4f9deaeb3ccf54bbb784262d10814b6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#井迪穿那么少都没井胧看起来擦边#",
+      "rank": 17,
+      "title": "井迪穿那么少都没井胧看起来擦边",
+      "topic_id": "231522f59dce5e928d3a8e00844d90ef650009"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "羊城晚报评王楚钦反思长文",
+      "rank": 18,
+      "title": "羊城晚报评王楚钦反思长文",
+      "topic_id": "231522785378c3c3dcea2b988cc8bb6eddbc50"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#梁家辉捧着奖杯沉默了20秒#",
+      "rank": 19,
+      "title": "梁家辉捧着奖杯沉默了20秒",
+      "topic_id": "231522916c0ae6c6dc539e97580298c7d41de1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#地震瞬间3只小猫惊成6个灯泡#",
+      "rank": 20,
+      "title": "地震瞬间3只小猫惊成6个灯泡",
+      "topic_id": "23152267f14f7f3c789bbea86c4367d81a6bcb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#BLG进决赛引来半个娱乐圈#",
+      "rank": 21,
+      "title": "BLG进决赛引来半个娱乐圈",
+      "topic_id": "231522f86ed3ad08a7b01cef0adf638b0f7737"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "Ming 青稚",
+      "rank": 22,
+      "title": "Ming 青稚",
+      "topic_id": "23152211077e0980fbce7f2974feff76636623"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "同事放假一整年回原岗位",
+      "rank": 23,
+      "title": "同事放假一整年回原岗位",
+      "topic_id": "231522fdccf73f696d27026152b75663d5911f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#高叶获奖钟楚曦哭成泪人#",
+      "rank": 24,
+      "title": "高叶获奖钟楚曦哭成泪人",
+      "topic_id": "2315221fea626a4b8490eb77a203e61bcc6e58"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#我画地为牢了淘宝#",
+      "rank": 25,
+      "title": "我画地为牢了淘宝",
+      "topic_id": "23152284627af6b2e7c82b7a25b86170165ec0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#比亚迪回应轮辋装配问题#",
+      "rank": 26,
+      "title": "比亚迪回应轮辋装配问题",
+      "topic_id": "231522139ad2d54932cf3d431470fdad7c2e71"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "出轨猝死 法律不替道德买单",
+      "rank": 27,
+      "title": "出轨猝死 法律不替道德买单",
+      "topic_id": "2315228d39ec349f1205d6687128f09e47a622"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "再见老板",
+      "rank": 28,
+      "title": "再见老板",
+      "topic_id": "231522d5cd07d28527344f6efdd7fee13a011a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#马天宇现在所有人都送自己马克杯#",
+      "rank": 29,
+      "title": "马天宇现在所有人都送自己马克杯",
+      "topic_id": "231522901ec7f70d254305a08930111ae06f36"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#5个上门维修师傅2个说了实话#",
+      "rank": 30,
+      "title": "5个上门维修师傅2个说了实话",
+      "topic_id": "231522287897f28ba16a381b7e68465cc43c0f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#许飞回应张萌我也喜欢马克杯#",
+      "rank": 31,
+      "title": "许飞回应张萌我也喜欢马克杯",
+      "topic_id": "23152235ea1136d0eaf04fde4a9d83482d2fc0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "这也是芒果的",
+      "rank": 32,
+      "title": "这也是芒果的",
+      "topic_id": "231522b7f0ecab2416e0e2cebc144adc58d8ac"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#疑似盛艾敬妈妈账号曝光#",
+      "rank": 33,
+      "title": "疑似盛艾敬妈妈账号曝光",
+      "topic_id": "231522f5767b887a373b6deb62ba0faadb2bd8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#司美格鲁肽等减肥神药或致永久失明#",
+      "rank": 34,
+      "title": "司美格鲁肽等减肥神药或致永久失明",
+      "topic_id": "231522d2f6faccd6f03a98cfa8770d78fbf139"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "39岁经纪人疑因新冠去世",
+      "rank": 35,
+      "title": "39岁经纪人疑因新冠去世",
+      "topic_id": "2315224138ce55a37e2e899578636a0a75fc5f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#文吉儿的资源#",
+      "rank": 36,
+      "title": "文吉儿的资源",
+      "topic_id": "2315228dfe3f86c5cb3ffc26fafb4b616a4085"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#别人都是紧身裤就厉娜是阔腿裤#",
+      "rank": 37,
+      "title": "别人都是紧身裤就厉娜是阔腿裤",
+      "topic_id": "23152298075919da31704da191980169cedc89"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "青稚 白小纯",
+      "rank": 38,
+      "title": "青稚 白小纯",
+      "topic_id": "231522629adc0b84d91614d6e89f260cfba14b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#A股站在新的光里#",
+      "rank": 39,
+      "title": "A股站在新的光里",
+      "topic_id": "2315222ef22bcef9aa49514087b1c9a5d166db"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#太原高层公寓14死火灾始末#",
+      "rank": 40,
+      "title": "太原高层公寓14死火灾始末",
+      "topic_id": "231522aac4f35f6b90e36271a961b747629073"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#今日红包时间轴#",
+      "rank": 41,
+      "title": "今日红包时间轴",
+      "topic_id": "231522400ae400feabd16c6df665695a0443e8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "一周见一次就不想过了吗",
+      "rank": 42,
+      "title": "一周见一次就不想过了吗",
+      "topic_id": "231522ad8ccb83cd3f2e3b5ec7389434209a44"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#ally给马天宇送三个马克杯#",
+      "rank": 43,
+      "title": "ally给马天宇送三个马克杯",
+      "topic_id": "2315229fcc6127b97849160b0025625954a046"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#布朗说要称赞塔图姆#",
+      "rank": 44,
+      "title": "布朗说要称赞塔图姆",
+      "topic_id": "23152245e66c6fe2ca49b6cc9f62c9551c8d84"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#王皓恭喜高叶获金鸡影后#",
+      "rank": 45,
+      "title": "王皓恭喜高叶获金鸡影后",
+      "topic_id": "231522c19ceeb9a0713320dc6a75fc0e8c72ef"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "Smoggy微博ID与认证改为BLG选手",
+      "rank": 46,
+      "title": "Smoggy微博ID与认证改为BLG选手",
+      "topic_id": "231522739d06faa0ab08716b8669abe10ac47d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#男孩因名叫嘉豪被取笑想改名#",
+      "rank": 47,
+      "title": "男孩因名叫嘉豪被取笑想改名",
+      "topic_id": "231522ee28723c4cdcdf944abe1d3dec5c5dd7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#华为官宣杨幂折叠电脑先锋大使#",
+      "rank": 48,
+      "title": "华为官宣杨幂折叠电脑先锋大使",
+      "topic_id": "231522a7e216025a3f6f981486f06fb570ed24"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#NBA回应塔图姆隔扣詹姆斯#",
+      "rank": 49,
+      "title": "NBA回应塔图姆隔扣詹姆斯",
+      "topic_id": "231522222790e3936dbc21988276906f39c617"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#RTX5080价格#",
+      "rank": 50,
+      "title": "RTX5080价格",
+      "topic_id": "231522c53dc3902511f4e27e70e570b52dd18c"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 0.9803921568627451,
+      "metrics": 0.9803921568627451,
+      "posts": 0.9803921568627451
+    }
+  }
+}

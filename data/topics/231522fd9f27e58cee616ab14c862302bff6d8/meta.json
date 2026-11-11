@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1649173367
   },
-  "last_seen_at": "2026-11-11T13:00:00+08:00",
+  "last_seen_at": "2026-11-11T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%BC%A0%E9%9B%AA%E5%86%A0%E5%86%9B%E8%BD%A6%E6%8B%8D%E5%8D%96%E6%AC%BE%E4%B8%8D%E5%86%8D%E6%8D%90%E7%BB%99%E9%9F%A9%E7%BA%A2%E5%9F%BA%E9%87%91%E4%BC%9A%23%26t%3D3&title=发布媒体",
-    "show_str": "122家媒体",
+    "show_str": "130家媒体",
     "users": [
       {
         "id": 1649173367,
         "idstr": "1649173367",
         "screen_name": "每日经济新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -37,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 2337985010,
+        "idstr": "2337985010",
+        "screen_name": "瑞安融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1738006505,
         "idstr": "1738006505",
         "screen_name": "机锋网",
@@ -47,20 +61,6 @@
         "id": 2360016402,
         "idstr": "2360016402",
         "screen_name": "宁波日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2337985010,
-        "idstr": "2337985010",
-        "screen_name": "瑞安融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2290787940,
-        "idstr": "2290787940",
-        "screen_name": "扬州晚报",
         "verified": true,
         "verified_type": 3
       }

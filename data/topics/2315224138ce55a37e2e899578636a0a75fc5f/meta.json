@@ -3,15 +3,22 @@
   "created_at": 1794362094,
   "first_seen_at": "2026-11-11T11:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-11T13:00:00+08:00",
+  "last_seen_at": "2026-11-11T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%2339%E5%B2%81%E7%BB%8F%E7%BA%AA%E4%BA%BA%E7%96%91%E5%9B%A0%E6%96%B0%E5%86%A0%E5%8E%BB%E4%B8%96%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "2家媒体",
     "users": [
       {
         "id": 6993844458,
         "idstr": "6993844458",
         "screen_name": "微博泛生活",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5103305851,
+        "idstr": "5103305851",
+        "screen_name": "医学微视",
         "verified": true,
         "verified_type": 3
       }
