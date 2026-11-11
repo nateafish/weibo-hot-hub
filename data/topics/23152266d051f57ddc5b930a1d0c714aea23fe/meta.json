@@ -10,15 +10,43 @@
     "status": 2,
     "uid": 2286092114
   },
-  "last_seen_at": "2026-11-11T09:00:00+08:00",
+  "last_seen_at": "2026-11-11T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%2313%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%85%B9%E7%97%9B1%E5%B9%B4%E5%AE%B6%E9%95%BF%E5%BF%BD%E8%A7%86%E7%A1%AE%E8%AF%8A%E8%83%83%E7%99%8C%23%26t%3D3&title=发布媒体",
-    "show_str": "25家媒体",
+    "show_str": "61家媒体",
     "users": [
       {
         "id": 2286092114,
         "idstr": "2286092114",
         "screen_name": "中国蓝新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1677991972,
+        "idstr": "1677991972",
+        "screen_name": "晶报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1738004582,
+        "idstr": "1738004582",
+        "screen_name": "纵览新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1714800385,
+        "idstr": "1714800385",
+        "screen_name": "第一帮帮团",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 6910453729,
-        "idstr": "6910453729",
-        "screen_name": "绍虞城事通网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6021980686,
-        "idstr": "6021980686",
-        "screen_name": "费县融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5539777260,
-        "idstr": "5539777260",
-        "screen_name": "菏泽日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5110439722,
-        "idstr": "5110439722",
-        "screen_name": "哈尔滨经济广播电台",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3901624042,
-        "idstr": "3901624042",
-        "screen_name": "山西日报",
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
         "verified": true,
         "verified_type": 3
       }

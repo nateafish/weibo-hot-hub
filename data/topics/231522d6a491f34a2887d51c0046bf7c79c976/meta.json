@@ -10,11 +10,26 @@
     "status": 2,
     "uid": 2159714367
   },
-  "last_seen_at": "2026-11-11T09:00:00+08:00",
+  "last_seen_at": "2026-11-11T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%87%91%E5%AD%90%E6%B6%B5%E5%8E%BB%E7%BE%8E%E5%9B%BD%E7%AD%BE%E8%AF%81%E5%A4%9A%E6%AC%A1%E8%A2%AB%E6%8B%92%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "2家媒体",
+    "users": [
+      {
+        "id": 3048800300,
+        "idstr": "3048800300",
+        "screen_name": "新浪圈子",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1712686623,
+        "idstr": "1712686623",
+        "screen_name": "手机上的新浪",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#金子涵去美国签证多次被拒#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E5%8E%BB%E7%BE%8E%E5%9B%BD%E7%AD%BE%E8%AF%81%E5%A4%9A%E6%AC%A1%E8%A2%AB%E6%8B%92%23",

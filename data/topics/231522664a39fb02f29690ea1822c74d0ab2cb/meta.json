@@ -3,15 +3,36 @@
   "created_at": 1794321478,
   "first_seen_at": "2026-11-11T00:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-11T09:00:00+08:00",
+  "last_seen_at": "2026-11-11T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%87%91%E9%B8%A1%E6%9C%80%E4%BD%B3%E5%AF%BC%E6%BC%94+%E7%88%86%E5%86%B7%23%26t%3D3&title=发布媒体",
-    "show_str": "13家媒体",
+    "show_str": "24家媒体",
     "users": [
       {
         "id": 2105365573,
         "idstr": "2105365573",
         "screen_name": "威海播报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5758267327,
+        "idstr": "5758267327",
+        "screen_name": "徽视点",
         "verified": true,
         "verified_type": 3
       },
@@ -33,27 +54,6 @@
         "id": 2992050891,
         "idstr": "2992050891",
         "screen_name": "北京时间",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2813313591,
-        "idstr": "2813313591",
-        "screen_name": "中新网海南",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2252846093,
-        "idstr": "2252846093",
-        "screen_name": "长春新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2075245652,
-        "idstr": "2075245652",
-        "screen_name": "长春晚报",
         "verified": true,
         "verified_type": 3
       }
