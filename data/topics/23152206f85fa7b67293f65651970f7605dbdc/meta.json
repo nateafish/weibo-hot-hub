@@ -10,11 +10,19 @@
     "status": 2,
     "uid": 6456896852
   },
-  "last_seen_at": "2026-11-12T00:00:00+08:00",
+  "last_seen_at": "2026-11-12T04:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%9D%92%E7%A8%9A%E7%8E%B0%E9%98%9F%E5%8F%8B%E8%BE%9F%E8%B0%A3%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "1家媒体",
+    "users": [
+      {
+        "id": 7422806367,
+        "idstr": "7422806367",
+        "screen_name": "中网传播",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#青稚现队友辟谣#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%A8%9A%E7%8E%B0%E9%98%9F%E5%8F%8B%E8%BE%9F%E8%B0%A3%23",
