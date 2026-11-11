@@ -1,17 +1,52 @@
 {
-  "category": null,
+  "category": "社会",
   "created_at": 1697968256,
   "first_seen_at": "2026-11-11T13:00:00+08:00",
-  "host": null,
-  "last_seen_at": "2026-11-11T14:00:00+08:00",
+  "host": {
+    "claim_time": "2026.11.11-至今",
+    "created_at": "2026-11-11 14:19:19",
+    "is_claim": true,
+    "screen_name": "四川观察",
+    "status": 2,
+    "uid": 3203137375
+  },
+  "last_seen_at": "2026-11-11T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8F%B8%E7%BE%8E%E6%A0%BC%E9%B2%81%E8%82%BD%E5%89%AF%E4%BD%9C%E7%94%A8%23%26t%3D3&title=发布媒体",
-    "show_str": "51家媒体",
+    "show_str": "173家媒体",
     "users": [
+      {
+        "id": 1744332207,
+        "idstr": "1744332207",
+        "screen_name": "钱江视频",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 3203137375,
         "idstr": "3203137375",
         "screen_name": "四川观察",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1943154142,
+        "idstr": "1943154142",
+        "screen_name": "中安在线",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1929638045,
+        "idstr": "1929638045",
+        "screen_name": "现代金报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -23,46 +58,18 @@
         "verified_type": 3
       },
       {
-        "id": 6013508393,
-        "idstr": "6013508393",
-        "screen_name": "环球总财",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2028810631,
-        "idstr": "2028810631",
-        "screen_name": "新浪新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7476748260,
-        "idstr": "7476748260",
-        "screen_name": "大公文匯網",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7310744124,
-        "idstr": "7310744124",
-        "screen_name": "點新聞dotdotnews",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7211561239,
-        "idstr": "7211561239",
-        "screen_name": "央视频",
+        "id": 2318910945,
+        "idstr": "2318910945",
+        "screen_name": "新浪热点",
         "verified": true,
         "verified_type": 3
       }
     ]
   },
-  "query": "司美格鲁肽副作用",
+  "query": "#司美格鲁肽副作用#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E5%8F%B8%E7%BE%8E%E6%A0%BC%E9%B2%81%E8%82%BD%E5%89%AF%E4%BD%9C%E7%94%A8%23",
   "sub_category": null,
-  "summary": "",
+  "summary": "11月10日据新华社，美国食品和药物管理局9日发通告称，使用胰高血糖素样肽-1（GLP-1）受体激动剂类药物可能增加患一种较罕见、但可能导致永久视力丧失的眼部疾病风险，并要求所有相关药物的上市申请持有者在药品说明书中增加风险警示信息。",
   "title": "司美格鲁肽副作用",
   "topic_id": "2315227ace0710e0944f039059947fa93ac9d1"
 }
