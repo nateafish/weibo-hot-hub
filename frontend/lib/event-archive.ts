@@ -21,6 +21,7 @@ export interface EventMember {
   topic_id: string | null;
   title: string;
   reviewed: boolean;
+  post_hour?: string | null;
   appearances: EventAppearance[];
 }
 
@@ -55,4 +56,9 @@ export function archiveHourLabel(hour: string, short = false) {
 export function originalHotlist(revision: string, hour: string) {
   const path = hour.slice(0, 10).replaceAll("-", "/");
   return `https://github.com/nateafish/weibo-hot-hub/blob/${revision}/data/hotlists/${path}/${hour.slice(11, 13)}.json`;
+}
+
+export function originalPosts(topicId: string, hour: string) {
+  const params = new URLSearchParams({ id: topicId, tab: "posts", date: hour.slice(0, 10), hour: hour.slice(11) });
+  return `/topic/?${params}`;
 }
