@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-12T09:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#习近平主席这样寄语亚太发展#",
+      "rank": 1,
+      "title": "习近平主席这样寄语亚太发展",
+      "topic_id": "231522a0158c8e747806ff03d10810d4fae2c6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝熊大被写死了#",
+      "rank": 1,
+      "title": "曝熊大被写死了",
+      "topic_id": "23152286e0dda8ba61f843ebac1318f6280d6c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "怕保研被举报四年不和同学交往",
+      "rank": 2,
+      "title": "怕保研被举报四年不和同学交往",
+      "topic_id": "2315220ce95a52a851c8b1be61e47e7120d57c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#万千气象看陕西#",
+      "rank": 3,
+      "title": "万千气象看陕西",
+      "topic_id": "231522cc83b6796c0eb43fe188942f578da0c9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#山姆399元充绒量300克羽绒服断货#",
+      "rank": 4,
+      "title": "山姆399元充绒量300克羽绒服断货",
+      "topic_id": "2315224a444c92cffe396368cd767e7b28f6e9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#奔驰CEO称在中国车要大得惊人#",
+      "rank": 5,
+      "title": "奔驰CEO称在中国车要大得惊人",
+      "topic_id": "231522fa8605db161d58acd940536b27a87b3d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#正午阳光这是什么意思#",
+      "rank": 6,
+      "title": "正午阳光这是什么意思",
+      "topic_id": "23152281f8185ea8102485e57d30a627cee720"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张泉灵回应被许飞吐槽#",
+      "rank": 7,
+      "title": "张泉灵回应被许飞吐槽",
+      "topic_id": "231522614d501c8564f7458bfe8fb0e630e83f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#班主任在家长会上递辞呈边说边哽咽#",
+      "rank": 8,
+      "title": "班主任在家长会上递辞呈边说边哽咽",
+      "topic_id": "2315222c12a24b023185e8e446f7091448e7eb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#12306回应外籍游客探出高铁车厢吸烟#",
+      "rank": 9,
+      "title": "12306回应外籍游客探出高铁车厢吸烟",
+      "topic_id": "231522bc4fbea27d99083d30123b91decca4b2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "安德列娃连下11局胜萨巴伦卡",
+      "rank": 10,
+      "title": "安德列娃连下11局胜萨巴伦卡",
+      "topic_id": "231522fe053945bde4bf3ed417175a8f847e69"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "大美高迪离婚",
+      "rank": 11,
+      "title": "大美高迪离婚",
+      "topic_id": "2315220f9c6661fbeba9d0ea93ab37c7c3d32b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#赵丽颖起诉红果短剧#",
+      "rank": 12,
+      "title": "赵丽颖起诉红果短剧",
+      "topic_id": "231522c7a879775d1c8f6851774be9ed5e1038"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "马志明正式收郭德纲为义子",
+      "rank": 13,
+      "title": "马志明正式收郭德纲为义子",
+      "topic_id": "2315225d160a35fb2042d53f393b6ea2e0a4d8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "霍启山娜然 结婚",
+      "rank": 14,
+      "title": "霍启山娜然 结婚",
+      "topic_id": "231522b587883f91c0ac9832feb57cf4a47ba4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#台当局要求陆客删中国台湾字样被批#",
+      "rank": 15,
+      "title": "台当局要求陆客删中国台湾字样被批",
+      "topic_id": "2315223e3fb38026220b65c85c700eb82972bf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "大美 有些事发生了就没办法当没发生",
+      "rank": 16,
+      "title": "大美 有些事发生了就没办法当没发生",
+      "topic_id": "231522315105cf03b2be3104c14ec98f8dd219"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#尚公主播出这样的成绩真的好可惜#",
+      "rank": 17,
+      "title": "尚公主播出这样的成绩真的好可惜",
+      "topic_id": "231522d497f7d129665576b3be47e7b25ea0ec"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女子西西弗买200元书坐咖啡区被拒#",
+      "rank": 18,
+      "title": "女子西西弗买200元书坐咖啡区被拒",
+      "topic_id": "23152257a279cd53580025a5f79877576b9583"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#被砍断手指留学生遭朋友卷走数十万#",
+      "rank": 19,
+      "title": "被砍断手指留学生遭朋友卷走数十万",
+      "topic_id": "23152233c89d4e0826efcaff68169eda6db571"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#曝白小纯王子璇没上车的原因#",
+      "rank": 20,
+      "title": "曝白小纯王子璇没上车的原因",
+      "topic_id": "231522e2d97f72d3c1f31d473b62296560a231"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#徐艺洋直播放儿子声音#",
+      "rank": 21,
+      "title": "徐艺洋直播放儿子声音",
+      "topic_id": "23152251a86955796fe23fa2fa1ba16dc3b677"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#杭州18岁女孩检出18种HPV亚型阳性#",
+      "rank": 22,
+      "title": "杭州18岁女孩检出18种HPV亚型阳性",
+      "topic_id": "231522b2e66aab2f457865ec8715ecc12797f9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#杨幂这一蹲真是神来之笔#",
+      "rank": 23,
+      "title": "杨幂这一蹲真是神来之笔",
+      "topic_id": "2315222d19becdb1fa477edfd02dd363f90f40"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "猫杀人概率几乎为零但我先走了",
+      "rank": 24,
+      "title": "猫杀人概率几乎为零但我先走了",
+      "topic_id": "231522c5b1336c1bdd61adeaf76d464833070e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "白小纯直播",
+      "rank": 25,
+      "title": "白小纯直播",
+      "topic_id": "23152263b01127d7015595925e831c11437b83"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "油价",
+      "rank": 26,
+      "title": "油价",
+      "topic_id": "231522795ccd756dc3cabecdd2d9bbe92d6619"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#霍启刚郭晶晶11月11日办的世纪婚礼#",
+      "rank": 27,
+      "title": "霍启刚郭晶晶11月11日办的世纪婚礼",
+      "topic_id": "2315220612110ce3eb0ed94eb7bf83e03e9bee"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "留学生做柜姐后满脸憔悴",
+      "rank": 28,
+      "title": "留学生做柜姐后满脸憔悴",
+      "topic_id": "231522e3d7b3f0698c4fa32834868b430c9105"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "文吉儿 王子璇",
+      "rank": 29,
+      "title": "文吉儿 王子璇",
+      "topic_id": "23152292860c9248bcb0d5662e28629f2b2f72"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#俄美乌三方会谈成果公布#",
+      "rank": 30,
+      "title": "俄美乌三方会谈成果公布",
+      "topic_id": "231522e1efdafcb1f7f736d3458d941ff49603"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "婆婆患白血病儿媳犯难",
+      "rank": 31,
+      "title": "婆婆患白血病儿媳犯难",
+      "topic_id": "231522ceb95bd1b1c1a54c31722067b321c0ef"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "中年人的显老行为太形象了",
+      "rank": 32,
+      "title": "中年人的显老行为太形象了",
+      "topic_id": "231522df774f4179157d7546ce5d0522252a0d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "萨巴伦卡vs安德列娃",
+      "rank": 33,
+      "title": "萨巴伦卡vs安德列娃",
+      "topic_id": "2315222cadb1a3128d76fe3202e065dd92cbc1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "老一辈的自制力特别差",
+      "rank": 34,
+      "title": "老一辈的自制力特别差",
+      "topic_id": "231522aaa436b94b83ca99188f4aa1461cdfd7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#孙千语音回复赵丽颖#",
+      "rank": 35,
+      "title": "孙千语音回复赵丽颖",
+      "topic_id": "23152267cf808b3d57a2f1c12c4df348ed8ae0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#厉娜这么夸张的人设竟越来越稳固#",
+      "rank": 36,
+      "title": "厉娜这么夸张的人设竟越来越稳固",
+      "topic_id": "23152240b0776b31ce021e547e9225b59d93d4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "中国共产党是孙中山革命真正继承者",
+      "rank": 37,
+      "title": "中国共产党是孙中山革命真正继承者",
+      "topic_id": "23152216396dafd9f527083e7df5848b77e442"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "日本网友3天没洗头被理发店拉黑",
+      "rank": 38,
+      "title": "日本网友3天没洗头被理发店拉黑",
+      "topic_id": "231522da0f7f1d6ac644c0bf8f82307d72ef69"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "金鸡奖两幕对比太扎心",
+      "rank": 39,
+      "title": "金鸡奖两幕对比太扎心",
+      "topic_id": "2315226f00c81003de53a76444c0050cf00b4f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "为了演戏雪迎可以放弃什么",
+      "rank": 40,
+      "title": "为了演戏雪迎可以放弃什么",
+      "topic_id": "231522789d52189e7bade18bb2460b721dbcee"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#AL老板回应转会期阵容调整#",
+      "rank": 41,
+      "title": "AL老板回应转会期阵容调整",
+      "topic_id": "2315225c08ef90f5631abb6ac30ad578d40165"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#闫桉听到田曦薇说穿秋裤了的反应#",
+      "rank": 42,
+      "title": "闫桉听到田曦薇说穿秋裤了的反应",
+      "topic_id": "231522ff79bb0faefb022382dbf2a633292c49"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#陈砚周对郑雨表白#",
+      "rank": 43,
+      "title": "陈砚周对郑雨表白",
+      "topic_id": "231522ef87d5ab2ada50399a3b90f6bce647a1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#唐嫣刘诗诗同框合照#",
+      "rank": 44,
+      "title": "唐嫣刘诗诗同框合照",
+      "topic_id": "2315226dac58719cce1fa3664bcb0e75dfa234"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#日本出现1个极危险信号#",
+      "rank": 45,
+      "title": "日本出现1个极危险信号",
+      "topic_id": "23152244931ff9c8df55c942b0e8e210c9d62f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "刘宇宁唱薛之谦写的苦情歌太痛",
+      "rank": 46,
+      "title": "刘宇宁唱薛之谦写的苦情歌太痛",
+      "topic_id": "231522e46ca3c4ed1bac081682b5974f6462d6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "影之刃零金摇杆第二",
+      "rank": 47,
+      "title": "影之刃零金摇杆第二",
+      "topic_id": "231522d8a7d351fc6d3a903821eef25e7020f7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "学医的妈认为睡太多导致太瘦",
+      "rank": 48,
+      "title": "学医的妈认为睡太多导致太瘦",
+      "topic_id": "23152277e29936f50c486b60307deaa091778a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#AG菲菲让大家喷爱笑#",
+      "rank": 49,
+      "title": "AG菲菲让大家喷爱笑",
+      "topic_id": "2315221b08f3de39d820b6febeadfd81f6b944"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#红果公告称严打短剧多人撞脸#",
+      "rank": 50,
+      "title": "红果公告称严打短剧多人撞脸",
+      "topic_id": "231522f560db3126fbfd682f3e98e62d23bdcb"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

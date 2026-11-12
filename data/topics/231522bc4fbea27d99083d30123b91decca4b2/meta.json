@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1847582585
   },
-  "last_seen_at": "2026-11-12T07:00:00+08:00",
+  "last_seen_at": "2026-11-12T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%2312306%E5%9B%9E%E5%BA%94%E5%A4%96%E7%B1%8D%E6%B8%B8%E5%AE%A2%E6%8E%A2%E5%87%BA%E9%AB%98%E9%93%81%E8%BD%A6%E5%8E%A2%E5%90%B8%E7%83%9F%23%26t%3D3&title=发布媒体",
-    "show_str": "8家媒体",
+    "show_str": "35家媒体",
     "users": [
       {
         "id": 1847582585,
@@ -30,6 +30,13 @@
         "verified_type": 3
       },
       {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2655668590,
         "idstr": "2655668590",
         "screen_name": "城报",
@@ -37,23 +44,9 @@
         "verified_type": 3
       },
       {
-        "id": 2286092114,
-        "idstr": "2286092114",
-        "screen_name": "中国蓝新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2097288255,
-        "idstr": "2097288255",
-        "screen_name": "都市快报大杭州",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1887344341,
-        "idstr": "1887344341",
-        "screen_name": "观察者网",
+        "id": 2337985010,
+        "idstr": "2337985010",
+        "screen_name": "瑞安融媒",
         "verified": true,
         "verified_type": 3
       },
@@ -61,6 +54,13 @@
         "id": 1826017320,
         "idstr": "1826017320",
         "screen_name": "IT之家",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1684012053,
+        "idstr": "1684012053",
+        "screen_name": "财经杂志",
         "verified": true,
         "verified_type": 3
       }
