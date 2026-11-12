@@ -342,14 +342,21 @@ def _post_files(topic_root: Path) -> dict[str, dict[str, Any]]:
     return days
 
 
+def _answer_version_data(path: Path, version: str) -> dict[str, Any] | None:
+    value = _read_json(path)
+    if isinstance(value, dict) and str(value.get("answer_version") or "null") == version:
+        return value
+    return None
+
+
 def _ai_files(topic_root: Path, output_topic_root: Path) -> list[dict[str, Any]]:
     versions: list[dict[str, Any]] = []
     for path in sorted((topic_root / "ai").glob("*/*/*/*.md"), reverse=True):
         metadata, markdown = _parse_frontmatter(path.read_text(encoding="utf-8"))
         version_id = "-".join(path.relative_to(topic_root / "ai").parts).removesuffix(".md")
-        trace = _read_json(path.with_suffix(".references.json"))
-        if not isinstance(trace, dict) or str(trace.get("answer_version") or "null") != metadata.get("version", "null"):
-            trace = None
+        version = metadata.get("version", "null")
+        trace = _answer_version_data(path.with_suffix(".references.json"), version)
+        thinking = _answer_version_data(path.with_suffix(".thinking.json"), version)
         record = {
             "id": version_id,
             "captured_at": metadata.get("captured_at", ""),
@@ -361,7 +368,11 @@ def _ai_files(topic_root: Path, output_topic_root: Path) -> list[dict[str, Any]]
         versions.append(record)
         _write_json(
             output_topic_root / "ai" / f"{version_id}.json",
-            {"metadata": metadata, "markdown": markdown, **({"reference_trace": trace} if trace else {})},
+            {
+                "metadata": metadata, "markdown": markdown,
+                **({"reference_trace": trace} if trace else {}),
+                **({"thinking_markdown": thinking["markdown"]} if thinking and thinking.get("markdown") else {}),
+            },
         )
     versions.sort(key=lambda item: item["captured_at"], reverse=True)
     return versions

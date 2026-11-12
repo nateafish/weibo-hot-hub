@@ -22,6 +22,8 @@ REFUSAL_TEXTS = (
     "抱歉，这个问题我暂时无法回答",
     "换个问题试试吧",
 )
+THINK_BLOCK = re.compile(r"<think(?=[\s>])[^>]*>(.*?)</think\s*>", re.IGNORECASE | re.DOTALL)
+OPEN_THINK_BLOCK = re.compile(r"\A\s*<think(?=[\s>])[^>]*>.*\Z", re.IGNORECASE | re.DOTALL)
 
 
 class AiSearchError(RuntimeError):
@@ -55,6 +57,7 @@ class AiAnswer:
     markdown: str
     sources: list[str]
     references: AiReferences | None = None
+    thinking: str = ""
 
 
 def ai_headers(cookie: str) -> dict[str, str]:
@@ -145,7 +148,7 @@ def _replace_media_block(match: re.Match[str]) -> str:
 
 
 def message_to_markdown(message: str) -> str:
-    value = re.sub(r"<think\b[^>]*>.*?</think>", "", message, flags=re.DOTALL | re.I)
+    value = OPEN_THINK_BLOCK.sub("", THINK_BLOCK.sub("", message))
     value = re.sub(
         r"```wbCustomBlock(\{.*?\})```", _replace_custom_block, value, flags=re.DOTALL
     )
@@ -208,6 +211,7 @@ def _normalize_references(raw: Any, markdown: str) -> AiReferences | None:
 def normalize_ai_answer(payload: dict[str, Any]) -> AiAnswer:
     message = str(payload.get("msg") or "")
     markdown = message_to_markdown(message)
+    thinking = "\n\n".join(filter(None, (message_to_markdown(match[1]) for match in THINK_BLOCK.finditer(message))))
     refused = any(marker in message or marker in markdown for marker in REFUSAL_TEXTS)
     sources: list[str] = []
     for raw in payload.get("link_list") or []:
@@ -228,6 +232,7 @@ def normalize_ai_answer(payload: dict[str, Any]) -> AiAnswer:
         markdown=markdown,
         sources=sources,
         references=_normalize_references(payload.get("reliable_tips"), markdown),
+        thinking=thinking,
     )
 
 

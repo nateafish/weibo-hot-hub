@@ -183,10 +183,12 @@ def save_ai_answer(
     previous = topic_root / previous_path if previous_path else None
     if state.get("answer_sha256") == answer_revision and previous is not None and previous.is_file():
         if references is None:
+            _save_answer_thinking(previous, answer)
             return None
         trace_path = previous.with_suffix(".references.json")
         existing = json.loads(trace_path.read_text(encoding="utf-8")) if trace_path.exists() else None
         if existing is None or state.get("revision_sha256") == revision:
+            _save_answer_thinking(previous, answer)
             if existing is None or any(not post.get("username") for post in existing["posts"]):
                 _save_answer_references(trace_path, captured_at, answer, source_url, reference_http, known_posts, existing)
             if state.get("revision_sha256") != revision:
@@ -194,6 +196,8 @@ def save_ai_answer(
             return None
 
     if not state.get("revision_sha256") and not references and state.get("content_sha256") == digest and state.get("version") == answer.version:
+        if answer.version and previous is not None and previous.is_file():
+            _save_answer_thinking(previous, answer)
         return None
     output = (
         ai_root
@@ -223,6 +227,7 @@ def save_ai_answer(
         )
     if references:
         _save_answer_references(output.with_suffix(".references.json"), captured_at, answer, source_url, reference_http, known_posts)
+    _save_answer_thinking(output, answer)
     _atomic_text(output, f"---\n{metadata}\n---\n\n{answer.markdown}{sources}\n")
     atomic_json(
         state_path,
@@ -237,6 +242,14 @@ def save_ai_answer(
         },
     )
     return output
+
+
+def _save_answer_thinking(answer_path: Path, answer: AiAnswer) -> None:
+    if not answer.thinking:
+        return
+    path = answer_path.with_suffix(".thinking.json")
+    if not path.exists():
+        atomic_json(path, {"answer_version": answer.version, "markdown": answer.thinking})
 
 
 def _save_answer_references(

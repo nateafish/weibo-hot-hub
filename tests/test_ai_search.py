@@ -47,6 +47,38 @@ def test_refusal_is_not_saved(tmp_path) -> None:
     assert save_ai_answer(tmp_path, "topic", CAPTURED, answer, "https://example.com") is None
 
 
+def test_thinking_comes_from_the_answer_request_and_is_exported_separately(tmp_path) -> None:
+    requests = []
+
+    def respond(request: httpx.Request) -> httpx.Response:
+        requests.append(request.method)
+        assert b"cot=1" in request.content
+        return httpx.Response(200, json={
+            "query": "#测试#", "version": "v1", "status": 2,
+            "msg": "<think>先核对时间<br>再核对引文</think>\n\n正文",
+        })
+
+    root = tmp_path / "data"
+    earlier = normalize_ai_answer({"query": "#测试#", "version": "v1", "msg": "正文"})
+    saved = save_ai_answer(root, "topic", CAPTURED, earlier, "https://example.com")
+    assert saved is not None
+    with httpx.Client(transport=httpx.MockTransport(respond)) as http:
+        answer = fetch_ai_answer(http, "#测试#")
+        assert save_ai_answer(root, "topic", CAPTURED, answer, "https://example.com", reference_http=http) is None
+
+    assert requests == ["POST"]
+    assert "先核对时间" not in saved.read_text()
+    assert answer.thinking == "先核对时间\n再核对引文"
+    assert normalize_ai_answer({"msg": "<think>还在生成"}).markdown == ""
+
+    out = tmp_path / "out"
+    export_site_data(root, out, generated_at=CAPTURED)
+    [version] = (out / "topics" / "topic" / "ai").glob("*.json")
+    exported = json.loads(version.read_text())
+    assert exported["markdown"] == "正文"
+    assert exported["thinking_markdown"] == answer.thinking
+
+
 def test_reference_trace_is_archived_with_the_exact_version(tmp_path, monkeypatch) -> None:
     monkeypatch.setattr("weibo_hot_hub.ai_search._sleep_with_jitter", lambda *_: None)
     topic = "#测试#"

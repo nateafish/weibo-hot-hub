@@ -156,4 +156,5 @@ export interface AiContent {
   metadata: Record<string, string>;
   markdown: string;
   reference_trace?: AiReferenceTrace;
+  thinking_markdown?: string;
 }

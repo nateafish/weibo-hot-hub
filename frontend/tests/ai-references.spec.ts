@@ -26,11 +26,17 @@ test("reference comparison uses the selected answer versions and reverses percen
       breakdown: [{ label: "金橙V", percent: isNew ? 80 : 83, url: "https://s.weibo.com/aisearchmore" }],
       posts: [{ mid: "11", username: isNew ? "新版作者" : "旧版作者", url: "https://m.weibo.cn/detail/11" }],
     };
-    await route.fulfill({ response, json: { ...(await response.json()), reference_trace } });
+    const thinking = isNew ? { thinking_markdown: "先核对时间，再核对引文。" } : {};
+    await route.fulfill({ response, json: { ...(await response.json()), reference_trace, ...thinking } });
   });
 
   await page.goto(`/topic/?id=${topic}`);
   await page.getByRole("tab", { name: "智搜" }).click();
+  const thinking = page.getByText("先核对时间，再核对引文。", { exact: true });
+  await expect(page.getByText("深度思考", { exact: true })).toBeVisible();
+  await expect(thinking).toBeHidden();
+  await page.getByText("深度思考", { exact: true }).click();
+  await expect(thinking).toBeVisible();
   await page.getByRole("tab", { name: "信源对比" }).click();
   const breakdown = page.getByRole("region", { name: "信源账号占比变化" });
   const row = breakdown.getByRole("row", { name: /金橙V/ });

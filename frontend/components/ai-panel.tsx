@@ -76,11 +76,21 @@ function SingleAnswer({ topicId, versions, version, onChange }: {
       {result?.error ? <ErrorState message={result.error} /> : !result?.content ? (
         <div className="loading-block h-80" role="status" aria-label="正在加载答案" />
       ) : (
-        <article className="prose [overflow-wrap:anywhere]">
-          <ReactMarkdown remarkPlugins={[remarkGfm]} components={{ a: ({ href, children }) => <a href={href} target="_blank" rel="noreferrer">{children}</a> }}>
-            {result.content.markdown}
-          </ReactMarkdown>
-        </article>
+        <>
+          {result.content.thinking_markdown && (
+            <details className="rounded-lg border bg-muted/30 px-4 py-3">
+              <summary className="cursor-pointer text-sm font-medium">深度思考</summary>
+              <div className="prose mt-2 [overflow-wrap:anywhere]">
+                <ReactMarkdown remarkPlugins={[remarkGfm]}>{result.content.thinking_markdown}</ReactMarkdown>
+              </div>
+            </details>
+          )}
+          <article className="prose [overflow-wrap:anywhere]">
+            <ReactMarkdown remarkPlugins={[remarkGfm]} components={{ a: ({ href, children }) => <a href={href} target="_blank" rel="noreferrer">{children}</a> }}>
+              {result.content.markdown}
+            </ReactMarkdown>
+          </article>
+        </>
       )}
     </div>
   );
