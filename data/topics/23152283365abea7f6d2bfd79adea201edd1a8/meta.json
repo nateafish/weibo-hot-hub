@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 7399555658
   },
-  "last_seen_at": "2026-11-12T20:00:00+08:00",
+  "last_seen_at": "2026-11-12T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23A%E8%82%A1%E5%B0%BE%E7%9B%98%E7%AA%81%E5%8F%98%E8%83%8C%E5%90%8E%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "12家媒体",
     "users": [
       {
         "id": 1288429914,
@@ -37,23 +37,30 @@
         "verified_type": 3
       },
       {
+        "id": 3901624042,
+        "idstr": "3901624042",
+        "screen_name": "山西日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2618638282,
+        "idstr": "2618638282",
+        "screen_name": "湖南日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2026044661,
         "idstr": "2026044661",
         "screen_name": "海量财经",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1896114354,
-        "idstr": "1896114354",
-        "screen_name": "成都商报时尚商业",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1773534952,
-        "idstr": "1773534952",
-        "screen_name": "BRTV天下财经",
         "verified": true,
         "verified_type": 3
       }
