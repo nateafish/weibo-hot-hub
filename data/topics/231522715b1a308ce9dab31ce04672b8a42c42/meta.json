@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1655444627
   },
-  "last_seen_at": "2026-11-12T15:00:00+08:00",
+  "last_seen_at": "2026-11-12T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%B8%B8%E5%AE%A2%E5%8F%8D%E6%98%A0%E5%8A%A8%E7%89%A9%E5%9B%AD4%E4%B8%AA%E6%9C%88%E5%A4%A7%E7%9A%84%E5%B0%8F%E7%BE%8A%E6%80%80%E5%AD%95%23%26t%3D3&title=发布媒体",
-    "show_str": "28家媒体",
+    "show_str": "39家媒体",
     "users": [
       {
         "id": 1655444627,
         "idstr": "1655444627",
         "screen_name": "潇湘晨报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3089846113,
+        "idstr": "3089846113",
+        "screen_name": "都昌县融媒体中心",
         "verified": true,
         "verified_type": 3
       },
@@ -30,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1398613133,
         "idstr": "1398613133",
         "screen_name": "马上资讯",
@@ -37,30 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 7472856103,
+        "idstr": "7472856103",
+        "screen_name": "点时新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7373111326,
         "idstr": "7373111326",
         "screen_name": "正观新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6444725927,
-        "idstr": "6444725927",
-        "screen_name": "吉祥新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6354225202,
-        "idstr": "6354225202",
-        "screen_name": "晨视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5608027665,
-        "idstr": "5608027665",
-        "screen_name": "中国环境",
         "verified": true,
         "verified_type": 3
       }

@@ -3,10 +3,10 @@
   "created_at": 1794458176,
   "first_seen_at": "2026-11-12T13:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-12T15:00:00+08:00",
+  "last_seen_at": "2026-11-12T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%85%BE%E8%AE%AF+%E5%91%98%E5%B7%A5%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "4家媒体",
     "users": [
       {
         "id": 3037284894,
@@ -26,6 +26,13 @@
         "id": 1642512402,
         "idstr": "1642512402",
         "screen_name": "中国新闻周刊",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       }

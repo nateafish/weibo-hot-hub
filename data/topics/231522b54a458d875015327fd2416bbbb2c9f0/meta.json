@@ -3,11 +3,25 @@
   "created_at": 1794458335,
   "first_seen_at": "2026-11-12T13:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-12T15:00:00+08:00",
+  "last_seen_at": "2026-11-12T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%AE%B8%E9%A3%9E+%E6%88%91%E4%BB%AC%E5%A8%9C%E5%A8%9C%E5%AD%90%23%26t%3D3&title=发布媒体",
-    "show_str": "37家媒体",
+    "show_str": "40家媒体",
     "users": [
+      {
+        "id": 1878335471,
+        "idstr": "1878335471",
+        "screen_name": "新浪综艺",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7748987844,
+        "idstr": "7748987844",
+        "screen_name": "枣庄市中融媒",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 7728745629,
         "idstr": "7728745629",
@@ -42,20 +56,6 @@
         "screen_name": "捉谣记",
         "verified": true,
         "verified_type": 7
-      },
-      {
-        "id": 6525645286,
-        "idstr": "6525645286",
-        "screen_name": "长城视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6444725927,
-        "idstr": "6444725927",
-        "screen_name": "吉祥新闻",
-        "verified": true,
-        "verified_type": 3
       }
     ]
   },
