@@ -1,5 +1,5 @@
 {
-  "category": null,
+  "category": "社会",
   "created_at": null,
   "first_seen_at": "2026-11-12T16:00:00+08:00",
   "host": {
@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 7408066931
   },
-  "last_seen_at": "2026-11-12T18:00:00+08:00",
+  "last_seen_at": "2026-11-12T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A4%A9%E6%B6%AF%E5%85%B1%E6%AD%A4%E8%AF%97%23%26t%3D3&title=发布媒体",
-    "show_str": "57家媒体",
+    "show_str": "66家媒体",
     "users": [
       {
         "id": 7408066931,
@@ -26,6 +26,20 @@
         "id": 1406911561,
         "idstr": "1406911561",
         "screen_name": "云南广播电视台",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7387466437,
+        "idstr": "7387466437",
+        "screen_name": "墨江融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5786536759,
+        "idstr": "5786536759",
+        "screen_name": "ChengduPlus",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 2685336121,
         "idstr": "2685336121",
         "screen_name": "南宁晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1893761531,
-        "idstr": "1893761531",
-        "screen_name": "闪电新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7741776528,
-        "idstr": "7741776528",
-        "screen_name": "睢宁融媒",
         "verified": true,
         "verified_type": 3
       }
