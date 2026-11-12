@@ -34,6 +34,11 @@ export interface ArchiveEvent {
   members: EventMember[];
 }
 
+export interface EventCategories {
+  hidden: string[];
+  by_topic: Record<string, string>;
+}
+
 async function readArchive<T>(file: string, signal: AbortSignal): Promise<T> {
   const response = await fetch(`${BASE_PATH}/event-data/${file}`, { signal, cache: "no-cache" });
   if (!response.ok) throw new Error("暂时无法读取事件档案，请刷新后再试。");
@@ -42,6 +47,10 @@ async function readArchive<T>(file: string, signal: AbortSignal): Promise<T> {
 
 export async function loadEventMonths(signal: AbortSignal) {
   return (await readArchive<{ months: EventMonth[] }>("index.json", signal)).months;
+}
+
+export function loadEventCategories(signal: AbortSignal) {
+  return readArchive<EventCategories>("categories.json", signal);
 }
 
 export async function loadMonthEvents(month: string, signal: AbortSignal) {
