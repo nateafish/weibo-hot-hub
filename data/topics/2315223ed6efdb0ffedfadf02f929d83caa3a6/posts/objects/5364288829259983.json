@@ -1,0 +1,8 @@
+{
+  "body": "#谷歌#\n发布首款决策模型 Gemini Decision 1\n- 名称：Gemini Decision 1，配套 Gemini Decisions API（Google AI Studio 上线）\n- 核心机制：不做逐 token 生成，改为单次前向传播，对预设候选答案直接评分\n- 三类决策：Yes/No 二元判断、Multiple Choice 多项选择（2~255 个选项）、Ordered Rubric 有序标准评分，一次请求可混合执行\n- 承载量：单次请求最多处理 1000 个独立问题\n- 输入模态：文本、图像、音频、视频、PDF，最高 256K token 多模态上下文\n- 延迟：模型计算中位延迟 50~100ms，端到端 150~250ms；问题数从 1 增至 100 基本不增加延迟\n- 定价：每百万输入 token 0.10 美元，输出 token 不收费，约为 Gemini 3.5 Flash-Lite 成本的五分之一（低近 5 倍）\n- 成绩：9 项基准测试拿下 7 项第一，JevBench 准确率 92.2%（GPT-6 Luna 90.9%、TypeSafeJev 1.14 90.0%、Flash-Lite 86.6%）\n- 校准：Top-1 ECE 仅 0.0250，比 GPT-6 Luna 低约 65%，比 Flash-Lite 低约 88%\n- 未胜两项：Mind2Web Multimodal（86.2%，落后 TypeSafeJev 0.6 个百分点）、When2Call 工具调用判断（79.9%，落后 2.1 个百分点）\n- 已落地场景：Gemini Notebook 实时模型路由（日常查询延迟最多降 40%）、Google Stitch Rapid Canvas 流程线框图、Google Labs CC 表情选择（200+ Emoji）、Google Search 内 MCP 工具安全检测层",
+  "created_at_text": "Thu Nov 12 04:39:43 +0800 2026",
+  "mid": "5364288829259983",
+  "uid": "1134502442",
+  "url": "https://m.weibo.cn/detail/5364288829259983",
+  "username": "罗勇-AI量化思维"
+}

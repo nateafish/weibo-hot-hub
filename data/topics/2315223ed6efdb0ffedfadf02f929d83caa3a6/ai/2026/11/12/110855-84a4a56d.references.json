@@ -1,0 +1,202 @@
+{
+  "answer_version": "2026-11-12 11:01:12.595999-9920",
+  "breakdown": [
+    {
+      "label": "金橙V",
+      "percent": 32.0,
+      "url": "https://s.weibo.com/aisearchmore?q=Gemini+Decisions&res_type=ref_blog&u_type=gold_orange_v&page=1"
+    },
+    {
+      "label": "认证用户",
+      "percent": 26.0,
+      "url": "https://s.weibo.com/aisearchmore?q=Gemini+Decisions&res_type=ref_blog&u_type=verified&page=1"
+    },
+    {
+      "label": "普通用户",
+      "percent": 42.0,
+      "url": "https://s.weibo.com/aisearchmore?q=Gemini+Decisions&res_type=ref_blog&u_type=normal&page=1"
+    },
+    {
+      "label": "媒体",
+      "percent": 0.0,
+      "url": "https://s.weibo.com/aisearchmore?q=Gemini+Decisions&res_type=ref_blog&u_type=&page=1"
+    }
+  ],
+  "captured_at": "2026-11-12T11:08:55+08:00",
+  "posts": [
+    {
+      "category": "金橙V",
+      "created_at_text": "Thu Nov 12 06:41:30 +0800 2026",
+      "excerpt": "Google 推出 Gemini Decisions API：不写回答只做判断，一次最多问 1000 个问题，输入每百万 Token 0.1 美元、输出不收钱\nGoogle 今天在 Gemini API 里上线了 Decisions API，配套新模型 Gemini Decision 1。它不生成文字，只答题：给它一份输入和一组问题，它直接返回每道题的答案，外加一个“有多大把握”的置信度。\n【它解决什么问题】\n做 AI 应用时，很多调用其实只要一个判断：这条客服消息转给哪个组",
+      "mid": "5364319476777367",
+      "uid": "1727858283",
+      "url": "https://m.weibo.cn/detail/5364319476777367",
+      "username": "宝玉xp"
+    },
+    {
+      "category": "认证用户",
+      "created_at_text": "Thu Nov 12 09:05:46 +0800 2026",
+      "excerpt": "【谷歌推出 Gemini Decisions API 快速多模态决策，基于 Gemini Decision 1 模型】该 API 由全新 Gemini Decision 1 模型驱动，支持文本、图像、音频、视频和 PDF 混合输入，最多 256K tokens。输入定价每百万 Tokens 仅 0.10 美元，输出免费，目前已在 Google AI Studio 提供免费额度供开发者试用。\n#谷歌Gemini#\n#AI开发者工具#",
+      "mid": "5364355782676111",
+      "uid": "1826017320",
+      "url": "https://m.weibo.cn/detail/5364355782676111",
+      "username": "IT之家"
+    },
+    {
+      "category": "认证用户",
+      "created_at_text": "Thu Nov 12 04:39:43 +0800 2026",
+      "excerpt": "#谷歌#\n发布首款决策模型 Gemini Decision 1\n- 名称：Gemini Decision 1，配套 Gemini Decisions API（Google AI Studio 上线）\n- 核心机制：不做逐 token 生成，改为单次前向传播，对预设候选答案直接评分\n- 三类决策：Yes/No 二元判断、Multiple Choice 多项选择（2~255 个选项）、Ordered Rubric 有序标准评分，一次请求可混合执行\n- 承载量：单次请求最多处理 1",
+      "mid": "5364288829259983",
+      "uid": "1134502442",
+      "url": "https://m.weibo.cn/detail/5364288829259983",
+      "username": "罗勇-AI量化思维"
+    },
+    {
+      "category": "金橙V",
+      "created_at_text": "Thu Nov 12 10:55:41 +0800 2026",
+      "excerpt": "谷歌 11 号发了 Gemini Decision 1，它不逐字写答案，而是一次前向算完，给候选选项打分，同天在 Google AI Studio 上了 Decisions API。\n一次请求能带 256K token 的文本、图片、音频、视频和 PDF，最多问 1000 个独立问题，返回选中项、概率和置信度，延迟 150 到 250 毫秒。\n题型就三种：是/否、最多 255 个选项的多选、按标准打分。输入每百万 token 0.1 美元，输出不收费。\n它干的活是选工具、决定",
+      "mid": "5364383442273656",
+      "uid": "6993661954",
+      "url": "https://m.weibo.cn/detail/5364383442273656",
+      "username": "看好了LOOK"
+    },
+    {
+      "category": "普通用户",
+      "created_at_text": "今天07:15",
+      "excerpt": "刚刚，谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%：根据 Google 发布的技术介绍，Gemini Decision 1 提供三类核心决策能力。\n第一类是 Yes/No（二元判断）。例如，判断图片中是否存在安全隐患，或者一段文本是否违反既定规则。模型会给出相应条件成立的概率。\n第二类是 Multiple Choice（多项选择）。开发者可以预设 2～255 个候选选项，模型不仅会选出最符合条件的答案，还会返回每个",
+      "mid": "5364327949534568",
+      "uid": "1894053795",
+      "url": "https://weibo.com/1894053795/RqZsKE0nm",
+      "username": "喜马拉雅豆芽"
+    },
+    {
+      "category": "金橙V",
+      "created_at_text": "01月25日 21:38",
+      "excerpt": "Gemini真的很好。免费版使用下来的体感，真的媲美当年的chatGPT4o。\n就像当年我不敢相信4o居然能那么飞跃一样，Gemini3也是相当飞跃的一个版本。\nGemini到目前为止没有拒绝过我任何请求。（当然我也没有拿Gemini做一些很过火的事情）并且Gemini可以相当稳定地进行角色扮演，不会突然忘记你给他的人设。\nGPT的优点在于：\n只要对话里涉及到问题，它都会列条地给你解释清楚。\n比如你告诉它你发烧了，它会以扮演角色的口吻先说个开场白，比如关心你之类，然后它会告诉",
+      "mid": "5259090381246479",
+      "uid": "2043932981",
+      "url": "https://weibo.com/2043932981/QoNd45egv",
+      "username": "文媛安泽润铎"
+    },
+    {
+      "category": "金橙V",
+      "created_at_text": "10月10日 12:02",
+      "excerpt": "微软谷歌 OpenAI 同周出手：AI 进入\"智能体操作系统\"之战\n【一周之内，三家巨头把 AI 战场推向\"操作系统级\"】\n#微软#\n#谷歌#\n#OpenAI#\n#AI#\n过去一周 AI 圈信息量爆炸，抽三条最关键的来看趋势：\n一、微软把 Windows 重塑为智能体平台。 新架构分四层，从 MXC 容器隔离到能跑 DeepSeek V4 Pro 的 DGX Station，目标是让本地与云端 AI 智能体统一由 Windows 承载与管控——操作系统第一次把\"Agent\"当",
+      "mid": "5352441432246882",
+      "uid": "2088862973",
+      "url": "https://weibo.com/2088862973/Rm0eX9qw2",
+      "username": "酷智同学"
+    },
+    {
+      "category": "认证用户",
+      "created_at_text": "Thu Nov 12 10:32:32 +0800 2026",
+      "excerpt": "#Gemini Decisions#\n【谷歌推出Gemini Decisions API 由全新决策模型Gemini Decision 1驱动】据IT之家、新浪财经11月12日报道，谷歌正式发布首款决策模型Gemini Decision 1，并同步推出由其驱动的Gemini Decisions API。与逐词生成的传统生成式大模型不同，该模型面向封闭式选项评分，可在单次前向传播中对预设候选答案打分，支持文本、图像、音频、视频和PDF混合输入，最长256K tokens；输入定",
+      "mid": "5364377618482422",
+      "uid": "1581544960",
+      "url": "https://m.weibo.cn/detail/5364377618482422",
+      "username": "蓉城往事"
+    },
+    {
+      "category": "普通用户",
+      "created_at_text": "Thu Nov 12 09:24:32 +0800 2026",
+      "excerpt": "谷歌昨晚上线 Gemini Decisions API，背后是新模型 Gemini Decision 1：一次丢进去文本、图、音频、视频或 PDF，最多同时打 1000 道题，只做是非、最多 255 选项的选择，或按量表打分，不逐字生成答案。官方称端到端约 150–250 毫秒，输入 $0.10 / 百万 tokens，输出不收费。谷歌自己已经拿它给 Notebook 做模型路由、给 Search 做工具安全层。\n这才是更值得看的一步：大模型开始按「决策」和「生成」拆零件卖。",
+      "mid": "5364360505460422",
+      "uid": "1541586097",
+      "url": "https://m.weibo.cn/detail/5364360505460422",
+      "username": "Linx看AI"
+    },
+    {
+      "category": "认证用户",
+      "created_at_text": "Thu Nov 12 10:49:21 +0800 2026",
+      "excerpt": "【\n#谷歌Gemini#\n】\n近日，谷歌上线\n#Gemini Decisions#\nAPI，由全新 Gemini Decision 1 模型驱动，支持文本、图像、音频、视频、PDF 混合输入，最高可达 256K tokens。\n输入定价 0.10 美元 / 百万 Tokens，输出免费，现已在 Google AI Studio 开放免费额度，供开发者体验试用。\n主打多模态快速决策能力，你觉得它会在哪些场景落地？",
+      "mid": "5364381848177058",
+      "uid": "2302292872",
+      "url": "https://m.weibo.cn/detail/5364381848177058",
+      "username": "太平洋科技"
+    },
+    {
+      "category": "普通用户",
+      "created_at_text": "Thu Nov 12 10:53:19 +0800 2026",
+      "excerpt": "#Gemini Decisions#\nGoogle推出了Gemini Decisions API：模型不写字，只答是非、单选、打分三种题，每个答案带一个置信度。输入0.1美元/百万token，输出不收钱。OpenAI上个月出过同名产品，定价一样。\n说穿了是“分类器”回来了。线上跑的LLM调用里，很大一块本来就不需要生成：路由、审核、打标签、要不要调工具。以前拿生成模型干这个，等于让它写一段话，再从里面抠答案。\n输出不收钱也好理解。这东西多半不走逐字生成，读一遍输入直接出各选项",
+      "mid": "5364382848518088",
+      "uid": "2419747697",
+      "url": "https://m.weibo.cn/detail/5364382848518088",
+      "username": "多云Me"
+    },
+    {
+      "category": "普通用户",
+      "created_at_text": "Thu Nov 12 10:34:46 +0800 2026",
+      "excerpt": "#Gemini Decisions#\n我以为是Gemini呢",
+      "mid": "5364378179995106",
+      "uid": "7426995617",
+      "url": "https://m.weibo.cn/detail/5364378179995106",
+      "username": "等我清个融"
+    },
+    {
+      "category": "金橙V",
+      "created_at_text": "Thu Nov 12 08:49:47 +0800 2026",
+      "excerpt": "【AIGC日报 · 2026-11-12】\n今日简讯：\n1、阿里开放 Qwen4-Max 预览版，支持百万 Token 上下文\n2、百度发布文心 5.5 Flash Preview，展示智能体创作能力\n3、Google 推出 Gemini Decisions API，面向多模态选项判断\n4、MBZUAI 公布 PAN 2 世界模型，开放权重与代码\n5、ElevenLabs 推出 Scribe v3 及实时转录版本\n6、DeepMind 公布 AlphaProof Code，验",
+      "mid": "5364351758501457",
+      "uid": "7905315703",
+      "url": "https://m.weibo.cn/detail/5364351758501457",
+      "username": "德里克文"
+    },
+    {
+      "category": "普通用户",
+      "created_at_text": null,
+      "excerpt": null,
+      "mid": "5364384564250071",
+      "uid": null,
+      "url": "https://m.weibo.cn/detail/5364384564250071",
+      "username": null
+    },
+    {
+      "category": "普通用户",
+      "created_at_text": "Thu Nov 12 09:02:30 +0800 2026",
+      "excerpt": "【Google发布Gemini Decisions API，Gemini应用开始逐步登陆CarPlay】\n1. 北京时间11月12日凌晨，据Google官方博客及The Decoder报道，Google发布Gemini Decisions API，由新模型Gemini Decision 1驱动，专门在给定选项里做判断，比如是或否、多选和等级评分，每个答案附0到1置信度。开发者现可通过Gemini API在Google AI Studio使用，Google Cloud上的Gem",
+      "mid": "5364354960851747",
+      "uid": "5212205659",
+      "url": "https://m.weibo.cn/detail/5364354960851747",
+      "username": "三尺玉龙scyl"
+    },
+    {
+      "category": "普通用户",
+      "created_at_text": "Thu Nov 12 09:55:26 +0800 2026",
+      "excerpt": "11月11日，Google DeepMind接连公布 AlphaGenome 2 和 Gemini Decision 1。\nAlphaGenome 2，研究的是DNA。 它试图弄清楚基因序列中的细微变化，会如何影响不同类型的人体细胞，帮助科学家寻找疾病背后的遗传机制。\nGemini Decision 1，研究的是如何做选择。 它不以生成长篇答案为目标，而是专门判断“是或否”、从多个选项中选出一个，或者按照标准给出评分。",
+      "mid": "5364368285630523",
+      "uid": "1320484132",
+      "url": "https://m.weibo.cn/detail/5364368285630523",
+      "username": "AI风向局"
+    },
+    {
+      "category": "认证用户",
+      "created_at_text": "今天08:08",
+      "excerpt": "谷歌推出了GeminiDecisionsAPI，这是一个由其Gemini Decision1模型驱动的新端点，可帮助AI智能体做出快速的预设决策，而无需生成冗长的文本回复。\n该接口允许开发人员针对包含文本、图像、音频、视频和PDF的共享多模态输入，评估多达1000个独立问题。Gemini Decision1不会逐token生成回复，而是在单次前向传递中对预设选项进行评分，返回概率和置信度分数，端到端延迟为150–250毫秒。\n谷歌表示，该模型专为有界任务而构建，例如选择工具、",
+      "mid": "5364341244167462",
+      "uid": "1404590117",
+      "url": "https://weibo.com/1404590117/RqZOchu98",
+      "username": "阳正清-和光同尘"
+    },
+    {
+      "category": "金橙V",
+      "created_at_text": null,
+      "excerpt": null,
+      "mid": "5364321446002828",
+      "uid": null,
+      "url": "https://m.weibo.cn/detail/5364321446002828",
+      "username": null
+    },
+    {
+      "category": "普通用户",
+      "created_at_text": "今天03:49",
+      "excerpt": "谷歌刚发了个新模型 Gemini Decision 1，专门干一件事：做判断\n它不是让你跟它聊天，而是给它一个输入、一次最多提 1,000 个问题，是非题、选择题、打分题都能一次跑完\n输入可以是文本、图片、音频、视频、PDF，最高 256K tokens\n关键是快：端到端延迟 150–250 毫秒，模型本身只要 50–100 毫秒，1 个问题和 100 个问题耗时基本一样\n价格也狠：输入每百万 tokens 0.10 美元，输出 tokens 不收费，比 Gemini 3.5",
+      "mid": "5364276206502446",
+      "uid": "1652680053",
+      "url": "https://weibo.com/1652680053/RqY7irhAa",
+      "username": "短裤AI"
+    }
+  ],
+  "reference_url": "https://s.weibo.com/aisearchmore?q=Gemini+Decisions&res_type=ref_blog&u_type=&page=1",
+  "reported_count": 19,
+  "source_url": "https://s.weibo.com/aisearch?q=Gemini+Decisions&Refer=weibo_aisearch&t=31"
+}
