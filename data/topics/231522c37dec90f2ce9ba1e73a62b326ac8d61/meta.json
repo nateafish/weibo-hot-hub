@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1734530730
   },
-  "last_seen_at": "2026-11-12T14:00:00+08:00",
+  "last_seen_at": "2026-11-12T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%93%E5%88%B0%E6%8A%BD%E6%90%90%E5%A5%B3%E5%AD%A9%E7%88%B6%E6%AF%8D%E5%B8%B8%E5%B9%B4%E5%9C%A8%E5%A4%96%E5%8A%A1%E5%B7%A5%23%26t%3D3&title=发布媒体",
-    "show_str": "33家媒体",
+    "show_str": "69家媒体",
     "users": [
       {
         "id": 1734530730,
@@ -30,6 +30,20 @@
         "verified_type": 3
       },
       {
+        "id": 1738004582,
+        "idstr": "1738004582",
+        "screen_name": "纵览新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1267454277,
+        "idstr": "1267454277",
+        "screen_name": "凤凰周刊",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6966062673,
         "idstr": "6966062673",
         "screen_name": "大河报邻妹妹",
@@ -37,30 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 5539777260,
+        "idstr": "5539777260",
+        "screen_name": "菏泽日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 3338499784,
         "idstr": "3338499784",
         "screen_name": "大河3C",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2696533861,
-        "idstr": "2696533861",
-        "screen_name": "大河报洛阳新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1883696170,
-        "idstr": "1883696170",
-        "screen_name": "大河报商丘站",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7516679696,
-        "idstr": "7516679696",
-        "screen_name": "九派新闻",
         "verified": true,
         "verified_type": 3
       }

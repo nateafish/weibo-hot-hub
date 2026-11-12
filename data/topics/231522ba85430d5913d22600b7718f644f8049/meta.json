@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 2656274875
   },
-  "last_seen_at": "2026-11-12T14:00:00+08:00",
+  "last_seen_at": "2026-11-12T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%AD%BC35A%E9%A9%AC%E8%B5%AB%E7%8E%AF%E5%A4%AA%E7%82%AB%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "47家媒体",
+    "show_str": "52家媒体",
     "users": [
       {
         "id": 2656274875,
         "idstr": "2656274875",
         "screen_name": "央视新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1699540307,
+        "idstr": "1699540307",
+        "screen_name": "中国之声",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5476386628,
+        "idstr": "5476386628",
+        "screen_name": "侠客岛",
         "verified": true,
         "verified_type": 3
       },
@@ -37,23 +51,9 @@
         "verified_type": 3
       },
       {
-        "id": 1699540307,
-        "idstr": "1699540307",
-        "screen_name": "中国之声",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 1420157965,
         "idstr": "1420157965",
         "screen_name": "上游新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5476386628,
-        "idstr": "5476386628",
-        "screen_name": "侠客岛",
         "verified": true,
         "verified_type": 3
       },
