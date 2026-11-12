@@ -10,22 +10,15 @@
     "status": 2,
     "uid": 1841812881
   },
-  "last_seen_at": "2026-11-12T21:00:00+08:00",
+  "last_seen_at": "2026-11-12T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%2313%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%82%A3%E4%B8%8A%E7%99%8C%E7%8E%8B%E5%B7%B2%E6%97%A0%E6%89%8B%E6%9C%AF%E6%9C%BA%E4%BC%9A%23%26t%3D3&title=发布媒体",
-    "show_str": "21家媒体",
+    "show_str": "25家媒体",
     "users": [
       {
         "id": 1841812881,
         "idstr": "1841812881",
         "screen_name": "生活帮",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1941424392,
-        "idstr": "1941424392",
-        "screen_name": "台州晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -37,30 +30,37 @@
         "verified_type": 3
       },
       {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2118120483,
+        "idstr": "2118120483",
+        "screen_name": "青岛日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1887344341,
+        "idstr": "1887344341",
+        "screen_name": "观察者网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6982382342,
+        "idstr": "6982382342",
+        "screen_name": "搜狐科技",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6254784663,
         "idstr": "6254784663",
         "screen_name": "朝九晚五Video",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6014513352,
-        "idstr": "6014513352",
-        "screen_name": "ING直播",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6004281123,
-        "idstr": "6004281123",
-        "screen_name": "梨视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6002842109,
-        "idstr": "6002842109",
-        "screen_name": "时差视频",
         "verified": true,
         "verified_type": 3
       }

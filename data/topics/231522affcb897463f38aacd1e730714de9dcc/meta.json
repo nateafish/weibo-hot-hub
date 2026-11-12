@@ -10,22 +10,15 @@
     "status": 2,
     "uid": 1893892941
   },
-  "last_seen_at": "2026-11-12T21:00:00+08:00",
+  "last_seen_at": "2026-11-12T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%B1%B1%E5%A7%86399%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D%E6%88%B3%E7%A0%B4%E8%A1%8C%E4%B8%9A%E6%B3%A1%E6%B2%AB%23%26t%3D3&title=发布媒体",
-    "show_str": "24家媒体",
+    "show_str": "32家媒体",
     "users": [
       {
         "id": 6715513747,
         "idstr": "6715513747",
         "screen_name": "宁县融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1893892941,
-        "idstr": "1893892941",
-        "screen_name": "北京日报",
         "verified": true,
         "verified_type": 3
       },
@@ -37,9 +30,23 @@
         "verified_type": 3
       },
       {
+        "id": 1893892941,
+        "idstr": "1893892941",
+        "screen_name": "北京日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7542252663,
         "idstr": "7542252663",
         "screen_name": "北京质量报告",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7467277921,
+        "idstr": "7467277921",
+        "screen_name": "万维视频",
         "verified": true,
         "verified_type": 3
       },
@@ -54,13 +61,6 @@
         "id": 7282830801,
         "idstr": "7282830801",
         "screen_name": "一点资讯财经",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5652470745,
-        "idstr": "5652470745",
-        "screen_name": "广西都市频道",
         "verified": true,
         "verified_type": 3
       }
