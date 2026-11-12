@@ -62,6 +62,19 @@ export function archiveHourLabel(hour: string, short = false) {
   return `${hour.slice(short ? 5 : 0, 10)} ${hour.slice(11, 13)}:00`;
 }
 
+export function archiveDurationHours({ first, last }: Pick<ArchiveEvent, "first" | "last">) {
+  const start = Date.parse(`${first}:00:00+08:00`);
+  const end = Date.parse(`${last}:00:00+08:00`);
+  return (end - start) / 3_600_000;
+}
+
+export function archiveDurationLabel(hours: number) {
+  const days = Math.floor(hours / 24);
+  const rest = hours % 24;
+  if (days === 0) return `${rest} 小时`;
+  return rest === 0 ? `${days} 天` : `${days} 天 ${rest} 小时`;
+}
+
 export function originalHotlist(revision: string, hour: string) {
   const path = hour.slice(0, 10).replaceAll("-", "/");
   return `https://github.com/nateafish/weibo-hot-hub/blob/${revision}/data/hotlists/${path}/${hour.slice(11, 13)}.json`;
