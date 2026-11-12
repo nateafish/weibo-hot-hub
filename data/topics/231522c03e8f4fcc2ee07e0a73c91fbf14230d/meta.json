@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1738004582
   },
-  "last_seen_at": "2026-11-12T13:00:00+08:00",
+  "last_seen_at": "2026-11-12T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%B6%89%E4%BA%8B%E8%80%81%E5%B8%88%E5%9B%9E%E5%BA%948%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E6%88%92%E5%B0%BA%E6%89%93%E4%BD%8F%E9%99%A2%23%26t%3D3&title=发布媒体",
-    "show_str": "11家媒体",
+    "show_str": "17家媒体",
     "users": [
       {
         "id": 1738004582,
         "idstr": "1738004582",
         "screen_name": "纵览新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7200280790,
+        "idstr": "7200280790",
+        "screen_name": "正观特稿",
         "verified": true,
         "verified_type": 3
       },
@@ -37,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 3275115274,
+        "idstr": "3275115274",
+        "screen_name": "中国吉林网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2698146894,
         "idstr": "2698146894",
         "screen_name": "河北新闻网",
@@ -47,20 +61,6 @@
         "id": 2649732781,
         "idstr": "2649732781",
         "screen_name": "阳信融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2118120483,
-        "idstr": "2118120483",
-        "screen_name": "青岛日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2075245652,
-        "idstr": "2075245652",
-        "screen_name": "长春晚报",
         "verified": true,
         "verified_type": 3
       }

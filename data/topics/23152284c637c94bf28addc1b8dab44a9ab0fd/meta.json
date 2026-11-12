@@ -1,17 +1,45 @@
 {
-  "category": null,
+  "category": "明星",
   "created_at": 1794456765,
   "first_seen_at": "2026-11-12T13:00:00+08:00",
-  "host": null,
-  "last_seen_at": "2026-11-12T13:00:00+08:00",
+  "host": {
+    "claim_time": "2026.11.12-至今",
+    "created_at": "2026-11-12 14:08:18",
+    "is_claim": true,
+    "screen_name": "娱乐小浪花er",
+    "status": 2,
+    "uid": 5611783716
+  },
+  "last_seen_at": "2026-11-12T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%9D%92%E7%A8%9A%E5%9C%A8%E9%A9%AC%E5%A4%A9%E5%AE%87%E6%80%80%E9%87%8C%E5%A4%A7%E5%93%AD%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "22家媒体",
     "users": [
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1642591402,
+        "idstr": "1642591402",
+        "screen_name": "新浪娱乐",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1652484947,
         "idstr": "1652484947",
         "screen_name": "新快报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497418417,
+        "idstr": "1497418417",
+        "screen_name": "掌上温岭",
         "verified": true,
         "verified_type": 3
       },
@@ -30,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2075245652,
-        "idstr": "2075245652",
-        "screen_name": "长春晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1878335471,
-        "idstr": "1878335471",
-        "screen_name": "新浪综艺",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1288429914,
-        "idstr": "1288429914",
-        "screen_name": "今视频长天新闻",
+        "id": 3048800300,
+        "idstr": "3048800300",
+        "screen_name": "新浪圈子",
         "verified": true,
         "verified_type": 3
       }

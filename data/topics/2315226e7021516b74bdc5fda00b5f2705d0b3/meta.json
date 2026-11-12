@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 6105713761
   },
-  "last_seen_at": "2026-11-12T13:00:00+08:00",
+  "last_seen_at": "2026-11-12T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%82%93%E8%B6%85%E6%8B%A5%E6%8A%B1%E5%AD%99%E4%BF%AA%E8%AF%B4%E8%BE%9B%E8%8B%A6%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "7家媒体",
+    "show_str": "8家媒体",
     "users": [
       {
         "id": 6105713761,
         "idstr": "6105713761",
         "screen_name": "红星新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -37,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 2106115754,
+        "idstr": "2106115754",
+        "screen_name": "北京文艺广播",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1974335820,
         "idstr": "1974335820",
         "screen_name": "成都商报报料",
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1941424392,
-        "idstr": "1941424392",
-        "screen_name": "台州晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 1700648435,
         "idstr": "1700648435",
         "screen_name": "成都商报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1656737654,
-        "idstr": "1656737654",
-        "screen_name": "现代快报",
         "verified": true,
         "verified_type": 3
       }
