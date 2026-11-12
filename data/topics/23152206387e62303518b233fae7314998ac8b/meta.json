@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 6260534625
   },
-  "last_seen_at": "2026-11-12T17:00:00+08:00",
+  "last_seen_at": "2026-11-12T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%82%96%E6%88%98%E5%AF%B9%E6%8E%A5%E4%B8%BA%E8%B0%8D%E6%8A%A5%E4%B8%8A%E4%B8%8D%E5%B0%81%E9%A1%B6%E7%89%87%E6%96%B9%E5%8F%91%E5%A3%B0%23%26t%3D3&title=发布媒体",
-    "show_str": "14家媒体",
+    "show_str": "23家媒体",
     "users": [
       {
         "id": 2992050891,
         "idstr": "2992050891",
         "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1789681642,
+        "idstr": "1789681642",
+        "screen_name": "第一现场",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1723216063,
+        "idstr": "1723216063",
+        "screen_name": "佛山新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 7308140398,
         "idstr": "7308140398",
         "screen_name": "大象新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6750126856,
-        "idstr": "6750126856",
-        "screen_name": "大象微公益",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6560653260,
-        "idstr": "6560653260",
-        "screen_name": "大象视频",
         "verified": true,
         "verified_type": 3
       }
