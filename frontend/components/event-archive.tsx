@@ -10,17 +10,18 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import {
-  type ArchiveEvent, type EventCategories, type EventMonth, archiveHourLabel, loadEventCategories,
-  loadEventMonths, loadMonthEvents, originalHotlist, originalPosts,
+  type ArchiveEvent, type EventCategories, type EventMonth, archiveDurationHours, archiveDurationLabel,
+  archiveHourLabel, loadEventCategories, loadEventMonths, loadMonthEvents, originalHotlist, originalPosts,
 } from "@/lib/event-archive";
 import { formatNumber } from "@/lib/format";
 
 const pageSize = 30;
 const uncategorized = "微博未分类";
 
-function eventHref(month: string, category: string, id?: string) {
+function eventHref(month: string, category: string, sort: string, id?: string) {
   const params = new URLSearchParams({ month });
   if (category) params.set("category", category);
+  if (sort) params.set("sort", sort);
   if (id) params.set("id", id);
   return `/events/?${params}`;
 }
@@ -88,6 +89,8 @@ export function EventArchive() {
   const requestedCategory = searchParams.get("category") || "";
   const category = requestedCategory === "all" || requestedCategory === uncategorized || options.includes(requestedCategory)
     ? requestedCategory : "";
+  const requestedSort = searchParams.get("sort");
+  const sort = requestedSort === "duration-desc" || requestedSort === "duration-asc" ? requestedSort : "";
 
   useEffect(() => {
     const controller = new AbortController();
@@ -114,18 +117,28 @@ export function EventArchive() {
     const hidden = new Set(categories.hidden);
     return (loaded?.events || []).map((event) => {
       const labels = [...new Set(event.members.map(({ topic_id }) => (topic_id && categories.by_topic[topic_id]) || uncategorized))];
-      return { ...event, labels, hasEntertainment: labels.some((label) => hidden.has(label)) };
+      return {
+        ...event,
+        labels,
+        hasEntertainment: labels.some((label) => hidden.has(label)),
+        durationHours: archiveDurationHours(event),
+      };
     });
   }, [categories, loaded, month]);
 
   const results = useMemo(() => {
     const needle = query.trim().toLocaleLowerCase();
-    return categorized.filter((event) => {
+    const matches = categorized.filter((event) => {
       const matchesCategory = category === "all" || (category ? event.labels.includes(category) : !event.hasEntertainment);
       return matchesCategory && (!needle || [event.title, ...event.members.map(({ title }) => title)]
         .some((title) => title.toLocaleLowerCase().includes(needle)));
     });
-  }, [categorized, category, query]);
+    if (sort) {
+      const direction = sort === "duration-desc" ? -1 : 1;
+      matches.sort((a, b) => direction * (a.durationHours - b.durationHours));
+    }
+    return matches;
+  }, [categorized, category, query, sort]);
 
   const requestedId = searchParams.get("id");
   const selected = results.find(({ id }) => id === requestedId)
@@ -138,7 +151,7 @@ export function EventArchive() {
   function changeMonth(value: string) {
     setPage(1);
     setError("");
-    router.replace(eventHref(value, category), { scroll: false });
+    router.replace(eventHref(value, category, sort), { scroll: false });
   }
 
   return (
@@ -158,11 +171,20 @@ export function EventArchive() {
             <label className="grid gap-1 text-sm">
               微博分类
               <select className="h-9 rounded-md border bg-background px-2" value={category}
-                onChange={(event) => { setPage(1); router.replace(eventHref(selectedMonth.month, event.target.value), { scroll: false }); }}>
+                onChange={(event) => { setPage(1); router.replace(eventHref(selectedMonth.month, event.target.value, sort), { scroll: false }); }}>
                 <option value="">默认 · 隐藏娱乐明星</option>
                 <option value="all">全部分类</option>
                 {options.map((label) => <option key={label}>{label}</option>)}
                 <option>{uncategorized}</option>
+              </select>
+            </label>
+            <label className="grid gap-1 text-sm">
+              排序
+              <select className="h-9 rounded-md border bg-background px-2" value={sort}
+                onChange={(event) => { setPage(1); router.replace(eventHref(selectedMonth.month, category, event.target.value), { scroll: false }); }}>
+                <option value="">最近上榜</option>
+                <option value="duration-desc">事件时长 · 从长到短</option>
+                <option value="duration-asc">事件时长 · 从短到长</option>
               </select>
             </label>
             <label className="min-w-56 flex-1 grid gap-1 text-sm">
@@ -186,13 +208,15 @@ export function EventArchive() {
                   {formatNumber(results.length)} 个匹配事件
                   {!category && hiddenCount > 0 && <span> · 已隐藏 {formatNumber(hiddenCount)} 个娱乐明星相关事件</span>}
                 </div>
-                <div className="max-h-[65vh] divide-y overflow-auto">
+                <div key={sort} className="max-h-[65vh] divide-y overflow-auto">
                   {results.slice((activePage - 1) * pageSize, activePage * pageSize).map((event) => (
                     <Link className={`block px-4 py-3 text-sm hover:bg-muted ${selected.id === event.id ? "bg-muted font-medium" : ""}`}
-                      key={event.id} href={eventHref(selectedMonth.month, category, event.id)} scroll={false}
+                      key={event.id} href={eventHref(selectedMonth.month, category, sort, event.id)} scroll={false}
                       aria-current={selected.id === event.id ? "true" : undefined}>
                       <span className="block">{event.title}</span>
-                      <span className="text-xs text-muted-foreground">{event.labels.join("、")} · {event.members.length} 个话题 · {archiveHourLabel(event.first, true)}</span>
+                      <span className="text-xs text-muted-foreground">
+                        {event.labels.join("、")} · {event.members.length} 个话题 · {archiveHourLabel(event.first, true)} · 跨度 {archiveDurationLabel(event.durationHours)}
+                      </span>
                     </Link>
                   ))}
                 </div>
@@ -209,6 +233,7 @@ export function EventArchive() {
                     <Badge variant="outline">{selected.members.every(({ reviewed }) => reviewed) ? "已人工确认" : "自动归档"}</Badge>
                     {selected.labels.map((label) => <Badge key={label} variant="secondary">{label}</Badge>)}
                     <span>{archiveHourLabel(selected.first)} 至 {archiveHourLabel(selected.last)}</span>
+                    <span>· 上榜跨度 {archiveDurationLabel(selected.durationHours)}</span>
                   </div>
                 </CardHeader>
                 <CardContent>
