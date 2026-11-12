@@ -10,7 +10,7 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import {
-  type ArchiveEvent, type EventMonth, archiveHourLabel, loadEventMonths, loadMonthEvents, originalHotlist,
+  type ArchiveEvent, type EventMonth, archiveHourLabel, loadEventMonths, loadMonthEvents, originalHotlist, originalPosts,
 } from "@/lib/event-archive";
 import { formatNumber } from "@/lib/format";
 
@@ -41,6 +41,7 @@ function Timeline({ event }: { event: ArchiveEvent }) {
                 <th scope="row" className="sticky left-0 max-w-48 border-r bg-card px-3 py-2 text-left font-medium">
                   {member.topic_id ? <Link className="underline underline-offset-2" href={`/topic/?id=${encodeURIComponent(member.topic_id)}`}>{member.title}</Link> : member.title}
                   {member.reviewed && <Badge variant="secondary" className="ml-1.5">已确认</Badge>}
+                  {member.topic_id && member.post_hour && <Link className="mt-1 block text-xs text-primary" href={originalPosts(member.topic_id, member.post_hour)}>存档正文</Link>}
                 </th>
                 {hours.map((hour) => {
                   const row = appearances.get(hour);
@@ -132,6 +133,7 @@ export function EventArchive() {
           <p className="mb-4 text-sm text-muted-foreground">
             {archiveHourLabel(selectedMonth.first)} 至 {archiveHourLabel(selectedMonth.last)}（北京时间）
             · {formatNumber(selectedMonth.hours)} 份小时榜
+            · {formatNumber(selectedMonth.topics)} 个话题时段
             · {formatNumber(selectedMonth.event_count)} 个事件
             · {formatNumber(selectedMonth.grouped)} 条话题时段已归组
           </p>

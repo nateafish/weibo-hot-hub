@@ -9,16 +9,26 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@
 import { loadTopicPosts } from "@/lib/data";
 import type { PostDay, TopicSummary } from "@/lib/types";
 
-export function PostsPanel({ summary }: { summary: TopicSummary }) {
-  const [date, setDate] = useState(summary.post_dates.at(-1) || "");
+export function PostsPanel({ summary, initialDate = "", initialHour = "" }: {
+  summary: TopicSummary; initialDate?: string; initialHour?: string;
+}) {
+  const [date, setDate] = useState(summary.post_dates.includes(initialDate) ? initialDate : summary.post_dates.at(-1) || "");
   const [day, setDay] = useState<PostDay | null>(null);
   const [hour, setHour] = useState("");
   const [error, setError] = useState("");
   useEffect(() => {
     if (!date) return;
+    let current = true;
     setError("");
-    loadTopicPosts(summary.topic_id, date).then((value) => { setDay(value); setHour(Object.keys(value.hours).sort().at(-1) || ""); }).catch((reason: Error) => setError(reason.message));
-  }, [date, summary.topic_id]);
+    setDay(null);
+    loadTopicPosts(summary.topic_id, date).then((value) => {
+      if (!current) return;
+      setDay(value);
+      setHour(date === initialDate && Object.hasOwn(value.hours, initialHour)
+        ? initialHour : Object.keys(value.hours).sort().at(-1) || "");
+    }).catch((reason: Error) => { if (current) setError(reason.message); });
+    return () => { current = false; };
+  }, [date, initialDate, initialHour, summary.topic_id]);
   const posts = useMemo(() => {
     const pages = day?.hours[hour]?.pages || [];
     return pages.flat().map((mid, index) => ({ post: day?.objects[mid], page: pages.findIndex((page) => page.includes(mid)) + 1, index })).filter((item) => item.post);

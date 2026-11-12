@@ -1,14 +1,44 @@
 {
   "months": [
     {
+      "month": "2026-11",
+      "first": "2026-11-03T14",
+      "last": "2026-11-12T16",
+      "hours": 104,
+      "topics": 2468,
+      "grouped": 769,
+      "event_count": 247,
+      "scope": "month"
+    },
+    {
       "month": "2026-10",
-      "first": "2026-10-12T01",
-      "last": "2026-10-15T21",
-      "hours": 26,
-      "topics": 641,
-      "grouped": 302,
-      "event_count": 84,
-      "scope": "pilot"
+      "first": "2026-10-01T00",
+      "last": "2026-10-30T16",
+      "hours": 333,
+      "topics": 7187,
+      "grouped": 2519,
+      "event_count": 761,
+      "scope": "month"
+    },
+    {
+      "month": "2026-09",
+      "first": "2026-09-01T04",
+      "last": "2026-09-30T23",
+      "hours": 373,
+      "topics": 8235,
+      "grouped": 2936,
+      "event_count": 896,
+      "scope": "month"
+    },
+    {
+      "month": "2026-08",
+      "first": "2026-08-12T21",
+      "last": "2026-08-31T22",
+      "hours": 334,
+      "topics": 5578,
+      "grouped": 1812,
+      "event_count": 575,
+      "scope": "month"
     }
   ]
 }
