@@ -3,15 +3,22 @@
   "created_at": 1794461979,
   "first_seen_at": "2026-11-12T15:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-12T16:00:00+08:00",
+  "last_seen_at": "2026-11-12T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%9D%92%E7%A8%9A%E7%BB%99%E6%96%87%E5%90%89%E5%84%BF%E8%A1%A8%E7%99%BD+%E7%AC%91%E4%B8%8D%E5%87%BA%E6%9D%A5%23%26t%3D3&title=发布媒体",
-    "show_str": "26家媒体",
+    "show_str": "31家媒体",
     "users": [
       {
         "id": 2286092114,
         "idstr": "2286092114",
         "screen_name": "中国蓝新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -37,23 +44,16 @@
         "verified_type": 3
       },
       {
+        "id": 7590570074,
+        "idstr": "7590570074",
+        "screen_name": "山海视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6336553950,
         "idstr": "6336553950",
         "screen_name": "新浪大文娱",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2647971081,
-        "idstr": "2647971081",
-        "screen_name": "时速新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2535760180,
-        "idstr": "2535760180",
-        "screen_name": "安徽视讯",
         "verified": true,
         "verified_type": 3
       }
