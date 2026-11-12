@@ -7,8 +7,10 @@ import random
 import re
 import time
 from dataclasses import dataclass
+from datetime import datetime
 from typing import Any, Iterable
 from urllib.parse import parse_qs, parse_qsl, urlencode, urlparse
+from zoneinfo import ZoneInfo
 
 import httpx
 from bs4 import BeautifulSoup, Tag
@@ -20,6 +22,10 @@ DEFAULT_UA = (
     "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
     "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
 )
+AVATAR_BADGES = {
+    "vgold": "金V", "vorange": "橙V", "vyellow": "黄V", "vred": "红V",
+    "vblue": "蓝V", "vgrey": "灰V", "club": "达人", "vgirl": "微女郎", "none": "无徽标",
+}
 
 
 class LoginRequired(RuntimeError):
@@ -38,6 +44,75 @@ class Post:
     created_at_text: str | None
     body: str
     url: str | None
+    account: dict[str, Any] | None = None
+
+
+def _badge_number(value: Any) -> int | None:
+    if type(value) is int:
+        return value
+    if isinstance(value, str) and re.fullmatch(r"-?[0-9]{1,6}", value):
+        return int(value)
+    return None
+
+
+def _badge_observed_at() -> str:
+    return datetime.now(ZoneInfo("Asia/Shanghai")).isoformat(timespec="seconds")
+
+
+def account_from_user(user: dict[str, Any]) -> dict[str, Any] | None:
+    """Read the mobile user fields and apply the current Weibo avatar rules."""
+    fields = {
+        key: user[key]
+        for key in ("verified", "verified_type", "verified_type_ext")
+        if user.get(key) is not None
+    }
+    if not fields:
+        return None
+
+    kind = _badge_number(fields.get("verified_type"))
+    extension = _badge_number(fields.get("verified_type_ext"))
+    symbol = None
+    if fields.get("verified") is True:
+        if kind == 0:
+            symbol = {1: "vgold", 2: "vorange"}.get(extension, "vyellow")
+        elif kind is not None and 1 <= kind <= 7:
+            if extension == -1:
+                symbol = "vgrey"
+            elif kind == 3 and extension == 53:
+                symbol = "vred"
+            else:
+                symbol = "vblue"
+    elif fields.get("verified") is False and kind is not None:
+        symbol = {220: "club", 10: "vgirl"}.get(kind, "none")
+
+    if symbol:
+        fields["badge"] = AVATAR_BADGES[symbol]
+    if isinstance(user.get("verified_reason"), str) and user["verified_reason"]:
+        fields["verified_reason"] = user["verified_reason"]
+    return {**fields, "observed_at": _badge_observed_at(), "source": "mobile_user"}
+
+
+def _account_from_search_avatar(avatar: Tag, observed_at: str) -> dict[str, Any] | None:
+    """Record the badge rendered in search without inferring the user's raw codes."""
+    icon = avatar.select_one(".woo-avatar-icon")
+    if icon is None:
+        if avatar.find("img"):
+            return {"badge": AVATAR_BADGES["none"], "observed_at": observed_at, "source": "search_avatar"}
+        return None
+    symbols = {
+        str(item.get("xlink:href") or item.get("href") or "").removeprefix("#woo_svg_")
+        for item in icon.select("use")
+    }
+    symbols.update(
+        name.removeprefix("woo-icon--")
+        for item in icon.select("[class]")
+        for name in item.get("class", [])
+        if name.startswith("woo-icon--")
+    )
+    for symbol, badge in AVATAR_BADGES.items():
+        if symbol in symbols:
+            return {"badge": badge, "observed_at": observed_at, "source": "search_avatar"}
+    return None
 
 
 def mobile_headers(cookie: str) -> dict[str, str]:
@@ -123,6 +198,7 @@ def _clean_text(node: Tag) -> str:
 def parse_search_page(source: str) -> list[Post]:
     soup = BeautifulSoup(source, "html.parser")
     posts: list[Post] = []
+    observed_at = _badge_observed_at()
     for card in soup.select("div.card-wrap[mid]"):
         mid = (card.get("mid") or "").strip()
         if not mid:
@@ -135,6 +211,7 @@ def parse_search_page(source: str) -> list[Post]:
             continue
 
         author = card.select_one("a.name[nick-name]")
+        avatar = card.select_one(".avator") if author else None
         uid = None
         if author and author.get("href"):
             match = re.search(r"weibo\.com/(?:u/)?(\d+)", str(author.get("href")))
@@ -153,6 +230,7 @@ def parse_search_page(source: str) -> list[Post]:
                 created_at_text=time_link.get_text(" ", strip=True) if time_link else None,
                 body=_clean_text(content),
                 url=permalink,
+                account=_account_from_search_avatar(avatar, observed_at) if avatar else None,
             )
         )
     if not posts:
@@ -179,7 +257,7 @@ def filter_search_cards(cards: Iterable[dict[str, Any]]) -> list[dict[str, Any]]
     return result
 
 
-def post_from_mblog(mblog: dict[str, Any]) -> Post:
+def post_from_mblog(mblog: dict[str, Any], *, fallback_user: dict[str, Any] | None = None) -> Post:
     mid = str(mblog.get("id") or mblog.get("mid") or "")
     if not mid:
         raise ParseError("mblog is missing id")
@@ -192,6 +270,7 @@ def post_from_mblog(mblog: dict[str, Any]) -> Post:
         created_at_text=str(mblog.get("created_at") or "") or None,
         body=_plain_html(str(mblog.get("text") or "")),
         url=f"https://m.weibo.cn/detail/{mid}",
+        account=account_from_user(user) or account_from_user(fallback_user or {}),
     )
 
 
@@ -274,13 +353,17 @@ def collect_mobile_search_pages(
             mid = str(mblog.get("id") or "")
             if not mid or mid in seen:
                 continue
+            fallback_user = None
             if fetch_full_text and mblog.get("isLongText") is True:
                 full = fetch_full_mblog(http, mid)
-                if full:
+                if full and str(full.get("id") or full.get("mid") or "") == mid:
+                    search_user = mblog.get("user")
+                    if isinstance(search_user, dict):
+                        fallback_user = search_user
                     mblog = full
                 _sleep_with_jitter(long_text_delay, long_text_jitter)
             seen.add(mid)
-            page_posts.append(post_from_mblog(mblog))
+            page_posts.append(post_from_mblog(mblog, fallback_user=fallback_user))
         output.append(page_posts)
         if page != pages:
             _sleep_with_jitter(delay, jitter)

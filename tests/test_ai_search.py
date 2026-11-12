@@ -94,7 +94,9 @@ def test_reference_trace_is_archived_with_the_exact_version(tmp_path, monkeypatc
     }
 
     def card(mid: str, author: str) -> str:
+        badge = '<span class="woo-avatar-icon"><svg class="woo-icon--vgold"></svg></span>' if mid == "11" else ""
         return f'''<div class="card-wrap" mid="{mid}">
+          <div class="avator"><img src="avatar.jpg">{badge}</div>
           <a class="name" nick-name="{author}" href="//weibo.com/42">{author}</a>
           <div class="from"><a href="//weibo.com/42/{mid}">今天 20:00</a></div>
           <p node-type="feed_list_content">引文 {mid}</p>
@@ -156,6 +158,10 @@ def test_reference_trace_is_archived_with_the_exact_version(tmp_path, monkeypatc
         assert trace_data["answer_version"] == answer["metadata"]["version"]
         traces[trace_data["answer_version"]] = trace_data
     assert [(p["mid"], p["username"]) for p in traces["v1"]["posts"]] == [("22", "作者乙"), ("11", "作者甲")]
+    assert "account" not in traces["v1"]["posts"][0]
+    assert traces["v1"]["posts"][1]["account"]["badge"] == "金V"
+    assert traces["v1"]["posts"][1]["category"] == "金橙V"
     assert [p["mid"] for p in traces["v2"]["posts"]] == ["22"]
+    assert traces["v2"]["posts"][0]["account"]["badge"] == "无徽标"
     assert traces["v2"]["breakdown"][0]["percent"] == 100
 

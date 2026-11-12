@@ -125,14 +125,20 @@ def save_post_pages(
     topic_root = root / "topics" / slug_id(topic_id)
     objects = topic_root / "posts" / "objects"
     index_pages: list[list[str]] = []
+    accounts: dict[str, dict[str, Any]] = {}
     written: list[Path] = []
     for page in pages:
         mids: list[str] = []
         for post in page:
             mids.append(post.mid)
+            if post.account:
+                accounts.setdefault(post.mid, post.account)
             object_path = objects / f"{post.mid}.json"
             if not object_path.exists():
-                atomic_json(object_path, asdict(post))
+                record = asdict(post)
+                if not post.account:
+                    record.pop("account")
+                atomic_json(object_path, record)
                 written.append(object_path)
         index_pages.append(mids)
     index_path = (
@@ -150,6 +156,7 @@ def save_post_pages(
             "topic_id": topic_id,
             "pages": index_pages,
             "unique_posts": len({mid for page in index_pages for mid in page}),
+            **({"accounts": accounts} if accounts else {}),
         },
     )
     written.append(index_path)
@@ -270,13 +277,19 @@ def _save_answer_references(
         mid for mid in refs.members
         if not prior.get(mid, {}).get("username") and (mid not in posts or not posts[mid].username)
     }
-    if http is not None and wanted:
-        posts.update(fetch_reference_posts(http, answer.query, wanted))
+    if existing is None:
+        wanted.update(mid for mid, post in posts.items() if not post.account)
+    resolved = fetch_reference_posts(http, answer.query, wanted) if http is not None and wanted else {}
 
     rows = []
     for mid, category in refs.members.items():
-        post = posts.get(mid)
+        known = posts.get(mid)
+        post = resolved.get(mid) or known
         fallback = prior.get(mid, {})
+        account = fallback.get("account")
+        if existing is None:
+            account = (known.account if known else None) or (post.account if post else None)
+        body = known.body if known and known.body else (post.body if post else "")
         rows.append({
             "mid": mid,
             "username": fallback.get("username") or (post.username if post else None) or refs.inline_names.get(mid),
@@ -284,7 +297,8 @@ def _save_answer_references(
             "url": (post.url if post else None) or fallback.get("url") or f"https://m.weibo.cn/detail/{mid}",
             "category": REFERENCE_CATEGORIES.get(category) if category else None,
             "created_at_text": fallback.get("created_at_text") or (post.created_at_text if post else None),
-            "excerpt": fallback.get("excerpt") or (post.body[:240] if post else None),
+            "excerpt": fallback.get("excerpt") or (body[:240] if body else None),
+            **({"account": account} if account else {}),
         })
 
     trace = {

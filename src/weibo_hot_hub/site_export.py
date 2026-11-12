@@ -332,6 +332,7 @@ def _post_files(topic_root: Path) -> dict[str, dict[str, Any]]:
             "captured_at": index.get("captured_at"),
             "pages": page_mids,
             "unique_posts": index.get("unique_posts", 0),
+            **({"accounts": index["accounts"]} if index.get("accounts") else {}),
         }
         for mid in {str(mid) for page in page_mids for mid in page}:
             if mid in day["objects"]:

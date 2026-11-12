@@ -1,6 +1,9 @@
+import pytest
+
 from weibo_hot_hub.weibo import (
     _sleep_with_jitter,
     canonical_https,
+    account_from_user,
     filter_search_cards,
     normalize_ai_payload,
     parse_search_page,
@@ -97,3 +100,41 @@ def test_mobile_mblog_to_post() -> None:
     assert post.uid == "42"
     assert post.body == "正文\n第二行"
     assert post.url == "https://m.weibo.cn/detail/123"
+    assert post.account is None
+
+
+@pytest.mark.parametrize(("verified", "kind", "extension", "badge"), [
+    (True, 0, 1, "金V"),
+    (True, 0, "2", "橙V"),
+    (True, 0, None, "黄V"),
+    (True, 3, 53, "红V"),
+    (True, 3, 0, "蓝V"),
+    (True, 7, -1, "灰V"),
+    (False, -1, None, "无徽标"),
+    (False, 220, None, "达人"),
+    (False, 10, None, "微女郎"),
+])
+def test_mobile_account_badge_preserves_observed_fields(verified, kind, extension, badge) -> None:
+    account = account_from_user({"verified": verified, "verified_type": kind, "verified_type_ext": extension})
+    assert account["badge"] == badge
+    assert account["verified"] is verified
+    assert account["verified_type"] == kind
+    assert account.get("verified_type_ext") == extension
+    assert account["source"] == "mobile_user"
+    assert account["observed_at"].endswith("+08:00")
+
+
+def test_search_avatar_records_the_rendered_badge_only() -> None:
+    source = """
+    <div class="card-wrap" mid="123">
+      <div class="avator"><img src="avatar.jpg"><span class="woo-avatar-icon">
+        <svg><use xlink:href="#woo_svg_vorange"></use></svg>
+      </span></div>
+      <a class="name" nick-name="用户" href="//weibo.com/42">用户</a>
+      <p node-type="feed_list_content">正文</p>
+    </div>
+    """
+    account = parse_search_page(source)[0].account
+    assert account["badge"] == "橙V"
+    assert account["source"] == "search_avatar"
+    assert "verified_type_ext" not in account
