@@ -120,6 +120,7 @@ export interface AiReferenceTrace {
     category?: string | null;
     created_at_text?: string | null;
     excerpt?: string | null;
+    account?: AccountObservation;
   }[];
 }
 
@@ -138,6 +139,16 @@ export interface TrendHistory {
   metrics: Record<string, TrendPoint[]>;
 }
 
+export interface AccountObservation {
+  observed_at: string;
+  source: "mobile_user" | "search_avatar";
+  badge?: string;
+  verified?: boolean;
+  verified_type?: number | string;
+  verified_type_ext?: number | string;
+  verified_reason?: string;
+}
+
 export interface PostObject {
   mid: string;
   uid?: string;
@@ -145,10 +156,16 @@ export interface PostObject {
   created_at_text?: string;
   body: string;
   url?: string;
+  account?: AccountObservation;
 }
 
 export interface PostDay {
-  hours: Record<string, { captured_at?: string; pages: string[][]; unique_posts: number }>;
+  hours: Record<string, {
+    captured_at?: string;
+    pages: string[][];
+    unique_posts: number;
+    accounts?: Record<string, AccountObservation>;
+  }>;
   objects: Record<string, PostObject>;
 }
 
