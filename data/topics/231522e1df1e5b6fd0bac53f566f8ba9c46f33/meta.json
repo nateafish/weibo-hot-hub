@@ -3,11 +3,61 @@
   "created_at": 1794477814,
   "first_seen_at": "2026-11-12T19:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-12T19:00:00+08:00",
+  "last_seen_at": "2026-11-12T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E8%A1%A8%E7%99%BD+%E6%81%B6%E8%B6%A3%E5%91%B3%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "11家媒体",
+    "users": [
+      {
+        "id": 7708039348,
+        "idstr": "7708039348",
+        "screen_name": "北青娱见",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2535760180,
+        "idstr": "2535760180",
+        "screen_name": "安徽视讯",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1867427515,
+        "idstr": "1867427515",
+        "screen_name": "新派新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1725252714,
+        "idstr": "1725252714",
+        "screen_name": "温度新闻",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "后会友期表白 恶趣味",
   "search_url": "https://s.weibo.com/weibo?q=%23%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E8%A1%A8%E7%99%BD%20%E6%81%B6%E8%B6%A3%E5%91%B3%23",
