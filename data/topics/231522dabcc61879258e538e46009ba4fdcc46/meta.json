@@ -10,7 +10,7 @@
     "status": 2,
     "uid": 1893892941
   },
-  "last_seen_at": "2026-11-13T06:00:00+08:00",
+  "last_seen_at": "2026-11-13T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%99%AE%E4%BA%AC%E6%B6%89%E4%B9%8C%E5%85%8B%E5%85%B0%E5%BC%BA%E7%A1%AC%E8%A1%A8%E6%80%81%23%26t%3D3&title=发布媒体",
     "show_str": "7家媒体",
@@ -19,6 +19,13 @@
         "id": 1893892941,
         "idstr": "1893892941",
         "screen_name": "北京日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1893801487,
+        "idstr": "1893801487",
+        "screen_name": "微天下",
         "verified": true,
         "verified_type": 3
       },
@@ -47,13 +54,6 @@
         "id": 2145917613,
         "idstr": "2145917613",
         "screen_name": "北京日报都视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1893801487,
-        "idstr": "1893801487",
-        "screen_name": "微天下",
         "verified": true,
         "verified_type": 3
       },
