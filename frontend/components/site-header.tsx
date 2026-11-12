@@ -4,7 +4,7 @@ import { usePathname } from "next/navigation";
 import { Separator } from "@/components/ui/separator";
 import { SidebarTrigger } from "@/components/ui/sidebar";
 
-const names: Record<string, string> = { "/": "今日热榜", "/archive/": "历史归档", "/topics/": "话题档案", "/topic/": "话题详情", "/about/": "关于项目" };
+const names: Record<string, string> = { "/": "今日热榜", "/archive/": "历史归档", "/topics/": "话题档案", "/topic/": "话题详情", "/events/": "事件档案", "/about/": "关于项目" };
 
 export function SiteHeader() {
   const pathname = usePathname();
