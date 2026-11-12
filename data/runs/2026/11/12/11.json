@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-12T11:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 1,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#习近平出席纪念孙中山先生诞辰160周年大会#",
+      "rank": 1,
+      "title": "习近平出席纪念孙中山先生诞辰160周年大会",
+      "topic_id": "2315222b09d8cd0b6c488c1147376de42f1b63"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#熊出没官方辟谣熊大被写死了#",
+      "rank": 1,
+      "title": "熊出没官方辟谣熊大被写死了",
+      "topic_id": "231522b0d9435c5f95eaacd4e3e33e666f653f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "后会友期",
+      "rank": 2,
+      "title": "后会友期",
+      "topic_id": "2315222d57e8bbcff64f0c2538dbae559383ad"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#何以中国壮美八桂#",
+      "rank": 3,
+      "title": "何以中国壮美八桂",
+      "topic_id": "23152298eaa20f08294bb6029038ac57d408f7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#库里回应妻子拍吻戏遭抨击#",
+      "rank": 4,
+      "title": "库里回应妻子拍吻戏遭抨击",
+      "topic_id": "231522bd3b681af509a5267ad2e8606a693c76"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#女孩没带课本被老师打到抽搐倒地#",
+      "rank": 5,
+      "title": "女孩没带课本被老师打到抽搐倒地",
+      "topic_id": "231522aabacf82a726da4fd164264709fc3c1b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "油价",
+      "rank": 6,
+      "title": "油价",
+      "topic_id": "231522795ccd756dc3cabecdd2d9bbe92d6619"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女子称产后与娃都患病丈夫不让进门#",
+      "rank": 7,
+      "title": "女子称产后与娃都患病丈夫不让进门",
+      "topic_id": "231522e2083400749dc81749b36e7950b21e9c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "原来李宇春是井柏然的老板",
+      "rank": 8,
+      "title": "原来李宇春是井柏然的老板",
+      "topic_id": "23152249a296d3f9962b660ed08f55b03d2876"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#两京十五日定档央八#",
+      "rank": 9,
+      "title": "两京十五日定档央八",
+      "topic_id": "231522bd962918783b3a37a40106e29308edeb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#山姆399元充绒量300克羽绒服断货#",
+      "rank": 10,
+      "title": "山姆399元充绒量300克羽绒服断货",
+      "topic_id": "2315224a444c92cffe396368cd767e7b28f6e9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#赵丽颖起诉红果短剧#",
+      "rank": 11,
+      "title": "赵丽颖起诉红果短剧",
+      "topic_id": "231522c7a879775d1c8f6851774be9ed5e1038"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#大美高迪已无商业关联#",
+      "rank": 12,
+      "title": "大美高迪已无商业关联",
+      "topic_id": "23152251f9dd979c9b91977bd6345a61509bc9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#高迪曾称她给我生了仨孩子我该挨骂#",
+      "rank": 13,
+      "title": "高迪曾称她给我生了仨孩子我该挨骂",
+      "topic_id": "231522ded66e33b16828318d238d70fd2035a5"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "霍启山娜然 结婚",
+      "rank": 14,
+      "title": "霍启山娜然 结婚",
+      "topic_id": "231522b587883f91c0ac9832feb57cf4a47ba4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#NBA回应库里右侧髋部疑受伤#",
+      "rank": 15,
+      "title": "NBA回应库里右侧髋部疑受伤",
+      "topic_id": "2315220662b7a82428dc278804e689438f2e98"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#徐艺洋儿子拿妈妈应援物#",
+      "rank": 16,
+      "title": "徐艺洋儿子拿妈妈应援物",
+      "topic_id": "231522df8ed942fa09e4f3226952a37a178ebc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#没想到节目也爆了#",
+      "rank": 17,
+      "title": "没想到节目也爆了",
+      "topic_id": "231522c78467364469b6063f4547798dc1b25c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#田曦薇拒绝闫桉提裙子的理由#",
+      "rank": 18,
+      "title": "田曦薇拒绝闫桉提裙子的理由",
+      "topic_id": "231522b6b6dfeb85d1e8440534005737cbfa5a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#有比亚迪车主开3个月才发现轮辋装反#",
+      "rank": 19,
+      "title": "有比亚迪车主开3个月才发现轮辋装反",
+      "topic_id": "2315222ab615a107d0ee81072b4857bfcdec2d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#孙中山曾孙惊叹中国40年变迁#",
+      "rank": 20,
+      "title": "孙中山曾孙惊叹中国40年变迁",
+      "topic_id": "2315220d495e32dd4e8877f3a69bd9dac50aab"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#后会友期全员拿到大结果了#",
+      "rank": 21,
+      "title": "后会友期全员拿到大结果了",
+      "topic_id": "2315227d6a43a31b432ad410ca930036206182"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "黄金",
+      "rank": 22,
+      "title": "黄金",
+      "topic_id": "23152211289a9c3dbe0fb8810cf271903fc8ac"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#正午阳光番位争议为何越吵越烈#",
+      "rank": 23,
+      "title": "正午阳光番位争议为何越吵越烈",
+      "topic_id": "2315227dc6cfe0bbafbda3224aeadc654d29c8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "马志明正式收郭德纲为义子",
+      "rank": 24,
+      "title": "马志明正式收郭德纲为义子",
+      "topic_id": "2315225d160a35fb2042d53f393b6ea2e0a4d8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张泉灵回应被许飞吐槽#",
+      "rank": 25,
+      "title": "张泉灵回应被许飞吐槽",
+      "topic_id": "231522614d501c8564f7458bfe8fb0e630e83f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "赵丽颖索赔81万",
+      "rank": 26,
+      "title": "赵丽颖索赔81万",
+      "topic_id": "23152266d7f42b207abe52cc76248669abce31"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "在家保持无性别低智儿童状态",
+      "rank": 27,
+      "title": "在家保持无性别低智儿童状态",
+      "topic_id": "2315227f4503816a522c908516efb675b7b002"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#汽车撞上风筝线多处被割坏#",
+      "rank": 28,
+      "title": "汽车撞上风筝线多处被割坏",
+      "topic_id": "23152266dec0f13b15a6130d5be177b591aff8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#杭州18岁女孩检出18种HPV亚型阳性#",
+      "rank": 29,
+      "title": "杭州18岁女孩检出18种HPV亚型阳性",
+      "topic_id": "231522b2e66aab2f457865ec8715ecc12797f9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#余承东回应为什么要做星芒手机#",
+      "rank": 30,
+      "title": "余承东回应为什么要做星芒手机",
+      "topic_id": "2315225ae8480f71e7eac978aa890aabee6b83"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝女子推理社3首录全阵容#",
+      "rank": 31,
+      "title": "曝女子推理社3首录全阵容",
+      "topic_id": "231522d58886d4f9fce9659e1c84026ee0d19a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "大美 有些事发生了就没办法当没发生",
+      "rank": 32,
+      "title": "大美 有些事发生了就没办法当没发生",
+      "topic_id": "231522315105cf03b2be3104c14ec98f8dd219"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#霍启刚结婚14周年发文称十分感恩#",
+      "rank": 33,
+      "title": "霍启刚结婚14周年发文称十分感恩",
+      "topic_id": "231522f40ffe92adf04344e8c6ef41c665f0fc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "娜然 霍启山",
+      "rank": 34,
+      "title": "娜然 霍启山",
+      "topic_id": "231522999fdfa0084b44fbd02862294883b1aa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#审美从白幼瘦来到了健康的肌肉#",
+      "rank": 35,
+      "title": "审美从白幼瘦来到了健康的肌肉",
+      "topic_id": "2315226692984fdc6c3063adcf7cd6460b64b5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "文吉儿 王子璇",
+      "rank": 36,
+      "title": "文吉儿 王子璇",
+      "topic_id": "23152292860c9248bcb0d5662e28629f2b2f72"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "女子推理社",
+      "rank": 37,
+      "title": "女子推理社",
+      "topic_id": "231522d514054f9cd357ced8989bff1158a667"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张泉灵已经真人秀上瘾了#",
+      "rank": 38,
+      "title": "张泉灵已经真人秀上瘾了",
+      "topic_id": "23152241af6ee14ad138f5af94332210830de8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#徐艺洋直播放儿子声音#",
+      "rank": 39,
+      "title": "徐艺洋直播放儿子声音",
+      "topic_id": "23152251a86955796fe23fa2fa1ba16dc3b677"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "WTA年终总决赛",
+      "rank": 40,
+      "title": "WTA年终总决赛",
+      "topic_id": "23152264cda55b2e87a3fea9091ee52bd55bbc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "曝女推3首发没有李一桐",
+      "rank": 41,
+      "title": "曝女推3首发没有李一桐",
+      "topic_id": "231522f13aca9402d5900e07b2793939b10b0f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "导游吐槽恩施大峡谷太离谱",
+      "rank": 42,
+      "title": "导游吐槽恩施大峡谷太离谱",
+      "topic_id": "231522125f2326a8338bbdc1b1ae8932b680ba"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#高市预设开战日本大媒体失声#",
+      "rank": 43,
+      "title": "高市预设开战日本大媒体失声",
+      "topic_id": "2315225c9ccd5076e712f7070d8135b314f24c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#光头强说熊大已经死了十年了#",
+      "rank": 44,
+      "title": "光头强说熊大已经死了十年了",
+      "topic_id": "2315226260179a21a4e1ad7a39828032e70e50"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#马克龙迎接外宾时2名仪仗队员晕倒#",
+      "rank": 45,
+      "title": "马克龙迎接外宾时2名仪仗队员晕倒",
+      "topic_id": "231522aa82ce88f367d6850225c0021f36610b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "双十一战绩",
+      "rank": 46,
+      "title": "双十一战绩",
+      "topic_id": "2315220091b82d138257d430362000edabd2cb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#黄金价格下跌#",
+      "rank": 47,
+      "title": "黄金价格下跌",
+      "topic_id": "23152208c5a4fae856cac85d5fedd02e20d730"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#合肥山姆一款羽绒服爆火#",
+      "rank": 48,
+      "title": "合肥山姆一款羽绒服爆火",
+      "topic_id": "231522941356778c0dfbd2b81bab271a73737b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#日本出现1个极危险信号#",
+      "rank": 49,
+      "title": "日本出现1个极危险信号",
+      "topic_id": "23152244931ff9c8df55c942b0e8e210c9d62f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "林子濠陈瑜婚后AA制",
+      "rank": 50,
+      "title": "林子濠陈瑜婚后AA制",
+      "topic_id": "231522afa1480863b2432c19053899f0ed25c6"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
