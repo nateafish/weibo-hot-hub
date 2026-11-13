@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 2522098777
   },
-  "last_seen_at": "2026-11-13T16:00:00+08:00",
+  "last_seen_at": "2026-11-13T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23S16%E5%86%B3%E8%B5%9B%E6%B5%B7%E6%8A%A5%E5%85%AC%E5%B8%83%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "9家媒体",
     "users": [
+      {
+        "id": 7551227875,
+        "idstr": "7551227875",
+        "screen_name": "万维文艺",
+        "verified": true,
+        "verified_type": 7
+      },
       {
         "id": 7030322196,
         "idstr": "7030322196",
@@ -37,9 +44,23 @@
         "verified_type": 3
       },
       {
-        "id": 1314608344,
-        "idstr": "1314608344",
-        "screen_name": "新闻晨报",
+        "id": 3037284894,
+        "idstr": "3037284894",
+        "screen_name": "经济日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2026044661,
+        "idstr": "2026044661",
+        "screen_name": "海量财经",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1723216063,
+        "idstr": "1723216063",
+        "screen_name": "佛山新闻",
         "verified": true,
         "verified_type": 3
       }
