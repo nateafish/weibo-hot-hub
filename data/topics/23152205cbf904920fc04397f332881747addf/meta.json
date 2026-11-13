@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1496814565
   },
-  "last_seen_at": "2026-11-13T22:00:00+08:00",
+  "last_seen_at": "2026-11-13T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%95%99%E5%B8%88%E9%95%BF%E6%9C%9F%E9%9B%86%E4%BD%93%E8%B5%8C%E5%8D%9A%E5%AD%A6%E6%A0%A1%E7%9B%91%E7%AE%A1%E5%8E%BB%E5%93%AA%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "22家媒体",
+    "show_str": "24家媒体",
     "users": [
       {
         "id": 1496814565,
@@ -26,6 +26,20 @@
         "id": 1751714412,
         "idstr": "1751714412",
         "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6715513747,
+        "idstr": "6715513747",
+        "screen_name": "宁县融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2308941133,
+        "idstr": "2308941133",
+        "screen_name": "锦州播报",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 5876448064,
         "idstr": "5876448064",
         "screen_name": "青蕉视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5867962564,
-        "idstr": "5867962564",
-        "screen_name": "达州快播报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5745238615,
-        "idstr": "5745238615",
-        "screen_name": "封面快播报",
         "verified": true,
         "verified_type": 3
       }

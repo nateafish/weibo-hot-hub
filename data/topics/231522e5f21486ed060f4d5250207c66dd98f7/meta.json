@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 2332566353
   },
-  "last_seen_at": "2026-11-13T22:00:00+08:00",
+  "last_seen_at": "2026-11-13T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E4%BE%9B%E8%AF%BB%E5%90%8C%E6%AF%8D%E5%BC%82%E7%88%B6%E7%9A%84%E5%A6%B9%E5%A6%B9%23%26t%3D3&title=发布媒体",
-    "show_str": "22家媒体",
+    "show_str": "25家媒体",
     "users": [
+      {
+        "id": 2460937233,
+        "idstr": "2460937233",
+        "screen_name": "热度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1751714412,
         "idstr": "1751714412",
@@ -51,16 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 6369501744,
-        "idstr": "6369501744",
-        "screen_name": "封面新闻视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5876448064,
-        "idstr": "5876448064",
-        "screen_name": "青蕉视频",
+        "id": 6417271136,
+        "idstr": "6417271136",
+        "screen_name": "极目文娱",
         "verified": true,
         "verified_type": 3
       }
