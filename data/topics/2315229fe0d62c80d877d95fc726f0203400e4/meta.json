@@ -10,15 +10,43 @@
     "status": 2,
     "uid": 7575030448
   },
-  "last_seen_at": "2026-11-13T15:00:00+08:00",
+  "last_seen_at": "2026-11-13T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%91%A8%E9%B8%BF%E7%A5%8E%E5%9B%9E%E5%BA%94%E9%BB%84%E4%BB%81%E5%8B%8B%E8%BE%9E%E8%81%8C%E5%AF%B9%E4%B8%AD%E5%9B%BDAI%E5%BD%B1%E5%93%8D%23%26t%3D3&title=发布媒体",
-    "show_str": "11家媒体",
+    "show_str": "23家媒体",
     "users": [
       {
         "id": 7575030448,
         "idstr": "7575030448",
         "screen_name": "白鹿视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1738006505,
+        "idstr": "1738006505",
+        "screen_name": "机锋网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6205409064,
+        "idstr": "6205409064",
+        "screen_name": "茌平融媒",
         "verified": true,
         "verified_type": 3
       },
@@ -33,34 +61,6 @@
         "id": 7750531853,
         "idstr": "7750531853",
         "screen_name": "朱雀财经",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6205409064,
-        "idstr": "6205409064",
-        "screen_name": "茌平融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5943595658,
-        "idstr": "5943595658",
-        "screen_name": "一手Video",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2648560444,
-        "idstr": "2648560444",
-        "screen_name": "楚雄州融媒体中心",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2535760180,
-        "idstr": "2535760180",
-        "screen_name": "安徽视讯",
         "verified": true,
         "verified_type": 3
       }

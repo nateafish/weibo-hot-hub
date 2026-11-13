@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2656274875
   },
-  "last_seen_at": "2026-11-13T15:00:00+08:00",
+  "last_seen_at": "2026-11-13T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%232027%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8A%A5%E8%80%83%E4%BA%BA%E6%95%B0347%E4%B8%87%23%26t%3D3&title=发布媒体",
-    "show_str": "180家媒体",
+    "show_str": "201家媒体",
     "users": [
       {
         "id": 2656274875,
         "idstr": "2656274875",
         "screen_name": "央视新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5758267327,
+        "idstr": "5758267327",
+        "screen_name": "徽视点",
         "verified": true,
         "verified_type": 3
       },
@@ -37,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 1406911561,
+        "idstr": "1406911561",
+        "screen_name": "云南广播电视台",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2685336121,
         "idstr": "2685336121",
         "screen_name": "南宁晚报",
@@ -47,20 +61,6 @@
         "id": 1651428902,
         "idstr": "1651428902",
         "screen_name": "21世纪经济报道",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3037284894,
-        "idstr": "3037284894",
-        "screen_name": "经济日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2115259662,
-        "idstr": "2115259662",
-        "screen_name": "洪观新闻",
         "verified": true,
         "verified_type": 3
       }
