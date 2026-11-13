@@ -2,19 +2,19 @@
   "category": "明星",
   "created_at": 1794453731,
   "first_seen_at": "2026-11-13T08:00:00+08:00",
-  "host": {
-    "claim_time": "2026.11.12-至今",
-    "created_at": "2026-11-12 11:24:40",
-    "is_claim": true,
-    "screen_name": "夏江南呀",
-    "status": 2,
-    "uid": 6151836498
-  },
-  "last_seen_at": "2026-11-13T13:00:00+08:00",
+  "host": null,
+  "last_seen_at": "2026-11-13T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9B%9D%E6%B1%A4%E8%87%A3%E4%BA%8C%E5%85%AC%E5%AD%90%E5%92%8C90%E8%8A%B1%E9%9A%90%E5%A9%9A%23%26t%3D3&title=发布媒体",
-    "show_str": "14家媒体",
+    "show_str": "17家媒体",
     "users": [
+      {
+        "id": 6444725927,
+        "idstr": "6444725927",
+        "screen_name": "吉祥新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 6369501744,
         "idstr": "6369501744",
@@ -56,20 +56,13 @@
         "screen_name": "封面热点",
         "verified": true,
         "verified_type": 3
-      },
-      {
-        "id": 2647971081,
-        "idstr": "2647971081",
-        "screen_name": "时速新闻",
-        "verified": true,
-        "verified_type": 3
       }
     ]
   },
   "query": "#曝汤臣二公子和90花隐婚#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%B1%A4%E8%87%A3%E4%BA%8C%E5%85%AC%E5%AD%90%E5%92%8C90%E8%8A%B1%E9%9A%90%E5%A9%9A%23",
   "sub_category": null,
-  "summary": "汤臣二公子被曝和九零花隐婚",
+  "summary": "",
   "title": "曝汤臣二公子和90花隐婚",
   "topic_id": "23152239daf606951443c03f9a619938ca4763"
 }

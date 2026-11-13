@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 7516679696
   },
-  "last_seen_at": "2026-11-13T13:00:00+08:00",
+  "last_seen_at": "2026-11-13T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%94%B7%E5%AD%90%E6%B7%B1%E5%A4%9C%E7%8C%A5%E4%BA%B5%E5%A5%B3%E5%AD%90%E5%B7%B2%E8%A2%AB%E4%BE%9D%E6%B3%95%E5%A4%84%E7%90%86%23%26t%3D3&title=发布媒体",
-    "show_str": "9家媒体",
+    "show_str": "15家媒体",
     "users": [
       {
         "id": 7516679696,
         "idstr": "7516679696",
         "screen_name": "九派新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1645578093,
+        "idstr": "1645578093",
+        "screen_name": "南风窗",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +44,23 @@
         "verified_type": 3
       },
       {
+        "id": 2118120483,
+        "idstr": "2118120483",
+        "screen_name": "青岛日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2041593395,
+        "idstr": "2041593395",
+        "screen_name": "搜狐济宁",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1970339157,
         "idstr": "1970339157",
         "screen_name": "小红花视界",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1938523582,
-        "idstr": "1938523582",
-        "screen_name": "宁波晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1767961804,
-        "idstr": "1767961804",
-        "screen_name": "大江新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1750987934,
-        "idstr": "1750987934",
-        "screen_name": "广州交通电台",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1727472420,
-        "idstr": "1727472420",
-        "screen_name": "泰山晚报",
         "verified": true,
         "verified_type": 3
       }

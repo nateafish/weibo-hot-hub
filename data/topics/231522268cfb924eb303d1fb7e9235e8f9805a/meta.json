@@ -10,11 +10,26 @@
     "status": 2,
     "uid": 5920136112
   },
-  "last_seen_at": "2026-11-13T13:00:00+08:00",
+  "last_seen_at": "2026-11-13T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23AI%E6%89%BE%E5%88%B0BLG%E8%B5%A2GEN%E7%9A%84%E5%8A%9E%E6%B3%95%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "2家媒体",
+    "users": [
+      {
+        "id": 1828887503,
+        "idstr": "1828887503",
+        "screen_name": "大河网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1314608344,
+        "idstr": "1314608344",
+        "screen_name": "新闻晨报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "AI找到BLG赢GEN的办法了",
   "search_url": "https://s.weibo.com/weibo?q=%23ai%E6%89%BE%E5%88%B0blg%E8%B5%A2gen%E7%9A%84%E5%8A%9E%E6%B3%95%E4%BA%86%23",
