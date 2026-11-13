@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 6468005444
   },
-  "last_seen_at": "2026-11-13T12:00:00+08:00",
+  "last_seen_at": "2026-11-13T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%87%91%E6%99%A8%E5%8F%91%E6%96%87%E7%A7%92%E5%88%A0%23%26t%3D3&title=发布媒体",
-    "show_str": "16家媒体",
+    "show_str": "24家媒体",
     "users": [
       {
-        "id": 2992050891,
-        "idstr": "2992050891",
-        "screen_name": "北京时间",
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1734530730,
+        "idstr": "1734530730",
+        "screen_name": "大河报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,20 +37,6 @@
         "verified_type": 3
       },
       {
-        "id": 1043320390,
-        "idstr": "1043320390",
-        "screen_name": "半岛晨报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7422806367,
-        "idstr": "7422806367",
-        "screen_name": "中网传播",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 6207911580,
         "idstr": "6207911580",
         "screen_name": "大河报豫视频",
@@ -51,16 +44,23 @@
         "verified_type": 3
       },
       {
-        "id": 2647971081,
-        "idstr": "2647971081",
-        "screen_name": "时速新闻",
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2535760180,
-        "idstr": "2535760180",
-        "screen_name": "安徽视讯",
+        "id": 1043320390,
+        "idstr": "1043320390",
+        "screen_name": "半岛晨报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1636678683,
+        "idstr": "1636678683",
+        "screen_name": "长天新闻",
         "verified": true,
         "verified_type": 3
       }
