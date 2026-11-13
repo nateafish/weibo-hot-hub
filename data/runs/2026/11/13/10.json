@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-13T10:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#共襄中华民族伟大复兴盛举#",
+      "rank": 1,
+      "title": "共襄中华民族伟大复兴盛举",
+      "topic_id": "231522d9c2b0790cc146c88bb3c148b835f1d8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王子璇白小纯4公里开了三小时#",
+      "rank": 1,
+      "title": "王子璇白小纯4公里开了三小时",
+      "topic_id": "231522dbc618f854a1a728fd4bf5a31804d01e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "微软Outlook服务宕机",
+      "rank": 2,
+      "title": "微软Outlook服务宕机",
+      "topic_id": "23152257cb1a37f551932eeb4f5d13fc8d3101"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#中国正在编织这样一张大网#",
+      "rank": 3,
+      "title": "中国正在编织这样一张大网",
+      "topic_id": "2315221000d739551c586a57ab0531f2d96bdd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#女子刮痧排淤堵脖上刮出3条大血印#",
+      "rank": 4,
+      "title": "女子刮痧排淤堵脖上刮出3条大血印",
+      "topic_id": "23152263303b602f3db72ea11589bdbe213225"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#男子失业断供与银行协商还贷被拒#",
+      "rank": 5,
+      "title": "男子失业断供与银行协商还贷被拒",
+      "topic_id": "231522f1e731b63e2d261c11110c2ffe85ed63"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "张萌后悔叫马天宇上节目",
+      "rank": 6,
+      "title": "张萌后悔叫马天宇上节目",
+      "topic_id": "231522a1e4b276030d5506c2079acdaaf0ce4c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#高中生困电梯2小时被让等物业上班#",
+      "rank": 7,
+      "title": "高中生困电梯2小时被让等物业上班",
+      "topic_id": "231522ad7d2564d48659070195c604fc117f24"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#普通人用AI和会用AI的人#",
+      "rank": 8,
+      "title": "普通人用AI和会用AI的人",
+      "topic_id": "231522cf977da01259da9b92cd54cd76b3ceb7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "给阿嬷的情书获奖反应冷淡",
+      "rank": 9,
+      "title": "给阿嬷的情书获奖反应冷淡",
+      "topic_id": "231522e7f468a92342d0ee189489309afa0acf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#后会友期民宿离晚餐地点不到四公里#",
+      "rank": 10,
+      "title": "后会友期民宿离晚餐地点不到四公里",
+      "topic_id": "2315220e144a6806377790a1b49e345342ece0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "怀孕妻子发现丈夫的白月光",
+      "rank": 11,
+      "title": "怀孕妻子发现丈夫的白月光",
+      "topic_id": "231522ea7a3b165488a30c297d9c3345ffc8e3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#金晨发文秒删#",
+      "rank": 12,
+      "title": "金晨发文秒删",
+      "topic_id": "2315220022b8d0244a6557cccfafb4b04040a6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#刘欢癌症扩散后曾放手一搏试新药#",
+      "rank": 13,
+      "title": "刘欢癌症扩散后曾放手一搏试新药",
+      "topic_id": "2315224d9cedf2c7225b857e67753dfea93c9d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#曝汤臣二公子和90花隐婚#",
+      "rank": 14,
+      "title": "曝汤臣二公子和90花隐婚",
+      "topic_id": "23152239daf606951443c03f9a619938ca4763"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#散户30分钟抄底英伟达1.1亿美元#",
+      "rank": 15,
+      "title": "散户30分钟抄底英伟达1.1亿美元",
+      "topic_id": "23152259c6103c28662b934194f5028c3aa152"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "白小纯 王子璇",
+      "rank": 16,
+      "title": "白小纯 王子璇",
+      "topic_id": "2315229283c5e33dd71f645e1b7b5242d266ef"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#感觉杨超越不捂住董思成的嘴都要亲了#",
+      "rank": 17,
+      "title": "感觉杨超越不捂住董思成的嘴都要亲了",
+      "topic_id": "23152276e13ce5f3c597ff866a5b7354575aa0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "金价",
+      "rank": 18,
+      "title": "金价",
+      "topic_id": "2315220939143c10eef68103b7bae2fe235d9e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#刘欢妻子长文#",
+      "rank": 19,
+      "title": "刘欢妻子长文",
+      "topic_id": "2315225ed897526c9987c41e23faead688c409"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "意大利3比1法国",
+      "rank": 20,
+      "title": "意大利3比1法国",
+      "topic_id": "23152288981add269581c6de0bf1135a774555"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#金晨回应回归现在就出发4#",
+      "rank": 21,
+      "title": "金晨回应回归现在就出发4",
+      "topic_id": "231522d68b61597461ed55b803a028d99e79e1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#黄仁勋4万美元打造出4万亿英伟达#",
+      "rank": 22,
+      "title": "黄仁勋4万美元打造出4万亿英伟达",
+      "topic_id": "231522df164691fc0b04494eec90acd78b72a5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "男子怀疑女儿是外星人",
+      "rank": 23,
+      "title": "男子怀疑女儿是外星人",
+      "topic_id": "2315228eaf1bc72fa6f9893ddc9837f6f761fc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#英伟达临时CEO曾因黄仁勋入职#",
+      "rank": 24,
+      "title": "英伟达临时CEO曾因黄仁勋入职",
+      "topic_id": "231522d2db81b88d1670bc58345b8194e6d255"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#英伟达大跌13%#",
+      "rank": 25,
+      "title": "英伟达大跌13%",
+      "topic_id": "2315229eee2f8d1e6a79bb787ee38e046076ab"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#厉娜节目里第一次叫许飞名字#",
+      "rank": 26,
+      "title": "厉娜节目里第一次叫许飞名字",
+      "topic_id": "23152234f24c009c6a92698f68d352ea9dbf83"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#奚梦瑶出演盆栽新歌MV#",
+      "rank": 27,
+      "title": "奚梦瑶出演盆栽新歌MV",
+      "topic_id": "231522cec4d07df33b71863fee33e7f731fa9b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#后会友期接人vs花少接人#",
+      "rank": 28,
+      "title": "后会友期接人vs花少接人",
+      "topic_id": "231522b9204548bde7686cc8a0f334ab28a7bb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#女子腿疼找中医扎针血直往外喷#",
+      "rank": 29,
+      "title": "女子腿疼找中医扎针血直往外喷",
+      "topic_id": "231522c02ce05cdbd7690e828d91cfa21604d8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#金价再迎暴跌专家劝别抄底#",
+      "rank": 30,
+      "title": "金价再迎暴跌专家劝别抄底",
+      "topic_id": "231522009bd7786975df4cf3e4786f5c409453"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#英伟达股民天塌了#",
+      "rank": 31,
+      "title": "英伟达股民天塌了",
+      "topic_id": "231522a722520f09ce1c2fd19687667990ace9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#拜登说早知道患癌就不参选了#",
+      "rank": 32,
+      "title": "拜登说早知道患癌就不参选了",
+      "topic_id": "2315229fd78a71aa4dbe2ca41483f0bfc1a480"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "青云稚上",
+      "rank": 33,
+      "title": "青云稚上",
+      "topic_id": "2315224aed964a21163bbf34a3835f353bed6f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#镜头转到周洁琼时这张脸好权威#",
+      "rank": 34,
+      "title": "镜头转到周洁琼时这张脸好权威",
+      "topic_id": "2315229c72e339c7a46b4ff92874acfe2d88a2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#肖战真是完全没变化的#",
+      "rank": 35,
+      "title": "肖战真是完全没变化的",
+      "topic_id": "2315223560ea180101cea0f025ce50108bb515"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#7碗米饭摆拍事件更显媒体调查价值#",
+      "rank": 36,
+      "title": "7碗米饭摆拍事件更显媒体调查价值",
+      "topic_id": "23152294eadb20789a47a920855e661ae0d06d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#黄仁勋离职后硅谷会掀起抢人潮吗#",
+      "rank": 37,
+      "title": "黄仁勋离职后硅谷会掀起抢人潮吗",
+      "topic_id": "231522ad90afce2b05347fef2d1f299c15c959"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#白小纯眼睛就没离开过王子璇#",
+      "rank": 38,
+      "title": "白小纯眼睛就没离开过王子璇",
+      "topic_id": "23152220f2c87549ce673a509ad60b87332fa5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#影视飓风Tim开通个人账号#",
+      "rank": 39,
+      "title": "影视飓风Tim开通个人账号",
+      "topic_id": "231522a00624f94375bbbd5622ebab9c91d836"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "恩比德膝盖受伤返回更衣室",
+      "rank": 40,
+      "title": "恩比德膝盖受伤返回更衣室",
+      "topic_id": "2315223585df47feb4fa2ad9cac093ffe9c60f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#医生说今年流感毒株不太一样#",
+      "rank": 41,
+      "title": "医生说今年流感毒株不太一样",
+      "topic_id": "231522dda98f02ea2a50743ba4ee4be237d58d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#英伟达市值蒸发1.21万亿#",
+      "rank": 42,
+      "title": "英伟达市值蒸发1.21万亿",
+      "topic_id": "23152283a5c924c7422c7c02b0cb02b1cc6bc4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "男子花四千多元做AI短剧火了",
+      "rank": 43,
+      "title": "男子花四千多元做AI短剧火了",
+      "topic_id": "2315223d9b99d198286032fa4815986cb40b37"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "面试虚报500万面试官掏计算器",
+      "rank": 44,
+      "title": "面试虚报500万面试官掏计算器",
+      "topic_id": "23152203bf0badc46acb07b95712c1ff9948ed"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#科技新一说黄仁勋走了英伟达缺少灵魂#",
+      "rank": 45,
+      "title": "科技新一说黄仁勋走了英伟达缺少灵魂",
+      "topic_id": "231522339ad7856fc5c073fefef9061f638d43"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张凌赫回复粉丝穿秋裤#",
+      "rank": 46,
+      "title": "张凌赫回复粉丝穿秋裤",
+      "topic_id": "2315220a03a587bf61532116dcc9c13148aad4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#美国司法部对英伟达展开调查#",
+      "rank": 47,
+      "title": "美国司法部对英伟达展开调查",
+      "topic_id": "231522666221dd7a5db62976a26b98383a5002"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#许飞厉娜再一个15年这些也成了老照片#",
+      "rank": 48,
+      "title": "许飞厉娜再一个15年这些也成了老照片",
+      "topic_id": "231522b550a713691669b5641bcc9156b2b16f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "广州小学生嘉豪因名字被取笑",
+      "rank": 49,
+      "title": "广州小学生嘉豪因名字被取笑",
+      "topic_id": "231522f8c12fda6c04593604bb176f6365ebc7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#发布朴树去世消息网友已私密账号#",
+      "rank": 50,
+      "title": "发布朴树去世消息网友已私密账号",
+      "topic_id": "2315221eb465518042de5895fa1e3463a10ffe"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
