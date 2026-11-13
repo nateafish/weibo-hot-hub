@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 3266943013
   },
-  "last_seen_at": "2026-11-13T14:00:00+08:00",
+  "last_seen_at": "2026-11-13T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A4%9A%E5%85%83%E4%BE%9B%E7%BB%99%E8%B5%8B%E8%83%BD%E7%BA%BF%E4%B8%8A%E6%B6%88%E8%B4%B9%E6%96%B0%E6%B4%BB%E5%8A%9B%23%26t%3D3&title=发布媒体",
-    "show_str": "13家媒体",
+    "show_str": "23家媒体",
     "users": [
       {
         "id": 3266943013,
         "idstr": "3266943013",
         "screen_name": "央视网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 6013508393,
-        "idstr": "6013508393",
-        "screen_name": "环球总财",
+        "id": 1753234175,
+        "idstr": "1753234175",
+        "screen_name": "泰安日报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 3594781514,
-        "idstr": "3594781514",
-        "screen_name": "陕西工人报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3275115274,
-        "idstr": "3275115274",
-        "screen_name": "中国吉林网",
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       }

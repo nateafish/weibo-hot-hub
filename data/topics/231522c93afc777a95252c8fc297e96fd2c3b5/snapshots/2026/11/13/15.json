@@ -1,0 +1,213 @@
+{
+  "captured_at": "2026-11-13T15:00:00+08:00",
+  "contributors": [
+    {
+      "contribution": 115,
+      "profile_url": "https://weibo.com/u/6021003247",
+      "rank": 1,
+      "uid": "6021003247",
+      "username": "阿莫学长",
+      "verified": true,
+      "verified_type": 0
+    },
+    {
+      "contribution": 113,
+      "profile_url": "https://weibo.com/u/5654436412",
+      "rank": 2,
+      "uid": "5654436412",
+      "username": "白头叔",
+      "verified": true,
+      "verified_type": 0
+    },
+    {
+      "contribution": 105,
+      "profile_url": "https://weibo.com/u/2576867470",
+      "rank": 3,
+      "uid": "2576867470",
+      "username": "魏泽楷",
+      "verified": true,
+      "verified_type": 0
+    },
+    {
+      "contribution": 83,
+      "profile_url": "https://weibo.com/u/6300207081",
+      "rank": 4,
+      "uid": "6300207081",
+      "username": "经典名场面bot",
+      "verified": true,
+      "verified_type": 0
+    },
+    {
+      "contribution": 71,
+      "profile_url": "https://weibo.com/u/6469045161",
+      "rank": 5,
+      "uid": "6469045161",
+      "username": "涵妈超开心",
+      "verified": false,
+      "verified_type": -1
+    },
+    {
+      "contribution": 64,
+      "profile_url": "https://weibo.com/u/3660816800",
+      "rank": 6,
+      "uid": "3660816800",
+      "username": "一条酸菜娱",
+      "verified": true,
+      "verified_type": 0
+    },
+    {
+      "contribution": 52,
+      "profile_url": "https://weibo.com/u/2122243241",
+      "rank": 7,
+      "uid": "2122243241",
+      "username": "体坛大魔王",
+      "verified": true,
+      "verified_type": 0
+    },
+    {
+      "contribution": 45,
+      "profile_url": "https://weibo.com/u/5547079560",
+      "rank": 8,
+      "uid": "5547079560",
+      "username": "萍水齋",
+      "verified": false,
+      "verified_type": -1
+    },
+    {
+      "contribution": 28,
+      "profile_url": "https://weibo.com/u/7408066931",
+      "rank": 9,
+      "uid": "7408066931",
+      "username": "视听中国",
+      "verified": true,
+      "verified_type": 3
+    },
+    {
+      "contribution": 25,
+      "profile_url": "https://weibo.com/u/5821001167",
+      "rank": 10,
+      "uid": "5821001167",
+      "username": "熊熊超腻害",
+      "verified": false,
+      "verified_type": -1
+    }
+  ],
+  "contributors_scheme": "sinaweibo://cardlist?containerid=231522type%3D103%26q%3D%23%E5%A4%A9%E6%B6%AF%E5%85%B1%E6%AD%A4%E8%AF%97%23&title=话题贡献者排行",
+  "current_boards": {
+    "hot_band": {
+      "ori": {
+        "category": "国内时政",
+        "is_boom": 0,
+        "num": 671363,
+        "onband": 1,
+        "onboard_time": 1794467900,
+        "pos": 3,
+        "subject_querys": [],
+        "transparency_tag": null
+      },
+      "scheme": "sinaweibo://pageinfo?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Drealtimehot&title=热搜榜&extparam=",
+      "sub_info": [],
+      "text": "热搜榜第3位"
+    },
+    "hot_band_24_hour": {
+      "ori": {
+        "on_band": 1
+      }
+    }
+  },
+  "exact_counts": {
+    "buy_num": 1,
+    "g_mention": 43624,
+    "gone_num": 0,
+    "interact": 66007,
+    "mention": 43624,
+    "ori_m": 779,
+    "ori_uv": 535,
+    "r_valid": 11230704,
+    "read": 42657907,
+    "rec_num": 0,
+    "show": 0,
+    "star": 3,
+    "t_m_num": 795,
+    "t_r_num": 1326752,
+    "wants_num": 0
+  },
+  "heat": 2,
+  "overview": {
+    "24h": {
+      "interaction": {
+        "unit": "万",
+        "val": 4.7
+      },
+      "mention": {
+        "unit": "万",
+        "val": 2.8
+      },
+      "original": {
+        "unit": "",
+        "val": 726
+      },
+      "read": {
+        "unit": "万",
+        "val": 879.6
+      }
+    },
+    "30d": {
+      "interaction": {
+        "unit": "万",
+        "val": 4.7
+      },
+      "mention": {
+        "unit": "万",
+        "val": 2.8
+      },
+      "original": {
+        "unit": "",
+        "val": 744
+      },
+      "read": {
+        "unit": "万",
+        "val": 897.6
+      }
+    },
+    "all": {
+      "interaction": {
+        "unit": "万",
+        "val": 6.6
+      },
+      "mention": {
+        "unit": "万",
+        "val": 4.4
+      },
+      "original": {
+        "unit": "",
+        "val": 779
+      },
+      "read": {
+        "unit": "万",
+        "val": 4265.8
+      }
+    }
+  },
+  "rank_history": [
+    {
+      "cate": "hot_board",
+      "cate_desc": "热搜榜",
+      "duration_hour": 4,
+      "duration_minute": 295,
+      "duration_mod_min": 55,
+      "off_board_time": "202611131505",
+      "on_board_time": "202611121518",
+      "top_pos": 3,
+      "topic_flag": 1
+    }
+  ],
+  "title": "天涯共此诗",
+  "topic_id": "231522c93afc777a95252c8fc297e96fd2c3b5",
+  "window_counts": {
+    "1h_mention": 206,
+    "1h_ori_m": 14,
+    "24h_mention": 28015,
+    "24h_read": 8796147
+  }
+}

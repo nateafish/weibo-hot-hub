@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1720962692
   },
-  "last_seen_at": "2026-11-13T14:00:00+08:00",
+  "last_seen_at": "2026-11-13T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%BB%84%E4%BB%81%E5%8B%8B%E8%BE%9E%E8%81%8C%E5%89%8D%E8%87%AA%E5%98%B2%E6%88%91%E5%B0%B1%E6%98%AF%E4%B8%AA%E4%BA%BA%E6%B8%A3%23%26t%3D3&title=发布媒体",
-    "show_str": "40家媒体",
+    "show_str": "50家媒体",
     "users": [
       {
         "id": 2118120483,
         "idstr": "2118120483",
         "screen_name": "青岛日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1720962692,
+        "idstr": "1720962692",
+        "screen_name": "极目新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,9 +37,9 @@
         "verified_type": 2
       },
       {
-        "id": 1720962692,
-        "idstr": "1720962692",
-        "screen_name": "极目新闻",
+        "id": 6890696793,
+        "idstr": "6890696793",
+        "screen_name": "Barrons巴伦",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 2028810631,
+        "idstr": "2028810631",
+        "screen_name": "新浪新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1938424152,
         "idstr": "1938424152",
         "screen_name": "搜狐财经",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1893801487,
-        "idstr": "1893801487",
-        "screen_name": "微天下",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1717833412,
-        "idstr": "1717833412",
-        "screen_name": "华商报",
         "verified": true,
         "verified_type": 3
       }
