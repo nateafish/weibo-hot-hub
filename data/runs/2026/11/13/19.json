@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-13T19:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 1,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#坚持和加强党对国有企业的全面领导#",
+      "rank": 1,
+      "title": "坚持和加强党对国有企业的全面领导",
+      "topic_id": "231522298031877bfce880bc66e3770812a462"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王忠林被查#",
+      "rank": 1,
+      "title": "王忠林被查",
+      "topic_id": "231522f0e93ae017b14e60d79c13b247707800"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#飞秒手术要降价了#",
+      "rank": 2,
+      "title": "飞秒手术要降价了",
+      "topic_id": "23152260d3ba1c3210129c1a964fde549a020b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#我们的城市有条中山路#",
+      "rank": 3,
+      "title": "我们的城市有条中山路",
+      "topic_id": "2315226f2a021a5c4afd2ebf06b795bb335436"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#Faker冲击S17冠军#",
+      "rank": 4,
+      "title": "Faker冲击S17冠军",
+      "topic_id": "231522ddc792e823675fb027211028a2d4b3ee"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "现在的暧昧关系真的是疯了",
+      "rank": 5,
+      "title": "现在的暧昧关系真的是疯了",
+      "topic_id": "23152278b583760d8559e62c70d33fcdb995cd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#官方通报交大基因编辑事件#",
+      "rank": 6,
+      "title": "官方通报交大基因编辑事件",
+      "topic_id": "231522ba200e654d4ff58cf641f3bf80f9c8d9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#青稚的成绩#",
+      "rank": 7,
+      "title": "青稚的成绩",
+      "topic_id": "2315225b5e2361665bcb4b0a86c48c69b4737f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#和平饭店账单造假事件15人被抓#",
+      "rank": 8,
+      "title": "和平饭店账单造假事件15人被抓",
+      "topic_id": "2315226dc0180481fd949907cba443bba212e5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#我国严禁任何形式代孕#",
+      "rank": 9,
+      "title": "我国严禁任何形式代孕",
+      "topic_id": "2315229ae330c9fb1bfc88169f98e1737dffd2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#半飞秒适用1200度以内近视#",
+      "rank": 10,
+      "title": "半飞秒适用1200度以内近视",
+      "topic_id": "231522612573f782edf147e319e3700998800b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#大美晒与高迪聊天记录#",
+      "rank": 11,
+      "title": "大美晒与高迪聊天记录",
+      "topic_id": "231522c65904305920892a56ea30850b12ae71"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#曝时代少年团收入梯队#",
+      "rank": 12,
+      "title": "曝时代少年团收入梯队",
+      "topic_id": "231522454b744d79f4ec8b6adf6d6e9a8d875a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "七人几乎不带文吉儿玩",
+      "rank": 13,
+      "title": "七人几乎不带文吉儿玩",
+      "topic_id": "2315227416d89f083dcf71072278078398f9f2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#厉娜转发区#",
+      "rank": 14,
+      "title": "厉娜转发区",
+      "topic_id": "231522e58bca0f8d16bd7100e110aba468508e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#2027研究生报考人数347万#",
+      "rank": 15,
+      "title": "2027研究生报考人数347万",
+      "topic_id": "23152233fa4c57e17ec7276101b22775f7a912"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#东风日产NX7预售12.99万起#",
+      "rank": 16,
+      "title": "东风日产NX7预售12.99万起",
+      "topic_id": "2315220a0fa586b48f46f2e3463949c14103e0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "宋雨琦转发中国台湾被韩网热议",
+      "rank": 17,
+      "title": "宋雨琦转发中国台湾被韩网热议",
+      "topic_id": "231522bbc23e467acaf17831e6e2663e6f5409"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#金晨发文秒删#",
+      "rank": 18,
+      "title": "金晨发文秒删",
+      "topic_id": "2315220022b8d0244a6557cccfafb4b04040a6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#床虱地图1个月有近七百家酒店被记录上#",
+      "rank": 19,
+      "title": "床虱地图1个月有近七百家酒店被记录上",
+      "topic_id": "231522fe46ee28cadfa20e9f15d8117e7e3860"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝魏晨被雪藏的原因#",
+      "rank": 20,
+      "title": "曝魏晨被雪藏的原因",
+      "topic_id": "231522d45c348bd38843f7afbc11d03adb4138"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "八旬老人成了医疗人球",
+      "rank": 21,
+      "title": "八旬老人成了医疗人球",
+      "topic_id": "2315229f31b5e4b3ad83a10f9201a2653c6a92"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#白小纯成绩#",
+      "rank": 22,
+      "title": "白小纯成绩",
+      "topic_id": "23152285baa5d5d7ff83c77383a721a05ae757"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王子璇听到白小纯说青稚是太子爷的表情#",
+      "rank": 23,
+      "title": "王子璇听到白小纯说青稚是太子爷的表情",
+      "topic_id": "231522ec6c5982d61bd1380a88b82e160526c0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "陈晓楠 张泉灵",
+      "rank": 24,
+      "title": "陈晓楠 张泉灵",
+      "topic_id": "2315225f921a0a4b67c9fc8bffdc5e9036f1f8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#叶倩文在南京档案馆找到家人户籍#",
+      "rank": 25,
+      "title": "叶倩文在南京档案馆找到家人户籍",
+      "topic_id": "2315222fd3f5d717d632bbd841013f45bf5042"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#疑过失致孩子脑瘫医院却说硬盘坏了#",
+      "rank": 26,
+      "title": "疑过失致孩子脑瘫医院却说硬盘坏了",
+      "topic_id": "231522c5162b41e423c9d933db227118279e96"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#年年体检血糖正常却查出糖尿病#",
+      "rank": 27,
+      "title": "年年体检血糖正常却查出糖尿病",
+      "topic_id": "231522fc184803ab2ddd7d71be64cb0532b9c9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "梓渝演唱会",
+      "rank": 28,
+      "title": "梓渝演唱会",
+      "topic_id": "231522a9cbc9c1e4bb0d8e7bfe8513fc033a4a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张泉灵紧急切割#",
+      "rank": 29,
+      "title": "张泉灵紧急切割",
+      "topic_id": "231522b615823a8f0d39b523daeb98d2a98557"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#蔡徐坤任嘉伦上海同框#",
+      "rank": 30,
+      "title": "蔡徐坤任嘉伦上海同框",
+      "topic_id": "2315227fe1155bad94cff0342a28b2848d6b52"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "韩国公务员考试首席手写笔记",
+      "rank": 31,
+      "title": "韩国公务员考试首席手写笔记",
+      "topic_id": "231522072dba5f75eee8f25d90111c5aa11af9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#青稚说感觉不到白小纯对成绩的渴望#",
+      "rank": 32,
+      "title": "青稚说感觉不到白小纯对成绩的渴望",
+      "topic_id": "231522e8680d2c642dc7523286653ba9fb8894"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#猫的树回应太阳雨男女主选角#",
+      "rank": 33,
+      "title": "猫的树回应太阳雨男女主选角",
+      "topic_id": "231522bbd4788856fef7103f9d4ea355161a73"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王俊凯演唱会电影#",
+      "rank": 34,
+      "title": "王俊凯演唱会电影",
+      "topic_id": "2315225955cd0b96100ceaa2420b91b7af935b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "Zeus回归T1传闻",
+      "rank": 35,
+      "title": "Zeus回归T1传闻",
+      "topic_id": "231522e0a908f15f1780c0e6258ecab793d86b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#肖战不戴口罩#",
+      "rank": 36,
+      "title": "肖战不戴口罩",
+      "topic_id": "2315221b1530325ce3f87db1bc9b888e8355ea"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "杨超越早期经历",
+      "rank": 37,
+      "title": "杨超越早期经历",
+      "topic_id": "231522f18ebdcf0c8134c24651fa5f924ee567"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#艺人的牙齿也需要被管理#",
+      "rank": 38,
+      "title": "艺人的牙齿也需要被管理",
+      "topic_id": "231522e9899b1f34091c903c0857fdae2bfc04"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#AMD博通发力追赶英伟达#",
+      "rank": 39,
+      "title": "AMD博通发力追赶英伟达",
+      "topic_id": "231522ae2d44c59446ffe428990456cd9665aa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "太阳雨 编剧",
+      "rank": 40,
+      "title": "太阳雨 编剧",
+      "topic_id": "2315220e8166c1608d1ee1f199ef73e46b4c98"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#电影麻将女王内地票房4455元#",
+      "rank": 41,
+      "title": "电影麻将女王内地票房4455元",
+      "topic_id": "2315228fa428b1bdfcf23caebe82743ac27255"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#飞秒手术全球1000万例中国750万例#",
+      "rank": 42,
+      "title": "飞秒手术全球1000万例中国750万例",
+      "topic_id": "23152274861dd33309fff9b0720c6ad35fa89b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#千问就这样爆后会友期的料#",
+      "rank": 43,
+      "title": "千问就这样爆后会友期的料",
+      "topic_id": "231522fcd9e1a0cf85f573108a35d26cb06adb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#猫的树回应太阳雨女主选杨超越#",
+      "rank": 44,
+      "title": "猫的树回应太阳雨女主选杨超越",
+      "topic_id": "2315225a5aca772f4ca6f708f83ea3fa89eb46"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "华为PuraXView激活销量破百万",
+      "rank": 45,
+      "title": "华为PuraXView激活销量破百万",
+      "topic_id": "2315228b29ea80002cecde95bda93f1c88f2c6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#原来商场里的帝王蟹需要每天喂#",
+      "rank": 46,
+      "title": "原来商场里的帝王蟹需要每天喂",
+      "topic_id": "231522f47580a55b0138770be59048e2d3a9cc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张桂源发了28分钟vlog#",
+      "rank": 47,
+      "title": "张桂源发了28分钟vlog",
+      "topic_id": "231522b1b61aca53e8c4f340504a4d2a67793f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#罗云熙没去BLG比赛现场的原因#",
+      "rank": 48,
+      "title": "罗云熙没去BLG比赛现场的原因",
+      "topic_id": "231522f930196b69c7e9a1eb9e4783eca83eca"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#问界新M8更旗舰的家#",
+      "rank": 49,
+      "title": "问界新M8更旗舰的家",
+      "topic_id": "231522475f2e0d85b80d943ff8bfcc85edb0b1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#金价下跌买金人少一半#",
+      "rank": 50,
+      "title": "金价下跌买金人少一半",
+      "topic_id": "231522f212e29286bc043a779494fbf05098a5"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

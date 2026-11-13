@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 2656274875
   },
-  "last_seen_at": "2026-11-13T18:00:00+08:00",
+  "last_seen_at": "2026-11-13T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%8E%8B%E5%BF%A0%E6%9E%97%E8%A2%AB%E6%9F%A5%23%26t%3D3&title=发布媒体",
-    "show_str": "42家媒体",
+    "show_str": "71家媒体",
     "users": [
+      {
+        "id": 2656274875,
+        "idstr": "2656274875",
+        "screen_name": "央视新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1699432410,
         "idstr": "1699432410",
@@ -23,9 +30,16 @@
         "verified_type": 3
       },
       {
-        "id": 2656274875,
-        "idstr": "2656274875",
-        "screen_name": "央视新闻",
+        "id": 1801817195,
+        "idstr": "1801817195",
+        "screen_name": "辽沈晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6115560351,
+        "idstr": "6115560351",
+        "screen_name": "国是直通车",
         "verified": true,
         "verified_type": 3
       },
@@ -37,36 +51,22 @@
         "verified_type": 3
       },
       {
+        "id": 5044281310,
+        "idstr": "5044281310",
+        "screen_name": "澎湃新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2810373291,
         "idstr": "2810373291",
         "screen_name": "新华网",
         "verified": true,
         "verified_type": 3
-      },
-      {
-        "id": 1845864154,
-        "idstr": "1845864154",
-        "screen_name": "看看新闻Knews",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1717833412,
-        "idstr": "1717833412",
-        "screen_name": "华商报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1497087080,
-        "idstr": "1497087080",
-        "screen_name": "羊城晚报",
-        "verified": true,
-        "verified_type": 3
       }
     ]
   },
-  "query": "王忠林被查",
+  "query": "#王忠林被查#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BF%A0%E6%9E%97%E8%A2%AB%E6%9F%A5%23",
   "sub_category": null,
   "summary": "十四届全国人大环境与资源保护委员会副主任委员王忠林涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。 ​",
