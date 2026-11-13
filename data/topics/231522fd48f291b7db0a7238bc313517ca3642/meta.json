@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 5044281310
   },
-  "last_seen_at": "2026-11-13T23:00:00+08:00",
+  "last_seen_at": "2026-11-14T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%B2%B3%E5%8D%97%E8%B4%A2%E5%A4%A7%E6%80%A7%E9%AA%9A%E6%89%B0%E5%A5%B3%E7%94%9F%E6%95%99%E5%B8%88%E8%A2%AB%E5%BC%80%E9%99%A4%23%26t%3D3&title=发布媒体",
-    "show_str": "10家媒体",
+    "show_str": "15家媒体",
     "users": [
       {
         "id": 5044281310,
         "idstr": "5044281310",
         "screen_name": "澎湃新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1789681642,
+        "idstr": "1789681642",
+        "screen_name": "第一现场",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 5606627706,
         "idstr": "5606627706",
         "screen_name": "澎湃问吧",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2118120483,
-        "idstr": "2118120483",
-        "screen_name": "青岛日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1791298665,
-        "idstr": "1791298665",
-        "screen_name": "奔流新闻",
         "verified": true,
         "verified_type": 3
       }
