@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 6711062248
   },
-  "last_seen_at": "2026-11-13T08:00:00+08:00",
+  "last_seen_at": "2026-11-13T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8E%89%E5%A8%9C%E8%8A%82%E7%9B%AE%E9%87%8C%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%8F%AB%E8%AE%B8%E9%A3%9E%E5%90%8D%E5%AD%97%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "6家媒体",
     "users": [
+      {
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2252846093,
         "idstr": "2252846093",
         "screen_name": "长春新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1880922220,
+        "idstr": "1880922220",
+        "screen_name": "金华晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -33,6 +47,13 @@
         "id": 1656737654,
         "idstr": "1656737654",
         "screen_name": "现代快报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1398613133,
+        "idstr": "1398613133",
+        "screen_name": "马上资讯",
         "verified": true,
         "verified_type": 3
       }

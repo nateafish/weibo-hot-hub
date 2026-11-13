@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 2803301701
   },
-  "last_seen_at": "2026-11-13T08:00:00+08:00",
+  "last_seen_at": "2026-11-13T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%AD%E5%9B%BD%E6%AD%A3%E5%9C%A8%E7%BC%96%E7%BB%87%E8%BF%99%E6%A0%B7%E4%B8%80%E5%BC%A0%E5%A4%A7%E7%BD%91%23%26t%3D3&title=发布媒体",
-    "show_str": "13家媒体",
+    "show_str": "23家媒体",
     "users": [
       {
         "id": 2803301701,
         "idstr": "2803301701",
         "screen_name": "人民日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3229962754,
+        "idstr": "3229962754",
+        "screen_name": "陕视新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2346437860,
+        "idstr": "2346437860",
+        "screen_name": "三峡融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497418417,
+        "idstr": "1497418417",
+        "screen_name": "掌上温岭",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 7523386243,
+        "idstr": "7523386243",
+        "screen_name": "南阳网官方微博",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7296362599,
         "idstr": "7296362599",
         "screen_name": "掌上长春",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6021980686,
-        "idstr": "6021980686",
-        "screen_name": "费县融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5703684231,
-        "idstr": "5703684231",
-        "screen_name": "陕西科技报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5539777260,
-        "idstr": "5539777260",
-        "screen_name": "菏泽日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3919603060,
-        "idstr": "3919603060",
-        "screen_name": "内蒙古日报",
         "verified": true,
         "verified_type": 3
       }
