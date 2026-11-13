@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 7825494801
   },
-  "last_seen_at": "2026-11-13T17:00:00+08:00",
+  "last_seen_at": "2026-11-13T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E6%88%90%E7%BB%A9%23%26t%3D3&title=发布媒体",
-    "show_str": "21家媒体",
+    "show_str": "26家媒体",
     "users": [
+      {
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2115259662,
         "idstr": "2115259662",
@@ -26,6 +33,13 @@
         "id": 2824067765,
         "idstr": "2824067765",
         "screen_name": "贺州日报官微",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497087080,
+        "idstr": "1497087080",
+        "screen_name": "羊城晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2659523842,
-        "idstr": "2659523842",
-        "screen_name": "黔东南融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2647971081,
-        "idstr": "2647971081",
-        "screen_name": "时速新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2628314830,
-        "idstr": "2628314830",
-        "screen_name": "合肥晚报",
+        "id": 5396094153,
+        "idstr": "5396094153",
+        "screen_name": "大众新闻-大众日报",
         "verified": true,
         "verified_type": 3
       }

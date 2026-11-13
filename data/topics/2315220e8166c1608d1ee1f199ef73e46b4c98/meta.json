@@ -3,10 +3,10 @@
   "created_at": 1794551711,
   "first_seen_at": "2026-11-13T17:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-13T17:00:00+08:00",
+  "last_seen_at": "2026-11-13T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A4%AA%E9%98%B3%E9%9B%A8+%E7%BC%96%E5%89%A7%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "7家媒体",
     "users": [
       {
         "id": 7313242117,
@@ -16,16 +16,23 @@
         "verified_type": -1
       },
       {
-        "id": 2106115754,
-        "idstr": "2106115754",
-        "screen_name": "北京文艺广播",
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2041117703,
-        "idstr": "2041117703",
-        "screen_name": "合肥日报",
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2106115754,
+        "idstr": "2106115754",
+        "screen_name": "北京文艺广播",
         "verified": true,
         "verified_type": 3
       },
@@ -40,6 +47,13 @@
         "id": 1744332207,
         "idstr": "1744332207",
         "screen_name": "钱江视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1677991972,
+        "idstr": "1677991972",
+        "screen_name": "晶报",
         "verified": true,
         "verified_type": 3
       }
