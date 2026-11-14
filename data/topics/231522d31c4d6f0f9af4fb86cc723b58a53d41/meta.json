@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 6074356560
   },
-  "last_seen_at": "2026-11-14T19:00:00+08:00",
+  "last_seen_at": "2026-11-14T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23JDG%E5%AF%B9%E6%88%98WB%23%26t%3D3&title=发布媒体",
-    "show_str": "13家媒体",
+    "show_str": "18家媒体",
     "users": [
       {
         "id": 5788578441,
         "idstr": "5788578441",
         "screen_name": "丝路电竞",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -44,13 +51,6 @@
         "verified_type": 3
       },
       {
-        "id": 2685336121,
-        "idstr": "2685336121",
-        "screen_name": "南宁晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 2460937233,
         "idstr": "2460937233",
         "screen_name": "热度新闻",
@@ -58,9 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2028810631,
-        "idstr": "2028810631",
-        "screen_name": "新浪新闻",
+        "id": 2286220630,
+        "idstr": "2286220630",
+        "screen_name": "海都微漳州",
         "verified": true,
         "verified_type": 3
       }

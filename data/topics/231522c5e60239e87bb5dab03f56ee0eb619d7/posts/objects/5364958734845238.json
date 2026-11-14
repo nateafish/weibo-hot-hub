@@ -1,0 +1,17 @@
+{
+  "account": {
+    "badge": "蓝V",
+    "observed_at": "2026-11-14T20:21:44+08:00",
+    "source": "mobile_user",
+    "verified": true,
+    "verified_reason": "新智元官方微博",
+    "verified_type": 3,
+    "verified_type_ext": 0
+  },
+  "body": "就在大周五晚上，DeepSeek又搞事情了！\nDeepSeek正式开放全家桶应用 API！～\n以前，你在 DeepSeek App 和网页端用得最顺手的一大串功能，包括深度思考搜索、上传文件、读链接、语音交互、甚至文字识别……\n现在全打包进了 API 里！\n官方甚至放话：开发者可以 1:1 复刻出完整的 DeepSeek App！\n但今天，DeepSeek开放的全家桶API，直接帮开发者把桌子掀了！\nDeepSeek App 的各项交互功能，直接整合进原有 API。所有繁琐的工具调用、上下文拼接，全由ds服务端完成。\n只要开启对应参数，就能召唤出DeepSeek完全体！\n开启思考模式后，更是逆天了——模型能在多步推理中自主联网搜索+阅读链接，简直逻辑拉满！\n直接丢进去 PDF、Office 文档、图片，服务端会自动纯文本提取/图文混排解析，无缝拼入对话上下文。\n别人卖 API 好比卖水和电，DeepSeek 这是直接卖饮水厂和发电站啊！\n甚至，为了方便开发者，DeepSeek 还把底层能力拆成独立接口，支持单独或组合调用！\n包括：\nSearch（ 联网搜索）\nFetch（网页抓取）\nOCR（文字识别）\nASR（语音识别）\nTTS（语音合成）\n从此，DeepSeek可以当成底层工具库，需要哪个调哪个，so easy~\n官方公告最后这样写：其实，我们的DeepSeek App只是个基础款。现在脏活累活交给我们，别再重复造轮子了，赶紧去整个大活吧！\nDeepSeek，不愧是人类之光啊。",
+  "created_at_text": "Sat Nov 14 01:01:41 +0800 2026",
+  "mid": "5364958734845238",
+  "uid": "5703921756",
+  "url": "https://m.weibo.cn/detail/5364958734845238",
+  "username": "新智元"
+}
