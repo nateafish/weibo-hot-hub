@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-14T18:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#习近平妙喻APEC合作#",
+      "rank": 1,
+      "title": "习近平妙喻APEC合作",
+      "topic_id": "23152262e2461dfdb5848ebd393648f8def3ec"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#青稚再获巅峰挑战赛冠军#",
+      "rank": 1,
+      "title": "青稚再获巅峰挑战赛冠军",
+      "topic_id": "23152277894f4422eab3053a871d5efbe40a07"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 21,
+      "posts": "saved",
+      "query": "#业内称山姆399元羽绒服是钩子商品#",
+      "rank": 2,
+      "title": "业内称山姆399元羽绒服是钩子商品",
+      "topic_id": "2315225ecbb91388d1bafbaf0b3b8f4350539c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#一图读懂我国消费市场潜力与活力#",
+      "rank": 3,
+      "title": "一图读懂我国消费市场潜力与活力",
+      "topic_id": "231522d54e36c5da312af471a53fccf36a0ca3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "中国人才是隐晦差评的神",
+      "rank": 4,
+      "title": "中国人才是隐晦差评的神",
+      "topic_id": "2315226ca8f4269672901601d074b35e064f2a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#男婴因黄疸鼻塞入新生儿科次日死亡#",
+      "rank": 5,
+      "title": "男婴因黄疸鼻塞入新生儿科次日死亡",
+      "topic_id": "2315227d5867cc7baec3251fff00699a130ad0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#爱奇艺尖叫之夜历届获奖#",
+      "rank": 6,
+      "title": "爱奇艺尖叫之夜历届获奖",
+      "topic_id": "2315221a5b6bf516ee89a31022445336c728d7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#遭丈夫勒颈杀害女子家属发声#",
+      "rank": 7,
+      "title": "遭丈夫勒颈杀害女子家属发声",
+      "topic_id": "231522d1d781a74c293f366f156306ddc2442d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "#boss直聘回应拒给HR带咖啡被取消面试#",
+      "rank": 8,
+      "title": "boss直聘回应拒给HR带咖啡被取消面试",
+      "topic_id": "231522a00fe21e194890213f101a025122d1da"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 21,
+      "posts": "saved",
+      "query": "2026KPL年总决赛",
+      "rank": 9,
+      "title": "2026KPL年总决赛",
+      "topic_id": "2315223a5b1b3ab01c315c283ccf9a4f001c16"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "厉娜 不负少年不负卿",
+      "rank": 10,
+      "title": "厉娜 不负少年不负卿",
+      "topic_id": "23152230afe93e68518bc866ded1c90cd5d3ce"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#大美晒受伤照片#",
+      "rank": 11,
+      "title": "大美晒受伤照片",
+      "topic_id": "231522599abf1f11b3d32502d1f448da7de8ef"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#奚梦瑶家里的盘子用的都是爱马仕的#",
+      "rank": 12,
+      "title": "奚梦瑶家里的盘子用的都是爱马仕的",
+      "topic_id": "2315228e5cd0af9efd2d7f68ef16bd9d4df182"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#男子砍伤妻子未批捕事后勒死妻子#",
+      "rank": 13,
+      "title": "男子砍伤妻子未批捕事后勒死妻子",
+      "topic_id": "2315229ebd0f238b72bc25271977a920726083"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#曝娱乐圈下周会发生一次世纪大和解#",
+      "rank": 14,
+      "title": "曝娱乐圈下周会发生一次世纪大和解",
+      "topic_id": "23152213a931c541c33611f207c92e7ab085db"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#西藏网友直播找厉娜留言本#",
+      "rank": 15,
+      "title": "西藏网友直播找厉娜留言本",
+      "topic_id": "231522623d43bc9c77d223e2b18360d77cc980"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 20,
+      "posts": "saved",
+      "query": "#奔驰女司机借300元加油钱后手机关机#",
+      "rank": 16,
+      "title": "奔驰女司机借300元加油钱后手机关机",
+      "topic_id": "231522b47702f07012d1b1b3163aff661260ae"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#李一桐对接回应与女推3切割#",
+      "rank": 17,
+      "title": "李一桐对接回应与女推3切割",
+      "topic_id": "2315226213287003d318caecac0836dca05ff2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 21,
+      "posts": "saved",
+      "query": "JDG对战WB",
+      "rank": 18,
+      "title": "JDG对战WB",
+      "topic_id": "231522d31c4d6f0f9af4fb86cc723b58a53d41"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#许飞和光芒万丈的娜娜#",
+      "rank": 19,
+      "title": "许飞和光芒万丈的娜娜",
+      "topic_id": "231522b623edc02a3890f16ee5467e997f8976"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "英伟达架构有多逆天",
+      "rank": 20,
+      "title": "英伟达架构有多逆天",
+      "topic_id": "23152261ce093a2fe762ef63c972921089e351"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#感觉Lisa面相都变了#",
+      "rank": 21,
+      "title": "感觉Lisa面相都变了",
+      "topic_id": "231522e834c43ba96bfaf431dc04f4e035d82c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#超9成胃癌患者早期有这两个症状#",
+      "rank": 22,
+      "title": "超9成胃癌患者早期有这两个症状",
+      "topic_id": "231522b40f47571011118581e4525f144658e7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#曝爱奇艺尖叫之夜压轴#",
+      "rank": 23,
+      "title": "曝爱奇艺尖叫之夜压轴",
+      "topic_id": "231522ef09ac3b0450f76fb5b7bae12c539811"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#仙洋为大美发声#",
+      "rank": 24,
+      "title": "仙洋为大美发声",
+      "topic_id": "231522f2b52c2d6b3da32c1c402862ea238453"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "汪海林 金鸡奖不能向市场流量妥协",
+      "rank": 25,
+      "title": "汪海林 金鸡奖不能向市场流量妥协",
+      "topic_id": "2315221277423b2e949fc12b86145376cc628f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#大美删了受伤照片#",
+      "rank": 26,
+      "title": "大美删了受伤照片",
+      "topic_id": "231522f952f88520133e03771458096c08b4fa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#iPhoneDuo45.7万次折叠后铰链明显磨损#",
+      "rank": 27,
+      "title": "iPhoneDuo45.7万次折叠后铰链明显磨损",
+      "topic_id": "231522d5b901611b52e177cfdf97f50b61257c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝娜然怀孕了#",
+      "rank": 28,
+      "title": "曝娜然怀孕了",
+      "topic_id": "231522dc5789dba7458fa0a06142c076dadba5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝S16决赛还有重磅官宣#",
+      "rank": 29,
+      "title": "曝S16决赛还有重磅官宣",
+      "topic_id": "2315222ad892e68170a633cd95892f1bfd9758"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#13岁女孩确诊胃癌晚期#",
+      "rank": 30,
+      "title": "13岁女孩确诊胃癌晚期",
+      "topic_id": "23152252ab25359c50367d5dd1971079d27833"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#大美说好好养伤了#",
+      "rank": 31,
+      "title": "大美说好好养伤了",
+      "topic_id": "231522312a49f943bb50778f89dd76c0155d20"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#宁艺卓走红毯被卡在台阶#",
+      "rank": 32,
+      "title": "宁艺卓走红毯被卡在台阶",
+      "topic_id": "231522383d011cd6ed490f62c7b723a04c11ae"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#马天宇吐槽张泉灵#",
+      "rank": 33,
+      "title": "马天宇吐槽张泉灵",
+      "topic_id": "23152226daf1f42c9c7d5c30a99b78054e3a36"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#大美脑袋被打个口子#",
+      "rank": 34,
+      "title": "大美脑袋被打个口子",
+      "topic_id": "2315225a9ebadc4f63b5df175d16305b1575bd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "PEL",
+      "rank": 35,
+      "title": "PEL",
+      "topic_id": "231522d8e971e22ddbcbc5c7f08dbec5b0ce0d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "女子推理社3",
+      "rank": 36,
+      "title": "女子推理社3",
+      "topic_id": "2315221b51b0bf62b2894ced3a5a1ac0c37780"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "MMA红毯",
+      "rank": 37,
+      "title": "MMA红毯",
+      "topic_id": "231522246f651d7d81ece51f93da6af926f87d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "年轻人又抠又大方的消费观",
+      "rank": 38,
+      "title": "年轻人又抠又大方的消费观",
+      "topic_id": "231522765dde13c8f7dd0a7398b15cb621579e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#董路谈阿图什杯赛的对抗强度#",
+      "rank": 39,
+      "title": "董路谈阿图什杯赛的对抗强度",
+      "topic_id": "231522550db2ecfd34f8e866eff0bcd83fa457"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#青稚偷拍白小纯睡觉后在偷笑#",
+      "rank": 40,
+      "title": "青稚偷拍白小纯睡觉后在偷笑",
+      "topic_id": "231522e818dbe4e0c255bf9a9345641b48ad4f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "持械入宋",
+      "rank": 41,
+      "title": "持械入宋",
+      "topic_id": "23152212346014cc4ac143258eedf2f3749885"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 7,
+      "posts": "saved",
+      "query": "专寻走失老人汪汪队救援月耗16万",
+      "rank": 42,
+      "title": "专寻走失老人汪汪队救援月耗16万",
+      "topic_id": "231522b660d81a9240b7f77cd4cdc831415a53"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "青稚获PMC挑战赛FMVP",
+      "rank": 43,
+      "title": "青稚获PMC挑战赛FMVP",
+      "topic_id": "23152293b58eef54e98dec8bf3d258f8bcec6d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#宋亚轩网感震惊范丞丞#",
+      "rank": 44,
+      "title": "宋亚轩网感震惊范丞丞",
+      "topic_id": "231522afbafbf73be62447ee6994e2e1ec2815"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#金晨花五位数化了个暖阳妆#",
+      "rank": 45,
+      "title": "金晨花五位数化了个暖阳妆",
+      "topic_id": "231522d260197222f9a4c91f2724e55b519295"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "二十五到三十岁这五年最值钱",
+      "rank": 46,
+      "title": "二十五到三十岁这五年最值钱",
+      "topic_id": "2315221b3b0df79d77bad4c0b0e602f5129b7b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "#超5万人请愿黄仁勋复职#",
+      "rank": 47,
+      "title": "超5万人请愿黄仁勋复职",
+      "topic_id": "231522b72dc8949814c67afa525e93595386df"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "打印店的权威我后知后觉",
+      "rank": 48,
+      "title": "打印店的权威我后知后觉",
+      "topic_id": "231522f3d89f31ef2756963e369106e2858be7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#范丞丞回复了宋亚轩#",
+      "rank": 49,
+      "title": "范丞丞回复了宋亚轩",
+      "topic_id": "231522072ee6c31ed64497784e7fc5f8ab377c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "KPL年总决赛赛前预测",
+      "rank": 50,
+      "title": "KPL年总决赛赛前预测",
+      "topic_id": "231522dfb76ee4bfb3bda2809d2efb826a18d4"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
