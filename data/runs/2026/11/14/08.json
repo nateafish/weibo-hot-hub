@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-14T08:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 1,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#和合共生#",
+      "rank": 1,
+      "title": "和合共生",
+      "topic_id": "231522f4a96606f3839e77dca51f80226ff1ba"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#老板假装扫了500余次付款码#",
+      "rank": 1,
+      "title": "老板假装扫了500余次付款码",
+      "topic_id": "23152267bc56497dbb9ac717f2c84b1f95b1c2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#产妇求剖腹产遭拒孩子脑瘫丈夫发声#",
+      "rank": 2,
+      "title": "产妇求剖腹产遭拒孩子脑瘫丈夫发声",
+      "topic_id": "231522c0e29dbf862e71ad7b2c68cfd998d58f"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#APEC时隔12年再次来到中国#",
+      "rank": 3,
+      "title": "APEC时隔12年再次来到中国",
+      "topic_id": "231522465a1f5bb544a456933f54426769c504"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#美全国范围实施地面停飞#",
+      "rank": 4,
+      "title": "美全国范围实施地面停飞",
+      "topic_id": "231522ab9b12e7d4d432be5712b5fd17e710a7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "主人提醒邻居别给猫按电梯",
+      "rank": 5,
+      "title": "主人提醒邻居别给猫按电梯",
+      "topic_id": "23152283c3e25cde3c5619c0a79f9ed9c77634"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张泉灵新视频被指内涵白小纯#",
+      "rank": 6,
+      "title": "张泉灵新视频被指内涵白小纯",
+      "topic_id": "231522ef4cd36405ea3f32d5faf4fe17522421"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#父亲动手打孩子路过女子心疼到崩溃#",
+      "rank": 7,
+      "title": "父亲动手打孩子路过女子心疼到崩溃",
+      "topic_id": "23152203b760415ab67aa63acefa3124a70569"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#顾居居拉表让白小纯不要愧疚#",
+      "rank": 8,
+      "title": "顾居居拉表让白小纯不要愧疚",
+      "topic_id": "23152240ea1e8c94072fd6d8587bbfb800c2f9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "老公一天干了一辈子家务",
+      "rank": 9,
+      "title": "老公一天干了一辈子家务",
+      "topic_id": "231522ec235ed9bb7a40308df658d98a8dfa47"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "萨巴伦卡vs斯维托丽娜",
+      "rank": 10,
+      "title": "萨巴伦卡vs斯维托丽娜",
+      "topic_id": "2315221071f0141846ae7fc800a51ba8bfeccc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#Lisa似乎不再是以前那个Lisa了#",
+      "rank": 11,
+      "title": "Lisa似乎不再是以前那个Lisa了",
+      "topic_id": "2315225534da172074cd503dec89cecfcc12b7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#艾薇儿当妈#",
+      "rank": 12,
+      "title": "艾薇儿当妈",
+      "topic_id": "231522fe3088b685f5ad65b2fd329534816a8f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "顾居居 白小纯",
+      "rank": 13,
+      "title": "顾居居 白小纯",
+      "topic_id": "2315226f7e89f3c975f55b0b468e4c0201b2cf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#小男孩山林失联5只狗狗不离不弃#",
+      "rank": 14,
+      "title": "小男孩山林失联5只狗狗不离不弃",
+      "topic_id": "231522b5c77a9729c4eb7efe1fb63fb996f1e3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "S16最前线",
+      "rank": 15,
+      "title": "S16最前线",
+      "topic_id": "231522229741e6e65bbe4819fceed1a6735df1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#Lisa一脚把人踹下台了#",
+      "rank": 16,
+      "title": "Lisa一脚把人踹下台了",
+      "topic_id": "231522dcb7d3cebece930afb260ada2001a93f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#黄仁勋留下了哪些难题#",
+      "rank": 17,
+      "title": "黄仁勋留下了哪些难题",
+      "topic_id": "231522866d88c50cacce38486268b73677356f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#肖战我不是肖战#",
+      "rank": 18,
+      "title": "肖战我不是肖战",
+      "topic_id": "231522d2d725b571698527da0f4cb7decffa2d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝魏晨被雪藏的原因#",
+      "rank": 19,
+      "title": "曝魏晨被雪藏的原因",
+      "topic_id": "231522d45c348bd38843f7afbc11d03adb4138"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#数字人专访李彦宏#",
+      "rank": 20,
+      "title": "数字人专访李彦宏",
+      "topic_id": "231522a13f04ad9f3e104dec17963fb5bba57b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#顾客尝了口面整碗扔垃圾桶付钱走人#",
+      "rank": 21,
+      "title": "顾客尝了口面整碗扔垃圾桶付钱走人",
+      "topic_id": "231522a3123baf40fde8db0d4c7e09127673da"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#仙洋为大美发声#",
+      "rank": 22,
+      "title": "仙洋为大美发声",
+      "topic_id": "231522f2b52c2d6b3da32c1c402862ea238453"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "小猫以为人也是怀孕两个月就生",
+      "rank": 23,
+      "title": "小猫以为人也是怀孕两个月就生",
+      "topic_id": "23152275a89fe5539e59f7cdf9108340b3213e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#芒果还有这么多爆点没放出来#",
+      "rank": 24,
+      "title": "芒果还有这么多爆点没放出来",
+      "topic_id": "23152251ec34e16eaf150a823140649deeec42"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "成年人的相爱其实难度很高",
+      "rank": 25,
+      "title": "成年人的相爱其实难度很高",
+      "topic_id": "23152266d7efdc3c2ac7867bfef5cfd87ca2c3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#深夜徐老师怀孕#",
+      "rank": 26,
+      "title": "深夜徐老师怀孕",
+      "topic_id": "23152274adc9fe4e324f840756c460c2fb568f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#妈妈听劝做小孩菜挑食儿子埋头猛吃#",
+      "rank": 27,
+      "title": "妈妈听劝做小孩菜挑食儿子埋头猛吃",
+      "topic_id": "2315224d4e313be01d0179e91734ba2de1fb86"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "刘耀文的占有欲有多强",
+      "rank": 28,
+      "title": "刘耀文的占有欲有多强",
+      "topic_id": "23152238648fe14daf8d83415a381f94a7dcb0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "不要过度表达不好意思",
+      "rank": 29,
+      "title": "不要过度表达不好意思",
+      "topic_id": "23152216af59cf939cfaab8cf9564a9730ea65"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "睡前有这5种表现可能是脑梗",
+      "rank": 30,
+      "title": "睡前有这5种表现可能是脑梗",
+      "topic_id": "2315227ece083117b385c2f8576bd6e4913dce"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 8,
+      "posts": "saved",
+      "query": "#黄仁勋辞职有人对英伟达亮匕首#",
+      "rank": 31,
+      "title": "黄仁勋辞职有人对英伟达亮匕首",
+      "topic_id": "23152236344090f0635883441e257a54921ed8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#陈俊菘0比3方博#",
+      "rank": 32,
+      "title": "陈俊菘0比3方博",
+      "topic_id": "231522f539abb31f4b025740708e129e46a81e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#王忠林被查湖北省委表态#",
+      "rank": 33,
+      "title": "王忠林被查湖北省委表态",
+      "topic_id": "2315228fe833cbf28b76aa91939dbc65f20399"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "儿子问独生子女难有责任感吗",
+      "rank": 34,
+      "title": "儿子问独生子女难有责任感吗",
+      "topic_id": "23152230a2ee5850cf7b590388e96fb53309c7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#奚梦瑶从女儿2岁开始就给她买包包#",
+      "rank": 35,
+      "title": "奚梦瑶从女儿2岁开始就给她买包包",
+      "topic_id": "2315229fa4f938a71b588d16cf09d483a985a9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 7,
+      "posts": "saved",
+      "query": "美国夫妇中国旅游试戴假发",
+      "rank": 36,
+      "title": "美国夫妇中国旅游试戴假发",
+      "topic_id": "2315228b4b47f65a84da796cbe6a79de640aa3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "一对燕子搭不好窝吵架",
+      "rank": 37,
+      "title": "一对燕子搭不好窝吵架",
+      "topic_id": "2315225d96e0d4518280977655ceab943d83cf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#于东来不回避胖东来洗发水争议#",
+      "rank": 38,
+      "title": "于东来不回避胖东来洗发水争议",
+      "topic_id": "23152279932cea0398447e0567e720bbeaf37b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "女子推理社",
+      "rank": 39,
+      "title": "女子推理社",
+      "topic_id": "231522d514054f9cd357ced8989bff1158a667"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "网友发明左右手反转学习法",
+      "rank": 40,
+      "title": "网友发明左右手反转学习法",
+      "topic_id": "231522161423264272b36febf5ec24cb7d2888"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#蔡徐坤让跪着举麦的工作人员站起来#",
+      "rank": 41,
+      "title": "蔡徐坤让跪着举麦的工作人员站起来",
+      "topic_id": "23152297922253391115e491b384f91b14343f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#青稚马天宇看许飞给厉娜夹菜的表情#",
+      "rank": 42,
+      "title": "青稚马天宇看许飞给厉娜夹菜的表情",
+      "topic_id": "231522a7a8b4250fcd3ff227558f9804bdb6d0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#女子跳广场舞子宫掉出卡在裤子里#",
+      "rank": 43,
+      "title": "女子跳广场舞子宫掉出卡在裤子里",
+      "topic_id": "231522b2d009b7bedb8351dccc894977176a3a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "航仔徐老师感情时间线",
+      "rank": 44,
+      "title": "航仔徐老师感情时间线",
+      "topic_id": "231522f5fd13c205765ab54ec524b3875b46a7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "业主群有个很好笑的邻居",
+      "rank": 45,
+      "title": "业主群有个很好笑的邻居",
+      "topic_id": "2315225fb059ebacd5d8473115683ec3c7b952"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "芒果把这段放出来",
+      "rank": 46,
+      "title": "芒果把这段放出来",
+      "topic_id": "2315227dd067762baff1c7eb241ac6eacf6d6e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#小城良方同款打卡地在辽宁锦州#",
+      "rank": 47,
+      "title": "小城良方同款打卡地在辽宁锦州",
+      "topic_id": "231522d6a0d1eaf598d939f1042dfdd0f2ab10"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#春日宴#",
+      "rank": 48,
+      "title": "春日宴",
+      "topic_id": "2315226f1c4260da97e339dafdf12810a5382b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "刘宇宁音乐缘计划归期雨抄见字如面",
+      "rank": 49,
+      "title": "刘宇宁音乐缘计划归期雨抄见字如面",
+      "topic_id": "2315229accefa37d0639a82e0e24c8244b67de"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "七人几乎不带文吉儿玩",
+      "rank": 50,
+      "title": "七人几乎不带文吉儿玩",
+      "topic_id": "2315227416d89f083dcf71072278078398f9f2"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
