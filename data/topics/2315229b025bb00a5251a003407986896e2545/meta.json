@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1751714412
   },
-  "last_seen_at": "2026-11-14T12:00:00+08:00",
+  "last_seen_at": "2026-11-14T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%8B%B1%E4%BC%9F%E8%BE%BE97%25%E5%91%98%E5%B7%A5%E5%B8%8C%E6%9C%9B%E9%BB%84%E4%BB%81%E5%8B%8B%E7%95%99%E4%BB%BB%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "7家媒体",
     "users": [
       {
         "id": 1751714412,
@@ -23,9 +23,23 @@
         "verified_type": 3
       },
       {
+        "id": 2292899701,
+        "idstr": "2292899701",
+        "screen_name": "浪涨新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1943154142,
         "idstr": "1943154142",
         "screen_name": "中安在线",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1882632930,
+        "idstr": "1882632930",
+        "screen_name": "新消息报",
         "verified": true,
         "verified_type": 3
       },
@@ -52,7 +66,7 @@
       }
     ]
   },
-  "query": "英伟达97%员工希望黄仁勋留任",
+  "query": "#英伟达97%员工希望黄仁勋留任#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE97%25%E5%91%98%E5%B7%A5%E5%B8%8C%E6%9C%9B%E9%BB%84%E4%BB%81%E5%8B%8B%E7%95%99%E4%BB%BB%23",
   "sub_category": null,
   "summary": "黄仁勋辞职前，一位资深工程师曾在英伟达内网“建议箱”发帖，希望董事会采取行动前，先听听员工的意见。内部通信显示，该帖已有超过1600多条评论，超过97%的员工希望黄仁勋留任。",

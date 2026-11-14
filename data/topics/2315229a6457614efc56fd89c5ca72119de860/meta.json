@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 6074356560
   },
-  "last_seen_at": "2026-11-14T12:00:00+08:00",
+  "last_seen_at": "2026-11-14T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%232026KPL%E5%B9%B4%E6%80%BB%E9%A6%96%E5%8F%91%E5%90%8D%E5%8D%95%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "4家媒体",
     "users": [
       {
         "id": 5788578441,
         "idstr": "5788578441",
         "screen_name": "丝路电竞",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2460937233,
+        "idstr": "2460937233",
+        "screen_name": "热度新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -33,20 +40,6 @@
         "id": 2041117703,
         "idstr": "2041117703",
         "screen_name": "合肥日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1725252714,
-        "idstr": "1725252714",
-        "screen_name": "温度新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1280846847,
-        "idstr": "1280846847",
-        "screen_name": "指尖新闻-沈阳晚报",
         "verified": true,
         "verified_type": 3
       }
