@@ -1,0 +1,13 @@
+{
+  "account": {
+    "badge": "金V",
+    "observed_at": "2026-11-15T06:08:48+08:00",
+    "source": "search_avatar"
+  },
+  "body": "🔻让我们想象一下你司架构是 NGINX v1.23.0 作为边缘节点，后面挂着 PHP-FPM 7.3 (刚花了几周时间从 5.6 升级上来) 的源站 + 企业新官网刚刚用 Next.js 16.0.7 App Router 翻新了一下 + 企业旧官网挂在 WordPress 上 + 前段时间刚花了大价钱采购来的 TiDB NewDB + Node.js 24 LTS Brotli 中间件，开启了 Brotil 压缩功能、Go 作为对外访问的网络沙箱、公司维护的 Rust 软件使用了 Cranelift WASM 打包、使用 Python + LiteLLM AI 企业内部 Harness 工具 (CI 昨晚刚从 PyPI 拉了新包并推送到了生产环境，现在全公司电脑都装上了这套 Harness)、公司服务器全部跑在 Linux 内核 c6e50df8 之前、网站的 HTTPS 证书由公司前段时间刚采购的无保险低价 Sectigo DV 证书（还没上 ACME 自动签发）、公司的 Vyper 智能合约部署在 Docker 29 + Kubernetes + Traefik Ingress 上开着 mTLS fail-open，宿主机还跑着 ASP.NET Core 面板和 .NET 本地服务、公司的软件和外发机密文件通过 emSign 代码签名，根证书库用 Go crypto/x509 + Rust webpki-roots + Python certifi，正准备拉补丁结果发现 GitHub 又双 502 了，正想推一下 CI 发现公司 GitLab 被国内某未成年脚本小子用 ARTEX + opencode 里免费的 dpsk v4.1 flash 利用 PVE 7.4 漏洞一键横向渗透打穿了。\n🔻而你，是这家公司的核心 on-call 运维。\n#热点聚焦#\n#海外新鲜事#\n收起\nd",
+  "created_at_text": "10月24日 09:00",
+  "mid": "5357468961737635",
+  "uid": "1671109627",
+  "url": "https://weibo.com/1671109627/Ro71S7i2n",
+  "username": "包容万物恒河水"
+}
