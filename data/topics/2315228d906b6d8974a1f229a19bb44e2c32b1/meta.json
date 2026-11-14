@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2258727970
   },
-  "last_seen_at": "2026-11-15T04:00:00+08:00",
+  "last_seen_at": "2026-11-15T05:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%81%87%E7%89%9B%E8%82%89%E6%A1%88%23%26t%3D3&title=发布媒体",
-    "show_str": "8家媒体",
+    "show_str": "10家媒体",
     "users": [
       {
         "id": 2258727970,
@@ -26,6 +26,13 @@
         "id": 7639071132,
         "idstr": "7639071132",
         "screen_name": "篝火视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6205409064,
+        "idstr": "6205409064",
+        "screen_name": "茌平融媒",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 2824067765,
+        "idstr": "2824067765",
+        "screen_name": "贺州日报官微",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2133637794,
         "idstr": "2133637794",
         "screen_name": "宜人宜宾",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1943154142,
-        "idstr": "1943154142",
-        "screen_name": "中安在线",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1838672663,
-        "idstr": "1838672663",
-        "screen_name": "华夏时报",
         "verified": true,
         "verified_type": 3
       }
