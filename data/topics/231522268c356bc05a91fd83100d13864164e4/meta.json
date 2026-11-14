@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2810373291
   },
-  "last_seen_at": "2026-11-14T11:00:00+08:00",
+  "last_seen_at": "2026-11-14T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%B7%B1%E5%9C%B3%E7%9B%9B%E8%A3%85%E5%96%9C%E8%BF%8E%E4%BA%9A%E5%A4%AA%E5%AE%BE%E6%9C%8B%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "10家媒体",
     "users": [
       {
         "id": 2810373291,
         "idstr": "2810373291",
         "screen_name": "新华网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3285482562,
+        "idstr": "3285482562",
+        "screen_name": "烟台广播",
         "verified": true,
         "verified_type": 3
       },
@@ -37,16 +44,23 @@
         "verified_type": 3
       },
       {
-        "id": 2030806735,
-        "idstr": "2030806735",
-        "screen_name": "北方新报",
+        "id": 2118120483,
+        "idstr": "2118120483",
+        "screen_name": "青岛日报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1403842922,
-        "idstr": "1403842922",
-        "screen_name": "琅琊新闻网",
+        "id": 2039753857,
+        "idstr": "2039753857",
+        "screen_name": "CCTV4",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2030806735,
+        "idstr": "2030806735",
+        "screen_name": "北方新报",
         "verified": true,
         "verified_type": 3
       }
