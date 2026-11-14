@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 7516679696
   },
-  "last_seen_at": "2026-11-14T13:00:00+08:00",
+  "last_seen_at": "2026-11-14T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%2322%E5%B2%81%E7%94%B7%E5%AD%90%E7%A1%AE%E8%AF%8A%E7%B3%96%E5%B0%BF%E7%97%85%E4%B8%8D%E6%95%A2%E5%91%8A%E8%AF%89%E5%90%8C%E4%BA%8B%23%26t%3D3&title=发布媒体",
-    "show_str": "24家媒体",
+    "show_str": "62家媒体",
     "users": [
       {
         "id": 7516679696,
         "idstr": "7516679696",
         "screen_name": "九派新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1909377960,
+        "idstr": "1909377960",
+        "screen_name": "起点新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1789681642,
+        "idstr": "1789681642",
+        "screen_name": "第一现场",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +44,23 @@
         "verified_type": 3
       },
       {
-        "id": 7575030448,
-        "idstr": "7575030448",
-        "screen_name": "白鹿视频",
+        "id": 2188202475,
+        "idstr": "2188202475",
+        "screen_name": "南京晨报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 7472856103,
-        "idstr": "7472856103",
-        "screen_name": "点时新闻",
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 7467277921,
-        "idstr": "7467277921",
-        "screen_name": "万维视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6380644334,
-        "idstr": "6380644334",
-        "screen_name": "蟹视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6345673059,
-        "idstr": "6345673059",
-        "screen_name": "上游视频",
+        "id": 1709951635,
+        "idstr": "1709951635",
+        "screen_name": "哈尔滨日报",
         "verified": true,
         "verified_type": 3
       }

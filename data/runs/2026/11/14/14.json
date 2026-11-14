@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-14T14:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#推动构建亚太共同体的中国担当#",
+      "rank": 1,
+      "title": "推动构建亚太共同体的中国担当",
+      "topic_id": "23152263f39a3093e0741b538bee31f6781e80"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#无人健身房火了小伙5年开1300家#",
+      "rank": 1,
+      "title": "无人健身房火了小伙5年开1300家",
+      "topic_id": "2315222609c88a1bf07ac38f1383d94f2aecf1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#22岁男子确诊糖尿病不敢告诉同事#",
+      "rank": 2,
+      "title": "22岁男子确诊糖尿病不敢告诉同事",
+      "topic_id": "23152290f88d407de8038347bb174b3e0828ca"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#APEC中国年的新看点#",
+      "rank": 3,
+      "title": "APEC中国年的新看点",
+      "topic_id": "231522f96f7e49a8a4036e9e8c0bf23c4f81cf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "许飞 不知道厉娜喜欢什么就都准备了",
+      "rank": 4,
+      "title": "许飞 不知道厉娜喜欢什么就都准备了",
+      "topic_id": "231522739745ef6ca6f1864ff74e18cb903a94"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#奔驰女司机借300元加油钱后手机关机#",
+      "rank": 5,
+      "title": "奔驰女司机借300元加油钱后手机关机",
+      "topic_id": "231522b47702f07012d1b1b3163aff661260ae"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "陈晓楠说青稚的感觉不等于事实",
+      "rank": 6,
+      "title": "陈晓楠说青稚的感觉不等于事实",
+      "topic_id": "23152263a4647761d57827013035a056f84092"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#911后第二次全美停飞#",
+      "rank": 7,
+      "title": "911后第二次全美停飞",
+      "topic_id": "231522e6045d9e70c009601a459dd1e3462f55"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝S16决赛还有重磅官宣#",
+      "rank": 8,
+      "title": "曝S16决赛还有重磅官宣",
+      "topic_id": "2315222ad892e68170a633cd95892f1bfd9758"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#格林恶犯文班亚马#",
+      "rank": 9,
+      "title": "格林恶犯文班亚马",
+      "topic_id": "2315222900e56ea0ba207ebe8e9cb0b0b6eade"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#把孩子塞后备箱被查家长说送给交警#",
+      "rank": 10,
+      "title": "把孩子塞后备箱被查家长说送给交警",
+      "topic_id": "2315229828eb79407bc8165d4421295fba0397"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝娜然怀孕了#",
+      "rank": 11,
+      "title": "曝娜然怀孕了",
+      "topic_id": "231522dc5789dba7458fa0a06142c076dadba5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝娱乐圈下周会发生一次世纪大和解#",
+      "rank": 12,
+      "title": "曝娱乐圈下周会发生一次世纪大和解",
+      "topic_id": "23152213a931c541c33611f207c92e7ab085db"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#大美曝与高迪离婚细节#",
+      "rank": 13,
+      "title": "大美曝与高迪离婚细节",
+      "topic_id": "2315222b84cf63f5cd8ade755478f1aa2af1a1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#英伟达临时CEO是制衡黄仁勋重要力量#",
+      "rank": 14,
+      "title": "英伟达临时CEO是制衡黄仁勋重要力量",
+      "topic_id": "23152273d169d7c7e08a411f6edbce32163733"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "女推3 李一桐",
+      "rank": 15,
+      "title": "女推3 李一桐",
+      "topic_id": "2315220e34800b3e359be232574f94845c1f6b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#KPL年总决赛大话王#",
+      "rank": 16,
+      "title": "KPL年总决赛大话王",
+      "topic_id": "231522ea0339d33baf787c2c9d1eb0596afa67"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "白敬亭王楚然 京洛再无佳人",
+      "rank": 17,
+      "title": "白敬亭王楚然 京洛再无佳人",
+      "topic_id": "2315225754e43318e2290f27118f4a646769e2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "后会友期拉萨时间线",
+      "rank": 18,
+      "title": "后会友期拉萨时间线",
+      "topic_id": "231522b55b47ea796ff5e23f6041091e54fe52"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#女子回应读博期间3年生下3个孩子#",
+      "rank": 19,
+      "title": "女子回应读博期间3年生下3个孩子",
+      "topic_id": "231522c174197b76baa838ead0b11479e07b48"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝魏晨被雪藏的原因#",
+      "rank": 20,
+      "title": "曝魏晨被雪藏的原因",
+      "topic_id": "231522d45c348bd38843f7afbc11d03adb4138"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "二十五到三十岁这五年最值钱",
+      "rank": 21,
+      "title": "二十五到三十岁这五年最值钱",
+      "topic_id": "2315221b3b0df79d77bad4c0b0e602f5129b7b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#产妇羊水栓塞母子双亡医院赔119万#",
+      "rank": 22,
+      "title": "产妇羊水栓塞母子双亡医院赔119万",
+      "topic_id": "2315220f8c45ac07dfea09ae1eb780d7325284"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#黄仁勋辞职或影响史上最大IPO#",
+      "rank": 23,
+      "title": "黄仁勋辞职或影响史上最大IPO",
+      "topic_id": "23152292366a1c109a994b13686f1003708d9d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#宋亚轩关注王楚然范丞丞#",
+      "rank": 24,
+      "title": "宋亚轩关注王楚然范丞丞",
+      "topic_id": "231522e84139623f20d74cfc51089c132cdc52"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#宋雨琦带火海底捞火锅的涮牛肉方式#",
+      "rank": 25,
+      "title": "宋雨琦带火海底捞火锅的涮牛肉方式",
+      "topic_id": "23152266759d0d1d02d5f85e2c5aacc6a6f9d1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#全校仅50多岁教师一人自愿当班主任#",
+      "rank": 26,
+      "title": "全校仅50多岁教师一人自愿当班主任",
+      "topic_id": "2315229ad3de02c3977d0bac88a6912e2d8d0a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "成都偶遇九尾被请吃饭",
+      "rank": 27,
+      "title": "成都偶遇九尾被请吃饭",
+      "topic_id": "2315226487a44ac6da36796788ffa372367d75"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "全民进入大纳尼时代",
+      "rank": 28,
+      "title": "全民进入大纳尼时代",
+      "topic_id": "231522b2ee49d4691193da48e0ae2355113367"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#百万级抗癌药首次纳入基本医保#",
+      "rank": 29,
+      "title": "百万级抗癌药首次纳入基本医保",
+      "topic_id": "231522b6b3ffeeab062ccab9e13e072b1c0948"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#英伟达97%员工希望黄仁勋留任#",
+      "rank": 30,
+      "title": "英伟达97%员工希望黄仁勋留任",
+      "topic_id": "2315229b025bb00a5251a003407986896e2545"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#确认出席爱奇艺尖叫之夜的艺人#",
+      "rank": 31,
+      "title": "确认出席爱奇艺尖叫之夜的艺人",
+      "topic_id": "231522780c677da354858de2853ad1c0b79cd3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "竞燃之夜阵容官宣",
+      "rank": 32,
+      "title": "竞燃之夜阵容官宣",
+      "topic_id": "23152226ea6376a46dd650add4ee8d43c1c792"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#产妇求剖腹产遭拒孩子脑瘫丈夫发声#",
+      "rank": 33,
+      "title": "产妇求剖腹产遭拒孩子脑瘫丈夫发声",
+      "topic_id": "231522c0e29dbf862e71ad7b2c68cfd998d58f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#Chovy和Viper相视一笑#",
+      "rank": 34,
+      "title": "Chovy和Viper相视一笑",
+      "topic_id": "23152273a5bdbe24beb60853f473b87ab0dada"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "高迪预告曝光聊天记录",
+      "rank": 35,
+      "title": "高迪预告曝光聊天记录",
+      "topic_id": "2315222cbe3d58afddc1e7cf122742e9fb8d13"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#iPhone20Pro改用四微曲设计#",
+      "rank": 36,
+      "title": "iPhone20Pro改用四微曲设计",
+      "topic_id": "23152209d0af917e930ae68e858db43e59fa0d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "许飞 厉娜之下众生平等",
+      "rank": 37,
+      "title": "许飞 厉娜之下众生平等",
+      "topic_id": "2315229b7370ddbc7214ba043131b093889f3a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#中国证监会主席吴清最新发言#",
+      "rank": 38,
+      "title": "中国证监会主席吴清最新发言",
+      "topic_id": "231522ae73bae96b1e83a9ba89932aebd0df36"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "凡人修仙传",
+      "rank": 39,
+      "title": "凡人修仙传",
+      "topic_id": "231522a205d41df6c0bb92bf1a6dbb7cfcb8b9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#大美高迪事件怀疑不等于公开指控#",
+      "rank": 40,
+      "title": "大美高迪事件怀疑不等于公开指控",
+      "topic_id": "2315223f76129bef05c946e709baaa70e32f3f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#读博生3娃女子为了生育延毕#",
+      "rank": 41,
+      "title": "读博生3娃女子为了生育延毕",
+      "topic_id": "2315223a13eb8ec3874975a52537dc005d7448"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#黄仁勋会重新掌舵英伟达吗#",
+      "rank": 42,
+      "title": "黄仁勋会重新掌舵英伟达吗",
+      "topic_id": "2315225e7a09a8c3ef42bde49de6710981c3b4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#宋亚轩被范丞丞说害羞了#",
+      "rank": 43,
+      "title": "宋亚轩被范丞丞说害羞了",
+      "topic_id": "231522d2e5bf7271d2f4f1cdfecc304d76d2d2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#美国两船相撞第一视角#",
+      "rank": 44,
+      "title": "美国两船相撞第一视角",
+      "topic_id": "2315221e6e39c95bef4de1d9b66b5b346b2cb5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#华妃终于有了她心心念念的孩子#",
+      "rank": 45,
+      "title": "华妃终于有了她心心念念的孩子",
+      "topic_id": "2315221b829f616b9683c49ee92b992d3065b7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#董思成哭戏好像请神上身了#",
+      "rank": 46,
+      "title": "董思成哭戏好像请神上身了",
+      "topic_id": "2315220e6fd8f6e85cf43d6bc343f81fdc1357"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王子璇机场被挤得走不动道#",
+      "rank": 47,
+      "title": "王子璇机场被挤得走不动道",
+      "topic_id": "2315221391042fd9475a415cda5b3f0953c89b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#何猷君奚梦瑶带儿女出街#",
+      "rank": 48,
+      "title": "何猷君奚梦瑶带儿女出街",
+      "topic_id": "231522e90cb29cd9af923eb594984447f02625"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#顾客尝了口面整碗扔垃圾桶付钱走人#",
+      "rank": 49,
+      "title": "顾客尝了口面整碗扔垃圾桶付钱走人",
+      "topic_id": "231522a3123baf40fde8db0d4c7e09127673da"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#山姆399元羽绒服鸭绒成本约130元#",
+      "rank": 50,
+      "title": "山姆399元羽绒服鸭绒成本约130元",
+      "topic_id": "231522c2eaa98cc089650dcb391d334cd216b0"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

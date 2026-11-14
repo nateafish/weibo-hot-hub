@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 5538664098
   },
-  "last_seen_at": "2026-11-14T13:00:00+08:00",
+  "last_seen_at": "2026-11-14T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E8%A2%AB%E8%8C%83%E4%B8%9E%E4%B8%9E%E8%AF%B4%E5%AE%B3%E7%BE%9E%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "5家媒体",
     "users": [
+      {
+        "id": 7708039348,
+        "idstr": "7708039348",
+        "screen_name": "北青娱见",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 6444725927,
         "idstr": "6444725927",
@@ -26,6 +33,20 @@
         "id": 1912416573,
         "idstr": "1912416573",
         "screen_name": "河南手机报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1895096900,
+        "idstr": "1895096900",
+        "screen_name": "深圳新闻网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1725252714,
+        "idstr": "1725252714",
+        "screen_name": "温度新闻",
         "verified": true,
         "verified_type": 3
       }
