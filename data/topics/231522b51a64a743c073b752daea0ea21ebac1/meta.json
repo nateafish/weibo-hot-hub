@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 7308140398
   },
-  "last_seen_at": "2026-11-14T22:00:00+08:00",
+  "last_seen_at": "2026-11-14T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%234%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB%E6%B0%94%E5%9B%8A%E6%92%9E%E7%A0%B4%E5%8D%81%E4%BA%8C%E6%8C%87%E8%82%A0%E5%A6%88%E5%A6%88%E5%8F%91%E5%A3%B0%23%26t%3D3&title=发布媒体",
-    "show_str": "12家媒体",
+    "show_str": "18家媒体",
     "users": [
       {
         "id": 7308140398,
@@ -26,6 +26,13 @@
         "id": 1941424392,
         "idstr": "1941424392",
         "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1789681642,
+        "idstr": "1789681642",
+        "screen_name": "第一现场",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 2812209690,
+        "idstr": "2812209690",
+        "screen_name": "黄石日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2308941133,
         "idstr": "2308941133",
         "screen_name": "锦州播报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2027773605,
-        "idstr": "2027773605",
-        "screen_name": "大象文娱",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1975995305,
-        "idstr": "1975995305",
-        "screen_name": "西安晚报",
         "verified": true,
         "verified_type": 3
       }
