@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 7472856103
   },
-  "last_seen_at": "2026-11-14T18:00:00+08:00",
+  "last_seen_at": "2026-11-14T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23boss%E7%9B%B4%E8%81%98%E5%9B%9E%E5%BA%94%E6%8B%92%E7%BB%99HR%E5%B8%A6%E5%92%96%E5%95%A1%E8%A2%AB%E5%8F%96%E6%B6%88%E9%9D%A2%E8%AF%95%23%26t%3D3&title=发布媒体",
-    "show_str": "51家媒体",
+    "show_str": "59家媒体",
     "users": [
       {
         "id": 7472856103,
@@ -23,9 +23,23 @@
         "verified_type": 3
       },
       {
+        "id": 1889690730,
+        "idstr": "1889690730",
+        "screen_name": "中原新闻网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1789681642,
         "idstr": "1789681642",
         "screen_name": "第一现场",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 6174413689,
         "idstr": "6174413689",
         "screen_name": "青晨视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6026182203,
-        "idstr": "6026182203",
-        "screen_name": "观琴新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5324642004,
-        "idstr": "5324642004",
-        "screen_name": "智源新闻",
         "verified": true,
         "verified_type": 3
       }

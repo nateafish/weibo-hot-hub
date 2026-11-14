@@ -10,13 +10,21 @@
     "status": 2,
     "uid": 6616647066
   },
-  "last_seen_at": "2026-11-14T18:00:00+08:00",
+  "last_seen_at": "2026-11-14T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%9D%92%E7%A8%9A%E8%8E%B7PMC%E6%8C%91%E6%88%98%E8%B5%9BFMVP%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "1家媒体",
+    "users": [
+      {
+        "id": 1398613133,
+        "idstr": "1398613133",
+        "screen_name": "马上资讯",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
-  "query": "青稚获PMC挑战赛FMVP",
+  "query": "#青稚获PMC挑战赛FMVP#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%A8%9A%E8%8E%B7pmc%E6%8C%91%E6%88%98%E8%B5%9Bfmvp%23",
   "sub_category": null,
   "summary": "青稚你牛！",

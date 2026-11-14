@@ -3,10 +3,10 @@
   "created_at": 1794634986,
   "first_seen_at": "2026-11-14T17:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-14T18:00:00+08:00",
+  "last_seen_at": "2026-11-14T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%89%8D%E6%98%AF%E9%9A%90%E6%99%A6%E5%B7%AE%E8%AF%84%E7%9A%84%E7%A5%9E%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "8家媒体",
     "users": [
       {
         "id": 2075245652,
@@ -23,6 +23,13 @@
         "verified_type": 3
       },
       {
+        "id": 2618630987,
+        "idstr": "2618630987",
+        "screen_name": "西安网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2183542485,
         "idstr": "2183542485",
         "screen_name": "西安广播电视台",
@@ -33,6 +40,20 @@
         "id": 1959444680,
         "idstr": "1959444680",
         "screen_name": "云南网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1912416573,
+        "idstr": "1912416573",
+        "screen_name": "河南手机报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1863222751,
+        "idstr": "1863222751",
+        "screen_name": "当代广西杂志",
         "verified": true,
         "verified_type": 3
       }
