@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 6105713761
   },
-  "last_seen_at": "2026-11-14T16:00:00+08:00",
+  "last_seen_at": "2026-11-14T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A4%A7%E6%9A%B4%E9%9B%AA%E5%92%8C%E6%96%AD%E5%B4%96%E5%BC%8F%E9%99%8D%E6%B8%A9%E6%9D%A5%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "23家媒体",
+    "show_str": "35家媒体",
     "users": [
       {
         "id": 6105713761,
@@ -44,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1813082644,
         "idstr": "1813082644",
         "screen_name": "新闻晨报地产星空",
@@ -51,16 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 7126605018,
-        "idstr": "7126605018",
-        "screen_name": "各界新闻网官微",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5996036910,
-        "idstr": "5996036910",
-        "screen_name": "中新社吉林分社",
+        "id": 7211561239,
+        "idstr": "7211561239",
+        "screen_name": "央视频",
         "verified": true,
         "verified_type": 3
       }
