@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1699432410
   },
-  "last_seen_at": "2026-11-14T14:00:00+08:00",
+  "last_seen_at": "2026-11-14T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%8E%A8%E5%8A%A8%E6%9E%84%E5%BB%BA%E4%BA%9A%E5%A4%AA%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%8B%85%E5%BD%93%23%26t%3D3&title=发布媒体",
-    "show_str": "9家媒体",
+    "show_str": "12家媒体",
     "users": [
       {
         "id": 1699432410,
@@ -26,6 +26,13 @@
         "id": 2280198017,
         "idstr": "2280198017",
         "screen_name": "解放军报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6587633798,
+        "idstr": "6587633798",
+        "screen_name": "崇义发布",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 2648560444,
+        "idstr": "2648560444",
+        "screen_name": "楚雄州融媒体中心",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2638176611,
         "idstr": "2638176611",
         "screen_name": "兴化发布",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1987235622,
-        "idstr": "1987235622",
-        "screen_name": "丹阳日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1939861572,
-        "idstr": "1939861572",
-        "screen_name": "新疆广播电视台",
         "verified": true,
         "verified_type": 3
       }
