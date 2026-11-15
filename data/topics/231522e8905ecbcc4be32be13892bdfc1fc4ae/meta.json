@@ -10,7 +10,7 @@
     "status": 2,
     "uid": 5245981751
   },
-  "last_seen_at": "2026-11-15T22:00:00+08:00",
+  "last_seen_at": "2026-11-15T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%83%A1%E5%85%88%E7%85%A6%E6%88%91%E5%90%8E%E9%9D%A2%E5%87%A0%E6%9C%9F%E6%9B%B4%E7%AC%A8%23%26t%3D3&title=发布媒体",
     "show_str": "12家媒体",
@@ -19,6 +19,13 @@
         "id": 2027480085,
         "idstr": "2027480085",
         "screen_name": "水母网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -54,13 +61,6 @@
         "id": 2720822393,
         "idstr": "2720822393",
         "screen_name": "明白文娱",
-        "verified": true,
-        "verified_type": 2
-      },
-      {
-        "id": 2720617213,
-        "idstr": "2720617213",
-        "screen_name": "泽诚文娱",
         "verified": true,
         "verified_type": 2
       }
