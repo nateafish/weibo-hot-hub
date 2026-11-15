@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 7838228255
   },
-  "last_seen_at": "2026-11-15T15:00:00+08:00",
+  "last_seen_at": "2026-11-15T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%8E%B0%E5%8F%914%E9%95%BF%E5%9F%8E%E5%90%88%E7%85%A7%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "2家媒体",
     "users": [
       {
         "id": 1895096900,
         "idstr": "1895096900",
         "screen_name": "深圳新闻网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1723216063,
+        "idstr": "1723216063",
+        "screen_name": "佛山新闻",
         "verified": true,
         "verified_type": 3
       }
