@@ -1,0 +1,67 @@
+{
+  "accounts": {
+    "5365080971806572": {
+      "badge": "橙V",
+      "observed_at": "2026-11-15T08:20:19+08:00",
+      "source": "mobile_user",
+      "verified": true,
+      "verified_reason": "头条文章作者",
+      "verified_type": 0,
+      "verified_type_ext": 2
+    },
+    "5365293413045868": {
+      "badge": "无徽标",
+      "observed_at": "2026-11-15T08:20:21+08:00",
+      "source": "mobile_user",
+      "verified": false,
+      "verified_type": -1
+    },
+    "5365417350530934": {
+      "badge": "橙V",
+      "observed_at": "2026-11-15T08:20:24+08:00",
+      "source": "mobile_user",
+      "verified": true,
+      "verified_reason": "律师 法律博主",
+      "verified_type": 0,
+      "verified_type_ext": 2
+    },
+    "5365424307046493": {
+      "badge": "无徽标",
+      "observed_at": "2026-11-15T08:20:21+08:00",
+      "source": "mobile_user",
+      "verified": false,
+      "verified_type": -1
+    },
+    "5365426361729910": {
+      "badge": "金V",
+      "observed_at": "2026-11-15T08:20:21+08:00",
+      "source": "mobile_user",
+      "verified": true,
+      "verified_reason": "微博原创视频博主",
+      "verified_type": 0,
+      "verified_type_ext": 1
+    },
+    "5365430094135320": {
+      "badge": "金V",
+      "observed_at": "2026-11-15T08:20:21+08:00",
+      "source": "mobile_user",
+      "verified": true,
+      "verified_reason": "微博剪辑视频博主",
+      "verified_type": 0,
+      "verified_type_ext": 1
+    }
+  },
+  "captured_at": "2026-11-15T08:00:00+08:00",
+  "pages": [
+    [
+      "5365080971806572",
+      "5365293413045868",
+      "5365424307046493",
+      "5365430094135320",
+      "5365426361729910",
+      "5365417350530934"
+    ]
+  ],
+  "topic_id": "231522a8e2177735fd9167bf22664fc2b4a05a",
+  "unique_posts": 6
+}
