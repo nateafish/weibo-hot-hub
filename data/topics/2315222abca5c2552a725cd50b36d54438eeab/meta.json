@@ -10,13 +10,35 @@
     "status": 2,
     "uid": 6511174440
   },
-  "last_seen_at": "2026-11-04T14:00:00+08:00",
+  "last_seen_at": "2026-11-15T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%98%93%E5%9D%A6%E5%AD%90%E8%9E%8D%E8%8A%B1vs%E9%92%8E%E4%B9%9D%E4%B8%8D%E6%B8%85%E5%86%B0%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "3家媒体",
+    "users": [
+      {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7708039348,
+        "idstr": "7708039348",
+        "screen_name": "北青娱见",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1652484947,
+        "idstr": "1652484947",
+        "screen_name": "新快报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
-  "query": "#易坦子融花vs钎九不清冰#",
+  "query": "易坦子融花vs钎九不清冰",
   "search_url": "https://s.weibo.com/weibo?q=%23%E6%98%93%E5%9D%A6%E5%AD%90%E8%9E%8D%E8%8A%B1vs%E9%92%8E%E4%B9%9D%E4%B8%8D%E6%B8%85%E5%86%B0%23",
   "sub_category": null,
   "summary": "",

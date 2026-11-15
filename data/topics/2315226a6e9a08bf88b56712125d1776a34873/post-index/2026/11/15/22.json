@@ -1,0 +1,31 @@
+{
+  "accounts": {
+    "5365516831294173": {
+      "badge": "金V",
+      "observed_at": "2026-11-15T22:22:59+08:00",
+      "source": "mobile_user",
+      "verified": true,
+      "verified_reason": "财经博主 头条文章作者",
+      "verified_type": 0,
+      "verified_type_ext": 1
+    },
+    "5365596833186452": {
+      "badge": "橙V",
+      "observed_at": "2026-11-15T22:23:01+08:00",
+      "source": "mobile_user",
+      "verified": true,
+      "verified_reason": "基金博主",
+      "verified_type": 0,
+      "verified_type_ext": 2
+    }
+  },
+  "captured_at": "2026-11-15T22:00:00+08:00",
+  "pages": [
+    [
+      "5365516831294173",
+      "5365596833186452"
+    ]
+  ],
+  "topic_id": "2315226a6e9a08bf88b56712125d1776a34873",
+  "unique_posts": 2
+}
