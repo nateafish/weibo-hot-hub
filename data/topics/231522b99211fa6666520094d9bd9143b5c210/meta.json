@@ -3,10 +3,10 @@
   "created_at": 1794741081,
   "first_seen_at": "2026-11-15T21:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-15T23:00:00+08:00",
+  "last_seen_at": "2026-11-16T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%86%85%E5%A8%B1%E8%BF%99%E6%A0%B7%E7%9A%84%E5%8F%B0%E8%AF%8D%E6%88%91%E7%AD%89%E4%BA%86%E4%BA%8C%E5%8D%81%E5%B9%B4%23%26t%3D3&title=发布媒体",
-    "show_str": "11家媒体",
+    "show_str": "13家媒体",
     "users": [
       {
         "id": 2075245652,
@@ -19,6 +19,13 @@
         "id": 2027480085,
         "idstr": "2027480085",
         "screen_name": "水母网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7422806367,
+        "idstr": "7422806367",
+        "screen_name": "中网传播",
         "verified": true,
         "verified_type": 3
       },
@@ -47,13 +54,6 @@
         "id": 1943154142,
         "idstr": "1943154142",
         "screen_name": "中安在线",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1912416573,
-        "idstr": "1912416573",
-        "screen_name": "河南手机报",
         "verified": true,
         "verified_type": 3
       }
