@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 5245981751
   },
-  "last_seen_at": "2026-11-16T00:00:00+08:00",
+  "last_seen_at": "2026-11-16T01:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%83%A1%E5%85%88%E7%85%A6%E6%88%91%E5%90%8E%E9%9D%A2%E5%87%A0%E6%9C%9F%E6%9B%B4%E7%AC%A8%23%26t%3D3&title=发布媒体",
-    "show_str": "12家媒体",
+    "show_str": "13家媒体",
     "users": [
       {
         "id": 2027480085,
@@ -44,6 +44,13 @@
         "verified_type": 2
       },
       {
+        "id": 7422806367,
+        "idstr": "7422806367",
+        "screen_name": "中网传播",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 5324184746,
         "idstr": "5324184746",
         "screen_name": "文娱天下",
@@ -56,13 +63,6 @@
         "screen_name": "广西日报",
         "verified": true,
         "verified_type": 3
-      },
-      {
-        "id": 2720822393,
-        "idstr": "2720822393",
-        "screen_name": "明白文娱",
-        "verified": true,
-        "verified_type": 2
       }
     ]
   },
