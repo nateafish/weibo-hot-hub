@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 6105713761
   },
-  "last_seen_at": "2026-11-15T19:00:00+08:00",
+  "last_seen_at": "2026-11-15T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8D%B0%E5%B0%BC14%E5%B2%81%E5%B0%8F%E5%B0%86%E4%B8%8E%E9%97%A8%E5%B0%86%E7%9B%B8%E6%92%9E%E5%90%8E%E7%A6%BB%E4%B8%96%23%26t%3D3&title=发布媒体",
-    "show_str": "9家媒体",
+    "show_str": "21家媒体",
     "users": [
       {
         "id": 6105713761,
         "idstr": "6105713761",
         "screen_name": "红星新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,6 +37,20 @@
         "verified_type": 7
       },
       {
+        "id": 6590980486,
+        "idstr": "6590980486",
+        "screen_name": "捉谣记",
+        "verified": true,
+        "verified_type": 7
+      },
+      {
+        "id": 6345673059,
+        "idstr": "6345673059",
+        "screen_name": "上游视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6299534218,
         "idstr": "6299534218",
         "screen_name": "北青体育",
@@ -37,32 +58,11 @@
         "verified_type": 3
       },
       {
-        "id": 2318910945,
-        "idstr": "2318910945",
-        "screen_name": "新浪热点",
+        "id": 6092578444,
+        "idstr": "6092578444",
+        "screen_name": "新浪种草官",
         "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2252846093,
-        "idstr": "2252846093",
-        "screen_name": "长春新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2191398120,
-        "idstr": "2191398120",
-        "screen_name": "成都商报美食",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1974335820,
-        "idstr": "1974335820",
-        "screen_name": "成都商报报料",
-        "verified": true,
-        "verified_type": 3
+        "verified_type": 7
       }
     ]
   },

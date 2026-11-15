@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-15T20:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 1,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#习近平将出席APEC工商领导人峰会#",
+      "rank": 1,
+      "title": "习近平将出席APEC工商领导人峰会",
+      "topic_id": "2315229f73bd1a52e506f57c37d5314d177f33"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#砒霜口服药让白血病患存活率超97%#",
+      "rank": 1,
+      "title": "砒霜口服药让白血病患存活率超97%",
+      "topic_id": "2315222797a2f17f21f0d0e1670fa526f1872c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#Knight说没想到年纪这么大才拿冠军#",
+      "rank": 2,
+      "title": "Knight说没想到年纪这么大才拿冠军",
+      "topic_id": "23152273cb3808674591fa4db026b2723be858"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#115家世界500强企业参加工商峰会#",
+      "rank": 3,
+      "title": "115家世界500强企业参加工商峰会",
+      "topic_id": "23152288459266e6856649bfc1c3df8c31eef1"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "青稚前女友",
+      "rank": 4,
+      "title": "青稚前女友",
+      "topic_id": "231522139f4826b8286037a21806d134fffbc0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#小猴子遇见孙悟空不停上手触碰#",
+      "rank": 5,
+      "title": "小猴子遇见孙悟空不停上手触碰",
+      "topic_id": "23152278609b844d848634191c1bd57deb709b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#BLG夺冠赞助商赢麻了#",
+      "rank": 6,
+      "title": "BLG夺冠赞助商赢麻了",
+      "topic_id": "231522c52097e14e31cca3abde592cc97b4711"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "今何在 不要都觉得比我更了解江南",
+      "rank": 7,
+      "title": "今何在 不要都觉得比我更了解江南",
+      "topic_id": "2315223bba0d8c3fad75fae12b04c3cd8f4dd9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#印尼14岁小将与门将相撞后离世#",
+      "rank": 8,
+      "title": "印尼14岁小将与门将相撞后离世",
+      "topic_id": "231522f30021ad5cd181c5ed5dd22d5e419b9d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "学号不是按名字首字母排序吗",
+      "rank": 9,
+      "title": "学号不是按名字首字母排序吗",
+      "topic_id": "23152271fa954741e384d156a0f3c0e66ecf01"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "2026王者荣耀巅峰之夜",
+      "rank": 10,
+      "title": "2026王者荣耀巅峰之夜",
+      "topic_id": "231522d594784d08208c9b3636eebcb237c892"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#青稚前女友发文#",
+      "rank": 11,
+      "title": "青稚前女友发文",
+      "topic_id": "231522f92b8a08d8fba0b13286b75bcff4255f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "李梦被迪丽热巴蝴蝶妆狠狠种草",
+      "rank": 12,
+      "title": "李梦被迪丽热巴蝴蝶妆狠狠种草",
+      "topic_id": "231522c558a79a1fe03f001cc86bf88542b3a9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#央视曝售楼处成旅游购物点#",
+      "rank": 13,
+      "title": "央视曝售楼处成旅游购物点",
+      "topic_id": "2315229a9952de0ab7a98a768d7acc9df3a537"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#高迪已报警#",
+      "rank": 14,
+      "title": "高迪已报警",
+      "topic_id": "2315227ee2a52e6382340038e22e01dafd023b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#致命砒霜为什么能治白血病#",
+      "rank": 15,
+      "title": "致命砒霜为什么能治白血病",
+      "topic_id": "23152299e3381348bf856d3cf422487556feff"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "李宏毅 剧宣",
+      "rank": 16,
+      "title": "李宏毅 剧宣",
+      "topic_id": "2315227178d5f8dc678377f07964c73704c283"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "朱天天 创造101",
+      "rank": 17,
+      "title": "朱天天 创造101",
+      "topic_id": "231522bf6e15dd28bcc5a699a7c60dbc976f2d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#梓渝摘墨镜那一下#",
+      "rank": 18,
+      "title": "梓渝摘墨镜那一下",
+      "topic_id": "231522f507852239a5cb2d01bbff6fe5a7d5fb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#金价能止跌吗#",
+      "rank": 19,
+      "title": "金价能止跌吗",
+      "topic_id": "231522db31d56e3a626a99d2b5fe8112de62bc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#大美妈妈回应#",
+      "rank": 20,
+      "title": "大美妈妈回应",
+      "topic_id": "231522e41223f8d2f17407621416aa20239b89"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#Knight曝打1分钟就发现chovy不对劲#",
+      "rank": 21,
+      "title": "Knight曝打1分钟就发现chovy不对劲",
+      "topic_id": "231522b2541600497dcf6e7806b58b763f678f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张家齐妈妈是北京拆迁户#",
+      "rank": 22,
+      "title": "张家齐妈妈是北京拆迁户",
+      "topic_id": "2315225c4a19f762b6ed68e508964fa76d3ffb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#举报老师生孩子家校边界到底在哪里#",
+      "rank": 23,
+      "title": "举报老师生孩子家校边界到底在哪里",
+      "topic_id": "23152211c1c88a71d29f675076eb310fc3b453"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "许飞厉娜 神一天鬼一天",
+      "rank": 24,
+      "title": "许飞厉娜 神一天鬼一天",
+      "topic_id": "2315220545c6ac8a62328b082aa65d96be3182"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#DK战队解散传闻#",
+      "rank": 25,
+      "title": "DK战队解散传闻",
+      "topic_id": "231522c8d39ecd8aee1fdecf00e84ee879e8ca"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#杨超越不小心碰了董思成的手#",
+      "rank": 26,
+      "title": "杨超越不小心碰了董思成的手",
+      "topic_id": "231522a60156c5f4b24ff65dee1ad61efc6117"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#后会友期火车换床铺事件#",
+      "rank": 27,
+      "title": "后会友期火车换床铺事件",
+      "topic_id": "23152244b37cd2b3390562097ec8b83e14d331"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#为什么越来越多不吸烟年轻人得肺癌#",
+      "rank": 28,
+      "title": "为什么越来越多不吸烟年轻人得肺癌",
+      "topic_id": "2315227cd022e22842a2ba68bde658c1ca6df2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#十个勤天见面四周年#",
+      "rank": 29,
+      "title": "十个勤天见面四周年",
+      "topic_id": "23152264d19bf1354b0e1385a2bcb418f690c6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#深圳APEC近700辆豪华车队来了#",
+      "rank": 30,
+      "title": "深圳APEC近700辆豪华车队来了",
+      "topic_id": "23152289c037b1367d1c53911e16e925006346"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#白敬亭现发4口碑#",
+      "rank": 31,
+      "title": "白敬亭现发4口碑",
+      "topic_id": "2315222fd9a5867a804d015d056b1bd161ef4b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "Lisa把钱塞腰上被质疑",
+      "rank": 32,
+      "title": "Lisa把钱塞腰上被质疑",
+      "topic_id": "2315226bc963ca15bd9ec74a52721003dad9ad"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#曝DK全员离队#",
+      "rank": 33,
+      "title": "曝DK全员离队",
+      "topic_id": "231522180eae5ceee15a82629945b46e0f6e23"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#BLG夺冠语音#",
+      "rank": 34,
+      "title": "BLG夺冠语音",
+      "topic_id": "2315221be9cdf7834d1f88983505fe12624b36"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#范丞丞孙千对手戏#",
+      "rank": 35,
+      "title": "范丞丞孙千对手戏",
+      "topic_id": "2315225aef2406e5ae89a5da3bc4ab39ecac1a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#白敬亭王楚然互关#",
+      "rank": 36,
+      "title": "白敬亭王楚然互关",
+      "topic_id": "2315224e9adabcffcd610a0db1b9e26765b4ff"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "老师休产假是法定权利",
+      "rank": 37,
+      "title": "老师休产假是法定权利",
+      "topic_id": "231522cb324cf171116c81fe7a9182c2dd00ef"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#Bin说天天跟Flandre对线#",
+      "rank": 38,
+      "title": "Bin说天天跟Flandre对线",
+      "topic_id": "2315227c2bfe1af74b6370b34d054827ae08a5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 7,
+      "posts": "saved",
+      "query": "#买羽绒服不能只盯价格还要看标准#",
+      "rank": 39,
+      "title": "买羽绒服不能只盯价格还要看标准",
+      "topic_id": "2315224da7e9c92102157d725c0c559419c586"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#宋亚轩就这样水灵灵掏出了馒头#",
+      "rank": 40,
+      "title": "宋亚轩就这样水灵灵掏出了馒头",
+      "topic_id": "231522f92382d1790802a7e1de744a69f58fae"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "好喜欢北京味的阴阳怪气",
+      "rank": 41,
+      "title": "好喜欢北京味的阴阳怪气",
+      "topic_id": "2315226abce3d43aa0c6bf5bedac04169dd72d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#田曦薇巴啦啦小魔仙手势舞#",
+      "rank": 42,
+      "title": "田曦薇巴啦啦小魔仙手势舞",
+      "topic_id": "231522afd22f0c4c00a6e0c43733f18bfc6c0b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "英伟达五千亿美元循环贷被曝停滞",
+      "rank": 43,
+      "title": "英伟达五千亿美元循环贷被曝停滞",
+      "topic_id": "231522000fd6c426c2862c509fde1fecfe2916"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "女子推理社",
+      "rank": 44,
+      "title": "女子推理社",
+      "topic_id": "231522d514054f9cd357ced8989bff1158a667"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#七万多的房子卖外地人近70万#",
+      "rank": 45,
+      "title": "七万多的房子卖外地人近70万",
+      "topic_id": "231522dff3592ad45283a461e224de14250b52"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "原来一千粒扣子是这么打包的",
+      "rank": 46,
+      "title": "原来一千粒扣子是这么打包的",
+      "topic_id": "23152253c64390fec8e41969fd8682ddd7bee9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#Knight赛后感谢Faker#",
+      "rank": 47,
+      "title": "Knight赛后感谢Faker",
+      "topic_id": "231522acfb0422d5964bedded441a5f52c9934"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#许飞退群原因#",
+      "rank": 48,
+      "title": "许飞退群原因",
+      "topic_id": "23152272eeba7fc4b57269a9bc19ccef631451"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "2026MMA",
+      "rank": 49,
+      "title": "2026MMA",
+      "topic_id": "231522e9590db5fe465a7dcef501c9aeaa58f6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#Bin父亲说这个冠军来之不易#",
+      "rank": 50,
+      "title": "Bin父亲说这个冠军来之不易",
+      "topic_id": "23152245cd40f2a2e4126dde07fe1f93264991"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
