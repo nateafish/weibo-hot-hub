@@ -3,11 +3,19 @@
   "created_at": 1794739446,
   "first_seen_at": "2026-11-15T20:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-15T20:00:00+08:00",
+  "last_seen_at": "2026-11-15T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9D%8E%E5%AE%8F%E6%AF%85+%E5%89%A7%E5%AE%A3%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "1家媒体",
+    "users": [
+      {
+        "id": 2106115754,
+        "idstr": "2106115754",
+        "screen_name": "北京文艺广播",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "李宏毅 剧宣",
   "search_url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%8F%E6%AF%85%20%E5%89%A7%E5%AE%A3%23",
