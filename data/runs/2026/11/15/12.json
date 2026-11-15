@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-15T12:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#习主席引领推动构建亚太共同体#",
+      "rank": 1,
+      "title": "习主席引领推动构建亚太共同体",
+      "topic_id": "231522461eef10197de47cbd3b473fbd307303"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#Bin成为LPL历史首位大满贯上路选手#",
+      "rank": 1,
+      "title": "Bin成为LPL历史首位大满贯上路选手",
+      "topic_id": "231522b144bd2864b4a363daf78cc2df41ea60"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "尖叫之夜阵容",
+      "rank": 2,
+      "title": "尖叫之夜阵容",
+      "topic_id": "231522a5310e5198ebb536d12e60f99d389da5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#4分钟读懂APEC#",
+      "rank": 3,
+      "title": "4分钟读懂APEC",
+      "topic_id": "231522fe2a5835ac03b29b579b9836ff1da09d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#BLG夺冠Tim送iPhoneDuo#",
+      "rank": 4,
+      "title": "BLG夺冠Tim送iPhoneDuo",
+      "topic_id": "2315227e89779219ac018ab1e41b1160cce7a9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#BLG夺冠引来半个娱乐圈#",
+      "rank": 5,
+      "title": "BLG夺冠引来半个娱乐圈",
+      "topic_id": "2315225c0a85929d417476a312f19a1f6d29f4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "青稚 白小纯",
+      "rank": 6,
+      "title": "青稚 白小纯",
+      "topic_id": "231522629adc0b84d91614d6e89f260cfba14b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#BLG赛后感谢C9教练和选手#",
+      "rank": 7,
+      "title": "BLG赛后感谢C9教练和选手",
+      "topic_id": "231522daf77cbc6dd2fd17e5f42a14cbaa79d3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#央行重大调整#",
+      "rank": 8,
+      "title": "央行重大调整",
+      "topic_id": "231522dd9dcd4cea423493334321bb33dd5ee0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "APEC",
+      "rank": 9,
+      "title": "APEC",
+      "topic_id": "2315220bc6c90dcafb56573baa102a5698a969"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#许飞厉娜好到把如来都删掉#",
+      "rank": 10,
+      "title": "许飞厉娜好到把如来都删掉",
+      "topic_id": "231522aadcc02c5afdf0cadc7c86466d2cec8e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "央视新闻祝贺BLG夺冠",
+      "rank": 11,
+      "title": "央视新闻祝贺BLG夺冠",
+      "topic_id": "2315222482cb144afd611f2b380b9588365c21"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "王乐乐 高迪",
+      "rank": 12,
+      "title": "王乐乐 高迪",
+      "topic_id": "23152206b9eeec8de072efb0436a011bf21420"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#央视曝光校园举报乱象#",
+      "rank": 13,
+      "title": "央视曝光校园举报乱象",
+      "topic_id": "23152229b981e8aef3689a4af85c49e315cd96"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#谭开心自曝与高迪合作经历#",
+      "rank": 14,
+      "title": "谭开心自曝与高迪合作经历",
+      "topic_id": "2315225ca8912c34399c7260287c1e8a39d7c7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "疑似后会友期白小纯表白王子璇路透",
+      "rank": 15,
+      "title": "疑似后会友期白小纯表白王子璇路透",
+      "topic_id": "231522e77322bf58021cb8ef30c27adc01cfc8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#杨幂真的好宠小酒窝#",
+      "rank": 16,
+      "title": "杨幂真的好宠小酒窝",
+      "topic_id": "231522931d5d1d8eedf90b4076a4f4fd0735ac"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#奚梦瑶购物完全是梦中自己的样子#",
+      "rank": 17,
+      "title": "奚梦瑶购物完全是梦中自己的样子",
+      "topic_id": "231522f1c26c3cb3539e94728bfb669274f1ac"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#有人花1元买一次性碗去零元面馆吃面#",
+      "rank": 18,
+      "title": "有人花1元买一次性碗去零元面馆吃面",
+      "topic_id": "2315223a1325506450c58852098cf045f7a0ef"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#脱口秀演员学历排行榜#",
+      "rank": 19,
+      "title": "脱口秀演员学历排行榜",
+      "topic_id": "231522d7ca7deacfaf40b52a45588f2be3d3d1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "无畏总决赛落泪",
+      "rank": 20,
+      "title": "无畏总决赛落泪",
+      "topic_id": "23152280427679239de2dcc868d3b9e87a15c3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "Bin 世一上",
+      "rank": 21,
+      "title": "Bin 世一上",
+      "topic_id": "231522706c82ad0dbf3017fdf2317b96792527"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#Ruler回应BLG夺冠#",
+      "rank": 22,
+      "title": "Ruler回应BLG夺冠",
+      "topic_id": "2315223a3b3b2869d0f311a85708d636bb07b5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#Chovy回应GEN不敌BLG#",
+      "rank": 23,
+      "title": "Chovy回应GEN不敌BLG",
+      "topic_id": "23152259768f7f24a33c4fdcb4007d89cbbfe8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#常州造全球最大无人货运飞机试飞成功#",
+      "rank": 24,
+      "title": "常州造全球最大无人货运飞机试飞成功",
+      "topic_id": "231522f035b60a82f943840641541b5d06c056"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#佟丽娅也忍不住多看杨幂几眼#",
+      "rank": 25,
+      "title": "佟丽娅也忍不住多看杨幂几眼",
+      "topic_id": "2315221fdbb9d86299ac9233864250da11bb3c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#家人用旧金给儿子备婚省20万#",
+      "rank": 26,
+      "title": "家人用旧金给儿子备婚省20万",
+      "topic_id": "2315220b3422ff1bb1a98279f3e8f8d080422f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "折月亮",
+      "rank": 27,
+      "title": "折月亮",
+      "topic_id": "2315224b604aa89f5662a757c9af37244f8ef3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#男子上厕所时打游戏被辞起诉公司#",
+      "rank": 28,
+      "title": "男子上厕所时打游戏被辞起诉公司",
+      "topic_id": "231522efa633d9d36b7e244939ab0e19075f4c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#沈腾拿到大结果周深拿到大后果#",
+      "rank": 29,
+      "title": "沈腾拿到大结果周深拿到大后果",
+      "topic_id": "231522adc539453d959bca2f9678713601bcd8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#父母熬夜布置女儿生日结果睡过头#",
+      "rank": 30,
+      "title": "父母熬夜布置女儿生日结果睡过头",
+      "topic_id": "23152258e2486e377c64dc4862de4428576feb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#369说自己是世二上#",
+      "rank": 31,
+      "title": "369说自己是世二上",
+      "topic_id": "2315221ac5fe46594bee95bd45b2e61fb25855"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "为什么说杀人容易藏尸难",
+      "rank": 32,
+      "title": "为什么说杀人容易藏尸难",
+      "topic_id": "231522808d99b9882a86eb6ec54c296ceac77d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "新疆就是一个巨大的干燥剂",
+      "rank": 33,
+      "title": "新疆就是一个巨大的干燥剂",
+      "topic_id": "231522af760daba1cb40aacbf3dade1c9787bd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "BLG夺冠",
+      "rank": 34,
+      "title": "BLG夺冠",
+      "topic_id": "2315223f4ef9240417af776e8ddeb443425733"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#JackeyLove谈BLG夺冠#",
+      "rank": 35,
+      "title": "JackeyLove谈BLG夺冠",
+      "topic_id": "231522f6ffb389c67285e7cc444ce8e61c40bd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#沈佳润回复小沈阳#",
+      "rank": 36,
+      "title": "沈佳润回复小沈阳",
+      "topic_id": "231522a9b7d4af5528886ab8ef22df8c624c34"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#睡眠时长会影响脂肪分布#",
+      "rank": 37,
+      "title": "睡眠时长会影响脂肪分布",
+      "topic_id": "23152253d19d364bcb9493fc10a68575c53ea0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#睡眠不足的人长期处于应激状态#",
+      "rank": 38,
+      "title": "睡眠不足的人长期处于应激状态",
+      "topic_id": "23152285d8184319cbb481f1a84bf1b89b39bc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#多地维修师傅发声谈行业乱象#",
+      "rank": 39,
+      "title": "多地维修师傅发声谈行业乱象",
+      "topic_id": "23152277ebf56ea109a0e94c0d80b3afd2c023"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#上一个养花的魔头还是东方青苍#",
+      "rank": 40,
+      "title": "上一个养花的魔头还是东方青苍",
+      "topic_id": "231522c6783e7ff4f79d58be39eb17b831bede"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#谷雨张颂文高开疯走#",
+      "rank": 41,
+      "title": "谷雨张颂文高开疯走",
+      "topic_id": "2315228bbee5e8fe4f2cb15daaafea9835a21a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "WHOOP 家庭套餐",
+      "rank": 42,
+      "title": "WHOOP 家庭套餐",
+      "topic_id": "23152266d8ba6298b4b071bf05e3e7d6e431e3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "海陆靠爱好自然瘦20斤",
+      "rank": 43,
+      "title": "海陆靠爱好自然瘦20斤",
+      "topic_id": "231522fade833ebb622003b075ef9926df4953"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#央视曝光假牛肉案#",
+      "rank": 44,
+      "title": "央视曝光假牛肉案",
+      "topic_id": "2315228d906b6d8974a1f229a19bb44e2c32b1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#2026爱奇艺尖叫之夜好多人#",
+      "rank": 45,
+      "title": "2026爱奇艺尖叫之夜好多人",
+      "topic_id": "2315227dcb4ce0bfd1703c4e7d7b8301ebdbf0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#虞书欣云初令片头曲物料节奏#",
+      "rank": 46,
+      "title": "虞书欣云初令片头曲物料节奏",
+      "topic_id": "23152207c19b7a804d2f6ac6557993dc960e4a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "尚公主",
+      "rank": 47,
+      "title": "尚公主",
+      "topic_id": "231522380a158e1677bff6917b26d3d36216c2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#网传王鹤棣徐若晗新剧12月开机#",
+      "rank": 48,
+      "title": "网传王鹤棣徐若晗新剧12月开机",
+      "topic_id": "231522b106c621caa0c29c81062423ee9630a6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "离婚妈妈与儿子车内对话",
+      "rank": 49,
+      "title": "离婚妈妈与儿子车内对话",
+      "topic_id": "2315229bfd21b7f76151b93998484af67947ec"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "DeepSeek崩了",
+      "rank": 50,
+      "title": "DeepSeek崩了",
+      "topic_id": "2315225039beb8e2d6d05cc99b47075295ecf4"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
