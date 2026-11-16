@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 5396094153
   },
-  "last_seen_at": "2026-11-16T14:00:00+08:00",
+  "last_seen_at": "2026-11-16T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%B5%B5%E6%9C%AC%E5%B1%B1%E5%94%B1%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E6%8B%85%E5%BF%83%E8%B7%9FAI%E4%B8%8D%E5%83%8F%23%26t%3D3&title=发布媒体",
-    "show_str": "19家媒体",
+    "show_str": "50家媒体",
     "users": [
       {
         "id": 5396094153,
         "idstr": "5396094153",
         "screen_name": "大众新闻-大众日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,30 +37,23 @@
         "verified_type": 3
       },
       {
-        "id": 2232625672,
-        "idstr": "2232625672",
-        "screen_name": "安庆天天直播",
+        "id": 1043320390,
+        "idstr": "1043320390",
+        "screen_name": "半岛晨报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1625232640,
-        "idstr": "1625232640",
-        "screen_name": "鲁中晨报",
+        "id": 7300690586,
+        "idstr": "7300690586",
+        "screen_name": "潮视频",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 6294758863,
-        "idstr": "6294758863",
-        "screen_name": "紫牛新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2836008441,
-        "idstr": "2836008441",
-        "screen_name": "哈尔滨电视台哈尔滨新闻",
+        "id": 2647971081,
+        "idstr": "2647971081",
+        "screen_name": "时速新闻",
         "verified": true,
         "verified_type": 3
       },

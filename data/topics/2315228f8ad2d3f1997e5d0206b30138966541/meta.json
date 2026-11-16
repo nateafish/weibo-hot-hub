@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1642634100
   },
-  "last_seen_at": "2026-11-16T14:00:00+08:00",
+  "last_seen_at": "2026-11-16T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AD%A6%E4%B9%A0%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%BE%9E%E8%81%8C%23%26t%3D3&title=发布媒体",
-    "show_str": "20家媒体",
+    "show_str": "28家媒体",
     "users": [
       {
         "id": 1642634100,
@@ -23,9 +23,23 @@
         "verified_type": 3
       },
       {
+        "id": 2075245652,
+        "idstr": "2075245652",
+        "screen_name": "长春晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1959444680,
         "idstr": "1959444680",
         "screen_name": "云南网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1643971635,
+        "idstr": "1643971635",
+        "screen_name": "凤凰卫视",
         "verified": true,
         "verified_type": 3
       },
@@ -49,20 +63,6 @@
         "screen_name": "成网",
         "verified": true,
         "verified_type": 3
-      },
-      {
-        "id": 7216381483,
-        "idstr": "7216381483",
-        "screen_name": "看成都",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7185126325,
-        "idstr": "7185126325",
-        "screen_name": "财经30秒",
-        "verified": false,
-        "verified_type": -1
       }
     ]
   },
