@@ -3,11 +3,33 @@
   "created_at": 1794790369,
   "first_seen_at": "2026-11-16T10:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-16T10:00:00+08:00",
+  "last_seen_at": "2026-11-16T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%AB%98%E4%B8%89%E5%A5%B3%E7%94%9F%E4%B8%8D%E5%AD%A6%E4%B9%A0%E5%8D%B4%E8%80%83%E7%8F%AD%E7%BA%A7%E5%89%8D%E5%87%A0%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "3家媒体",
+    "users": [
+      {
+        "id": 2120171457,
+        "idstr": "2120171457",
+        "screen_name": "合意客户端",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2075245652,
+        "idstr": "2075245652",
+        "screen_name": "长春晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1828887503,
+        "idstr": "1828887503",
+        "screen_name": "大河网",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "高三女生不学习却考班级前几",
   "search_url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%89%E5%A5%B3%E7%94%9F%E4%B8%8D%E5%AD%A6%E4%B9%A0%E5%8D%B4%E8%80%83%E7%8F%AD%E7%BA%A7%E5%89%8D%E5%87%A0%23",

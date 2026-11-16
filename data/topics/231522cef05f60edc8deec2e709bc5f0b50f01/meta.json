@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2286092114
   },
-  "last_seen_at": "2026-11-16T10:00:00+08:00",
+  "last_seen_at": "2026-11-16T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%96%B9%E5%8D%9A%E5%8D%81%E5%B9%B4%E7%86%AC%E8%B5%B0%E5%9B%9B%E5%BA%A7%E5%A4%A7%E5%B1%B1%23%26t%3D3&title=发布媒体",
-    "show_str": "17家媒体",
+    "show_str": "34家媒体",
     "users": [
       {
         "id": 2286092114,
         "idstr": "2286092114",
         "screen_name": "中国蓝新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,39 +37,32 @@
         "verified_type": 3
       },
       {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1938523582,
+        "idstr": "1938523582",
+        "screen_name": "宁波晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6418480627,
+        "idstr": "6418480627",
+        "screen_name": "星视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6355176069,
         "idstr": "6355176069",
         "screen_name": "柠檬树上的少女成就未来",
         "verified": true,
         "verified_type": 0
-      },
-      {
-        "id": 6345673059,
-        "idstr": "6345673059",
-        "screen_name": "上游视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3877613768,
-        "idstr": "3877613768",
-        "screen_name": "爱济南发布",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2647971081,
-        "idstr": "2647971081",
-        "screen_name": "时速新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2535760180,
-        "idstr": "2535760180",
-        "screen_name": "安徽视讯",
-        "verified": true,
-        "verified_type": 3
       }
     ]
   },

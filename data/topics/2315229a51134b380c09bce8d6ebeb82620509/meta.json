@@ -10,43 +10,22 @@
     "status": 2,
     "uid": 5130213751
   },
-  "last_seen_at": "2026-11-16T10:00:00+08:00",
+  "last_seen_at": "2026-11-16T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%A9%86%E7%A5%89%E4%B8%9E%E4%B8%8B%E4%B8%80%E9%83%A8%E5%89%A7%E6%98%AF%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%23%26t%3D3&title=发布媒体",
-    "show_str": "12家媒体",
+    "show_str": "19家媒体",
     "users": [
+      {
+        "id": 7422806367,
+        "idstr": "7422806367",
+        "screen_name": "中网传播",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1867427515,
         "idstr": "1867427515",
         "screen_name": "新派新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2045624511,
-        "idstr": "2045624511",
-        "screen_name": "济南音乐广播Music887",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2992050891,
-        "idstr": "2992050891",
-        "screen_name": "北京时间",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2535760180,
-        "idstr": "2535760180",
-        "screen_name": "安徽视讯",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2115259662,
-        "idstr": "2115259662",
-        "screen_name": "洪观新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -58,9 +37,30 @@
         "verified_type": 3
       },
       {
-        "id": 1936119834,
-        "idstr": "1936119834",
-        "screen_name": "河北长城网",
+        "id": 2045624511,
+        "idstr": "2045624511",
+        "screen_name": "济南音乐广播Music887",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1734530730,
+        "idstr": "1734530730",
+        "screen_name": "大河报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1720962692,
+        "idstr": "1720962692",
+        "screen_name": "极目新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
         "verified": true,
         "verified_type": 3
       }
