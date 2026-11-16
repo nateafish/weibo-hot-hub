@@ -3,15 +3,36 @@
   "created_at": 1794789922,
   "first_seen_at": "2026-11-16T10:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-16T11:00:00+08:00",
+  "last_seen_at": "2026-11-16T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%9A%8F%E6%84%8F%E6%9B%B4%E6%8D%A2%E5%B7%A5%E4%BD%9C%E5%9F%8E%E5%B8%82%E6%B2%89%E6%B2%A1%E6%88%90%E6%9C%AC%E5%A4%A7%23%26t%3D3&title=发布媒体",
-    "show_str": "28家媒体",
+    "show_str": "55家媒体",
     "users": [
       {
         "id": 1738006505,
         "idstr": "1738006505",
         "screen_name": "机锋网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2115259662,
+        "idstr": "2115259662",
+        "screen_name": "洪观新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2075245652,
+        "idstr": "2075245652",
+        "screen_name": "长春晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7780725722,
+        "idstr": "7780725722",
+        "screen_name": "陵城融媒",
         "verified": true,
         "verified_type": 3
       },
@@ -23,37 +44,16 @@
         "verified_type": 3
       },
       {
-        "id": 7731268962,
-        "idstr": "7731268962",
-        "screen_name": "昌邑融媒",
+        "id": 7756698008,
+        "idstr": "7756698008",
+        "screen_name": "天桥融媒",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 7524699697,
-        "idstr": "7524699697",
-        "screen_name": "兖州融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7292075673,
-        "idstr": "7292075673",
-        "screen_name": "五莲县融媒体中心",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6860871423,
-        "idstr": "6860871423",
-        "screen_name": "四川日报报业集团人力资源报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6715525032,
-        "idstr": "6715525032",
-        "screen_name": "成武融媒",
+        "id": 7756551991,
+        "idstr": "7756551991",
+        "screen_name": "郓城融媒",
         "verified": true,
         "verified_type": 3
       }
