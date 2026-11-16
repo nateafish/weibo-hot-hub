@@ -3,15 +3,43 @@
   "created_at": 1794814387,
   "first_seen_at": "2026-11-16T17:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-16T17:00:00+08:00",
+  "last_seen_at": "2026-11-16T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8E%89%E5%A8%9C%E5%80%9F%E6%AC%BE%E7%BA%A0%E7%BA%B7%E6%BE%84%E6%B8%85%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "13家媒体",
     "users": [
+      {
+        "id": 7308140398,
+        "idstr": "7308140398",
+        "screen_name": "大象新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5743120946,
+        "idstr": "5743120946",
+        "screen_name": "鄱阳发布",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2460937233,
+        "idstr": "2460937233",
+        "screen_name": "热度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2027480085,
         "idstr": "2027480085",
         "screen_name": "水母网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1880922220,
+        "idstr": "1880922220",
+        "screen_name": "金华晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -23,9 +51,9 @@
         "verified_type": 3
       },
       {
-        "id": 1497087080,
-        "idstr": "1497087080",
-        "screen_name": "羊城晚报",
+        "id": 1802564537,
+        "idstr": "1802564537",
+        "screen_name": "新派观察",
         "verified": true,
         "verified_type": 3
       }

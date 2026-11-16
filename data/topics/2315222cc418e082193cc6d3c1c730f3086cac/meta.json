@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 6068019631
   },
-  "last_seen_at": "2026-11-16T17:00:00+08:00",
+  "last_seen_at": "2026-11-16T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23Knight%E6%8A%95%E7%A5%A8%E6%94%AF%E6%8C%81Bin%E9%80%89%E6%A0%BC%E6%B8%A9%E7%9A%AE%E8%82%A4%23%26t%3D3&title=发布媒体",
-    "show_str": "20家媒体",
+    "show_str": "25家媒体",
     "users": [
       {
         "id": 6068019631,
@@ -44,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 7467277921,
+        "idstr": "7467277921",
+        "screen_name": "万维视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6380644334,
         "idstr": "6380644334",
         "screen_name": "蟹视频",
@@ -54,13 +61,6 @@
         "id": 6174413689,
         "idstr": "6174413689",
         "screen_name": "青晨视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6140533125,
-        "idstr": "6140533125",
-        "screen_name": "冬呱视频",
         "verified": true,
         "verified_type": 3
       }
