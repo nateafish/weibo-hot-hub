@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1699432410
   },
-  "last_seen_at": "2026-11-17T00:00:00+08:00",
+  "last_seen_at": "2026-11-17T01:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%90%8C%E8%88%9F%E5%85%B1%E6%B5%8E%E5%BC%80%E5%88%9B%E4%BA%9A%E5%A4%AA%E5%92%8C%E4%B8%96%E7%95%8C%E6%9B%B4%E7%BE%8E%E5%A5%BD%E6%9C%AA%E6%9D%A5%23%26t%3D3&title=发布媒体",
-    "show_str": "8家媒体",
+    "show_str": "9家媒体",
     "users": [
       {
         "id": 1699432410,
@@ -44,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 1855514017,
+        "idstr": "1855514017",
+        "screen_name": "经济参考报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7578981475,
         "idstr": "7578981475",
         "screen_name": "我爱五指山官方",
@@ -54,13 +61,6 @@
         "id": 2921799343,
         "idstr": "2921799343",
         "screen_name": "天下泉城",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2232625672,
-        "idstr": "2232625672",
-        "screen_name": "安庆天天直播",
         "verified": true,
         "verified_type": 3
       }
