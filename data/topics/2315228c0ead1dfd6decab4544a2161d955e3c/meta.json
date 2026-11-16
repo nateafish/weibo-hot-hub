@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1655444627
   },
-  "last_seen_at": "2026-11-16T08:00:00+08:00",
+  "last_seen_at": "2026-11-16T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%A5%B3%E5%AD%90%E9%9A%8F%E6%89%8B%E6%8B%8D%E8%AE%A9%E5%81%8F%E5%83%BB%E5%B0%8F%E5%BA%97%E7%88%86%E7%81%AB%23%26t%3D3&title=发布媒体",
-    "show_str": "20家媒体",
+    "show_str": "33家媒体",
     "users": [
       {
         "id": 1655444627,
@@ -26,6 +26,13 @@
         "id": 6354225202,
         "idstr": "6354225202",
         "screen_name": "晨视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -51,16 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2685336121,
-        "idstr": "2685336121",
-        "screen_name": "南宁晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2566396732,
-        "idstr": "2566396732",
-        "screen_name": "潇湘晨报96360",
+        "id": 5388240201,
+        "idstr": "5388240201",
+        "screen_name": "南阳日报",
         "verified": true,
         "verified_type": 3
       }

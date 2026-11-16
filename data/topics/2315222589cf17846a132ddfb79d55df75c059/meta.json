@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1763597487
   },
-  "last_seen_at": "2026-11-16T08:00:00+08:00",
+  "last_seen_at": "2026-11-16T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%A7%8B%E7%93%B7%E7%82%AB%E5%81%9A%E4%BA%86%E6%95%B4%E6%95%B425%E5%8F%AA%E9%B8%A1%E8%85%BF%E7%9A%84%E7%85%8E%E9%B8%A1%E6%8E%92%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "3家媒体",
     "users": [
       {
         "id": 2252846093,
@@ -26,6 +26,13 @@
         "id": 2115259662,
         "idstr": "2115259662",
         "screen_name": "洪观新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1160746241,
+        "idstr": "1160746241",
+        "screen_name": "中国食品报",
         "verified": true,
         "verified_type": 3
       }
