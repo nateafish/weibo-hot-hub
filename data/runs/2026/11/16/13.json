@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-16T13:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#习近平将同普京特朗普会晤#",
+      "rank": 1,
+      "title": "习近平将同普京特朗普会晤",
+      "topic_id": "2315220fc4b0a038ba9abd548f1b55237295ac"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#中俄美元首会晤将在深圳举行#",
+      "rank": 1,
+      "title": "中俄美元首会晤将在深圳举行",
+      "topic_id": "231522f46aa06f838574a21dcd4898c46017b0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#北大399元羽绒服全网刷屏#",
+      "rank": 2,
+      "title": "北大399元羽绒服全网刷屏",
+      "topic_id": "231522becba3ba51eb6fc56c502a217d05f4bf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#世界目光聚焦中国#",
+      "rank": 3,
+      "title": "世界目光聚焦中国",
+      "topic_id": "231522ee06883a963517f09c34dbdf71039402"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "金价",
+      "rank": 4,
+      "title": "金价",
+      "topic_id": "2315220939143c10eef68103b7bae2fe235d9e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "豆包把水印标反了",
+      "rank": 5,
+      "title": "豆包把水印标反了",
+      "topic_id": "231522df36ebaffd28128aafefbf13be1331e2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#奔跑吧大湾区篇官宣嘉宾阵容#",
+      "rank": 6,
+      "title": "奔跑吧大湾区篇官宣嘉宾阵容",
+      "topic_id": "231522229c17ee494ee341ac2572a83a2155f6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#DeepSeek因算力不足限额#",
+      "rank": 7,
+      "title": "DeepSeek因算力不足限额",
+      "topic_id": "23152281f1f58a8fc11c9b83341d6354c542aa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "随意更换工作城市沉没成本大",
+      "rank": 8,
+      "title": "随意更换工作城市沉没成本大",
+      "topic_id": "2315229dceef06f2466e37605efd893a3becb2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#农民工转讨薪贴被当黑社会遭起诉#",
+      "rank": 9,
+      "title": "农民工转讨薪贴被当黑社会遭起诉",
+      "topic_id": "231522c95817e9fd6230e010c4c1e48b19c043"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "复仇者联盟5",
+      "rank": 10,
+      "title": "复仇者联盟5",
+      "topic_id": "2315225c791aa6be3564a41e571b042f9baf5c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#虞书欣围裙照删除了#",
+      "rank": 11,
+      "title": "虞书欣围裙照删除了",
+      "topic_id": "231522363833d3feda962746cbda9f314765e6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "文吉儿 王子璇",
+      "rank": 12,
+      "title": "文吉儿 王子璇",
+      "topic_id": "23152292860c9248bcb0d5662e28629f2b2f72"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#英伟达机器人学习工程师辞职#",
+      "rank": 13,
+      "title": "英伟达机器人学习工程师辞职",
+      "topic_id": "2315228f8ad2d3f1997e5d0206b30138966541"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "孙俪晒邓超手撕牙线爱心",
+      "rank": 14,
+      "title": "孙俪晒邓超手撕牙线爱心",
+      "topic_id": "2315225946f12a019612db958350eb68944268"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "同事跑路前有什么征兆",
+      "rank": 15,
+      "title": "同事跑路前有什么征兆",
+      "topic_id": "23152244a62244c7302ee4461f010a61de92c0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张晓龙三胎首曝光#",
+      "rank": 16,
+      "title": "张晓龙三胎首曝光",
+      "topic_id": "23152272599ddb76026131231f78d4be37f521"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#华为最平整的折叠屏要来了#",
+      "rank": 17,
+      "title": "华为最平整的折叠屏要来了",
+      "topic_id": "23152214f31563a9751dc60d6fb959ac80d2f5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#宝珠定档1118#",
+      "rank": 18,
+      "title": "宝珠定档1118",
+      "topic_id": "2315221744a2bae2783faeada8ce313c760cf9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#墨西哥总统辛鲍姆抵达深圳#",
+      "rank": 19,
+      "title": "墨西哥总统辛鲍姆抵达深圳",
+      "topic_id": "2315220ecf11bc712520532bd0a24efa37169d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#黄仁勋或将东山再起#",
+      "rank": 20,
+      "title": "黄仁勋或将东山再起",
+      "topic_id": "231522aaf68972f1391b5b8a893fcc56b5c89f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#BLG在庆功宴和粉丝挨个碰拳#",
+      "rank": 21,
+      "title": "BLG在庆功宴和粉丝挨个碰拳",
+      "topic_id": "2315220d5594916bfec6821be87c66c908b6c2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "后会友期 删减",
+      "rank": 22,
+      "title": "后会友期 删减",
+      "topic_id": "2315225d0d3fc99bf2449ecd6a78f058d88242"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "黄金",
+      "rank": 23,
+      "title": "黄金",
+      "topic_id": "23152211289a9c3dbe0fb8810cf271903fc8ac"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "高三女生不学习却考班级前几",
+      "rank": 24,
+      "title": "高三女生不学习却考班级前几",
+      "topic_id": "231522da2a123b4618f664889f202a3f5e2c32"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "青稚 天霸",
+      "rank": 25,
+      "title": "青稚 天霸",
+      "topic_id": "2315229e75da04ca3a662b2e689bfd8e853959"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#有的老师不敢管学生了#",
+      "rank": 26,
+      "title": "有的老师不敢管学生了",
+      "topic_id": "231522c1a41d0ac57c34f1c1d3b6adb0d5193a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#华为MateX8发布会时间#",
+      "rank": 27,
+      "title": "华为MateX8发布会时间",
+      "topic_id": "231522d84a2f93b89e1b5c1d0687f00e76b803"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#范丞丞一天官宣一部剧一档综艺#",
+      "rank": 28,
+      "title": "范丞丞一天官宣一部剧一档综艺",
+      "topic_id": "23152220afbfc4d797abf702022768796bb121"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "Bin夺冠仍存短板",
+      "rank": 29,
+      "title": "Bin夺冠仍存短板",
+      "topic_id": "231522381ba512f6701107cdad8228df7e0d46"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#王子璇好能读懂文吉儿的言下之意#",
+      "rank": 30,
+      "title": "王子璇好能读懂文吉儿的言下之意",
+      "topic_id": "231522740b51f4f3b887eb0e273e7cf9bcaf55"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#贺峻霖一等奖学金#",
+      "rank": 31,
+      "title": "贺峻霖一等奖学金",
+      "topic_id": "2315221840105dcf8b8b8e0f43143c68d3a0d5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#华为MateX8或迎史上最大焕新#",
+      "rank": 32,
+      "title": "华为MateX8或迎史上最大焕新",
+      "topic_id": "2315229d6217b9ad5e8c943bc88d5cd614cbae"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#范丞丞还有五部作品待播#",
+      "rank": 33,
+      "title": "范丞丞还有五部作品待播",
+      "topic_id": "231522263ade8915391b14a676baceef4640d3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#Bin和BLG合同即将到期#",
+      "rank": 34,
+      "title": "Bin和BLG合同即将到期",
+      "topic_id": "231522cc2ed76f7f030e8f1d9d507874c31e8b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#一系列闲鱼暗语事件系谣言#",
+      "rank": 35,
+      "title": "一系列闲鱼暗语事件系谣言",
+      "topic_id": "2315224c0e63aaf867a027fc4205e9468f5125"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#云初令片头曲完全是恐怖童谣#",
+      "rank": 36,
+      "title": "云初令片头曲完全是恐怖童谣",
+      "topic_id": "231522bfcb08254bc630f4899238056fafcfa7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#田栩宁梓渝粉丝给梓渝二巡的一封信#",
+      "rank": 37,
+      "title": "田栩宁梓渝粉丝给梓渝二巡的一封信",
+      "topic_id": "23152209535a16f5b3c2e4aa38713127f5dab7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 8,
+      "posts": "saved",
+      "query": "#原来懂球帝3点多就有人发了#",
+      "rank": 38,
+      "title": "原来懂球帝3点多就有人发了",
+      "topic_id": "231522905ad363a48a2ff92b3b97cb7ee82f75"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#谷雨敢拍我都快不敢看了#",
+      "rank": 39,
+      "title": "谷雨敢拍我都快不敢看了",
+      "topic_id": "231522d1b2df5aa8a5400682d4de5b8248a8b7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#BLG夺冠前一年个人股东入股#",
+      "rank": 40,
+      "title": "BLG夺冠前一年个人股东入股",
+      "topic_id": "2315222d8b45584f1724d80c9ca3fce946c5ab"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "减肥避谶远离胖字店",
+      "rank": 41,
+      "title": "减肥避谶远离胖字店",
+      "topic_id": "231522fb9bf691fcb8c2628afb2ecbd796c63e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#第二代iPhoneDuo#",
+      "rank": 42,
+      "title": "第二代iPhoneDuo",
+      "topic_id": "23152259c717501ef0f307e10db35303ab0ac5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#杨超越跳舞是在做动作#",
+      "rank": 43,
+      "title": "杨超越跳舞是在做动作",
+      "topic_id": "231522896f3d4b647934f8aac62263145a441d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#赵丽颖四大平台浏览量登顶#",
+      "rank": 44,
+      "title": "赵丽颖四大平台浏览量登顶",
+      "topic_id": "23152212e44bc97478fa86e6bafade117bb979"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "苹果2027年计划发布6款iPhone",
+      "rank": 45,
+      "title": "苹果2027年计划发布6款iPhone",
+      "topic_id": "231522a28f919ca0e305f5ca41e025f15d31db"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#华为门店称MateX8样机24日到店#",
+      "rank": 46,
+      "title": "华为门店称MateX8样机24日到店",
+      "topic_id": "2315228c391b42e4aa3110e244f14efb0360d8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王安宇宣传多喜一家人#",
+      "rank": 47,
+      "title": "王安宇宣传多喜一家人",
+      "topic_id": "2315220b7953603a088f0eb5839a12a8ae871f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "曝王俊凯出演贾樟柯新电影",
+      "rank": 48,
+      "title": "曝王俊凯出演贾樟柯新电影",
+      "topic_id": "2315225dea1317089d7c4080f5e959f702d75d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#孟子义李昀锐奔跑吧大湾区篇常驻#",
+      "rank": 49,
+      "title": "孟子义李昀锐奔跑吧大湾区篇常驻",
+      "topic_id": "231522c6898612c667b98f0c2514e68ee50e1c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "A股指数走低银行新高",
+      "rank": 50,
+      "title": "A股指数走低银行新高",
+      "topic_id": "231522b4941d86bee62e9ecf7c6ac834d78866"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
