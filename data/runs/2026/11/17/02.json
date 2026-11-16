@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-17T02:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 46,
+    "ai_unchanged": 4,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#习近平在广东省中山市考察#",
+      "rank": 1,
+      "title": "习近平在广东省中山市考察",
+      "topic_id": "231522379e778a98c136cc0f2ad45233a25d64"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#中俄美元首会晤将在深圳举行#",
+      "rank": 1,
+      "title": "中俄美元首会晤将在深圳举行",
+      "topic_id": "231522f46aa06f838574a21dcd4898c46017b0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#华尔街日报必须道歉#",
+      "rank": 2,
+      "title": "华尔街日报必须道歉",
+      "topic_id": "2315226041158cfc2cef97d68c61bfe75f3d44"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#同舟共济开创亚太和世界更美好未来#",
+      "rank": 3,
+      "title": "同舟共济开创亚太和世界更美好未来",
+      "topic_id": "231522c76057a1bf906d552005f9c8f242e4f8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#终于有人说说干发帽了#",
+      "rank": 4,
+      "title": "终于有人说说干发帽了",
+      "topic_id": "231522787ce55e37aa7d0b680f8a8b80dbf4a7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#卢昱晓谢谢林一有逐渐清晰看到她#",
+      "rank": 5,
+      "title": "卢昱晓谢谢林一有逐渐清晰看到她",
+      "topic_id": "2315223e84d19980514af7c6914c0dec44f956"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#被虞书欣起诉网友发文#",
+      "rank": 6,
+      "title": "被虞书欣起诉网友发文",
+      "topic_id": "231522103d5aeddf48b01cbf83fe2aea1e716a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "吃了点didi喂",
+      "rank": 7,
+      "title": "吃了点didi喂",
+      "topic_id": "23152288ea3bd41d93c27e5102f6fed288e109"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#金子涵称被家人骗到了精神病院#",
+      "rank": 8,
+      "title": "金子涵称被家人骗到了精神病院",
+      "topic_id": "231522f32907f75d8e5f826a1abdedf7a7176e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#新007是帕丁森#",
+      "rank": 9,
+      "title": "新007是帕丁森",
+      "topic_id": "2315222cf6ff396c46fcb3e6ec83ea110b1036"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#高市早苗穿菲律宾服饰出席晚宴#",
+      "rank": 10,
+      "title": "高市早苗穿菲律宾服饰出席晚宴",
+      "topic_id": "231522b2b4992a591e1ff1756f392b05ff9d11"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "虞书欣围裙 国外博主原图",
+      "rank": 11,
+      "title": "虞书欣围裙 国外博主原图",
+      "topic_id": "2315223dfaf040c1b0bddc0f80af9835cbe310"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "建议大家不要一直穿同一双鞋",
+      "rank": 12,
+      "title": "建议大家不要一直穿同一双鞋",
+      "topic_id": "23152296d55f10e87164f47cffe7874da020f3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#高迪懒得解释#",
+      "rank": 13,
+      "title": "高迪懒得解释",
+      "topic_id": "23152274ba93cb494c117f5a5562f653b636c0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#Knight说训练赛打不过AL#",
+      "rank": 14,
+      "title": "Knight说训练赛打不过AL",
+      "topic_id": "23152284e3f83390074bd2e7ffcd23ed85a089"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#刘耀文刷到了自己吃蓝莓的视频#",
+      "rank": 15,
+      "title": "刘耀文刷到了自己吃蓝莓的视频",
+      "topic_id": "23152258c244dd5d526c3348fce3c40620a4c6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#许飞自曝参加浪姐期间被分手了#",
+      "rank": 16,
+      "title": "许飞自曝参加浪姐期间被分手了",
+      "topic_id": "231522dd87ff6522c2026682875bcf4340b6ee"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#马天宇听到一家四口热搜的反应#",
+      "rank": 17,
+      "title": "马天宇听到一家四口热搜的反应",
+      "topic_id": "231522fc4a7b8efe3ed00f1ec6be182ac4b734"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#墨西哥总统抵达深圳后做了一个动作#",
+      "rank": 18,
+      "title": "墨西哥总统抵达深圳后做了一个动作",
+      "topic_id": "2315228d7a89d9be443cc9b4ce9b82979f7168"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#亚马尔澄清函全文#",
+      "rank": 19,
+      "title": "亚马尔澄清函全文",
+      "topic_id": "231522df6429e950cabe251b61a2554ad6ec89"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#波司登羽绒服被吐槽雷霆审美#",
+      "rank": 20,
+      "title": "波司登羽绒服被吐槽雷霆审美",
+      "topic_id": "231522db77f02354c3d48bd81c30149a61018d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#白小纯练枪被女粉落地颗秒#",
+      "rank": 21,
+      "title": "白小纯练枪被女粉落地颗秒",
+      "topic_id": "231522ca2a8afa7484276ea75049a546748784"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#网友给厉娜赐名salina傻厉娜#",
+      "rank": 22,
+      "title": "网友给厉娜赐名salina傻厉娜",
+      "topic_id": "2315225e8f405a1c7afbe6c566289cad0efc28"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "人一旦用过折叠手机",
+      "rank": 23,
+      "title": "人一旦用过折叠手机",
+      "topic_id": "231522d7e91c3718dd80ae5f492f8719a201f4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "SK谈妻子观赛流产",
+      "rank": 24,
+      "title": "SK谈妻子观赛流产",
+      "topic_id": "2315223f28b2a6c203923b4a841c02d93272b3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "6年恋爱因一枚戒指分手",
+      "rank": 25,
+      "title": "6年恋爱因一枚戒指分手",
+      "topic_id": "231522c809f45b137d4680f97f357d599098ff"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#青稚白小纯营业了#",
+      "rank": 26,
+      "title": "青稚白小纯营业了",
+      "topic_id": "231522b1bafa5cbf7aafcc37590808833d4c3c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "什么岗位可以随时请一周假",
+      "rank": 27,
+      "title": "什么岗位可以随时请一周假",
+      "topic_id": "2315225e92b83b1ea9d4eb26ef148018a7235e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "不怕了不怕了妈妈来了",
+      "rank": 28,
+      "title": "不怕了不怕了妈妈来了",
+      "topic_id": "231522d1121c73a22bbb2226918267ea7724ab"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#A股新利好来了#",
+      "rank": 29,
+      "title": "A股新利好来了",
+      "topic_id": "231522c79f93cb3df3db0a709d9d7b526937e7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#女子不孕十年子宫内长出骨头#",
+      "rank": 30,
+      "title": "女子不孕十年子宫内长出骨头",
+      "topic_id": "231522739971ae1163927e0011988b69a72541"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#S16最终战力排名公布#",
+      "rank": 31,
+      "title": "S16最终战力排名公布",
+      "topic_id": "2315227329d083bf7490d0353d575502fd5fc1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#BLG首次登顶LOL年度战力榜#",
+      "rank": 32,
+      "title": "BLG首次登顶LOL年度战力榜",
+      "topic_id": "2315221320ff3a89359b5d0cdd57b86465b8f6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#厉娜流水转账记录#",
+      "rank": 33,
+      "title": "厉娜流水转账记录",
+      "topic_id": "231522a4a290ba34c07c570d5935addd30db9b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#金子涵求助济南网警#",
+      "rank": 34,
+      "title": "金子涵求助济南网警",
+      "topic_id": "2315224903c3ed8fbd436ecc4e1f4490d8e11d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#赵丽颖没有给风吹半夏导演新剧打call#",
+      "rank": 35,
+      "title": "赵丽颖没有给风吹半夏导演新剧打call",
+      "topic_id": "231522fa72abb45539ac2ca6fe5fcff496b906"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "蒋欣这段哭戏可以进北影教材",
+      "rank": 36,
+      "title": "蒋欣这段哭戏可以进北影教材",
+      "topic_id": "23152274597995583781c61d27a72f6c67b3cc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "恢复专注力需要反多巴胺",
+      "rank": 37,
+      "title": "恢复专注力需要反多巴胺",
+      "topic_id": "2315221a130bc3cf737870706b0170baa32229"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#厨房油烟致癌物浓度相当于96支烟#",
+      "rank": 38,
+      "title": "厨房油烟致癌物浓度相当于96支烟",
+      "topic_id": "23152255872d1df06ebfae69a4ab72c9df6d4b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#王力宏同款波司登羽绒服仅售16件#",
+      "rank": 39,
+      "title": "王力宏同款波司登羽绒服仅售16件",
+      "topic_id": "231522a7a16b31849be9169bb890bdabadbbf0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#成都这位华西医生火出圈了#",
+      "rank": 40,
+      "title": "成都这位华西医生火出圈了",
+      "topic_id": "231522ba4a5f50e6bfc51f03e56b1c5546f520"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#医生建议不要用手抠危险三角区#",
+      "rank": 41,
+      "title": "医生建议不要用手抠危险三角区",
+      "topic_id": "2315227307dfffd455f94fde955170c3c5d1a4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "007",
+      "rank": 42,
+      "title": "007",
+      "topic_id": "2315229e94b15ed312fa42232fd87a55db0d39"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#王子璇这段仇人看了都释怀了#",
+      "rank": 43,
+      "title": "王子璇这段仇人看了都释怀了",
+      "topic_id": "23152211bd54d83978152d3215acf83a54a1fc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "买衣服一定要知道面料",
+      "rank": 44,
+      "title": "买衣服一定要知道面料",
+      "topic_id": "23152218cf8abc9d7fea6eee1f8e6d0c4d0633"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#朱珠的女儿太有情商了#",
+      "rank": 45,
+      "title": "朱珠的女儿太有情商了",
+      "topic_id": "23152261a77db2d54c6a2ee7b35b2cf837908a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "我的有罪之人",
+      "rank": 46,
+      "title": "我的有罪之人",
+      "topic_id": "231522f7586193d390bcf29108a01c40ea886a"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#加拿大总理卡尼抵达深圳#",
+      "rank": 47,
+      "title": "加拿大总理卡尼抵达深圳",
+      "topic_id": "23152274a5d749642d2d2de9f3a67d153819ba"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 7,
+      "posts": "saved",
+      "query": "#一亿锦鲤大奖里那些最难绷的奖#",
+      "rank": 48,
+      "title": "一亿锦鲤大奖里那些最难绷的奖",
+      "topic_id": "2315223233d1722385e1e8291f112ba444ae27"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#曝BLG和iG训练赛最多#",
+      "rank": 49,
+      "title": "曝BLG和iG训练赛最多",
+      "topic_id": "2315222e6120528ec22e15eec0901209d913ae"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#天下足球C罗篇今晚播出#",
+      "rank": 50,
+      "title": "天下足球C罗篇今晚播出",
+      "topic_id": "231522fe7b08c30710f7f8a23857daa76c91dd"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
