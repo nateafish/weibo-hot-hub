@@ -3,11 +3,47 @@
   "created_at": "1533562056",
   "first_seen_at": "2026-11-16T20:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-16T20:00:00+08:00",
+  "last_seen_at": "2026-11-16T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A4%A9%E4%B8%8B%E8%B6%B3%E7%90%83C%E7%BD%97%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "5家媒体",
+    "users": [
+      {
+        "id": 6590980486,
+        "idstr": "6590980486",
+        "screen_name": "捉谣记",
+        "verified": true,
+        "verified_type": 7
+      },
+      {
+        "id": 6092578444,
+        "idstr": "6092578444",
+        "screen_name": "新浪种草官",
+        "verified": true,
+        "verified_type": 7
+      },
+      {
+        "id": 1618051664,
+        "idstr": "1618051664",
+        "screen_name": "头条新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2318910945,
+        "idstr": "2318910945",
+        "screen_name": "新浪热点",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2041117703,
+        "idstr": "2041117703",
+        "screen_name": "合肥日报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "天下足球C罗",
   "search_url": "https://s.weibo.com/weibo/%23%E5%A4%A9%E4%B8%8B%E8%B6%B3%E7%90%83c%E7%BD%97%23",
