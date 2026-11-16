@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2803301701
   },
-  "last_seen_at": "2026-11-16T21:00:00+08:00",
+  "last_seen_at": "2026-11-16T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23APEC%E4%B8%AD%E5%9B%BD%E5%B9%B4%E4%B8%BB%E9%A2%98%E5%AE%A3%E4%BC%A0%E7%89%87%23%26t%3D3&title=发布媒体",
-    "show_str": "29家媒体",
+    "show_str": "35家媒体",
     "users": [
       {
         "id": 2803301701,
@@ -30,9 +30,16 @@
         "verified_type": 3
       },
       {
-        "id": 2824067765,
-        "idstr": "2824067765",
-        "screen_name": "贺州日报官微",
+        "id": 2057327125,
+        "idstr": "2057327125",
+        "screen_name": "人民视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1789681642,
+        "idstr": "1789681642",
+        "screen_name": "第一现场",
         "verified": true,
         "verified_type": 3
       },
@@ -47,13 +54,6 @@
         "id": 3881380517,
         "idstr": "3881380517",
         "screen_name": "新华日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2057327125,
-        "idstr": "2057327125",
-        "screen_name": "人民视频",
         "verified": true,
         "verified_type": 3
       },

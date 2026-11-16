@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 2522098777
   },
-  "last_seen_at": "2026-11-16T21:00:00+08:00",
+  "last_seen_at": "2026-11-16T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9B%9DBLG%E5%92%8CiG%E8%AE%AD%E7%BB%83%E8%B5%9B%E6%9C%80%E5%A4%9A%23%26t%3D3&title=发布媒体",
-    "show_str": "10家媒体",
+    "show_str": "15家媒体",
     "users": [
       {
         "id": 1618051664,
         "idstr": "1618051664",
         "screen_name": "头条新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7723774651,
+        "idstr": "7723774651",
+        "screen_name": "星财经Pro",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7723617113,
+        "idstr": "7723617113",
+        "screen_name": "星娱乐star",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7723479601,
+        "idstr": "7723479601",
+        "screen_name": "star星视距",
         "verified": true,
         "verified_type": 3
       },
@@ -42,27 +63,6 @@
         "screen_name": "新浪种草官",
         "verified": true,
         "verified_type": 7
-      },
-      {
-        "id": 5396094153,
-        "idstr": "5396094153",
-        "screen_name": "大众新闻-大众日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1943154142,
-        "idstr": "1943154142",
-        "screen_name": "中安在线",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1938523582,
-        "idstr": "1938523582",
-        "screen_name": "宁波晚报",
-        "verified": true,
-        "verified_type": 3
       }
     ]
   },
