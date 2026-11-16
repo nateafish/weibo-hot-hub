@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 6511458458
   },
-  "last_seen_at": "2026-11-16T19:00:00+08:00",
+  "last_seen_at": "2026-11-16T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9B%BE%E6%B2%9B%E6%85%88%E8%AE%B8%E9%A3%9E%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%E5%90%88%E4%BD%9C%E8%88%9E%E5%8F%B0%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "3家媒体",
     "users": [
       {
         "id": 7708039348,
         "idstr": "7708039348",
         "screen_name": "北青娱见",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
         "verified": true,
         "verified_type": 3
       }
