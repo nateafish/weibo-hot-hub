@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1726918143
   },
-  "last_seen_at": "2026-11-17T21:00:00+08:00",
+  "last_seen_at": "2026-11-17T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BF%84%E7%BD%97%E6%96%AF%E8%AE%B0%E8%80%85%E6%83%8A%E5%91%BC%E5%9C%A8%E6%B7%B1%E5%9C%B3%E8%B0%81%E8%BF%98%E7%94%A8%E7%8E%B0%E9%87%91%E5%95%8A%23%26t%3D3&title=发布媒体",
-    "show_str": "46家媒体",
+    "show_str": "53家媒体",
     "users": [
       {
         "id": 1744332207,
@@ -26,6 +26,13 @@
         "id": 1726918143,
         "idstr": "1726918143",
         "screen_name": "中国青年报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2087169013,
+        "idstr": "2087169013",
+        "screen_name": "法治日报",
         "verified": true,
         "verified_type": 3
       },
@@ -51,16 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2087169013,
-        "idstr": "2087169013",
-        "screen_name": "法治日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7369116528,
-        "idstr": "7369116528",
-        "screen_name": "今日吉林网",
+        "id": 2188202475,
+        "idstr": "2188202475",
+        "screen_name": "南京晨报",
         "verified": true,
         "verified_type": 3
       }

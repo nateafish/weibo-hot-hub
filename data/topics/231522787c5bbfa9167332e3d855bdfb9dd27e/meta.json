@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 6054450374
   },
-  "last_seen_at": "2026-11-17T21:00:00+08:00",
+  "last_seen_at": "2026-11-17T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%9C%A8%E6%B7%B1%E5%9C%B3%E8%B4%B4%E9%80%80%E7%83%AD%E8%B4%B4%E7%94%A8%E7%AD%B7%E5%AD%90%E5%90%83%E7%83%A7%E7%83%A4%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "14家媒体",
     "users": [
       {
         "id": 6054450374,
         "idstr": "6054450374",
         "screen_name": "粤TV",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1789681642,
+        "idstr": "1789681642",
+        "screen_name": "第一现场",
         "verified": true,
         "verified_type": 3
       },
@@ -33,6 +40,13 @@
         "id": 7335441449,
         "idstr": "7335441449",
         "screen_name": "粤TV精选",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6910453729,
+        "idstr": "6910453729",
+        "screen_name": "绍虞城事通网",
         "verified": true,
         "verified_type": 3
       },
