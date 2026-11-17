@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2332566353
   },
-  "last_seen_at": "2026-11-17T13:00:00+08:00",
+  "last_seen_at": "2026-11-17T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8E%9F%E6%9D%A5%E7%8E%8B%E5%AD%90%E7%92%87%E5%8E%BB%E4%BA%86%E4%B8%8D%E6%AD%A2%E4%B8%80%E8%B6%9F%E5%8C%BB%E9%99%A2%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "6家媒体",
     "users": [
       {
         "id": 2346437860,
@@ -30,6 +30,13 @@
         "verified_type": 3
       },
       {
+        "id": 2647971081,
+        "idstr": "2647971081",
+        "screen_name": "时速新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2183542485,
         "idstr": "2183542485",
         "screen_name": "西安广播电视台",
@@ -37,9 +44,16 @@
         "verified_type": 3
       },
       {
-        "id": 1880922220,
-        "idstr": "1880922220",
-        "screen_name": "金华晚报",
+        "id": 2027480085,
+        "idstr": "2027480085",
+        "screen_name": "水母网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1725252714,
+        "idstr": "1725252714",
+        "screen_name": "温度新闻",
         "verified": true,
         "verified_type": 3
       }
