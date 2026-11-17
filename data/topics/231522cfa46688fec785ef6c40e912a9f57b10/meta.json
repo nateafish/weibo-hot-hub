@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 6054450374
   },
-  "last_seen_at": "2026-11-17T12:00:00+08:00",
+  "last_seen_at": "2026-11-17T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BF%84%E7%BE%8E%E8%BF%90%E8%BE%93%E6%9C%BA%E4%BA%AE%E7%9B%B8%E6%B7%B1%E5%9C%B3%E5%AE%9D%E5%AE%89%E6%9C%BA%E5%9C%BA%23%26t%3D3&title=发布媒体",
-    "show_str": "29家媒体",
+    "show_str": "27家媒体",
     "users": [
       {
         "id": 6054450374,
         "idstr": "6054450374",
         "screen_name": "粤TV",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1651428902,
+        "idstr": "1651428902",
+        "screen_name": "21世纪经济报道",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 1893801487,
+        "idstr": "1893801487",
+        "screen_name": "微天下",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1727472420,
         "idstr": "1727472420",
         "screen_name": "泰山晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1650111241,
-        "idstr": "1650111241",
-        "screen_name": "中国经营报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7360592502,
-        "idstr": "7360592502",
-        "screen_name": "粤TV文娱",
         "verified": true,
         "verified_type": 3
       }

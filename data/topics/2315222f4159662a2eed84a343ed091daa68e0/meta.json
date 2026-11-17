@@ -10,15 +10,50 @@
     "status": 2,
     "uid": 6511177474
   },
-  "last_seen_at": "2026-11-17T12:00:00+08:00",
+  "last_seen_at": "2026-11-17T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF2%E5%AE%9A%E6%A1%A3%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "6家媒体",
     "users": [
       {
         "id": 1280846847,
         "idstr": "1280846847",
         "screen_name": "指尖新闻-沈阳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6253454836,
+        "idstr": "6253454836",
+        "screen_name": "郑报融媒体中心",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1652484947,
+        "idstr": "1652484947",
+        "screen_name": "新快报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1043320390,
+        "idstr": "1043320390",
+        "screen_name": "半岛晨报",
         "verified": true,
         "verified_type": 3
       }
