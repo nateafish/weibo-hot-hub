@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { useRouter, useSearchParams } from "next/navigation";
+import { useSearchParams } from "next/navigation";
 import { useEffect, useMemo, useState } from "react";
 import { EmptyState, ErrorState } from "@/components/app-state";
 import { PageHeader } from "@/components/page-header";
@@ -18,12 +18,12 @@ import { formatNumber } from "@/lib/format";
 const pageSize = 30;
 const uncategorized = "微博未分类";
 
-function eventHref(month: string, category: string, sort: string, id?: string) {
+function eventSearch(month: string, category: string, sort: string, id?: string) {
   const params = new URLSearchParams({ month });
   if (category) params.set("category", category);
   if (sort) params.set("sort", sort);
   if (id) params.set("id", id);
-  return `/events/?${params}`;
+  return `?${params}`;
 }
 
 function EventHistory({ milestones }: { milestones: EventMilestone[] }) {
@@ -100,7 +100,6 @@ function Timeline({ event, categories }: { event: ArchiveEvent; categories: Even
 
 export function EventArchive() {
   const searchParams = useSearchParams();
-  const router = useRouter();
   const [months, setMonths] = useState<EventMonth[]>([]);
   const [categories, setCategories] = useState<EventCategories | null>(null);
   const [loaded, setLoaded] = useState<{ month: string; events: ArchiveEvent[] } | null>(null);
@@ -176,10 +175,10 @@ export function EventArchive() {
   const pages = Math.max(1, Math.ceil(results.length / pageSize));
   const activePage = Math.min(page, pages);
 
-  function changeMonth(value: string) {
+  function changeFilters(month: string, category: string, sort: string) {
     setPage(1);
     setError("");
-    router.replace(eventHref(value, category, sort), { scroll: false });
+    window.history.replaceState(null, "", eventSearch(month, category, sort));
   }
 
   return (
@@ -192,14 +191,15 @@ export function EventArchive() {
           <div className="toolbar">
             <label className="grid gap-1 text-sm">
               归档月份
-              <select className="h-9 rounded-md border bg-background px-2" value={month} onChange={(event) => changeMonth(event.target.value)}>
+              <select className="h-9 rounded-md border bg-background px-2" value={month}
+                onChange={(event) => changeFilters(event.target.value, category, sort)}>
                 {months.map(({ month: option, scope }) => <option key={option} value={option}>{option}{scope === "pilot" ? " · 试点" : ""}</option>)}
               </select>
             </label>
             <label className="grid gap-1 text-sm">
               微博分类
               <select className="h-9 rounded-md border bg-background px-2" value={category}
-                onChange={(event) => { setPage(1); router.replace(eventHref(selectedMonth.month, event.target.value, sort), { scroll: false }); }}>
+                onChange={(event) => changeFilters(selectedMonth.month, event.target.value, sort)}>
                 <option value="">默认 · 隐藏娱乐明星</option>
                 <option value="all">全部分类</option>
                 {options.map((label) => <option key={label}>{label}</option>)}
@@ -209,7 +209,7 @@ export function EventArchive() {
             <label className="grid gap-1 text-sm">
               排序
               <select className="h-9 rounded-md border bg-background px-2" value={sort}
-                onChange={(event) => { setPage(1); router.replace(eventHref(selectedMonth.month, category, event.target.value), { scroll: false }); }}>
+                onChange={(event) => changeFilters(selectedMonth.month, category, event.target.value)}>
                 <option value="">最近上榜</option>
                 <option value="duration-desc">事件时长 · 从长到短</option>
                 <option value="duration-asc">事件时长 · 从短到长</option>
@@ -237,16 +237,23 @@ export function EventArchive() {
                   {!category && hiddenCount > 0 && <span> · 已隐藏 {formatNumber(hiddenCount)} 个娱乐明星相关事件</span>}
                 </div>
                 <div key={sort} className="max-h-[65vh] divide-y overflow-auto">
-                  {results.slice((activePage - 1) * pageSize, activePage * pageSize).map((event) => (
-                    <Link className={`block px-4 py-3 text-sm hover:bg-muted ${selected.id === event.id ? "bg-muted font-medium" : ""}`}
-                      key={event.id} href={eventHref(selectedMonth.month, category, sort, event.id)} scroll={false}
-                      aria-current={selected.id === event.id ? "true" : undefined}>
-                      <span className="block">{event.title}</span>
-                      <span className="text-xs text-muted-foreground">
-                        {event.labels.join("、")} · {event.members.length} 个话题 · {archiveHourLabel(event.first, true)} · 跨度 {archiveDurationLabel(event.durationHours)}
-                      </span>
-                    </Link>
-                  ))}
+                  {results.slice((activePage - 1) * pageSize, activePage * pageSize).map((event) => {
+                    const search = eventSearch(selectedMonth.month, category, sort, event.id);
+                    return (
+                      <Link className={`block px-4 py-3 text-sm hover:bg-muted ${selected.id === event.id ? "bg-muted font-medium" : ""}`}
+                        key={event.id} href={`/events/${search}`} prefetch={false}
+                        onNavigate={(navigation) => {
+                          navigation.preventDefault();
+                          if (window.location.search !== search) window.history.pushState(null, "", search);
+                        }}
+                        aria-current={selected.id === event.id ? "true" : undefined}>
+                        <span className="block">{event.title}</span>
+                        <span className="text-xs text-muted-foreground">
+                          {event.labels.join("、")} · {event.members.length} 个话题 · {archiveHourLabel(event.first, true)} · 跨度 {archiveDurationLabel(event.durationHours)}
+                        </span>
+                      </Link>
+                    );
+                  })}
                 </div>
                 {pages > 1 && <div className="flex items-center justify-between gap-2 border-t px-3 py-2 text-xs">
                   <Button type="button" variant="outline" size="sm" disabled={activePage === 1} onClick={() => setPage(activePage - 1)}>上一页</Button>
