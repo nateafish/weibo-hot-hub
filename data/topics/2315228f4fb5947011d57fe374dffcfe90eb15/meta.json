@@ -10,11 +10,26 @@
     "status": 2,
     "uid": 2284130703
   },
-  "last_seen_at": "2026-11-17T09:00:00+08:00",
+  "last_seen_at": "2026-11-17T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%A0%BC%E8%8E%B1%E7%BE%8E%E5%8D%8E%E8%AF%AD0%E6%8F%90%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "2家媒体",
+    "users": [
+      {
+        "id": 2137094647,
+        "idstr": "2137094647",
+        "screen_name": "搜狐音乐",
+        "verified": true,
+        "verified_type": 2
+      },
+      {
+        "id": 1882632930,
+        "idstr": "1882632930",
+        "screen_name": "新消息报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#格莱美华语0提#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E6%A0%BC%E8%8E%B1%E7%BE%8E%E5%8D%8E%E8%AF%AD0%E6%8F%90%23",
