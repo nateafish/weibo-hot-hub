@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 5611783716
   },
-  "last_seen_at": "2026-11-17T08:00:00+08:00",
+  "last_seen_at": "2026-11-17T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A3%B0%E6%98%8E%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "12家媒体",
     "users": [
+      {
+        "id": 1642591402,
+        "idstr": "1642591402",
+        "screen_name": "新浪娱乐",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1642592432,
         "idstr": "1642592432",
         "screen_name": "新浪电视",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7708039348,
+        "idstr": "7708039348",
+        "screen_name": "北青娱见",
         "verified": true,
         "verified_type": 3
       },
@@ -30,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1943154142,
         "idstr": "1943154142",
         "screen_name": "中安在线",
@@ -37,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1805685140,
-        "idstr": "1805685140",
-        "screen_name": "安徽网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1751714412,
-        "idstr": "1751714412",
-        "screen_name": "大皖新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1670738351,
-        "idstr": "1670738351",
-        "screen_name": "楚天音乐广播",
+        "id": 1880922220,
+        "idstr": "1880922220",
+        "screen_name": "金华晚报",
         "verified": true,
         "verified_type": 3
       }
@@ -62,7 +69,7 @@
   "query": "虞书欣工作室声明",
   "search_url": "https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A3%B0%E6%98%8E%23",
   "sub_category": null,
-  "summary": "14日，虞书欣工作室发声明回应网传与刘润南的截图，称不希望用瞬间的动图引起大家的误会，也希望大家停止转发和传播截图。",
+  "summary": "",
   "title": "虞书欣工作室声明",
   "topic_id": "231522bd90544e515345226b86043b9c0fff13"
 }
