@@ -21,6 +21,25 @@ test("archive preserves original ranking", async ({ page }) => {
   await expect(page.getByRole("table")).toBeVisible();
 });
 
+test("event filters and event links work on the exported page", async ({ page }) => {
+  await page.goto("events/?month=2026-11&id=Ec91140c3e34856");
+  await expect(page.getByRole("heading", { name: "事件始末" })).toBeVisible();
+  await page.route(/\/events\/(?:index|__next\.[^/]+)\.txt\b/, (route) => route.abort());
+
+  await page.getByRole("combobox", { name: "微博分类" }).selectOption("all");
+  await expect(page).toHaveURL(/category=all/);
+  await page.getByRole("textbox", { name: "搜索事件" }).fill("美国全国航班停飞");
+  await page.getByRole("link", { name: /美国全国航班停飞及后续/ }).click();
+  await expect(page).toHaveURL(/id=Ebcae683281cf07/);
+  await expect(page.getByRole("heading", { name: "事件始末" })).toHaveCount(0);
+
+  await page.getByRole("textbox", { name: "搜索事件" }).clear();
+  await page.getByRole("combobox", { name: "归档月份" }).selectOption("2026-10");
+  await expect(page.getByText(/至 2026-10-30 16:00/)).toBeVisible();
+  await page.getByRole("combobox", { name: "排序" }).selectOption("duration-desc");
+  await expect(page).toHaveURL(/month=2026-10&category=all&sort=duration-desc/);
+});
+
 test("mobile navigation exposes all four pages", async ({ page }, testInfo) => {
   test.skip(testInfo.project.name !== "mobile", "mobile-only assertion");
   await page.goto("/");
