@@ -10,15 +10,43 @@
     "status": 2,
     "uid": 1726918143
   },
-  "last_seen_at": "2026-11-17T19:00:00+08:00",
+  "last_seen_at": "2026-11-17T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BF%84%E7%BD%97%E6%96%AF%E8%AE%B0%E8%80%85%E6%83%8A%E5%91%BC%E5%9C%A8%E6%B7%B1%E5%9C%B3%E8%B0%81%E8%BF%98%E7%94%A8%E7%8E%B0%E9%87%91%E5%95%8A%23%26t%3D3&title=发布媒体",
-    "show_str": "10家媒体",
+    "show_str": "27家媒体",
     "users": [
       {
         "id": 1726918143,
         "idstr": "1726918143",
         "screen_name": "中国青年报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1744332207,
+        "idstr": "1744332207",
+        "screen_name": "钱江视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1043320390,
+        "idstr": "1043320390",
+        "screen_name": "半岛晨报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7369116528,
+        "idstr": "7369116528",
+        "screen_name": "今日吉林网",
         "verified": true,
         "verified_type": 3
       },
@@ -33,34 +61,6 @@
         "id": 3901624042,
         "idstr": "3901624042",
         "screen_name": "山西日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2604834522,
-        "idstr": "2604834522",
-        "screen_name": "黄河电视台微博",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2118205862,
-        "idstr": "2118205862",
-        "screen_name": "宁夏新闻网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2075245652,
-        "idstr": "2075245652",
-        "screen_name": "长春晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2011805155,
-        "idstr": "2011805155",
-        "screen_name": "烟台音乐广播",
         "verified": true,
         "verified_type": 3
       }

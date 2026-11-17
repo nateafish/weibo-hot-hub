@@ -3,10 +3,10 @@
   "created_at": 1794894130,
   "first_seen_at": "2026-11-17T14:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-17T19:00:00+08:00",
+  "last_seen_at": "2026-11-17T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%94%B7%E6%80%A7%E7%A1%AE%E8%AE%A4%E8%A2%AB%E7%88%B1%E7%9A%84%E6%96%B9%E5%BC%8F%E5%92%8C%E4%BD%A0%E6%83%B3%E7%9A%84%E4%B8%8D%E4%B8%80%E6%A0%B7%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "4家媒体",
     "users": [
       {
         "id": 1774057271,
@@ -16,9 +16,23 @@
         "verified_type": 3
       },
       {
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2118120483,
         "idstr": "2118120483",
         "screen_name": "青岛日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1738004582,
+        "idstr": "1738004582",
+        "screen_name": "纵览新闻",
         "verified": true,
         "verified_type": 3
       }
