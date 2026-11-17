@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-17T19:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 48,
+    "ai_unchanged": 2,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#习近平会见苏林#",
+      "rank": 1,
+      "title": "习近平会见苏林",
+      "topic_id": "2315228ded510b704bbf0799500c0d9efc4529"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#深圳APEC主持人阵容拉满#",
+      "rank": 1,
+      "title": "深圳APEC主持人阵容拉满",
+      "topic_id": "2315228a4bde7788fe5aabd7d4232c75bf6f3e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#马斯克确认即将前往中国#",
+      "rank": 2,
+      "title": "马斯克确认即将前往中国",
+      "topic_id": "231522768c0248e3e7a56c213c0f34ab3add70"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#2026APEC这些看点值得期待#",
+      "rank": 3,
+      "title": "2026APEC这些看点值得期待",
+      "topic_id": "231522b4845bb55f9c5ce8f1372f5829ee0315"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "#雷军APEC发言#",
+      "rank": 4,
+      "title": "雷军APEC发言",
+      "topic_id": "231522b682c393a2b168ffe1b2fcc64360a2b2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#俄罗斯记者惊呼在深圳谁还用现金啊#",
+      "rank": 5,
+      "title": "俄罗斯记者惊呼在深圳谁还用现金啊",
+      "topic_id": "23152272992c961ec18cbddacfa912e06a0dbc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "王楚钦12号种子出战香港总决赛",
+      "rank": 6,
+      "title": "王楚钦12号种子出战香港总决赛",
+      "topic_id": "231522be7fd0f9173978a826e9b4bfafd7d4fd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#山姆上架国航3970元随心飞#",
+      "rank": 7,
+      "title": "山姆上架国航3970元随心飞",
+      "topic_id": "231522da562e36a59e6ac07e2642736c20d349"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#11岁舞蹈女孩午餐精确到100克#",
+      "rank": 8,
+      "title": "11岁舞蹈女孩午餐精确到100克",
+      "topic_id": "23152271b967dd3178e8b0b9abb7f4844d4f1c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#亚太合作如何改变日常生活#",
+      "rank": 9,
+      "title": "亚太合作如何改变日常生活",
+      "topic_id": "23152253665185685f4430e8dccd68a89f8622"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 20,
+      "posts": "saved",
+      "query": "#金价或跌到7字头#",
+      "rank": 10,
+      "title": "金价或跌到7字头",
+      "topic_id": "231522a592fe0d346d2ad6545be4c75172b9ed"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "杜海涛英语直播 全障碍交流",
+      "rank": 11,
+      "title": "杜海涛英语直播 全障碍交流",
+      "topic_id": "2315228da39d30866a10d13e6aa2e20bbf86e0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "#女子盒马仅退款400次零食堆成山#",
+      "rank": 12,
+      "title": "女子盒马仅退款400次零食堆成山",
+      "topic_id": "231522d7022c9bbe1df20ceedafd301d6cdb40"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "腾讯 字节",
+      "rank": 13,
+      "title": "腾讯 字节",
+      "topic_id": "231522d5b72d4a1b0ab4c3c09f20d645103b36"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#以为孙千拉腿了直到别人站过来#",
+      "rank": 14,
+      "title": "以为孙千拉腿了直到别人站过来",
+      "topic_id": "2315229c1fb8ea941e355dce238a174f05234f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#女子KTV遭陌生男搂抱骚扰监控曝光#",
+      "rank": 15,
+      "title": "女子KTV遭陌生男搂抱骚扰监控曝光",
+      "topic_id": "231522acb3130e91134c6f2530f89daf215fa1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#曝Gala小明或加入WBG#",
+      "rank": 16,
+      "title": "曝Gala小明或加入WBG",
+      "topic_id": "23152205a0c0864c5e794325c810525085bfce"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#原来王子璇也高反了#",
+      "rank": 17,
+      "title": "原来王子璇也高反了",
+      "topic_id": "23152288e18e27f59813ac186a0bc19bd69953"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#虞书欣2天2起争议是巧合吗#",
+      "rank": 18,
+      "title": "虞书欣2天2起争议是巧合吗",
+      "topic_id": "231522e6b305e8d0c72be44419c5672895f21d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#范丞丞还是老老实实演富二代吧#",
+      "rank": 19,
+      "title": "范丞丞还是老老实实演富二代吧",
+      "topic_id": "231522f90d5494793905d0e3a5d785a321d930"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#马斯克真身来中国数字分身赴纽约#",
+      "rank": 20,
+      "title": "马斯克真身来中国数字分身赴纽约",
+      "topic_id": "23152265859ab9fdc445957c07a7c5b5e8bdd4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "字节 微信",
+      "rank": 21,
+      "title": "字节 微信",
+      "topic_id": "2315224086b049971ae5bde3d764d6b1faffa8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 7,
+      "posts": "saved",
+      "query": "#536分捡漏上北大考生被公派瑞士读博#",
+      "rank": 22,
+      "title": "536分捡漏上北大考生被公派瑞士读博",
+      "topic_id": "231522ab841bbdcd1365cb192ac94467ea53d7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "字节 无班味聊天软件",
+      "rank": 23,
+      "title": "字节 无班味聊天软件",
+      "topic_id": "2315228a9787c26c02ed75acc15e7711669871"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "男性确认被爱的方式和你想的不一样",
+      "rank": 24,
+      "title": "男性确认被爱的方式和你想的不一样",
+      "topic_id": "23152235d0144edfa0b4022f167fcea915e1d5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "秋假",
+      "rank": 25,
+      "title": "秋假",
+      "topic_id": "231522795e98dfb8366e32dcb9e6615008783a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#Viper无缘S16一阵#",
+      "rank": 26,
+      "title": "Viper无缘S16一阵",
+      "topic_id": "2315220d1dcd02b14f0d7bab6c7c9c22c86539"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#深圳人竟给APEC晚宴疯狂安利猪脚饭#",
+      "rank": 27,
+      "title": "深圳人竟给APEC晚宴疯狂安利猪脚饭",
+      "topic_id": "2315224f44b09b00a61fe79731f7264a39f262"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "太阳雨德国篇 剧情人设OOC",
+      "rank": 28,
+      "title": "太阳雨德国篇 剧情人设OOC",
+      "topic_id": "231522d5df88199374f01d71800b3a4029a238"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "吴磊李昀锐你俩还敢看这一段吗",
+      "rank": 29,
+      "title": "吴磊李昀锐你俩还敢看这一段吗",
+      "topic_id": "231522284bf91af09361deb2ddfa21bb913752"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#金价2年后才能重回高位#",
+      "rank": 30,
+      "title": "金价2年后才能重回高位",
+      "topic_id": "23152292768e1910f80e45ad0f15fb602c1e70"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 26,
+      "posts": "saved",
+      "query": "华人双胞胎被不同家庭收养",
+      "rank": 31,
+      "title": "华人双胞胎被不同家庭收养",
+      "topic_id": "231522e7f52f0f1a20a305437f6e8774371cb3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "满足两个条件暧昧一定会发生",
+      "rank": 32,
+      "title": "满足两个条件暧昧一定会发生",
+      "topic_id": "2315229b370ff7412a787eb999d91a2d71c8a9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#字节只差一个聊天软件了#",
+      "rank": 33,
+      "title": "字节只差一个聊天软件了",
+      "topic_id": "231522f03fb99ba337419877f70c157e801ba7"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "APEC2026",
+      "rank": 34,
+      "title": "APEC2026",
+      "topic_id": "231522c767c89dfcc96b46da937f7b0c31654d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#信小呆奖品有效期仅1年#",
+      "rank": 35,
+      "title": "信小呆奖品有效期仅1年",
+      "topic_id": "2315227ee4ab205608c4259343c91a086899c2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "虞书欣演唱会",
+      "rank": 36,
+      "title": "虞书欣演唱会",
+      "topic_id": "231522aa03810bd8ce741a0b630a1f4b95c592"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#2岁孩子生命最后11天依然努力吃饭#",
+      "rank": 37,
+      "title": "2岁孩子生命最后11天依然努力吃饭",
+      "topic_id": "2315225f3080a24a1259606f3e07de6c1ec59b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#2岁孩子告别现场25岁妈妈失声痛哭#",
+      "rank": 38,
+      "title": "2岁孩子告别现场25岁妈妈失声痛哭",
+      "topic_id": "2315225935c1ea7475475c6c1813e29f6dba68"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#陈意礼do下巴#",
+      "rank": 39,
+      "title": "陈意礼do下巴",
+      "topic_id": "2315224b07e16791dc28a7e575e7da199a54fc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#张一山 一飞机全是明星#",
+      "rank": 40,
+      "title": "张一山 一飞机全是明星",
+      "topic_id": "2315224b776f675a6334058a2b4a8080c04195"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#雷军说具身智能机器人是巨大机会#",
+      "rank": 41,
+      "title": "雷军说具身智能机器人是巨大机会",
+      "topic_id": "231522ec332725f8978b33d1c50fc229b6465e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#厉娜再晚20分钟银行都下班了#",
+      "rank": 42,
+      "title": "厉娜再晚20分钟银行都下班了",
+      "topic_id": "231522e5212d08c293ca6d44ffb044abac903d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#许飞回应参加声生不息#",
+      "rank": 43,
+      "title": "许飞回应参加声生不息",
+      "topic_id": "2315222390aa7d3da75df3f2c7e017fc78cd3f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 22,
+      "posts": "saved",
+      "query": "深海恐惧症有了更深的理解",
+      "rank": 44,
+      "title": "深海恐惧症有了更深的理解",
+      "topic_id": "2315224dcc184c7f4b2ef1bef06e24728590b5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 8,
+      "posts": "saved",
+      "query": "#信小呆当旅游博主零食测评均失败#",
+      "rank": 45,
+      "title": "信小呆当旅游博主零食测评均失败",
+      "topic_id": "231522e4169dbbd4d503c355bdbe4a234a7ea3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#老公熬夜打游戏老婆求助网友截杀其ID#",
+      "rank": 46,
+      "title": "老公熬夜打游戏老婆求助网友截杀其ID",
+      "topic_id": "2315222303e0ce315b589f7bacd8287ec96069"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 20,
+      "posts": "saved",
+      "query": "#36岁男子吃饭顿顿用秤量妻子崩溃#",
+      "rank": 47,
+      "title": "36岁男子吃饭顿顿用秤量妻子崩溃",
+      "topic_id": "2315221ad8c48588d246e5c60abdc82e0e681a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#井柏然说谁还没过孩子#",
+      "rank": 48,
+      "title": "井柏然说谁还没过孩子",
+      "topic_id": "231522ea39bf20ba6bbb06a6696effdf8249da"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#8小时600块钱一般人这钱都不敢赚#",
+      "rank": 49,
+      "title": "8小时600块钱一般人这钱都不敢赚",
+      "topic_id": "2315224b2bd880ff91a2ef6f378f666f469eb6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 20,
+      "posts": "saved",
+      "query": "#电视如何能挽回年轻人的心#",
+      "rank": 50,
+      "title": "电视如何能挽回年轻人的心",
+      "topic_id": "231522665a645a84b3ea92859d8e5fa679c50b"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

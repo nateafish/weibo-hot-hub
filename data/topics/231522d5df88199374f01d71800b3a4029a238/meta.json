@@ -3,10 +3,10 @@
   "created_at": 1794896370,
   "first_seen_at": "2026-11-17T15:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-17T18:00:00+08:00",
+  "last_seen_at": "2026-11-17T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A4%AA%E9%98%B3%E9%9B%A8%E5%BE%B7%E5%9B%BD%E7%AF%87+%E5%89%A7%E6%83%85%E4%BA%BA%E8%AE%BEOOC%23%26t%3D3&title=发布媒体",
-    "show_str": "17家媒体",
+    "show_str": "16家媒体",
     "users": [
       {
         "id": 1744332207,
@@ -23,9 +23,16 @@
         "verified_type": 3
       },
       {
-        "id": 1280846847,
-        "idstr": "1280846847",
-        "screen_name": "指尖新闻-沈阳晚报",
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5396094153,
+        "idstr": "5396094153",
+        "screen_name": "大众新闻-大众日报",
         "verified": true,
         "verified_type": 3
       },
@@ -40,13 +47,6 @@
         "id": 6444725927,
         "idstr": "6444725927",
         "screen_name": "吉祥新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5396094153,
-        "idstr": "5396094153",
-        "screen_name": "大众新闻-大众日报",
         "verified": true,
         "verified_type": 3
       },
