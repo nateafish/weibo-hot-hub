@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { useSearchParams } from "next/navigation";
-import { useEffect, useMemo, useState } from "react";
+import { memo, type ReactNode, useEffect, useMemo, useState } from "react";
 import { EmptyState, ErrorState } from "@/components/app-state";
 import { PageHeader } from "@/components/page-header";
 import { Badge } from "@/components/ui/badge";
@@ -52,8 +52,19 @@ function EventHistory({ milestones }: { milestones: EventMilestone[] }) {
   );
 }
 
-function Timeline({ event, categories }: { event: ArchiveEvent; categories: EventCategories }) {
+function emptyHours(count: number, start: number) {
+  const maxColSpan = 1000;
+  return Array.from({ length: Math.ceil(count / maxColSpan) }, (_, chunk) => {
+    const offset = chunk * maxColSpan;
+    const span = Math.min(count - offset, maxColSpan);
+    return <td key={`empty-${start + offset}`} colSpan={span} className="event-timeline-empty border-l"
+      style={{ backgroundSize: `${100 / span}% 100%` }} />;
+  });
+}
+
+const Timeline = memo(function Timeline({ event, categories }: { event: ArchiveEvent; categories: EventCategories }) {
   const hours = [...new Set(event.members.flatMap(({ appearances }) => appearances.map(({ hour }) => hour)))].sort();
+  const columns = Object.fromEntries(hours.map((hour, index) => [hour, index]));
   return (
     <div className="max-h-[65vh] overflow-auto rounded-md border" tabIndex={0} aria-label="事件话题上榜时间线">
       <table className="min-w-full w-max text-sm">
@@ -66,29 +77,34 @@ function Timeline({ event, categories }: { event: ArchiveEvent; categories: Even
         <tbody>
           {event.members.map((member, index) => {
             const appearances = new Map(member.appearances.map((row) => [row.hour, row]));
+            const cells: ReactNode[] = [];
+            let nextColumn = 0;
+            for (const row of [...appearances.values()].sort((a, b) => columns[a.hour] - columns[b.hour])) {
+              const { hour } = row;
+              const column = columns[hour];
+              if (column > nextColumn) cells.push(...emptyHours(column - nextColumn, nextColumn));
+              cells.push(
+                <td className="border-l p-1 text-center" key={hour}>
+                  <a className="block rounded bg-primary/10 px-1.5 py-1 font-semibold text-primary hover:bg-primary/20"
+                    href={originalHotlist(event.revision, hour)} target="_blank" rel="noreferrer"
+                    title={row.heat == null ? undefined : `热度 ${formatNumber(row.heat)}`}
+                    aria-label={`${archiveHourLabel(hour)} 第 ${row.rank} 名，打开原榜`}>{row.rank}</a>
+                </td>,
+              );
+              nextColumn = column + 1;
+            }
+            if (nextColumn < hours.length) cells.push(...emptyHours(hours.length - nextColumn, nextColumn));
             return (
               <tr className="border-t" key={`${member.topic_id || member.title}-${index}`}>
                 <th scope="row" className="sticky left-0 max-w-48 border-r bg-card px-3 py-2 text-left font-medium">
-                  {member.topic_id ? <Link className="underline underline-offset-2" href={`/topic/?id=${encodeURIComponent(member.topic_id)}`}>{member.title}</Link> : member.title}
+                  {member.topic_id ? <Link prefetch={false} className="underline underline-offset-2" href={`/topic/?id=${encodeURIComponent(member.topic_id)}`}>{member.title}</Link> : member.title}
                   {member.reviewed && <Badge variant="secondary" className="ml-1.5">已确认</Badge>}
                   <span className="mt-1 block text-xs font-normal text-muted-foreground">
                     {(member.topic_id && categories.by_topic[member.topic_id]) || uncategorized}
                   </span>
-                  {member.topic_id && member.post_hour && <Link className="mt-1 block text-xs text-primary" href={originalPosts(member.topic_id, member.post_hour)}>存档正文</Link>}
+                  {member.topic_id && member.post_hour && <Link prefetch={false} className="mt-1 block text-xs text-primary" href={originalPosts(member.topic_id, member.post_hour)}>存档正文</Link>}
                 </th>
-                {hours.map((hour) => {
-                  const row = appearances.get(hour);
-                  return (
-                    <td className="border-l p-1 text-center" key={hour}>
-                      {row ? (
-                        <a className="block rounded bg-primary/10 px-1.5 py-1 font-semibold text-primary hover:bg-primary/20"
-                          href={originalHotlist(event.revision, hour)} target="_blank" rel="noreferrer"
-                          title={row.heat == null ? undefined : `热度 ${formatNumber(row.heat)}`}
-                          aria-label={`${archiveHourLabel(hour)} 第 ${row.rank} 名，打开原榜`}>{row.rank}</a>
-                      ) : <span className="text-muted-foreground">·</span>}
-                    </td>
-                  );
-                })}
+                {cells}
               </tr>
             );
           })}
@@ -96,19 +112,20 @@ function Timeline({ event, categories }: { event: ArchiveEvent; categories: Even
       </table>
     </div>
   );
-}
+});
 
 export function EventArchive() {
   const searchParams = useSearchParams();
   const [months, setMonths] = useState<EventMonth[]>([]);
   const [categories, setCategories] = useState<EventCategories | null>(null);
-  const [loaded, setLoaded] = useState<{ month: string; events: ArchiveEvent[] } | null>(null);
+  const [loadedMonths, setLoadedMonths] = useState<Record<string, ArchiveEvent[]>>({});
   const [query, setQuery] = useState("");
   const [page, setPage] = useState(1);
   const [error, setError] = useState("");
   const requestedMonth = searchParams.get("month");
   const selectedMonth = months.find(({ month }) => month === requestedMonth) || months[0];
   const month = selectedMonth?.month;
+  const monthEvents = month ? loadedMonths[month] : undefined;
   const options = useMemo(() => [...new Set(Object.values(categories?.by_topic || {}))]
     .sort((a, b) => a.localeCompare(b, "zh-CN")), [categories]);
   const requestedCategory = searchParams.get("category") || "";
@@ -119,44 +136,45 @@ export function EventArchive() {
 
   useEffect(() => {
     const controller = new AbortController();
-    Promise.all([loadEventMonths(controller.signal), loadEventCategories(controller.signal)]).then(([months, categories]) => {
-      setMonths(months);
-      setCategories(categories);
-    }).catch((failure: Error) => {
+    const onError = (failure: Error) => {
       if (!controller.signal.aborted) setError(failure.message);
-    });
+    };
+    loadEventMonths(controller.signal).then(setMonths).catch(onError);
+    loadEventCategories(controller.signal).then(setCategories).catch(onError);
     return () => controller.abort();
   }, []);
 
   useEffect(() => {
-    if (!month) return;
+    if (!month || monthEvents) return;
     const controller = new AbortController();
-    loadMonthEvents(month, controller.signal).then((events) => setLoaded({ month, events })).catch((failure: Error) => {
+    loadMonthEvents(month, controller.signal).then((events) => {
+      setLoadedMonths((loaded) => ({ ...loaded, [month]: events }));
+    }).catch((failure: Error) => {
       if (!controller.signal.aborted) setError(failure.message);
     });
     return () => controller.abort();
-  }, [month]);
+  }, [month, monthEvents]);
 
   const categorized = useMemo(() => {
-    if (!categories || loaded?.month !== month) return [];
+    if (!categories || !monthEvents) return [];
     const hidden = new Set(categories.hidden);
-    return (loaded?.events || []).map((event) => {
+    return monthEvents.map((event) => {
       const labels = [...new Set(event.members.map(({ topic_id }) => (topic_id && categories.by_topic[topic_id]) || uncategorized))];
       return {
         ...event,
         labels,
         hasEntertainment: labels.some((label) => hidden.has(label)),
         durationHours: archiveDurationHours(event),
+        searchTitles: [event.title, ...event.members.map(({ title }) => title)].map((title) => title.toLocaleLowerCase()),
       };
     });
-  }, [categories, loaded, month]);
+  }, [categories, monthEvents]);
 
   const results = useMemo(() => {
     const needle = query.trim().toLocaleLowerCase();
     const matches = categorized.filter((event) => {
       const matchesCategory = category === "all" || (category ? event.labels.includes(category) : !event.hasEntertainment);
-      return matchesCategory && (!needle || [event.title, ...event.members.map(({ title }) => title)]
-        .some((title) => title.toLocaleLowerCase().includes(needle)));
+      return matchesCategory && (!needle || event.searchTitles.some((title) => title.includes(needle)));
     });
     if (sort) {
       const direction = sort === "duration-desc" ? -1 : 1;
@@ -185,7 +203,7 @@ export function EventArchive() {
     <div className="page">
       <PageHeader title="事件档案" subtitle="查找同一事件的多个热搜话题，点榜位查看当时的原始榜单。" />
       {error && <ErrorState message={error} />}
-      {!error && !selectedMonth && <div className="loading-block h-48" />}
+      {!error && (!selectedMonth || !categories) && <div className="loading-block h-48" />}
       {selectedMonth && categories && (
         <>
           <div className="toolbar">
@@ -227,7 +245,7 @@ export function EventArchive() {
             · {formatNumber(selectedMonth.event_count)} 个事件
             · {formatNumber(selectedMonth.grouped)} 条话题时段已归组
           </p>
-          {loaded?.month !== month && !error ? <div className="loading-block h-80" /> : !selected ? (
+          {!monthEvents && !error ? <div className="loading-block h-80" /> : !selected ? (
             <EmptyState title="没有符合条件的事件" description="可以切换微博分类、月份或搜索词。" />
           ) : (
             <div className="grid items-start gap-4 lg:grid-cols-[minmax(240px,300px)_minmax(0,1fr)]">
