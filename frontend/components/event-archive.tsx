@@ -10,7 +10,7 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import {
-  type ArchiveEvent, type EventCategories, type EventMonth, archiveDurationHours, archiveDurationLabel,
+  type ArchiveEvent, type EventCategories, type EventMilestone, type EventMonth, archiveDurationHours, archiveDurationLabel,
   archiveHourLabel, loadEventCategories, loadEventMonths, loadMonthEvents, originalHotlist, originalPosts,
 } from "@/lib/event-archive";
 import { formatNumber } from "@/lib/format";
@@ -26,13 +26,39 @@ function eventHref(month: string, category: string, sort: string, id?: string) {
   return `/events/?${params}`;
 }
 
+function EventHistory({ milestones }: { milestones: EventMilestone[] }) {
+  return (
+    <section className="mb-6">
+      <h2 className="text-sm font-semibold">事件始末</h2>
+      <p className="mt-1 text-xs text-muted-foreground">报道与公告沿用当地日期，微博上榜时间为北京时间。</p>
+      <ol className="mt-3 divide-y">
+        {milestones.map(({ date, title, summary, sources }) => (
+          <li className="grid gap-1 py-3 text-sm first:pt-0 sm:grid-cols-[6rem_minmax(0,1fr)] sm:gap-3" key={date}>
+            <time className="text-xs leading-5 text-muted-foreground tabular-nums" dateTime={date}>{date}</time>
+            <div>
+              <h3 className="font-semibold">{title}</h3>
+              <p className="mt-1 leading-relaxed">{summary}</p>
+              <div className="mt-2 flex flex-wrap gap-x-3 gap-y-1 text-xs">
+                {sources.map(({ label, url }) => (
+                  <a className="text-primary underline underline-offset-2" key={url}
+                    href={url} target="_blank" rel="noreferrer">{label}</a>
+                ))}
+              </div>
+            </div>
+          </li>
+        ))}
+      </ol>
+    </section>
+  );
+}
+
 function Timeline({ event, categories }: { event: ArchiveEvent; categories: EventCategories }) {
   const hours = [...new Set(event.members.flatMap(({ appearances }) => appearances.map(({ hour }) => hour)))].sort();
   return (
-    <div className="overflow-auto rounded-md border" tabIndex={0} aria-label="事件话题上榜时间线">
+    <div className="max-h-[65vh] overflow-auto rounded-md border" tabIndex={0} aria-label="事件话题上榜时间线">
       <table className="min-w-full w-max text-sm">
-        <thead>
-          <tr className="bg-muted/55">
+        <thead className="sticky top-0 z-10">
+          <tr className="bg-muted">
             <th scope="col" className="sticky left-0 min-w-40 max-w-48 border-r bg-muted px-3 py-2 text-left">话题</th>
             {hours.map((hour) => <th scope="col" className="min-w-16 border-l px-2 py-2 text-center text-xs font-medium" key={hour}>{archiveHourLabel(hour, true)}</th>)}
           </tr>
@@ -141,8 +167,10 @@ export function EventArchive() {
   }, [categorized, category, query, sort]);
 
   const requestedId = searchParams.get("id");
-  const selected = results.find(({ id }) => id === requestedId)
-    || (!query.trim() && categorized.find(({ id }) => id === requestedId))
+  const matchesId = (event: ArchiveEvent) => requestedId !== null
+    && (event.id === requestedId || event.aliases?.includes(requestedId));
+  const selected = results.find(matchesId)
+    || (!query.trim() && categorized.find(matchesId))
     || results[0];
   const hiddenCount = categorized.filter(({ hasEntertainment }) => hasEntertainment).length;
   const pages = Math.max(1, Math.ceil(results.length / pageSize));
@@ -237,6 +265,7 @@ export function EventArchive() {
                   </div>
                 </CardHeader>
                 <CardContent>
+                  {!!selected.milestones?.length && <EventHistory milestones={selected.milestones} />}
                   <h2 className="mb-2 text-sm font-semibold">上榜时间线</h2>
                   <Timeline event={selected} categories={categories} />
                 </CardContent>

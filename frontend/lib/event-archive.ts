@@ -25,6 +25,13 @@ export interface EventMember {
   appearances: EventAppearance[];
 }
 
+export interface EventMilestone {
+  date: string;
+  title: string;
+  summary: string;
+  sources: { label: string; url: string }[];
+}
+
 export interface ArchiveEvent {
   id: string;
   title: string;
@@ -32,6 +39,8 @@ export interface ArchiveEvent {
   first: string;
   last: string;
   members: EventMember[];
+  aliases?: string[];
+  milestones?: EventMilestone[];
 }
 
 export interface EventCategories {
