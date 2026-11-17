@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1642904381
   },
-  "last_seen_at": "2026-11-17T15:00:00+08:00",
+  "last_seen_at": "2026-11-17T16:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%94%84%E5%AC%9B%E4%BC%A0%E8%BF%99%E4%B8%89%E9%9B%86%E6%92%AD%E6%94%BE%E9%87%8F%E6%9C%80%E9%AB%98%23%26t%3D3&title=发布媒体",
-    "show_str": "25家媒体",
+    "show_str": "30家媒体",
     "users": [
       {
         "id": 6418480627,
@@ -26,6 +26,20 @@
         "id": 2685336121,
         "idstr": "2685336121",
         "screen_name": "南宁晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1789681642,
+        "idstr": "1789681642",
+        "screen_name": "第一现场",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 7723617113,
         "idstr": "7723617113",
         "screen_name": "星娱乐star",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7723479601,
-        "idstr": "7723479601",
-        "screen_name": "star星视距",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7590570074,
-        "idstr": "7590570074",
-        "screen_name": "山海视频",
         "verified": true,
         "verified_type": 3
       }
