@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1699432410
   },
-  "last_seen_at": "2026-11-17T11:00:00+08:00",
+  "last_seen_at": "2026-11-17T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%2310%E6%9C%88%E8%B4%A7%E7%89%A9%E8%BF%9B%E5%87%BA%E5%8F%A3%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF31.2%25%23%26t%3D3&title=发布媒体",
-    "show_str": "14家媒体",
+    "show_str": "21家媒体",
     "users": [
       {
         "id": 1699432410,
         "idstr": "1699432410",
         "screen_name": "新华社",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -37,30 +44,23 @@
         "verified_type": 3
       },
       {
-        "id": 2921799343,
-        "idstr": "2921799343",
-        "screen_name": "天下泉城",
+        "id": 7488427843,
+        "idstr": "7488427843",
+        "screen_name": "世界金属导报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2685336121,
-        "idstr": "2685336121",
-        "screen_name": "南宁晚报",
+        "id": 7126605018,
+        "idstr": "7126605018",
+        "screen_name": "各界新闻网官微",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2291471981,
-        "idstr": "2291471981",
-        "screen_name": "济宁新闻网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2133637794,
-        "idstr": "2133637794",
-        "screen_name": "宜人宜宾",
+        "id": 3804173419,
+        "idstr": "3804173419",
+        "screen_name": "各界导报社官微",
         "verified": true,
         "verified_type": 3
       }

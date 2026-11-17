@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 6200688777
   },
-  "last_seen_at": "2026-11-17T11:00:00+08:00",
+  "last_seen_at": "2026-11-17T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8D%8E%E4%B8%BAOSTA%E5%9B%BE%E6%A0%87%23%26t%3D3&title=发布媒体",
-    "show_str": "12家媒体",
+    "show_str": "13家媒体",
     "users": [
       {
         "id": 1738006505,
@@ -28,6 +28,13 @@
         "screen_name": "共鸣视讯",
         "verified": true,
         "verified_type": 2
+      },
+      {
+        "id": 7575030448,
+        "idstr": "7575030448",
+        "screen_name": "白鹿视频",
+        "verified": true,
+        "verified_type": 3
       },
       {
         "id": 7520789718,
@@ -54,13 +61,6 @@
         "id": 5758267327,
         "idstr": "5758267327",
         "screen_name": "徽视点",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5325240805,
-        "idstr": "5325240805",
-        "screen_name": "铁骥视频海外频道",
         "verified": true,
         "verified_type": 3
       }

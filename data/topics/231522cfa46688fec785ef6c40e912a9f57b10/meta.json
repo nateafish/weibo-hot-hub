@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 6054450374
   },
-  "last_seen_at": "2026-11-17T11:00:00+08:00",
+  "last_seen_at": "2026-11-17T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BF%84%E7%BE%8E%E8%BF%90%E8%BE%93%E6%9C%BA%E4%BA%AE%E7%9B%B8%E6%B7%B1%E5%9C%B3%E5%AE%9D%E5%AE%89%E6%9C%BA%E5%9C%BA%23%26t%3D3&title=发布媒体",
-    "show_str": "22家媒体",
+    "show_str": "29家媒体",
     "users": [
       {
         "id": 6054450374,
@@ -30,6 +30,13 @@
         "verified_type": 3
       },
       {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2145932164,
         "idstr": "2145932164",
         "screen_name": "东莞日报",
@@ -37,30 +44,23 @@
         "verified_type": 3
       },
       {
+        "id": 1727472420,
+        "idstr": "1727472420",
+        "screen_name": "泰山晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1650111241,
+        "idstr": "1650111241",
+        "screen_name": "中国经营报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7360592502,
         "idstr": "7360592502",
         "screen_name": "粤TV文娱",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7335441449,
-        "idstr": "7335441449",
-        "screen_name": "粤TV精选",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6490759463,
-        "idstr": "6490759463",
-        "screen_name": "广东热点",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5539777260,
-        "idstr": "5539777260",
-        "screen_name": "菏泽日报",
         "verified": true,
         "verified_type": 3
       }

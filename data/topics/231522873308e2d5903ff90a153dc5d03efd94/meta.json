@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 5351798445
   },
-  "last_seen_at": "2026-11-17T11:00:00+08:00",
+  "last_seen_at": "2026-11-17T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%AE%B8%E9%A3%9E%E7%A9%BF%E4%BA%86%E6%AE%B7%E4%B8%96%E8%88%AA%E7%9A%84%E5%A2%9E%E9%AB%98%E9%9E%8B%23%26t%3D3&title=发布媒体",
-    "show_str": "7家媒体",
+    "show_str": "12家媒体",
     "users": [
+      {
+        "id": 1936119834,
+        "idstr": "1936119834",
+        "screen_name": "河北长城网",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 7596699767,
         "idstr": "7596699767",
@@ -37,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 2827102952,
+        "idstr": "2827102952",
+        "screen_name": "湖北日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2720822393,
         "idstr": "2720822393",
         "screen_name": "明白文娱",
@@ -47,20 +61,6 @@
         "id": 2720617213,
         "idstr": "2720617213",
         "screen_name": "泽诚文娱",
-        "verified": true,
-        "verified_type": 2
-      },
-      {
-        "id": 2286092114,
-        "idstr": "2286092114",
-        "screen_name": "中国蓝新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1709343950,
-        "idstr": "1709343950",
-        "screen_name": "希望文艺",
         "verified": true,
         "verified_type": 2
       }

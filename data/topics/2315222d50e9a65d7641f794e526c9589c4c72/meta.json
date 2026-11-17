@@ -10,11 +10,19 @@
     "status": 2,
     "uid": 7319615910
   },
-  "last_seen_at": "2026-11-17T11:00:00+08:00",
+  "last_seen_at": "2026-11-17T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23Doggo%E5%90%91Junjia%E9%81%93%E6%AD%89%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "1家媒体",
+    "users": [
+      {
+        "id": 2318910945,
+        "idstr": "2318910945",
+        "screen_name": "新浪热点",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#Doggo向Junjia道歉#",
   "search_url": "https://s.weibo.com/weibo?q=%23doggo%E5%90%91junjia%E9%81%93%E6%AD%89%23",
