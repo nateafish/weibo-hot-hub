@@ -1,4 +1,5 @@
 import { expect, test } from "@playwright/test";
+import type { ArchiveEvent } from "../lib/event-archive";
 
 test("home hotlist opens preview and full topic archive", async ({ page }) => {
   await page.goto("/");
@@ -22,8 +23,25 @@ test("archive preserves original ranking", async ({ page }) => {
 });
 
 test("event filters and event links work on the exported page", async ({ page }) => {
-  await page.goto("events/?month=2026-11&id=Ec91140c3e34856");
+  const id = "Ec91140c3e34856";
+  const month = page.waitForResponse((response) => new URL(response.url()).pathname.endsWith("/event-data/2026-11.json"));
+  await page.goto(`events/?month=2026-11&id=${id}`);
+  const { events } = await (await month).json() as { events: ArchiveEvent[] };
+  const event = events.find((item) => item.id === id)!;
+  const links = event.members.reduce((count, member) =>
+    count + new Set(member.appearances.map(({ hour }) => hour)).size, 0);
   await expect(page.getByRole("heading", { name: "事件始末" })).toBeVisible();
+  const timeline = page.getByRole("table");
+  await expect(timeline.locator("tbody tr")).toHaveCount(event.members.length);
+  await expect(timeline.locator("tbody td a")).toHaveCount(links);
+  expect(await timeline.locator("tbody td").count()).toBeLessThanOrEqual(links * 2 + event.members.length);
+  expect(await timeline.evaluate((element) => {
+    const table = element as HTMLTableElement;
+    const columnCount = table.tHead?.rows[0].cells.length;
+    return Array.from(table.tBodies[0].rows, (row) =>
+      Array.from(row.cells).reduce((count, cell) => count + cell.colSpan, 0),
+    ).every((width) => width === columnCount);
+  })).toBe(true);
   await page.route(/\/events\/(?:index|__next\.[^/]+)\.txt\b/, (route) => route.abort());
 
   await page.getByRole("combobox", { name: "微博分类" }).selectOption("all");
@@ -38,6 +56,22 @@ test("event filters and event links work on the exported page", async ({ page })
   await expect(page.getByText(/至 2026-10-30 16:00/)).toBeVisible();
   await page.getByRole("combobox", { name: "排序" }).selectOption("duration-desc");
   await expect(page).toHaveURL(/month=2026-10&category=all&sort=duration-desc/);
+});
+
+test("topic archive scrolls and searches across the full index", async ({ page }) => {
+  await page.goto("topics/");
+  const cards = page.locator(".topic-grid [data-slot='card']");
+  await expect(cards.first()).toBeVisible();
+  expect(await cards.count()).toBeLessThan(200);
+  const firstTitle = await cards.first().locator("[data-slot='card-title']").innerText();
+
+  await page.evaluate(() => window.scrollTo(0, document.documentElement.scrollHeight / 2));
+  await expect(cards.first().locator("[data-slot='card-title']")).not.toHaveText(firstTitle);
+  expect(await cards.count()).toBeLessThan(200);
+
+  await page.getByPlaceholder("搜索标题、主持人或分类").fill("黄仁勋承认出轨");
+  await page.getByText("黄仁勋承认出轨", { exact: true }).click();
+  await expect(page.getByRole("dialog").getByRole("heading", { name: "黄仁勋承认出轨" })).toBeVisible();
 });
 
 test("mobile navigation exposes all four pages", async ({ page }, testInfo) => {

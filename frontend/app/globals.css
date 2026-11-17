@@ -120,6 +120,11 @@
 .section-title { @apply mb-3 mt-6 text-sm font-medium; }
 .topic-summary { @apply text-sm leading-6 text-muted-foreground; }
 .topic-grid { @apply grid gap-4 md:grid-cols-2 xl:grid-cols-3; }
+.event-timeline-empty {
+  background-image: radial-gradient(circle, var(--muted-foreground) 1px, transparent 1.25px),
+    linear-gradient(to right, transparent calc(100% - 1px), var(--border) calc(100% - 1px));
+  background-repeat: repeat-x;
+}
 .detail-hero { @apply p-6; }
 .detail-hero-top { @apply flex flex-col gap-4 md:flex-row md:items-start md:justify-between; }
 .detail-hero h1 { @apply text-2xl font-semibold tracking-tight md:text-3xl; }
