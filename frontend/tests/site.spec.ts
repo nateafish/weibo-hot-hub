@@ -30,7 +30,8 @@ test("event filters and event links work on the exported page", async ({ page })
   const event = events.find((item) => item.id === id)!;
   const links = event.members.reduce((count, member) =>
     count + new Set(member.appearances.map(({ hour }) => hour)).size, 0);
-  await expect(page.getByRole("heading", { name: "事件始末" })).toBeVisible();
+  await expect(page.locator("[data-slot='card-title']")).toHaveText(event.title);
+  await expect(page.getByRole("heading", { name: "事件始末" })).toHaveCount(0);
   const timeline = page.getByRole("table");
   await expect(timeline.locator("tbody tr")).toHaveCount(event.members.length);
   await expect(timeline.locator("tbody td a")).toHaveCount(links);
@@ -46,10 +47,10 @@ test("event filters and event links work on the exported page", async ({ page })
 
   await page.getByRole("combobox", { name: "微博分类" }).selectOption("all");
   await expect(page).toHaveURL(/category=all/);
-  await page.getByRole("textbox", { name: "搜索事件" }).fill("美国全国航班停飞");
-  await page.getByRole("link", { name: /美国全国航班停飞及后续/ }).click();
+  await page.getByRole("textbox", { name: "搜索事件" }).fill("地面停飞");
+  await page.locator('a[href*="id=Ebcae683281cf07"]').click();
   await expect(page).toHaveURL(/id=Ebcae683281cf07/);
-  await expect(page.getByRole("heading", { name: "事件始末" })).toHaveCount(0);
+  await expect(page.locator("[data-slot='card-title']")).toHaveText("美全国范围实施地面停飞");
 
   await page.getByRole("textbox", { name: "搜索事件" }).clear();
   await page.getByRole("combobox", { name: "归档月份" }).selectOption("2026-10");

@@ -10,7 +10,7 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import {
-  type ArchiveEvent, type EventCategories, type EventMilestone, type EventMonth, archiveDurationHours, archiveDurationLabel,
+  type ArchiveEvent, type EventCategories, type EventMonth, archiveDurationHours, archiveDurationLabel,
   archiveHourLabel, loadEventCategories, loadEventMonths, loadMonthEvents, originalHotlist, originalPosts,
 } from "@/lib/event-archive";
 import { formatNumber } from "@/lib/format";
@@ -24,32 +24,6 @@ function eventSearch(month: string, category: string, sort: string, id?: string)
   if (sort) params.set("sort", sort);
   if (id) params.set("id", id);
   return `?${params}`;
-}
-
-function EventHistory({ milestones }: { milestones: EventMilestone[] }) {
-  return (
-    <section className="mb-6">
-      <h2 className="text-sm font-semibold">事件始末</h2>
-      <p className="mt-1 text-xs text-muted-foreground">报道与公告沿用当地日期，微博上榜时间为北京时间。</p>
-      <ol className="mt-3 divide-y">
-        {milestones.map(({ date, title, summary, sources }) => (
-          <li className="grid gap-1 py-3 text-sm first:pt-0 sm:grid-cols-[6rem_minmax(0,1fr)] sm:gap-3" key={date}>
-            <time className="text-xs leading-5 text-muted-foreground tabular-nums" dateTime={date}>{date}</time>
-            <div>
-              <h3 className="font-semibold">{title}</h3>
-              <p className="mt-1 leading-relaxed">{summary}</p>
-              <div className="mt-2 flex flex-wrap gap-x-3 gap-y-1 text-xs">
-                {sources.map(({ label, url }) => (
-                  <a className="text-primary underline underline-offset-2" key={url}
-                    href={url} target="_blank" rel="noreferrer">{label}</a>
-                ))}
-              </div>
-            </div>
-          </li>
-        ))}
-      </ol>
-    </section>
-  );
 }
 
 function emptyHours(count: number, start: number) {
@@ -184,8 +158,7 @@ export function EventArchive() {
   }, [categorized, category, query, sort]);
 
   const requestedId = searchParams.get("id");
-  const matchesId = (event: ArchiveEvent) => requestedId !== null
-    && (event.id === requestedId || event.aliases?.includes(requestedId));
+  const matchesId = (event: ArchiveEvent) => event.id === requestedId;
   const selected = results.find(matchesId)
     || (!query.trim() && categorized.find(matchesId))
     || results[0];
@@ -290,7 +263,6 @@ export function EventArchive() {
                   </div>
                 </CardHeader>
                 <CardContent>
-                  {!!selected.milestones?.length && <EventHistory milestones={selected.milestones} />}
                   <h2 className="mb-2 text-sm font-semibold">上榜时间线</h2>
                   <Timeline event={selected} categories={categories} />
                 </CardContent>
