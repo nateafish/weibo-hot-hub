@@ -10,11 +10,19 @@
     "status": 2,
     "uid": 2522098777
   },
-  "last_seen_at": "2026-11-17T14:00:00+08:00",
+  "last_seen_at": "2026-11-17T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23Zeus%E6%8D%A2T1%E5%A4%B4%E5%83%8F%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "1家媒体",
+    "users": [
+      {
+        "id": 2318910945,
+        "idstr": "2318910945",
+        "screen_name": "新浪热点",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#Zeus换T1头像#",
   "search_url": "https://s.weibo.com/weibo?q=%23zeus%E6%8D%A2t1%E5%A4%B4%E5%83%8F%23",

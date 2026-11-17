@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-17T15:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 1,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#多视角看深中通道踏浪海天#",
+      "rank": 1,
+      "title": "多视角看深中通道踏浪海天",
+      "topic_id": "231522413e79cb19b21d13b5a368ffcd1ad3e8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#于东来奖励员工310辆坦克700#",
+      "rank": 1,
+      "title": "于东来奖励员工310辆坦克700",
+      "topic_id": "231522d17e3f819afd86c8a9c1452df94e2b67"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#信小呆的1亿奖品清单#",
+      "rank": 2,
+      "title": "信小呆的1亿奖品清单",
+      "topic_id": "2315221e152d3e4a15792d507813635a610b97"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#2026年APEC工商领导人峰会#",
+      "rank": 3,
+      "title": "2026年APEC工商领导人峰会",
+      "topic_id": "231522572376b3a3cdda58ae923d267fade87a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#信小呆兑奖行程受限长期透支身体#",
+      "rank": 4,
+      "title": "信小呆兑奖行程受限长期透支身体",
+      "topic_id": "2315227ab2adf0a16e287163e1b1b8ff72ede2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#深圳APEC主持人阵容拉满#",
+      "rank": 5,
+      "title": "深圳APEC主持人阵容拉满",
+      "topic_id": "2315228a4bde7788fe5aabd7d4232c75bf6f3e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "太阳雨德国篇 剧情人设OOC",
+      "rank": 6,
+      "title": "太阳雨德国篇 剧情人设OOC",
+      "topic_id": "231522d5df88199374f01d71800b3a4029a238"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#王自如谈字节只差一个聊天软件了#",
+      "rank": 7,
+      "title": "王自如谈字节只差一个聊天软件了",
+      "topic_id": "231522cb6c246bc04c547c06fbff34ed98b030"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#NBA回应杨瀚森1篮板3助攻#",
+      "rank": 8,
+      "title": "NBA回应杨瀚森1篮板3助攻",
+      "topic_id": "23152206e4c777fcca644508c5a53323457ec8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 8,
+      "posts": "saved",
+      "query": "#亚太合作如何改变日常生活#",
+      "rank": 9,
+      "title": "亚太合作如何改变日常生活",
+      "topic_id": "23152253665185685f4430e8dccd68a89f8622"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#数说APEC中国年经贸成果#",
+      "rank": 10,
+      "title": "数说APEC中国年经贸成果",
+      "topic_id": "2315223fb2406f1d5d442f6d9a4d9d77f0ac71"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#信小呆中奖后抑郁了#",
+      "rank": 11,
+      "title": "信小呆中奖后抑郁了",
+      "topic_id": "23152297de4153e1a4aa0e448c8a0284692997"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#字节只差一个聊天软件了#",
+      "rank": 12,
+      "title": "字节只差一个聊天软件了",
+      "topic_id": "231522f03fb99ba337419877f70c157e801ba7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#信小呆称环游世界后落后了太多#",
+      "rank": 13,
+      "title": "信小呆称环游世界后落后了太多",
+      "topic_id": "2315222b81f6456d5eec3ee9a551b96aaed11f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#从100斤瘦到80斤堪比整容#",
+      "rank": 14,
+      "title": "从100斤瘦到80斤堪比整容",
+      "topic_id": "231522279df6a10a89d05f3efe7c78716a1c70"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#杨瀚森砍鲨战术#",
+      "rank": 15,
+      "title": "杨瀚森砍鲨战术",
+      "topic_id": "2315228d02c223b79d154349a76522fcce39bd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#甄嬛传播放量最高不是滴血验亲#",
+      "rank": 16,
+      "title": "甄嬛传播放量最高不是滴血验亲",
+      "topic_id": "2315223110d0e57c6c627117342da636f82506"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#原来王子璇去了不止一趟医院#",
+      "rank": 17,
+      "title": "原来王子璇去了不止一趟医院",
+      "topic_id": "231522caae6835b6f4376f3f1502f235890097"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#虞书欣明示#",
+      "rank": 18,
+      "title": "虞书欣明示",
+      "topic_id": "2315222fde094b4ea2c5403d007d5bb3c9207c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "A股",
+      "rank": 19,
+      "title": "A股",
+      "topic_id": "2315229ff55ef4a3e846e498a336fdeb06cbdb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#腾讯内部讲话曝光#",
+      "rank": 20,
+      "title": "腾讯内部讲话曝光",
+      "topic_id": "231522b79caa7ce4dc80a5fcd438fc67633251"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "男性确认被爱的方式和你想的不一样",
+      "rank": 21,
+      "title": "男性确认被爱的方式和你想的不一样",
+      "topic_id": "23152235d0144edfa0b4022f167fcea915e1d5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#Gumayusi回不了T1#",
+      "rank": 22,
+      "title": "Gumayusi回不了T1",
+      "topic_id": "231522af04bd7c91b5b03ae3c2053f961d5b2e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#虞书欣新综艺开机#",
+      "rank": 23,
+      "title": "虞书欣新综艺开机",
+      "topic_id": "23152222b8b012a80ff024dd12c9ad7e93f1ab"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#甄嬛传这三集播放量最高#",
+      "rank": 24,
+      "title": "甄嬛传这三集播放量最高",
+      "topic_id": "2315226335b7741801f1da46a9b1fe7742894c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#Zeus换T1头像#",
+      "rank": 25,
+      "title": "Zeus换T1头像",
+      "topic_id": "231522283a3f55fbd0631d793ebe99fe4f80ca"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "信小呆辞职兑奖花光积蓄",
+      "rank": 26,
+      "title": "信小呆辞职兑奖花光积蓄",
+      "topic_id": "231522dafb3c6adc14d796015431560453f519"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#深圳之眼撞上APEC会标#",
+      "rank": 27,
+      "title": "深圳之眼撞上APEC会标",
+      "topic_id": "231522bf6d6a7eb36e3076b805a112e3d78cc8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "AI短剧持械入宋爆火",
+      "rank": 28,
+      "title": "AI短剧持械入宋爆火",
+      "topic_id": "231522f9047d5bd2f3b551fee3825931bde6c8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张檬和儿子断母乳抱头痛哭#",
+      "rank": 29,
+      "title": "张檬和儿子断母乳抱头痛哭",
+      "topic_id": "2315220eb4e65f6110e4ddd5caea8829c03321"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#早春晴朗未授权短剧开发#",
+      "rank": 30,
+      "title": "早春晴朗未授权短剧开发",
+      "topic_id": "23152284141067e3986e64a0e6db5e822fcc55"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#戈贝尔回应杨瀚森砍鲨战术#",
+      "rank": 31,
+      "title": "戈贝尔回应杨瀚森砍鲨战术",
+      "topic_id": "231522d8e840b2fc37837f5046c2abbbed4d6b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "全民进入低电量过日子时代",
+      "rank": 32,
+      "title": "全民进入低电量过日子时代",
+      "topic_id": "2315226e95bfe9959516e6c9d1693d08265385"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王楚然去年滴眼药水就不眨眼#",
+      "rank": 33,
+      "title": "王楚然去年滴眼药水就不眨眼",
+      "topic_id": "2315221eb2424c48148d436c48bfce04a1c502"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#40岁孕妇羊水穿刺牵出丈夫肠道癌变#",
+      "rank": 34,
+      "title": "40岁孕妇羊水穿刺牵出丈夫肠道癌变",
+      "topic_id": "231522dcb88925e3c5379cac0162d1eb2ffdb1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#8小时600块钱一般人这钱都不敢赚#",
+      "rank": 35,
+      "title": "8小时600块钱一般人这钱都不敢赚",
+      "topic_id": "2315224b2bd880ff91a2ef6f378f666f469eb6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#智利总统夫人与中方女保镖互动#",
+      "rank": 36,
+      "title": "智利总统夫人与中方女保镖互动",
+      "topic_id": "2315226c0734bcd210317d2b7f271140568c62"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#36岁男子吃饭顿顿用秤量妻子崩溃#",
+      "rank": 37,
+      "title": "36岁男子吃饭顿顿用秤量妻子崩溃",
+      "topic_id": "2315221ad8c48588d246e5c60abdc82e0e681a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#华为门店曝星芒阔直板4000元起#",
+      "rank": 38,
+      "title": "华为门店曝星芒阔直板4000元起",
+      "topic_id": "2315223ed27a51627d7530de011175dc841b76"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "BLG决赛语音 我们是冠军",
+      "rank": 39,
+      "title": "BLG决赛语音 我们是冠军",
+      "topic_id": "2315229e36561dfdbe1344c462852808878ec4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#Doinb吐槽百万粉早教博主内容是毒教材#",
+      "rank": 40,
+      "title": "Doinb吐槽百万粉早教博主内容是毒教材",
+      "topic_id": "2315228c8bbd01018e5ce3713b31c7b6ea955e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "吴磊李昀锐你俩还敢看这一段吗",
+      "rank": 41,
+      "title": "吴磊李昀锐你俩还敢看这一段吗",
+      "topic_id": "231522284bf91af09361deb2ddfa21bb913752"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "吃了点didi喂",
+      "rank": 42,
+      "title": "吃了点didi喂",
+      "topic_id": "23152288ea3bd41d93c27e5102f6fed288e109"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#峨眉山来了群女弟子节目声明#",
+      "rank": 43,
+      "title": "峨眉山来了群女弟子节目声明",
+      "topic_id": "23152214b02abe52f9c963dd57f64cbc634a57"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#信小呆曾说没钱没工作有抑郁倾向#",
+      "rank": 44,
+      "title": "信小呆曾说没钱没工作有抑郁倾向",
+      "topic_id": "231522e6c0049eb1cbfa1e97b54ad0bba832bf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#工人高空作业安全绳被住户割断#",
+      "rank": 45,
+      "title": "工人高空作业安全绳被住户割断",
+      "topic_id": "231522365c0208d3f36c70af8908611980e1f5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "金价银价下跌",
+      "rank": 46,
+      "title": "金价银价下跌",
+      "topic_id": "23152201cb879336ad4915b72324afb5d4a661"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#田栩宁一天官宣一本杂志一部综艺#",
+      "rank": 47,
+      "title": "田栩宁一天官宣一本杂志一部综艺",
+      "topic_id": "231522b01bd3b98b84533b62597e917251df55"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#声生不息2定档#",
+      "rank": 48,
+      "title": "声生不息2定档",
+      "topic_id": "2315222f4159662a2eed84a343ed091daa68e0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#10月货物进出口同比增长31.2%#",
+      "rank": 49,
+      "title": "10月货物进出口同比增长31.2%",
+      "topic_id": "231522fd3a9819b9ad94160838705089a9520a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#冷空气来袭多地降温#",
+      "rank": 50,
+      "title": "冷空气来袭多地降温",
+      "topic_id": "23152230eb0495fee9d69d169860d12421561a"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

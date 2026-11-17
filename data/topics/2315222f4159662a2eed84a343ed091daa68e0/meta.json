@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 6511177474
   },
-  "last_seen_at": "2026-11-17T14:00:00+08:00",
+  "last_seen_at": "2026-11-17T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF2%E5%AE%9A%E6%A1%A3%23%26t%3D3&title=发布媒体",
-    "show_str": "13家媒体",
+    "show_str": "20家媒体",
     "users": [
       {
         "id": 1280846847,
         "idstr": "1280846847",
         "screen_name": "指尖新闻-沈阳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7728745629,
+        "idstr": "7728745629",
+        "screen_name": "中新文娱",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6253454836,
+        "idstr": "6253454836",
+        "screen_name": "郑报融媒体中心",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1843633441,
+        "idstr": "1843633441",
+        "screen_name": "搜狐娱乐",
         "verified": true,
         "verified_type": 3
       },
@@ -40,27 +61,6 @@
         "id": 6579672073,
         "idstr": "6579672073",
         "screen_name": "中国娱乐网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6253454836,
-        "idstr": "6253454836",
-        "screen_name": "郑报融媒体中心",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5743120946,
-        "idstr": "5743120946",
-        "screen_name": "鄱阳发布",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2992050891,
-        "idstr": "2992050891",
-        "screen_name": "北京时间",
         "verified": true,
         "verified_type": 3
       }
