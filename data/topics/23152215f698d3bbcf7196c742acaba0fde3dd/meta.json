@@ -3,7 +3,7 @@
   "created_at": 1795067182,
   "first_seen_at": "2026-11-19T15:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-20T00:00:00+08:00",
+  "last_seen_at": "2026-11-20T01:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%8E%8B%E5%AD%90%E7%92%87%E7%99%BD%E7%9C%BC%23%26t%3D3&title=发布媒体",
     "show_str": "40家媒体",
@@ -12,6 +12,13 @@
         "id": 2252846093,
         "idstr": "2252846093",
         "screen_name": "长春新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7422806367,
+        "idstr": "7422806367",
+        "screen_name": "中网传播",
         "verified": true,
         "verified_type": 3
       },
@@ -47,13 +54,6 @@
         "id": 7590570074,
         "idstr": "7590570074",
         "screen_name": "山海视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5539777260,
-        "idstr": "5539777260",
-        "screen_name": "菏泽日报",
         "verified": true,
         "verified_type": 3
       }
