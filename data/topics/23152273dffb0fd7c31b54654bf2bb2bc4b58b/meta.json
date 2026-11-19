@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1847582585
   },
-  "last_seen_at": "2026-11-19T18:00:00+08:00",
+  "last_seen_at": "2026-11-19T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%8F%E5%84%BF%E5%AD%90%E8%AF%B4%E4%B8%AD%E5%9B%BD%E6%98%AF%E7%8E%A9%E5%85%B7%E5%A4%A9%E5%A0%82%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "12家媒体",
     "users": [
       {
         "id": 1847582585,
         "idstr": "1847582585",
         "screen_name": "都市快报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2286092114,
+        "idstr": "2286092114",
+        "screen_name": "中国蓝新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -37,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 2813313591,
+        "idstr": "2813313591",
+        "screen_name": "中新网海南",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2655668590,
         "idstr": "2655668590",
         "screen_name": "城报",
@@ -44,16 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1827021883,
-        "idstr": "1827021883",
-        "screen_name": "德州晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1280846847,
-        "idstr": "1280846847",
-        "screen_name": "指尖新闻-沈阳晚报",
+        "id": 2075245652,
+        "idstr": "2075245652",
+        "screen_name": "长春晚报",
         "verified": true,
         "verified_type": 3
       }
