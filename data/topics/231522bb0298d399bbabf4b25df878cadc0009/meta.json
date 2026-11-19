@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2803301701
   },
-  "last_seen_at": "2026-11-19T19:00:00+08:00",
+  "last_seen_at": "2026-11-19T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E6%B7%B1%E5%9C%B3%E7%9C%9F%E7%9A%84%E6%98%AF%E4%B8%AA%E9%9D%9E%E5%B8%B8%E6%A3%92%E7%9A%84%E5%9F%8E%E5%B8%82%23%26t%3D3&title=发布媒体",
-    "show_str": "18家媒体",
+    "show_str": "24家媒体",
     "users": [
       {
         "id": 2803301701,
@@ -30,6 +30,20 @@
         "verified_type": 3
       },
       {
+        "id": 1959444680,
+        "idstr": "1959444680",
+        "screen_name": "云南网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1642512402,
+        "idstr": "1642512402",
+        "screen_name": "中国新闻周刊",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1752825395,
         "idstr": "1752825395",
         "screen_name": "光明网",
@@ -37,30 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 1644489953,
+        "idstr": "1644489953",
+        "screen_name": "南方都市报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7360594450,
         "idstr": "7360594450",
         "screen_name": "海客新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5652470745,
-        "idstr": "5652470745",
-        "screen_name": "广西都市频道",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5539777260,
-        "idstr": "5539777260",
-        "screen_name": "菏泽日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5476386628,
-        "idstr": "5476386628",
-        "screen_name": "侠客岛",
         "verified": true,
         "verified_type": 3
       }
