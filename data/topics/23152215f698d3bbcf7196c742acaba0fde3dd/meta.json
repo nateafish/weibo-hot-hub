@@ -3,10 +3,10 @@
   "created_at": 1795067182,
   "first_seen_at": "2026-11-19T15:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-19T20:00:00+08:00",
+  "last_seen_at": "2026-11-19T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%8E%8B%E5%AD%90%E7%92%87%E7%99%BD%E7%9C%BC%23%26t%3D3&title=发布媒体",
-    "show_str": "38家媒体",
+    "show_str": "37家媒体",
     "users": [
       {
         "id": 2252846093,
@@ -30,6 +30,13 @@
         "verified_type": 3
       },
       {
+        "id": 1043320390,
+        "idstr": "1043320390",
+        "screen_name": "半岛晨报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7708039348,
         "idstr": "7708039348",
         "screen_name": "北青娱见",
@@ -47,13 +54,6 @@
         "id": 5539777260,
         "idstr": "5539777260",
         "screen_name": "菏泽日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2674977220,
-        "idstr": "2674977220",
-        "screen_name": "网易娱乐频道",
         "verified": true,
         "verified_type": 3
       }
