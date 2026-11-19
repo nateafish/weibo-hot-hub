@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 2572247607
   },
-  "last_seen_at": "2026-11-19T23:00:00+08:00",
+  "last_seen_at": "2026-11-20T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%9D%92%E7%A8%9A%E5%9B%9E%E5%BA%94%E7%8E%8B%E6%A0%8E%E9%91%AB%23%26t%3D3&title=发布媒体",
-    "show_str": "12家媒体",
+    "show_str": "17家媒体",
     "users": [
       {
         "id": 1751714412,
         "idstr": "1751714412",
         "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7723774651,
+        "idstr": "7723774651",
+        "screen_name": "星财经Pro",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7723617113,
+        "idstr": "7723617113",
+        "screen_name": "星娱乐star",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7723479601,
+        "idstr": "7723479601",
+        "screen_name": "star星视距",
         "verified": true,
         "verified_type": 3
       },
@@ -40,27 +61,6 @@
         "id": 6004281123,
         "idstr": "6004281123",
         "screen_name": "梨视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3514732862,
-        "idstr": "3514732862",
-        "screen_name": "广西日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2992050891,
-        "idstr": "2992050891",
-        "screen_name": "北京时间",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2356298087,
-        "idstr": "2356298087",
-        "screen_name": "河北经视",
         "verified": true,
         "verified_type": 3
       }
