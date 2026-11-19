@@ -1,0 +1,213 @@
+{
+  "captured_at": "2026-11-19T18:00:00+08:00",
+  "contributors": [
+    {
+      "contribution": 24,
+      "profile_url": "https://weibo.com/u/1618051664",
+      "rank": 1,
+      "uid": "1618051664",
+      "username": "头条新闻",
+      "verified": true,
+      "verified_type": 3
+    },
+    {
+      "contribution": 17,
+      "profile_url": "https://weibo.com/u/2699180811",
+      "rank": 2,
+      "uid": "2699180811",
+      "username": "图数室",
+      "verified": true,
+      "verified_type": 3
+    },
+    {
+      "contribution": 16,
+      "profile_url": "https://weibo.com/u/5785020794",
+      "rank": 3,
+      "uid": "5785020794",
+      "username": "Kk-大神",
+      "verified": false,
+      "verified_type": -1
+    },
+    {
+      "contribution": 12,
+      "profile_url": "https://weibo.com/u/1775895885",
+      "rank": 4,
+      "uid": "1775895885",
+      "username": "热浪直播间",
+      "verified": true,
+      "verified_type": 7
+    },
+    {
+      "contribution": 11,
+      "profile_url": "https://weibo.com/u/7519584823",
+      "rank": 5,
+      "uid": "7519584823",
+      "username": "新浪新闻热榜",
+      "verified": true,
+      "verified_type": 7
+    },
+    {
+      "contribution": 11,
+      "profile_url": "https://weibo.com/u/7419690694",
+      "rank": 6,
+      "uid": "7419690694",
+      "username": "微博民生",
+      "verified": true,
+      "verified_type": 7
+    },
+    {
+      "contribution": 10,
+      "profile_url": "https://weibo.com/u/7467066314",
+      "rank": 7,
+      "uid": "7467066314",
+      "username": "环球汽车观察",
+      "verified": true,
+      "verified_type": 7
+    },
+    {
+      "contribution": 10,
+      "profile_url": "https://weibo.com/u/5754568288",
+      "rank": 8,
+      "uid": "5754568288",
+      "username": "薛沐川",
+      "verified": true,
+      "verified_type": 0
+    },
+    {
+      "contribution": 10,
+      "profile_url": "https://weibo.com/u/2516798477",
+      "rank": 9,
+      "uid": "2516798477",
+      "username": "新浪文化",
+      "verified": true,
+      "verified_type": 3
+    },
+    {
+      "contribution": 10,
+      "profile_url": "https://weibo.com/u/1640601392",
+      "rank": 10,
+      "uid": "1640601392",
+      "username": "新浪视频",
+      "verified": true,
+      "verified_type": 7
+    }
+  ],
+  "contributors_scheme": "sinaweibo://cardlist?containerid=231522type%3D103%26q%3D%23%E7%A9%BF%E8%A1%A3%E4%B8%8D%E6%98%AF%E8%B6%8A%E5%8E%9A%E8%B6%8A%E4%BF%9D%E6%9A%96%23&title=话题贡献者排行",
+  "current_boards": {
+    "hot_band": {
+      "ori": {
+        "category": "科学科普",
+        "is_boom": 0,
+        "num": 212380,
+        "onband": 1,
+        "onboard_time": 1795081941,
+        "pos": 50,
+        "subject_querys": [],
+        "transparency_tag": null
+      },
+      "scheme": "sinaweibo://pageinfo?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Drealtimehot&title=热搜榜&extparam=",
+      "sub_info": [],
+      "text": "热搜榜第50位"
+    },
+    "hot_band_24_hour": {
+      "ori": {
+        "on_band": 1
+      }
+    }
+  },
+  "exact_counts": {
+    "buy_num": 0,
+    "g_mention": 1381,
+    "gone_num": 0,
+    "interact": 5104,
+    "mention": 1381,
+    "ori_m": 62,
+    "ori_uv": 61,
+    "r_valid": 1943187,
+    "read": 2105183,
+    "rec_num": 0,
+    "show": 0,
+    "star": 2,
+    "t_m_num": 687,
+    "t_r_num": 2146827,
+    "wants_num": 0
+  },
+  "heat": 2,
+  "overview": {
+    "24h": {
+      "interaction": {
+        "unit": "",
+        "val": 5104
+      },
+      "mention": {
+        "unit": "",
+        "val": 1381
+      },
+      "original": {
+        "unit": "",
+        "val": 62
+      },
+      "read": {
+        "unit": "万",
+        "val": 209.6
+      }
+    },
+    "30d": {
+      "interaction": {
+        "unit": "",
+        "val": 5104
+      },
+      "mention": {
+        "unit": "",
+        "val": 1381
+      },
+      "original": {
+        "unit": "",
+        "val": 62
+      },
+      "read": {
+        "unit": "万",
+        "val": 209.6
+      }
+    },
+    "all": {
+      "interaction": {
+        "unit": "",
+        "val": 5104
+      },
+      "mention": {
+        "unit": "",
+        "val": 1381
+      },
+      "original": {
+        "unit": "",
+        "val": 62
+      },
+      "read": {
+        "unit": "万",
+        "val": 210.5
+      }
+    }
+  },
+  "rank_history": [
+    {
+      "cate": "hot_board",
+      "cate_desc": "热搜榜",
+      "duration_hour": 0,
+      "duration_minute": 37,
+      "duration_mod_min": 37,
+      "off_board_time": "202611191828",
+      "on_board_time": "202611191752",
+      "top_pos": 47,
+      "topic_flag": 1
+    }
+  ],
+  "title": "穿衣不是越厚越保暖",
+  "topic_id": "23152255b6533f017d5c6730904cc6a9a2111b",
+  "window_counts": {
+    "1h_mention": 406,
+    "1h_ori_m": 25,
+    "24h_mention": 1381,
+    "24h_read": 2095839
+  }
+}
