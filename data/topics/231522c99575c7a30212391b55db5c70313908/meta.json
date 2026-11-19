@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 3203137375
   },
-  "last_seen_at": "2026-11-19T15:00:00+08:00",
+  "last_seen_at": "2026-11-19T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8F%88%E5%B8%A6%E7%9D%80%E5%B0%8F%E5%84%BF%E5%AD%90%E6%9D%A5%E4%B8%AD%E5%9B%BD%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "9家媒体",
+    "show_str": "26家媒体",
     "users": [
       {
         "id": 3203137375,
         "idstr": "3203137375",
         "screen_name": "四川观察",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7520789718,
+        "idstr": "7520789718",
+        "screen_name": "铁骥视频科技频道",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7141087529,
+        "idstr": "7141087529",
+        "screen_name": "铁骥视频",
         "verified": true,
         "verified_type": 3
       },
@@ -40,27 +61,6 @@
         "id": 6524418706,
         "idstr": "6524418706",
         "screen_name": "四川观察新视线",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2685336121,
-        "idstr": "2685336121",
-        "screen_name": "南宁晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1959182407,
-        "idstr": "1959182407",
-        "screen_name": "龙头视野",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1738004582,
-        "idstr": "1738004582",
-        "screen_name": "纵览新闻",
         "verified": true,
         "verified_type": 3
       }

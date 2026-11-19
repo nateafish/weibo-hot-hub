@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1726426884
   },
-  "last_seen_at": "2026-11-19T15:00:00+08:00",
+  "last_seen_at": "2026-11-19T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%8F%E5%84%BF%E5%AD%90%E8%AF%B4%E7%88%B1%E4%B8%AD%E5%9B%BD%23%26t%3D3&title=发布媒体",
-    "show_str": "69家媒体",
+    "show_str": "101家媒体",
     "users": [
       {
         "id": 1726426884,
@@ -23,9 +23,23 @@
         "verified_type": 3
       },
       {
+        "id": 2118120483,
+        "idstr": "2118120483",
+        "screen_name": "青岛日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1751714412,
         "idstr": "1751714412",
         "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 6221932120,
         "idstr": "6221932120",
         "screen_name": "直新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2628314830,
-        "idstr": "2628314830",
-        "screen_name": "合肥晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2118120483,
-        "idstr": "2118120483",
-        "screen_name": "青岛日报",
         "verified": true,
         "verified_type": 3
       }

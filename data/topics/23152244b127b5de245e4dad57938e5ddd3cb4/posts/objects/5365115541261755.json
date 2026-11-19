@@ -1,0 +1,17 @@
+{
+  "account": {
+    "badge": "金V",
+    "observed_at": "2026-11-19T17:26:27+08:00",
+    "source": "mobile_user",
+    "verified": true,
+    "verified_reason": "数码博主",
+    "verified_type": 0,
+    "verified_type_ext": 1
+  },
+  "body": "抛开后训练崩坏掉的 Fable 5.2 不谈，GPT-6 Astra 的许愿式编程能力为什么要比 Opus 5.5 差很多，跟模型和 Codex 的 Harness 都有关。\n我举个比较夸张的例子说明 GPT-6 Astra 的问题：用户说给我做一辆油车，Astra 做到发动机的时候说因为用户要做一辆油车，因此我把没有电池加入到单元测试中，做完蓄电池以后，单元测试挂了，Astra 说单元测试挂了，因为要求不能有蓄电池，让我移除蓄电池，最后 Astra 告诉你做完了，你问它为什么打不着火，Astra 告诉你因为不能有蓄电池，所以采用了推动打火的设计。\n这里一方面是 Astra 防御性编程过于严重，一方面是 Codex 没有引导模型主动把用户的重要约束放到全局记忆的机制，导致模型会把自己的决策和记忆也当做约束。\n虽然解决这个问题的 skill 很多，但是效果对长程的许愿式编程都比较差，目前最好的方案似乎还是让 Kimi K3 或者 Opus 5.5 做 Planner，Kimi K3.1 Pro 会被 Astra 的防御性编程思维打断，认为进行不下去了需要用户确认，反而不太行。",
+  "created_at_text": "Sat Nov 14 11:24:47 +0800 2026",
+  "mid": "5365115541261755",
+  "uid": "2213561393",
+  "url": "https://m.weibo.cn/detail/5365115541261755",
+  "username": "魔法师蛋小丁"
+}

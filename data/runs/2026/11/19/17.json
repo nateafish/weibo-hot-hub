@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-19T17:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#APEC领导人宣言#",
+      "rank": 1,
+      "title": "APEC领导人宣言",
+      "topic_id": "231522902ab0385637f2ab4e59785729660a94"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#中俄美三国元首会晤#",
+      "rank": 1,
+      "title": "中俄美三国元首会晤",
+      "topic_id": "2315226878e0d4b2b085f6c0c63c315769f445"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#中俄美元首一张圆桌三个座位#",
+      "rank": 2,
+      "title": "中俄美元首一张圆桌三个座位",
+      "topic_id": "231522bf3832a7f0e31e2ab26d560acd7abef9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#APEC强劲发力激活亚太经贸新动能#",
+      "rank": 3,
+      "title": "APEC强劲发力激活亚太经贸新动能",
+      "topic_id": "231522a3f3efcce10e6fb1fb28a8d7682aaf1d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#APEC领导人休息室温馨画面#",
+      "rank": 4,
+      "title": "APEC领导人休息室温馨画面",
+      "topic_id": "231522d7655993624a681bd4e630013deeaf01"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#中方回应高市早苗礼宾安排#",
+      "rank": 5,
+      "title": "中方回应高市早苗礼宾安排",
+      "topic_id": "231522c09eef5290e67d7a0a19f3b9b804b396"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "竞燃之夜红毯",
+      "rank": 6,
+      "title": "竞燃之夜红毯",
+      "topic_id": "231522b24f7f4da8a99c9a24e07111804e7ee5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#陈晓楠回应喊停文吉儿王子璇谈话#",
+      "rank": 7,
+      "title": "陈晓楠回应喊停文吉儿王子璇谈话",
+      "topic_id": "231522e21d8c9a36e2c9b6646ccce6095ddc4b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "微博竞燃之夜",
+      "rank": 8,
+      "title": "微博竞燃之夜",
+      "topic_id": "231522d78336fd420d016b5b0b1ddae1b076cb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#APEC中国年进入高光时刻#",
+      "rank": 9,
+      "title": "APEC中国年进入高光时刻",
+      "topic_id": "2315229aae07914ff2b395396dbed993cf511b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#马天宇哭到张萌后悔#",
+      "rank": 10,
+      "title": "马天宇哭到张萌后悔",
+      "topic_id": "23152241d88cc26cc35806c80d612fb0ab608e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#胖东来撤走后降到四百万依然没有人接盘#",
+      "rank": 11,
+      "title": "胖东来撤走后降到四百万依然没有人接盘",
+      "topic_id": "231522d0f928771255081e13d688463958352a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "陈晓楠评价文吉儿",
+      "rank": 12,
+      "title": "陈晓楠评价文吉儿",
+      "topic_id": "231522a21a07bb0c5223d028f9831cb93bdb7b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#特朗普总统说请中国继续保持强大#",
+      "rank": 13,
+      "title": "特朗普总统说请中国继续保持强大",
+      "topic_id": "231522f25da4ae1372ef92d22ed9b87fa76d92"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "白小纯 青稚",
+      "rank": 14,
+      "title": "白小纯 青稚",
+      "topic_id": "231522e1dc9ba05e89a0912c543f9d2dc8f4bf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#马天宇对王子璇说给你贷款会觉得有危险#",
+      "rank": 15,
+      "title": "马天宇对王子璇说给你贷款会觉得有危险",
+      "topic_id": "23152294a0d57cb18edf08552969c8dcf65148"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#被捂死女童生父一家拒养凶手女儿#",
+      "rank": 16,
+      "title": "被捂死女童生父一家拒养凶手女儿",
+      "topic_id": "2315224594a79b637f0997bae45ab250a998d1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#中美元首深圳会晤#",
+      "rank": 17,
+      "title": "中美元首深圳会晤",
+      "topic_id": "231522cab45483be17906974c157aaff33fe0c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#杨超越董思成亲了4小时的吻戏#",
+      "rank": 18,
+      "title": "杨超越董思成亲了4小时的吻戏",
+      "topic_id": "2315227d27c87390b9d8e30e24acb559a64a7d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝青稚白小纯竞燃之夜分开坐#",
+      "rank": 19,
+      "title": "曝青稚白小纯竞燃之夜分开坐",
+      "topic_id": "2315225b0839eb96561e617ca48fa625c34eae"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#华为超薄表#",
+      "rank": 20,
+      "title": "华为超薄表",
+      "topic_id": "231522119fb94312e626242be9e5d4effa63ec"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#APEC记者们已经累瘫了#",
+      "rank": 21,
+      "title": "APEC记者们已经累瘫了",
+      "topic_id": "23152206dbcaef683fe26452e635d2095b9e04"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#马斯克又带着小儿子来中国了#",
+      "rank": 22,
+      "title": "马斯克又带着小儿子来中国了",
+      "topic_id": "231522c99575c7a30212391b55db5c70313908"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#马斯克小儿子说爱中国#",
+      "rank": 23,
+      "title": "马斯克小儿子说爱中国",
+      "topic_id": "23152289bd9b6b1ecb075e2e9d05ed8cd2f313"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "猫因主人聋哑逐渐学会了肢体语言",
+      "rank": 24,
+      "title": "猫因主人聋哑逐渐学会了肢体语言",
+      "topic_id": "23152207d965c9020899718363a2fdde988eb9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#婆婆羡慕孙子被抱下一秒被儿媳抱起#",
+      "rank": 25,
+      "title": "婆婆羡慕孙子被抱下一秒被儿媳抱起",
+      "topic_id": "231522c88a423bda6f06b807abbe53a252dd10"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "于东来不还价撤店",
+      "rank": 26,
+      "title": "于东来不还价撤店",
+      "topic_id": "23152244e67377b08d46c627579e3f3870fb2b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "爱奇艺退市警告 会员权益",
+      "rank": 27,
+      "title": "爱奇艺退市警告 会员权益",
+      "topic_id": "231522d315da40d46ffdddaea8482660676ce8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "对刘宇宁的身高有了具象化表达",
+      "rank": 28,
+      "title": "对刘宇宁的身高有了具象化表达",
+      "topic_id": "23152270a11797e2be8b994077270ec7559125"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#曝JDG下路二选一#",
+      "rank": 29,
+      "title": "曝JDG下路二选一",
+      "topic_id": "231522afdcef42ae648f2c1e13758f305380d7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "爱奇艺 会员",
+      "rank": 30,
+      "title": "爱奇艺 会员",
+      "topic_id": "231522d2c5680fc02dd233f0c3c5028ce5de7f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#深圳市民街头偶遇多国政要#",
+      "rank": 31,
+      "title": "深圳市民街头偶遇多国政要",
+      "topic_id": "231522a9a581267bbf66485734b7bb72945ecb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#特朗普会见普京时打趣问这是谁#",
+      "rank": 32,
+      "title": "特朗普会见普京时打趣问这是谁",
+      "topic_id": "231522eb49bf9cbcaecb04210c12da4be307fa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#特朗普说美国不支持台独#",
+      "rank": 33,
+      "title": "特朗普说美国不支持台独",
+      "topic_id": "231522ca611fbd4ec43725b0b0b0ad16a4520b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#特朗普说深圳真的是个非常棒的城市#",
+      "rank": 34,
+      "title": "特朗普说深圳真的是个非常棒的城市",
+      "topic_id": "231522bb0298d399bbabf4b25df878cadc0009"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#朱志鑫耳朵沿虚线剪开#",
+      "rank": 35,
+      "title": "朱志鑫耳朵沿虚线剪开",
+      "topic_id": "231522537a8d41f28f0db9f39bf23153e69ded"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "后会友期暴露人性的不止嘉宾",
+      "rank": 36,
+      "title": "后会友期暴露人性的不止嘉宾",
+      "topic_id": "2315221203187cdf5a623b2a005f6349164784"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#甄嬛传剧组故意没让颖儿学礼仪#",
+      "rank": 37,
+      "title": "甄嬛传剧组故意没让颖儿学礼仪",
+      "topic_id": "23152227cc1a126c3ce2198128de61342e6954"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#许飞曾说仓央情歌情绪太重#",
+      "rank": 38,
+      "title": "许飞曾说仓央情歌情绪太重",
+      "topic_id": "231522d2a18fbbb3d6ecab8eee274e55c63d5a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#金店老板说金价已经到底了#",
+      "rank": 39,
+      "title": "金店老板说金价已经到底了",
+      "topic_id": "231522837a7a2b05eb647bd6ab997ed3e828fa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#上海大爷假结婚帮人入学10年难离婚#",
+      "rank": 40,
+      "title": "上海大爷假结婚帮人入学10年难离婚",
+      "topic_id": "2315229e61594d537fac42df99dc100feb1d6e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#中俄美元首座驾首次同框#",
+      "rank": 41,
+      "title": "中俄美元首座驾首次同框",
+      "topic_id": "231522065bd65149618d5100766dd7e63a7a1f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "王一博 演唱会",
+      "rank": 42,
+      "title": "王一博 演唱会",
+      "topic_id": "2315229bc09e48783c5f5c0044fddfd8a8543b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "许飞 我们没有掰",
+      "rank": 43,
+      "title": "许飞 我们没有掰",
+      "topic_id": "231522c71d1aaeba1bd3f9d17eabc7f884fa64"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "兰州监狱 追责争议",
+      "rank": 44,
+      "title": "兰州监狱 追责争议",
+      "topic_id": "231522f5b6c4c078470afd071c7fc64c5b9138"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#液氧乐队主唱张宇去世#",
+      "rank": 45,
+      "title": "液氧乐队主唱张宇去世",
+      "topic_id": "2315221c782e20cbba58aa666249815a3b6df8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#两京拍了兰香如故送太子那段#",
+      "rank": 46,
+      "title": "两京拍了兰香如故送太子那段",
+      "topic_id": "231522675d982aba55dcedb8d015a22de2f936"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#在竞燃之夜拿到大结果了#",
+      "rank": 47,
+      "title": "在竞燃之夜拿到大结果了",
+      "topic_id": "231522829f4052b9ff4f0bacb1b3d9cbccd4e0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#真正的蛋白质脂肪和碳水#",
+      "rank": 48,
+      "title": "真正的蛋白质脂肪和碳水",
+      "topic_id": "2315227c150e4c60b44907963057a7ebfcd0d2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "Kimi崩了",
+      "rank": 49,
+      "title": "Kimi崩了",
+      "topic_id": "23152244b127b5de245e4dad57938e5ddd3cb4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#迪奥圣诞活动群星阵容#",
+      "rank": 50,
+      "title": "迪奥圣诞活动群星阵容",
+      "topic_id": "231522517896ed59c0afb43c90078aed4d6bfc"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
