@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-19T22:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 1,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#中美关系总体稳定向好#",
+      "rank": 1,
+      "title": "中美关系总体稳定向好",
+      "topic_id": "2315229bb2c20b7183d8bb0f6062443e0e374c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#中俄美元首和平宣言#",
+      "rank": 1,
+      "title": "中俄美元首和平宣言",
+      "topic_id": "231522ea0648ae5a44038432db7e382f4dedc6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#特朗普登上空军一号挥手告别#",
+      "rank": 2,
+      "title": "特朗普登上空军一号挥手告别",
+      "topic_id": "2315226364840dfbe650c0151b964d7408a451"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#建设亚太共同体续写亚太奇迹新篇章#",
+      "rank": 3,
+      "title": "建设亚太共同体续写亚太奇迹新篇章",
+      "topic_id": "23152260860b1d6c97a54da56dc45bf2c3a444"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#APEC晚宴用荔枝冰酒销量暴增900倍#",
+      "rank": 4,
+      "title": "APEC晚宴用荔枝冰酒销量暴增900倍",
+      "topic_id": "2315221e3ce41b6c34c9d2465dd23eda568eb9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#APEC晚宴荔枝冰酒折后178元1瓶#",
+      "rank": 5,
+      "title": "APEC晚宴荔枝冰酒折后178元1瓶",
+      "topic_id": "2315223f0b783c966fb9ee037812ffa48c3e25"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#中方回应高市早苗礼宾安排#",
+      "rank": 6,
+      "title": "中方回应高市早苗礼宾安排",
+      "topic_id": "231522c09eef5290e67d7a0a19f3b9b804b396"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#普京说这些把中俄美联系在一起#",
+      "rank": 7,
+      "title": "普京说这些把中俄美联系在一起",
+      "topic_id": "23152285b4dc61902be6f7fbcb4552a13b09c7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "中国男篮14人出征名单",
+      "rank": 8,
+      "title": "中国男篮14人出征名单",
+      "topic_id": "2315227d2ec434e068e98c046116e2ed2d2bd7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#亚太创新从来不是抽象概念#",
+      "rank": 9,
+      "title": "亚太创新从来不是抽象概念",
+      "topic_id": "231522abf4fb86d0441b6eedefb156fdd14de7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#中俄美元首一张圆桌三个座位#",
+      "rank": 10,
+      "title": "中俄美元首一张圆桌三个座位",
+      "topic_id": "231522bf3832a7f0e31e2ab26d560acd7abef9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "白小纯 青稚",
+      "rank": 11,
+      "title": "白小纯 青稚",
+      "topic_id": "231522e1dc9ba05e89a0912c543f9d2dc8f4bf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王子璇把马天宇张萌梭哈了#",
+      "rank": 12,
+      "title": "王子璇把马天宇张萌梭哈了",
+      "topic_id": "23152214e39d273ac0f666038ec4e987448839"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#蒋欣要拍后会无期了#",
+      "rank": 13,
+      "title": "蒋欣要拍后会无期了",
+      "topic_id": "2315227dd3681a8b273debff5976da53a3039b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#Dior点灯活动合照C位#",
+      "rank": 14,
+      "title": "Dior点灯活动合照C位",
+      "topic_id": "231522af5be595931d10ddb88533cafd5088b0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#胖东来撤走后降到四百万依然没有人接盘#",
+      "rank": 15,
+      "title": "胖东来撤走后降到四百万依然没有人接盘",
+      "topic_id": "231522d0f928771255081e13d688463958352a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "文吉儿 态度",
+      "rank": 16,
+      "title": "文吉儿 态度",
+      "topic_id": "2315222aa4da4f8deda7134176916bb925e895"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#白小纯获奖给青稚镜头#",
+      "rank": 17,
+      "title": "白小纯获奖给青稚镜头",
+      "topic_id": "231522d6654d09142f72706fb10fe148c1cc9d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#20多天婴儿被喂白开水中毒肾损伤#",
+      "rank": 18,
+      "title": "20多天婴儿被喂白开水中毒肾损伤",
+      "topic_id": "231522164e11cfee6f1c80dc07ca4d2610853d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#阿里巴巴二季度业绩#",
+      "rank": 19,
+      "title": "阿里巴巴二季度业绩",
+      "topic_id": "231522651a5f48808067dcd4fa3c51b9c58e7d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "老芒果诡计多端",
+      "rank": 20,
+      "title": "老芒果诡计多端",
+      "topic_id": "2315225ba7382da7abdb1431bfa4eaabedb1da"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "王子璇白眼",
+      "rank": 21,
+      "title": "王子璇白眼",
+      "topic_id": "23152215f698d3bbcf7196c742acaba0fde3dd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#九尾的红毯look被耳机抢镜了#",
+      "rank": 22,
+      "title": "九尾的红毯look被耳机抢镜了",
+      "topic_id": "231522e0ca823ec3c4632f0f5461b3d36176a2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#赵丽颖王仁君曹翠芬一起走红毯#",
+      "rank": 23,
+      "title": "赵丽颖王仁君曹翠芬一起走红毯",
+      "topic_id": "231522a2bde1ec848e1264accf63ba002536e9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王栎鑫青稚聊后会友期#",
+      "rank": 24,
+      "title": "王栎鑫青稚聊后会友期",
+      "topic_id": "231522ad13316c88d422e0822f1951d9902cf1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#周也王楚然王玉雯迪奥活动造型#",
+      "rank": 25,
+      "title": "周也王楚然王玉雯迪奥活动造型",
+      "topic_id": "231522e3ce1b393c304e552bf8497a5cfcf3cc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#伊能静能不能常驻#",
+      "rank": 26,
+      "title": "伊能静能不能常驻",
+      "topic_id": "231522ce8e21a0208d109a0afec95f86db644e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#韩国满分考生被曝AI作弊后身亡#",
+      "rank": 27,
+      "title": "韩国满分考生被曝AI作弊后身亡",
+      "topic_id": "23152211147309838a3e33336444073670cf52"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#杨超越18年和25年的跳舞对比#",
+      "rank": 28,
+      "title": "杨超越18年和25年的跳舞对比",
+      "topic_id": "231522a6f513df39c998d838d200fb00b19be2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#三国会晤播下的种子必将生根发芽开花结果#",
+      "rank": 29,
+      "title": "三国会晤播下的种子必将生根发芽开花结果",
+      "topic_id": "2315220f699475a790ba0216503eb24871da76"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "厉娜被看出心理治疗痕迹",
+      "rank": 30,
+      "title": "厉娜被看出心理治疗痕迹",
+      "topic_id": "231522e5a710be7e261c35c39c80b137d4d9cb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曹翠芬发言赵丽颖快哭了#",
+      "rank": 31,
+      "title": "曹翠芬发言赵丽颖快哭了",
+      "topic_id": "231522e12e707dfb0809741782f07bac9460f0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "伊能静说没被好好爱的孩子是幸存者",
+      "rank": 32,
+      "title": "伊能静说没被好好爱的孩子是幸存者",
+      "topic_id": "231522611fd19b1c5fab073f90e49035b5d401"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "为什么痛车越来越多了",
+      "rank": 33,
+      "title": "为什么痛车越来越多了",
+      "topic_id": "2315229a7f0e4ee83b175a3a908c08a551cc1f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#太阳雨后四集是被夺舍了吗#",
+      "rank": 34,
+      "title": "太阳雨后四集是被夺舍了吗",
+      "topic_id": "231522b2d3484e1b40b5247fc8a8fff82c00cc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "直接把缅因给打成兔子了",
+      "rank": 35,
+      "title": "直接把缅因给打成兔子了",
+      "topic_id": "231522361d53af07649956c6b09b366b0545aa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#深圳市民遇普京车队心跳猛加速#",
+      "rank": 36,
+      "title": "深圳市民遇普京车队心跳猛加速",
+      "topic_id": "23152219155b12dfcccb687f26e6bbd2142d2e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "陈晓楠评价文吉儿",
+      "rank": 37,
+      "title": "陈晓楠评价文吉儿",
+      "topic_id": "231522a21a07bb0c5223d028f9831cb93bdb7b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#特朗普离开会晤现场#",
+      "rank": 38,
+      "title": "特朗普离开会晤现场",
+      "topic_id": "2315220c40cc4a8be0f9e8a0f4202148603ec7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#被赞长沙胖东来餐厅一年亏100多万#",
+      "rank": 39,
+      "title": "被赞长沙胖东来餐厅一年亏100多万",
+      "topic_id": "231522c307dfcfd4f95771f1f589446df9ef5c"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 4,
+      "posts": "saved",
+      "query": "#和平是人类社会的永恒期盼#",
+      "rank": 40,
+      "title": "和平是人类社会的永恒期盼",
+      "topic_id": "2315224aa18cd05314f385f7ff01cd25aa259d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#尹烨谈为什么AI干不掉生命科学#",
+      "rank": 41,
+      "title": "尹烨谈为什么AI干不掉生命科学",
+      "topic_id": "231522c2390773f42ab3c30b00e42eddc87b12"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#比亚迪折叠方向盘发布#",
+      "rank": 42,
+      "title": "比亚迪折叠方向盘发布",
+      "topic_id": "23152259e4b9957bb3313ce787463569993930"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#APEC记者们已经累瘫了#",
+      "rank": 43,
+      "title": "APEC记者们已经累瘫了",
+      "topic_id": "23152206dbcaef683fe26452e635d2095b9e04"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#特朗普说APEC办得非常成功#",
+      "rank": 44,
+      "title": "特朗普说APEC办得非常成功",
+      "topic_id": "23152247bfa031376db4c48997527b532f0d32"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#韩国总统夫人被舞狮英歌舞表演圈粉#",
+      "rank": 45,
+      "title": "韩国总统夫人被舞狮英歌舞表演圈粉",
+      "topic_id": "231522be88a5e8d4ed75237244db3553e250d1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 8,
+      "posts": "saved",
+      "query": "#这就是Dior点灯活动C位的含金量吗#",
+      "rank": 46,
+      "title": "这就是Dior点灯活动C位的含金量吗",
+      "topic_id": "2315221b484a417034cbee2f441c349e92bfba"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#董路获奖感谢农夫山泉帮助#",
+      "rank": 47,
+      "title": "董路获奖感谢农夫山泉帮助",
+      "topic_id": "2315226134ed38c47ddd9ad270c3983935ae10"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#慌啥子嘛被4岁男孩唱明白了#",
+      "rank": 48,
+      "title": "慌啥子嘛被4岁男孩唱明白了",
+      "topic_id": "2315225833e2a095f65d30f78eaac4035fb7d5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 6,
+      "posts": "saved",
+      "query": "#白小纯33说啥呢#",
+      "rank": 49,
+      "title": "白小纯33说啥呢",
+      "topic_id": "23152298d858d6b47d6cebb915103cef29c2b4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#中俄美三国元首会晤#",
+      "rank": 50,
+      "title": "中俄美三国元首会晤",
+      "topic_id": "2315226878e0d4b2b085f6c0c63c315769f445"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
