@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 7323270704
   },
-  "last_seen_at": "2026-11-20T22:00:00+08:00",
+  "last_seen_at": "2026-11-20T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E6%94%B6%E8%A7%86%E7%8E%87%23%26t%3D3&title=发布媒体",
-    "show_str": "7家媒体",
+    "show_str": "16家媒体",
     "users": [
       {
         "id": 1642592432,
@@ -23,9 +23,30 @@
         "verified_type": 3
       },
       {
+        "id": 1043320390,
+        "idstr": "1043320390",
+        "screen_name": "半岛晨报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 5324630614,
         "idstr": "5324630614",
         "screen_name": "饭娱乐官方微博",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2460937233,
+        "idstr": "2460937233",
+        "screen_name": "热度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2027480085,
+        "idstr": "2027480085",
+        "screen_name": "水母网",
         "verified": true,
         "verified_type": 3
       },
@@ -40,27 +61,6 @@
         "id": 2685336121,
         "idstr": "2685336121",
         "screen_name": "南宁晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1796087453,
-        "idstr": "1796087453",
-        "screen_name": "荔枝新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1656737654,
-        "idstr": "1656737654",
-        "screen_name": "现代快报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1288429914,
-        "idstr": "1288429914",
-        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       }

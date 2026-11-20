@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2334113635
   },
-  "last_seen_at": "2026-11-20T22:00:00+08:00",
+  "last_seen_at": "2026-11-20T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%9F%A9%E7%BD%91%E7%83%AD%E8%AE%AE%E8%BF%AA%E5%A5%A5%E5%90%88%E7%85%A7%E8%BA%AB%E9%AB%98%E5%B7%AE%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "2家媒体",
     "users": [
       {
         "id": 2703033997,
         "idstr": "2703033997",
         "screen_name": "海峡都市报莆田新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1652484947,
+        "idstr": "1652484947",
+        "screen_name": "新快报",
         "verified": true,
         "verified_type": 3
       }

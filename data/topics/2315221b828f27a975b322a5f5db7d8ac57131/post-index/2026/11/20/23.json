@@ -1,0 +1,55 @@
+{
+  "accounts": {
+    "5367449551902302": {
+      "badge": "无徽标",
+      "observed_at": "2026-11-20T23:13:47+08:00",
+      "source": "mobile_user",
+      "verified": false,
+      "verified_type": -1
+    },
+    "5367449625039632": {
+      "badge": "无徽标",
+      "observed_at": "2026-11-20T23:13:47+08:00",
+      "source": "mobile_user",
+      "verified": false,
+      "verified_type": -1
+    },
+    "5367451221230680": {
+      "badge": "黄V",
+      "observed_at": "2026-11-20T23:13:47+08:00",
+      "source": "mobile_user",
+      "verified": true,
+      "verified_reason": "娱乐博主",
+      "verified_type": 0,
+      "verified_type_ext": 0
+    },
+    "5367451244302441": {
+      "badge": "无徽标",
+      "observed_at": "2026-11-20T23:13:47+08:00",
+      "source": "mobile_user",
+      "verified": false,
+      "verified_type": -1
+    },
+    "5367451659273025": {
+      "badge": "金V",
+      "observed_at": "2026-11-20T23:13:47+08:00",
+      "source": "mobile_user",
+      "verified": true,
+      "verified_reason": "娱乐博主",
+      "verified_type": 0,
+      "verified_type_ext": 1
+    }
+  },
+  "captured_at": "2026-11-20T23:00:00+08:00",
+  "pages": [
+    [
+      "5367451659273025",
+      "5367451244302441",
+      "5367451221230680",
+      "5367449625039632",
+      "5367449551902302"
+    ]
+  ],
+  "topic_id": "2315221b828f27a975b322a5f5db7d8ac57131",
+  "unique_posts": 5
+}
