@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1720962692
   },
-  "last_seen_at": "2026-11-20T16:00:00+08:00",
+  "last_seen_at": "2026-11-20T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A5%B3%E5%8F%8B%E6%8D%82%E6%AD%BB3%E5%B2%81%E5%A5%B3%E5%84%BF%E7%94%9F%E7%88%B6%E5%9B%9E%E5%BA%94%E5%86%B7%E8%A1%80%E4%B8%8D%E5%93%AD%23%26t%3D3&title=发布媒体",
-    "show_str": "28家媒体",
+    "show_str": "36家媒体",
     "users": [
       {
         "id": 1720962692,
@@ -30,9 +30,23 @@
         "verified_type": 3
       },
       {
+        "id": 1738004582,
+        "idstr": "1738004582",
+        "screen_name": "纵览新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7611147927,
         "idstr": "7611147927",
         "screen_name": "济南时报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7495303005,
+        "idstr": "7495303005",
+        "screen_name": "薛城区融媒体中心",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 5758267327,
         "idstr": "5758267327",
         "screen_name": "徽视点",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5145725878,
-        "idstr": "5145725878",
-        "screen_name": "沸点视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3966988353,
-        "idstr": "3966988353",
-        "screen_name": "尤溪县广播电视台",
         "verified": true,
         "verified_type": 3
       }
