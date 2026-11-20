@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 5899831415
   },
-  "last_seen_at": "2026-11-20T19:00:00+08:00",
+  "last_seen_at": "2026-11-20T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%AE%B8%E9%A3%9E%E6%88%91%E6%84%BF%E6%84%8F%E7%BB%99%E4%BD%A0%E8%8A%B1%E9%92%B1%E4%BD%A0%E7%9F%A5%E9%81%93%E4%B8%8D%23%26t%3D3&title=发布媒体",
-    "show_str": "9家媒体",
+    "show_str": "16家媒体",
     "users": [
+      {
+        "id": 2075245652,
+        "idstr": "2075245652",
+        "screen_name": "长春晚报",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 7708039348,
         "idstr": "7708039348",
@@ -37,6 +44,13 @@
         "verified_type": -1
       },
       {
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2659523842,
         "idstr": "2659523842",
         "screen_name": "黔东南融媒",
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2075245652,
-        "idstr": "2075245652",
-        "screen_name": "长春晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1867427515,
-        "idstr": "1867427515",
-        "screen_name": "新派新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1802564537,
-        "idstr": "1802564537",
-        "screen_name": "新派观察",
+        "id": 2460937233,
+        "idstr": "2460937233",
+        "screen_name": "热度新闻",
         "verified": true,
         "verified_type": 3
       }

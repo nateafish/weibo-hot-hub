@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 1845864154
   },
-  "last_seen_at": "2026-11-20T19:00:00+08:00",
+  "last_seen_at": "2026-11-20T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%80%BB%E7%BB%9F%E5%8F%91%E6%96%87%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%E5%A5%B3%E4%BF%9D%E9%95%96%23%26t%3D3&title=发布媒体",
-    "show_str": "12家媒体",
+    "show_str": "20家媒体",
     "users": [
+      {
+        "id": 2286092114,
+        "idstr": "2286092114",
+        "screen_name": "中国蓝新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1845864154,
         "idstr": "1845864154",
@@ -26,6 +33,13 @@
         "id": 1941424392,
         "idstr": "1941424392",
         "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1717833412,
+        "idstr": "1717833412",
+        "screen_name": "华商报",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 6268375888,
         "idstr": "6268375888",
         "screen_name": "看看新闻全球眼",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2647971081,
-        "idstr": "2647971081",
-        "screen_name": "时速新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2232583344,
-        "idstr": "2232583344",
-        "screen_name": "阜阳新闻网",
         "verified": true,
         "verified_type": 3
       }
