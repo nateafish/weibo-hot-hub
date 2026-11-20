@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-20T19:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#习近平会见印度尼西亚总统普拉博沃#",
+      "rank": 1,
+      "title": "习近平会见印度尼西亚总统普拉博沃",
+      "topic_id": "2315229fcd8df9274462b17f250a5c39c4ab29"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#特朗普刚返美就发重大预告#",
+      "rank": 1,
+      "title": "特朗普刚返美就发重大预告",
+      "topic_id": "23152230866836c436362af9c7f185bcc59e3a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "余承东说用L3开车可以睡觉",
+      "rank": 2,
+      "title": "余承东说用L3开车可以睡觉",
+      "topic_id": "231522b45febd72028359540c3a0a33043bc7f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#一图读懂APEC合作如何惠及百姓生活#",
+      "rank": 3,
+      "title": "一图读懂APEC合作如何惠及百姓生活",
+      "topic_id": "23152252dc1097a6cbdd8ced5fc7bab8089e38"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#孕妈预产期喝半斤白酒紧急送医#",
+      "rank": 4,
+      "title": "孕妈预产期喝半斤白酒紧急送医",
+      "topic_id": "231522a8d43a034c6f812a157cea9574e59f1f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#余承东纠正发布会发言#",
+      "rank": 5,
+      "title": "余承东纠正发布会发言",
+      "topic_id": "231522fead8183bea3ad20e5190eb9fd743818"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#NBA回应文班亚马跳投式扣篮#",
+      "rank": 6,
+      "title": "NBA回应文班亚马跳投式扣篮",
+      "topic_id": "2315224c7be6fea36c5b61ff19ca01bb51b284"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#蔡天凤案又现重大转折#",
+      "rank": 7,
+      "title": "蔡天凤案又现重大转折",
+      "topic_id": "2315223d095449c2e362710c3ecc1172bbc45f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "PEL",
+      "rank": 8,
+      "title": "PEL",
+      "topic_id": "231522d8e971e22ddbcbc5c7f08dbec5b0ce0d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#2026APEC东道主成果清单#",
+      "rank": 9,
+      "title": "2026APEC东道主成果清单",
+      "topic_id": "2315220e541c693fb8824daa00eb8022fd84da"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#领导人自己挑APEC红蓝围巾颜色#",
+      "rank": 10,
+      "title": "领导人自己挑APEC红蓝围巾颜色",
+      "topic_id": "23152280f50de28915c2662b16c38f2f8d3e0a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#金价跌了囤金人被气笑了#",
+      "rank": 11,
+      "title": "金价跌了囤金人被气笑了",
+      "topic_id": "231522d27f525320079e8ebc9703713703b1c2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#晋妈直播说李勒优不想走她铺好的路#",
+      "rank": 12,
+      "title": "晋妈直播说李勒优不想走她铺好的路",
+      "topic_id": "2315224593733c86ae1432f3e6f48ec6e766c0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "许飞我愿意给你花钱你知道不",
+      "rank": 13,
+      "title": "许飞我愿意给你花钱你知道不",
+      "topic_id": "231522980f3b2d494be1d8a72ee853b135d48c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#金智秀身高#",
+      "rank": 14,
+      "title": "金智秀身高",
+      "topic_id": "2315223e8623114fa0ebc5c70d3652fa94dcf2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#孙俪女儿拉丁舞比赛被人撞倒2次#",
+      "rank": 15,
+      "title": "孙俪女儿拉丁舞比赛被人撞倒2次",
+      "topic_id": "2315222a0585025249493a49db7f61401006c2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#日方称中方接待高市早苗符合惯例#",
+      "rank": 16,
+      "title": "日方称中方接待高市早苗符合惯例",
+      "topic_id": "23152286cd8510187b658df703445a0f24190b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#文吉儿以为马天宇想牵自己#",
+      "rank": 17,
+      "title": "文吉儿以为马天宇想牵自己",
+      "topic_id": "231522788b62c433b27fe15bc21d9ecebb1f32"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#厉娜新戴的戒指是许飞买的#",
+      "rank": 18,
+      "title": "厉娜新戴的戒指是许飞买的",
+      "topic_id": "231522927ee8f3c5f755f6b47b83829bb3f3ba"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#后会友期有2#",
+      "rank": 19,
+      "title": "后会友期有2",
+      "topic_id": "231522964d937f3f85fb761580e7b293cbfdf8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#被美悬赏电诈园区已基本搬空#",
+      "rank": 20,
+      "title": "被美悬赏电诈园区已基本搬空",
+      "topic_id": "231522f4e590273730ebec2204acb5da3576dd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝Viper重返LCK#",
+      "rank": 21,
+      "title": "曝Viper重返LCK",
+      "topic_id": "231522a9c4f03f4d7a35ea1b7f6fb58f653b8f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝郑恺高中成绩一直班级倒数十名#",
+      "rank": 22,
+      "title": "曝郑恺高中成绩一直班级倒数十名",
+      "topic_id": "23152280d12dacefba97b7c17ed186edb04bf9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#华为星芒首发搭载鸿蒙7AI先锋版#",
+      "rank": 23,
+      "title": "华为星芒首发搭载鸿蒙7AI先锋版",
+      "topic_id": "231522b8fdf0f59794f4cf9ad7e5b0315b8080"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#BLG或更换ADC#",
+      "rank": 24,
+      "title": "BLG或更换ADC",
+      "topic_id": "2315223fffad7e2632baf5e1f2e2cee23a9f3c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#青稚形容文吉儿#",
+      "rank": 25,
+      "title": "青稚形容文吉儿",
+      "topic_id": "231522b0a7a76f55cf0a9f02d01c247f9a7398"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张黎拍的成毅#",
+      "rank": 26,
+      "title": "张黎拍的成毅",
+      "topic_id": "231522d05631753d38632e6dca24f80ca4ec4f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#白小纯青稚吵架文吉儿全责#",
+      "rank": 27,
+      "title": "白小纯青稚吵架文吉儿全责",
+      "topic_id": "231522ed9b56ff5eb9cf600101203388dc1cb6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#李子柒当选四川文联副主席#",
+      "rank": 28,
+      "title": "李子柒当选四川文联副主席",
+      "topic_id": "231522ed63516acfbd2274e68c027543b71fbe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#PEL巅峰挑战赛总决赛#",
+      "rank": 29,
+      "title": "PEL巅峰挑战赛总决赛",
+      "topic_id": "231522c45cee8f1c90bd080ce00603b98a3e57"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#A股尾盘拉升#",
+      "rank": 30,
+      "title": "A股尾盘拉升",
+      "topic_id": "2315228c89588e5aa401b44aba48956659e7f3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#青稚真是被献祭了#",
+      "rank": 31,
+      "title": "青稚真是被献祭了",
+      "topic_id": "2315220f593d978b7f3317a2a77eed29c678ba"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#MAMA红毯风好大#",
+      "rank": 32,
+      "title": "MAMA红毯风好大",
+      "topic_id": "2315225e508ffc6d33907e51bd83fda1c987ea"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#墨西哥总统发文感谢中国女保镖#",
+      "rank": 33,
+      "title": "墨西哥总统发文感谢中国女保镖",
+      "topic_id": "231522b9af8197c27d89b99e142402f1111fdf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#35万的享界V8可以买到什么#",
+      "rank": 34,
+      "title": "35万的享界V8可以买到什么",
+      "topic_id": "23152212b36cdb0f2b8aeac7e24765d326b37c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 6,
+      "posts": "saved",
+      "query": "#韩网谈Viper加入KRX的原因#",
+      "rank": 35,
+      "title": "韩网谈Viper加入KRX的原因",
+      "topic_id": "23152215d7ec605033822709569062bb02e36b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#华为星芒OSTAO1Pro价格#",
+      "rank": 36,
+      "title": "华为星芒OSTAO1Pro价格",
+      "topic_id": "23152293af2b8da3c0b0863483426541709f92"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#APEC国宴430人份蒸鱼45分钟出餐#",
+      "rank": 37,
+      "title": "APEC国宴430人份蒸鱼45分钟出餐",
+      "topic_id": "23152205f2be93ad6dc5ead16fba07362945ca"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#厉娜机场秩序#",
+      "rank": 38,
+      "title": "厉娜机场秩序",
+      "topic_id": "231522368d37a1aa033c7fbef144dc5ab52753"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "麻阳县委书记称不能过度消费张雪",
+      "rank": 39,
+      "title": "麻阳县委书记称不能过度消费张雪",
+      "topic_id": "231522765a33f58512dd627568d58aedb07291"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#蔡天凤前夫首次出庭作供#",
+      "rank": 40,
+      "title": "蔡天凤前夫首次出庭作供",
+      "topic_id": "231522c6f2b37f59fb0f90200643a7fa319b78"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "MAMA红毯",
+      "rank": 41,
+      "title": "MAMA红毯",
+      "topic_id": "231522a2cf30f95aba21a3c9b7f917725ca739"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#30克金手镯不到2万5就能拿下#",
+      "rank": 42,
+      "title": "30克金手镯不到2万5就能拿下",
+      "topic_id": "2315220fcbed971510fa2c727d02add93964b5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#赵丽颖好令人震撼的建模#",
+      "rank": 43,
+      "title": "赵丽颖好令人震撼的建模",
+      "topic_id": "2315220ecfda02f6b7ccf9c8a0f7aec87c1f2b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "12306迎来重大更新",
+      "rank": 44,
+      "title": "12306迎来重大更新",
+      "topic_id": "23152280674cd89ed40e9ee8b694906d3e39d8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#白鹿颠球前热身#",
+      "rank": 45,
+      "title": "白鹿颠球前热身",
+      "topic_id": "231522d5b6482d990e593e008e30aaf31e9d8c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "华为 北汽",
+      "rank": 46,
+      "title": "华为 北汽",
+      "topic_id": "231522a25cab43888a0db2ae341a39b96c6a4c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#尚界Z7电池用料有多狠#",
+      "rank": 47,
+      "title": "尚界Z7电池用料有多狠",
+      "topic_id": "2315226188caaf0114bb8f066488baf5a0a0df"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#APEC国宴一个团队负责一道菜#",
+      "rank": 48,
+      "title": "APEC国宴一个团队负责一道菜",
+      "topic_id": "2315224a4333f3b82987afcfc9f00d16ab367b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#一场感冒为什么能诱发心脏病#",
+      "rank": 49,
+      "title": "一场感冒为什么能诱发心脏病",
+      "topic_id": "23152268344a9e6a3f9f584048b2304de0eb02"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#宁艺卓紫色毛绒外套造型#",
+      "rank": 50,
+      "title": "宁艺卓紫色毛绒外套造型",
+      "topic_id": "231522b53dbf673762e6d67fdfba565d41eab0"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
