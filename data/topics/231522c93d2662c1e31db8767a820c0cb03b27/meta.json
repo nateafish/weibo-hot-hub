@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 2803301701
   },
-  "last_seen_at": "2026-11-20T07:00:00+08:00",
+  "last_seen_at": "2026-11-20T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%85%A8%E5%A6%86%E6%B7%B1%E5%9C%B3%E6%83%8A%E8%89%B3%E4%BA%86%E4%B8%96%E7%95%8C%23%26t%3D3&title=发布媒体",
-    "show_str": "11家媒体",
+    "show_str": "20家媒体",
     "users": [
       {
         "id": 2803301701,
         "idstr": "2803301701",
         "screen_name": "人民日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2810373291,
+        "idstr": "2810373291",
+        "screen_name": "新华网",
         "verified": true,
         "verified_type": 3
       },
@@ -30,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7732575151,
         "idstr": "7732575151",
         "screen_name": "东阿融媒",
@@ -37,30 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 5388240201,
-        "idstr": "5388240201",
-        "screen_name": "南阳日报",
+        "id": 6418480627,
+        "idstr": "6418480627",
+        "screen_name": "星视频",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 3251720635,
-        "idstr": "3251720635",
-        "screen_name": "邯郸网络广播电视台",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2232625672,
-        "idstr": "2232625672",
-        "screen_name": "安庆天天直播",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1916653155,
-        "idstr": "1916653155",
-        "screen_name": "开封网",
+        "id": 5866660310,
+        "idstr": "5866660310",
+        "screen_name": "台儿庄区融媒体中心",
         "verified": true,
         "verified_type": 3
       }

@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 7516679696
   },
-  "last_seen_at": "2026-11-20T07:00:00+08:00",
+  "last_seen_at": "2026-11-20T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BC%98%E5%85%88%E6%8B%9B35%E5%B2%81%E4%BB%A5%E4%B8%8A%E5%91%98%E5%B7%A5%E9%A4%90%E5%8E%85%E5%81%9C%E4%B8%9A%23%26t%3D3&title=发布媒体",
-    "show_str": "10家媒体",
+    "show_str": "11家媒体",
     "users": [
       {
         "id": 7516679696,
@@ -23,9 +23,23 @@
         "verified_type": 3
       },
       {
+        "id": 1887344341,
+        "idstr": "1887344341",
+        "screen_name": "观察者网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6890796357,
         "idstr": "6890796357",
         "screen_name": "日照日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2292896411,
+        "idstr": "2292896411",
+        "screen_name": "中工网",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 2014655005,
         "idstr": "2014655005",
         "screen_name": "玉林广播电视台",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1938424152,
-        "idstr": "1938424152",
-        "screen_name": "搜狐财经",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1887344341,
-        "idstr": "1887344341",
-        "screen_name": "观察者网",
         "verified": true,
         "verified_type": 3
       }
