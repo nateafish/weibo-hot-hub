@@ -3,11 +3,26 @@
   "created_at": 1795131462,
   "first_seen_at": "2026-11-20T08:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-20T10:00:00+08:00",
+  "last_seen_at": "2026-11-20T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%88%B8%E7%88%B8%E6%8E%89%E6%B0%B4%E9%87%8C%E5%85%88%E5%90%83%E8%8B%B9%E6%9E%9C%E8%BF%98%E6%98%AF%E9%A6%99%E8%95%89%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "2家媒体",
+    "users": [
+      {
+        "id": 2087169013,
+        "idstr": "2087169013",
+        "screen_name": "法治日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1732802301,
+        "idstr": "1732802301",
+        "screen_name": "河南交通广播",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "爸爸掉水里先吃苹果还是香蕉",
   "search_url": "https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E6%8E%89%E6%B0%B4%E9%87%8C%E5%85%88%E5%90%83%E8%8B%B9%E6%9E%9C%E8%BF%98%E6%98%AF%E9%A6%99%E8%95%89%23",
