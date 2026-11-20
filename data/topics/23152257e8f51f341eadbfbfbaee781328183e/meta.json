@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1647210043
   },
-  "last_seen_at": "2026-11-20T11:00:00+08:00",
+  "last_seen_at": "2026-11-20T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A5%B3%E5%84%BF%E8%9B%8B%E7%B3%95%E6%94%BE%E9%92%B1%E5%A6%88%E5%A6%88%E5%BD%93%E4%BC%97%E5%A1%9E%E7%BB%99%E5%84%BF%E5%AA%B3%23%26t%3D3&title=发布媒体",
-    "show_str": "16家媒体",
+    "show_str": "20家媒体",
     "users": [
       {
         "id": 1647210043,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 1043320390,
+        "idstr": "1043320390",
+        "screen_name": "半岛晨报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7749823321,
         "idstr": "7749823321",
         "screen_name": "郑在办",
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 6444725927,
+        "idstr": "6444725927",
+        "screen_name": "吉祥新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6344061797,
         "idstr": "6344061797",
         "screen_name": "JSTV荔枝视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6023976411,
-        "idstr": "6023976411",
-        "screen_name": "蓝睛",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3253939390,
-        "idstr": "3253939390",
-        "screen_name": "半岛新闻",
         "verified": true,
         "verified_type": 3
       }

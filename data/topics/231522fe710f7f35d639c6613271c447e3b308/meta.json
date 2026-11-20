@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1734530730
   },
-  "last_seen_at": "2026-11-20T11:00:00+08:00",
+  "last_seen_at": "2026-11-20T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E4%B8%8D%E5%90%912027%E7%BA%A7%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8F%90%E4%BE%9B%E5%AE%BF%E8%88%8D%23%26t%3D3&title=发布媒体",
-    "show_str": "88家媒体",
+    "show_str": "94家媒体",
     "users": [
       {
         "id": 1734530730,
@@ -26,6 +26,13 @@
         "id": 6207911580,
         "idstr": "6207911580",
         "screen_name": "大河报豫视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 1642088277,
+        "idstr": "1642088277",
+        "screen_name": "财经网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6966062673,
         "idstr": "6966062673",
         "screen_name": "大河报邻妹妹",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3338499784,
-        "idstr": "3338499784",
-        "screen_name": "大河3C",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2696533861,
-        "idstr": "2696533861",
-        "screen_name": "大河报洛阳新闻",
         "verified": true,
         "verified_type": 3
       }
