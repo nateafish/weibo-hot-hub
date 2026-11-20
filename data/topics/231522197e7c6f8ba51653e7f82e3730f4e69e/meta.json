@@ -3,11 +3,26 @@
   "created_at": 1795187501,
   "first_seen_at": "2026-11-21T00:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-21T06:00:00+08:00",
+  "last_seen_at": "2026-11-21T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23DeepSeek%E4%BB%98%E8%B4%B9%E4%BD%93%E9%AA%8C%E7%9B%B4%E7%BA%BF%E4%B8%8A%E5%8D%87%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "2家媒体",
+    "users": [
+      {
+        "id": 3288875501,
+        "idstr": "3288875501",
+        "screen_name": "河南日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3251720635,
+        "idstr": "3251720635",
+        "screen_name": "邯郸网络广播电视台",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "DeepSeek付费体验直线上升",
   "search_url": "https://s.weibo.com/weibo?q=%23deepseek%E4%BB%98%E8%B4%B9%E4%BD%93%E9%AA%8C%E7%9B%B4%E7%BA%BF%E4%B8%8A%E5%8D%87%23",
