@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-20T10:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 20,
+      "posts": "saved",
+      "query": "#中俄美元首深圳会晤#",
+      "rank": 1,
+      "title": "中俄美元首深圳会晤",
+      "topic_id": "231522c356391e92648ccb847bac9908992540"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#中俄美元首会晤富有成果#",
+      "rank": 1,
+      "title": "中俄美元首会晤富有成果",
+      "topic_id": "2315222f1bb5507ac1dc4017d433fb8f4f1229"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 23,
+      "posts": "saved",
+      "query": "#马斯克从深圳飞到了上海#",
+      "rank": 2,
+      "title": "马斯克从深圳飞到了上海",
+      "topic_id": "2315223deaa440b3291a1d1e00b13f3cbe6ebe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#一图读懂深圳倡议#",
+      "rank": 3,
+      "title": "一图读懂深圳倡议",
+      "topic_id": "231522c0eb1b8121c22ebfbd796dfaba9e442f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#特朗普离开深圳前与王毅面谈#",
+      "rank": 4,
+      "title": "特朗普离开深圳前与王毅面谈",
+      "topic_id": "23152250e1bc277960a8c045d6d168fd1eabde"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#多所高校不向2027级研究生提供宿舍#",
+      "rank": 5,
+      "title": "多所高校不向2027级研究生提供宿舍",
+      "topic_id": "231522fe710f7f35d639c6613271c447e3b308"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "Viper BLG",
+      "rank": 6,
+      "title": "Viper BLG",
+      "topic_id": "2315226074aea09d8da368b909161a43dfd4d1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "美股再度大跌",
+      "rank": 7,
+      "title": "美股再度大跌",
+      "topic_id": "2315223751aa39b67bad305723dee5d39f4f9f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "两京十五日 轻喜剧",
+      "rank": 8,
+      "title": "两京十五日 轻喜剧",
+      "topic_id": "23152226380cde1549baeeb901c3bcac62d8e4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "文吉儿帽子",
+      "rank": 9,
+      "title": "文吉儿帽子",
+      "topic_id": "231522ae6da3d38ea62cf8f9897c47ede0dac8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 20,
+      "posts": "saved",
+      "query": "GTA6",
+      "rank": 10,
+      "title": "GTA6",
+      "topic_id": "2315229f1fb2b70fa2e8a21d1460181c40e137"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "黄金",
+      "rank": 11,
+      "title": "黄金",
+      "topic_id": "23152211289a9c3dbe0fb8810cf271903fc8ac"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#张泉灵就像有人开团一秒跟了一样#",
+      "rank": 12,
+      "title": "张泉灵就像有人开团一秒跟了一样",
+      "topic_id": "2315229db40844bc2f70510ea71f16e82b6f9f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#李勒优房子是爷爷奶奶盖的#",
+      "rank": 13,
+      "title": "李勒优房子是爷爷奶奶盖的",
+      "topic_id": "231522dbe461980dd5f9f427efd481cfc1a2b3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#美股再大跌原因#",
+      "rank": 14,
+      "title": "美股再大跌原因",
+      "topic_id": "23152235b0ed953b88ccfdf71a6f8aa49d6c42"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#有观众举报后会友期#",
+      "rank": 15,
+      "title": "有观众举报后会友期",
+      "topic_id": "231522505dca0a58299a98b44fd7ff482113a9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "金价大跌后市预期分歧",
+      "rank": 16,
+      "title": "金价大跌后市预期分歧",
+      "topic_id": "231522045dedd5259a774271f205e4bcda9f9d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 21,
+      "posts": "saved",
+      "query": "AMD",
+      "rank": 17,
+      "title": "AMD",
+      "topic_id": "2315225dc984e2aef527ea2daaeffe646a6a52"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#李勒优大号自己弄回来了#",
+      "rank": 18,
+      "title": "李勒优大号自己弄回来了",
+      "topic_id": "2315221f441e87cd43e87e9875764264f75e5f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "演员开演唱会 爱豆演戏",
+      "rank": 19,
+      "title": "演员开演唱会 爱豆演戏",
+      "topic_id": "231522888cf963e74ef3c46f8f2619a679141f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#马天宇自曝幼时因打疫苗遭毒打#",
+      "rank": 20,
+      "title": "马天宇自曝幼时因打疫苗遭毒打",
+      "topic_id": "23152230f706ba8338d800d75930a178daca16"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 20,
+      "posts": "saved",
+      "query": "#特朗普登上空军一号挥手告别#",
+      "rank": 21,
+      "title": "特朗普登上空军一号挥手告别",
+      "topic_id": "2315226364840dfbe650c0151b964d7408a451"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#苗苗怀二胎身材走样锻炼时被郑恺逗了一下#",
+      "rank": 22,
+      "title": "苗苗怀二胎身材走样锻炼时被郑恺逗了一下",
+      "topic_id": "23152270e92de4a004515689f81dc6ca0425db"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "#伊能静一眼看破所有嘉宾#",
+      "rank": 23,
+      "title": "伊能静一眼看破所有嘉宾",
+      "topic_id": "23152236c82a105a0e5243847166a45ba48a95"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 20,
+      "posts": "saved",
+      "query": "长期心情不好真的会改变一个人",
+      "rank": 24,
+      "title": "长期心情不好真的会改变一个人",
+      "topic_id": "2315225fd305f4745510b8093fcf36f63a43db"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 18,
+      "posts": "saved",
+      "query": "爸爸掉水里先吃苹果还是香蕉",
+      "rank": 25,
+      "title": "爸爸掉水里先吃苹果还是香蕉",
+      "topic_id": "2315224fccc25e8e9ba35e6dcbe943717c7e64"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#赵丽颖合影被拉到C位#",
+      "rank": 26,
+      "title": "赵丽颖合影被拉到C位",
+      "topic_id": "231522ccea92116269ddab2c148de48b03e136"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#女儿蛋糕放钱妈妈当众塞给儿媳#",
+      "rank": 27,
+      "title": "女儿蛋糕放钱妈妈当众塞给儿媳",
+      "topic_id": "23152257e8f51f341eadbfbfbaee781328183e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "文吉儿圈内好友没提王子璇",
+      "rank": 28,
+      "title": "文吉儿圈内好友没提王子璇",
+      "topic_id": "231522a7f9c1655c2de42013c2a0773eab390f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#同居生孩分手后男方起诉返还百万#",
+      "rank": 29,
+      "title": "同居生孩分手后男方起诉返还百万",
+      "topic_id": "231522f13b36ba3d513dd4ab74c1ce1155fdd3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#女子打4份工养家月入3万多元#",
+      "rank": 30,
+      "title": "女子打4份工养家月入3万多元",
+      "topic_id": "23152258f4bcb41fc08857289edcfca689af49"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#白小纯青稚听到现场喊纯稚的表情#",
+      "rank": 31,
+      "title": "白小纯青稚听到现场喊纯稚的表情",
+      "topic_id": "23152271cb37083253594e43061f09393d8d33"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#崔晋风波后首更博#",
+      "rank": 32,
+      "title": "崔晋风波后首更博",
+      "topic_id": "231522db9554013cb62af9dac23c062e336386"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#现货黄金跌跌跌#",
+      "rank": 33,
+      "title": "现货黄金跌跌跌",
+      "topic_id": "23152264fcf66772814e833b115810e3089c0c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#为什么沈腾经常赖皮但不惹人讨厌#",
+      "rank": 34,
+      "title": "为什么沈腾经常赖皮但不惹人讨厌",
+      "topic_id": "23152274db37f14bd22dff39bcebffbbc6bad9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#赵丽颖帮张可盈暖手#",
+      "rank": 35,
+      "title": "赵丽颖帮张可盈暖手",
+      "topic_id": "231522471ec028a1ceaade377763be83af9365"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "Anthropic股价跌破100",
+      "rank": 36,
+      "title": "Anthropic股价跌破100",
+      "topic_id": "231522cc932908e47fc87f50255ae429a2521e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "宇宙其实根本就没有白天",
+      "rank": 37,
+      "title": "宇宙其实根本就没有白天",
+      "topic_id": "231522749b76615a6f46dbea2ff6c564b21ca0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "A股企稳信号何时出现",
+      "rank": 38,
+      "title": "A股企稳信号何时出现",
+      "topic_id": "231522b4d9544802c29f397fc39b4e13993fa7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#Anthropic收涨17%道指大跌1100点#",
+      "rank": 39,
+      "title": "Anthropic收涨17%道指大跌1100点",
+      "topic_id": "2315222a8d853299e643d8def93463b187dae5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#深圳人全妆出街的含金量还在上升#",
+      "rank": 40,
+      "title": "深圳人全妆出街的含金量还在上升",
+      "topic_id": "231522fab62d100ed8d1371b20db59d4f408fb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "杨超越董思成 二搭",
+      "rank": 41,
+      "title": "杨超越董思成 二搭",
+      "topic_id": "23152283a4b211bc37af2398a9edcd2aa0ad86"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#青稚完全是有点文化但不多#",
+      "rank": 42,
+      "title": "青稚完全是有点文化但不多",
+      "topic_id": "2315226143ccd2690338c7ba6154590be152a1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#苗苗是舞蹈演员对体态要求高#",
+      "rank": 43,
+      "title": "苗苗是舞蹈演员对体态要求高",
+      "topic_id": "231522614e9befd04054cebae386f59098fbfe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 8,
+      "posts": "saved",
+      "query": "#童家堡回应白小纯获奖#",
+      "rank": 44,
+      "title": "童家堡回应白小纯获奖",
+      "topic_id": "2315229e369990391961045e65acccb74b3997"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "许飞真是巧思上长了个人",
+      "rank": 45,
+      "title": "许飞真是巧思上长了个人",
+      "topic_id": "2315229edf2be30dc13615e7864703e91b2a1f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 24,
+      "posts": "saved",
+      "query": "王子璇提黄焖鸡事变疑被剪",
+      "rank": 46,
+      "title": "王子璇提黄焖鸡事变疑被剪",
+      "topic_id": "23152202ce4e7ec6000a3ff67489d658ba0f03"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 23,
+      "posts": "saved",
+      "query": "#年轻人重新用QQ#",
+      "rank": 47,
+      "title": "年轻人重新用QQ",
+      "topic_id": "231522dcd65055940aebfaab70157072ca17d3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#儿子将满18岁消失17年的父亲来求赡养#",
+      "rank": 48,
+      "title": "儿子将满18岁消失17年的父亲来求赡养",
+      "topic_id": "231522a966a22ccb2af880d56b2cd6e4d527dd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#王楚然差点把翻白眼给戒掉#",
+      "rank": 49,
+      "title": "王楚然差点把翻白眼给戒掉",
+      "topic_id": "2315227dbf5fd35134bc779452b739ef3aa55b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "银行买理财亏了还是存定存",
+      "rank": 50,
+      "title": "银行买理财亏了还是存定存",
+      "topic_id": "231522430326797c9dc9c8dd06dc5acbc190eb"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

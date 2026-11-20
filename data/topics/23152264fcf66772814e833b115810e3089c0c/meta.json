@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 3203137375
   },
-  "last_seen_at": "2026-11-20T09:00:00+08:00",
+  "last_seen_at": "2026-11-20T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E8%B7%8C%E8%B7%8C%E8%B7%8C%23%26t%3D3&title=发布媒体",
-    "show_str": "13家媒体",
+    "show_str": "34家媒体",
     "users": [
       {
         "id": 3203137375,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 7354234663,
+        "idstr": "7354234663",
+        "screen_name": "大湾区之声",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6524697383,
         "idstr": "6524697383",
         "screen_name": "四川观察在现场",
@@ -54,13 +61,6 @@
         "id": 6524418706,
         "idstr": "6524418706",
         "screen_name": "四川观察新视线",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2026044661,
-        "idstr": "2026044661",
-        "screen_name": "海量财经",
         "verified": true,
         "verified_type": 3
       }

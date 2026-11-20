@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 6046740671
   },
-  "last_seen_at": "2026-11-20T09:00:00+08:00",
+  "last_seen_at": "2026-11-20T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%A9%AC%E5%A4%A9%E5%AE%87%E8%87%AA%E6%9B%9D%E5%B9%BC%E6%97%B6%E5%9B%A0%E6%89%93%E7%96%AB%E8%8B%97%E9%81%AD%E6%AF%92%E6%89%93%23%26t%3D3&title=发布媒体",
-    "show_str": "7家媒体",
+    "show_str": "12家媒体",
     "users": [
       {
         "id": 1867427515,
@@ -30,6 +30,27 @@
         "verified_type": 3
       },
       {
+        "id": 5396094153,
+        "idstr": "5396094153",
+        "screen_name": "大众新闻-大众日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2118120483,
+        "idstr": "2118120483",
+        "screen_name": "青岛日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2010802407,
+        "idstr": "2010802407",
+        "screen_name": "中国台州网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1943232645,
         "idstr": "1943232645",
         "screen_name": "济南电视台有一说一",
@@ -37,30 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1751714412,
-        "idstr": "1751714412",
-        "screen_name": "大皖新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1656737654,
-        "idstr": "1656737654",
-        "screen_name": "现代快报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1496814565,
-        "idstr": "1496814565",
-        "screen_name": "封面新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1043320390,
-        "idstr": "1043320390",
-        "screen_name": "半岛晨报",
+        "id": 1943154142,
+        "idstr": "1943154142",
+        "screen_name": "中安在线",
         "verified": true,
         "verified_type": 3
       }
