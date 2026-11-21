@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1974576991
   },
-  "last_seen_at": "2026-11-22T05:00:00+08:00",
+  "last_seen_at": "2026-11-22T06:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%97%A5%E5%AA%92%E8%BF%99%E7%A7%8D%E6%93%8D%E4%BD%9C%E5%A4%AA%E9%98%B4%E9%99%A9%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "6家媒体",
     "users": [
       {
         "id": 1974576991,
@@ -47,6 +47,13 @@
         "id": 2118205862,
         "idstr": "2118205862",
         "screen_name": "宁夏新闻网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1893892941,
+        "idstr": "1893892941",
+        "screen_name": "北京日报",
         "verified": true,
         "verified_type": 3
       }
