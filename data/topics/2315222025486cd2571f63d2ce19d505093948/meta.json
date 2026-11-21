@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1845864154
   },
-  "last_seen_at": "2026-11-21T10:00:00+08:00",
+  "last_seen_at": "2026-11-21T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E7%9C%8B%E7%9C%8B%E6%B7%B1%E5%9C%B3%E5%86%8D%E7%9C%8B%E7%9C%8B%E6%88%91%E4%BB%AC%23%26t%3D3&title=发布媒体",
-    "show_str": "7家媒体",
+    "show_str": "38家媒体",
     "users": [
       {
         "id": 1845864154,
         "idstr": "1845864154",
         "screen_name": "看看新闻Knews",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1651428902,
+        "idstr": "1651428902",
+        "screen_name": "21世纪经济报道",
         "verified": true,
         "verified_type": 3
       },
@@ -30,16 +37,23 @@
         "verified_type": 3
       },
       {
-        "id": 5822206027,
-        "idstr": "5822206027",
-        "screen_name": "北斗融媒",
+        "id": 2118120483,
+        "idstr": "2118120483",
+        "screen_name": "青岛日报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2188202475,
-        "idstr": "2188202475",
-        "screen_name": "南京晨报",
+        "id": 2041117703,
+        "idstr": "2041117703",
+        "screen_name": "合肥日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2010802407,
+        "idstr": "2010802407",
+        "screen_name": "中国台州网",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 1989020644,
         "idstr": "1989020644",
         "screen_name": "STV新闻坊",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1943154142,
-        "idstr": "1943154142",
-        "screen_name": "中安在线",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1925878362,
-        "idstr": "1925878362",
-        "screen_name": "SMGNEWS",
         "verified": true,
         "verified_type": 3
       }

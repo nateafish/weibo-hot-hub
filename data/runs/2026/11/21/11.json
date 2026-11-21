@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-21T11:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#习主席的深圳APEC时间#",
+      "rank": 1,
+      "title": "习主席的深圳APEC时间",
+      "topic_id": "231522e7e7ff24028b1c7bc2b39f75d5f10cb9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#胖东来搬离后原址所开新商场几乎倒闭#",
+      "rank": 1,
+      "title": "胖东来搬离后原址所开新商场几乎倒闭",
+      "topic_id": "231522b656d17da5a57e6c16a8ff2d260eaa65"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#特朗普说看看深圳再看看我们#",
+      "rank": 2,
+      "title": "特朗普说看看深圳再看看我们",
+      "topic_id": "2315222025486cd2571f63d2ce19d505093948"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#APEC盛会效应拉满#",
+      "rank": 3,
+      "title": "APEC盛会效应拉满",
+      "topic_id": "2315221c82efda692945e6d1a9c6d9dc702e50"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "特朗普称不允许美企海外建数据中心",
+      "rank": 4,
+      "title": "特朗普称不允许美企海外建数据中心",
+      "topic_id": "2315229136bc9538a0f55fc2ad1b95cef83715"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "韩国高考中国史题正确率不足一成",
+      "rank": 5,
+      "title": "韩国高考中国史题正确率不足一成",
+      "topic_id": "231522475fd41800135207a1e97291509966fc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "这段爆破戏疑似AI做的",
+      "rank": 6,
+      "title": "这段爆破戏疑似AI做的",
+      "topic_id": "2315223071440ea53faa090e7f7fc7038a6d31"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#特朗普说深圳干净整洁一尘不染#",
+      "rank": 7,
+      "title": "特朗普说深圳干净整洁一尘不染",
+      "topic_id": "231522319c45be502d769eaa6cb4e113be91e8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "上海人安慰人北京人瞎过吧",
+      "rank": 8,
+      "title": "上海人安慰人北京人瞎过吧",
+      "topic_id": "2315222efa5dc09a218d6833869397a5a7fe16"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#伊能静发长文谈后会友期#",
+      "rank": 9,
+      "title": "伊能静发长文谈后会友期",
+      "topic_id": "23152209e12c959fe98e3589a47e62912451c9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "问界M9车主开辅助驾驶熟睡",
+      "rank": 10,
+      "title": "问界M9车主开辅助驾驶熟睡",
+      "topic_id": "231522a09d7d62ff58f7bf3aaa6a25584e5c03"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#炎亚纶汪东城世纪大和解#",
+      "rank": 11,
+      "title": "炎亚纶汪东城世纪大和解",
+      "topic_id": "231522f037ef38eefef41d54a41e98888d0e77"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "孙芮结婚怀孕",
+      "rank": 12,
+      "title": "孙芮结婚怀孕",
+      "topic_id": "231522557a76636ab3283699bd82cb4091778d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张萌的大胆穿搭直接吓到孟子义#",
+      "rank": 13,
+      "title": "张萌的大胆穿搭直接吓到孟子义",
+      "topic_id": "2315223859dfd31c2ad72d95febddba2fce88f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "黎曼猜想",
+      "rank": 14,
+      "title": "黎曼猜想",
+      "topic_id": "2315221a5a2cec5d973abf1f2428594f089680"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "以前的朱瞻基现在的朱瞻基",
+      "rank": 15,
+      "title": "以前的朱瞻基现在的朱瞻基",
+      "topic_id": "231522c9f388911605a16de8c87c328574ff1d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#伊能静介绍了和秦昊在上海的家#",
+      "rank": 16,
+      "title": "伊能静介绍了和秦昊在上海的家",
+      "topic_id": "231522bb525b3c6e7f501f2e27e5b608b23e86"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "美股 AI泡沫",
+      "rank": 17,
+      "title": "美股 AI泡沫",
+      "topic_id": "23152238a84f00b98cbc2fa4eff6ee8ec2e85d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "比亚迪折叠方向盘能干嘛",
+      "rank": 18,
+      "title": "比亚迪折叠方向盘能干嘛",
+      "topic_id": "2315227e426593c713eb7e426e565cb76b0fee"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "Elk BLG",
+      "rank": 19,
+      "title": "Elk BLG",
+      "topic_id": "23152203272bb9949bd8e21af15b70a3fbdd62"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "炎亚纶铁了心要上后会友期",
+      "rank": 20,
+      "title": "炎亚纶铁了心要上后会友期",
+      "topic_id": "231522bea14c578ecb8b4e2918c05cc5c5acbc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "韩国高考 发灾难警报",
+      "rank": 21,
+      "title": "韩国高考 发灾难警报",
+      "topic_id": "231522751352632f8af9f75929f7dbef0aa3b6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 8,
+      "posts": "saved",
+      "query": "#特朗普称总有一天会跟金正恩会面#",
+      "rank": 22,
+      "title": "特朗普称总有一天会跟金正恩会面",
+      "topic_id": "2315224f644f18bf6c741084c742ef8ce56b5c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#孙芮属于军婚#",
+      "rank": 23,
+      "title": "孙芮属于军婚",
+      "topic_id": "231522ea6d77a0e65de4b2442492ed85ae77d5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#李嫣喝水都要用口罩遮着#",
+      "rank": 24,
+      "title": "李嫣喝水都要用口罩遮着",
+      "topic_id": "231522a22fe9fbb1d56b49827c679b115928d4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王子璇问马天宇你不会爱上我#",
+      "rank": 25,
+      "title": "王子璇问马天宇你不会爱上我",
+      "topic_id": "23152212c243e58ca11e3860bb98db21bdc6a7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "高会互通",
+      "rank": 26,
+      "title": "高会互通",
+      "topic_id": "2315227b52a3b5fd229a21c90eb7a66d9649f8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#特朗普涉中俄美最新表态#",
+      "rank": 27,
+      "title": "特朗普涉中俄美最新表态",
+      "topic_id": "231522643cfde7136b4bd9280a2afe1826018f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "后会友期让我不适的part",
+      "rank": 28,
+      "title": "后会友期让我不适的part",
+      "topic_id": "2315221a9c8cae3f3afca986985e06012ba798"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#父亲把房留给妹妹哥哥搬前打砸诅咒#",
+      "rank": 29,
+      "title": "父亲把房留给妹妹哥哥搬前打砸诅咒",
+      "topic_id": "23152286c0fa84f7d47107703ae2eb995b3837"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#深圳人又开始原装出街了#",
+      "rank": 30,
+      "title": "深圳人又开始原装出街了",
+      "topic_id": "231522d0779d3c26bcfe075a83571d1769b29f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "王天辰郭晓婷开机",
+      "rank": 31,
+      "title": "王天辰郭晓婷开机",
+      "topic_id": "2315221fb3e82c30efcd939d3856fdb22d9fa0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#李嫣唱歌太孝顺了#",
+      "rank": 32,
+      "title": "李嫣唱歌太孝顺了",
+      "topic_id": "2315220388b489d4f1fd2c4762a39c936aca60"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张萌回应青稚打听式安慰#",
+      "rank": 33,
+      "title": "张萌回应青稚打听式安慰",
+      "topic_id": "2315225003cdfdeb46fb4b80edf653fb53e462"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#马天宇当明星后把亲戚接到了北京#",
+      "rank": 34,
+      "title": "马天宇当明星后把亲戚接到了北京",
+      "topic_id": "231522b0be1306fa4698a2a79593122d632486"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "DeepSeek付费体验直线上升",
+      "rank": 35,
+      "title": "DeepSeek付费体验直线上升",
+      "topic_id": "231522197e7c6f8ba51653e7f82e3730f4e69e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#金价下跌花同样的钱到手金子却更少#",
+      "rank": 36,
+      "title": "金价下跌花同样的钱到手金子却更少",
+      "topic_id": "231522201978c5ec283fae396886f5a0af9a3f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "丝芭下孩子了",
+      "rank": 37,
+      "title": "丝芭下孩子了",
+      "topic_id": "23152273e9aaa04b386c77a50f234462df882f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#GTA6首日卖了37.9亿美元#",
+      "rank": 38,
+      "title": "GTA6首日卖了37.9亿美元",
+      "topic_id": "23152272a82358b9a05e4292c5c57d616ba153"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#BLG的AD有可能是Diable#",
+      "rank": 39,
+      "title": "BLG的AD有可能是Diable",
+      "topic_id": "231522188b69c7f9562e2c8efe071f8f1c6485"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#杨超越和董思成究竟哪里不熟#",
+      "rank": 40,
+      "title": "杨超越和董思成究竟哪里不熟",
+      "topic_id": "231522cd673ef6f629d43f93c018b514e2625a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "女子发现名包是假货后扇自己耳光",
+      "rank": 41,
+      "title": "女子发现名包是假货后扇自己耳光",
+      "topic_id": "231522720a8f3a4041870f954ff49db8bcb3ed"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#庞众望即将从清华毕业#",
+      "rank": 42,
+      "title": "庞众望即将从清华毕业",
+      "topic_id": "231522cca7c1f0ab24e9003b12e8fa5ae252dc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "MAMA 倒一拿奖",
+      "rank": 43,
+      "title": "MAMA 倒一拿奖",
+      "topic_id": "231522dd4770d8e8a067bd5d26ba882c298a6a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#厉娜摘掉茶色眼镜了#",
+      "rank": 44,
+      "title": "厉娜摘掉茶色眼镜了",
+      "topic_id": "231522d4c45a297037a15f68cd9ccf169bb04e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#凯恩韧带撕裂#",
+      "rank": 45,
+      "title": "凯恩韧带撕裂",
+      "topic_id": "231522ddcf6d90a52f840a0db2b70382e3f7a0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "刘宇宁这一段建议载入综艺史册",
+      "rank": 46,
+      "title": "刘宇宁这一段建议载入综艺史册",
+      "topic_id": "23152269158b66ecdd10bc9d75a3d244665648"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "华为Logo价格121元",
+      "rank": 47,
+      "title": "华为Logo价格121元",
+      "topic_id": "23152206f70969442dabd4482ffdb030969638"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#晋妈给李勒优铺的路是接手面馆#",
+      "rank": 48,
+      "title": "晋妈给李勒优铺的路是接手面馆",
+      "topic_id": "231522c65131eedbe93e2aa4dd754d90571a73"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "后会友期黄焖鸡事件原声视频",
+      "rank": 49,
+      "title": "后会友期黄焖鸡事件原声视频",
+      "topic_id": "2315223a4d745b33e0680ac2c53360687bda6d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#林更新你怎么什么都敢演#",
+      "rank": 50,
+      "title": "林更新你怎么什么都敢演",
+      "topic_id": "231522db72cdeb32c625bbbad7f3899e076956"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

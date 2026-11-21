@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1726426884
   },
-  "last_seen_at": "2026-11-21T10:00:00+08:00",
+  "last_seen_at": "2026-11-21T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%B7%B1%E5%9C%B3%E4%BA%BA%E5%8F%88%E5%BC%80%E5%A7%8B%E5%8E%9F%E8%A3%85%E5%87%BA%E8%A1%97%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "112家媒体",
+    "show_str": "120家媒体",
     "users": [
       {
         "id": 1726426884,
@@ -30,9 +30,23 @@
         "verified_type": 3
       },
       {
+        "id": 3242792887,
+        "idstr": "3242792887",
+        "screen_name": "吉林日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1751714412,
         "idstr": "1751714412",
         "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5426766895,
+        "idstr": "5426766895",
+        "screen_name": "青州广电",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 2337985010,
         "idstr": "2337985010",
         "screen_name": "瑞安融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2308941133,
-        "idstr": "2308941133",
-        "screen_name": "锦州播报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1725252714,
-        "idstr": "1725252714",
-        "screen_name": "温度新闻",
         "verified": true,
         "verified_type": 3
       }
