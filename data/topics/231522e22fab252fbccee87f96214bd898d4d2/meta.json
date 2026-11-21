@@ -3,15 +3,36 @@
   "created_at": 1795244990,
   "first_seen_at": "2026-11-21T16:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-21T17:00:00+08:00",
+  "last_seen_at": "2026-11-21T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%8C%AB%E7%9A%84%E6%A0%91%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%98%B3%E9%9B%A8%E6%94%B6%E5%AE%98%E9%95%BF%E6%96%87%23%26t%3D3&title=发布媒体",
-    "show_str": "20家媒体",
+    "show_str": "24家媒体",
     "users": [
       {
         "id": 1936119834,
         "idstr": "1936119834",
         "screen_name": "河北长城网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2628314830,
+        "idstr": "2628314830",
+        "screen_name": "合肥晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2106115754,
+        "idstr": "2106115754",
+        "screen_name": "北京文艺广播",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2041117703,
+        "idstr": "2041117703",
+        "screen_name": "合肥日报",
         "verified": true,
         "verified_type": 3
       },
@@ -23,37 +44,16 @@
         "verified_type": 3
       },
       {
-        "id": 7575030448,
-        "idstr": "7575030448",
-        "screen_name": "白鹿视频",
+        "id": 1652484947,
+        "idstr": "1652484947",
+        "screen_name": "新快报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 7299136456,
-        "idstr": "7299136456",
-        "screen_name": "冬呱看点",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6525645286,
-        "idstr": "6525645286",
-        "screen_name": "长城视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6004281123,
-        "idstr": "6004281123",
-        "screen_name": "梨视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5821587877,
-        "idstr": "5821587877",
-        "screen_name": "河畔视频",
+        "id": 1280846847,
+        "idstr": "1280846847",
+        "screen_name": "指尖新闻-沈阳晚报",
         "verified": true,
         "verified_type": 3
       }
