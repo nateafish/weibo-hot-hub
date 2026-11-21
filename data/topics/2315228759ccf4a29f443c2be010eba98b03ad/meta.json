@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 1037515071
   },
-  "last_seen_at": "2026-11-21T23:00:00+08:00",
+  "last_seen_at": "2026-11-22T01:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A4%AE%E8%A7%86%E6%8F%AD%E7%A7%98%E7%BD%91%E7%BB%9C%E5%A5%B3%E4%B8%BB%E6%92%AD%E7%9C%9F%E5%AE%9E%E7%94%9F%E6%80%81%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "8家媒体",
     "users": [
       {
         "id": 1037515071,
         "idstr": "1037515071",
         "screen_name": "央视新闻调查",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2028810631,
+        "idstr": "2028810631",
+        "screen_name": "新浪新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 7548869008,
+        "idstr": "7548869008",
+        "screen_name": "Tech产经网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6444725927,
         "idstr": "6444725927",
         "screen_name": "吉祥新闻",
@@ -37,9 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2685336121,
-        "idstr": "2685336121",
-        "screen_name": "南宁晚报",
+        "id": 2118120483,
+        "idstr": "2118120483",
+        "screen_name": "青岛日报",
         "verified": true,
         "verified_type": 3
       }
