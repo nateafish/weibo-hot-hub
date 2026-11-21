@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1699432410
   },
-  "last_seen_at": "2026-11-21T19:00:00+08:00",
+  "last_seen_at": "2026-11-21T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B9%A0%E4%B8%BB%E5%B8%AD%E4%B8%BA%E5%BB%BA%E8%AE%BE%E4%BA%9A%E5%A4%AA%E5%85%B1%E5%90%8C%E4%BD%93%E6%8C%87%E6%98%8E%E6%96%B9%E5%90%91%23%26t%3D3&title=发布媒体",
-    "show_str": "9家媒体",
+    "show_str": "10家媒体",
     "users": [
       {
         "id": 1699432410,
@@ -23,9 +23,23 @@
         "verified_type": 3
       },
       {
+        "id": 3901624042,
+        "idstr": "3901624042",
+        "screen_name": "山西日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2280198017,
         "idstr": "2280198017",
         "screen_name": "解放军报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497418417,
+        "idstr": "1497418417",
+        "screen_name": "掌上温岭",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 2921799343,
         "idstr": "2921799343",
         "screen_name": "天下泉城",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1891503444,
-        "idstr": "1891503444",
-        "screen_name": "西安日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1838672663,
-        "idstr": "1838672663",
-        "screen_name": "华夏时报",
         "verified": true,
         "verified_type": 3
       }
