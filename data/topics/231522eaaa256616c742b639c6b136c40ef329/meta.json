@@ -10,11 +10,47 @@
     "status": 2,
     "uid": 8013830358
   },
-  "last_seen_at": "2026-11-21T13:00:00+08:00",
+  "last_seen_at": "2026-11-21T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%BB%99%E5%A4%AA%E5%AD%90%E6%AE%BF%E4%B8%8B%E5%BD%93%E8%AF%95%E8%8F%9C%E5%91%98%E4%B8%A4%E6%97%A5%E8%83%96%E5%8D%81%E4%BA%94%E6%96%A4%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "5家媒体",
+    "users": [
+      {
+        "id": 7422806367,
+        "idstr": "7422806367",
+        "screen_name": "中网传播",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3514732862,
+        "idstr": "3514732862",
+        "screen_name": "广西日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1738004582,
+        "idstr": "1738004582",
+        "screen_name": "纵览新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497087080,
+        "idstr": "1497087080",
+        "screen_name": "羊城晚报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#给太子殿下当试菜员两日胖十五斤#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E7%BB%99%E5%A4%AA%E5%AD%90%E6%AE%BF%E4%B8%8B%E5%BD%93%E8%AF%95%E8%8F%9C%E5%91%98%E4%B8%A4%E6%97%A5%E8%83%96%E5%8D%81%E4%BA%94%E6%96%A4%23",
