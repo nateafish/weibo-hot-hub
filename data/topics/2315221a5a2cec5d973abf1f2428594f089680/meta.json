@@ -3,11 +3,18 @@
   "created_at": null,
   "first_seen_at": "2026-11-21T08:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-21T09:00:00+08:00",
+  "last_seen_at": "2026-11-21T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%23%26t%3D3&title=发布媒体",
-    "show_str": "8家媒体",
+    "show_str": "13家媒体",
     "users": [
+      {
+        "id": 2824067765,
+        "idstr": "2824067765",
+        "screen_name": "贺州日报官微",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2318910945,
         "idstr": "2318910945",
@@ -23,6 +30,13 @@
         "verified_type": 3
       },
       {
+        "id": 2133637794,
+        "idstr": "2133637794",
+        "screen_name": "宜人宜宾",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2087169013,
         "idstr": "2087169013",
         "screen_name": "法治日报",
@@ -30,30 +44,16 @@
         "verified_type": 3
       },
       {
+        "id": 2041117703,
+        "idstr": "2041117703",
+        "screen_name": "合肥日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1895394815,
         "idstr": "1895394815",
         "screen_name": "荆楚网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1826017320,
-        "idstr": "1826017320",
-        "screen_name": "IT之家",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1727472420,
-        "idstr": "1727472420",
-        "screen_name": "泰山晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1618051664,
-        "idstr": "1618051664",
-        "screen_name": "头条新闻",
         "verified": true,
         "verified_type": 3
       }

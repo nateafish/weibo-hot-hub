@@ -3,10 +3,10 @@
   "created_at": 1795187501,
   "first_seen_at": "2026-11-21T00:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-21T09:00:00+08:00",
+  "last_seen_at": "2026-11-21T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23DeepSeek%E4%BB%98%E8%B4%B9%E4%BD%93%E9%AA%8C%E7%9B%B4%E7%BA%BF%E4%B8%8A%E5%8D%87%23%26t%3D3&title=发布媒体",
-    "show_str": "9家媒体",
+    "show_str": "10家媒体",
     "users": [
       {
         "id": 1727472420,
@@ -30,6 +30,13 @@
         "verified_type": 3
       },
       {
+        "id": 2812209690,
+        "idstr": "2812209690",
+        "screen_name": "黄石日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2660940103,
         "idstr": "2660940103",
         "screen_name": "环球网科技频道",
@@ -47,13 +54,6 @@
         "id": 2115259662,
         "idstr": "2115259662",
         "screen_name": "洪观新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2087169013,
-        "idstr": "2087169013",
-        "screen_name": "法治日报",
         "verified": true,
         "verified_type": 3
       }
