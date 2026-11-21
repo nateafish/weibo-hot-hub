@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 6004281123
   },
-  "last_seen_at": "2026-11-21T08:00:00+08:00",
+  "last_seen_at": "2026-11-21T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%BE%8EAI%E7%A7%91%E6%8A%80%E8%82%A1%E5%B4%A9%E7%9B%98%E5%8E%9F%E5%9B%A0%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "10家媒体",
     "users": [
       {
         "id": 6004281123,
@@ -26,6 +26,13 @@
         "id": 5994003317,
         "idstr": "5994003317",
         "screen_name": "老板联播",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1651428902,
+        "idstr": "1651428902",
+        "screen_name": "21世纪经济报道",
         "verified": true,
         "verified_type": 3
       },
