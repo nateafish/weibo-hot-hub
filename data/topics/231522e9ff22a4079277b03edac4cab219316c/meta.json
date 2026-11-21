@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 1832665202
   },
-  "last_seen_at": "2026-11-21T21:00:00+08:00",
+  "last_seen_at": "2026-11-21T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E7%9C%9F%E6%B2%A1%E6%8A%8A%E6%88%91%E4%BB%AC%E5%BD%93%E5%A4%96%E4%BA%BA%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "11家媒体",
     "users": [
       {
         "id": 1655444627,
         "idstr": "1655444627",
         "screen_name": "潇湘晨报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7694378984,
+        "idstr": "7694378984",
+        "screen_name": "大象综艺",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7308140398,
+        "idstr": "7308140398",
+        "screen_name": "大象新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6560653260,
+        "idstr": "6560653260",
+        "screen_name": "大象视频",
         "verified": true,
         "verified_type": 3
       },
@@ -30,23 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 2027773605,
+        "idstr": "2027773605",
+        "screen_name": "大象文娱",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2027480085,
         "idstr": "2027480085",
         "screen_name": "水母网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1941424392,
-        "idstr": "1941424392",
-        "screen_name": "台州晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1893892941,
-        "idstr": "1893892941",
-        "screen_name": "北京日报",
         "verified": true,
         "verified_type": 3
       }
