@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1720962692
   },
-  "last_seen_at": "2026-11-21T20:00:00+08:00",
+  "last_seen_at": "2026-11-21T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23APEC%E5%B8%A6%E7%81%AB%E8%8D%94%E6%9E%9D%E5%86%B0%E9%85%92%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%93%BD%E5%92%BD%E8%90%BD%E6%B3%AA%23%26t%3D3&title=发布媒体",
-    "show_str": "9家媒体",
+    "show_str": "26家媒体",
     "users": [
       {
         "id": 1720962692,
         "idstr": "1720962692",
         "screen_name": "极目新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1744332207,
+        "idstr": "1744332207",
+        "screen_name": "钱江视频",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +37,30 @@
         "verified_type": 3
       },
       {
+        "id": 1960785875,
+        "idstr": "1960785875",
+        "screen_name": "津云新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1725252714,
+        "idstr": "1725252714",
+        "screen_name": "温度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6417271136,
         "idstr": "6417271136",
         "screen_name": "极目文娱",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6141086679,
-        "idstr": "6141086679",
-        "screen_name": "极目视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2252846093,
-        "idstr": "2252846093",
-        "screen_name": "长春新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1943154142,
-        "idstr": "1943154142",
-        "screen_name": "中安在线",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1867427515,
-        "idstr": "1867427515",
-        "screen_name": "新派新闻",
         "verified": true,
         "verified_type": 3
       }
