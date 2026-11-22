@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1037515071
   },
-  "last_seen_at": "2026-11-22T10:00:00+08:00",
+  "last_seen_at": "2026-11-22T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A4%AE%E8%A7%86%E6%8F%AD%E7%A7%98%E7%BD%91%E7%BB%9C%E5%A5%B3%E4%B8%BB%E6%92%AD%E7%9C%9F%E5%AE%9E%E7%94%9F%E6%80%81%23%26t%3D3&title=发布媒体",
-    "show_str": "94家媒体",
+    "show_str": "123家媒体",
     "users": [
       {
         "id": 1037515071,
@@ -26,6 +26,13 @@
         "id": 2087169013,
         "idstr": "2087169013",
         "screen_name": "法治日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3229962754,
+        "idstr": "3229962754",
+        "screen_name": "陕视新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -54,13 +61,6 @@
         "id": 5652470745,
         "idstr": "5652470745",
         "screen_name": "广西都市频道",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2460937233,
-        "idstr": "2460937233",
-        "screen_name": "热度新闻",
         "verified": true,
         "verified_type": 3
       }
