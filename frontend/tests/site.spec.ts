@@ -75,6 +75,63 @@ test("topic archive scrolls and searches across the full index", async ({ page }
   await expect(page.getByRole("dialog").getByRole("heading", { name: "黄仁勋承认出轨" })).toBeVisible();
 });
 
+test("topic archive combines date, hours and category filters with search", async ({ page }) => {
+  function archivedTopic(id: string, title: string, category: string | null, lastSeen: string | null, hours: number) {
+    return { topic_id: id, title, category, last_seen_at: lastSeen, hours_seen: hours, has_posts: false, has_ai: false };
+  }
+  await page.route("**/site-data/topics/index.json", (route) => route.fulfill({ json: [
+    archivedTopic("end", "苹果话题甲", "社会", "2026-11-22T15:59:59.999Z", 2),
+    archivedTopic("start", "梨话题", "社会", "2026-11-22T00:00:00+08:00", 4),
+    archivedTopic("tomorrow", "苹果话题乙", "社会", "2026-11-22T16:00:00Z", 3),
+    archivedTopic("short", "苹果话题丙", "社会", "2026-11-22T12:00:00+08:00", 1),
+    archivedTopic("long", "苹果话题丁", "社会", "2026-11-22T12:00:00+08:00", 5),
+    archivedTopic("other", "苹果话题戊", "综艺-内地综艺", "2026-11-22T12:00:00+08:00", 3),
+    archivedTopic("unclassified", "苹果话题己", null, "2026-11-22T12:00:00+08:00", 3),
+    archivedTopic("undated", "苹果话题庚", "社会", null, 3),
+  ] }));
+  await page.goto("/topics/");
+  const status = page.getByRole("status").filter({ hasText: "个话题" });
+  const filterButton = page.getByRole("button", { name: /^筛选/ });
+  const filters = page.getByRole("dialog", { name: "筛选话题" });
+  const search = page.getByPlaceholder("搜索标题、主持人或分类");
+  const cards = page.locator(".topic-grid [data-slot='card-title']");
+  await expect(status).toHaveText("8 个话题");
+
+  await filterButton.click();
+  await filters.getByLabel("开始日期").fill("2026-11-22");
+  await filters.getByLabel("结束日期").fill("2026-11-22");
+  await filters.getByLabel("最少小时数").fill("5");
+  await filters.getByLabel("最多小时数").fill("4");
+  const apply = filters.getByRole("button", { name: "应用筛选" });
+  await expect(apply).toBeDisabled();
+  await expect(filters.getByRole("alert")).toHaveText("最少小时数不能大于最多小时数。");
+  await filters.getByLabel("最少小时数").fill("2");
+  await filters.getByRole("combobox", { name: "话题分类" }).click();
+  await page.getByRole("option", { name: "社会", exact: true }).click();
+  await expect(status).toHaveText("8 个话题");
+  await apply.click();
+  await expect(filters).toBeHidden();
+  await expect(status).toHaveText("2 / 8 个话题");
+  await expect(cards).toHaveText(["苹果话题甲", "梨话题"]);
+  await expect(filterButton).toHaveAccessibleName("筛选，已应用 3 项条件");
+
+  await search.fill("苹果");
+  await expect(status).toHaveText("1 / 8 个话题");
+  await expect(cards).toHaveText(["苹果话题甲"]);
+  await filterButton.click();
+  await expect(filters.getByLabel("最少小时数")).toHaveValue("2");
+  await filters.getByRole("button", { name: "清除筛选" }).click();
+  await expect(status).toHaveText("7 / 8 个话题");
+  await search.clear();
+  await expect(status).toHaveText("8 个话题");
+
+  await filterButton.click();
+  await filters.getByRole("combobox", { name: "话题分类" }).click();
+  await page.getByRole("option", { name: "未分类", exact: true }).click();
+  await apply.click();
+  await expect(cards).toHaveText(["苹果话题己"]);
+});
+
 test("mobile navigation exposes all four pages", async ({ page }, testInfo) => {
   test.skip(testInfo.project.name !== "mobile", "mobile-only assertion");
   await page.goto("/");
