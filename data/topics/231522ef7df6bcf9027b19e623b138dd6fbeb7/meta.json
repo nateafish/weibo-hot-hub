@@ -3,15 +3,50 @@
   "created_at": 1763483818,
   "first_seen_at": "2026-11-06T12:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-06T12:00:00+08:00",
+  "last_seen_at": "2026-11-22T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%8D%A3%E8%80%80700%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "6家媒体",
     "users": [
       {
         "id": 1826017320,
         "idstr": "1826017320",
         "screen_name": "IT之家",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6590980486,
+        "idstr": "6590980486",
+        "screen_name": "捉谣记",
+        "verified": true,
+        "verified_type": 7
+      },
+      {
+        "id": 7467694254,
+        "idstr": "7467694254",
+        "screen_name": "太乙科技",
+        "verified": true,
+        "verified_type": 7
+      },
+      {
+        "id": 5762891674,
+        "idstr": "5762891674",
+        "screen_name": "密度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5286142904,
+        "idstr": "5286142904",
+        "screen_name": "极果",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1114021265,
+        "idstr": "1114021265",
+        "screen_name": "色影无忌官方微博",
         "verified": true,
         "verified_type": 3
       }
