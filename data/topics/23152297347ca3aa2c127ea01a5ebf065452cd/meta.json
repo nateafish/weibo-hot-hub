@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2868676035
   },
-  "last_seen_at": "2026-11-22T21:00:00+08:00",
+  "last_seen_at": "2026-11-22T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%B2%AA%E6%B7%B1%E5%8C%97%E4%BA%A4%E6%98%93%E6%89%80%E9%9B%86%E4%BD%93%E5%8F%91%E5%B8%83%E6%96%B0%E6%94%BF%23%26t%3D3&title=发布媒体",
-    "show_str": "30家媒体",
+    "show_str": "33家媒体",
     "users": [
       {
         "id": 2868676035,
@@ -26,6 +26,13 @@
         "id": 1838672663,
         "idstr": "1838672663",
         "screen_name": "华夏时报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1644358851,
+        "idstr": "1644358851",
+        "screen_name": "杭州日报",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 1651428902,
+        "idstr": "1651428902",
+        "screen_name": "21世纪经济报道",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7577335075,
         "idstr": "7577335075",
         "screen_name": "星妹儿帮帮忙",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7542252663,
-        "idstr": "7542252663",
-        "screen_name": "北京质量报告",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7476748260,
-        "idstr": "7476748260",
-        "screen_name": "大公文匯網",
         "verified": true,
         "verified_type": 3
       }
