@@ -10,11 +10,33 @@
     "status": 2,
     "uid": 6511173721
   },
-  "last_seen_at": "2026-11-23T06:00:00+08:00",
+  "last_seen_at": "2026-11-23T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%9D%92%E7%A8%9A%E5%A4%BA%E5%86%A0%E5%90%8E%E7%9B%B4%E6%92%AD%E7%83%AD%E5%BA%A6%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "3家媒体",
+    "users": [
+      {
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2813313591,
+        "idstr": "2813313591",
+        "screen_name": "中新网海南",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1867427515,
+        "idstr": "1867427515",
+        "screen_name": "新派新闻",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#青稚夺冠后直播热度#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%A8%9A%E5%A4%BA%E5%86%A0%E5%90%8E%E7%9B%B4%E6%92%AD%E7%83%AD%E5%BA%A6%23",
