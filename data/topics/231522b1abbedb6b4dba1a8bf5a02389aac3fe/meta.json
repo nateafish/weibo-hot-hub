@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 1037515071
   },
-  "last_seen_at": "2026-11-22T13:00:00+08:00",
+  "last_seen_at": "2026-11-22T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A5%B3%E5%8D%9A%E5%A3%AB%E5%8D%A7%E5%BA%95%E5%BD%93%E4%B8%BB%E6%92%AD%E7%A7%B0%E8%87%B3%E4%BB%8A%E5%BF%83%E7%90%86%E9%98%B4%E5%BD%B1%23%26t%3D3&title=发布媒体",
-    "show_str": "94家媒体",
+    "show_str": "100家媒体",
     "users": [
       {
         "id": 1037515071,
         "idstr": "1037515071",
         "screen_name": "央视新闻调查",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2824067765,
+        "idstr": "2824067765",
+        "screen_name": "贺州日报官微",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1738004582,
+        "idstr": "1738004582",
+        "screen_name": "纵览新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 1856446532,
         "idstr": "1856446532",
         "screen_name": "合新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1751714412,
-        "idstr": "1751714412",
-        "screen_name": "大皖新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1497087080,
-        "idstr": "1497087080",
-        "screen_name": "羊城晚报",
         "verified": true,
         "verified_type": 3
       }

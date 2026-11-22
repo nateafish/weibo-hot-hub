@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1700720163
   },
-  "last_seen_at": "2026-11-22T13:00:00+08:00",
+  "last_seen_at": "2026-11-22T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%232.2%E5%B9%B3%E6%88%BF%E5%AD%90%E5%8D%9660%E4%B8%87%E4%B8%AD%E4%BB%8B%E7%A7%B0%E8%BF%98%E6%B2%A1%E4%BA%BA%E7%9C%8B%E6%88%BF%23%26t%3D3&title=发布媒体",
-    "show_str": "24家媒体",
+    "show_str": "27家媒体",
     "users": [
       {
         "id": 1751714412,
         "idstr": "1751714412",
         "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1734530730,
+        "idstr": "1734530730",
+        "screen_name": "大河报",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 6112949209,
-        "idstr": "6112949209",
-        "screen_name": "潮新闻",
+        "id": 6444725927,
+        "idstr": "6444725927",
+        "screen_name": "吉祥新闻",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 5116298586,
-        "idstr": "5116298586",
-        "screen_name": "昆明日报掌上春城",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3901624042,
-        "idstr": "3901624042",
-        "screen_name": "山西日报",
+        "id": 6207911580,
+        "idstr": "6207911580",
+        "screen_name": "大河报豫视频",
         "verified": true,
         "verified_type": 3
       }
