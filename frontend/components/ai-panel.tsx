@@ -115,47 +115,114 @@ function VersionComparison({ topicId, before, after }: { topicId: string; before
 const formatPercentage = new Intl.NumberFormat("zh-CN", { maximumFractionDigits: 2 });
 const formatDelta = new Intl.NumberFormat("zh-CN", { maximumFractionDigits: 2, signDisplay: "exceptZero" });
 
+function summarizeReferenceTrace(trace?: AiReferenceTrace) {
+  if (!trace) return undefined;
+
+  const total = trace.reported_count;
+  const percentages = new Map(trace.breakdown.map(({ label, percent }) => [label, percent]));
+  const counts = new Map<string, number>();
+  const classifiedMids = new Set<string>();
+  for (const { mid, category } of trace.posts) {
+    if (!category || classifiedMids.has(mid)) continue;
+    classifiedMids.add(mid);
+    counts.set(category, (counts.get(category) ?? 0) + 1);
+  }
+
+  const complete = total > 0 && trace.posts.length === total && classifiedMids.size === total;
+  const labels = new Set(percentages.keys());
+  if (complete) {
+    for (const label of counts.keys()) labels.add(label);
+  }
+  return { total, percentages, labels, counts: complete ? counts : undefined };
+}
+
+function getReferenceCategory(version: ReturnType<typeof summarizeReferenceTrace>, label: string) {
+  if (version?.counts) {
+    const count = version.counts.get(label) ?? 0;
+    return { count, percent: (count / version.total) * 100 };
+  }
+  return { count: undefined, percent: version?.percentages.get(label) };
+}
+
 function ReferenceBreakdownComparison({ before, after }: { before?: AiReferenceTrace; after?: AiReferenceTrace }) {
-  const baseline = new Map(before?.breakdown.map(({ label, percent }) => [label, percent]));
-  const comparison = new Map(after?.breakdown.map(({ label, percent }) => [label, percent]));
-  const categories = [...new Set([...baseline.keys(), ...comparison.keys()])];
-  if (!before && !after) return <p className="text-xs text-muted-foreground">这两版归档未保存认证占比。</p>;
+  if (!before && !after) return <p className="text-xs text-muted-foreground">这两版未归档信源分类。</p>;
+  const baseline = summarizeReferenceTrace(before);
+  const comparison = summarizeReferenceTrace(after);
+  const categories = [...new Set([...(baseline?.labels ?? []), ...(comparison?.labels ?? [])])];
+  const hasCompleteComparison = baseline?.counts && comparison?.counts;
+  const hasIncompleteTrace = (baseline && !baseline.counts) || (comparison && !comparison.counts);
 
   return (
     <section aria-label="信源账号占比变化" className="overflow-hidden rounded-lg border">
       <h3 className="border-b bg-muted/40 px-3 py-2.5 text-sm font-semibold">信源账号占比变化</h3>
-      <table className="w-full text-sm tabular-nums">
+      <table className="w-full text-xs tabular-nums sm:text-sm">
         <thead className="text-xs text-muted-foreground">
           <tr>
-            <th scope="col" className="p-2 pl-3 text-left font-medium">账号类型</th>
-            <th scope="col" className="p-2 text-right font-medium">基准版</th>
-            <th scope="col" className="p-2 text-right font-medium">对照版</th>
-            <th scope="col" className="p-2 pr-3 text-right font-medium">变化</th>
+            <th scope="col" className="py-2 pl-2 pr-1 text-left font-medium sm:pl-3">账号类型</th>
+            <th scope="col" className="px-1 py-2 text-right font-medium sm:px-2">基准版</th>
+            <th scope="col" className="px-1 py-2 text-right font-medium sm:px-2">对照版</th>
+            <th scope="col" className="py-2 pl-1 pr-2 text-right font-medium sm:pr-3">变化</th>
           </tr>
         </thead>
         <tbody>
           <tr className="border-t">
-            <th scope="row" className="p-2 pl-3 text-left font-medium">引用博文</th>
-            <td className="p-2 text-right">{before ? `${before.reported_count} 篇` : "—"}</td>
-            <td className="p-2 text-right">{after ? `${after.reported_count} 篇` : "—"}</td>
-            <td className="p-2 pr-3 text-right">{before && after ? `${formatDelta.format(after.reported_count - before.reported_count)} 篇` : "—"}</td>
+            <th scope="row" className="whitespace-nowrap py-2 pl-2 pr-1 text-left font-medium sm:pl-3">引用博文</th>
+            <td className="px-1 py-2 text-right sm:px-2">{before ? `${before.reported_count} 篇` : "—"}</td>
+            <td className="px-1 py-2 text-right sm:px-2">{after ? `${after.reported_count} 篇` : "—"}</td>
+            <td className="py-2 pl-1 pr-2 text-right sm:pr-3">{before && after ? `${formatDelta.format(after.reported_count - before.reported_count)} 篇` : "—"}</td>
           </tr>
           {categories.map((label) => {
-            const from = baseline.get(label);
-            const to = comparison.get(label);
-            const change = from === undefined || to === undefined ? undefined : to - from;
+            const from = getReferenceCategory(baseline, label);
+            const to = getReferenceCategory(comparison, label);
+            const change = from.percent === undefined || to.percent === undefined ? undefined : to.percent - from.percent;
+            let effects: { countChange: number; countEffect: number; totalEffect: number } | undefined;
+            if (baseline && comparison && from.count !== undefined && to.count !== undefined) {
+              const countChange = to.count - from.count;
+              const beforeWeight = 1 / baseline.total;
+              const afterWeight = 1 / comparison.total;
+              // Average both orders of changing the count and the total.
+              effects = {
+                countChange,
+                countEffect: countChange * ((beforeWeight + afterWeight) / 2) * 100,
+                totalEffect: ((from.count + to.count) / 2) * (afterWeight - beforeWeight) * 100,
+              };
+            }
+
             return (
               <tr key={label} className="border-t">
-                <th scope="row" className="p-2 pl-3 text-left font-medium">{label}</th>
-                <td className="p-2 text-right">{from === undefined ? "—" : `${formatPercentage.format(from)}%`}</td>
-                <td className="p-2 text-right">{to === undefined ? "—" : `${formatPercentage.format(to)}%`}</td>
-                <td className="p-2 pr-3 text-right">{change === undefined ? "—" : `${formatDelta.format(change)} 个百分点`}</td>
+                <th scope="row" className="whitespace-nowrap py-2 pl-2 pr-1 text-left align-top font-medium sm:pl-3">{label}</th>
+                {[from, to].map(({ count, percent }, index) => (
+                  <td key={index === 0 ? "before" : "after"} className="px-1 py-2 text-right align-top sm:px-2">
+                    {count !== undefined && <span className="block whitespace-nowrap font-medium">{count} 篇</span>}
+                    <span className="block text-xs text-muted-foreground">{percent === undefined ? "—" : `${formatPercentage.format(percent)}%`}</span>
+                  </td>
+                ))}
+                <td className="py-2 pl-1 pr-2 text-right align-top sm:pr-3">
+                  {effects && <span className="block font-medium">{formatDelta.format(effects.countChange)} 篇</span>}
+                  <span className="block text-xs font-medium">
+                    {change === undefined ? "—" : <>{formatDelta.format(change)} <span className="whitespace-nowrap">个百分点</span></>}
+                  </span>
+                  {effects && (
+                    <dl className="mt-1.5 grid grid-cols-[auto_auto] justify-end gap-x-1.5 text-xs text-muted-foreground">
+                      <dt className="whitespace-nowrap">篇数<span className="sr-only min-[360px]:not-sr-only">影响</span></dt>
+                      <dd>{formatDelta.format(effects.countEffect)}<span className="sr-only"> 个百分点</span></dd>
+                      <dt className="whitespace-nowrap">总量<span className="sr-only min-[360px]:not-sr-only">影响</span></dt>
+                      <dd>{formatDelta.format(effects.totalEffect)}<span className="sr-only"> 个百分点</span></dd>
+                    </dl>
+                  )}
+                </td>
               </tr>
             );
           })}
         </tbody>
       </table>
-      {(!before || !after) && <p className="border-t px-3 py-2 text-xs text-muted-foreground">{before ? "对照版" : "基准版"}的归档未保存认证占比。</p>}
+      {(hasCompleteComparison || hasIncompleteTrace || !before || !after) && (
+        <div className="space-y-1 border-t px-3 py-2 text-xs leading-relaxed text-muted-foreground">
+          {hasCompleteComparison && <p>占比按归档篇数计算。篇数影响取两版引用总量下的平均值，总量影响取两版该类篇数下的平均值。两项均以百分点计，显示值已四舍五入。</p>}
+          {hasIncompleteTrace && <p>分类明细不全的版本仅显示归档占比。</p>}
+          {(!before || !after) && <p>{before ? "对照版" : "基准版"}未归档信源分类。</p>}
+        </div>
+      )}
     </section>
   );
 }
@@ -226,9 +293,12 @@ function VersionReferenceTrace({ topicId, versions, version, onChange }: {
 
 function AiVersionPanel({ summary }: { summary: TopicSummary }) {
   const versions = summary.ai_versions;
-  const [version, setVersion] = useState(versions[0].id);
-  const [before, setBefore] = useState(versions[1]?.id ?? versions[0].id);
-  const [after, setAfter] = useState(versions[0].id);
+  const latest = versions[0];
+  const earliest = versions[versions.length - 1];
+  const defaultBaseline = latest.has_reference_trace && earliest.has_reference_trace ? earliest : (versions[1] ?? latest);
+  const [version, setVersion] = useState(latest.id);
+  const [before, setBefore] = useState(defaultBaseline.id);
+  const [after, setAfter] = useState(latest.id);
   const hasVersionTraces = versions.some((item) => item.has_reference_trace);
 
   function swapVersions() {
