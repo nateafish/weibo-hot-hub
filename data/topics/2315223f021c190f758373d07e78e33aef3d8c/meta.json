@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 1618051664
   },
-  "last_seen_at": "2026-11-22T23:00:00+08:00",
+  "last_seen_at": "2026-11-23T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%A1%80%E5%8E%8B%E8%BF%99%E4%B8%AA%E5%8C%BA%E9%97%B4%E4%B8%8D%E5%86%8D%E8%A7%86%E4%BD%9C%E6%8E%A5%E8%BF%91%E6%AD%A3%E5%B8%B8%23%26t%3D3&title=发布媒体",
-    "show_str": "14家媒体",
+    "show_str": "19家媒体",
     "users": [
       {
         "id": 1618051664,
         "idstr": "1618051664",
         "screen_name": "头条新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2011075080,
+        "idstr": "2011075080",
+        "screen_name": "齐鲁晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,9 +44,9 @@
         "verified_type": 3
       },
       {
-        "id": 5396094153,
-        "idstr": "5396094153",
-        "screen_name": "大众新闻-大众日报",
+        "id": 3901624042,
+        "idstr": "3901624042",
+        "screen_name": "山西日报",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 2290787940,
         "idstr": "2290787940",
         "screen_name": "扬州晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2118120483,
-        "idstr": "2118120483",
-        "screen_name": "青岛日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2087169013,
-        "idstr": "2087169013",
-        "screen_name": "法治日报",
         "verified": true,
         "verified_type": 3
       }
