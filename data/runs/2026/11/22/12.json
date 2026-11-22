@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-22T12:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#习近平总书记广东行#",
+      "rank": 1,
+      "title": "习近平总书记广东行",
+      "topic_id": "231522513c1d8dd162708f197444a7286b527b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#羽绒服生意变天了#",
+      "rank": 1,
+      "title": "羽绒服生意变天了",
+      "topic_id": "2315227a15d583765068f0d7dc88c583f7cc38"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#日媒逐帧解析特朗普无视高市#",
+      "rank": 2,
+      "title": "日媒逐帧解析特朗普无视高市",
+      "topic_id": "2315229423f95f05b95bc1ffbeeba701500592"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#从琼崖烽火到开放自贸港#",
+      "rank": 3,
+      "title": "从琼崖烽火到开放自贸港",
+      "topic_id": "231522d63aeae332ea0301e880e682dfcae172"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#这居然是王子璇#",
+      "rank": 4,
+      "title": "这居然是王子璇",
+      "topic_id": "2315227cdaf15cbdfa5d01e1300004c3e604b9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#文班亚马50分19板5帽4断#",
+      "rank": 5,
+      "title": "文班亚马50分19板5帽4断",
+      "topic_id": "2315226c80214d7fe8db81d432f2a800f58d60"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#余文乐躯体化严重到不能开车#",
+      "rank": 6,
+      "title": "余文乐躯体化严重到不能开车",
+      "topic_id": "231522672cb056a3916c8c5b03b05ae1ef0e98"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "朱瞻基 扫黄",
+      "rank": 7,
+      "title": "朱瞻基 扫黄",
+      "topic_id": "2315220160e72cf63a7c13c13bddbee4196ee9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#女博士卧底当主播称至今心理阴影#",
+      "rank": 8,
+      "title": "女博士卧底当主播称至今心理阴影",
+      "topic_id": "231522b1abbedb6b4dba1a8bf5a02389aac3fe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "金价",
+      "rank": 9,
+      "title": "金价",
+      "topic_id": "2315220939143c10eef68103b7bae2fe235d9e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#女主播每天一下播就哭#",
+      "rank": 10,
+      "title": "女主播每天一下播就哭",
+      "topic_id": "231522497e6f63ee9398e6466e41319c282b6e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#女子多次留言强奸罪服刑男友想你了#",
+      "rank": 11,
+      "title": "女子多次留言强奸罪服刑男友想你了",
+      "topic_id": "231522dfd66012565792d51ca156575687b39a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张元英机场素颜被审判#",
+      "rank": 12,
+      "title": "张元英机场素颜被审判",
+      "topic_id": "23152244d970f55eb52661c9da55522e5d71d8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#樊少皇大女儿中基因彩票了#",
+      "rank": 13,
+      "title": "樊少皇大女儿中基因彩票了",
+      "topic_id": "2315220febad0f3abf073aa60384c655cd1848"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "怪不得王子璇要去做医美",
+      "rank": 14,
+      "title": "怪不得王子璇要去做医美",
+      "topic_id": "23152229bc1832f5ab26a81c8da707877e6822"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#终于知道明星走路和普通人的区别了#",
+      "rank": 15,
+      "title": "终于知道明星走路和普通人的区别了",
+      "topic_id": "231522a60c95a45499f0f212078f8a4ed0f3e5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#央视揭秘网络女主播真实生态#",
+      "rank": 16,
+      "title": "央视揭秘网络女主播真实生态",
+      "topic_id": "2315228759ccf4a29f443c2be010eba98b03ad"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#英皇到底亏了多少陈伟霆要穿成这样#",
+      "rank": 17,
+      "title": "英皇到底亏了多少陈伟霆要穿成这样",
+      "topic_id": "23152218804eec1bcd6ab51bc46c00914be8b8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "武汉小学告示让孩子自己承担后果",
+      "rank": 18,
+      "title": "武汉小学告示让孩子自己承担后果",
+      "topic_id": "2315228b4497f2155d42c5a471f74a89981d99"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#墨西哥总统迷上八段锦#",
+      "rank": 19,
+      "title": "墨西哥总统迷上八段锦",
+      "topic_id": "23152289930d275457744397bd8d6bd6bab876"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "数学家 黎曼猜想",
+      "rank": 20,
+      "title": "数学家 黎曼猜想",
+      "topic_id": "231522fd3429deefd49a90a90b1d494805ef35"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#谢军涉嫌严重违纪违法#",
+      "rank": 21,
+      "title": "谢军涉嫌严重违纪违法",
+      "topic_id": "231522b12dc2fc0b8b913a86e96268fa941f40"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#特朗普回应称普京是朋友#",
+      "rank": 22,
+      "title": "特朗普回应称普京是朋友",
+      "topic_id": "2315221cac71e39285a119dd41dbe65dfbf87e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#十种不舒服是抑郁症躯体化表现#",
+      "rank": 23,
+      "title": "十种不舒服是抑郁症躯体化表现",
+      "topic_id": "2315221d3c248c65056633b6767272ab5e57b8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "PEL选手直播买圈言论",
+      "rank": 24,
+      "title": "PEL选手直播买圈言论",
+      "topic_id": "2315225745ae8d9cd0c08afe28e9d1cf2cb90a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#曝BLG紧急飞韩挽留Viper#",
+      "rank": 25,
+      "title": "曝BLG紧急飞韩挽留Viper",
+      "topic_id": "231522a220db448ef69d53f4194fba41119fed"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "捡来的猫有人要领就装晕",
+      "rank": 26,
+      "title": "捡来的猫有人要领就装晕",
+      "topic_id": "231522ffbddf7655df66eedd2f7a074f442eba"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#2.2平房子卖60万中介称还没人看房#",
+      "rank": 27,
+      "title": "2.2平房子卖60万中介称还没人看房",
+      "topic_id": "2315228c1acba58fd7ab85ea57dce45f6ab641"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "斗破苍穹双帝之战",
+      "rank": 28,
+      "title": "斗破苍穹双帝之战",
+      "topic_id": "231522fde89d8730c252db9561bd267c70d965"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#孟子义打李昀锐好顺手#",
+      "rank": 29,
+      "title": "孟子义打李昀锐好顺手",
+      "topic_id": "231522635902aea58ffb85adac1a3ccee13446"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#2名在华日本人发生冲突1人死亡#",
+      "rank": 30,
+      "title": "2名在华日本人发生冲突1人死亡",
+      "topic_id": "2315229498b472ef31be8f665281fb35cf351f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "成毅朱亚文 朱瞻基",
+      "rank": 31,
+      "title": "成毅朱亚文 朱瞻基",
+      "topic_id": "231522c7c7d08de9dccc8f07fa2fc759d8ec75"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#399元和3万元羽绒服差在哪#",
+      "rank": 32,
+      "title": "399元和3万元羽绒服差在哪",
+      "topic_id": "23152250e3eb70d3eece3aa3325411beadcd88"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#金价连跌想买想卖的都急了#",
+      "rank": 33,
+      "title": "金价连跌想买想卖的都急了",
+      "topic_id": "2315220cf7b2c10b69e67b4461eeb0a3b022ea"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "粉笔模考",
+      "rank": 34,
+      "title": "粉笔模考",
+      "topic_id": "231522e62a06911e1af3eedf07c99b9e657c7c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#布里奇斯压哨绝杀开拓者#",
+      "rank": 35,
+      "title": "布里奇斯压哨绝杀开拓者",
+      "topic_id": "231522cac2728625269beb25e4531b940945c3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "赵本山慌啥子嘛为什么能击中年轻人",
+      "rank": 36,
+      "title": "赵本山慌啥子嘛为什么能击中年轻人",
+      "topic_id": "23152209c55a7655c476a398c64854cfbe30aa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "梦杨 qc",
+      "rank": 37,
+      "title": "梦杨 qc",
+      "topic_id": "2315221d52c5e72ad92d139904878b2644a034"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 5,
+      "posts": "saved",
+      "query": "#女子带浣熊逛夜市咬伤路人#",
+      "rank": 38,
+      "title": "女子带浣熊逛夜市咬伤路人",
+      "topic_id": "2315225e5c6abfff26b3fdf1d8bd584d1ef3a5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#存脐带血公司注销断联老板被限消#",
+      "rank": 39,
+      "title": "存脐带血公司注销断联老板被限消",
+      "topic_id": "231522bad9566de7a4bf59c37fa98c22be5f5c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#女博士第一次连线PK被惩罚浇水#",
+      "rank": 40,
+      "title": "女博士第一次连线PK被惩罚浇水",
+      "topic_id": "2315228e01e0f8cc2262e5e524c74ab9232513"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "董思成泡泡",
+      "rank": 41,
+      "title": "董思成泡泡",
+      "topic_id": "231522f85d62a2f5d7b522e7b76eae98a6a703"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#菲律宾总统涉华最新表态#",
+      "rank": 42,
+      "title": "菲律宾总统涉华最新表态",
+      "topic_id": "2315221c32ce0a68cb5bdbba40b960a829ba3b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张雪峰的接班人武亮回母校演讲#",
+      "rank": 43,
+      "title": "张雪峰的接班人武亮回母校演讲",
+      "topic_id": "231522cff15aed9c05563d0bf55245014965f5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#羽绒服越来越像时装了#",
+      "rank": 44,
+      "title": "羽绒服越来越像时装了",
+      "topic_id": "231522d1d87f3ed7dd2c518879f7acaf2454cb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "两京十五日口碑两极分化",
+      "rank": 45,
+      "title": "两京十五日口碑两极分化",
+      "topic_id": "231522de3eeb15150e73656e2c1df1c0974a92"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#英如镝回应英达收回巴图英姓传闻#",
+      "rank": 46,
+      "title": "英如镝回应英达收回巴图英姓传闻",
+      "topic_id": "2315226cdf9cd95b9c41812e484506d324bcd5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "于谦 朱瞻基",
+      "rank": 47,
+      "title": "于谦 朱瞻基",
+      "topic_id": "23152210fc7702f8b3103641b984cbf660f505"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#特朗普晒与普京合照配文我的朋友#",
+      "rank": 48,
+      "title": "特朗普晒与普京合照配文我的朋友",
+      "topic_id": "231522f5bc31bf9cf8cd5051807c477a558352"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#白小纯粉丝群发言#",
+      "rank": 49,
+      "title": "白小纯粉丝群发言",
+      "topic_id": "231522ba2837f107ea73eef866e8ce028c1744"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "25万页AI黎曼猜想证明难核验",
+      "rank": 50,
+      "title": "25万页AI黎曼猜想证明难核验",
+      "topic_id": "23152229bb9e715088f21596cdda39058f7ebe"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

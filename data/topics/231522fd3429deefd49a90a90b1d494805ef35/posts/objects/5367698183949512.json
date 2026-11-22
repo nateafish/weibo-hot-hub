@@ -1,0 +1,15 @@
+{
+  "account": {
+    "badge": "无徽标",
+    "observed_at": "2026-11-22T12:15:30+08:00",
+    "source": "mobile_user",
+    "verified": false,
+    "verified_type": -1
+  },
+  "body": "就在今天，数学界同时出现了两份独立的黎曼猜想（更准确说是广义黎曼猜想 GRH）证明。感觉是人类智力和AI的最后一次生死对决了——\n1. AI 协助版（Levent Alpöge + Claude）\nAnthropic 的数学家 Levent Alpöge 在个人网站发布了4页声明，称自己与 Claude 合作，找到了黎曼猜想以及广义黎曼猜想（GRH）的证明。他没有发布传统人类可读的论文，而是直接放出了约1700万行的 Lean 形式化代码（分成14个压缩包），并表示完整文字稿超过25万页，太长所以没公开。\n初步验证情况比较积极：MIT 的 Andrew Sutherland 等人已独立编译通过，多个独立内核也接受了证明，主定理陈述与 Mathlib 中的标准定义一致。牛津大学 James Maynard 表示“有98%或99%的把握它是对的”。\n2. 纯人类版（Alessandro Masullo）\n几乎同一时间，美国数学学会主席 Ravi Vakil 紧急公开了斯坦福数学家 Alessandro Masullo 的一份约940页草稿，声称证明了广义黎曼猜想。\n这份工作完全没有使用 AI，是他研究了近12年的成果。斯坦福的 Brian Conrad 已经私下审阅了几个月，目前评价是“没有重大漏洞，进展顺利”。方法和 Alpöge 的完全不同。",
+  "created_at_text": "Sat Nov 21 14:27:17 +0800 2026",
+  "mid": "5367698183949512",
+  "uid": "1769741763",
+  "url": "https://m.weibo.cn/detail/5367698183949512",
+  "username": "洛之秋"
+}
