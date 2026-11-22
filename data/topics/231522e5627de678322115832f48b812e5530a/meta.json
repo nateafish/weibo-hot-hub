@@ -3,11 +3,33 @@
   "created_at": 1795331954,
   "first_seen_at": "2026-11-22T16:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-22T16:00:00+08:00",
+  "last_seen_at": "2026-11-22T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%89%B9%E6%96%AF%E6%8B%89FSD%E5%AE%9E%E6%99%AF%E7%95%8C%E9%9D%A2%E5%BE%88%E7%82%AB%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "3家媒体",
+    "users": [
+      {
+        "id": 5762891674,
+        "idstr": "5762891674",
+        "screen_name": "密度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2660940103,
+        "idstr": "2660940103",
+        "screen_name": "环球网科技频道",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2041117703,
+        "idstr": "2041117703",
+        "screen_name": "合肥日报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "特斯拉FSD实景界面很炫",
   "search_url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89fsd%E5%AE%9E%E6%99%AF%E7%95%8C%E9%9D%A2%E5%BE%88%E7%82%AB%23",

@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1926909715
   },
-  "last_seen_at": "2026-11-22T16:00:00+08:00",
+  "last_seen_at": "2026-11-22T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E8%AF%81%E6%98%8E%E8%8E%B7%E8%AE%A4%E8%AF%81%23%26t%3D3&title=发布媒体",
-    "show_str": "8家媒体",
+    "show_str": "10家媒体",
     "users": [
       {
         "id": 1926909715,
@@ -26,6 +26,13 @@
         "id": 1750070171,
         "idstr": "1750070171",
         "screen_name": "36氪",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -51,16 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2685336121,
-        "idstr": "2685336121",
-        "screen_name": "南宁晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1960785875,
-        "idstr": "1960785875",
-        "screen_name": "津云新闻",
+        "id": 1986954045,
+        "idstr": "1986954045",
+        "screen_name": "广西新闻网",
         "verified": true,
         "verified_type": 3
       }

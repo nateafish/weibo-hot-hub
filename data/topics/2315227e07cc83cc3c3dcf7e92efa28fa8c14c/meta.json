@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 6260534625
   },
-  "last_seen_at": "2026-11-22T16:00:00+08:00",
+  "last_seen_at": "2026-11-22T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%83%AD%E7%A2%A7%E5%A9%B7%E7%94%9F%E4%BA%8C%E8%83%8E%E7%9A%84%E6%97%B6%E5%80%99%E9%81%87%E5%88%B0%E8%84%90%E5%B8%A6%E7%BB%95%E9%A2%88%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "8家媒体",
     "users": [
       {
         "id": 2027480085,
@@ -44,9 +44,23 @@
         "verified_type": 3
       },
       {
+        "id": 2010802407,
+        "idstr": "2010802407",
+        "screen_name": "中国台州网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1880922220,
         "idstr": "1880922220",
         "screen_name": "金华晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1720962692,
+        "idstr": "1720962692",
+        "screen_name": "极目新闻",
         "verified": true,
         "verified_type": 3
       }
