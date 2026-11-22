@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1784473157
   },
-  "last_seen_at": "2026-11-22T20:00:00+08:00",
+  "last_seen_at": "2026-11-22T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%AB%98%E5%8E%8B130%E4%BD%8E%E5%8E%8B80%E8%B5%B7%E8%A2%AB%E5%AE%9A%E4%B9%89%E4%B8%BA%E8%A1%80%E5%8E%8B%E5%8D%87%E9%AB%98%23%26t%3D3&title=发布媒体",
-    "show_str": "14家媒体",
+    "show_str": "39家媒体",
     "users": [
       {
         "id": 1784473157,
@@ -30,9 +30,23 @@
         "verified_type": 3
       },
       {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1751714412,
         "idstr": "1751714412",
         "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3251720635,
+        "idstr": "3251720635",
+        "screen_name": "邯郸网络广播电视台",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 7728270349,
-        "idstr": "7728270349",
-        "screen_name": "新闻种草官",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7126605018,
-        "idstr": "7126605018",
-        "screen_name": "各界新闻网官微",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3804173419,
-        "idstr": "3804173419",
-        "screen_name": "各界导报社官微",
+        "id": 1882632930,
+        "idstr": "1882632930",
+        "screen_name": "新消息报",
         "verified": true,
         "verified_type": 3
       }
