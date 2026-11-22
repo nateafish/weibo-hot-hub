@@ -10,11 +10,54 @@
     "status": 2,
     "uid": 6915891722
   },
-  "last_seen_at": "2026-11-22T09:00:00+08:00",
+  "last_seen_at": "2026-11-22T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E7%B2%89%E4%B8%9D%E7%BE%A4%E5%8F%91%E8%A8%80%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "6家媒体",
+    "users": [
+      {
+        "id": 2145932164,
+        "idstr": "2145932164",
+        "screen_name": "东莞日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1849791654,
+        "idstr": "1849791654",
+        "screen_name": "海南音乐广播",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1725252714,
+        "idstr": "1725252714",
+        "screen_name": "温度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1680198782,
+        "idstr": "1680198782",
+        "screen_name": "更东莞",
+        "verified": false,
+        "verified_type": -1
+      },
+      {
+        "id": 1657914910,
+        "idstr": "1657914910",
+        "screen_name": "烟台日报社大小新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1280846847,
+        "idstr": "1280846847",
+        "screen_name": "指尖新闻-沈阳晚报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#白小纯粉丝群发言#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E7%B2%89%E4%B8%9D%E7%BE%A4%E5%8F%91%E8%A8%80%23",
