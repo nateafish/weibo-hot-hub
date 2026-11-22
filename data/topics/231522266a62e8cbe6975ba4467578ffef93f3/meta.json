@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1904947977
   },
-  "last_seen_at": "2026-11-23T05:00:00+08:00",
+  "last_seen_at": "2026-11-23T06:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA%E8%A2%AB%E6%96%B0%E7%96%86%E8%8A%9D%E9%BA%BB%E7%B3%96%E7%B2%98%E6%8E%89%E9%97%A8%E7%89%99%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "3家媒体",
     "users": [
       {
         "id": 2308711425,
@@ -26,6 +26,13 @@
         "id": 1904947977,
         "idstr": "1904947977",
         "screen_name": "天山网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1867427515,
+        "idstr": "1867427515",
+        "screen_name": "新派新闻",
         "verified": true,
         "verified_type": 3
       }
