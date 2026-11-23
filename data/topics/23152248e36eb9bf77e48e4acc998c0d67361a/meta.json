@@ -3,15 +3,22 @@
   "created_at": 1795353976,
   "first_seen_at": "2026-11-23T10:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-23T10:00:00+08:00",
+  "last_seen_at": "2026-11-23T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%83%A1%E7%83%A8%E9%9F%AC+%E7%8E%8B%E6%94%BF%E7%86%8A%E6%98%AF%E8%B0%81%E5%95%8A%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "3家媒体",
     "users": [
       {
         "id": 1642591402,
         "idstr": "1642591402",
         "screen_name": "新浪娱乐",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2535760180,
+        "idstr": "2535760180",
+        "screen_name": "安徽视讯",
         "verified": true,
         "verified_type": 3
       },
