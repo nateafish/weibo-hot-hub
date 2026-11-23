@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-23T10:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#亚太同行深入人心#",
+      "rank": 1,
+      "title": "亚太同行深入人心",
+      "topic_id": "23152292374071aa6f813f86f12d977200eb08"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#官方通报百万粉丝主播被指私闯果园#",
+      "rank": 1,
+      "title": "官方通报百万粉丝主播被指私闯果园",
+      "topic_id": "231522a68f685aae6fc02898c1bbf7a0d5714a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#人民日报评1991年张大爷烂梗#",
+      "rank": 2,
+      "title": "人民日报评1991年张大爷烂梗",
+      "topic_id": "231522312fc1bc00518a80057b67186028da88"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#一图解读我国消费市场多元图景#",
+      "rank": 3,
+      "title": "一图解读我国消费市场多元图景",
+      "topic_id": "231522b2a2d907a2c07d31353260264c8e8896"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#某部委员工与间谍合作泄密被判死刑#",
+      "rank": 4,
+      "title": "某部委员工与间谍合作泄密被判死刑",
+      "topic_id": "231522c2b1fe0d3f4d1acb1f6c498606fc1199"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#行李箱也能自己上楼了#",
+      "rank": 5,
+      "title": "行李箱也能自己上楼了",
+      "topic_id": "2315220c65a1f46c72bdae18d6ebb0cffe39d6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "黄金",
+      "rank": 6,
+      "title": "黄金",
+      "topic_id": "23152211289a9c3dbe0fb8810cf271903fc8ac"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#主播私闯果园带货系找错地点#",
+      "rank": 7,
+      "title": "主播私闯果园带货系找错地点",
+      "topic_id": "231522cbf98597dcb09bb24f867fd454ac9ea3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#treetree的炸鸡外卖火到被迫成为门店#",
+      "rank": 8,
+      "title": "treetree的炸鸡外卖火到被迫成为门店",
+      "topic_id": "2315228b143c54866e15fef07c07fb31fa1f4f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#成毅白龙挂镜头太震撼了#",
+      "rank": 9,
+      "title": "成毅白龙挂镜头太震撼了",
+      "topic_id": "2315221804a6726423f64e24a9cdd3dad7a8fc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "厉娜 拍完了然后放我回家",
+      "rank": 10,
+      "title": "厉娜 拍完了然后放我回家",
+      "topic_id": "231522636bb9e7b63d91a3dc2210d2a8876142"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#除了李惠利被镜头切到的艺人都如临大敌#",
+      "rank": 11,
+      "title": "除了李惠利被镜头切到的艺人都如临大敌",
+      "topic_id": "23152266900e946e1c8de338211c31439b8362"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#向芷不愧是向家的团宠#",
+      "rank": 12,
+      "title": "向芷不愧是向家的团宠",
+      "topic_id": "231522d35c837b9d51e807d8515962098a79c5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#男子性侵表妹多年获刑十年#",
+      "rank": 13,
+      "title": "男子性侵表妹多年获刑十年",
+      "topic_id": "231522e60e0bf087bf7a370e2139fc2cdaea59"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#难道当了爱豆就要一辈子单身吗#",
+      "rank": 14,
+      "title": "难道当了爱豆就要一辈子单身吗",
+      "topic_id": "231522059d0bebac03f3a1c0943ebe02bc8c39"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "高校鸭子被撞死司机道歉",
+      "rank": 15,
+      "title": "高校鸭子被撞死司机道歉",
+      "topic_id": "2315220e0f4e5a1cc5e17d4f20caa97e21fb6c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "IU演唱会",
+      "rank": 16,
+      "title": "IU演唱会",
+      "topic_id": "2315228758d337a3533bb7eef49e7426d236be"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#青稚夺冠后直播热度#",
+      "rank": 17,
+      "title": "青稚夺冠后直播热度",
+      "topic_id": "231522488578ceb186caf9a223402369245352"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "胡烨韬 王政熊是谁啊",
+      "rank": 18,
+      "title": "胡烨韬 王政熊是谁啊",
+      "topic_id": "23152248e36eb9bf77e48e4acc998c0d67361a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "樊振东1比3约内斯库",
+      "rank": 19,
+      "title": "樊振东1比3约内斯库",
+      "topic_id": "2315222d5fb89295de61f9ba48b37b7f545dc2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#张雪回应给外卖员做电摩#",
+      "rank": 20,
+      "title": "张雪回应给外卖员做电摩",
+      "topic_id": "231522de7d77c5540695ca5a286065edd1b52d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#这下换厉娜画地为牢了#",
+      "rank": 21,
+      "title": "这下换厉娜画地为牢了",
+      "topic_id": "2315220bc85cd47f52151288292c5ab5aecd99"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#央视主持人录节目假牙丢了#",
+      "rank": 22,
+      "title": "央视主持人录节目假牙丢了",
+      "topic_id": "231522beb1fa1d8419a75c3d663386c940ea57"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "TTG教练pomi",
+      "rank": 23,
+      "title": "TTG教练pomi",
+      "topic_id": "231522a30bc4bc0d0aa44d0857dd4abab6d300"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "熬夜的报应是离谱情感帖",
+      "rank": 24,
+      "title": "熬夜的报应是离谱情感帖",
+      "topic_id": "2315225b94fca6217405eeec6f4c46f3d6206f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "沈阳洗浴服务太吓人",
+      "rank": 25,
+      "title": "沈阳洗浴服务太吓人",
+      "topic_id": "231522787a9dcca8f7e04f6596dc39cab92121"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#青稚直播30万人#",
+      "rank": 26,
+      "title": "青稚直播30万人",
+      "topic_id": "23152246bbcb182dd0f6d9a70d07c54241754e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#父女在西雅图机场登机时被拘捕#",
+      "rank": 27,
+      "title": "父女在西雅图机场登机时被拘捕",
+      "topic_id": "23152285fb792e3c3da9ad7b287615d469274e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "王楚然 现在就出发5",
+      "rank": 28,
+      "title": "王楚然 现在就出发5",
+      "topic_id": "231522a2c17eb0416c37a90f06fe78f128da0e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "古代为什么要纳妾",
+      "rank": 29,
+      "title": "古代为什么要纳妾",
+      "topic_id": "23152230fac7475194b72e8d9e04f21c2e465d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "孩子用AI写小说被说不是自己写",
+      "rank": 30,
+      "title": "孩子用AI写小说被说不是自己写",
+      "topic_id": "231522238325c6338f46559aee69936e0c85b0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "许昌外卖小哥一句脆脆的带火炸鸡",
+      "rank": 31,
+      "title": "许昌外卖小哥一句脆脆的带火炸鸡",
+      "topic_id": "231522a70ebd5f245fdbbcd79ae4fd1ee2cb45"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#赵本山女儿和老公两地分居#",
+      "rank": 32,
+      "title": "赵本山女儿和老公两地分居",
+      "topic_id": "231522a5e82e48f3bfbb74d23dfff34feaaf13"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "纯稚",
+      "rank": 33,
+      "title": "纯稚",
+      "topic_id": "2315222a1ffa04e45b2a875640324b04f7ec03"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 8,
+      "posts": "saved",
+      "query": "#民进党当局媚日舔日跪日到极点#",
+      "rank": 34,
+      "title": "民进党当局媚日舔日跪日到极点",
+      "topic_id": "2315226961b23dd5d1f63d2a2ae11ae317b7ae"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "做家教感受到了世界的参差",
+      "rank": 35,
+      "title": "做家教感受到了世界的参差",
+      "topic_id": "231522fff4a98e96ffa5f86d85b1cace564034"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "香奈儿包杭州日租二十五块",
+      "rank": 36,
+      "title": "香奈儿包杭州日租二十五块",
+      "topic_id": "2315221b0e6feddffe7525a3790d28fd79feb6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "胡锡进建议周末多逛商场",
+      "rank": 37,
+      "title": "胡锡进建议周末多逛商场",
+      "topic_id": "2315220d4470e31cfb518544fcdc94751ff1dc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#医生建议冬天减肥可以多吃点火锅#",
+      "rank": 38,
+      "title": "医生建议冬天减肥可以多吃点火锅",
+      "topic_id": "231522d651a85aa929c2b3f3b5f562ead37d1a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "健身房老板这是义母啊",
+      "rank": 39,
+      "title": "健身房老板这是义母啊",
+      "topic_id": "23152233d052fb92aa0b7860682e6c5cabdabc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#特朗普发APEC合照配文GOAT#",
+      "rank": 40,
+      "title": "特朗普发APEC合照配文GOAT",
+      "topic_id": "231522cdbb0fcfb27c022c12c98bcb81dd1575"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#中戏同学成顶流男演员却当NPC#",
+      "rank": 41,
+      "title": "中戏同学成顶流男演员却当NPC",
+      "topic_id": "23152255320228605576ef13c1912b36942465"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "国考准考证",
+      "rank": 42,
+      "title": "国考准考证",
+      "topic_id": "23152258140c0d7bf32dfe00acfd7b8c368730"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "樊振东赛后与萨尔经理热聊",
+      "rank": 43,
+      "title": "樊振东赛后与萨尔经理热聊",
+      "topic_id": "231522c7459167155a0d78b82f91c2fab34f89"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "爷爷葬礼后花盆插满烟头",
+      "rank": 44,
+      "title": "爷爷葬礼后花盆插满烟头",
+      "topic_id": "2315223b32d736652ad1240f15f98b6d2c3e90"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#俄军舰遇袭爆炸火光冲天#",
+      "rank": 45,
+      "title": "俄军舰遇袭爆炸火光冲天",
+      "topic_id": "231522da6fc84f6cf1cb7bca3c147f71b3e5c3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "2026亚太最具影响力青年男性TOP100",
+      "rank": 46,
+      "title": "2026亚太最具影响力青年男性TOP100",
+      "topic_id": "231522ddee24d846eb6b2ce50deda6c4a52d1e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "PEL和平精英职业联赛",
+      "rank": 47,
+      "title": "PEL和平精英职业联赛",
+      "topic_id": "23152270b0b70317f3875b50505e5e841bc1a2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#原来私信白小纯还能把拉黑放出来#",
+      "rank": 48,
+      "title": "原来私信白小纯还能把拉黑放出来",
+      "topic_id": "2315228be7a5d4eb0e6f3d7571403be1dfc81c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#王安宇一念江南B组杀青#",
+      "rank": 49,
+      "title": "王安宇一念江南B组杀青",
+      "topic_id": "2315224c211736cf5dd9cc1d6771993e3960b5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "汇天A868飞行汽车试飞成功",
+      "rank": 50,
+      "title": "汇天A868飞行汽车试飞成功",
+      "topic_id": "231522d68513610fba5a382d4810f2c2c4d9a4"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

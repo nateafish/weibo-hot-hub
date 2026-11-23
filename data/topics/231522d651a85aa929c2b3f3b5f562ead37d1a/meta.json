@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1630423295
   },
-  "last_seen_at": "2026-11-23T09:00:00+08:00",
+  "last_seen_at": "2026-11-23T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8C%BB%E7%94%9F%E5%BB%BA%E8%AE%AE%E5%86%AC%E5%A4%A9%E5%87%8F%E8%82%A5%E5%8F%AF%E4%BB%A5%E5%A4%9A%E5%90%83%E7%82%B9%E7%81%AB%E9%94%85%23%26t%3D3&title=发布媒体",
-    "show_str": "48家媒体",
+    "show_str": "86家媒体",
     "users": [
       {
         "id": 1630423295,
@@ -26,6 +26,20 @@
         "id": 1744332207,
         "idstr": "1744332207",
         "screen_name": "钱江视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2286092114,
+        "idstr": "2286092114",
+        "screen_name": "中国蓝新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1988645095,
-        "idstr": "1988645095",
-        "screen_name": "北京商报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2252846093,
-        "idstr": "2252846093",
-        "screen_name": "长春新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2232625672,
-        "idstr": "2232625672",
-        "screen_name": "安庆天天直播",
+        "id": 2054900587,
+        "idstr": "2054900587",
+        "screen_name": "三农频道",
         "verified": true,
         "verified_type": 3
       }
