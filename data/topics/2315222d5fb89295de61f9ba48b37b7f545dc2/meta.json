@@ -3,11 +3,39 @@
   "created_at": 1795363566,
   "first_seen_at": "2026-11-23T03:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-23T07:00:00+08:00",
+  "last_seen_at": "2026-11-23T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%A8%8A%E6%8C%AF%E4%B8%9C1%E6%AF%943%E7%BA%A6%E5%86%85%E6%96%AF%E5%BA%93%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "8家媒体",
     "users": [
+      {
+        "id": 5396094153,
+        "idstr": "5396094153",
+        "screen_name": "大众新闻-大众日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2131593523,
+        "idstr": "2131593523",
+        "screen_name": "羊城晚报金羊网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1975995305,
+        "idstr": "1975995305",
+        "screen_name": "西安晚报",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1867427515,
         "idstr": "1867427515",
@@ -26,13 +54,6 @@
         "id": 1806505430,
         "idstr": "1806505430",
         "screen_name": "合肥网—安徽商报官方网站",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1314608344,
-        "idstr": "1314608344",
-        "screen_name": "新闻晨报",
         "verified": true,
         "verified_type": 3
       }
