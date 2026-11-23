@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-23T22:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#三个时间坐标读懂APEC中国年#",
+      "rank": 1,
+      "title": "三个时间坐标读懂APEC中国年",
+      "topic_id": "231522973c912e5066010b365c1e88d7411d61"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#黄仁勋恢复英伟达CEO职务#",
+      "rank": 1,
+      "title": "黄仁勋恢复英伟达CEO职务",
+      "topic_id": "23152225d3bd71772d5537ac607c6ff2f69a10"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#特朗普把抵达深圳照片打印出来了#",
+      "rank": 2,
+      "title": "特朗普把抵达深圳照片打印出来了",
+      "topic_id": "231522e23f7491c4aa0ae3f7e9fd289529eeea"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#开放的中国促合作共成长#",
+      "rank": 3,
+      "title": "开放的中国促合作共成长",
+      "topic_id": "2315228bee4a8c78e80681ad008a3a3623c52b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#英伟达盘前暴涨#",
+      "rank": 4,
+      "title": "英伟达盘前暴涨",
+      "topic_id": "2315229a43933f8287a46ce0ba54dae3684a9a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "金饰克价涨至1091元",
+      "rank": 5,
+      "title": "金饰克价涨至1091元",
+      "topic_id": "231522216cdd320885a54dbcde50599039e005"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#treetree炸鸡店老板最新发声#",
+      "rank": 6,
+      "title": "treetree炸鸡店老板最新发声",
+      "topic_id": "23152227418c9bfce52cea3e2d61399b4e9f14"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#舒淇得奖冯德伦反应#",
+      "rank": 7,
+      "title": "舒淇得奖冯德伦反应",
+      "topic_id": "2315222332532d19cb62e958b7c93d96247a95"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#treetree炸鸡一天出油三四桶#",
+      "rank": 8,
+      "title": "treetree炸鸡一天出油三四桶",
+      "topic_id": "2315223edfbf7172061b8fd4a71b8f708ce33d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#曝文吉儿怕头发有味不想吃火锅#",
+      "rank": 9,
+      "title": "曝文吉儿怕头发有味不想吃火锅",
+      "topic_id": "2315228e6dc66f32ecb2163f7504a9280e1a3c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#BBC应向被冒犯的深圳市民道歉#",
+      "rank": 10,
+      "title": "BBC应向被冒犯的深圳市民道歉",
+      "topic_id": "2315221a2493f3c5bab813ce93b9b8dc104f65"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#李雪琴居然这么瘦了#",
+      "rank": 11,
+      "title": "李雪琴居然这么瘦了",
+      "topic_id": "2315225391602bd5896312f200ed0bb7edaa3a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "刘恺威为小19岁女友黎纪君庆生",
+      "rank": 12,
+      "title": "刘恺威为小19岁女友黎纪君庆生",
+      "topic_id": "231522b49b9c9108fd85b39b208c848dac854c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "嫪毐可能不是男宠",
+      "rank": 13,
+      "title": "嫪毐可能不是男宠",
+      "topic_id": "231522d03edd357fec046b8a61620b7920c063"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#白小纯在青稚粉丝团里#",
+      "rank": 14,
+      "title": "白小纯在青稚粉丝团里",
+      "topic_id": "231522d40bc8d40a9d55d3fe0fbb90dc58d737"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女子第一次坐飞机就在登机口扔硬币#",
+      "rank": 15,
+      "title": "女子第一次坐飞机就在登机口扔硬币",
+      "topic_id": "231522e9245a2d7f705fe20c2b90e3e0742a4f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#成毅背肌#",
+      "rank": 16,
+      "title": "成毅背肌",
+      "topic_id": "2315221097e802cd5109ddc3eb364aa6fd42dd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#特朗普出席活动展示深圳接机画面#",
+      "rank": 17,
+      "title": "特朗普出席活动展示深圳接机画面",
+      "topic_id": "2315226550cfea86aa5068fd95fae608c624fe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#文吉儿帮马天宇捡鞋子#",
+      "rank": 18,
+      "title": "文吉儿帮马天宇捡鞋子",
+      "topic_id": "2315226745f23efd5cbcd2a7bfdc0ca05b36c9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#蔡磊悼念原京东首席战略官廖建文#",
+      "rank": 19,
+      "title": "蔡磊悼念原京东首席战略官廖建文",
+      "topic_id": "23152210f5afa72e26f5a3c8a9bdeebe8fe9d0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "特朗普回应黄仁勋重任英伟达CEO",
+      "rank": 20,
+      "title": "特朗普回应黄仁勋重任英伟达CEO",
+      "topic_id": "23152259ab3acc2d8d2f5f40ac8b0f84d616d4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "老师称现在早恋尺度大",
+      "rank": 21,
+      "title": "老师称现在早恋尺度大",
+      "topic_id": "23152288fb18e108bb6f88be2a314b289b6a58"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#陈赫不建议青稚频繁上综艺#",
+      "rank": 22,
+      "title": "陈赫不建议青稚频繁上综艺",
+      "topic_id": "23152218d74a1cec375520b2a9e220fb185611"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#白小纯怎么帅成这样了#",
+      "rank": 23,
+      "title": "白小纯怎么帅成这样了",
+      "topic_id": "2315226f2165e3894d3eecb23a86fe6b8d89a0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#女子误把出血当月经孕41周才发现#",
+      "rank": 24,
+      "title": "女子误把出血当月经孕41周才发现",
+      "topic_id": "2315222ab3c96019fa7577dad7396616262e2b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#猝死女教师曾每月资助一女生500元#",
+      "rank": 25,
+      "title": "猝死女教师曾每月资助一女生500元",
+      "topic_id": "231522efa939dab23744eb3278d1e8e85547f3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "维嘉头也不回地去找王菲了",
+      "rank": 26,
+      "title": "维嘉头也不回地去找王菲了",
+      "topic_id": "23152272678ce7ac84a82ff237b86332279426"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝95后小生和90花曾有过恋情#",
+      "rank": 27,
+      "title": "曝95后小生和90花曾有过恋情",
+      "topic_id": "23152246895c04c440532ba512ca221c203beb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "我的有罪之人",
+      "rank": 28,
+      "title": "我的有罪之人",
+      "topic_id": "231522f7586193d390bcf29108a01c40ea886a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "许飞演的坐月子",
+      "rank": 29,
+      "title": "许飞演的坐月子",
+      "topic_id": "231522959cb623dfc41a4a8e3e8a246e3042b1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "DeepSeek可能后来居上",
+      "rank": 30,
+      "title": "DeepSeek可能后来居上",
+      "topic_id": "23152264564001db2f6f1ab962b484eeddf800"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#白小纯今晚直播#",
+      "rank": 31,
+      "title": "白小纯今晚直播",
+      "topic_id": "231522616a936ba791ef7dd9f4da2c28bbe9e9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#手机背屏存在的意义#",
+      "rank": 32,
+      "title": "手机背屏存在的意义",
+      "topic_id": "2315222111598ed2d467bbbb92553be24c0892"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#未来金价走势#",
+      "rank": 33,
+      "title": "未来金价走势",
+      "topic_id": "231522f953dd2b253b131774594afa8d23a2b2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#曝JiaQi回TES#",
+      "rank": 34,
+      "title": "曝JiaQi回TES",
+      "topic_id": "23152266267163fb481ea98390ab4bc2aa2b71"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#詹青云庞颖听到飞雪的反应#",
+      "rank": 35,
+      "title": "詹青云庞颖听到飞雪的反应",
+      "topic_id": "231522a9c3044f4dc357d8ae5e3fd83f07c6d8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "韩国夫妇猜孩子性别被结果笑死",
+      "rank": 36,
+      "title": "韩国夫妇猜孩子性别被结果笑死",
+      "topic_id": "231522868aa32966da4f4c3a1cc1ee0cd8a6ec"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#黄仁勋熹妃回宫#",
+      "rank": 37,
+      "title": "黄仁勋熹妃回宫",
+      "topic_id": "231522fe29afa26c9f376738e0cc73c66332d4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "海康威视严格执行八小时工作制",
+      "rank": 38,
+      "title": "海康威视严格执行八小时工作制",
+      "topic_id": "23152231ecec8384152458ccf8428f1e1bab30"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 5,
+      "posts": "saved",
+      "query": "#特朗普小儿子约会清空特朗普大厦整层#",
+      "rank": 39,
+      "title": "特朗普小儿子约会清空特朗普大厦整层",
+      "topic_id": "23152215c66f2472ae5d20e68899bde56e1a08"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "樊振东输球爆冷刷屏",
+      "rank": 40,
+      "title": "樊振东输球爆冷刷屏",
+      "topic_id": "23152272324d67c5af4677f4245b05e6126072"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#什么电视玩GTA6更爽#",
+      "rank": 41,
+      "title": "什么电视玩GTA6更爽",
+      "topic_id": "231522202f0f43cb54ca834bd3ed7b7b4413bc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "九岁女儿问剖腹产妈妈能玩平板吗",
+      "rank": 42,
+      "title": "九岁女儿问剖腹产妈妈能玩平板吗",
+      "topic_id": "231522c205752ae12e0dd2e1bb2e872bcfedb6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#今年跨毒株感染风险加大#",
+      "rank": 43,
+      "title": "今年跨毒株感染风险加大",
+      "topic_id": "2315224681074ce998a56cc4aeb9bb8f5d4769"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#女子嫌对面楼老旧自费7.3万刷漆#",
+      "rank": 44,
+      "title": "女子嫌对面楼老旧自费7.3万刷漆",
+      "topic_id": "231522ec43f8f952e8f15813d58d68e9c06ff4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#马天宇给张萌偷偷递台阶#",
+      "rank": 45,
+      "title": "马天宇给张萌偷偷递台阶",
+      "topic_id": "231522c4876ac599d5f6c97b3986bfd88bbdfb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#00后不整顿职场来整顿婚礼了#",
+      "rank": 46,
+      "title": "00后不整顿职场来整顿婚礼了",
+      "topic_id": "231522932655bb7950b939e59fd16886b59d46"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#印尼女子发现丈夫出轨把房子夷为平地#",
+      "rank": 47,
+      "title": "印尼女子发现丈夫出轨把房子夷为平地",
+      "topic_id": "231522cb403df82e48e0e78a22644c38b8ccbe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "两京十五日",
+      "rank": 48,
+      "title": "两京十五日",
+      "topic_id": "23152227e8e6652f069fbaf87bc9e6eab561b0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#金晨新剧亲吻呼吸罩#",
+      "rank": 49,
+      "title": "金晨新剧亲吻呼吸罩",
+      "topic_id": "231522b686ed1a809eec19f0f3d7899f0b6485"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "马斯克 FSD",
+      "rank": 50,
+      "title": "马斯克 FSD",
+      "topic_id": "23152294a5773eba7bff114cbb7848ebfcb04b"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
