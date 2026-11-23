@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 2258727970
   },
-  "last_seen_at": "2026-11-24T06:00:00+08:00",
+  "last_seen_at": "2026-11-24T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%BB%84%E4%BB%81%E5%8B%8B%E5%A4%8D%E8%81%8C%E5%8E%9F%E5%9B%A0%23%26t%3D3&title=发布媒体",
-    "show_str": "19家媒体",
+    "show_str": "35家媒体",
     "users": [
       {
         "id": 2258727970,
         "idstr": "2258727970",
         "screen_name": "央视财经",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2105365573,
+        "idstr": "2105365573",
+        "screen_name": "威海播报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5044281310,
+        "idstr": "5044281310",
+        "screen_name": "澎湃新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -40,27 +61,6 @@
         "id": 7310744124,
         "idstr": "7310744124",
         "screen_name": "點新聞dotdotnews",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6351317189,
-        "idstr": "6351317189",
-        "screen_name": "鞍山广播电视台",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6105713761,
-        "idstr": "6105713761",
-        "screen_name": "红星新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2699543161,
-        "idstr": "2699543161",
-        "screen_name": "金融时报",
         "verified": true,
         "verified_type": 3
       }
