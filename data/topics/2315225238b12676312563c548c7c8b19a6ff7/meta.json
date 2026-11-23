@@ -3,11 +3,61 @@
   "created_at": 1795399779,
   "first_seen_at": "2026-11-23T12:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-23T13:00:00+08:00",
+  "last_seen_at": "2026-11-23T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%91%E7%8B%90%E7%83%AD%E5%BA%A6%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "7家媒体",
+    "users": [
+      {
+        "id": 1389537561,
+        "idstr": "1389537561",
+        "screen_name": "都市时报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7613700701,
+        "idstr": "7613700701",
+        "screen_name": "共富财经",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6253454836,
+        "idstr": "6253454836",
+        "screen_name": "郑报融媒体中心",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2628314830,
+        "idstr": "2628314830",
+        "screen_name": "合肥晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2292899701,
+        "idstr": "2292899701",
+        "screen_name": "浪涨新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1912416573,
+        "idstr": "1912416573",
+        "screen_name": "河南手机报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1709951635,
+        "idstr": "1709951635",
+        "screen_name": "哈尔滨日报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "丑狐热度",
   "search_url": "https://s.weibo.com/weibo?q=%23%E4%B8%91%E7%8B%90%E7%83%AD%E5%BA%A6%23",
