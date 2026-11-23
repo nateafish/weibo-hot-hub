@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1803310643
   },
-  "last_seen_at": "2026-11-24T02:00:00+08:00",
+  "last_seen_at": "2026-11-24T05:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A4%8D%E8%81%945%E7%BB%88%E6%9E%81%E9%A2%84%E5%91%8A%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "4家媒体",
     "users": [
       {
         "id": 1642591402,
         "idstr": "1642591402",
         "screen_name": "新浪娱乐",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2611607127,
+        "idstr": "2611607127",
+        "screen_name": "猫眼电影",
         "verified": true,
         "verified_type": 3
       },
@@ -30,9 +37,9 @@
         "verified_type": 3
       },
       {
-        "id": 2611607127,
-        "idstr": "2611607127",
-        "screen_name": "猫眼电影",
+        "id": 1926811743,
+        "idstr": "1926811743",
+        "screen_name": "动听968",
         "verified": true,
         "verified_type": 3
       }
