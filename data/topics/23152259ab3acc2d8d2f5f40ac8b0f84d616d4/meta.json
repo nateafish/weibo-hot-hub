@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 1711530911
   },
-  "last_seen_at": "2026-11-23T22:00:00+08:00",
+  "last_seen_at": "2026-11-23T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E9%BB%84%E4%BB%81%E5%8B%8B%E9%87%8D%E4%BB%BB%E8%8B%B1%E4%BC%9F%E8%BE%BECEO%23%26t%3D3&title=发布媒体",
-    "show_str": "15家媒体",
+    "show_str": "34家媒体",
     "users": [
+      {
+        "id": 1711530911,
+        "idstr": "1711530911",
+        "screen_name": "新黄河",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 7735314100,
         "idstr": "7735314100",
@@ -37,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 6357456494,
+        "idstr": "6357456494",
+        "screen_name": "果然视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 3037284894,
         "idstr": "3037284894",
         "screen_name": "经济日报",
@@ -49,24 +63,10 @@
         "screen_name": "湖北日报",
         "verified": true,
         "verified_type": 3
-      },
-      {
-        "id": 2252846093,
-        "idstr": "2252846093",
-        "screen_name": "长春新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2011075080,
-        "idstr": "2011075080",
-        "screen_name": "齐鲁晚报",
-        "verified": true,
-        "verified_type": 3
       }
     ]
   },
-  "query": "特朗普回应黄仁勋重任英伟达CEO",
+  "query": "#特朗普回应黄仁勋重任英伟达CEO#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E9%BB%84%E4%BB%81%E5%8B%8B%E9%87%8D%E4%BB%BB%E8%8B%B1%E4%BC%9F%E8%BE%BEceo%23",
   "sub_category": null,
   "summary": "",
