@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 6393215903
   },
-  "last_seen_at": "2026-11-24T00:00:00+08:00",
+  "last_seen_at": "2026-11-24T01:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9B%9D%E6%96%87%E5%90%89%E5%84%BF%E6%80%95%E5%A4%B4%E5%8F%91%E6%9C%89%E5%91%B3%E4%B8%8D%E6%83%B3%E5%90%83%E7%81%AB%E9%94%85%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "5家媒体",
     "users": [
+      {
+        "id": 7422806367,
+        "idstr": "7422806367",
+        "screen_name": "中网传播",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2535760180,
         "idstr": "2535760180",
@@ -33,6 +40,13 @@
         "id": 1497418417,
         "idstr": "1497418417",
         "screen_name": "掌上温岭",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       }
