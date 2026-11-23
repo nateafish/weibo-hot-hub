@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-23T18:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#历史性会晤里的历史与未来#",
+      "rank": 1,
+      "title": "历史性会晤里的历史与未来",
+      "topic_id": "231522a0fabd694939ea6abf453d050ca563ff"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#00后不整顿职场来整顿婚礼了#",
+      "rank": 1,
+      "title": "00后不整顿职场来整顿婚礼了",
+      "topic_id": "231522932655bb7950b939e59fd16886b59d46"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "上海地铁涨价",
+      "rank": 2,
+      "title": "上海地铁涨价",
+      "topic_id": "231522da61342b2aa8804fa0e4cf99d4f66bcf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#我国将打造一刻钟托育服务圈#",
+      "rank": 3,
+      "title": "我国将打造一刻钟托育服务圈",
+      "topic_id": "231522982fe25774dfcacb4864901ff2d8c35d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#陈赫不建议青稚频繁上综艺#",
+      "rank": 4,
+      "title": "陈赫不建议青稚频繁上综艺",
+      "topic_id": "23152218d74a1cec375520b2a9e220fb185611"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#脆脆炸鸡老板强调八百遍是做披萨的#",
+      "rank": 5,
+      "title": "脆脆炸鸡老板强调八百遍是做披萨的",
+      "topic_id": "2315227db24285f74f1f39e153b9e9a37b4112"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女子第一次坐飞机就在登机口扔硬币#",
+      "rank": 6,
+      "title": "女子第一次坐飞机就在登机口扔硬币",
+      "topic_id": "231522e9245a2d7f705fe20c2b90e3e0742a4f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#曝懂车帝最新内容要求#",
+      "rank": 7,
+      "title": "曝懂车帝最新内容要求",
+      "topic_id": "231522b19d014ddcbd3673b4fc7b93a2505b90"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#央视还原女子向飞机抛硬币始末#",
+      "rank": 8,
+      "title": "央视还原女子向飞机抛硬币始末",
+      "topic_id": "2315225375cab6d67183d5ee880e1a6c7f9b6a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#RNG官推力挺ShowMaker#",
+      "rank": 9,
+      "title": "RNG官推力挺ShowMaker",
+      "topic_id": "2315221f5dc4c4055f969e6e34b5aa989e6b75"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#两京十五日成毅拔箭这段#",
+      "rank": 10,
+      "title": "两京十五日成毅拔箭这段",
+      "topic_id": "2315227995b995fa5582f148cfece49940f44d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "嫪毐可能不是男宠",
+      "rank": 11,
+      "title": "嫪毐可能不是男宠",
+      "topic_id": "231522d03edd357fec046b8a61620b7920c063"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#白小纯可以直播了#",
+      "rank": 12,
+      "title": "白小纯可以直播了",
+      "topic_id": "231522e7cbc5a4e07e5c53284e3c6b94d88a44"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#马天宇送谢兴阳人生第一个房车#",
+      "rank": 13,
+      "title": "马天宇送谢兴阳人生第一个房车",
+      "topic_id": "2315229694e44449f18553765372c9b5d18c3c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#蔡琴直言十年婚姻我全部付出#",
+      "rank": 14,
+      "title": "蔡琴直言十年婚姻我全部付出",
+      "topic_id": "231522620caed2db5bff9607e41528f1e84b2e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#幼儿园要招2岁孩子了#",
+      "rank": 15,
+      "title": "幼儿园要招2岁孩子了",
+      "topic_id": "23152230f7d41a3151abc3d23a2e76b1671515"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "荣耀700价格",
+      "rank": 16,
+      "title": "荣耀700价格",
+      "topic_id": "2315229d77342d0b11de377ca0936a1a1d8e03"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#白小纯直播时间是33svan宣布的#",
+      "rank": 17,
+      "title": "白小纯直播时间是33svan宣布的",
+      "topic_id": "2315224c1f63ef09646d85ceb2f45fc83330f1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#金晨新剧亲吻呼吸罩#",
+      "rank": 18,
+      "title": "金晨新剧亲吻呼吸罩",
+      "topic_id": "231522b686ed1a809eec19f0f3d7899f0b6485"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#黄金五连跌后直线拉升#",
+      "rank": 19,
+      "title": "黄金五连跌后直线拉升",
+      "topic_id": "2315222250493e7bfb73f4f6fe82689ebea825"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "特斯拉FSDv15障碍物识别",
+      "rank": 20,
+      "title": "特斯拉FSDv15障碍物识别",
+      "topic_id": "2315227f28833886fc61c4734598194310e9db"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#马天宇正面贴脸文吉儿#",
+      "rank": 21,
+      "title": "马天宇正面贴脸文吉儿",
+      "topic_id": "231522b5c9207a90fd276999d889cf53bb9916"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "懂车帝不能做对比测试了",
+      "rank": 22,
+      "title": "懂车帝不能做对比测试了",
+      "topic_id": "231522d7862817412a2f28aab7dcd2778d2f9f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#河南大爷吃辣条夺冠喊儿子搬鸡蛋#",
+      "rank": 23,
+      "title": "河南大爷吃辣条夺冠喊儿子搬鸡蛋",
+      "topic_id": "231522172804c78487b1409fa8a31baf1aff94"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#韦东奕攻克百年难题获奖#",
+      "rank": 24,
+      "title": "韦东奕攻克百年难题获奖",
+      "topic_id": "231522c433959f3ad4397b569ab159c3370c67"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#吐槽月经气味大广告运营方被罚45万#",
+      "rank": 25,
+      "title": "吐槽月经气味大广告运营方被罚45万",
+      "topic_id": "231522b54cc3aeda293466f0067ff2e9b88e81"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "减脂期间要多吃的食物",
+      "rank": 26,
+      "title": "减脂期间要多吃的食物",
+      "topic_id": "23152200e60e51737dcbc88de2bc762a1aa52a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#鞠婧祎早就预言丝芭了#",
+      "rank": 27,
+      "title": "鞠婧祎早就预言丝芭了",
+      "topic_id": "2315226e1476cbeef193827db4c4d32deff43d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "博士夫妻养出倒数第一儿子",
+      "rank": 28,
+      "title": "博士夫妻养出倒数第一儿子",
+      "topic_id": "231522f750051ab2ee1745c48c7ed5209e135f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#大哥出轨老爹得癌老公还有私生子#",
+      "rank": 29,
+      "title": "大哥出轨老爹得癌老公还有私生子",
+      "topic_id": "231522de6b425abdaa083878a21604d9cc34ab"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#俄军对乌克兰实施大规模打击#",
+      "rank": 30,
+      "title": "俄军对乌克兰实施大规模打击",
+      "topic_id": "231522d1dece772b06139950a872a4ad6e44c0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "迪丽热巴内搭好辣",
+      "rank": 31,
+      "title": "迪丽热巴内搭好辣",
+      "topic_id": "23152211afa6de3c789be5e025b13408a7ffb3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#荣耀700不看名字看配置#",
+      "rank": 32,
+      "title": "荣耀700不看名字看配置",
+      "topic_id": "231522f82eefb46cd3de1caf615a1b755f02eb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#胖东来一店将关闭羽绒服亮成本价#",
+      "rank": 33,
+      "title": "胖东来一店将关闭羽绒服亮成本价",
+      "topic_id": "2315220f77aead2807ea14e271ff202d3a57b8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "韦东奕获北京市科技奖",
+      "rank": 34,
+      "title": "韦东奕获北京市科技奖",
+      "topic_id": "231522678427adcf75192cc963e8fe4ef5d5d7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#treetree的炸鸡1天发50个号#",
+      "rank": 35,
+      "title": "treetree的炸鸡1天发50个号",
+      "topic_id": "231522b4b74a85a1768ec91e9483d344a1cd2a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "九岁女儿问剖腹产妈妈能玩平板吗",
+      "rank": 36,
+      "title": "九岁女儿问剖腹产妈妈能玩平板吗",
+      "topic_id": "231522c205752ae12e0dd2e1bb2e872bcfedb6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "胖就是显老实猫咪也一样",
+      "rank": 37,
+      "title": "胖就是显老实猫咪也一样",
+      "topic_id": "231522bdc5ac33f53c5c967e6a4baad5bf13c2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#孩子买回一套纸质版短剧#",
+      "rank": 38,
+      "title": "孩子买回一套纸质版短剧",
+      "topic_id": "23152294f21e2af8b431486cece42a84b5ab4c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#陈楚生曾沛慈身高#",
+      "rank": 39,
+      "title": "陈楚生曾沛慈身高",
+      "topic_id": "231522e43cc0d6eb0619a2094d885328e2453d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#千万别再用这种海绵洗碗了#",
+      "rank": 40,
+      "title": "千万别再用这种海绵洗碗了",
+      "topic_id": "23152259a166cc17d16fee10487bce3532640c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "PEL赛事被吐槽",
+      "rank": 41,
+      "title": "PEL赛事被吐槽",
+      "topic_id": "231522f265dbf367a0918e12076e8c30d12325"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#孙骁骁二胎小排畸检查#",
+      "rank": 42,
+      "title": "孙骁骁二胎小排畸检查",
+      "topic_id": "2315223366a15727703d8d78e6211963f4f6ef"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#BLG饭堂播放Doran视频引外网争议#",
+      "rank": 43,
+      "title": "BLG饭堂播放Doran视频引外网争议",
+      "topic_id": "2315224d5d7c7fbd1cca4aab0483fffb807da6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#一直以为家里只是穷点#",
+      "rank": 44,
+      "title": "一直以为家里只是穷点",
+      "topic_id": "2315228ef9e4e72870322939b4a1503350dd65"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#舒淇调侃冯德伦可以去厕所哭#",
+      "rank": 45,
+      "title": "舒淇调侃冯德伦可以去厕所哭",
+      "topic_id": "231522767ec42a1cb207ac235f8594a17ec55f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#脆脆炸鸡老板娘建议本地粉丝再等等#",
+      "rank": 46,
+      "title": "脆脆炸鸡老板娘建议本地粉丝再等等",
+      "topic_id": "231522281d506b4d7e044d5e38f025d5d85884"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "DeepSeek可能后来居上",
+      "rank": 47,
+      "title": "DeepSeek可能后来居上",
+      "topic_id": "23152264564001db2f6f1ab962b484eeddf800"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#陈意礼退出恋综#",
+      "rank": 48,
+      "title": "陈意礼退出恋综",
+      "topic_id": "2315223c81598a66e1741935cbdbdb8640a214"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#后会友期火锅丢失案#",
+      "rank": 49,
+      "title": "后会友期火锅丢失案",
+      "topic_id": "231522ccc7825c8badca3fbb2da3b9620620e6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#韦东奕攻克流体力学近140年难题#",
+      "rank": 50,
+      "title": "韦东奕攻克流体力学近140年难题",
+      "topic_id": "23152285c5240c9112dd1d49fd324496167a50"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
