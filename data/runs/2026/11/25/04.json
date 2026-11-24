@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-25T04:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 47,
+    "ai_unchanged": 3,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#习近平主席向世界推介中国这四座城市#",
+      "rank": 1,
+      "title": "习近平主席向世界推介中国这四座城市",
+      "topic_id": "23152235a66101510701a22fff37b80ea7d8c0"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#特朗普对一道中国菜念念不忘#",
+      "rank": 1,
+      "title": "特朗普对一道中国菜念念不忘",
+      "topic_id": "23152246fba266f220002608c264fa179248ff"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王牌对王牌第十季阵容#",
+      "rank": 2,
+      "title": "王牌对王牌第十季阵容",
+      "topic_id": "2315229ed95fe970f9b277511bbbfe075e5a17"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#神24出征续写航天荣光#",
+      "rank": 3,
+      "title": "神24出征续写航天荣光",
+      "topic_id": "23152280c98a919307600bf332365d062cd68e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#情侣包间求婚服务员推门打断要纸箱#",
+      "rank": 4,
+      "title": "情侣包间求婚服务员推门打断要纸箱",
+      "topic_id": "23152264b8e4ddf77aecac98d52dfe2d02dd9c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#黄仁勋回归最大受害者出现#",
+      "rank": 5,
+      "title": "黄仁勋回归最大受害者出现",
+      "topic_id": "23152252e1457361e0208b009acd47e367e485"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "黄磊真空围裙",
+      "rank": 6,
+      "title": "黄磊真空围裙",
+      "topic_id": "2315220040b0cc176d57890025e91cb47f237c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "黄奕女儿说你都能当艺人为啥我不行",
+      "rank": 7,
+      "title": "黄奕女儿说你都能当艺人为啥我不行",
+      "topic_id": "231522ce6192cf51d93a756e1331b0be7b4c6a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#小伊伊老公回应离婚#",
+      "rank": 8,
+      "title": "小伊伊老公回应离婚",
+      "topic_id": "231522a7c8cd0556358131de212abd52c1c5e2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#白小纯涉及猎奇行为#",
+      "rank": 9,
+      "title": "白小纯涉及猎奇行为",
+      "topic_id": "2315229dbf645e813c2d39b01713bf797dfad5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#旺仔牛奶更不好卖了#",
+      "rank": 10,
+      "title": "旺仔牛奶更不好卖了",
+      "topic_id": "2315223f3ac0b7c01e555e7f671a694dd6ea95"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#曝王牌对王牌10新增常驻王一博#",
+      "rank": 11,
+      "title": "曝王牌对王牌10新增常驻王一博",
+      "topic_id": "23152226924b4f86514d936cd225ff68ad09ea"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#李艺彤一个奇葩我就不说什么了#",
+      "rank": 12,
+      "title": "李艺彤一个奇葩我就不说什么了",
+      "topic_id": "231522580a35ceec3e3ce75613f07284800d66"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "张艺谋电影 肖战杨幂",
+      "rank": 13,
+      "title": "张艺谋电影 肖战杨幂",
+      "topic_id": "2315229da3edb27bc586bb636c04de7e246a4e"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#陈吉宁被查上海表态#",
+      "rank": 14,
+      "title": "陈吉宁被查上海表态",
+      "topic_id": "2315220df200d8b482e6d21dd0b0173d4225e3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#文吉儿做了两次消融手术#",
+      "rank": 15,
+      "title": "文吉儿做了两次消融手术",
+      "topic_id": "23152253f5e4b713203780a4592f2217a8f21c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "美国拟对数十国加征关税",
+      "rank": 16,
+      "title": "美国拟对数十国加征关税",
+      "topic_id": "23152238b7f575b4132048946db7ec672faf62"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "白小纯青稚关闭礼物打赏",
+      "rank": 17,
+      "title": "白小纯青稚关闭礼物打赏",
+      "topic_id": "2315226b0720ef65f91494bb4ecf9cf6371dcb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#女子被情绪疗愈洗脑6年成重度抑郁#",
+      "rank": 18,
+      "title": "女子被情绪疗愈洗脑6年成重度抑郁",
+      "topic_id": "2315228ec9325325eb920c1c10c6e2799c9f43"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女子被骗花1400万囤300件低价水晶#",
+      "rank": 19,
+      "title": "女子被骗花1400万囤300件低价水晶",
+      "topic_id": "231522838981d747d5c7842704e9de1290c759"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "康熙十二世孙称雍正篡位",
+      "rank": 20,
+      "title": "康熙十二世孙称雍正篡位",
+      "topic_id": "2315225424217a26698273c2e10d7f232c5ed8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "以为猫咪离世后摸到心跳",
+      "rank": 21,
+      "title": "以为猫咪离世后摸到心跳",
+      "topic_id": "231522cd8c886c7dd05d848ddbd4509a82376c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#华伦天奴晚宴代言人发言#",
+      "rank": 22,
+      "title": "华伦天奴晚宴代言人发言",
+      "topic_id": "23152201c45f8dd405125edc2b02c56de9fc99"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#马天宇文吉儿矛盾比张萌都大#",
+      "rank": 23,
+      "title": "马天宇文吉儿矛盾比张萌都大",
+      "topic_id": "23152260d12d4f6b4566f30d3664d6c546bd27"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "和平精英",
+      "rank": 24,
+      "title": "和平精英",
+      "topic_id": "23152211d6e5c3b8641062e9ae6b7b26604ba5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#官方回应男子坠楼轻生砸中男孩#",
+      "rank": 25,
+      "title": "官方回应男子坠楼轻生砸中男孩",
+      "topic_id": "231522d22c3b1b1fa6eb4f914e42966e17488a"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#陈吉宁被查#",
+      "rank": 26,
+      "title": "陈吉宁被查",
+      "topic_id": "231522b776617dda457bc33e0668c36f71b93e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#青稚直播一晚上只有25秒单人镜头#",
+      "rank": 27,
+      "title": "青稚直播一晚上只有25秒单人镜头",
+      "topic_id": "23152270fda65549722987229064fd836dbfbe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "看不上别人就不要接受对方付出",
+      "rank": 28,
+      "title": "看不上别人就不要接受对方付出",
+      "topic_id": "231522caf893faeff183f1ed03ab2708e69d05"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "苏醒回应争议",
+      "rank": 29,
+      "title": "苏醒回应争议",
+      "topic_id": "2315225e6146d06d88e1a941bcedf1c51f8bdb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "曾艳芬控诉陆婷霸凌",
+      "rank": 30,
+      "title": "曾艳芬控诉陆婷霸凌",
+      "topic_id": "231522f1d351a88f37da66343e1a9f3755b3aa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#米粒在机场等了恩利一个多小时#",
+      "rank": 31,
+      "title": "米粒在机场等了恩利一个多小时",
+      "topic_id": "2315228792fc4fd8898e09877d5f6a0fd7336c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "婚庆公司笑了一整天才把成片发给你",
+      "rank": 32,
+      "title": "婚庆公司笑了一整天才把成片发给你",
+      "topic_id": "231522109a869953019d840da6d026bee478e8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "怕被赶出去只能放低姿态",
+      "rank": 33,
+      "title": "怕被赶出去只能放低姿态",
+      "topic_id": "2315228e0ebe17701a7fe482aa5908329a2d45"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#塞内加尔夺回2025非洲杯冠军#",
+      "rank": 34,
+      "title": "塞内加尔夺回2025非洲杯冠军",
+      "topic_id": "231522b023f5894709fe6cb8655c94f485c740"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#成毅闪现朱卜花直播间#",
+      "rank": 35,
+      "title": "成毅闪现朱卜花直播间",
+      "topic_id": "23152257bff8d0bde028eac94cb57958efcf2f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#餐厅回应情侣求婚被服务员打断#",
+      "rank": 36,
+      "title": "餐厅回应情侣求婚被服务员打断",
+      "topic_id": "2315229543af40035b351d8a6ac71cf97108af"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#Mate90Air积分国补3616#",
+      "rank": 37,
+      "title": "Mate90Air积分国补3616",
+      "topic_id": "231522e7fe8c59e2d4df56c984dcf90b45efac"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#1岁男童生殖器像10岁男孩异常增大#",
+      "rank": 38,
+      "title": "1岁男童生殖器像10岁男孩异常增大",
+      "topic_id": "2315221b8eb89015f6fc2ae37005590e642a4e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "海报宣发倒油立马不想看",
+      "rank": 39,
+      "title": "海报宣发倒油立马不想看",
+      "topic_id": "2315221f85b78da8d86aac2116dfe1275b7970"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#华为史上最薄最强智能手表来了#",
+      "rank": 40,
+      "title": "华为史上最薄最强智能手表来了",
+      "topic_id": "23152283eecd5d7a9ecab4d95f704f4aea8b17"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "阴阳师",
+      "rank": 41,
+      "title": "阴阳师",
+      "topic_id": "2315221148f3a3f29155fc33647303f21d4e0b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#韩国网友对内娱帅哥的分类#",
+      "rank": 42,
+      "title": "韩国网友对内娱帅哥的分类",
+      "topic_id": "2315223dee6238c89ef56c7a5215b96713fef6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "东北的洗浴已经这么卷了吗",
+      "rank": 43,
+      "title": "东北的洗浴已经这么卷了吗",
+      "topic_id": "23152261faa984951f15f01cac0f8c1c13e2f8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#1岁男婴长青春痘性早熟确诊癌症#",
+      "rank": 44,
+      "title": "1岁男婴长青春痘性早熟确诊癌症",
+      "topic_id": "231522f0f219835051ad162eb640c05a10181c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#欧美股市全线大跳水#",
+      "rank": 45,
+      "title": "欧美股市全线大跳水",
+      "topic_id": "231522cff9ea051c6bb62ccbf3400c67650304"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#王楚然就是大大方方的漂亮女人#",
+      "rank": 46,
+      "title": "王楚然就是大大方方的漂亮女人",
+      "topic_id": "231522d42f61585e2e3cb9ca7994e0512c3c63"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#Viper换EDG头像#",
+      "rank": 47,
+      "title": "Viper换EDG头像",
+      "topic_id": "231522118a829079ee59373d08493592347da4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#贾静雯和修杰楷的这段对话#",
+      "rank": 48,
+      "title": "贾静雯和修杰楷的这段对话",
+      "topic_id": "23152242b0d27e286b9db423eaaf84a3d0f1fc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 4,
+      "posts": "saved",
+      "query": "貂闯入鸡舍遇意想不到的守卫",
+      "rank": 49,
+      "title": "貂闯入鸡舍遇意想不到的守卫",
+      "topic_id": "23152276ae8a223413e6e12e895d0d1f9fd26d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#Anthropic破发#",
+      "rank": 50,
+      "title": "Anthropic破发",
+      "topic_id": "2315225746f92e0141eeb38edb0b40e8cc7b67"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
