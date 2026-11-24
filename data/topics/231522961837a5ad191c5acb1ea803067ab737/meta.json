@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1974576991
   },
-  "last_seen_at": "2026-11-24T10:00:00+08:00",
+  "last_seen_at": "2026-11-24T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%BB%84%E4%BB%81%E5%8B%8B%E5%9B%9E%E5%BD%92%E5%90%8E%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%E9%81%AD%E7%BE%A4%E5%98%B2%23%26t%3D3&title=发布媒体",
-    "show_str": "38家媒体",
+    "show_str": "51家媒体",
     "users": [
       {
         "id": 1974576991,
@@ -26,6 +26,20 @@
         "id": 1893801487,
         "idstr": "1893801487",
         "screen_name": "微天下",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2075245652,
+        "idstr": "2075245652",
+        "screen_name": "长春晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7613700701,
+        "idstr": "7613700701",
+        "screen_name": "共富财经",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 3229962754,
-        "idstr": "3229962754",
-        "screen_name": "陕视新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2992050891,
-        "idstr": "2992050891",
-        "screen_name": "北京时间",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2647971081,
-        "idstr": "2647971081",
-        "screen_name": "时速新闻",
+        "id": 3901624042,
+        "idstr": "3901624042",
+        "screen_name": "山西日报",
         "verified": true,
         "verified_type": 3
       }

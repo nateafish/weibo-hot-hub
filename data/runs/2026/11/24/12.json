@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-24T12:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#100秒看习近平主席的APEC时间#",
+      "rank": 1,
+      "title": "100秒看习近平主席的APEC时间",
+      "topic_id": "23152211ca68b4817d039f5435977e6d20ec8a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "巴基斯坦航天员普通话自我介绍",
+      "rank": 1,
+      "title": "巴基斯坦航天员普通话自我介绍",
+      "topic_id": "231522cd6ce9a0499b34b9f01ae959c857746e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#婆婆拎10万现金铺满产妇病床#",
+      "rank": 2,
+      "title": "婆婆拎10万现金铺满产妇病床",
+      "topic_id": "2315224bdc598772be4db32a6ed74b6b09c642"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#智能穿戴打开消费新空间#",
+      "rank": 3,
+      "title": "智能穿戴打开消费新空间",
+      "topic_id": "23152213b9c1f7da941e2dab24f40f3df643b7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#34米路仅12秒绿灯已调整为28秒#",
+      "rank": 4,
+      "title": "34米路仅12秒绿灯已调整为28秒",
+      "topic_id": "2315223af451af8b68bedd1edc83438f5706ac"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#猝死女教师校方是上海单体最大学校#",
+      "rank": 5,
+      "title": "猝死女教师校方是上海单体最大学校",
+      "topic_id": "2315226c1d76f5c4766b9ccf5a7698d43abf91"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "白小纯 我赚够了",
+      "rank": 6,
+      "title": "白小纯 我赚够了",
+      "topic_id": "2315228ab2d30ffa37e253f46977191def2bda"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#年轻人开始劝父母卖县城空房收息#",
+      "rank": 7,
+      "title": "年轻人开始劝父母卖县城空房收息",
+      "topic_id": "2315220bf6496438c139c0d55b3611f3ee17b6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#法院回应34米路绿灯12秒行人被撞亡#",
+      "rank": 8,
+      "title": "法院回应34米路绿灯12秒行人被撞亡",
+      "topic_id": "231522e6ca643df72ce0b9f5b9bc803afb71fa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "暮光之城",
+      "rank": 9,
+      "title": "暮光之城",
+      "topic_id": "231522eba3b5dcac63ba4464176ad522919927"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#文吉儿迟到一直在说对不起#",
+      "rank": 10,
+      "title": "文吉儿迟到一直在说对不起",
+      "topic_id": "2315220dd221c0d4a2b3bdf921b4f17cabb7df"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#49岁李维嘉家里干净得没有一根头发#",
+      "rank": 11,
+      "title": "49岁李维嘉家里干净得没有一根头发",
+      "topic_id": "231522b0c258f29b6d0c6ab180efe09e98e4c3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "贾静雯 修杰楷",
+      "rank": 12,
+      "title": "贾静雯 修杰楷",
+      "topic_id": "231522a1974d32258198345b6a10f4ce14726b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#A股爆发了#",
+      "rank": 13,
+      "title": "A股爆发了",
+      "topic_id": "2315223248318b157c72256c55785b17607722"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "陆毅女儿出道后首个活动",
+      "rank": 14,
+      "title": "陆毅女儿出道后首个活动",
+      "topic_id": "2315225acc8e96c9ff390f0ec0f4ad75515d3e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "文吉儿 校花",
+      "rank": 15,
+      "title": "文吉儿 校花",
+      "topic_id": "23152269c5cb9a3852d1dc59388a1d9533606a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "孙芮营业照 订婚照",
+      "rank": 16,
+      "title": "孙芮营业照 订婚照",
+      "topic_id": "2315224b7bb611275021db01742cd2a002061a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#大爷抵着脖子不放小伙喊心脏疼倒地#",
+      "rank": 17,
+      "title": "大爷抵着脖子不放小伙喊心脏疼倒地",
+      "topic_id": "23152293c0e3868e1fd1f8885894b19e3c882f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#东风日产NX7火车顶极限跨越挑战#",
+      "rank": 18,
+      "title": "东风日产NX7火车顶极限跨越挑战",
+      "topic_id": "231522af7c2cd5c64c8755c5a24802426116f8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "AI短剧丑狐爆火",
+      "rank": 19,
+      "title": "AI短剧丑狐爆火",
+      "topic_id": "2315228b8ac0525b8c68fe2f67a350476e2424"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#黄仁勋复职原因#",
+      "rank": 20,
+      "title": "黄仁勋复职原因",
+      "topic_id": "2315228391c5e83342d9ff9921dedfe3cba50f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#白小纯人设崩了#",
+      "rank": 21,
+      "title": "白小纯人设崩了",
+      "topic_id": "2315229b0f144a0ecd37a1a1fac01a1c953d79"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#贾静雯回应婚变传闻#",
+      "rank": 22,
+      "title": "贾静雯回应婚变传闻",
+      "topic_id": "231522d7d979e0d507a0ea0d9518068c3d546e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "家庭群最不吃压力的人",
+      "rank": 23,
+      "title": "家庭群最不吃压力的人",
+      "topic_id": "2315224d1a3bfa477f7ca1a79ba7e123507d7f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#杨瀚森空接得分#",
+      "rank": 24,
+      "title": "杨瀚森空接得分",
+      "topic_id": "2315227da9d9ef003857bdba91f027fc0c43ab"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "刘雨昕长发",
+      "rank": 25,
+      "title": "刘雨昕长发",
+      "topic_id": "2315227850c81ffd039e7c1f2fb4ee8c1d20da"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#巴基斯坦航天员随神23返回#",
+      "rank": 26,
+      "title": "巴基斯坦航天员随神23返回",
+      "topic_id": "2315229f2e6f3f966a9325208d537f772d2a02"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#网购裤子扯出内裤平台仅退款#",
+      "rank": 27,
+      "title": "网购裤子扯出内裤平台仅退款",
+      "topic_id": "2315227bd302da20020c03cc4763dc641e583b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "76人 恩比德",
+      "rank": 28,
+      "title": "76人 恩比德",
+      "topic_id": "231522a2b559909343d044595d0d2edddc887a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "丑狐因丑出圈",
+      "rank": 29,
+      "title": "丑狐因丑出圈",
+      "topic_id": "231522902f167b6247908cd90d6b59bd119d59"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "厉娜 吃醋",
+      "rank": 30,
+      "title": "厉娜 吃醋",
+      "topic_id": "231522c864ba8c316d537f69272298eced64c2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#黄仁勋回归特朗普钱包受益#",
+      "rank": 31,
+      "title": "黄仁勋回归特朗普钱包受益",
+      "topic_id": "231522c8b2a6e59480dc6d5d791562e7928d6d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#出红毯千万不能站在两个笑星中间#",
+      "rank": 32,
+      "title": "出红毯千万不能站在两个笑星中间",
+      "topic_id": "231522faf4d756a23e78daeaedab3a26d17608"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#黄仁勋回归后纽约时报遭群嘲#",
+      "rank": 33,
+      "title": "黄仁勋回归后纽约时报遭群嘲",
+      "topic_id": "231522961837a5ad191c5acb1ea803067ab737"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#孙芮怕被粉丝发现肚子提前去机场躲着#",
+      "rank": 34,
+      "title": "孙芮怕被粉丝发现肚子提前去机场躲着",
+      "topic_id": "231522fc482770f14d66858adf027292f1a572"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#19岁小伙无乙肝不喝酒确诊肝癌#",
+      "rank": 35,
+      "title": "19岁小伙无乙肝不喝酒确诊肝癌",
+      "topic_id": "23152202469a8a8672d79b091985186f951002"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#果然世界就是一个巨大的羊群效应#",
+      "rank": 36,
+      "title": "果然世界就是一个巨大的羊群效应",
+      "topic_id": "231522ae928e0ba6374b12cf0c5769b30d782d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#特朗普把抵达深圳照片打印出来了#",
+      "rank": 37,
+      "title": "特朗普把抵达深圳照片打印出来了",
+      "topic_id": "231522e23f7491c4aa0ae3f7e9fd289529eeea"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#民主党称要彻查黄仁勋#",
+      "rank": 38,
+      "title": "民主党称要彻查黄仁勋",
+      "topic_id": "231522f686cd307e968ac2c7be807c8de477c9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "纯稚 顶流",
+      "rank": 39,
+      "title": "纯稚 顶流",
+      "topic_id": "2315225fa328a7cc021cabfa3619996fae5835"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#陌生人私自与婴儿合影母亲已报警#",
+      "rank": 40,
+      "title": "陌生人私自与婴儿合影母亲已报警",
+      "topic_id": "231522f431c11545b79c1f17ba00a5bbdf7260"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#甲亢哥百米跑出10秒35#",
+      "rank": 41,
+      "title": "甲亢哥百米跑出10秒35",
+      "topic_id": "23152229dbd00c1a6e2e96402fe664271defda"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#李雪琴居然这么瘦了#",
+      "rank": 42,
+      "title": "李雪琴居然这么瘦了",
+      "topic_id": "2315225391602bd5896312f200ed0bb7edaa3a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#瘦小女列车长死命拉住跳轨轻生男#",
+      "rank": 43,
+      "title": "瘦小女列车长死命拉住跳轨轻生男",
+      "topic_id": "231522aca40fc56929bad65c2716e655151e05"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#NBA回应詹姆斯半场压哨三分#",
+      "rank": 44,
+      "title": "NBA回应詹姆斯半场压哨三分",
+      "topic_id": "2315222027ec0a7228623b41866f1b5527d8a7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#神24乘组跨国组队#",
+      "rank": 45,
+      "title": "神24乘组跨国组队",
+      "topic_id": "231522a96bddff6fe53d05eb35f9616a80a9c0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#许飞仓央情歌专辑简介#",
+      "rank": 46,
+      "title": "许飞仓央情歌专辑简介",
+      "topic_id": "23152250b2c57410d8d752c10aab42bea2c4a6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#大学生失联2天后校内发现其遗体#",
+      "rank": 47,
+      "title": "大学生失联2天后校内发现其遗体",
+      "topic_id": "2315224ea88c5782dba7c829423dd9d9e8fb00"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#后会友期房车路透#",
+      "rank": 48,
+      "title": "后会友期房车路透",
+      "topic_id": "2315226530fb75c661bcdc1a4f53c47ef93091"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#第一次见男主真名瞒了女主3年的#",
+      "rank": 49,
+      "title": "第一次见男主真名瞒了女主3年的",
+      "topic_id": "23152265f66ee167020ba6004ca67460ebfb72"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#加湿器可以缓解咽痛咳嗽吗#",
+      "rank": 50,
+      "title": "加湿器可以缓解咽痛咳嗽吗",
+      "topic_id": "23152297af259b5ab9d932a20a61199311288b"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
