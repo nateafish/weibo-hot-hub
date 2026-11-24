@@ -1,0 +1,17 @@
+{
+  "account": {
+    "badge": "橙V",
+    "observed_at": "2026-11-24T20:27:19+08:00",
+    "source": "mobile_user",
+    "verified": true,
+    "verified_reason": "AI博主",
+    "verified_type": 0,
+    "verified_type_ext": 2
+  },
+  "body": "#90M文本整惨DeepSeek#\n90 MB 纯中文文本有多长？如果是 UTF-8 编码的 TXT，按一个常见汉字占 3 字节粗算，大约是 3,000 万字。按一部长篇小说 50 万字算，够装 60 部。\n模型算长度用的是 token。它会把文字拆成小片段，一个词、半个词、一个标点都可能是一个 token。你这轮发的材料、带进来的聊天记录和模型写出的回答，都要占上下文窗口。\n看几款主流模型的官方 API 规格：\n- DeepSeek V4 Pro／V4.1 Flash：约 100 万 token 上下文。\n- GPT-6.2 Sol：105 万 token 上下文，单次最多输入 92.2 万。\n- Claude Opus 5.5：100 万 token 上下文。\n- Gemini 4 Carbon：约 105 万 token 上下文。\n- Qwen4-Max：100 万 token 上下文，单次最多输入约 99 万，思考模式下略少。\n按 DeepSeek 的中文换算，100 万 token 大约是 167 万字，差不多三部长篇小说的量。这个数字不能直接当成聊天框的粘贴上限：各家拆字的方式不同，网页和 App 也有自己的限制。\n有的应用能收下整份文件，但等你提问时，只会挑出相关的几段交给模型。\n#大模型一次能读多少文本#\n#DeepSeek#",
+  "created_at_text": "Tue Nov 24 17:54:05 +0800 2026",
+  "mid": "5368837391780549",
+  "uid": "7934853554",
+  "url": "https://m.weibo.cn/detail/5368837391780549",
+  "username": "42号电波"
+}

@@ -1,13 +1,27 @@
 {
-  "category": null,
+  "category": "明星",
   "created_at": 1795513353,
   "first_seen_at": "2026-11-24T19:00:00+08:00",
-  "host": null,
-  "last_seen_at": "2026-11-24T19:00:00+08:00",
+  "host": {
+    "claim_time": "2026.11.24-至今",
+    "created_at": "2026-11-24 20:11:34",
+    "is_claim": true,
+    "screen_name": "娱乐圈茶水间",
+    "status": 2,
+    "uid": 6524697418
+  },
+  "last_seen_at": "2026-11-24T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%99%86%E5%A9%B7%E7%BB%99%E6%9B%BE%E8%89%B3%E8%8A%AC%E5%8F%91%E5%BE%8B%E5%B8%88%E5%87%BD%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "2家媒体",
     "users": [
+      {
+        "id": 5762891674,
+        "idstr": "5762891674",
+        "screen_name": "密度新闻",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1738004582,
         "idstr": "1738004582",

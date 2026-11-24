@@ -3,15 +3,36 @@
   "created_at": 1795515610,
   "first_seen_at": "2026-11-24T19:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-24T19:00:00+08:00",
+  "last_seen_at": "2026-11-24T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%AD%E5%9B%BDiPhone%E9%A1%B6%E9%85%8D%E9%94%80%E9%87%8F%E7%AC%AC%E4%B8%80%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "10家媒体",
     "users": [
       {
         "id": 1738006505,
         "idstr": "1738006505",
         "screen_name": "机锋网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5396094153,
+        "idstr": "5396094153",
+        "screen_name": "大众新闻-大众日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2075245652,
+        "idstr": "2075245652",
+        "screen_name": "长春晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -30,9 +51,9 @@
         "verified_type": 3
       },
       {
-        "id": 1708877153,
-        "idstr": "1708877153",
-        "screen_name": "都市报道",
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       }
