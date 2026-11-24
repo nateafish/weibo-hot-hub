@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1734530730
   },
-  "last_seen_at": "2026-11-24T12:00:00+08:00",
+  "last_seen_at": "2026-11-24T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%8C%9D%E6%AD%BB%E5%A5%B3%E6%95%99%E5%B8%88%E6%A0%A1%E6%96%B9%E6%98%AF%E4%B8%8A%E6%B5%B7%E5%8D%95%E4%BD%93%E6%9C%80%E5%A4%A7%E5%AD%A6%E6%A0%A1%23%26t%3D3&title=发布媒体",
-    "show_str": "18家媒体",
+    "show_str": "22家媒体",
     "users": [
       {
         "id": 1734530730,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 1267454277,
+        "idstr": "1267454277",
+        "screen_name": "凤凰周刊",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 6993844458,
         "idstr": "6993844458",
         "screen_name": "微博泛生活",
@@ -51,16 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 3338499784,
-        "idstr": "3338499784",
-        "screen_name": "大河3C",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3229962754,
-        "idstr": "3229962754",
-        "screen_name": "陕视新闻",
+        "id": 5341241739,
+        "idstr": "5341241739",
+        "screen_name": "网易健康",
         "verified": true,
         "verified_type": 3
       }
