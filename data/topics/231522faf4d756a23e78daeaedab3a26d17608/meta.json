@@ -10,11 +10,47 @@
     "status": 2,
     "uid": 6411226110
   },
-  "last_seen_at": "2026-11-24T08:00:00+08:00",
+  "last_seen_at": "2026-11-24T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%87%BA%E7%BA%A2%E6%AF%AF%E5%8D%83%E4%B8%87%E4%B8%8D%E8%83%BD%E7%AB%99%E5%9C%A8%E4%B8%A4%E4%B8%AA%E7%AC%91%E6%98%9F%E4%B8%AD%E9%97%B4%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "5家媒体",
+    "users": [
+      {
+        "id": 5396094153,
+        "idstr": "5396094153",
+        "screen_name": "大众新闻-大众日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2535760180,
+        "idstr": "2535760180",
+        "screen_name": "安徽视讯",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2346437860,
+        "idstr": "2346437860",
+        "screen_name": "三峡融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497418417,
+        "idstr": "1497418417",
+        "screen_name": "掌上温岭",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#出红毯千万不能站在两个笑星中间#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E5%87%BA%E7%BA%A2%E6%AF%AF%E5%8D%83%E4%B8%87%E4%B8%8D%E8%83%BD%E7%AB%99%E5%9C%A8%E4%B8%A4%E4%B8%AA%E7%AC%91%E6%98%9F%E4%B8%AD%E9%97%B4%23",

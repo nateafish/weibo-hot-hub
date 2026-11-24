@@ -3,11 +3,47 @@
   "created_at": 1795437109,
   "first_seen_at": "2026-11-24T01:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-24T07:00:00+08:00",
+  "last_seen_at": "2026-11-24T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%92%8B%E6%AC%A3%E7%98%A6%E6%88%90%E8%BF%99%E6%A0%B7%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "5家媒体",
+    "users": [
+      {
+        "id": 2594033604,
+        "idstr": "2594033604",
+        "screen_name": "晨报体育",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2027257301,
+        "idstr": "2027257301",
+        "screen_name": "官方新闻晨报旅游周刊",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1944942720,
+        "idstr": "1944942720",
+        "screen_name": "互动影像-新闻晨报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1813082644,
+        "idstr": "1813082644",
+        "screen_name": "新闻晨报地产星空",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1314608344,
+        "idstr": "1314608344",
+        "screen_name": "新闻晨报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "蒋欣瘦成这样了",
   "search_url": "https://s.weibo.com/weibo?q=%23%E8%92%8B%E6%AC%A3%E7%98%A6%E6%88%90%E8%BF%99%E6%A0%B7%E4%BA%86%23",

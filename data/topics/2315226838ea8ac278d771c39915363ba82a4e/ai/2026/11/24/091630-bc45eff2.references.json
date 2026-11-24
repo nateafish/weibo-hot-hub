@@ -1,0 +1,479 @@
+{
+  "answer_version": "2026-11-24 09:14:47.289000-3708",
+  "breakdown": [
+    {
+      "label": "金橙V",
+      "percent": 72.0,
+      "url": "https://s.weibo.com/aisearchmore?q=AI+%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3&res_type=ref_blog&u_type=gold_orange_v&page=1"
+    },
+    {
+      "label": "认证用户",
+      "percent": 9.0,
+      "url": "https://s.weibo.com/aisearchmore?q=AI+%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3&res_type=ref_blog&u_type=verified&page=1"
+    },
+    {
+      "label": "普通用户",
+      "percent": 9.0,
+      "url": "https://s.weibo.com/aisearchmore?q=AI+%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3&res_type=ref_blog&u_type=normal&page=1"
+    },
+    {
+      "label": "媒体",
+      "percent": 10.0,
+      "url": "https://s.weibo.com/aisearchmore?q=AI+%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3&res_type=ref_blog&u_type=&page=1"
+    }
+  ],
+  "captured_at": "2026-11-24T09:16:30+08:00",
+  "posts": [
+    {
+      "account": {
+        "badge": "蓝V",
+        "observed_at": "2026-11-24T09:16:29+08:00",
+        "source": "search_avatar"
+      },
+      "category": "媒体",
+      "created_at_text": "11月22日 10:54",
+      "excerpt": "【\n#黎曼猜想证明获认证#\n#Claude参与证明黎曼猜想#\n】困扰数学界167年的黎曼猜想，迎来具有里程碑意义的验证进展。由人类数学家与AI合作完成的一份证明，已经获得形式化数学领域权威机构的认可。\n当地时间11月21日，Lean和Mathlib社区发表联合声明，正式确认数学家Levent Alpöge提交的黎曼猜想形式化证明及其命题表述均正确。声明表示：“我们完全确信Alpöge对黎曼猜想的证明是正确的，并祝贺他取得这一成就。”声明还明确表示，已确认黎曼猜想的命题表述及其",
+      "mid": "5368007146340483",
+      "uid": "1926909715",
+      "url": "https://weibo.com/1926909715/RsxaWqBrR",
+      "username": "第一财经日报"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-24T09:16:29+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月22日 08:31",
+      "excerpt": "黎曼猜想迎来大结局！Lean官方认证：Claude证明无误\n这个确实应该是证明了，通过LEAN系统的严格检查，四种可能的漏洞都检查了。\n如果对于计算机与LEAN原理了解，应该就能明白，AI确实给出了一个黎曼猜想的证明。只不过谁也没想到会是这么长，如果写成论文要25万页草稿，LEAN代码长达1700万行。\n所以，怪不得没有人能摸到黎曼猜想的边，人类不可能折腾出这么长的证明，出错的都不行，更别说不出错的。\n这是人类利用工具证明的极端案例，说明了形式化证明系统的威力。当初搞出LEA",
+      "mid": "5367970958149869",
+      "uid": "5493934570",
+      "url": "https://weibo.com/5493934570/Rswezyc9v",
+      "username": "风云学会陈经"
+    },
+    {
+      "account": {
+        "badge": "无徽标",
+        "observed_at": "2026-11-24T09:16:29+08:00",
+        "source": "search_avatar"
+      },
+      "category": "普通用户",
+      "created_at_text": "11月23日 20:14",
+      "excerpt": "这篇悲情的小作文，作者Mono：\n——————\n世界上最惨数学家，可能刚刚诞生了\n斯坦福出身的数学家 Alessandro Masullo，花了近12年，不借助 AI，写出整整940页广义黎曼猜想证明草稿。\n原本，他还打算花一年时间完善论文。\n结果2026年11月20日，Anthropic数学家 LeventAlpoge 突然宣布，他与 Claude 合作完成了另一份黎曼猜想的形式化证明。\n同一天，Masullo的研究成果被仓促公开。发布者甚至特别强调：完全由人类完成，没有 ",
+      "mid": "5368510340666115",
+      "uid": "1339897295",
+      "url": "https://weibo.com/1339897295/RsKgy2NhN",
+      "username": "青松古藤"
+    },
+    {
+      "account": {
+        "badge": "蓝V",
+        "observed_at": "2026-11-24T09:16:29+08:00",
+        "source": "search_avatar"
+      },
+      "category": "媒体",
+      "created_at_text": "今天08:11",
+      "excerpt": "【央视财经评论丨\n#AI辅助挑战黎曼猜想#\n#上百年的数学难题或被AI破解了#\n】一道人类思考了上百年的数学难题，可能要被AI破解了？11月20日，一家人工智能大模型公司的研究人员宣布，他在AI的辅助下，完成了一项针对黎曼猜想的证明。次日，Lean与Mathlib社区确认该形式化证明通过核验。不过，克雷数学研究所尚未正式认定，黎曼猜想在其官网上仍“未解决”。黎曼猜想，被誉为数学皇冠上的明珠，提出至今已有167年。无数优秀的数学家向它发起挑战，至今无人成功。\n什么是黎曼猜想？证",
+      "mid": "5368690818419871",
+      "uid": "2258727970",
+      "url": "https://weibo.com/2258727970/RsOXDzkon",
+      "username": "央视财经"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-24T09:16:29+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月22日 12:12",
+      "excerpt": "老陶是数学家里顶流的顶流了。可这段视频看了之后感慨one chain。\n一个采访。里面谈及的正是黎曼猜想。很简单：黎曼猜想是否很快会被攻克？\n他很明确、很自信地给出了否定，同时指出各大AI公司私下里为此投入的时间肯定远超对外披露的程度（嘛这话也没错）。可是问题在于接下。接下来他说：即便投入巨大，目前阶段AI水准依然完全·无法·撼动这一数学难题。\n老陶认为，攻克黎曼猜想需要超越当前AI水平的新突破。So他掐指一算，认为或许要到 2050左右，通过人类与人工智能的某种结合，这个问",
+      "mid": "5368026683671921",
+      "uid": "2084561435",
+      "url": "https://weibo.com/2084561435/RsxGsfpex",
+      "username": "蕨代霜蛟"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-24T09:16:29+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月21日 21:45",
+      "excerpt": "🔻A➗声称攻破黎曼猜想之后，这哥们儿一天发了11条视频。\n🔻能看出来，哥们儿确实有点迷茫。\n#黎曼猜想#\n#热点聚焦#\n​​​​",
+      "mid": "5367808436211906",
+      "uid": "1671109627",
+      "url": "https://weibo.com/1671109627/Rss0rq402",
+      "username": "包容万物恒河水"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-24T09:16:29+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月22日 16:14",
+      "excerpt": "昨天大概是人类数学学史上最魔幻的一天了。\n悬了整整 167 年、被无数数学家视作皇冠上最硬那颗钻石的“黎曼猜想”（连带着广义黎曼猜想），竟然在短短几个小时之内，被两股截然不同的力量各自独立宣告攻破了。\n一边是硅基算力的暴力碾压。Anthropic 的数学家 Levent Alpöge 刚刚放出重磅声明，宣布自己联手 Claude 找到了黎曼猜想和广义黎曼猜想的完整证明。\n他连传统论文都没发——不是不想发，而是 AI 推演出来的自然语言草稿直接飙破了 25 万页、数百万行代码，",
+      "mid": "5368087612228267",
+      "uid": "1904098061",
+      "url": "https://weibo.com/1904098061/RszgJ9lFN",
+      "username": "YouTube全球精选"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-24T09:16:29+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月22日 15:11",
+      "excerpt": "#黎曼猜想证明获认证#\n其实新闻一出来，就觉得ai大概率是搞定了黎曼猜想，现在就等着人类数学家进行最后的验证了。不知道啥时候能出个两三百页的版本？ ​",
+      "mid": "5368071591298020",
+      "uid": "1700040344",
+      "url": "https://weibo.com/1700040344/RsyQT5rFO",
+      "username": "贼叉"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-24T09:16:32+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月23日 13:46",
+      "excerpt": "🔻有些“深蓝派”的网友没有明白“人类派”的观点。\n🔻其实很简单：几十年来，分析数论界对黎曼猜想为真的信念非常强。大量计算验证（非平凡零点已检查到极高高度）、部分结果、以及与其他猜想的相容性，让大多数人把它当作“几乎肯定真”的命题。在此假设下，已经构建了大量条件性定理。\n🔻人类之所以还要死磕“黎曼猜想是不是真的”，是为了在解决它的过程中发展新技术、新联系、新视角。这些东西可以迁移到其他问题（包括条件性结果的无条件化、甚至完全不同的领域）。\n🔻所以，如果AI只是得出一个“黎曼猜想",
+      "mid": "5368412617836667",
+      "uid": "1671109627",
+      "url": "https://weibo.com/1671109627/RsHIVwSFR",
+      "username": "包容万物恒河水"
+    },
+    {
+      "account": {
+        "badge": "蓝V",
+        "observed_at": "2026-11-24T09:16:32+08:00",
+        "source": "search_avatar"
+      },
+      "category": "认证用户",
+      "created_at_text": "11月23日 20:05",
+      "excerpt": "【青年数学家道心破碎，MIT数学系调研：AI让七成研究生萌生退意】\n最近，\n#Anthropic#\n数论学家莱文特·阿尔珀格（Levent Alpöge）宣布和 Claude 合作，用大约六周时间，完成了广义\n#黎曼猜想#\n的形式化证明，并由此直接推导出困扰数学界 167 年的黎曼猜想。很快，形式化证明助手 Lean 及其数学形式化库 Mathlib 的社区成员宣布，经过独立编译与比对，这套代码完整通过了计算机的逐行核查。\n这个结果来得比业内最乐观的预测还要更早：就在一个月前",
+      "mid": "5368507977964260",
+      "uid": "1738690784",
+      "url": "https://weibo.com/1738690784/RsKcJxpRO",
+      "username": "麻省理工科技评论"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-24T09:16:32+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月23日 17:22",
+      "excerpt": "#Claude已经超越数学家了吗#\n167年，几代数学家熬白了头才敢去碰的黎曼猜想，现在据说AI和人类联手就给搞定了，一方面震撼于技术的狂飙，另一方面，却觉得有一种深深的浪漫感。就算AI真的能完美证明这一切，它也感受不到人类在写下最后一行推导时的那种狂喜与热泪盈眶。\n对于AI来说，那只是一堆数据和逻辑的推导；但对于人类来说，那是对未知的敬畏和长久的执着。我们寻求答案，不仅仅是为了那个结果，更是为了证明我们曾在浩瀚宇宙中努力思考过。无论AI多聪明，它永远无法替代人类在探索真理时",
+      "mid": "5368466974704395",
+      "uid": "5745771094",
+      "url": "https://weibo.com/5745771094/RsJ8BjJPl",
+      "username": "时书恒hend"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-24T09:16:31+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月22日 00:32",
+      "excerpt": "去搜了一下人类的证明果然是立马又被AI发现问题然后不得不当天再次发布声明承认这些问题确实需要解决\n​",
+      "mid": "5367850590274844",
+      "uid": "7508183959",
+      "url": "https://weibo.com/7508183959/Rst6r19uY",
+      "username": "泰美丽发大财"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-24T09:16:29+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月21日 10:50",
+      "excerpt": "2026年11月20日，在人工智能公司Anthropic工作的数学家勒温特·阿尔珀格（Levent Alpöge）在个人网站上发出一份简短说明。\n他说，自己借助AI模型Claude，找到了黎曼猜想的证明。\n消息传出，数学界炸开了锅。这篇证明没有任何传统意义上的论文，也没有投稿给学术期刊，直接附带的是一套由AI生成的机器代码。代码规模极其吓人：如果要打印成人类能读懂的数学文本，足足超过25万页；转化成计算机能严密校验的代码，长达1700万行，压缩后还要分成14个分卷。\n数学里最",
+      "mid": "5367643650918689",
+      "uid": "1649586835",
+      "url": "https://weibo.com/1649586835/RsnIF3QZz",
+      "username": "Steed的围脖"
+    },
+    {
+      "account": {
+        "badge": "无徽标",
+        "observed_at": "2026-11-24T09:16:32+08:00",
+        "source": "search_avatar"
+      },
+      "category": "普通用户",
+      "created_at_text": "11月22日 10:18",
+      "excerpt": "AI 用 1700 万行代码证明了黎曼猜想，当然很了不起，但我想更值得骄傲的，是 1859 年的黎曼。他凭碳基大脑的一闪念，就看见了它：素数看似随机分布，ζ 函数所有的不平凡零点却全都落在实部为 1/2 的那条直线上。\n人类后来一个一个去验，验了十万亿个，无一例外。这条直线，是造物主的恩典；看见这条直线，是人类智力的荣光。证明可以交给机器，但那种从直觉里旁逸斜出的想象，那可以抵达浩瀚宇宙最远处的想象，只能属于人类。\n收起\nd",
+      "mid": "5367997879289170",
+      "uid": "1769741763",
+      "url": "https://weibo.com/1769741763/RswVZCYxk",
+      "username": "洛之秋"
+    },
+    {
+      "account": {
+        "badge": "蓝V",
+        "observed_at": "2026-11-24T09:16:31+08:00",
+        "source": "search_avatar"
+      },
+      "category": "媒体",
+      "created_at_text": "11月23日 18:06",
+      "excerpt": "#丘成桐解读黎曼猜想被AI辅助证明#\n【黎曼猜想被AI辅助证明？丘成桐独家回应：机器验证相当准确，但100%确认仍需数学家消化复用，预计5年内理解】当地时间11月21日，Lean与Mathlib社区宣布阿尔波格的黎曼猜想证明通过核验。澎湃科技就此独家专访菲尔兹奖得主丘成桐。丘成桐表示，这是一个很令人兴奋的成就，机器验证相当准确，但100%确认仍需数学家长期消化、反复使用定理；预计5年内人类能够理解这一长证明。\nL\n澎湃新闻的微博视频\n收起\nd",
+      "mid": "5368478128151423",
+      "uid": "5044281310",
+      "url": "https://weibo.com/5044281310/RsJqAycyz",
+      "username": "澎湃新闻"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-24T09:16:32+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月23日 08:40",
+      "excerpt": "Lean发布声明表示, 形式化证明黎曼猜想的1700万行代码无误, Musk直言超级智能又一次取得令人惊艳的成就. 短短6周时间, Claude给出1700万行Lean代码, 然后一天之内通过Lean和Mathlib的独立验证, 整个流程走下来, 意味着AI递归自我改进(RSI)在可验证领域跑通了: 首先是人工审核应对概率性幻觉的必要性下降, 验证复杂度和人类认知能力脱钩, AI的迭代速度加快. 其次在可验证领域, 摆脱AI生成数据造成模型坍塌的风险, 通过独立验证的证明黎曼",
+      "mid": "5368335583939906",
+      "uid": "1645776681",
+      "url": "https://weibo.com/1645776681/RsFIGgwWS",
+      "username": "LoneSchicksal"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-24T09:16:32+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月23日 10:09",
+      "excerpt": "我这两天一直在想，现在AI的能力已经强到能在很短时间内攻克人类数学家两百年都解决不了的顶级数学难题黎曼猜想。那解决基础数学问题的能力更会是远远超出人类。\n如果是现在这样的形势，我们的学校继续让学生进行大量题海训练，反复刷题，为了分数无限内卷的意义是什么？当然我不是说基础知识和训练不重要，它仍然很重要。但在 AI 能稳定、高效完成大量基础推演与计算的前提下，学习和教育方式肯定需要改变。\n应该大量压缩机械重复的东西，不再把时间和重点放在AI 能稳定完成的海量刷题上。更多的精力要用",
+      "mid": "5368358075895074",
+      "uid": "7365199973",
+      "url": "https://weibo.com/7365199973/RsGiXoJzQ",
+      "username": "零落的黄色枫叶"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-24T09:16:32+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月21日 11:03",
+      "excerpt": "今天Anthropic的数学家Levent Alpoge（本科哈佛、硕士剑桥、PhD普林斯顿）宣布通过Claude破解了数学皇冠 — 黎曼猜想（The Riemann hypothesis）。他在他的网站公布了4页文本。\n黎曼猜想被公认为是数学界最难解决的难题。该猜想1859年由德国数学家黎曼提出，认为虽然质数会越来越少，但其分布是有规律的：质数是构成所有大于 1 的整数的“基石”。随着数值增大，质数会变得越来越稀疏，且分布看似毫无规律。虽然数学家可以用公式估算出在 100 ",
+      "mid": "5367646851960128",
+      "uid": "1251560221",
+      "url": "https://weibo.com/1251560221/RsnNP8dUY",
+      "username": "子陵在听歌"
+    },
+    {
+      "account": {
+        "badge": "蓝V",
+        "observed_at": "2026-11-24T09:16:32+08:00",
+        "source": "search_avatar"
+      },
+      "category": "认证用户",
+      "created_at_text": "11月22日 10:04",
+      "excerpt": "#邓煜回应AI证明黎曼猜想传闻#\n【AI证明黎曼猜想？2026年菲尔兹奖得主邓煜：在可读版本出现以前，不评论】\n#多位数学家谈Claude证明黎曼猜想#\n当地时间11月20日，Anthropic数学家莱文特·阿尔珀格在个人网站发布声明，称自己借助Claude找到了广义黎曼猜想的证明。已经困扰人类167年的黎曼猜想，2000年被列入七大千禧年难题。\n#25万页AI黎曼猜想证明难核验#\n随阿尔珀格声明公开的是一份4页说明和14个压缩包，后者是约1700万行用Lean编写的形式化代",
+      "mid": "5367994327763169",
+      "uid": "2318910945",
+      "url": "https://weibo.com/2318910945/RswQgwzyp",
+      "username": "新浪热点"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-24T09:16:32+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月23日 00:28",
+      "excerpt": "从这两天数学界的反应来看，AI证明黎曼猜想已经从笑话变成了不得不正视的可能，证明正确的概率急剧放大......这是人类的落日....毁灭吧，赶紧的\n​",
+      "mid": "5368211990381855",
+      "uid": "1762645362",
+      "url": "https://weibo.com/1762645362/RsCvl1BkX",
+      "username": "宝树"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-24T09:16:33+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月22日 12:38",
+      "excerpt": "美国那边说是用AI 帮着证明了黎曼猜想，结果你猜怎么着？证明过程有25万页，我尼玛，我看了直呼内行，别说我们普通人看不明白，就是当今在世的数学家那也看不过来啊。\n数学之美，其中之一在于简洁，25万字的证明我觉得还能接受，25万页，我觉得AI 有可能会顾头不顾腚，关键是这谁能证明它的证明是对的呢？\n我觉得这种成果出来，先要做的是质疑和验证，吹捧就拉倒吧，是个啥玩意还不知道呢，你就舔，万一是一坨屎呢？\n收起\nd",
+      "mid": "5368033268727977",
+      "uid": "1341094680",
+      "url": "https://weibo.com/1341094680/RsxR4ACxP",
+      "username": "六爷阿旦"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-24T09:16:33+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月23日 17:20",
+      "excerpt": "#Claude已经超越数学家了吗#\n作为看不懂黎曼猜想细节的普通人，我看这条新闻的感受很朴素：AI正在往硬核领域往前走，而且走得比很多人预想的快。\n十几年前，觉得AI能聊天、写东西就挺新鲜；现在它已经开始接触顶尖数学难题，帮着做推导、过验证。不管最后成果怎么评价，这个方向本身说明，AI的能力边界一直在往外扩。\n不过对我们普通人来说，没必要急着站队喊超越。看不懂的专业证明，交给学界慢慢检验；自己日常用得到的部分，看看工具是不是真能帮上忙，就够了。\n技术往前走，既不必恐慌，也别盲",
+      "mid": "5368466485282047",
+      "uid": "1358967674",
+      "url": "https://weibo.com/1358967674/RsJ7Oma6j",
+      "username": "玩车小武"
+    },
+    {
+      "account": {
+        "badge": "无徽标",
+        "observed_at": "2026-11-24T09:16:33+08:00",
+        "source": "search_avatar"
+      },
+      "category": "普通用户",
+      "created_at_text": "11月23日 19:16",
+      "excerpt": "黎曼猜想被攻破，人类文明告急。\n少年天才Alexandr Wang连夜发长文预警。\n推荐大家读一篇值得认真思考的长文：《Superintelligence is Arriving》（超级智能正在降临）。\n作者 Alexandr Wang（亚历山大·王），1997年出生于美国洛斯阿拉莫斯，父母均为物理学家。少年时期参加数学和物理竞赛，后进入麻省理工学院（MIT），19岁辍学创办 Scale AI，成为硅谷最年轻的亿万富豪之一。2025年，Meta 以约143亿美元投资 Scal",
+      "mid": "5368495837285240",
+      "uid": "8008132384",
+      "url": "https://weibo.com/8008132384/RsJT9uzdS",
+      "username": "曾颖生活号"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-24T09:16:33+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月22日 23:18",
+      "excerpt": "Claude用25万页证明黎曼猜想！人类真的要给AI当狗吗？\n昨天是个让数学家崩溃的日子：数学家阿尔珀格宣布，他与人工智能Claude合作，仅用6周时间，就证明了困扰人类167年的世纪难题——黎曼猜想。它交出了1700万行代码，换成可读语言足足有25万页！ 如果按照当年人类审核怀尔斯费马大定理的速度，大约需要审核2000多年。在AI面前，人类的算力和智力已经完全不够用了。人类已经无法理解自己创造出的怪物了。邓煜之前在演讲中说过的那句“给AI当狗”，或许正一步步成为现实。面对这",
+      "mid": "5368194288324643",
+      "uid": "3325704142",
+      "url": "https://weibo.com/3325704142/RsC2MyVCr",
+      "username": "李永乐老师"
+    },
+    {
+      "account": {
+        "badge": "黄V",
+        "observed_at": "2026-11-24T09:16:33+08:00",
+        "source": "search_avatar"
+      },
+      "category": "认证用户",
+      "created_at_text": "11月21日 10:07",
+      "excerpt": "转：\n黎曼猜想 24 小时内将被验证（Lean 代码正在全球跑编译）\n为什么没人敢当它是炒作？看看作者 Levent Alpöge（Anthropic 数学家、哈佛/普林斯顿数论天才）过去 4 个月带着 Claude 干了什么：\n7/19 推翻 87 年难题雅可比猜想(n≥3)，陶哲轩发文解析\n8/12 补齐 2000 阶以下全部未知阿达马矩阵\n8/13 证明超 2/3 黎曼零点在临界线上，大幅刷新纪录\n8/19 推翻百年卡拉西奥多里猜想与勒夫纳猜想\n8/20-23 连续打破",
+      "mid": "5367632867892060",
+      "uid": "1314154381",
+      "url": "https://weibo.com/1314154381/Rsnrgx75i",
+      "username": "圆觉傅李剑锋"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-24T09:16:33+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月22日 07:29",
+      "excerpt": "两年前关于黎曼猜想的一个回答及当时的评论区 ​",
+      "mid": "5367955363726244",
+      "uid": "7121642724",
+      "url": "https://weibo.com/7121642724/RsvPqfDmI",
+      "username": "无边桃炎"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-24T09:16:33+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月21日 07:56",
+      "excerpt": "#AI证明黎曼猜想传闻#\n数学界不会承认这种“证明”，介绍下LEAN形式化代码体系\n25万页草稿的证明，LEAN代码有1G这么大，1737万行代码。这种东西，一看就没有数学美感，只有暴力。注意是25万页草稿，没公布，只有1700万行LEAN代码公布了，分14个压缩包，一共175187个文件。\n这个Anthropic数学家Levent Alpöge，如果关心AI数学，会经常看到他发的AI证明结果，以前发的是正确的。例如图一，是Claude Fable 5给出的雅各比猜想的一个反",
+      "mid": "5367599753858412",
+      "uid": "5493934570",
+      "url": "https://weibo.com/5493934570/RsmzRgbKs",
+      "username": "风云学会陈经"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-24T09:16:33+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月22日 20:02",
+      "excerpt": "解决黎曼猜想，到底意义大不大，这看你站在什么角度上。\n你要是站在数学角度上，意义重大。\n站在AI角度上，算不得什么事。\n因为根据报道，解决这个事情一共花了六周。\n不管你把黎曼猜想的重要性说破天，AI搞定这个事情，六周。\n说破天，它也只花了六周。\n如果这都让你觉得不得了，那你明年和后年，天天都要瘫坐眩晕？\n算力和算法是会越来越强大的，那你怎么办？\n要有一些心理准备，今天说了，人类会丧失对知识的主导权。\n收起\nd",
+      "mid": "5368144929227857",
+      "uid": "1687813073",
+      "url": "https://weibo.com/1687813073/RsALaCIAp",
+      "username": "李建秋的世界"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-24T09:16:33+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月21日 00:48",
+      "excerpt": "🔻有 Anthropic 数学家声称与 Claude 一起找到了黎曼猜想的证明（已形式化）\n🔻Anthropic 的 Levent Alpöge 发表声明 ，称已在 Anthropic 的 Claude AI 协助下解决了这一问题。\n🔻今年 8 月，Anthropic 曾宣布在黎曼猜想方面取得先前进展 ，但那次并未达到完整证明。\n🔻Alpöge 尚未发布人类可读版本的证明，称“试图发布某种庞大、不可读的‘垃圾’仿制品显然是不合适的”，不过他表示，一个未发布的版本长达超过 25",
+      "mid": "5367492174414711",
+      "uid": "1671109627",
+      "url": "https://weibo.com/1671109627/RsjMliwt1",
+      "username": "包容万物恒河水"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-24T09:16:33+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月23日 14:47",
+      "excerpt": "Meta 首席 AI 官 Alexandr Wang 发表长文《Superintelligence is Arriving》（超级智能正在到来）。他的结论是：\nAI 现在缺的不是智力，而是各行业的专门知识和实验条件；他同时反对把社会交给 AI，认为整个行业需要换一条路走。\nAI 协助证明黎曼猜想这件事是个转折点，在大多数学过数学的人眼里，证明黎曼猜想是人类最高的智力成就；很多物理学家也会同意，跟它比起来，研制原子弹只算一道家庭作业题。\n【文章的四个主要论点】\n1. AIME ",
+      "mid": "5368428091409542",
+      "uid": "1727858283",
+      "url": "https://weibo.com/1727858283/RsI7T5UGy",
+      "username": "宝玉xp"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-24T09:16:34+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月21日 00:30",
+      "excerpt": "A畜拉了25w页的大便代码，宣布自己证明了黎曼猜想……不如大肥鱼总结的一句话。 ​​​​接下来就看有多少独立思考家大吹ai牛逼了。 ​",
+      "mid": "5367487539709607",
+      "uid": "5955106173",
+      "url": "https://weibo.com/5955106173/RsjEREJUz",
+      "username": "stage1st宅社区"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-24T09:16:34+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月21日 18:22",
+      "excerpt": "AI：我证明了黎曼猜想。\n人类：给我看看。\nAI：对你来说太长了，展示不了……\n人类：其实你没证明出来对不对？要是证明出来的话，不管1000页还是2000页也好，给我看呀！\nAI：25万页。\n人类：……\n邓煜老师：让他缩写到500页再给我看！ ​",
+      "mid": "5367757483806763",
+      "uid": "2099300141",
+      "url": "https://weibo.com/2099300141/RsqGgfYjp",
+      "username": "犀小莉"
+    }
+  ],
+  "reference_url": "https://s.weibo.com/aisearchmore?q=AI+%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3&res_type=ref_blog&u_type=&page=1",
+  "reported_count": 32,
+  "source_url": "https://s.weibo.com/aisearch?q=AI+%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3&Refer=weibo_aisearch&t=31"
+}
