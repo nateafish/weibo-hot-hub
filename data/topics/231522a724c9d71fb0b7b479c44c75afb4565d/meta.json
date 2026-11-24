@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 5112585555
   },
-  "last_seen_at": "2026-11-21T07:00:00+08:00",
+  "last_seen_at": "2026-11-24T08:00:00+08:00",
   "media_info": {
-    "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23U17%E4%B8%96%E7%95%8C%E6%9D%AF%23%26t%3D3&title=发布媒体",
-    "show_str": "19家媒体",
+    "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23u17%E4%B8%96%E7%95%8C%E6%9D%AF%23%26t%3D3&title=发布媒体",
+    "show_str": "33家媒体",
     "users": [
       {
         "id": 1716376363,
@@ -23,9 +23,30 @@
         "verified_type": 3
       },
       {
+        "id": 5350271203,
+        "idstr": "5350271203",
+        "screen_name": "体坛周报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7478835323,
         "idstr": "7478835323",
         "screen_name": "湖报体育",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2293703917,
+        "idstr": "2293703917",
+        "screen_name": "BRTV体育",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1913412967,
+        "idstr": "1913412967",
+        "screen_name": "足球周刊",
         "verified": true,
         "verified_type": 3
       },
@@ -42,31 +63,10 @@
         "screen_name": "潇湘晨报",
         "verified": true,
         "verified_type": 3
-      },
-      {
-        "id": 5703735355,
-        "idstr": "5703735355",
-        "screen_name": "人民日报体育",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2757394263,
-        "idstr": "2757394263",
-        "screen_name": "网易体育频道",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1747927481,
-        "idstr": "1747927481",
-        "screen_name": "CGTN体育报道",
-        "verified": true,
-        "verified_type": 3
       }
     ]
   },
-  "query": "U17世界杯",
+  "query": "u17世界杯",
   "search_url": "https://s.weibo.com/weibo/%23u17%E4%B8%96%E7%95%8C%E6%9D%AF%23",
   "sub_category": null,
   "summary": "",
