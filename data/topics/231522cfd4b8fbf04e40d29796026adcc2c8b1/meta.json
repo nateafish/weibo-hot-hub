@@ -3,10 +3,10 @@
   "created_at": 1795499513,
   "first_seen_at": "2026-11-24T14:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-24T20:00:00+08:00",
+  "last_seen_at": "2026-11-24T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%A6%81%E4%BA%86%E4%B8%A4%E4%B8%AA%E6%9C%88%E7%94%9F%E6%B4%BB%E8%B4%B9%E6%89%8D%E5%8F%91%E7%8E%B0%E8%AE%A4%E9%94%99%E4%BA%BA%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "8家媒体",
+    "show_str": "9家媒体",
     "users": [
       {
         "id": 3288875501,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 3684007222,
+        "idstr": "3684007222",
+        "screen_name": "自主汽车网",
+        "verified": true,
+        "verified_type": 7
+      },
+      {
         "id": 3253939390,
         "idstr": "3253939390",
         "screen_name": "半岛新闻",
@@ -47,13 +54,6 @@
         "id": 1912416573,
         "idstr": "1912416573",
         "screen_name": "河南手机报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1744332207,
-        "idstr": "1744332207",
-        "screen_name": "钱江视频",
         "verified": true,
         "verified_type": 3
       }

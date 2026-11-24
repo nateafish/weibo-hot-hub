@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-24T21:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#习近平主席向世界推介中国这四座城市#",
+      "rank": 1,
+      "title": "习近平主席向世界推介中国这四座城市",
+      "topic_id": "23152235a66101510701a22fff37b80ea7d8c0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#陈吉宁被查#",
+      "rank": 1,
+      "title": "陈吉宁被查",
+      "topic_id": "231522b776617dda457bc33e0668c36f71b93e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#19楼落地窗底部装无限位外凸窗#",
+      "rank": 2,
+      "title": "19楼落地窗底部装无限位外凸窗",
+      "topic_id": "231522f6b480cd576b9bfaaf7072faa9648f17"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#绿色智引擎驱动低碳出海#",
+      "rank": 3,
+      "title": "绿色智引擎驱动低碳出海",
+      "topic_id": "231522ebf86e7cdad9348d2d94616effca6558"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#马天宇文吉儿矛盾比张萌都大#",
+      "rank": 4,
+      "title": "马天宇文吉儿矛盾比张萌都大",
+      "topic_id": "23152260d12d4f6b4566f30d3664d6c546bd27"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#曝Mate90积分国补到手4616#",
+      "rank": 5,
+      "title": "曝Mate90积分国补到手4616",
+      "topic_id": "231522767695f789734c848d6cc055aebd78cd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#维嘉跟王菲说别介意我蹭你流量#",
+      "rank": 6,
+      "title": "维嘉跟王菲说别介意我蹭你流量",
+      "topic_id": "231522beb625b1f76bc0f4c6c9944e92782883"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#男子杀妻抛尸后伪装好女婿10年#",
+      "rank": 7,
+      "title": "男子杀妻抛尸后伪装好女婿10年",
+      "topic_id": "23152250493884cdd3ed37cc738ee214f88b72"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#女子打扫老人发霉房屋后发烧吐血丝#",
+      "rank": 8,
+      "title": "女子打扫老人发霉房屋后发烧吐血丝",
+      "topic_id": "231522ca7f9305c7f5e28372f75bfcdc743dba"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "九尾电脑没装好",
+      "rank": 9,
+      "title": "九尾电脑没装好",
+      "topic_id": "2315225d5bd4b3737b58225b972add140d6e12"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#小米三季度净利润48.84亿#",
+      "rank": 10,
+      "title": "小米三季度净利润48.84亿",
+      "topic_id": "231522c86aa3cdc6af8570cc52f6d5c086be13"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "黄磊真空围裙",
+      "rank": 11,
+      "title": "黄磊真空围裙",
+      "topic_id": "2315220040b0cc176d57890025e91cb47f237c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#小伊伊老公删除了追妻视频#",
+      "rank": 12,
+      "title": "小伊伊老公删除了追妻视频",
+      "topic_id": "231522125d6147dff3c432cab9668d4234abd1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "康熙十二世孙称雍正篡位",
+      "rank": 13,
+      "title": "康熙十二世孙称雍正篡位",
+      "topic_id": "2315225424217a26698273c2e10d7f232c5ed8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "贾静雯 修杰楷",
+      "rank": 14,
+      "title": "贾静雯 修杰楷",
+      "topic_id": "231522a1974d32258198345b6a10f4ce14726b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#文吉儿甲状腺手术后胖了20斤#",
+      "rank": 15,
+      "title": "文吉儿甲状腺手术后胖了20斤",
+      "topic_id": "231522d46f9ac43f0b8a0bdcf022263668b23d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#韩国网友对内娱帅哥的分类#",
+      "rank": 16,
+      "title": "韩国网友对内娱帅哥的分类",
+      "topic_id": "2315223dee6238c89ef56c7a5215b96713fef6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "为什么有人看病能在诊室待很久",
+      "rank": 17,
+      "title": "为什么有人看病能在诊室待很久",
+      "topic_id": "231522531268967f48af9b8bc635729365bdf9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女子峨嵋山极限通勤上班半年瘦12斤#",
+      "rank": 18,
+      "title": "女子峨嵋山极限通勤上班半年瘦12斤",
+      "topic_id": "231522029f949dcb8e286fc622295f189889aa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#小城良方央八收视率破4#",
+      "rank": 19,
+      "title": "小城良方央八收视率破4",
+      "topic_id": "231522b9c4478e27fe0a7a3d3aa63734e0b171"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#浙江卫视一口气官宣10部AI综艺#",
+      "rank": 20,
+      "title": "浙江卫视一口气官宣10部AI综艺",
+      "topic_id": "231522ecb86a89ced6c566f9403fa24d5d9491"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#姚译添要做全女综艺#",
+      "rank": 21,
+      "title": "姚译添要做全女综艺",
+      "topic_id": "231522f14d0377fe5497e7142191e237370ac0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 7,
+      "posts": "saved",
+      "query": "#海南一地级市市长转任县委书记#",
+      "rank": 22,
+      "title": "海南一地级市市长转任县委书记",
+      "topic_id": "231522209edf6d82cfe424339ff71a1740a0cc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#张萌昨天才知道马天宇给她浪姐加油#",
+      "rank": 23,
+      "title": "张萌昨天才知道马天宇给她浪姐加油",
+      "topic_id": "231522865e0dd9e7dda7055154720aadc21f53"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#成毅朱瞻基领百官上朝#",
+      "rank": 24,
+      "title": "成毅朱瞻基领百官上朝",
+      "topic_id": "231522534b3761d0bcb24f760b5311b604db75"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#特朗普称在深圳吃到很棒的中国菜#",
+      "rank": 25,
+      "title": "特朗普称在深圳吃到很棒的中国菜",
+      "topic_id": "231522163dcfb369643e52b1c1aec9ee07b968"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#旺仔牛奶更不好卖了#",
+      "rank": 26,
+      "title": "旺仔牛奶更不好卖了",
+      "topic_id": "2315223f3ac0b7c01e555e7f671a694dd6ea95"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "无畏直播",
+      "rank": 27,
+      "title": "无畏直播",
+      "topic_id": "23152247092b41e40d18b1cb4ff5c5acff7a9d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曾艳芬陆婷聊天记录#",
+      "rank": 28,
+      "title": "曾艳芬陆婷聊天记录",
+      "topic_id": "231522076a4830828b5917fbc1cebdc9daf857"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#巴黎世家机车包重返顶流#",
+      "rank": 29,
+      "title": "巴黎世家机车包重返顶流",
+      "topic_id": "2315223a3bf03d478d6db39ae32153d1fcf837"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "丑狐大结局",
+      "rank": 30,
+      "title": "丑狐大结局",
+      "topic_id": "231522e33bcfb9f409313073badd384f4a385f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#黄仁勋复职穿的是Dior棉夹克#",
+      "rank": 31,
+      "title": "黄仁勋复职穿的是Dior棉夹克",
+      "topic_id": "231522d56e054b28d25ed08d4a18a61715c140"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#难怪白小纯拒绝青稚打球就给三分#",
+      "rank": 32,
+      "title": "难怪白小纯拒绝青稚打球就给三分",
+      "topic_id": "231522d3cee423d0ffae0e9abc7684eda810be"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#林智妍李到晛分手#",
+      "rank": 33,
+      "title": "林智妍李到晛分手",
+      "topic_id": "23152250f1ac43ecea49f4f5aa413323bd039f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#吴胜华受贿1.13亿余元#",
+      "rank": 34,
+      "title": "吴胜华受贿1.13亿余元",
+      "topic_id": "2315227d9f848491794d555398f6024c324f75"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#新娘提1341次分手新郎回1342次不行#",
+      "rank": 35,
+      "title": "新娘提1341次分手新郎回1342次不行",
+      "topic_id": "23152212edafb2f2d6e7021345a5071603578f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#70%肝癌早期无明显症状#",
+      "rank": 36,
+      "title": "70%肝癌早期无明显症状",
+      "topic_id": "2315228fd032220cb4d0c6cff755ebba31fc3b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#49岁李维嘉家里干净得没有一根头发#",
+      "rank": 37,
+      "title": "49岁李维嘉家里干净得没有一根头发",
+      "topic_id": "231522b0c258f29b6d0c6ab180efe09e98e4c3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#姚译添团队新上三档节目#",
+      "rank": 38,
+      "title": "姚译添团队新上三档节目",
+      "topic_id": "231522861892a177af8edaee2957ae955bf905"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "要了两个月生活费才发现认错人了",
+      "rank": 39,
+      "title": "要了两个月生活费才发现认错人了",
+      "topic_id": "231522cfd4b8fbf04e40d29796026adcc2c8b1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "赚了多少钱都别炫",
+      "rank": 40,
+      "title": "赚了多少钱都别炫",
+      "topic_id": "23152227901969b3bdf8a42dcb5d2f15bc681d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#徐彰彬黄铉辰疑似机场起争执#",
+      "rank": 41,
+      "title": "徐彰彬黄铉辰疑似机场起争执",
+      "topic_id": "231522709376a4260110858f64d027e6c574e5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "王橹杰像二次元走出来的",
+      "rank": 42,
+      "title": "王橹杰像二次元走出来的",
+      "topic_id": "23152223ae4e25dbaa319474bbe739784586cb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#冬季取暖体感等级图鉴#",
+      "rank": 43,
+      "title": "冬季取暖体感等级图鉴",
+      "topic_id": "2315224fb18e5a93d083993d0f6f3043c08910"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "根本装不出有钱人的松弛感",
+      "rank": 44,
+      "title": "根本装不出有钱人的松弛感",
+      "topic_id": "231522f09f6312e3a30bb73797c13bd4aa73ea"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#什么样的人需要管理体重#",
+      "rank": 45,
+      "title": "什么样的人需要管理体重",
+      "topic_id": "231522ab615d9185bb316f0bc4ecd894f07224"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#A股科技跳水原因找到了#",
+      "rank": 46,
+      "title": "A股科技跳水原因找到了",
+      "topic_id": "23152219907c2254302bdab80e1f844c813f23"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "余承东 iPhoneDuo",
+      "rank": 47,
+      "title": "余承东 iPhoneDuo",
+      "topic_id": "2315221cf78b074bb0cad8bd946cb3b58639c0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#肝不好的人身上可能有一黄二红三黑#",
+      "rank": 48,
+      "title": "肝不好的人身上可能有一黄二红三黑",
+      "topic_id": "231522fc4871a4fdfff8d768d36ea35aa05b36"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#刘涛蓝盈莹同框画面好亮眼#",
+      "rank": 49,
+      "title": "刘涛蓝盈莹同框画面好亮眼",
+      "topic_id": "2315222760e12921924a3f0f4753126c4622c9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王凯新座驾第三代唐来了#",
+      "rank": 50,
+      "title": "王凯新座驾第三代唐来了",
+      "topic_id": "231522efe195efcc6bbd8865b26076b6ec2ad0"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
