@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1845864154
   },
-  "last_seen_at": "2026-11-24T09:00:00+08:00",
+  "last_seen_at": "2026-11-24T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%2334%E7%B1%B3%E8%B7%AF%E4%BB%8512%E7%A7%92%E7%BB%BF%E7%81%AF%E5%B7%B2%E8%B0%83%E6%95%B4%E4%B8%BA28%E7%A7%92%23%26t%3D3&title=发布媒体",
-    "show_str": "16家媒体",
+    "show_str": "65家媒体",
     "users": [
       {
         "id": 1845864154,
         "idstr": "1845864154",
         "screen_name": "看看新闻Knews",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +37,30 @@
         "verified_type": 3
       },
       {
-        "id": 7749823321,
-        "idstr": "7749823321",
-        "screen_name": "郑在办",
+        "id": 2337985010,
+        "idstr": "2337985010",
+        "screen_name": "瑞安融媒",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 7495303005,
-        "idstr": "7495303005",
-        "screen_name": "薛城区融媒体中心",
+        "id": 1856446532,
+        "idstr": "1856446532",
+        "screen_name": "合新闻",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 7200280790,
-        "idstr": "7200280790",
-        "screen_name": "正观特稿",
+        "id": 1717833412,
+        "idstr": "1717833412",
+        "screen_name": "华商报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 6910453729,
-        "idstr": "6910453729",
-        "screen_name": "绍虞城事通网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2252846093,
-        "idstr": "2252846093",
-        "screen_name": "长春新闻",
+        "id": 1497418417,
+        "idstr": "1497418417",
+        "screen_name": "掌上温岭",
         "verified": true,
         "verified_type": 3
       }
