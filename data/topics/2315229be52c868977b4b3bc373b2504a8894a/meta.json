@@ -10,11 +10,40 @@
     "status": 2,
     "uid": 7838228255
   },
-  "last_seen_at": "2026-11-24T13:00:00+08:00",
+  "last_seen_at": "2026-11-24T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%88%AB%E9%80%97%E6%88%91%E7%AC%91%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "4家媒体",
+    "users": [
+      {
+        "id": 1913382117,
+        "idstr": "1913382117",
+        "screen_name": "深圳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7422806367,
+        "idstr": "7422806367",
+        "screen_name": "中网传播",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6444725927,
+        "idstr": "6444725927",
+        "screen_name": "吉祥新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2183542485,
+        "idstr": "2183542485",
+        "screen_name": "西安广播电视台",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#易烊千玺别逗我笑了#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%88%AB%E9%80%97%E6%88%91%E7%AC%91%E4%BA%86%23",
