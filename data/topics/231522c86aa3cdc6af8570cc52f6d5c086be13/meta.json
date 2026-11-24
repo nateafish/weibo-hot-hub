@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 6004281123
   },
-  "last_seen_at": "2026-11-24T21:00:00+08:00",
+  "last_seen_at": "2026-11-24T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%B0%8F%E7%B1%B3%E4%B8%89%E5%AD%A3%E5%BA%A6%E5%87%80%E5%88%A9%E6%B6%A648.84%E4%BA%BF%23%26t%3D3&title=发布媒体",
-    "show_str": "32家媒体",
+    "show_str": "35家媒体",
     "users": [
       {
         "id": 2252846093,
@@ -26,6 +26,13 @@
         "id": 6004281123,
         "idstr": "6004281123",
         "screen_name": "梨视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 1497418417,
+        "idstr": "1497418417",
+        "screen_name": "掌上温岭",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1288429914,
         "idstr": "1288429914",
         "screen_name": "今视频长天新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7723774651,
-        "idstr": "7723774651",
-        "screen_name": "星财经Pro",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7723617113,
-        "idstr": "7723617113",
-        "screen_name": "星娱乐star",
         "verified": true,
         "verified_type": 3
       }
