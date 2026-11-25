@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1796087453
   },
-  "last_seen_at": "2026-11-25T19:00:00+08:00",
+  "last_seen_at": "2026-11-25T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%2317%E5%B2%81%E5%B0%91%E5%B9%B4%E6%92%9E%E6%AD%BB2%E4%BA%BA%E9%80%83%E9%80%B8%E5%B7%B2%E8%A2%AB%E6%8E%A7%E5%88%B6%23%26t%3D3&title=发布媒体",
-    "show_str": "8家媒体",
+    "show_str": "18家媒体",
     "users": [
       {
         "id": 1796087453,
         "idstr": "1796087453",
         "screen_name": "荔枝新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2824067765,
+        "idstr": "2824067765",
+        "screen_name": "贺州日报官微",
         "verified": true,
         "verified_type": 3
       },
@@ -51,16 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2308941133,
-        "idstr": "2308941133",
-        "screen_name": "锦州播报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2252846093,
-        "idstr": "2252846093",
-        "screen_name": "长春新闻",
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
         "verified": true,
         "verified_type": 3
       }

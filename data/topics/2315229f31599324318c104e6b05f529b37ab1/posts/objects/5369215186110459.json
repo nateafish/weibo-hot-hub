@@ -1,0 +1,17 @@
+{
+  "account": {
+    "badge": "金V",
+    "observed_at": "2026-11-25T20:15:54+08:00",
+    "source": "mobile_user",
+    "verified": true,
+    "verified_reason": "AI博主 头条文章作者",
+    "verified_type": 0,
+    "verified_type_ext": 1
+  },
+  "body": "#华为自研HBM领先HBM4E#\n领先不领先这个事情还没完全确定，但是确实有说法。\n25 年 9 月的华为全联接大会主题演讲里，徐直军明确讲过昇腾 950 系列将搭载两款自研 HBM，一个是面向预填充和推荐场景的低成本方案 HiBL 1.0，另一个是面向解码和训练的 HiZQ 2.0\n其中昇腾 950DT 搭载 HiZQ 2.0 后，单卡显存容量达到 144 GB，访存带宽达到 4 TB/s。\n到了昇腾 960，华为官方给出的目标是算力、显存容量和访存带宽相比 950 再翻一倍。\n然后呢，这一次 IEEE 上有了新的论文：A 64-Channel 4096-DQ Custom HBM with Memory Controllers and 5-Layer Wafer-on-Wafer Hybrid Bonding\n这里的 4096-DQ，意味着那单堆栈只要跑在 2 Gbps 的单引脚速率（也就是LPDDR4X 的入门频率）就能轻松拉出约 1 TB/s 的带宽。\n如果把单引脚速率稍微往上推到 3.2 Gbps 到 4 Gbps，单堆栈带宽就能摸到 1.6 TB/s 至 2 TB/s\n对比三星和 SK 海力士的 HBM4E，人家在 2048 位宽下为了冲到 3.6 TB/s，必须把单引脚速率死磕到 14 Gbps 甚至 16 Gbps, 背后还需要最前沿的 DRAM 制程和非常复杂的设计，国产目前要在单引脚上稳定跑出 16 Gbps 还是非常难的。\n所以华为根本不在高频 I/O 上搞，直接把总线宽度翻倍到 4096 位，这样哪怕单颗堆栈只配 4 颗甚至 6 颗，每颗跑在 2 Gbps 到 4 Gbps 的低频甜点区，整卡也能稳稳撑起昇腾 950DT 的 4 TB/s 乃至昇腾 960 翻倍后的 8 TB/s 级别带宽。\n世上无难事，只怕有心人。\n具体的论文等明年二月再看完整版吧。",
+  "created_at_text": "Wed Nov 25 18:55:18 +0800 2026",
+  "mid": "5369215186110459",
+  "uid": "3513171522",
+  "url": "https://m.weibo.cn/detail/5369215186110459",
+  "username": "Navis-慢点评测"
+}

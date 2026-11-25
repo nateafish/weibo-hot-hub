@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1789681642
   },
-  "last_seen_at": "2026-11-25T19:00:00+08:00",
+  "last_seen_at": "2026-11-25T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%A6%E8%AE%B0%E7%9A%84%E9%82%A3%E9%81%93%E8%8F%9C%E5%85%A8%E7%BD%91%E7%8C%9C%E7%96%AF%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "16家媒体",
+    "show_str": "24家媒体",
     "users": [
       {
         "id": 1789681642,
@@ -23,9 +23,23 @@
         "verified_type": 3
       },
       {
+        "id": 3901624042,
+        "idstr": "3901624042",
+        "screen_name": "山西日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2685336121,
         "idstr": "2685336121",
         "screen_name": "南宁晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1726426884,
+        "idstr": "1726426884",
+        "screen_name": "广东广播电视台",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 3901624042,
-        "idstr": "3901624042",
-        "screen_name": "山西日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3253939390,
-        "idstr": "3253939390",
-        "screen_name": "半岛新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2252846093,
-        "idstr": "2252846093",
-        "screen_name": "长春新闻",
+        "id": 5396094153,
+        "idstr": "5396094153",
+        "screen_name": "大众新闻-大众日报",
         "verified": true,
         "verified_type": 3
       }
