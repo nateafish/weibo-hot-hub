@@ -1,0 +1,753 @@
+{
+  "answer_version": "2026-11-26 04:05:04.032000-6444",
+  "breakdown": [
+    {
+      "label": "金橙V",
+      "percent": 76.0,
+      "url": "https://s.weibo.com/aisearchmore?q=%E5%8D%8E%E4%B8%BA%E8%87%AA%E7%A0%94HBM%E5%86%85%E5%AD%98%E6%96%B9%E6%A1%88&res_type=ref_blog&u_type=gold_orange_v&page=1"
+    },
+    {
+      "label": "认证用户",
+      "percent": 10.0,
+      "url": "https://s.weibo.com/aisearchmore?q=%E5%8D%8E%E4%B8%BA%E8%87%AA%E7%A0%94HBM%E5%86%85%E5%AD%98%E6%96%B9%E6%A1%88&res_type=ref_blog&u_type=verified&page=1"
+    },
+    {
+      "label": "普通用户",
+      "percent": 12.0,
+      "url": "https://s.weibo.com/aisearchmore?q=%E5%8D%8E%E4%B8%BA%E8%87%AA%E7%A0%94HBM%E5%86%85%E5%AD%98%E6%96%B9%E6%A1%88&res_type=ref_blog&u_type=normal&page=1"
+    },
+    {
+      "label": "媒体",
+      "percent": 2.0,
+      "url": "https://s.weibo.com/aisearchmore?q=%E5%8D%8E%E4%B8%BA%E8%87%AA%E7%A0%94HBM%E5%86%85%E5%AD%98%E6%96%B9%E6%A1%88&res_type=ref_blog&u_type=&page=1"
+    }
+  ],
+  "captured_at": "2026-11-26T04:12:35+08:00",
+  "posts": [
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-26T04:12:37+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月25日 10:36",
+      "excerpt": "华为刚刚提交至ISSCC 2027的一份论文，关于HBM的研究。 ​",
+      "mid": "5369089755450806",
+      "uid": "1725941200",
+      "url": "https://weibo.com/1725941200/RsZl5mS0e",
+      "username": "梁赛"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-26T04:12:37+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月25日 12:11",
+      "excerpt": "HW又放大招了，自研的HBM技术水平领先目前内存厂商最先进的HBM4E\n其实现了5层晶圆逻辑堆叠、64通道、4096超宽位宽，并集成了内存控制器\nHW现在太猛了，不仅自己设计芯片、自己也制造芯片、甚至连AI计算卡必须的高宽带内存都能自己设计了\n图源 B站\n#烽火问鼎计划#\n​",
+      "mid": "5369113639652261",
+      "uid": "2672926347",
+      "url": "https://weibo.com/2672926347/RsZXBEuZD",
+      "username": "lyman2003"
+    },
+    {
+      "account": {
+        "badge": "红V",
+        "observed_at": "2026-11-26T04:12:23+08:00",
+        "source": "mobile_user",
+        "verified": true,
+        "verified_reason": "成都商报红星新闻财经新闻官方账号 红星资本局官方微博",
+        "verified_type": 3,
+        "verified_type_ext": 53
+      },
+      "category": "媒体",
+      "created_at_text": "Wed Nov 25 16:36:37 +0800 2026",
+      "excerpt": "#华为展示逻辑堆叠技术#\n【华为，将展示自研HBM、逻辑堆叠等技术】\n#华为将展示自研HBM#\n据科创板日报，根据IEEE官方公布的 ISSCC 2027 会议议程草案，华为共有4篇相关论文进入技术议程，包括HBM 内存方案、采用逻辑折叠技术的旗舰移动SoC等。\n其中，HBM 内存方案采用64通道，位宽达到4096bit，是HBM4标准2048bit位宽的两倍，并采用5层W2W晶圆混合键合技术。\n目前昇腾950系列已搭载自研HBM，其中950PR容量128GB、带宽1.6TB",
+      "mid": "5369180285306610",
+      "uid": "7399555658",
+      "url": "https://m.weibo.cn/detail/5369180285306610",
+      "username": "红星资本局"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-26T04:12:21+08:00",
+        "source": "mobile_user",
+        "verified": true,
+        "verified_reason": "投资内容创作者",
+        "verified_type": 0,
+        "verified_type_ext": 1
+      },
+      "category": "金橙V",
+      "created_at_text": "Wed Nov 25 18:05:03 +0800 2026",
+      "excerpt": "居然这么牛逼？市场不相信啊！\n华为自研HBM曝光：4096个DQ接口，五层混合键合！\n根据IEEE官方于2026年11月23日公布的ISSCC 2027会议议程草案，华为共有四篇论文入选，覆盖逻辑芯片3D堆叠、AI处理器供电、高速有线通信及定制HBM内存等方向。\n其中，最受关注的一篇论文详细披露了一款定制HBM内存方案，采用五层晶圆对晶圆混合键合技术，具备64通道与4096个DQ（Data Input/Output）接口。\n其中，HBM 内存方案采用64通道，位宽达到4096",
+      "mid": "5369202540020413",
+      "uid": "1319518957",
+      "url": "https://m.weibo.cn/detail/5369202540020413",
+      "username": "投星资产"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-26T04:12:37+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月25日 11:45",
+      "excerpt": "国产自研HBM浮出水面：4096bit位宽、5层晶圆混合键合 ​",
+      "mid": "5369107004261466",
+      "uid": "1190785973",
+      "url": "https://weibo.com/1190785973/RsZMUhSBk",
+      "username": "黑神话韩叔"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-26T04:12:37+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月25日 12:30",
+      "excerpt": "昨天华为isscc2027论文显示其针对目前自研ai加速卡带宽受限的情况，提出了一种利用国内产业链独有的逻辑折叠工艺，去堆积一种新结构的hbm闪充颗粒，从而让显存带宽达到国际领先水平。\n#华为自研HBM领先HBM4E#\n​",
+      "mid": "5369118358242121",
+      "uid": "5834227225",
+      "url": "https://weibo.com/5834227225/Rt05dyA9r",
+      "username": "猫窝爪机"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-26T04:12:37+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月25日 12:50",
+      "excerpt": "连续两条有关芯片及其产业链的重磅消息！\n第二条，有关华为HBM\n根据IEEE官方公布的ISSCC 2027会议议程草案\n华为将在明年举行的ISSCC 2027上展示多项芯片及先进封装技术，其中涉及芯片3D堆叠、AI处理器供电、高速有线通信、定制HBM等\n共涉及四篇论文，分别如下及四图所示\n一、《A Hybrid-Bonded LogicFolding Flagship Mobile SoC with Full-Chip Intra-Module Partitioning》，主",
+      "mid": "5369123336881606",
+      "uid": "6110832479",
+      "url": "https://weibo.com/6110832479/Rt0dfsSdE",
+      "username": "松山湖舰队司令"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-26T04:12:37+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月25日 18:55",
+      "excerpt": "#华为自研HBM领先HBM4E#\n领先不领先这个事情还没完全确定，但是确实有说法。\n25 年 9 月的华为全联接大会主题演讲里，徐直军明确讲过昇腾 950 系列将搭载两款自研 HBM，一个是面向预填充和推荐场景的低成本方案 HiBL 1.0，另一个是面向解码和训练的 HiZQ 2.0\n其中昇腾 950DT 搭载 HiZQ 2.0 后，单卡显存容量达到 144 GB，访存带宽达到 4 TB/s。\n到了昇腾 960，华为官方给出的目标是算力、显存容量和访存带宽相比 950 再翻一",
+      "mid": "5369215186110459",
+      "uid": "3513171522",
+      "url": "https://weibo.com/3513171522/Rt2BopDBN",
+      "username": "Navis-慢点评测"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-26T04:12:37+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月25日 16:51",
+      "excerpt": "#人工智涨ultra的行业观察#\n再一次遥遥领先\n看来拉法尔实验室确实能做东西出来……\n但是，你们知道的，论文是论文，还是会议论文，产品是产品……\n很多论文都是放弃了的项目……\n赞助一下，懂的都懂…… ​",
+      "mid": "5369183962401346",
+      "uid": "5753984078",
+      "url": "https://weibo.com/5753984078/Rt1N2a4Ho",
+      "username": "人工智涨Ultra"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-26T04:12:21+08:00",
+        "source": "mobile_user",
+        "verified": true,
+        "verified_reason": "科技博主",
+        "verified_type": 0,
+        "verified_type_ext": 1
+      },
+      "category": "金橙V",
+      "created_at_text": "Wed Nov 25 17:53:46 +0800 2026",
+      "excerpt": "华为将在ISSCC 2027展示自研HBM、逻辑堆叠等技术",
+      "mid": "5369199698642145",
+      "uid": "7989965638",
+      "url": "https://m.weibo.cn/detail/5369199698642145",
+      "username": "基准线Ing"
+    },
+    {
+      "account": {
+        "badge": "无徽标",
+        "observed_at": "2026-11-26T04:12:25+08:00",
+        "source": "mobile_user",
+        "verified": false,
+        "verified_type": -1
+      },
+      "category": "普通用户",
+      "created_at_text": "Wed Nov 25 18:14:56 +0800 2026",
+      "excerpt": "#华为自研HBM领先HBM4E#\n有一说一，实事求是，该表扬就表扬，菊厂在960系列的封装内存算互联有很大突破，而且突破方向正确，所谓的HBM短缺不会限制中国算力硬件。\n1、全球算力硬件的HBM荒是问题的表象，问题的本质是封装内计算单元与存储单元的交换带宽，HBM3E/HBM4只是其中一种解法，而且并不是最佳解法。JEDEC 2026 年发布 了SPHBM4（引脚从2048减至 512、每引脚4:1 串行化、取消硅中介层、落标准有机基板、总带宽不变），三星、海力士、美光均参与",
+      "mid": "5369205027245168",
+      "uid": "1644556265",
+      "url": "https://m.weibo.cn/detail/5369205027245168",
+      "username": "音容宛在的肥佬"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-26T04:12:38+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月25日 18:22",
+      "excerpt": "#华为自研HBM领先HBM4E#\n华为自研4096位HBM直接碾压HBM4,昇腾960带宽以9.6TB/s反超英伟达B300！硬刚美国封锁！\n标准HBM4只有2048位＋TSV，最新华为ISSCC 2027论文直接上64通道4096-bit总线 + 5层晶圆对晶圆混合键合，彻底绕开三星／海力士供应链．\n昇腾960提前到2027 Q1:288GB + 9.6 TB/s;950DT已是144GB\n@4TB\n/s.\n美国制裁想锁死中国AI内存，结果华为用更宽总线在内存价格可能腰斩7",
+      "mid": "5369206864351859",
+      "uid": "3595551143",
+      "url": "https://weibo.com/3595551143/Rt2nYig7h",
+      "username": "唠叨的犇犇"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-26T04:12:29+08:00",
+        "source": "mobile_user",
+        "verified": true,
+        "verified_reason": "微博牧场计划合作达人 数码博主 微博原创视频博主",
+        "verified_type": 0,
+        "verified_type_ext": 2
+      },
+      "category": "金橙V",
+      "created_at_text": "Wed Nov 25 23:48:57 +0800 2026",
+      "excerpt": "#华为自研HBM内存方案#\n华为 ISSCC 2027 这波太硬核！四篇论文入选，最狠的是定制 HBM：接口干到 4096 个，比主流翻倍，还上了 5 层混合键合。制程受限咋办？直接往 3D 堆叠要带宽，连内存控制器都集成进去，思路绝了。昇腾 960DT 预告 9.6TB/s 带宽，这技术显然已实装。在 HBM 被卡脖子的当下，自研定制内存就是算力的“保命符”。国产芯片这回真把“垂直超车”玩明白了！",
+      "mid": "5369289084244660",
+      "uid": "5140552811",
+      "url": "https://m.weibo.cn/detail/5369289084244660",
+      "username": "科技怪杰"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-26T04:12:38+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月25日 17:34",
+      "excerpt": "#华为将在ISSCC展示HBM技术#\n华为这篇ISSCC 2027的HBM论文，看点不只是4096bit位宽翻倍，核心是换了一条不一样的技术路线。\n主流HBM4靠TSV硅通孔堆叠，位宽2048bit，是现在英伟达AI芯片的标配方案。华为这次直接上5层W2W晶圆混合键合，做到4096bit位宽，带宽直接翻番。\nW2W混合键合的难点远高于传统TSV，晶圆对对准、良率管控、热管理全是硬骨头，它的优势是互联密度更高、信号损耗更低，天生适配超大带宽的AI算力需求。\n要划重点：目前只是学",
+      "mid": "5369194772435045",
+      "uid": "2772978773",
+      "url": "https://weibo.com/2772978773/Rt24tadsV",
+      "username": "GeeK老王"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-26T04:12:29+08:00",
+        "source": "mobile_user",
+        "verified": true,
+        "verified_reason": "微博剪辑视频博主 头条文章作者",
+        "verified_type": 0,
+        "verified_type_ext": 1
+      },
+      "category": "金橙V",
+      "created_at_text": "Wed Nov 25 19:22:50 +0800 2026",
+      "excerpt": "#华为将展示自研HBM逻辑堆叠等技术#\n#华为将展示自研HBM内存方案#\n【华为将在ISSCC 2027展示自研HBM、逻辑堆叠等技术】一通百通了属于是。两岸猿声啼不住，华为已过万重山。",
+      "mid": "5369222114053267",
+      "uid": "6865526227",
+      "url": "https://m.weibo.cn/detail/5369222114053267",
+      "username": "李爷无为"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-26T04:12:38+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月25日 16:12",
+      "excerpt": "#华为5层键合HBM即将问世#\n绕开了别人走过的路\n在ISSCC 2027 的论文日程里，将公布一篇题为《A 64-Channel 4096-DQ Custom HBM with Memory Controllers and 5-Layer Wafer-on-Wafer Hybrid Bonding》的论文，介绍一颗采用5层混合键合技术的HBM，共64 通道、4096-DQ，主控芯片直接和5层晶圆做W2W混合键合。\n华为没走现有的HBM的TSV硅通孔老路，一步跨到晶圆对晶圆堆",
+      "mid": "5369174119423929",
+      "uid": "5530437862",
+      "url": "https://weibo.com/5530437862/Rt1x9DxAR",
+      "username": "白泽观山海"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-26T04:12:21+08:00",
+        "source": "mobile_user",
+        "verified": true,
+        "verified_reason": "数码博主",
+        "verified_type": 0,
+        "verified_type_ext": 2
+      },
+      "category": "金橙V",
+      "created_at_text": "Wed Nov 25 18:26:06 +0800 2026",
+      "excerpt": "#华为自研HBM领先HBM4E#\n华为被曝在论文中披露自研HBM，位宽达4096位（标准HBM4的两倍），采用5层晶圆混合键合技术，绕开美韩供应链。该技术将用于2027年Q1提前发布的昇腾960（带宽9.6TB/s，288GB容量）。\n关键点是混合键合工艺复杂，量产良率与成本控制将是华为接下来需要跨越的难关，期待早日落地。",
+      "mid": "5369207837689426",
+      "uid": "7359963133",
+      "url": "https://m.weibo.cn/detail/5369207837689426",
+      "username": "社牛的科技日常"
+    },
+    {
+      "account": {
+        "badge": "达人",
+        "observed_at": "2026-11-26T04:12:27+08:00",
+        "source": "mobile_user",
+        "verified": false,
+        "verified_type": 220
+      },
+      "category": "普通用户",
+      "created_at_text": "Wed Nov 25 18:03:42 +0800 2026",
+      "excerpt": "赛博茶馆\n【硅基哲学】内存墙塌了之后，「远」会被重新定价\n看到华为要在ISSCC展示自研HBM：超宽位宽、五层混合键合。翻译成人话：过去内存和计算核心是隔着一条街传纸条，现在搬进同一栋楼，还睡上下铺。\n有意思的是后果：过去几十年芯片设计师的智慧，大部分花在「怎么少跑腿」上——缓存、预取、分级存储，本质都是给那条街修的绕路方案。距离一消失，绕路方案一夜清零。\n技术史反复重演这一幕：一个瓶颈养活一整套聪明，瓶颈一拆，聪明就地贬值。所以看新技术别只看它加了什么，要看它让谁的看家本领",
+      "mid": "5369202200546428",
+      "uid": "1614572734",
+      "url": "https://m.weibo.cn/detail/5369202200546428",
+      "username": "李沿铮"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-26T04:12:38+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "2025年12月12日 11:52",
+      "excerpt": "明年年初开始，将使用自主研发的HBM内存...\n从Ascend 950PR的数据传输能力来看，它几乎是910C的三倍...\n这是中心国际的N+2流程！ ​",
+      "mid": "5242997690336008",
+      "uid": "7796073639",
+      "url": "https://weibo.com/7796073639/Qi2z71ppu",
+      "username": "元陌数码"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-26T04:12:38+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月25日 16:15",
+      "excerpt": "此外，据国际固态电路会议2027（ISSCC 2027）日程（草案），华为将在明年举行的国际固态电路会议2027上展示多项芯片及先进封装技术，涉及韬定律逻辑芯片3D堆叠技术、AI处理器供电技术、高速有线通信和定制HBM内存等领域。 ​",
+      "mid": "5369174866264966",
+      "uid": "5530437862",
+      "url": "https://weibo.com/5530437862/Rt1ymqhNQ",
+      "username": "白泽观山海"
+    },
+    {
+      "account": {
+        "badge": "黄V",
+        "observed_at": "2026-11-26T04:12:38+08:00",
+        "source": "search_avatar"
+      },
+      "category": "认证用户",
+      "created_at_text": "11月01日 06:52",
+      "excerpt": "#手机涨价的真相是什么#\n这轮手机涨价最核心的推手是AI服务器抢走了存储芯片产能——全球约七成先进存储产能转向AI所需的高带宽内存HBM，手机用DRAM和NAND供应被系统性挤压。一套12GB+256GB的存储组合采购价从一年前的约500元涨到2200元，存储占手机物料BOM成本的比例从10%-15%飙升至30%-49%。\n一、存储之外，芯片和零部件也在涨价\n先进制程代工费跳涨：2nm晶圆每片报价逼近3万美元，较3nm上涨约50%，旗舰处理器采购成本水涨船高。\n高通全产品线上",
+      "mid": "5360335970109188",
+      "uid": "5234485848",
+      "url": "https://weibo.com/5234485848/RpjC50sp6",
+      "username": "能不能不要冰冰凉"
+    },
+    {
+      "account": {
+        "badge": "黄V",
+        "observed_at": "2026-11-26T04:12:38+08:00",
+        "source": "search_avatar"
+      },
+      "category": "认证用户",
+      "created_at_text": "03月27日 15:03",
+      "excerpt": "华为昇腾950最新路线图。（收藏好，下周可能会表现） ​",
+      "mid": "5281096696596785",
+      "uid": "5072194823",
+      "url": "https://weibo.com/5072194823/Qy1H7rG7L",
+      "username": "龙头小师妹"
+    },
+    {
+      "account": {
+        "badge": "黄V",
+        "observed_at": "2026-11-26T04:12:38+08:00",
+        "source": "search_avatar"
+      },
+      "category": "认证用户",
+      "created_at_text": "09月03日 21:02",
+      "excerpt": "【财通证券-电子行业：算力架构迭代，国产超节点蓄势待发-】\n算力结构性错配凸显，超节点是解决传统集群瓶颈的系统性方案：据IDC测算，20232028年中国智能算力规模复合增长率达46.2%，国内智能算力规模保持高速增长，但行业呈显著结构性矛盾：高端算力供给紧缺，中低端算力闲置。传统ScaleOut横向扩展集群面临通信墙、功耗散热墙、复杂度墙三重约束，腾讯云“算力生产力=标称算力×效能系数×满载系数”测算，标称算力仅约30%可以转化为有效产出。AI算力增长存在“芯片系统剪刀差”",
+      "mid": "5339169100665980",
+      "uid": "6067225218",
+      "url": "https://weibo.com/6067225218/RgqXY2NfC",
+      "username": "专业证券分析"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-26T04:12:38+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "08月03日 00:02",
+      "excerpt": "#手机不好卖 芯片出货量暴跌#\n🔍 背后原因剖析\n存储芯片价格暴涨：这是最核心的原因。受AI服务器需求影响，三星、SK海力士、美光等将约七成先进产能转向HBM等高端内存，导致手机用的DRAM和NAND闪存供给不足。2026年Q2，手机存储价格同比暴涨超300%，成本已超过SoC，成为手机BOM（物料清单）中最贵的组件。\n手机厂商被迫涨价 & 消费者换机意愿下降：为应对成本上涨，手机厂商普遍提价300-1000元，导致消费者换机周期延长至40个月以上。这直接造成手机“不好卖”，",
+      "mid": "5327617905395130",
+      "uid": "3602560841",
+      "url": "https://weibo.com/3602560841/RbAt0mDwe",
+      "username": "青柠可颂"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-26T04:12:38+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "06月19日 08:04",
+      "excerpt": "FP8核心上市公司名单\n在DeepSeek中，FP8被广泛应用于训练和推理过程中，以提升计算效率和降低资源消耗。DeepSeek团队创新性地解决了FP8训练中的量化误差问题，通过细粒度量化策略和高精度累加策略，确保了训练的稳定性和高效性。例如，DeepSeek在训练中创新性地使用了FP8（8位浮点）技术，这在大规模语言模型训练中具有开创性。\n一、AI算力芯片（直接硬件支持FP8，核心龙头）\n1. 寒武纪（688256）\n思元590原生适配FP8混合精度训练推理，深度兼容Dee",
+      "mid": "5311431660800303",
+      "uid": "2431967372",
+      "url": "https://weibo.com/2431967372/R4Noa3mc7",
+      "username": "倩男游神"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-26T04:12:38+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月25日 09:00",
+      "excerpt": "一大早沸腾一下。歪果网友说华为即将提供优于B300的卡。大肥鱼有救了！ ​",
+      "mid": "5369065490612607",
+      "uid": "1156281873",
+      "url": "https://weibo.com/1156281873/RsYHX2zmL",
+      "username": "方脑壳邓铂鋆"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-26T04:12:38+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月25日 20:45",
+      "excerpt": "不管真假华为HBM这次牛逼吹的挺大\n​",
+      "mid": "5369242920682012",
+      "uid": "1319518957",
+      "url": "https://weibo.com/1319518957/Rt3k82Rqc",
+      "username": "投星资产"
+    },
+    {
+      "account": {
+        "badge": "无徽标",
+        "observed_at": "2026-11-26T04:12:38+08:00",
+        "source": "search_avatar"
+      },
+      "category": "普通用户",
+      "created_at_text": "08月27日 06:40",
+      "excerpt": "看图就明白，只有华为才算自研芯片，深耕多年，打磨ARM架构。\n#小米玄戒#\n#国产lpddr6内存首登旗舰芯片#\n#小米#\n​",
+      "mid": "5336415386993098",
+      "uid": "6984334374",
+      "url": "https://weibo.com/6984334374/RfhkutldU",
+      "username": "2026年来了"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-26T04:12:38+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "08月27日 08:02",
+      "excerpt": "英伟达发布NVHBM新一代内存互连架构，NVLink Fusion对外开放，AWS自研XPU首家接入。\n逻辑：异构算力池化时代到来，GPU+云厂商定制ASIC硬件直连。叠加HBM4降层多颗粒并行，高速内存信号芯片、先进封装、高速PCB价值量提升。 ​",
+      "mid": "5336435955860547",
+      "uid": "4092686350",
+      "url": "https://weibo.com/4092686350/RfhRFoAAX",
+      "username": "刚刚起飞了"
+    },
+    {
+      "account": {
+        "badge": "黄V",
+        "observed_at": "2026-11-26T04:12:38+08:00",
+        "source": "search_avatar"
+      },
+      "category": "认证用户",
+      "created_at_text": "06月01日 03:28",
+      "excerpt": "2027年主要路线跟踪，27年开始链条是昇腾➕长鑫➕deepssek这三个国产算力主线，其中最为关键的就是一个是先进封测2.5d技术，另外个就是hbm存储是华为链的核心\n​华为昇腾产业链 · 一页精简清单（2026.5）\n​​一、芯片设计（自研）\n​​- 华为海思：昇腾910/950（训练）、310（推理）NPU，国产AI算力核心\n​​二、上游：制造/封测/材料\n​​芯片代工\n​​- 中芯国际(688981)：910C/950主力代工，n++工艺\n- 盛合晶微：950 Chi",
+      "mid": "5304839254310984",
+      "uid": "7702417782",
+      "url": "https://weibo.com/7702417782/R21Tfi5u0",
+      "username": "准哥168"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-26T04:12:39+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "05月24日 20:10",
+      "excerpt": "华为自研DoB封装技术：绕过400层NAND限制，打造超大容量企业级 SSD。\n其实这背后并不在于华为自研了这个技术，而是华为怎么会去自研这个技术？\n再想想为什么我从去年就一直说：华为受存储涨价的影响一定最小。\n\n华为超话\n​",
+      "mid": "5302192349120096",
+      "uid": "2074999623",
+      "url": "https://weibo.com/2074999623/R0V22Cgyk",
+      "username": "又菜又爱玩的老司机"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-26T04:12:25+08:00",
+        "source": "mobile_user",
+        "verified": true,
+        "verified_reason": "数码博主",
+        "verified_type": 0,
+        "verified_type_ext": 1
+      },
+      "category": "金橙V",
+      "created_at_text": "Wed Nov 25 23:34:59 +0800 2026",
+      "excerpt": "#华为自研HBM内存方案#\n宝子们，我这又上热搜了！",
+      "mid": "5369285569676453",
+      "uid": "5530437862",
+      "url": "https://m.weibo.cn/detail/5369285569676453",
+      "username": "白泽观山海"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-26T04:12:39+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "09月05日 19:40",
+      "excerpt": "彭博社爆料：DeepSeek向华为订购了16万颗昇腾950DT芯片，部署在内蒙古，订单总额高达25.6亿美元。这批芯片主要是做AI推理，不是训练。不过因为华为产能问题，暂时无法全部满足，但是DeepSeek愿意等待。\n而影响950DT产能的，是宽带存储HBM芯片，目前国内自产才开始。明年可能就好了。 ​​​",
+      "mid": "5339873103839779",
+      "uid": "3895107933",
+      "url": "https://weibo.com/3895107933/RgJhsg6TV",
+      "username": "鹏程蛇口"
+    },
+    {
+      "account": {
+        "badge": "黄V",
+        "observed_at": "2026-11-26T04:12:39+08:00",
+        "source": "search_avatar"
+      },
+      "category": "认证用户",
+      "created_at_text": "01月07日 11:28",
+      "excerpt": "AI算力“黄金赛道”：HBM产业链深度解析，国产替代加速突围（附核心标的）\n当英伟达H200芯片将HBM（高带宽内存）作为标配，这项被誉为AI算力“超级通道”的尖端技术彻底站上产业C位。通过3D堆叠架构与硅通孔（TSV）技术，HBM在方寸之间实现超宽带宽与低功耗的完美平衡，数据传输效率较传统内存提升3-5倍，成为千亿参数大模型训练的“刚需硬件”，全球需求正以指数级态势爆发。\n这一轮HBM热潮绝非短期概念炒作，而是技术迭代与国产替代共振催生的确定性赛道。随着华为、长鑫存储等国内",
+      "mid": "5252413743435987",
+      "uid": "7738608348",
+      "url": "https://weibo.com/7738608348/QlZwiepR9",
+      "username": "趋势投资掌门"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-26T04:12:39+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "2025年11月07日 17:00",
+      "excerpt": "#HBM#\n#AI超级工厂#\n#算力#\n#华为#\n11月5日，华为宣布针对AI推理加速的关键技术UCM（Unified Cache Manager）推理记忆数据管理正式开源。这种技术的关键之处在于，可以根据记忆热度，在不同存储介质中分级缓存数据。比如在HBM中存储“实时记忆数据”，在DRAM中存储“短期记忆数据”，在SSD中存储“长期记忆数据与外部知识”。这能大大提升国产算力训练速度，在HBM暴涨背景下有很现实意义。\n@新浪人工智能\nL\nRick老张有话说的微博视频\n收起\nd",
+      "mid": "5230391621588044",
+      "uid": "3901907500",
+      "url": "https://weibo.com/3901907500/QcKCK6F7C",
+      "username": "Rick老张有话说"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-26T04:12:39+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "10月23日 09:03",
+      "excerpt": "华为PuraXMax 6天销量环比提升近4成，华为阔折叠累计出货量突破321万台！华为阔直板累计出货量突破84万台！\n​",
+      "mid": "5357107438158475",
+      "uid": "5717069810",
+      "url": "https://weibo.com/5717069810/RnXCLyeoj",
+      "username": "我鸿"
+    },
+    {
+      "account": {
+        "badge": "无徽标",
+        "observed_at": "2026-11-26T04:12:39+08:00",
+        "source": "search_avatar"
+      },
+      "category": "普通用户",
+      "created_at_text": "09月29日 22:16",
+      "excerpt": "华为90pm拉完了，标准pm屏幕不如典藏，四边不等宽， ​",
+      "mid": "5348609752045022",
+      "uid": "5470075025",
+      "url": "https://weibo.com/5470075025/RkoyP8A0e",
+      "username": "白子画千山"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-26T04:12:39+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "08月24日 14:10",
+      "excerpt": "#小米玄戒#\nO3行业首发支持LPDDR6，10667 Mbps速率、4x24 bit 位宽、113.8GB/s带宽，相比玄戒O1内存带宽提升48%。 ​​​​",
+      "mid": "5335441501062574",
+      "uid": "6265874748",
+      "url": "https://weibo.com/6265874748/ReRZI4sqi",
+      "username": "懒酱的日记本"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-26T04:12:39+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月25日 14:04",
+      "excerpt": "硬核还得看华子！\n华为整了个 HBM 的论文—— 五层混合键合HBM 内存，位宽直接翻倍到 4096\n估计是跟长鑫或者晋华合作的产品\n没有什么困难能封锁中国人！ ​",
+      "mid": "5369142005729867",
+      "uid": "2323195050",
+      "url": "https://weibo.com/2323195050/Rt0Hmo2Bd",
+      "username": "旌旗超智能"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-26T04:12:39+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月25日 23:40",
+      "excerpt": "#华为自研HBM内存方案#\n华为 ISSCC 论文太硬核！HBM 接口翻倍，昇腾 950 早就实装。制程受限？直接靠 3D 堆叠垂直超车，这路数属实把“芯片界奥林匹克”玩明白了。国产算力这么刚，以后 AI 芯片格局还不得变天？ ​",
+      "mid": "5369286856017063",
+      "uid": "6164153768",
+      "url": "https://weibo.com/6164153768/Rt4sZpfjp",
+      "username": "科技俊说"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-26T04:12:32+08:00",
+        "source": "mobile_user",
+        "verified": true,
+        "verified_reason": "数码博主 初级平面设计师 超话创作官（iqoo超话） 微博原创视频博主 头条文章作者",
+        "verified_type": 0,
+        "verified_type_ext": 2
+      },
+      "category": "金橙V",
+      "created_at_text": "Thu Nov 26 02:00:25 +0800 2026",
+      "excerpt": "#华为自研HBM内存方案#\n继韬 (τ) 定律之后，花厂又要整新活儿了？其在ISSCC 2027披露自研HBM方案，采用超宽位宽与五层混合键合技术，昇腾950系列已率先搭载商用。\n划重点：\n· 超宽位宽设计：64通道、4096bit位宽，达HBM4标准（2048bit）两倍。\n· 5层混合键合：弃用传统TSV技术，采用5层W2W（晶圆对晶圆）混合键合工艺，通过铜-铜直接互连提升密度并降低功耗。\n· 集成控制器：将内存控制器直接集成于堆叠结构内部，缩短物理距离以减少接口延迟。\n",
+      "mid": "5369322169959918",
+      "uid": "1828024217",
+      "url": "https://m.weibo.cn/detail/5369322169959918",
+      "username": "拂晓数码评"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-26T04:12:40+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月25日 23:02",
+      "excerpt": "#华为自研HBM内存方案#\n该说不说，华为这么多年的技术研发投入还是非常有成果的，除了麒麟芯片、鸿蒙系统这些熟悉的技术。这次，华为又自研HBM内存方案，这应该是有了非常好的成品了。照这个形式下去，怕是真要搞终端全产业链的节奏。\n​",
+      "mid": "5369277490401364",
+      "uid": "6068256138",
+      "url": "https://weibo.com/6068256138/Rt4dT1GpC",
+      "username": "锋途科技说"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-26T04:12:40+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月25日 16:44",
+      "excerpt": "华为把自研HBM摆上ISSCC 2027，4096bit位宽是HBM4两倍，国产算力开始补最硬的一环\n下午4点12分，一条消息弹出来，让盯着国产算力底座的人把刚端起的茶杯又放下了。\n不是新机发布，不是昇腾出货数据，而是《科创板日报》：根据IEEE官方公布的ISSCC 2027会议议程草案，华为共有4篇相关论文进入技术议程，包括HBM内存方案、采用逻辑折叠技术的旗舰移动SoC等。其中，HBM内存方案采用64通道，位宽达到4096bit，是HBM4标准2048bit位宽的两倍，并",
+      "mid": "5369182302767074",
+      "uid": "5675773958",
+      "url": "https://weibo.com/5675773958/Rt1KmbBQe",
+      "username": "超短牛哥"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-26T04:12:40+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月25日 23:04",
+      "excerpt": "华为这个HBM的论文要解释起来好难。\n简单点说，就是利用Tau定律里头的Wafer on Wafer的封装技术，就可以用相对落后的内存制程（含存储密度和主频），实现很高的HBM带宽。\n目前的麒麟9050是Wafer on Wafer\n目前长江存储的232层是Wafer on Wafer on Wafer，wowow。\n华为这个HBM，当于是Wafer on Wafer on Wafer on Wafer on Wafer，wowowowow。\n但非标\n节约了需要tsv的面积，",
+      "mid": "5369277878110827",
+      "uid": "1924762335",
+      "url": "https://weibo.com/1924762335/Rt4evy1ZN",
+      "username": "七九三一"
+    },
+    {
+      "account": {
+        "badge": "无徽标",
+        "observed_at": "2026-11-26T04:12:40+08:00",
+        "source": "search_avatar"
+      },
+      "category": "普通用户",
+      "created_at_text": "11月25日 22:44",
+      "excerpt": "#华为自研HBM内存方案#\n是这次华为入选ISSCC2027的四篇技术论文里最受关注的内容，64通道做到4096bit位宽，还有五层混合键合的设计，光看披露的这些实打实的参数细节，都能感觉到研发团队啃了不少硬骨头，这种沉下心搞核心技术的劲儿，真的特别让人佩服。 ​",
+      "mid": "5369272822140167",
+      "uid": "2013911484",
+      "url": "https://weibo.com/2013911484/Rt46m8YKP",
+      "username": "剧剧抢先看"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-26T04:12:40+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月25日 22:30",
+      "excerpt": "华为在ISSCC 2027披露的自研HBM方案，把位宽干到了4096bit，还是5层晶圆混合键合。\n这路子挺野。别人都在卷TSV硅通孔，它直接绕道，靠“以宽代高”硬解内存墙。昇腾950系列已经先上了商用版，带宽直接拉到4TB/s。\n这种底层架构的换道，比单纯堆参数更有看头。国产算力要想不被卡脖子，就得有这种敢改规则的狠劲。\n#华为自研HBM内存方案#\n收起\nd",
+      "mid": "5369269242037971",
+      "uid": "3103286013",
+      "url": "https://weibo.com/3103286013/Rt40A8yav",
+      "username": "科技怪咖"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-26T04:12:40+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月25日 17:09",
+      "excerpt": "#华为将展示自研HBM内存方案#\n在科技圈的叙事里，华为这次展示的HBM逻辑堆叠技术，本质上是一次对算力底座的“重构”与突破。\n目前的HBM4标准位宽是2048bit，而华为方案直接干到了4096bit，带宽翻倍。这不只是数字上的领先，更是在物理极限边缘的“暴力美学”。通过5层W2W晶圆混合键合，华为实际上是在把存储和逻辑单元像盖楼一样垂直堆叠，这种架构能大幅缩短数据传输路径，解决AI大模型训练中最头疼的内存墙问题。\n昇腾950系列已经搭载这套自研方案，其中950DT版本带宽",
+      "mid": "5369188432741995",
+      "uid": "6861835157",
+      "url": "https://weibo.com/6861835157/Rt1UfbvjJ",
+      "username": "青尘3141"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-26T04:12:40+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "11月25日 23:28",
+      "excerpt": "#华为自研HBM内存方案#\nIEEE官方公布的ISSCC 2027会议议程草案里，华为有四篇技术论文入选，覆盖逻辑芯片3D堆叠、AI处理器供电等好几个前沿方向，其中定制HBM内存的方案细节很亮眼，4096个DQ接口搭配五层混合键合，参数看着就够硬核，闷头啃硬技术的劲儿真挺打动人，实打实攒出来的进展看着就踏实。 ​",
+      "mid": "5369283858401532",
+      "uid": "5821325647",
+      "url": "https://weibo.com/5821325647/Rt4o9zfCA",
+      "username": "元气少女思凡"
+    },
+    {
+      "account": {
+        "badge": "无徽标",
+        "observed_at": "2026-11-26T04:12:40+08:00",
+        "source": "search_avatar"
+      },
+      "category": "普通用户",
+      "created_at_text": "今天00:22",
+      "excerpt": "#华为自研HBM内存方案#\n意思好像就是有一个组长管一堆人呗，期待一下给手机以及别的东西带来什么新的发展 ​",
+      "mid": "5369297410720724",
+      "uid": "5994656196",
+      "url": "https://weibo.com/5994656196/Rt4K131uA",
+      "username": "沐沐兮1997"
+    }
+  ],
+  "reference_url": "https://s.weibo.com/aisearchmore?q=%E5%8D%8E%E4%B8%BA%E8%87%AA%E7%A0%94HBM%E5%86%85%E5%AD%98%E6%96%B9%E6%A1%88&res_type=ref_blog&u_type=&page=1",
+  "reported_count": 49,
+  "source_url": "https://s.weibo.com/aisearch?q=%E5%8D%8E%E4%B8%BA%E8%87%AA%E7%A0%94HBM%E5%86%85%E5%AD%98%E6%96%B9%E6%A1%88&Refer=weibo_aisearch&t=31"
+}
