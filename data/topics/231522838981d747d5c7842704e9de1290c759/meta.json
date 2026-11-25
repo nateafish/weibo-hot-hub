@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1845864154
   },
-  "last_seen_at": "2026-11-25T08:00:00+08:00",
+  "last_seen_at": "2026-11-25T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E9%AA%97%E8%8A%B11400%E4%B8%87%E5%9B%A4300%E4%BB%B6%E4%BD%8E%E4%BB%B7%E6%B0%B4%E6%99%B6%23%26t%3D3&title=发布媒体",
-    "show_str": "33家媒体",
+    "show_str": "56家媒体",
     "users": [
       {
         "id": 1845864154,
         "idstr": "1845864154",
         "screen_name": "看看新闻Knews",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2337985010,
+        "idstr": "2337985010",
+        "screen_name": "瑞安融媒",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 1926079932,
-        "idstr": "1926079932",
-        "screen_name": "上海电视台案件聚焦",
+        "id": 1642088277,
+        "idstr": "1642088277",
+        "screen_name": "财经网",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1653603955,
-        "idstr": "1653603955",
-        "screen_name": "扬子晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6890796357,
-        "idstr": "6890796357",
-        "screen_name": "日照日报",
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
         "verified": true,
         "verified_type": 3
       }
