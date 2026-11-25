@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 3266943013
   },
-  "last_seen_at": "2026-11-25T11:00:00+08:00",
+  "last_seen_at": "2026-11-25T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E7%95%8C%E5%85%A8%E7%A8%8B%E5%9B%B4%E8%A7%82%E7%A5%9E24%E5%8F%91%E5%B0%84%23%26t%3D3&title=发布媒体",
-    "show_str": "16家媒体",
+    "show_str": "34家媒体",
     "users": [
+      {
+        "id": 2118120483,
+        "idstr": "2118120483",
+        "screen_name": "青岛日报",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 3266943013,
         "idstr": "3266943013",
         "screen_name": "央视网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7474936987,
+        "idstr": "7474936987",
+        "screen_name": "华池融媒",
         "verified": true,
         "verified_type": 3
       },
@@ -30,9 +44,9 @@
         "verified_type": 3
       },
       {
-        "id": 7474936987,
-        "idstr": "7474936987",
-        "screen_name": "华池融媒",
+        "id": 1667942985,
+        "idstr": "1667942985",
+        "screen_name": "长三角之声",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 6890796357,
         "idstr": "6890796357",
         "screen_name": "日照日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3379027494,
-        "idstr": "3379027494",
-        "screen_name": "AHTV_第一时间",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3165101432,
-        "idstr": "3165101432",
-        "screen_name": "广_元_融_媒",
         "verified": true,
         "verified_type": 3
       }

@@ -10,11 +10,26 @@
     "status": 2,
     "uid": 6355176057
   },
-  "last_seen_at": "2026-11-25T11:00:00+08:00",
+  "last_seen_at": "2026-11-25T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23Viper%E7%9A%84%E6%96%B0%E8%BE%85%E5%8A%A9%E6%98%AFDuro%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "2家媒体",
+    "users": [
+      {
+        "id": 2041117703,
+        "idstr": "2041117703",
+        "screen_name": "合肥日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1725252714,
+        "idstr": "1725252714",
+        "screen_name": "温度新闻",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#Viper的新辅助是Duro#",
   "search_url": "https://s.weibo.com/weibo?q=%23viper%E7%9A%84%E6%96%B0%E8%BE%85%E5%8A%A9%E6%98%AFduro%23",

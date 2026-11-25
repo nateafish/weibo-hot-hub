@@ -10,16 +10,31 @@
     "status": 2,
     "uid": 6150315109
   },
-  "last_seen_at": "2026-11-25T11:00:00+08:00",
+  "last_seen_at": "2026-11-25T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A4%A9%E9%9C%B8%E8%80%81%E6%9D%BF%E8%B0%88%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8D%A2%E6%8E%89%E7%99%BD%E5%B0%8F%E7%BA%AF%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "2家媒体",
+    "users": [
+      {
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1912416573,
+        "idstr": "1912416573",
+        "screen_name": "河南手机报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#天霸老板谈为什么换掉白小纯#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E9%9C%B8%E8%80%81%E6%9D%BF%E8%B0%88%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8D%A2%E6%8E%89%E7%99%BD%E5%B0%8F%E7%BA%AF%23",
   "sub_category": null,
-  "summary": "",
+  "summary": "旧事重提！天霸老板正面解释当年换下白小纯的原因，打破此前“摆烂被换”的网传说法，矛头指向队内沟通与打法分歧。",
   "title": "天霸老板谈为什么换掉白小纯",
   "topic_id": "23152219684ef5c817a1798225b98eee3c4c13"
 }
