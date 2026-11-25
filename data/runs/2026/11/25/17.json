@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-25T17:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 1,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#习近平对党内法规工作作出重要指示#",
+      "rank": 1,
+      "title": "习近平对党内法规工作作出重要指示",
+      "topic_id": "231522a29dffc13f00a1714d2bfa3324052208"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#巴基斯坦航天员在天宫中文唠嗑#",
+      "rank": 1,
+      "title": "巴基斯坦航天员在天宫中文唠嗑",
+      "topic_id": "231522ee74da08002ffc9190ed3f9a655d67cf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#可口可乐不再标生产日期#",
+      "rank": 2,
+      "title": "可口可乐不再标生产日期",
+      "topic_id": "231522d00ab0eb470576fa5bcfc7bf5d3ff6db"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#国际人士赞中国航天成就举世瞩目#",
+      "rank": 3,
+      "title": "国际人士赞中国航天成就举世瞩目",
+      "topic_id": "231522dfa533543d4d6d109e137f624cffe10b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "AG和平精英严正声明",
+      "rank": 4,
+      "title": "AG和平精英严正声明",
+      "topic_id": "23152283981e8f0c2cf9dec201ed6d071a930d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#Knight说没Zeus的T1不恐怖#",
+      "rank": 5,
+      "title": "Knight说没Zeus的T1不恐怖",
+      "topic_id": "2315226abcc6f3570315d7acc9b96c978cdc71"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "肖战参加小城良方研讨会路透",
+      "rank": 6,
+      "title": "肖战参加小城良方研讨会路透",
+      "topic_id": "2315220782a23b5f8525f125782a854dd83881"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#B站拿什么留住不看短剧的人#",
+      "rank": 7,
+      "title": "B站拿什么留住不看短剧的人",
+      "topic_id": "23152222e0332a2376aef38f83c760bc8ab1fd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#朱珠演了个斑秃富太#",
+      "rank": 8,
+      "title": "朱珠演了个斑秃富太",
+      "topic_id": "23152247d412b331f3f2bebde47ecafba8c952"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#被智驾辅助撞亡救人者获见义勇为#",
+      "rank": 9,
+      "title": "被智驾辅助撞亡救人者获见义勇为",
+      "topic_id": "2315228798009cf201df7ba81e3dbc5e35dd2a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#神24发射冲击波震碎记者设备屏幕#",
+      "rank": 10,
+      "title": "神24发射冲击波震碎记者设备屏幕",
+      "topic_id": "231522b91925d0108e6221a14c65d52632d5dc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "离开腾讯后三十五岁同事就业现状",
+      "rank": 11,
+      "title": "离开腾讯后三十五岁同事就业现状",
+      "topic_id": "231522bdadb54ad7047127e7c1b62adeaab9b7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "青春有你3",
+      "rank": 12,
+      "title": "青春有你3",
+      "topic_id": "231522090483c4c57e823fa908f772f45babee"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#黄奕助理说黄奕以前也犯过错想离婚#",
+      "rank": 13,
+      "title": "黄奕助理说黄奕以前也犯过错想离婚",
+      "topic_id": "2315227e14797ae274d36ff54233053395a886"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "坠楼砸中男孩已安排心理疏导",
+      "rank": 14,
+      "title": "坠楼砸中男孩已安排心理疏导",
+      "topic_id": "2315225f42d287336cc2d9a4bcdcf6c582a1a7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#体坛天霸离谱操作#",
+      "rank": 15,
+      "title": "体坛天霸离谱操作",
+      "topic_id": "231522cf565b6a9ad88ae22c59e3e24f9b6a69"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#我开会遇到肖战就这样#",
+      "rank": 16,
+      "title": "我开会遇到肖战就这样",
+      "topic_id": "2315220e40ca16f0f1027338032615ba139fdd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "四大AI评选中国最宜居城市",
+      "rank": 17,
+      "title": "四大AI评选中国最宜居城市",
+      "topic_id": "23152271ed390493e92bfbc3b8347013073a3c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#陆毅女儿星味#",
+      "rank": 18,
+      "title": "陆毅女儿星味",
+      "topic_id": "2315220cbe76ef91d0b38e32082d2e7259cb58"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#巴基斯坦航天员说中国空间站我来了#",
+      "rank": 19,
+      "title": "巴基斯坦航天员说中国空间站我来了",
+      "topic_id": "231522043db1f24e4b78253879b4b2d6e4f01a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#中外航天员第一张太空合影#",
+      "rank": 20,
+      "title": "中外航天员第一张太空合影",
+      "topic_id": "23152206d818588017e78d6fc48b61839b2386"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#航天员汤洪波弟弟说2年没见哥哥了#",
+      "rank": 21,
+      "title": "航天员汤洪波弟弟说2年没见哥哥了",
+      "topic_id": "2315225a3c0e997b616131698ec220b8a9f4e3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#警方通报男子开车送孙子致1死2伤#",
+      "rank": 22,
+      "title": "警方通报男子开车送孙子致1死2伤",
+      "topic_id": "231522a6c1a3dd6302372f480f137d19e7aa80"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "天霸 体坛",
+      "rank": 23,
+      "title": "天霸 体坛",
+      "topic_id": "231522559833ba23dedea597fdbedbd26f4ec7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "小城良方研讨会",
+      "rank": 24,
+      "title": "小城良方研讨会",
+      "topic_id": "231522598251cbde6592408eae26cbb17c1b8a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#曝文吉儿婚礼推迟了#",
+      "rank": 25,
+      "title": "曝文吉儿婚礼推迟了",
+      "topic_id": "2315221d70e8529765b184368daaaeb03a88ad"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "拿十万存款买黄金结婚对象很生气",
+      "rank": 26,
+      "title": "拿十万存款买黄金结婚对象很生气",
+      "topic_id": "231522e4f867ea646264e0c60e589bde1e113f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#外围股市全崩了#",
+      "rank": 27,
+      "title": "外围股市全崩了",
+      "topic_id": "231522e56b982694d9e7796ed8af7a9802e4a9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#iPhoneDuo大降价#",
+      "rank": 28,
+      "title": "iPhoneDuo大降价",
+      "topic_id": "231522c350acc95df92452c644aaefa92fd039"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#黄金历史上最大的几次暴跌#",
+      "rank": 29,
+      "title": "黄金历史上最大的几次暴跌",
+      "topic_id": "2315224068dfe0b343709d24536523912be50e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#疑遭丑狐盗脸女子称维权困难#",
+      "rank": 30,
+      "title": "疑遭丑狐盗脸女子称维权困难",
+      "topic_id": "2315221550cf0022d7474c9cc6def9bc28f973"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#林俊杰女友七七才24岁#",
+      "rank": 31,
+      "title": "林俊杰女友七七才24岁",
+      "topic_id": "2315222238661f8ea9e30ea79633ef48e04476"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "老一辈的嫉妒点贼奇怪",
+      "rank": 32,
+      "title": "老一辈的嫉妒点贼奇怪",
+      "topic_id": "231522fffa1c3b8123adeddc1de129007c7204"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#杨紫这次上强度了#",
+      "rank": 33,
+      "title": "杨紫这次上强度了",
+      "topic_id": "2315221f7def2f01a918afdd0facf27bfd315a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#南方人对烘干机的需求有多大#",
+      "rank": 34,
+      "title": "南方人对烘干机的需求有多大",
+      "topic_id": "231522482e3109bf6f787567a745224bfef6b0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#情侣6月结婚11月补买五金省2万#",
+      "rank": 35,
+      "title": "情侣6月结婚11月补买五金省2万",
+      "topic_id": "231522829931ae74c901c3681e9754ba154d64"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王丹妮怀孕#",
+      "rank": 36,
+      "title": "王丹妮怀孕",
+      "topic_id": "231522991252d497d0918d592e29bbededce73"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#走私38000份孕妇血非法鉴定性别#",
+      "rank": 37,
+      "title": "走私38000份孕妇血非法鉴定性别",
+      "topic_id": "23152203c517581d4ae8ebc7818a9510237a9f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#造谣成毅最高可判3年#",
+      "rank": 38,
+      "title": "造谣成毅最高可判3年",
+      "topic_id": "231522659f3332b23fd65081af7c671c67b579"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#田曦薇的脸颊肉回来了#",
+      "rank": 39,
+      "title": "田曦薇的脸颊肉回来了",
+      "topic_id": "231522cd75c5f478da705b46cd6f8ea02894c5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#千年等一回的间奏居然是China#",
+      "rank": 40,
+      "title": "千年等一回的间奏居然是China",
+      "topic_id": "231522f526dd6ba0f44756162ab368d93fc25d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#Chovy直播回应决赛失利#",
+      "rank": 41,
+      "title": "Chovy直播回应决赛失利",
+      "topic_id": "231522e2ca5442d3a7fb05486e3b86d9f7ea54"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "文吉儿 鼻子",
+      "rank": 42,
+      "title": "文吉儿 鼻子",
+      "topic_id": "23152298d01387549695229d4b8417ff1d4372"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "石川佳纯结婚",
+      "rank": 43,
+      "title": "石川佳纯结婚",
+      "topic_id": "231522116dabcea6a6fc42a990cfd9b3519dcd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#黄仁勋称60名下属都可接替自己#",
+      "rank": 44,
+      "title": "黄仁勋称60名下属都可接替自己",
+      "topic_id": "231522230c088160f252d764074b211adf2aa9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "女生相亲近五十位后怀疑爱的能力",
+      "rank": 45,
+      "title": "女生相亲近五十位后怀疑爱的能力",
+      "topic_id": "231522fcf0d96b1715d68843c5381b2aecb307"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "华为将在ISSCC展示HBM技术",
+      "rank": 46,
+      "title": "华为将在ISSCC展示HBM技术",
+      "topic_id": "231522fde7648e552da7c6becd2e30b794fba6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#成毅回应两京十五日爆船戏体态争议#",
+      "rank": 47,
+      "title": "成毅回应两京十五日爆船戏体态争议",
+      "topic_id": "231522845610d57be84df2db985f5e8f5a209e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#胡锡进说我们都亏得很痛#",
+      "rank": 48,
+      "title": "胡锡进说我们都亏得很痛",
+      "topic_id": "23152215f8d3996f73e36b7a1effd7e692bb6f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#刘亦菲VOGUE2026年度最佳着装#",
+      "rank": 49,
+      "title": "刘亦菲VOGUE2026年度最佳着装",
+      "topic_id": "231522e8d7cadc24bf5b91cd9351f90f0ab0a1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "伪爆剧",
+      "rank": 50,
+      "title": "伪爆剧",
+      "topic_id": "231522ec17f07e1ed3d9cff3f7b9dbcded49f3"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

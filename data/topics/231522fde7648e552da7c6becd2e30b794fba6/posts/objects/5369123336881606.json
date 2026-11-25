@@ -1,0 +1,17 @@
+{
+  "account": {
+    "badge": "橙V",
+    "observed_at": "2026-11-25T17:25:57+08:00",
+    "source": "mobile_user",
+    "verified": true,
+    "verified_reason": "汽车博主",
+    "verified_type": 0,
+    "verified_type_ext": 2
+  },
+  "body": "连续两条有关芯片及其产业链的重磅消息！\n第二条，有关华为HBM及其他\n根据IEEE官方公布的ISSCC 2027会议议程草案\n华为将在明年举行的ISSCC 2027上展示多项芯片及先进封装技术，其中涉及芯片3D堆叠、AI处理器供电、高速有线通信、定制HBM等\n共涉及四篇论文，分别如下及四图所示\n一、《A Hybrid-Bonded LogicFolding Flagship Mobile SoC with Full-Chip Intra-Module Partitioning》，主要介绍采用混合键合技术的旗舰移动SoC，通过全芯片模块内部分区实现LogicFolding架构\n二、《A Reliability-Enhanced 33A 3D-Stacked IVR Enabling Kiloampere-Class Power Delivery and 59W System-Power Reduction for AI Processors》，介绍一款可靠性增强型33A三维堆叠集成电压调节器，目标是实现千安培级供电能力，并使AI处理器系统功耗降低59W\n三、《A 71.3fs Fractional-N Ring-Based PLL for 3D-Friendly 212.5Gb/s Wireline》，介绍一款基于环形振荡器的分数N型锁相环，相位抖动指标为71.3fs，面向212.5Gb/s高速有线通信及3D芯片集成场景\n四、《A 64-Channel 4096-DQ Custom HBM with Memory Controllers and 5-Layer Wafer-on-Wafer Hybrid Bonding》，介绍一款定制HBM内存方案，采用64通道、4096个DQ数据接口设计，集成内存控制器，并使用五层晶圆对晶圆混合键合技术\n其中第四篇论文即为华为定制HBM方案，采用5层晶圆逻辑堆叠、64通道、4096超宽位宽，并集成了内存控制器",
+  "created_at_text": "Wed Nov 25 12:50:20 +0800 2026",
+  "mid": "5369123336881606",
+  "uid": "6110832479",
+  "url": "https://m.weibo.cn/detail/5369123336881606",
+  "username": "松山湖舰队司令"
+}
