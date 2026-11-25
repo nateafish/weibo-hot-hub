@@ -10,11 +10,25 @@
     "status": 2,
     "uid": 6147191568
   },
-  "last_seen_at": "2026-11-25T21:00:00+08:00",
+  "last_seen_at": "2026-11-25T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%9D%92%E7%A8%9A%E4%B8%BA%E8%AF%81%E6%98%8E%E4%B8%8D%E6%98%AFAI%E7%89%B9%E6%84%8F%E6%8B%8D%E8%A7%86%E9%A2%91%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "5家媒体",
     "users": [
+      {
+        "id": 6444725927,
+        "idstr": "6444725927",
+        "screen_name": "吉祥新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2992050891,
+        "idstr": "2992050891",
+        "screen_name": "北京时间",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2252846093,
         "idstr": "2252846093",
@@ -26,6 +40,13 @@
         "id": 1738004582,
         "idstr": "1738004582",
         "screen_name": "纵览新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       }

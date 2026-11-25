@@ -3,10 +3,10 @@
   "created_at": 1795600949,
   "first_seen_at": "2026-11-25T19:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-25T21:00:00+08:00",
+  "last_seen_at": "2026-11-25T22:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9C%B1%E4%BA%9A%E6%96%87%E7%89%88%E6%9C%B1%E7%9E%BB%E5%9F%BA%23%26t%3D3&title=发布媒体",
-    "show_str": "11家媒体",
+    "show_str": "17家媒体",
     "users": [
       {
         "id": 6105713761,
@@ -19,6 +19,13 @@
         "id": 1497087080,
         "idstr": "1497087080",
         "screen_name": "羊城晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2460937233,
+        "idstr": "2460937233",
+        "screen_name": "热度新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -44,16 +51,9 @@
         "verified_type": 3
       },
       {
-        "id": 2535760180,
-        "idstr": "2535760180",
-        "screen_name": "安徽视讯",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2337985010,
-        "idstr": "2337985010",
-        "screen_name": "瑞安融媒",
+        "id": 3266943013,
+        "idstr": "3266943013",
+        "screen_name": "央视网",
         "verified": true,
         "verified_type": 3
       }
