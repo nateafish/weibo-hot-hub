@@ -3,10 +3,10 @@
   "created_at": 1795513991,
   "first_seen_at": "2026-11-24T21:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-25T09:00:00+08:00",
+  "last_seen_at": "2026-11-25T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%BB%84%E7%A3%8A%E7%9C%9F%E7%A9%BA%E5%9B%B4%E8%A3%99%23%26t%3D3&title=发布媒体",
-    "show_str": "35家媒体",
+    "show_str": "37家媒体",
     "users": [
       {
         "id": 1723167603,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 2647971081,
+        "idstr": "2647971081",
+        "screen_name": "时速新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2356298087,
         "idstr": "2356298087",
         "screen_name": "河北经视",
@@ -44,16 +51,9 @@
         "verified_type": 3
       },
       {
-        "id": 7422806367,
-        "idstr": "7422806367",
-        "screen_name": "中网传播",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6369501744,
-        "idstr": "6369501744",
-        "screen_name": "封面新闻视频",
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       }
