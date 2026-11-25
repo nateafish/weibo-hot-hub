@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 3266943013
   },
-  "last_seen_at": "2026-11-25T17:00:00+08:00",
+  "last_seen_at": "2026-11-25T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%9B%BD%E9%99%85%E4%BA%BA%E5%A3%AB%E8%B5%9E%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E6%88%90%E5%B0%B1%E4%B8%BE%E4%B8%96%E7%9E%A9%E7%9B%AE%23%26t%3D3&title=发布媒体",
-    "show_str": "61家媒体",
+    "show_str": "66家媒体",
     "users": [
       {
         "id": 3266943013,
         "idstr": "3266943013",
         "screen_name": "央视网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2460937233,
+        "idstr": "2460937233",
+        "screen_name": "热度新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -37,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 1880922220,
+        "idstr": "1880922220",
+        "screen_name": "金华晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1727472420,
         "idstr": "1727472420",
         "screen_name": "泰山晚报",
@@ -44,23 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1656737654,
-        "idstr": "1656737654",
-        "screen_name": "现代快报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6444725927,
-        "idstr": "6444725927",
-        "screen_name": "吉祥新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1924115501,
-        "idstr": "1924115501",
-        "screen_name": "星島網",
+        "id": 1708763410,
+        "idstr": "1708763410",
+        "screen_name": "浙江日报",
         "verified": true,
         "verified_type": 3
       }
