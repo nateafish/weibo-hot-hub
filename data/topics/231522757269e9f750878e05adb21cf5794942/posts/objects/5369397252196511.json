@@ -1,0 +1,17 @@
+{
+  "account": {
+    "badge": "金V",
+    "observed_at": "2026-11-26T07:17:38+08:00",
+    "source": "mobile_user",
+    "verified": true,
+    "verified_reason": "数码博主",
+    "verified_type": 0,
+    "verified_type_ext": 1
+  },
+  "body": "#华为自研HBM内存方案#\n与英伟达H200比，强在哪里？\n这项技术已经用在昇腾950DT上，不走HBM传统TSV硅通孔老路，采用晶圆对晶圆混合键合，4096bit位宽。\n950DT搭载HiZQ2.0做到4TB/s带宽，贴近H200的4.8TB/s。对比英伟达的H200，强在三点：\n① Cu-Cu直接键合、无凸点互连，访存延迟与能效上限更高；\n② 分PR/DT双芯片拆分Prefill/Decode场景，访存子系统专门针对大模型KV缓存优化，支持原生MXFP4；\n③ 小粒度访存+超节点集群架构，长上下文、推荐、大集群训练场景内存利用率更强。\n短板是单卡峰值带宽、CUDA生态成熟度仍有差距。",
+  "created_at_text": "Thu Nov 26 06:58:46 +0800 2026",
+  "mid": "5369397252196511",
+  "uid": "5530437862",
+  "url": "https://m.weibo.cn/detail/5369397252196511",
+  "username": "白泽观山海"
+}
