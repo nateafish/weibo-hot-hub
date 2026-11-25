@@ -10,11 +10,33 @@
     "status": 2,
     "uid": 6343987153
   },
-  "last_seen_at": "2026-11-25T14:00:00+08:00",
+  "last_seen_at": "2026-11-25T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BF%9D%E5%A7%86%E7%A7%81%E4%B8%8B%E6%89%BE%E5%90%91%E5%8D%8E%E5%BC%BA%E8%A6%81%E9%92%B1%E8%A2%AB%E5%90%91%E5%A4%AA%E8%BE%9E%E9%80%80%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "3家媒体",
+    "users": [
+      {
+        "id": 7472856103,
+        "idstr": "7472856103",
+        "screen_name": "点时新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2647971081,
+        "idstr": "2647971081",
+        "screen_name": "时速新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1882632930,
+        "idstr": "1882632930",
+        "screen_name": "新消息报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#保姆私下找向华强要钱被向太辞退#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E4%BF%9D%E5%A7%86%E7%A7%81%E4%B8%8B%E6%89%BE%E5%90%91%E5%8D%8E%E5%BC%BA%E8%A6%81%E9%92%B1%E8%A2%AB%E5%90%91%E5%A4%AA%E8%BE%9E%E9%80%80%23",
