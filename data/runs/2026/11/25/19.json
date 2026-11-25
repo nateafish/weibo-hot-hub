@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-25T19:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#习近平对党内法规工作作出重要指示#",
+      "rank": 1,
+      "title": "习近平对党内法规工作作出重要指示",
+      "topic_id": "231522a29dffc13f00a1714d2bfa3324052208"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#黄金史上暴跌最长28年才恢复#",
+      "rank": 1,
+      "title": "黄金史上暴跌最长28年才恢复",
+      "topic_id": "231522f1ac777741f421a00ed69e3d68afce2d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#巴基斯坦航天员在天宫中文唠嗑#",
+      "rank": 2,
+      "title": "巴基斯坦航天员在天宫中文唠嗑",
+      "topic_id": "231522ee74da08002ffc9190ed3f9a655d67cf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 21,
+      "posts": "saved",
+      "query": "#神24与空间站完成对接#",
+      "rank": 3,
+      "title": "神24与空间站完成对接",
+      "topic_id": "23152250c296ac6d3560dc6e6447c5681312df"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "AG和平精英严正声明",
+      "rank": 4,
+      "title": "AG和平精英严正声明",
+      "topic_id": "23152283981e8f0c2cf9dec201ed6d071a930d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "T1官宣Zeus回归",
+      "rank": 5,
+      "title": "T1官宣Zeus回归",
+      "topic_id": "2315221a8b9d69858255224a6b86701ecfc007"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 21,
+      "posts": "saved",
+      "query": "#体坛天霸离谱操作#",
+      "rank": 6,
+      "title": "体坛天霸离谱操作",
+      "topic_id": "231522cf565b6a9ad88ae22c59e3e24f9b6a69"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#B站拿什么留住不看短剧的人#",
+      "rank": 7,
+      "title": "B站拿什么留住不看短剧的人",
+      "topic_id": "23152222e0332a2376aef38f83c760bc8ab1fd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#孕妇血样走私或泄露我国遗传弱点#",
+      "rank": 8,
+      "title": "孕妇血样走私或泄露我国遗传弱点",
+      "topic_id": "231522bcfe4f9f1c09a33c94b6bf7365de46c6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "Suk介绍一下精英组",
+      "rank": 9,
+      "title": "Suk介绍一下精英组",
+      "topic_id": "23152260bed117f5f6bbe63326b226966b622d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#斗鱼及创始人陈少杰被执行1.9亿余元#",
+      "rank": 10,
+      "title": "斗鱼及创始人陈少杰被执行1.9亿余元",
+      "topic_id": "23152201d7f32ddc4cdd2caf51a702d9247d3c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "离开腾讯后三十五岁同事就业现状",
+      "rank": 11,
+      "title": "离开腾讯后三十五岁同事就业现状",
+      "topic_id": "231522bdadb54ad7047127e7c1b62adeaab9b7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#还我蒋欣脸颊肉#",
+      "rank": 12,
+      "title": "还我蒋欣脸颊肉",
+      "topic_id": "231522ead3abf83ff3d70f3af9efa72b4ab1ac"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#我开会遇到肖战就这样#",
+      "rank": 13,
+      "title": "我开会遇到肖战就这样",
+      "topic_id": "2315220e40ca16f0f1027338032615ba139fdd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "suk锐评青稚",
+      "rank": 14,
+      "title": "suk锐评青稚",
+      "topic_id": "2315226b817acda12efcb15d57c4741a5958d6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 20,
+      "posts": "saved",
+      "query": "#拔掉白头发会发生什么#",
+      "rank": 15,
+      "title": "拔掉白头发会发生什么",
+      "topic_id": "2315221aabad2c1ce2f8a268d7b28dcafe6dba"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "青春有你3",
+      "rank": 16,
+      "title": "青春有你3",
+      "topic_id": "231522090483c4c57e823fa908f772f45babee"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "四大AI评选中国最宜居城市",
+      "rank": 17,
+      "title": "四大AI评选中国最宜居城市",
+      "topic_id": "23152271ed390493e92bfbc3b8347013073a3c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#上海一动物园小狗表演时摔倒疑受伤#",
+      "rank": 18,
+      "title": "上海一动物园小狗表演时摔倒疑受伤",
+      "topic_id": "23152210b3208a6a63594240cb2ac0313dc5fb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#看不见的轴承托起中国制造#",
+      "rank": 19,
+      "title": "看不见的轴承托起中国制造",
+      "topic_id": "2315226482c50def7d75e3e755da2dcdcc133e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#荔枝冰酒爆火厂家感谢陕西籍酿酒师#",
+      "rank": 20,
+      "title": "荔枝冰酒爆火厂家感谢陕西籍酿酒师",
+      "topic_id": "23152226aea276b6969f07ef9750310e9de51b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 8,
+      "posts": "saved",
+      "query": "#3女非亲生女方被认定违背公序良俗#",
+      "rank": 21,
+      "title": "3女非亲生女方被认定违背公序良俗",
+      "topic_id": "23152240e47f73c671d8f12755754762b53a2b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 21,
+      "posts": "saved",
+      "query": "#蔚来发布两大AI技术新成果#",
+      "rank": 22,
+      "title": "蔚来发布两大AI技术新成果",
+      "topic_id": "23152280a520bb4f15cd019f714d52a102f691"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#黄奕助理说黄奕以前也犯过错想离婚#",
+      "rank": 23,
+      "title": "黄奕助理说黄奕以前也犯过错想离婚",
+      "topic_id": "2315227e14797ae274d36ff54233053395a886"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 20,
+      "posts": "saved",
+      "query": "天霸 体坛",
+      "rank": 24,
+      "title": "天霸 体坛",
+      "topic_id": "231522559833ba23dedea597fdbedbd26f4ec7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#男子吃自助吃了一桌大闸蟹#",
+      "rank": 25,
+      "title": "男子吃自助吃了一桌大闸蟹",
+      "topic_id": "2315228138c7fbb9e43f26fa705ebe96a4ee27"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#肖战发言倪大红频频点头#",
+      "rank": 26,
+      "title": "肖战发言倪大红频频点头",
+      "topic_id": "2315221d2e3986a411e2999ac666247461a85c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#曝文吉儿婚礼推迟了#",
+      "rank": 27,
+      "title": "曝文吉儿婚礼推迟了",
+      "topic_id": "2315221d70e8529765b184368daaaeb03a88ad"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "拿十万存款买黄金结婚对象很生气",
+      "rank": 28,
+      "title": "拿十万存款买黄金结婚对象很生气",
+      "topic_id": "231522e4f867ea646264e0c60e589bde1e113f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 19,
+      "posts": "saved",
+      "query": "油价",
+      "rank": 29,
+      "title": "油价",
+      "topic_id": "231522795ccd756dc3cabecdd2d9bbe92d6619"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 17,
+      "posts": "saved",
+      "query": "#许飞问厉娜小情歌谁写的#",
+      "rank": 30,
+      "title": "许飞问厉娜小情歌谁写的",
+      "topic_id": "23152279ead101f432e83051fcf858cb78b728"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 22,
+      "posts": "saved",
+      "query": "#白小纯的文案#",
+      "rank": 31,
+      "title": "白小纯的文案",
+      "topic_id": "231522e800ed3f4f3f9104f843e48a53cf5c3a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#外围股市全崩了#",
+      "rank": 32,
+      "title": "外围股市全崩了",
+      "topic_id": "231522e56b982694d9e7796ed8af7a9802e4a9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#17岁少年撞死2人逃逸已被控制#",
+      "rank": 33,
+      "title": "17岁少年撞死2人逃逸已被控制",
+      "topic_id": "231522a13aa0ea69bdb651e19b2348bc6d79c1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 16,
+      "posts": "saved",
+      "query": "#林俊杰女友七七才24岁#",
+      "rank": 34,
+      "title": "林俊杰女友七七才24岁",
+      "topic_id": "2315222238661f8ea9e30ea79633ef48e04476"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#黄金史上六次暴跌#",
+      "rank": 35,
+      "title": "黄金史上六次暴跌",
+      "topic_id": "2315228fe070fb025cead987da0ee1c1ce7bae"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "朱亚文版朱瞻基",
+      "rank": 36,
+      "title": "朱亚文版朱瞻基",
+      "topic_id": "231522730c3cbc7e102d8688720be358fa8a43"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "文吉儿 鼻子",
+      "rank": 37,
+      "title": "文吉儿 鼻子",
+      "topic_id": "23152298d01387549695229d4b8417ff1d4372"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#打断情侣求婚服务员已2天未上班#",
+      "rank": 38,
+      "title": "打断情侣求婚服务员已2天未上班",
+      "topic_id": "2315221fa748caac281d3a979c9cb9eb74d795"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#包洁仪高考667分#",
+      "rank": 39,
+      "title": "包洁仪高考667分",
+      "topic_id": "2315224db569ed82e2f318772c040c7cb16cf6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#巴基斯坦航天员点赞太空小蛋糕#",
+      "rank": 40,
+      "title": "巴基斯坦航天员点赞太空小蛋糕",
+      "topic_id": "2315229678df1e5be2e0f89eee8c9277697cf3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 5,
+      "posts": "saved",
+      "query": "#广西贺州一废弃矿洞内发现5具腐尸#",
+      "rank": 41,
+      "title": "广西贺州一废弃矿洞内发现5具腐尸",
+      "topic_id": "2315221b61f8b7592bd66ab7449b34a1a36c88"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#高梓淇恋爱三年不了解女友职业#",
+      "rank": 42,
+      "title": "高梓淇恋爱三年不了解女友职业",
+      "topic_id": "2315228b0b12620681769fef682cada98b3082"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#特朗普惦记的那道菜全网猜疯了#",
+      "rank": 43,
+      "title": "特朗普惦记的那道菜全网猜疯了",
+      "topic_id": "231522c20d9c1cf51b5556afa4a1a53df73e85"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#陆毅女儿星味#",
+      "rank": 44,
+      "title": "陆毅女儿星味",
+      "topic_id": "2315220cbe76ef91d0b38e32082d2e7259cb58"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "老一辈的嫉妒点贼奇怪",
+      "rank": 45,
+      "title": "老一辈的嫉妒点贼奇怪",
+      "topic_id": "231522fffa1c3b8123adeddc1de129007c7204"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#王楚然会模糊掉一些暧昧氛围#",
+      "rank": 46,
+      "title": "王楚然会模糊掉一些暧昧氛围",
+      "topic_id": "231522e44a9f7950c3afb342c21ba987454ecd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#马斯克黄仁勋英伟达总部合影#",
+      "rank": 47,
+      "title": "马斯克黄仁勋英伟达总部合影",
+      "topic_id": "231522f3e794bf16c77798736500838831b9be"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#不是所有L2都叫华为乾崑智驾#",
+      "rank": 48,
+      "title": "不是所有L2都叫华为乾崑智驾",
+      "topic_id": "231522d773e152846dac1523d0c3791676183f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#安徽4岁男孩走失遗体被找到#",
+      "rank": 49,
+      "title": "安徽4岁男孩走失遗体被找到",
+      "topic_id": "231522dbf428cbc567d299b4f70fc9e99536a2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "穆祉丞在线求职",
+      "rank": 50,
+      "title": "穆祉丞在线求职",
+      "topic_id": "231522f073b83552c519e12d9eed4ae3c9e3a9"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

@@ -10,11 +10,33 @@
     "status": 2,
     "uid": 6436652527
   },
-  "last_seen_at": "2026-11-25T18:00:00+08:00",
+  "last_seen_at": "2026-11-25T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%BF%98%E6%88%91%E8%92%8B%E6%AC%A3%E8%84%B8%E9%A2%8A%E8%82%89%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "3家媒体",
+    "users": [
+      {
+        "id": 7708039348,
+        "idstr": "7708039348",
+        "screen_name": "北青娱见",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2535760180,
+        "idstr": "2535760180",
+        "screen_name": "安徽视讯",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2115259662,
+        "idstr": "2115259662",
+        "screen_name": "洪观新闻",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#还我蒋欣脸颊肉#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E8%BF%98%E6%88%91%E8%92%8B%E6%AC%A3%E8%84%B8%E9%A2%8A%E8%82%89%23",
