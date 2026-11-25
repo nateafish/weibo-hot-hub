@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-25T13:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#习近平总书记深情寄语航天工作者#",
+      "rank": 1,
+      "title": "习近平总书记深情寄语航天工作者",
+      "topic_id": "231522bbcf33755079fd7311e3272d9bcc0832"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#可口可乐不再标生产日期#",
+      "rank": 1,
+      "title": "可口可乐不再标生产日期",
+      "topic_id": "231522d00ab0eb470576fa5bcfc7bf5d3ff6db"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#巴基斯坦航天员舱内笔下不停#",
+      "rank": 2,
+      "title": "巴基斯坦航天员舱内笔下不停",
+      "topic_id": "231522898e37dab1185b056825c046f6461479"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#神舟24发射圆满成功#",
+      "rank": 3,
+      "title": "神舟24发射圆满成功",
+      "topic_id": "231522e802491631bc92ae0154194792ce0f37"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#巴基斯坦人齐唱国歌见证神舟发射#",
+      "rank": 4,
+      "title": "巴基斯坦人齐唱国歌见证神舟发射",
+      "topic_id": "2315229dc87c89d3fb9c5474280ebf89eb4064"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#巴基斯坦航天员手指国旗向镜头敬礼#",
+      "rank": 5,
+      "title": "巴基斯坦航天员手指国旗向镜头敬礼",
+      "topic_id": "231522fe8c84d76088c3d5e9dd8be1674b90d8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#马斯克说上海跳舞视频不是AI#",
+      "rank": 6,
+      "title": "马斯克说上海跳舞视频不是AI",
+      "topic_id": "231522e46122bcec375caa353266e9416e1d6f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#郎永淳离开央视创业后现在怎么样了#",
+      "rank": 7,
+      "title": "郎永淳离开央视创业后现在怎么样了",
+      "topic_id": "2315228eadc105748f5cd89cf4e6ab6542da96"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#故宫回应网传博主家有故宫同款名画#",
+      "rank": 8,
+      "title": "故宫回应网传博主家有故宫同款名画",
+      "topic_id": "231522518e8e33d435f9d11f14cb02ec15d588"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#朱珠演了个斑秃富太#",
+      "rank": 9,
+      "title": "朱珠演了个斑秃富太",
+      "topic_id": "23152247d412b331f3f2bebde47ecafba8c952"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "时代少年团期待马兰花开的声音",
+      "rank": 10,
+      "title": "时代少年团期待马兰花开的声音",
+      "topic_id": "23152258411af4a8658ceb78ac0c1357af8e3b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "黄奕开月子会所三年盈利5万",
+      "rank": 11,
+      "title": "黄奕开月子会所三年盈利5万",
+      "topic_id": "231522301fe01fecc41fe36c53b060a4a9c700"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#天霸老板谈为什么换掉白小纯#",
+      "rank": 12,
+      "title": "天霸老板谈为什么换掉白小纯",
+      "topic_id": "23152219684ef5c817a1798225b98eee3c4c13"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "伪爆剧",
+      "rank": 13,
+      "title": "伪爆剧",
+      "topic_id": "231522ec17f07e1ed3d9cff3f7b9dbcded49f3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "石川佳纯结婚",
+      "rank": 14,
+      "title": "石川佳纯结婚",
+      "topic_id": "231522116dabcea6a6fc42a990cfd9b3519dcd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张馨予出场直接惊艳#",
+      "rank": 15,
+      "title": "张馨予出场直接惊艳",
+      "topic_id": "2315228c0bfc010ce15da3b327f0416de7d425"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#大美疑似宣布离婚#",
+      "rank": 16,
+      "title": "大美疑似宣布离婚",
+      "topic_id": "231522cfc6bfdaabbe9533777246ff63d33f74"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#弟弟为独吞133万遗产翻脸不认姐姐#",
+      "rank": 17,
+      "title": "弟弟为独吞133万遗产翻脸不认姐姐",
+      "topic_id": "2315222ebe13f2a91618ed230a97cbfec24cf4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#保罗乔治脚踝毁灭者#",
+      "rank": 18,
+      "title": "保罗乔治脚踝毁灭者",
+      "topic_id": "231522f9c1fd019c9d00f4312098040a40b3f2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#巴基斯坦航天界全程围观神24发射#",
+      "rank": 19,
+      "title": "巴基斯坦航天界全程围观神24发射",
+      "topic_id": "23152207b79ea9067e1cd4df48bd5cc52b3ec7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#中国空间站第1次来了外籍航天员#",
+      "rank": 20,
+      "title": "中国空间站第1次来了外籍航天员",
+      "topic_id": "231522a1a25d5aa4c709c0a9417a9091bc5a5a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#黄仁勋称将接受360度绩效评估#",
+      "rank": 21,
+      "title": "黄仁勋称将接受360度绩效评估",
+      "topic_id": "231522d373222724341f3cd4e2398e08bbd40a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "天霸 体坛",
+      "rank": 22,
+      "title": "天霸 体坛",
+      "topic_id": "231522559833ba23dedea597fdbedbd26f4ec7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "舅舅在舅妈面前抬不起头",
+      "rank": 23,
+      "title": "舅舅在舅妈面前抬不起头",
+      "topic_id": "231522c98967429302a7fa9db4fdaeca91dcbc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#神24与空间站完成对接#",
+      "rank": 24,
+      "title": "神24与空间站完成对接",
+      "topic_id": "23152250c296ac6d3560dc6e6447c5681312df"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#Viper的新辅助是Duro#",
+      "rank": 25,
+      "title": "Viper的新辅助是Duro",
+      "topic_id": "23152254dc4159a6722968bb6dccc950529a3d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#搞台独分裂没有市场更没有出路#",
+      "rank": 26,
+      "title": "搞台独分裂没有市场更没有出路",
+      "topic_id": "2315224553a11e26aeaae917f93a4049965b49"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#若若疑似领证#",
+      "rank": 27,
+      "title": "若若疑似领证",
+      "topic_id": "231522be519919fd5d4bc9a1312a40ce2f22ea"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#中国人上太空从不足1天到带飞巴铁#",
+      "rank": 28,
+      "title": "中国人上太空从不足1天到带飞巴铁",
+      "topic_id": "231522a9102fc1181ed6734bc70bba725efd88"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#青稚真的在无人角落有更多真心#",
+      "rank": 29,
+      "title": "青稚真的在无人角落有更多真心",
+      "topic_id": "231522c90f56152150d2c3016e70e01d40c40f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "小米汽车Q3亏损34亿",
+      "rank": 30,
+      "title": "小米汽车Q3亏损34亿",
+      "topic_id": "23152283361b7c24748c5cb37e59036d2fdf7c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "李一桐芒果 和解",
+      "rank": 31,
+      "title": "李一桐芒果 和解",
+      "topic_id": "2315225d1ae81095d1f28a72d81a21815a1136"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#羽绒服的那些坑你踩过多少#",
+      "rank": 32,
+      "title": "羽绒服的那些坑你踩过多少",
+      "topic_id": "231522a34fd5f8eb928288a53187ded9983966"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#原来明星在人群中这么显眼#",
+      "rank": 33,
+      "title": "原来明星在人群中这么显眼",
+      "topic_id": "2315227b34e696c26a399fe7b38655673f9459"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "Angelababy的微爱成导演唯一赚钱作品",
+      "rank": 34,
+      "title": "Angelababy的微爱成导演唯一赚钱作品",
+      "topic_id": "2315220caf04490e07d0e94ea55873c82a9038"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "杨紫工作室通报维权",
+      "rank": 35,
+      "title": "杨紫工作室通报维权",
+      "topic_id": "231522f1778ab8a95c272ad4e6ba6104e23ac2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女老师阔腿裤钻进老鼠捏住继续讲课#",
+      "rank": 36,
+      "title": "女老师阔腿裤钻进老鼠捏住继续讲课",
+      "topic_id": "2315221502a6917557db522962f4af9c84e826"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "湖北文科状元自述相亲四次失败",
+      "rank": 37,
+      "title": "湖北文科状元自述相亲四次失败",
+      "topic_id": "231522657bea60b3f8e3c9fffa9328e31c81fe"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#黄金历史上最大的几次暴跌#",
+      "rank": 38,
+      "title": "黄金历史上最大的几次暴跌",
+      "topic_id": "2315224068dfe0b343709d24536523912be50e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "#28年命案开庭母亲墓在儿子旁#",
+      "rank": 39,
+      "title": "28年命案开庭母亲墓在儿子旁",
+      "topic_id": "231522b6e5add709ec743513689b9ebdf5f101"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#05后女孩把AI当搞钱搭子日入4千元#",
+      "rank": 40,
+      "title": "05后女孩把AI当搞钱搭子日入4千元",
+      "topic_id": "231522fba75a8248f77add04bc995a33944e16"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "巴基斯坦",
+      "rank": 41,
+      "title": "巴基斯坦",
+      "topic_id": "2315229201e53687b3898204788418d6634aa2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#黄仁勋复职难改美股三重变化#",
+      "rank": 42,
+      "title": "黄仁勋复职难改美股三重变化",
+      "topic_id": "2315221d3a46be1205b2503a13787f51200cf2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "黄金",
+      "rank": 43,
+      "title": "黄金",
+      "topic_id": "23152211289a9c3dbe0fb8810cf271903fc8ac"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#黄磊真的是无妄之灾#",
+      "rank": 44,
+      "title": "黄磊真的是无妄之灾",
+      "topic_id": "2315225cf75a319f2f4e294a909f867ae6085d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "我的有罪之人 烂尾",
+      "rank": 45,
+      "title": "我的有罪之人 烂尾",
+      "topic_id": "231522eeb997af8ab3eb22c92cab435e5f0a4c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#易烊千玺的词太易烊千玺了#",
+      "rank": 46,
+      "title": "易烊千玺的词太易烊千玺了",
+      "topic_id": "23152205f60f8e48867db119ef1d9ed5259ea6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#神23神24航天员今天一起吃午饭#",
+      "rank": 47,
+      "title": "神23神24航天员今天一起吃午饭",
+      "topic_id": "2315222370d5bd5407c5f4c358cb775c151a3a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#疑遭丑狐盗脸女子称维权困难#",
+      "rank": 48,
+      "title": "疑遭丑狐盗脸女子称维权困难",
+      "topic_id": "2315221550cf0022d7474c9cc6def9bc28f973"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "孙颖莎出发混团世界杯",
+      "rank": 49,
+      "title": "孙颖莎出发混团世界杯",
+      "topic_id": "231522a0ed5155e5589c18a72a9284794cf08e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王牌对王牌第十季阵容#",
+      "rank": 50,
+      "title": "王牌对王牌第十季阵容",
+      "topic_id": "2315229ed95fe970f9b277511bbbfe075e5a17"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
