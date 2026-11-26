@@ -10,11 +10,40 @@
     "status": 2,
     "uid": 5698023579
   },
-  "last_seen_at": "2026-11-26T19:00:00+08:00",
+  "last_seen_at": "2026-11-26T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%8E%8B%E8%80%85%E5%AE%98%E6%96%B9%E8%A2%AB%E6%A2%A6%E6%B3%AA%E8%B8%A2%E5%87%BA%E7%9B%B4%E6%92%AD%E9%97%B41000%E5%A4%A9%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "4家媒体",
+    "users": [
+      {
+        "id": 7761793874,
+        "idstr": "7761793874",
+        "screen_name": "白鹿科技",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7750531853,
+        "idstr": "7750531853",
+        "screen_name": "朱雀财经",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7575030448,
+        "idstr": "7575030448",
+        "screen_name": "白鹿视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1681831471,
+        "idstr": "1681831471",
+        "screen_name": "引力科普",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#王者官方被梦泪踢出直播间1000天#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E5%AE%98%E6%96%B9%E8%A2%AB%E6%A2%A6%E6%B3%AA%E8%B8%A2%E5%87%BA%E7%9B%B4%E6%92%AD%E9%97%B41000%E5%A4%A9%23",

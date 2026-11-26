@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 7860997354
   },
-  "last_seen_at": "2026-11-26T19:00:00+08:00",
+  "last_seen_at": "2026-11-26T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%89%E5%8F%AA%E6%9D%BE%E9%BC%A0%E5%91%98%E5%B7%A5%E5%90%90%E6%A7%BD%E4%BD%8F%E5%AE%BF%E5%83%8F%E6%AF%9B%E5%9D%AF%23%26t%3D3&title=发布媒体",
-    "show_str": "19家媒体",
+    "show_str": "26家媒体",
     "users": [
       {
         "id": 7639071132,
@@ -23,9 +23,23 @@
         "verified_type": 3
       },
       {
+        "id": 7399555658,
+        "idstr": "7399555658",
+        "screen_name": "红星资本局",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7282830801,
         "idstr": "7282830801",
         "screen_name": "一点资讯财经",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6345673059,
+        "idstr": "6345673059",
+        "screen_name": "上游视频",
         "verified": true,
         "verified_type": 3
       },
@@ -49,20 +63,6 @@
         "screen_name": "板扎在线",
         "verified": true,
         "verified_type": 7
-      },
-      {
-        "id": 5652470745,
-        "idstr": "5652470745",
-        "screen_name": "广西都市频道",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5116298586,
-        "idstr": "5116298586",
-        "screen_name": "昆明日报掌上春城",
-        "verified": true,
-        "verified_type": 3
       }
     ]
   },

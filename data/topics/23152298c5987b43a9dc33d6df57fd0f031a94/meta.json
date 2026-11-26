@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 1642512402
   },
-  "last_seen_at": "2026-11-26T19:00:00+08:00",
+  "last_seen_at": "2026-11-26T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%94%9F%E7%88%B6%E5%87%BA%E8%BD%A8%E5%A5%B3%E5%8F%8B%E8%B8%A2%E6%AD%BB%E5%B9%BC%E7%AB%A5%E6%B1%82%E7%94%9F%E6%AF%8D%E8%B0%85%E8%A7%A3%23%26t%3D3&title=发布媒体",
-    "show_str": "41家媒体",
+    "show_str": "45家媒体",
     "users": [
       {
         "id": 1642512402,
         "idstr": "1642512402",
         "screen_name": "中国新闻周刊",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5890672121,
+        "idstr": "5890672121",
+        "screen_name": "搜狐新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -30,9 +44,9 @@
         "verified_type": 3
       },
       {
-        "id": 1751714412,
-        "idstr": "1751714412",
-        "screen_name": "大皖新闻",
+        "id": 1909377960,
+        "idstr": "1909377960",
+        "screen_name": "起点新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 7749823321,
         "idstr": "7749823321",
         "screen_name": "郑在办",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6966062673,
-        "idstr": "6966062673",
-        "screen_name": "大河报邻妹妹",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6928905395,
-        "idstr": "6928905395",
-        "screen_name": "大风视频",
         "verified": true,
         "verified_type": 3
       }
