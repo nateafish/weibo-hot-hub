@@ -3,11 +3,26 @@
   "created_at": 1795649428,
   "first_seen_at": "2026-11-26T08:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-26T09:00:00+08:00",
+  "last_seen_at": "2026-11-26T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23jkl+BLG%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "2家媒体",
+    "users": [
+      {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497418417,
+        "idstr": "1497418417",
+        "screen_name": "掌上温岭",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "jkl BLG",
   "search_url": "https://s.weibo.com/weibo?q=%23jkl%20blg%23",
