@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2803301701
   },
-  "last_seen_at": "2026-11-26T08:00:00+08:00",
+  "last_seen_at": "2026-11-26T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%A5%9E24%E4%B9%98%E7%BB%84%E8%BF%9B%E9%A9%BB%E5%A4%A9%E5%AE%AB%23%26t%3D3&title=发布媒体",
-    "show_str": "43家媒体",
+    "show_str": "55家媒体",
     "users": [
       {
         "id": 2803301701,
@@ -26,6 +26,13 @@
         "id": 5476386628,
         "idstr": "5476386628",
         "screen_name": "侠客岛",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3288875501,
+        "idstr": "3288875501",
+        "screen_name": "河南日报",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
+        "id": 3901624042,
+        "idstr": "3901624042",
+        "screen_name": "山西日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 3599276677,
         "idstr": "3599276677",
         "screen_name": "巴南融媒",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 3288875501,
-        "idstr": "3288875501",
-        "screen_name": "河南日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1960601312,
-        "idstr": "1960601312",
-        "screen_name": "多彩贵州网",
         "verified": true,
         "verified_type": 3
       }
