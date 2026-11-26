@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 6321540324
   },
-  "last_seen_at": "2026-11-26T16:00:00+08:00",
+  "last_seen_at": "2026-11-26T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%99%AE%E4%BA%AC%E6%89%93%E5%8C%85%E6%B7%B1%E5%9C%B3%E7%82%92%E8%8F%9C%E4%B8%8A%E9%A3%9E%E6%9C%BA%23%26t%3D3&title=发布媒体",
-    "show_str": "160家媒体",
+    "show_str": "168家媒体",
     "users": [
       {
         "id": 6321540324,
@@ -26,6 +26,13 @@
         "id": 6115560351,
         "idstr": "6115560351",
         "screen_name": "国是直通车",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2308711425,
+        "idstr": "2308711425",
+        "screen_name": "新疆日报",
         "verified": true,
         "verified_type": 3
       },
@@ -51,16 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2594662033,
-        "idstr": "2594662033",
-        "screen_name": "BRTV纪实科教",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1751714412,
-        "idstr": "1751714412",
-        "screen_name": "大皖新闻",
+        "id": 1651428902,
+        "idstr": "1651428902",
+        "screen_name": "21世纪经济报道",
         "verified": true,
         "verified_type": 3
       }
