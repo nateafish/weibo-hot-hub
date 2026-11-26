@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 7516679696
   },
-  "last_seen_at": "2026-11-26T12:00:00+08:00",
+  "last_seen_at": "2026-11-26T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%94%A1%E7%A3%8A%E5%9B%9E%E5%BA%94%E7%97%85%E6%83%85%E8%BF%9B%E5%85%A5%E7%BB%88%E6%9C%AB%E6%9C%9F%23%26t%3D3&title=发布媒体",
-    "show_str": "17家媒体",
+    "show_str": "23家媒体",
     "users": [
       {
         "id": 7516679696,
         "idstr": "7516679696",
         "screen_name": "九派新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1636678683,
+        "idstr": "1636678683",
+        "screen_name": "长天新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -37,30 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 2460937233,
-        "idstr": "2460937233",
-        "screen_name": "热度新闻",
+        "id": 5396094153,
+        "idstr": "5396094153",
+        "screen_name": "大众新闻-大众日报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2318910945,
-        "idstr": "2318910945",
-        "screen_name": "新浪热点",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2292899701,
-        "idstr": "2292899701",
-        "screen_name": "浪涨新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2208160981,
-        "idstr": "2208160981",
-        "screen_name": "西安新闻网",
+        "id": 3877613768,
+        "idstr": "3877613768",
+        "screen_name": "爱济南发布",
         "verified": true,
         "verified_type": 3
       }

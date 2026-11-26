@@ -3,15 +3,22 @@
   "created_at": 1795661802,
   "first_seen_at": "2026-11-26T12:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-26T12:00:00+08:00",
+  "last_seen_at": "2026-11-26T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%88%91%E5%8F%AB%E9%87%91%E4%B8%89%E9%A1%BA%E6%97%B6%E9%9A%9421%E5%B9%B4%E7%9A%84%E5%94%AE%E5%90%8E%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "2家媒体",
     "users": [
       {
         "id": 2041117703,
         "idstr": "2041117703",
         "screen_name": "合肥日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1723216063,
+        "idstr": "1723216063",
+        "screen_name": "佛山新闻",
         "verified": true,
         "verified_type": 3
       }

@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2620088113
   },
-  "last_seen_at": "2026-11-26T12:00:00+08:00",
+  "last_seen_at": "2026-11-26T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%AE%A9%E7%89%B9%E6%9C%97%E6%99%AE%E5%BF%B5%E5%BF%B5%E4%B8%8D%E5%BF%98%E7%9A%84%E5%B8%BD%E5%AD%90%E8%8F%9C%E7%A0%B4%E6%A1%88%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "34家媒体",
+    "show_str": "50家媒体",
     "users": [
       {
         "id": 2620088113,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1398613133,
         "idstr": "1398613133",
         "screen_name": "马上资讯",
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 7202439638,
-        "idstr": "7202439638",
-        "screen_name": "乐陵融媒",
+        "id": 2685336121,
+        "idstr": "2685336121",
+        "screen_name": "南宁晚报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 3966988353,
-        "idstr": "3966988353",
-        "screen_name": "尤溪县广播电视台",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2996573345,
-        "idstr": "2996573345",
-        "screen_name": "大众网德州",
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
         "verified": true,
         "verified_type": 3
       }

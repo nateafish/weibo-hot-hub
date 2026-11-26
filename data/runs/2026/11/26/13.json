@@ -1,0 +1,537 @@
+{
+  "captured_at": "2026-11-26T13:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 48,
+    "ai_unchanged": 1,
+    "metrics_saved": 50,
+    "posts_saved": 50
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#习近平在深圳的这四个比喻意涵深远#",
+      "rank": 1,
+      "title": "习近平在深圳的这四个比喻意涵深远",
+      "topic_id": "231522471dd680e3e6d03ef3343e7d43267819"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#普京打包深圳炒菜上飞机#",
+      "rank": 1,
+      "title": "普京打包深圳炒菜上飞机",
+      "topic_id": "2315227e215296cb3bf20e101f379aee308214"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#蔡磊已进渐冻症终末期#",
+      "rank": 2,
+      "title": "蔡磊已进渐冻症终末期",
+      "topic_id": "2315228261c81eb850b9de41f8605f291d14b7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#新一代通信网建设实施方案来了#",
+      "rank": 3,
+      "title": "新一代通信网建设实施方案来了",
+      "topic_id": "2315226b62a090bd580a329c56f52476d07b09"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "画地为牢终于来了",
+      "rank": 4,
+      "title": "画地为牢终于来了",
+      "topic_id": "2315229bb1708791f7f2abdc61d54ad6cefec2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "厉娜给许飞擦眼泪说我陪着你",
+      "rank": 5,
+      "title": "厉娜给许飞擦眼泪说我陪着你",
+      "topic_id": "2315222a2310ec7b4480571f45b97979a58a17"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#男子花700万买房搜到诅咒孩子WiFi名#",
+      "rank": 6,
+      "title": "男子花700万买房搜到诅咒孩子WiFi名",
+      "topic_id": "231522d519d0a3c387f4b30876f46384cf5398"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "后会友期",
+      "rank": 7,
+      "title": "后会友期",
+      "topic_id": "2315222d57e8bbcff64f0c2538dbae559383ad"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#蔡磊融资失败妻子放弃事业全职直播#",
+      "rank": 8,
+      "title": "蔡磊融资失败妻子放弃事业全职直播",
+      "topic_id": "231522721ca771f9b1b336f3233b4885e1ddf9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女孩景区同一位置晕倒3次后报警#",
+      "rank": 9,
+      "title": "女孩景区同一位置晕倒3次后报警",
+      "topic_id": "231522053a0e4f1d9c4d26f69be4b9e69b7352"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#雷军现身新浪总部#",
+      "rank": 10,
+      "title": "雷军现身新浪总部",
+      "topic_id": "2315221cf199820cb2719bf413a9c93db7f3bb"
+    },
+    {
+      "ai": "pending",
+      "metrics": "failed",
+      "metrics_error": "TopicFetchError: Topic detail is missing a stable id or title",
+      "posts": "pending",
+      "query": "安踏",
+      "rank": 11,
+      "title": "安踏"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#网友抵制王玉雯代言皮草#",
+      "rank": 12,
+      "title": "网友抵制王玉雯代言皮草",
+      "topic_id": "2315223875fc9ea82028b4c07c6ca852897652"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#让特朗普念念不忘的帽子菜破案了#",
+      "rank": 13,
+      "title": "让特朗普念念不忘的帽子菜破案了",
+      "topic_id": "2315220d0f031ec44bc2735ed3ae631fbdbe19"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#律师谈梓渝隐私泄露者视频道歉#",
+      "rank": 14,
+      "title": "律师谈梓渝隐私泄露者视频道歉",
+      "topic_id": "2315224cf276bf12ee70523d425f37862f4307"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#徐若晗方声明#",
+      "rank": 15,
+      "title": "徐若晗方声明",
+      "topic_id": "2315228699104d562aa0ca04ca6eb3005defee"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#青稚安慰天霸老板#",
+      "rank": 16,
+      "title": "青稚安慰天霸老板",
+      "topic_id": "2315220cb3c2db36dabc5445bf4bf03ac1b1d5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "蔡磊用不上团队研发药",
+      "rank": 17,
+      "title": "蔡磊用不上团队研发药",
+      "topic_id": "231522e385ea1d1d090f39586c2fe3d9706898"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#婚检发现同居多年男友是女的#",
+      "rank": 18,
+      "title": "婚检发现同居多年男友是女的",
+      "topic_id": "2315223122fb38a2807a19066b4d4a56a85439"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "王子璇文吉儿镜头",
+      "rank": 19,
+      "title": "王子璇文吉儿镜头",
+      "topic_id": "2315227d04f311bbca613884cb9c78613de8a8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "梁文锋的人生简直是开挂了",
+      "rank": 20,
+      "title": "梁文锋的人生简直是开挂了",
+      "topic_id": "231522c702d0244a5faf8a5a6b4541fc79c9f6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#2026电影贺岁档来了#",
+      "rank": 21,
+      "title": "2026电影贺岁档来了",
+      "topic_id": "231522ce4f615ac55752f0ddcb5d76ca66364e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#蔡磊妻子算账揭露渐冻症经济困局#",
+      "rank": 22,
+      "title": "蔡磊妻子算账揭露渐冻症经济困局",
+      "topic_id": "231522a270a54fd404d28fa21a988cd0a5c0f6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "胡海泉辟谣炒股亏了近1个亿",
+      "rank": 23,
+      "title": "胡海泉辟谣炒股亏了近1个亿",
+      "topic_id": "231522ae677704a5b12318d4b7f847211b9d1b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "A股",
+      "rank": 24,
+      "title": "A股",
+      "topic_id": "2315229ff55ef4a3e846e498a336fdeb06cbdb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#陈赫带女儿去买猫被张子萱训了#",
+      "rank": 25,
+      "title": "陈赫带女儿去买猫被张子萱训了",
+      "topic_id": "23152261fd57d766db0ee5c37457497ee00270"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "郭子睿 子承父业",
+      "rank": 26,
+      "title": "郭子睿 子承父业",
+      "topic_id": "23152253c5c6a315050bf50e8c9e22f29d68d0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#马天宇想分遗产的朋友是谁#",
+      "rank": 27,
+      "title": "马天宇想分遗产的朋友是谁",
+      "topic_id": "231522bd9aaa709999fbee97f00bd8543c4324"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#田曦薇参加嫁金钗研讨会#",
+      "rank": 28,
+      "title": "田曦薇参加嫁金钗研讨会",
+      "topic_id": "23152264f74777ed1313793b814f6d9fe9887b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#蔡磊回应病情进入终末期#",
+      "rank": 29,
+      "title": "蔡磊回应病情进入终末期",
+      "topic_id": "2315222ec8a0a2ce2a567bf14f724a7fd25dea"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#巴基斯坦观众看神24直播沸腾了#",
+      "rank": 30,
+      "title": "巴基斯坦观众看神24直播沸腾了",
+      "topic_id": "231522967027c9d368853535be9edf787e44d7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#后会友期下一期是白小纯青稚夏决#",
+      "rank": 31,
+      "title": "后会友期下一期是白小纯青稚夏决",
+      "topic_id": "23152264641d18a58c061dd9e3d18a3a72b4e2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#肖战戴oura戒指#",
+      "rank": 32,
+      "title": "肖战戴oura戒指",
+      "topic_id": "23152275c242746ca756367957a1ffccbc6f60"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "杜兰特33000分历史第五",
+      "rank": 33,
+      "title": "杜兰特33000分历史第五",
+      "topic_id": "231522eb424a234e506f50584636cf2d5a8934"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "员工面试称不婚入职后怀孕",
+      "rank": 34,
+      "title": "员工面试称不婚入职后怀孕",
+      "topic_id": "23152274ccb50a4bcee07a1d574d106b02c5c8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#女儿扑进怀里朱珠就从明星变母亲了#",
+      "rank": 35,
+      "title": "女儿扑进怀里朱珠就从明星变母亲了",
+      "topic_id": "23152234acd6d54ef079f6a3872a27b310bcd8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#贝儿腿长和普通人比简直降维打击#",
+      "rank": 36,
+      "title": "贝儿腿长和普通人比简直降维打击",
+      "topic_id": "231522a39738e0a95047e18ed2357e8ab7078c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#Bin谈BLG新AD#",
+      "rank": 37,
+      "title": "Bin谈BLG新AD",
+      "topic_id": "23152264175f91464b8cc99bae6de2d3b1fbdd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "烂牙根没拔竟拖成口腔癌",
+      "rank": 38,
+      "title": "烂牙根没拔竟拖成口腔癌",
+      "topic_id": "2315220b2b0de9f5dbbfaf3c1d569f5d41e6c7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "问界M9电机",
+      "rank": 39,
+      "title": "问界M9电机",
+      "topic_id": "231522d26c257e0b56adc19a8bf9f88dcf99e6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "尼克斯VS骑士",
+      "rank": 40,
+      "title": "尼克斯VS骑士",
+      "topic_id": "231522ef5b0df9ada4814ba8791865eaaa4dbf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#食欲到底是被什么控制的#",
+      "rank": 41,
+      "title": "食欲到底是被什么控制的",
+      "topic_id": "23152261b722b9af5d3fc4d869cf34aaec72ce"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#两京十五日也要开研讨会了#",
+      "rank": 42,
+      "title": "两京十五日也要开研讨会了",
+      "topic_id": "231522ff541b52c3a3a0bfae9a4a8d1f36ff03"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "无领导小组讨论淘汰老实人合理吗",
+      "rank": 43,
+      "title": "无领导小组讨论淘汰老实人合理吗",
+      "topic_id": "231522627b3fdc0b9ece18e4916489d66e2bc0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "jkl BLG",
+      "rank": 44,
+      "title": "jkl BLG",
+      "topic_id": "231522b3e31ec11c17c5bd2f70d6280b3cac73"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#蔡磊很抱歉病情让妻子经常情绪失控#",
+      "rank": 45,
+      "title": "蔡磊很抱歉病情让妻子经常情绪失控",
+      "topic_id": "2315225cd6f70afff8f6c1d2138dc4186e954d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#蔡磊妻子哭着说他发病那年我才29#",
+      "rank": 46,
+      "title": "蔡磊妻子哭着说他发病那年我才29",
+      "topic_id": "23152215f08d8f49004d084a6e48439f8eff09"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "我叫金三顺时隔21年的售后",
+      "rank": 47,
+      "title": "我叫金三顺时隔21年的售后",
+      "topic_id": "23152259e46a77f3fb35fafbb3a014603355e0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "网传安踏员工泰国被拐缅甸",
+      "rank": 48,
+      "title": "网传安踏员工泰国被拐缅甸",
+      "topic_id": "2315221b428e0f8a4a66b1935c7926c29f637a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#众球星谈詹姆斯三双#",
+      "rank": 49,
+      "title": "众球星谈詹姆斯三双",
+      "topic_id": "231522ccb293ba24f962eb1df43c1fc5149a91"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "美术生不是被AI干掉的",
+      "rank": 50,
+      "title": "美术生不是被AI干掉的",
+      "topic_id": "231522633902536a4a07df70b306e419120b0c"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 0.9803921568627451,
+      "metrics": 0.9803921568627451,
+      "posts": 0.9803921568627451
+    }
+  }
+}
