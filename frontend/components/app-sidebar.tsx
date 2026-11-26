@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Archive, CalendarRange, Flame, Github, Info, Library, Monitor, Moon, Sun } from "lucide-react";
+import { Archive, CalendarRange, Flame, Github, Info, Library, LockKeyhole, Monitor, Moon, Sun } from "lucide-react";
 import { useEffect, useState } from "react";
 import {
   Sidebar,
@@ -25,6 +25,7 @@ const links = [
   { href: "/archive/", label: "历史归档", icon: Archive },
   { href: "/topics/", label: "话题档案", icon: Library },
   { href: "/events/", label: "事件档案", icon: CalendarRange },
+  { href: "/review/", label: "核查", icon: LockKeyhole },
   { href: "/about/", label: "关于项目", icon: Info },
 ];
 
