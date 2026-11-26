@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 1642634100
   },
-  "last_seen_at": "2026-11-26T20:00:00+08:00",
+  "last_seen_at": "2026-11-26T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%A9%AC%E4%BA%91%E7%8E%B0%E8%BA%AB%E5%B9%B3%E5%A4%B4%E5%93%A5%E5%8A%9E%E5%85%AC%E5%8C%BA%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "13家媒体",
     "users": [
       {
         "id": 1642634100,
         "idstr": "1642634100",
         "screen_name": "新浪科技",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -44,16 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 1941424392,
-        "idstr": "1941424392",
-        "screen_name": "台州晚报",
+        "id": 2535760180,
+        "idstr": "2535760180",
+        "screen_name": "安徽视讯",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1036713140,
-        "idstr": "1036713140",
-        "screen_name": "杭州网",
+        "id": 2292896411,
+        "idstr": "2292896411",
+        "screen_name": "中工网",
         "verified": true,
         "verified_type": 3
       }
