@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1790550774
   },
-  "last_seen_at": "2026-11-27T00:00:00+08:00",
+  "last_seen_at": "2026-11-27T01:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%AE%B8%E9%A3%9E%E5%8F%A3%E7%A2%91%23%26t%3D3&title=发布媒体",
-    "show_str": "18家媒体",
+    "show_str": "19家媒体",
     "users": [
       {
         "id": 2356298087,
@@ -26,6 +26,13 @@
         "id": 1887790981,
         "idstr": "1887790981",
         "screen_name": "广州日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6407391835,
+        "idstr": "6407391835",
+        "screen_name": "星月对话",
         "verified": true,
         "verified_type": 3
       },
@@ -54,13 +61,6 @@
         "id": 2647971081,
         "idstr": "2647971081",
         "screen_name": "时速新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2535760180,
-        "idstr": "2535760180",
-        "screen_name": "安徽视讯",
         "verified": true,
         "verified_type": 3
       }
