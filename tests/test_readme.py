@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from weibo_hot_hub.readme import render_cookie_status, render_hotlist, sort_topics_by_heat
+from weibo_hot_hub.readme import render_cookie_status, render_hotlist, sort_topics_by_heat, update_readme
 
 
 def test_cookie_status_shows_both_sessions() -> None:
@@ -51,3 +51,18 @@ def test_hotlist_table_has_archive_and_formatted_heat() -> None:
     assert "今日微博热搜（2026-08-12）" in result
     assert "123,456" in result
     assert "[本次 JSON](<data/hotlists/2026/08/12/21.json>)" in result
+
+
+def test_static_readme_keeps_badges_without_archive_data(tmp_path) -> None:
+    source = (
+        "# weibo-hot-hub\n\n"
+        "微博热搜榜单与话题存档。\n\n"
+        "[![状态](https://github.com/nateafish/weibo-hot-hub/actions/workflows/hourly.yml/badge.svg)]"
+        "(https://github.com/nateafish/weibo-hot-hub/actions/workflows/hourly.yml)\n"
+    )
+    readme_path = tmp_path / "README.md"
+    readme_path.write_text(source, encoding="utf-8")
+
+    update_readme(tmp_path / "data", readme_path)
+
+    assert readme_path.read_text(encoding="utf-8") == source

@@ -106,6 +106,8 @@ def latest_hotlist(data_root: Path) -> tuple[Path, dict[str, Any]]:
 
 def update_readme(data_root: Path, readme_path: Path) -> None:
     source = readme_path.read_text(encoding="utf-8")
+    if not any(marker in source for marker in (COOKIE_BEGIN, COOKIE_END, HOTLIST_BEGIN, HOTLIST_END)):
+        return
     state = _load_json(data_root / "state" / "cookies.json")
     hotlist_path, snapshot = latest_hotlist(data_root)
     try:
