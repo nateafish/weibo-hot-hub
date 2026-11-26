@@ -1,0 +1,17 @@
+{
+  "account": {
+    "badge": "黄V",
+    "observed_at": "2026-11-26T08:25:51+08:00",
+    "source": "mobile_user",
+    "verified": true,
+    "verified_reason": "科技博主",
+    "verified_type": 0,
+    "verified_type_ext": 0
+  },
+  "body": "#华为自研HBM内存方案#\n华为这篇ISSCC论文最狠的地方，不是4096bit位宽翻倍，而是压根不跟HBM4的TSV路线玩了。直接上5层晶圆混合键合，把内存控制器塞进堆叠里，等于绕开了海外专利和供应链。\n昇腾950DT已经用上4TB/s的自研HBM，960明年Q1冲9.6TB/s，单卡带宽真要反超英伟达B300。\n但别急着吹，混合键合良率、散热、成本全是硬骨头，论文到量产中间还隔着一条河。\n不过方向对了，HBM这个“氧气瓶”，总算不用全指望别人拧阀门了。",
+  "created_at_text": "Thu Nov 26 08:24:43 +0800 2026",
+  "mid": "5369418880124232",
+  "uid": "2142100524",
+  "url": "https://m.weibo.cn/detail/5369418880124232",
+  "username": "破圈E君"
+}

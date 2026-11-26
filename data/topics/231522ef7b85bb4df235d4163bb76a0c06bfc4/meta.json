@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 2286908003
   },
-  "last_seen_at": "2026-11-26T07:00:00+08:00",
+  "last_seen_at": "2026-11-26T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A4%A9%E5%86%B7%E4%BA%86%E6%9D%A5%E7%A2%97%E8%8B%B9%E6%9E%9C%E7%82%96%E5%A5%B6%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "9家媒体",
     "users": [
       {
         "id": 2286908003,
         "idstr": "2286908003",
         "screen_name": "人民网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1653603955,
+        "idstr": "1653603955",
+        "screen_name": "扬子晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1403842922,
+        "idstr": "1403842922",
+        "screen_name": "琅琊新闻网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6900707866,
+        "idstr": "6900707866",
+        "screen_name": "宜黄之窗",
         "verified": true,
         "verified_type": 3
       },
@@ -37,16 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 2208160981,
-        "idstr": "2208160981",
-        "screen_name": "西安新闻网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1653603955,
-        "idstr": "1653603955",
-        "screen_name": "扬子晚报",
+        "id": 2360016402,
+        "idstr": "2360016402",
+        "screen_name": "宁波日报",
         "verified": true,
         "verified_type": 3
       }
