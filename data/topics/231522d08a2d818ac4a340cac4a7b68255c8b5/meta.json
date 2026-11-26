@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 6365990425
   },
-  "last_seen_at": "2026-11-26T18:00:00+08:00",
+  "last_seen_at": "2026-11-26T19:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%AD%8F%E5%BB%BA%E5%86%9B%E7%A7%B0%E5%BE%88%E5%A4%9A%E8%BD%A6%E4%BC%81%E4%BA%8F%E6%8D%9F%E5%8D%96%E8%BD%A6%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "4家媒体",
     "users": [
+      {
+        "id": 1651428902,
+        "idstr": "1651428902",
+        "screen_name": "21世纪经济报道",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 6365990425,
         "idstr": "6365990425",
         "screen_name": "大河财立方",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2026044661,
+        "idstr": "2026044661",
+        "screen_name": "海量财经",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1887344341,
+        "idstr": "1887344341",
+        "screen_name": "观察者网",
         "verified": true,
         "verified_type": 3
       }

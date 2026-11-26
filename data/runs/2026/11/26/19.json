@@ -1,0 +1,537 @@
+{
+  "captured_at": "2026-11-26T19:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 47,
+    "ai_unchanged": 2,
+    "metrics_saved": 50,
+    "posts_saved": 50
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#治党务必从严从严必依法度#",
+      "rank": 1,
+      "title": "治党务必从严从严必依法度",
+      "topic_id": "231522168626589bcb01ada4c486bc8714c206"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#被AI融脸后永远删不干净#",
+      "rank": 1,
+      "title": "被AI融脸后永远删不干净",
+      "topic_id": "2315221cf29bc813cfeede31bb335e92e06e8d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#中国六座城市跻身世界一线#",
+      "rank": 2,
+      "title": "中国六座城市跻身世界一线",
+      "topic_id": "2315223b48a0bcf4edea2a8864e8e5b1e0c16a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#2026世界市长对话乌鲁木齐#",
+      "rank": 3,
+      "title": "2026世界市长对话乌鲁木齐",
+      "topic_id": "231522195a255db62f51255e48f7ba59a65775"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#蔡赴朝被开除党籍#",
+      "rank": 4,
+      "title": "蔡赴朝被开除党籍",
+      "topic_id": "231522326d7ff1db120e1a992a9858679c850c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#妻子说蔡磊做的事对家庭是毁灭的#",
+      "rank": 5,
+      "title": "妻子说蔡磊做的事对家庭是毁灭的",
+      "topic_id": "2315228be949cff4c0c25a2e25c91db01ba22b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "画地为牢正片播成军事频道",
+      "rank": 6,
+      "title": "画地为牢正片播成军事频道",
+      "topic_id": "231522b2afa463ca1d41d3f4ddb1c058ae3877"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#秦岭遇难驴友家属起诉救援队#",
+      "rank": 7,
+      "title": "秦岭遇难驴友家属起诉救援队",
+      "topic_id": "2315227deec0dd29d134a41a662e6aeb75b97c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "为什么要用分开惩罚小孩",
+      "rank": 8,
+      "title": "为什么要用分开惩罚小孩",
+      "topic_id": "23152247300985dbd26018355d2b6ff923504e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "我妈打电话从不问我身体怎么样",
+      "rank": 9,
+      "title": "我妈打电话从不问我身体怎么样",
+      "topic_id": "2315222ec8cca8762817f416abed5755690fed"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#魏建军称很多车企亏损卖车#",
+      "rank": 10,
+      "title": "魏建军称很多车企亏损卖车",
+      "topic_id": "231522d08a2d818ac4a340cac4a7b68255c8b5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#许飞回避了厉娜最关键的一句话#",
+      "rank": 11,
+      "title": "许飞回避了厉娜最关键的一句话",
+      "topic_id": "2315220b3cc3ee0b9148b890bf4eb354c9818c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#终于知道陈赫为什么会爱上张子萱了#",
+      "rank": 12,
+      "title": "终于知道陈赫为什么会爱上张子萱了",
+      "topic_id": "231522756dbb0fea8c28099f5283f7575ffa38"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#生父出轨女友踢死幼童求生母谅解#",
+      "rank": 13,
+      "title": "生父出轨女友踢死幼童求生母谅解",
+      "topic_id": "23152298c5987b43a9dc33d6df57fd0f031a94"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "王楚然 美成这种程度的我只想下跪",
+      "rank": 14,
+      "title": "王楚然 美成这种程度的我只想下跪",
+      "topic_id": "2315225f2d80fd6441dd4c250adc58bf9b7fe6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#向华强不允许女儿来见他#",
+      "rank": 15,
+      "title": "向华强不允许女儿来见他",
+      "topic_id": "231522ae3c9dabfd564b6c9d9e81a71a107334"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#厉娜痛恨告密者也不愿成为告密者#",
+      "rank": 16,
+      "title": "厉娜痛恨告密者也不愿成为告密者",
+      "topic_id": "23152297b0e7faf088e7cca292c93f61129e3c"
+    },
+    {
+      "ai": "pending",
+      "metrics": "failed",
+      "metrics_error": "TopicFetchError: Topic detail is missing a stable id or title",
+      "posts": "pending",
+      "query": "#普京深圳住的总统套房17万一晚#",
+      "rank": 17,
+      "title": "普京深圳住的总统套房17万一晚"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#陈赫对张子萱生理性喜欢#",
+      "rank": 18,
+      "title": "陈赫对张子萱生理性喜欢",
+      "topic_id": "231522fe73199f1360f75a9b0fb9d69380c1e0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#杨紫ELLE12月刊封面预告#",
+      "rank": 19,
+      "title": "杨紫ELLE12月刊封面预告",
+      "topic_id": "231522b35e25bdacac5186a766ea5cf422316a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "日本40层大楼拆除居民未察觉",
+      "rank": 20,
+      "title": "日本40层大楼拆除居民未察觉",
+      "topic_id": "2315220cfd591fff9269cf610cc74de1ebed83"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "许飞 社会性清白",
+      "rank": 21,
+      "title": "许飞 社会性清白",
+      "topic_id": "2315221e3b56e55f1600f75841f368657b168d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "广州车展",
+      "rank": 22,
+      "title": "广州车展",
+      "topic_id": "231522168837a2b4d284175f110ec96eea3363"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#文吉儿0镜头原因#",
+      "rank": 23,
+      "title": "文吉儿0镜头原因",
+      "topic_id": "23152274e568e4df1e9c23fe28ce96dbfb0996"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "卖烤肠太松弛被当走失傻子",
+      "rank": 24,
+      "title": "卖烤肠太松弛被当走失傻子",
+      "topic_id": "23152238b9f335cbff652ffd63ae11205a2357"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "后会友期才播到第8天",
+      "rank": 25,
+      "title": "后会友期才播到第8天",
+      "topic_id": "231522f690be9011b0dc362a204ed7a12b87c7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#油价27日起下调#",
+      "rank": 26,
+      "title": "油价27日起下调",
+      "topic_id": "2315226b8bf39e1f493fd7dd4c830e3ee06db2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 7,
+      "posts": "saved",
+      "query": "#许家印被公开谴责#",
+      "rank": 27,
+      "title": "许家印被公开谴责",
+      "topic_id": "2315227ec70613d39c625ba76cd84e1d5ba260"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#拼多多花500多元买的真皮包贵吗#",
+      "rank": 28,
+      "title": "拼多多花500多元买的真皮包贵吗",
+      "topic_id": "231522d0038129ba924a6492b9d5ea7dc64919"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曝BLG挽留Daeny#",
+      "rank": 29,
+      "title": "曝BLG挽留Daeny",
+      "topic_id": "2315228cf3c07e3b243996a172cdad0d892d0f"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "祖坟冒青烟也有累的时候",
+      "rank": 30,
+      "title": "祖坟冒青烟也有累的时候",
+      "topic_id": "23152274926007846f04f618ae22726ca5cfb5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#王者官方被梦泪踢出直播间1000天#",
+      "rank": 31,
+      "title": "王者官方被梦泪踢出直播间1000天",
+      "topic_id": "2315228cc8cee89dea408e8a18607934bcddb7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#马云现身平头哥办公区#",
+      "rank": 32,
+      "title": "马云现身平头哥办公区",
+      "topic_id": "231522f24770f9acccd2f48815dc6995ff0c8b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#国家队加仓A股公司名单#",
+      "rank": 33,
+      "title": "国家队加仓A股公司名单",
+      "topic_id": "231522aeb03e014a01a9257c51d9f5c353e123"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "人到中年爱好就开始离谱了",
+      "rank": 34,
+      "title": "人到中年爱好就开始离谱了",
+      "topic_id": "231522428f50cdcf8e8c9dd4567d60f6d8a8fa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#梓渝演唱会澳门站战报#",
+      "rank": 35,
+      "title": "梓渝演唱会澳门站战报",
+      "topic_id": "231522d4e5fb401c3fafa0cb4e08c26fd1dca6"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "文吉儿王子璇删减预告大合集",
+      "rank": 36,
+      "title": "文吉儿王子璇删减预告大合集",
+      "topic_id": "231522286d42edd7c3feeb1a838a838cac5c82"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#爆料人称BLG管理层没有深入聊过JKL#",
+      "rank": 37,
+      "title": "爆料人称BLG管理层没有深入聊过JKL",
+      "topic_id": "231522e7a9adfcb3dd6468e4e421226f38936e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "画地为牢 错位",
+      "rank": 38,
+      "title": "画地为牢 错位",
+      "topic_id": "231522eb2cb7485b5d9b38eb1be984feff3fe4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#姜妍包馄饨速度堪比我煮方便面#",
+      "rank": 39,
+      "title": "姜妍包馄饨速度堪比我煮方便面",
+      "topic_id": "231522610320c2add679c9ae21becfea51bf0c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "后会友期周笔畅 预言家被刀",
+      "rank": 40,
+      "title": "后会友期周笔畅 预言家被刀",
+      "topic_id": "2315229d248faa26c0fd247e4eb846c0d8decb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#董明珠魏建军痛斥恶意挖人#",
+      "rank": 41,
+      "title": "董明珠魏建军痛斥恶意挖人",
+      "topic_id": "231522aead4fc460b3dc331d8e4d7b98a0cabf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "全球死考 烧脑",
+      "rank": 42,
+      "title": "全球死考 烧脑",
+      "topic_id": "231522eb1a903bc916661262e3b763cb74be27"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "烂牙根长期刺激有癌变风险",
+      "rank": 43,
+      "title": "烂牙根长期刺激有癌变风险",
+      "topic_id": "23152284e5d88d5319766fa4d5a26191d96c2c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#SpaceX官宣儿童赠股计划#",
+      "rank": 44,
+      "title": "SpaceX官宣儿童赠股计划",
+      "topic_id": "231522476c57a12f69e98ad84104afc3e0ee76"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "为什么中国人格外尊重老师",
+      "rank": 45,
+      "title": "为什么中国人格外尊重老师",
+      "topic_id": "2315221dfe5998752fe3febec17bb5417ee9b7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#三只松鼠员工吐槽住宿像毛坯#",
+      "rank": 46,
+      "title": "三只松鼠员工吐槽住宿像毛坯",
+      "topic_id": "23152241b40b047b9290402a132c2d4dfaac81"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#女子晒卡地亚项链背景是板房引争议#",
+      "rank": 47,
+      "title": "女子晒卡地亚项链背景是板房引争议",
+      "topic_id": "231522c668971f8249f9e4f46cee81fb6ec5e2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#巴黎世家全球巡展登陆上海#",
+      "rank": 48,
+      "title": "巴黎世家全球巡展登陆上海",
+      "topic_id": "231522a3732b19e42e41c70f6aef7342dceaed"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "养父母卖房供子留学却寒心",
+      "rank": 49,
+      "title": "养父母卖房供子留学却寒心",
+      "topic_id": "231522f9205b3cc299a1c132e7414ffded883e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#为什么吃了退烧药还会再发烧#",
+      "rank": 50,
+      "title": "为什么吃了退烧药还会再发烧",
+      "topic_id": "23152253dfb1158257942c0d6a9a349f06128a"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 0.9803921568627451,
+      "metrics": 0.9803921568627451,
+      "posts": 0.9803921568627451
+    }
+  }
+}
