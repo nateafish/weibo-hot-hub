@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 7399555658
   },
-  "last_seen_at": "2026-11-26T22:00:00+08:00",
+  "last_seen_at": "2026-11-26T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8D%8E%E4%B8%BA%E9%95%BF%E9%91%AB%E5%B0%86%E4%B8%8E%E4%B8%89%E6%98%9F%E6%B5%B7%E5%8A%9B%E5%A3%AB%E6%AD%A3%E9%9D%A2%E4%BA%A4%E9%94%8B%23%26t%3D3&title=发布媒体",
-    "show_str": "4家媒体",
+    "show_str": "5家媒体",
     "users": [
       {
         "id": 7399555658,
@@ -40,6 +40,13 @@
         "id": 1896114354,
         "idstr": "1896114354",
         "screen_name": "成都商报时尚商业",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1767961804,
+        "idstr": "1767961804",
+        "screen_name": "大江新闻",
         "verified": true,
         "verified_type": 3
       }
