@@ -1,5 +1,5 @@
 import json
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -7,6 +7,24 @@ from weibo_hot_hub.site_export import export_site_data
 
 
 NOW = datetime(2026, 8, 12, 23, 0, tzinfo=ZoneInfo("Asia/Shanghai"))
+
+
+def test_recent_topic_pack_is_small_and_keeps_full_history_available(tmp_path: Path) -> None:
+    data, out = tmp_path / "data", tmp_path / "out"
+    for index in range(301):
+        topic_id = f"t{index:03}"
+        write_json(data / f"topics/{topic_id}/meta.json", {
+            "topic_id": topic_id, "title": f"话题{index}",
+            "last_seen_at": (NOW + timedelta(hours=index)).isoformat(),
+        })
+    export_site_data(data, out, generated_at=NOW)
+    recent = json.loads((out / "topics/recent.json").read_text())
+    full = json.loads((out / "topics/index.json").read_text())
+    assert recent["total"] == len(full) == 301
+    assert len(recent["topics"]) == 300
+    assert recent["topics"][0]["topic_id"] == "t300"
+    assert recent["topics"][-1]["topic_id"] == "t001"
+    assert any(topic["topic_id"] == "t000" for topic in full)
 
 
 def write_json(path: Path, value: object) -> None:

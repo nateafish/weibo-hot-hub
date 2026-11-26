@@ -1,10 +1,11 @@
 "use client";
 
 import { Clock3, Search } from "lucide-react";
+import dynamic from "next/dynamic";
 import { useEffect, useMemo, useState } from "react";
 import { HotlistTable } from "@/components/hotlist-table";
 import { PageHeader } from "@/components/page-header";
-import { TopicSheet, type TopicSelection } from "@/components/topic-sheet";
+import type { TopicSelection } from "@/components/topic-sheet";
 import { Input } from "@/components/ui/input";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
@@ -13,6 +14,8 @@ import { filterHotlist, formatDateTime, sortByHeat } from "@/lib/format";
 import type { DailyEntry, DayBundle, HotlistEntry, SiteManifest } from "@/lib/types";
 import { Button } from "@/components/ui/button";
 import { ErrorState } from "@/components/app-state";
+
+const TopicSheet = dynamic(() => import("@/components/topic-sheet").then((module) => module.TopicSheet), { ssr: false });
 
 export function HomeDashboard() {
   const [manifest, setManifest] = useState<SiteManifest | null>(null);
@@ -39,6 +42,6 @@ export function HomeDashboard() {
         <TabsContent value="daily"><p className="mb-3 text-xs text-muted-foreground">按当天出现过的最高热度排序；同时保留最佳名次和出现小时数。</p><HotlistTable entries={dailyEntries as DailyEntry[]} daily onSelect={setSelected} /></TabsContent>
       </Tabs>
     </>}
-    <TopicSheet selected={selected} onClose={() => setSelected(null)} />
+    {selected && <TopicSheet selected={selected} onClose={() => setSelected(null)} />}
   </div>;
 }

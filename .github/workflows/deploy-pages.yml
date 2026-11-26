@@ -8,6 +8,7 @@ on:
       - "frontend/**"
       - "src/weibo_hot_hub/site_export.py"
       - "pyproject.toml"
+      - "scripts/build-static-frontend"
       - ".github/workflows/deploy-pages.yml"
   workflow_dispatch:
 
@@ -18,7 +19,7 @@ permissions:
 
 concurrency:
   group: github-pages
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   deploy:
@@ -26,7 +27,7 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
         with:
@@ -56,7 +57,7 @@ jobs:
           pnpm --dir frontend test
           pnpm --dir frontend typecheck
       - name: Build static Pages artifact
-        run: pnpm --dir frontend build
+        run: bash scripts/build-static-frontend
       - uses: actions/configure-pages@v5
         with:
           enablement: true

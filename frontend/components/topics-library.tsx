@@ -1,22 +1,24 @@
 "use client";
 
 import { Bot, FileText, ListFilter, Search } from "lucide-react";
+import dynamic from "next/dynamic";
 import { useWindowVirtualizer } from "@tanstack/react-virtual";
 import { Popover } from "radix-ui";
 import { useCallback, useEffect, useId, useLayoutEffect, useMemo, useRef, useState } from "react";
 import { EmptyState, ErrorState } from "@/components/app-state";
 import { PageHeader } from "@/components/page-header";
-import { TopicSheet, type TopicSelection } from "@/components/topic-sheet";
+import type { TopicSelection } from "@/components/topic-sheet";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
-import { loadTopics } from "@/lib/data";
+import { loadRecentTopics, loadTopics } from "@/lib/data";
 import { formatDateTime, formatNumber } from "@/lib/format";
 import type { TopicIndexItem } from "@/lib/types";
 
 const unclassified = "未分类";
+const TopicSheet = dynamic(() => import("@/components/topic-sheet").then((module) => module.TopicSheet), { ssr: false });
 const emptyFilters = { startDate: "", endDate: "", minHours: "", maxHours: "", category: "" };
 type TopicFilters = typeof emptyFilters;
 
@@ -191,12 +193,32 @@ function TopicGrid({ topics, onSelect }: { topics: TopicIndexItem[]; onSelect: (
 
 export function TopicsLibrary() {
   const [topics, setTopics] = useState<TopicIndexItem[]>([]);
+  const [total, setTotal] = useState(0);
+  const [partial, setPartial] = useState(false);
+  const [reload, setReload] = useState(0);
   const [query, setQuery] = useState("");
   const [filters, setFilters] = useState<TopicFilters>(emptyFilters);
   const [sort, setSort] = useState<"time" | "heat-desc" | "heat-asc">("time");
   const [selected, setSelected] = useState<TopicSelection | null>(null);
   const [error, setError] = useState("");
-  useEffect(() => { loadTopics().then(setTopics).catch((reason: Error) => setError(reason.message)); }, []);
+  useEffect(() => {
+    let active = true;
+    setError("");
+    async function load() {
+      try {
+        const recent = await loadRecentTopics();
+        if (active) { setTopics(recent.topics); setTotal(recent.total); setPartial(true); }
+      } catch { /* Older exports have no recent pack; retain the full-history fallback. */ }
+      try {
+        const all = await loadTopics();
+        if (active) { setTopics(all); setTotal(all.length); setPartial(false); }
+      } catch (reason) {
+        if (active) setError(reason instanceof Error ? reason.message : "历史话题暂时无法载入");
+      }
+    }
+    void load();
+    return () => { active = false; };
+  }, [reload]);
   const indexed = useMemo(() => topics.map((topic) => {
     const category = topic.category || unclassified;
     return {
@@ -233,7 +255,7 @@ export function TopicsLibrary() {
   }, [sorted, query, filters]);
   const activeCount = Number(Boolean(filters.startDate || filters.endDate))
     + Number(Boolean(filters.minHours || filters.maxHours)) + Number(Boolean(filters.category));
-  const topicCount = activeCount || query.trim()
+  const topicCount = partial ? `${formatNumber(topics.length)} / ${formatNumber(total)} 个话题已载入` : activeCount || query.trim()
     ? `${formatNumber(filtered.length)} / ${formatNumber(topics.length)} 个话题`
     : `${formatNumber(topics.length)} 个话题`;
   return <div className="page">
@@ -254,9 +276,10 @@ export function TopicsLibrary() {
       </Select>
       <TopicFilterPopover filters={filters} categories={categories} activeCount={activeCount} onApply={setFilters} />
     </div>
-    {error ? <ErrorState message={error} /> : !topics.length ? <div className="loading-block h-80" /> :
-      !filtered.length ? <EmptyState title="没有符合条件的话题档案" description="试试调整筛选条件或搜索词。" /> :
+    {partial && <p role="status" className="mt-4 text-sm text-muted-foreground">{error ? "完整历史暂未载入，当前仅展示近期话题。" : "先显示近期话题，完整历史正在后台载入；搜索结果会继续更新。"}{error && <Button variant="link" onClick={() => setReload(reload + 1)}>重新载入历史</Button>}</p>}
+    {error && !topics.length ? <ErrorState message={error} /> : !topics.length ? <div className="loading-block h-80" /> :
+      !filtered.length && partial ? <p role="status" className="py-8 text-sm text-muted-foreground">近期话题没有匹配项，完整历史仍待载入。</p> : !filtered.length ? <EmptyState title="没有符合条件的话题档案" description="试试调整筛选条件或搜索词。" /> :
         <TopicGrid topics={filtered} onSelect={setSelected} />}
-    <TopicSheet selected={selected} onClose={() => setSelected(null)} />
+    {selected && <TopicSheet selected={selected} onClose={() => setSelected(null)} />}
   </div>;
 }

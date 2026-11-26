@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+project_root="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+site_stage="$(mktemp -d "${RUNNER_TEMP:-${TMPDIR:-/tmp}}/hot-hub-web.XXXXXX")"
+
+restore_on_failure() {
+  if [ -d "$site_stage/site-data" ] && [ ! -e "$project_root/frontend/public/site-data" ]; then
+    mv "$site_stage/site-data" "$project_root/frontend/public/site-data"
+  fi
+  rmdir "$site_stage" 2>/dev/null || true
+}
+trap restore_on_failure EXIT
+
+# The browser reads these JSON packages at runtime. Next need not scan and copy them.
+if [ -d "$project_root/frontend/public/site-data" ]; then
+  mv "$project_root/frontend/public/site-data" "$site_stage/site-data"
+fi
+pnpm --dir "$project_root/frontend" build
+if [ -d "$site_stage/site-data" ]; then
+  if [ -e "$project_root/frontend/out/site-data" ]; then
+    echo 'Unexpected site-data output; preserving the original export.' >&2
+    exit 1
+  fi
+  mv "$site_stage/site-data" "$project_root/frontend/out/site-data"
+fi

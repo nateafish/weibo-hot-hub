@@ -439,6 +439,8 @@ def _export_topics(
             }
         )
     _write_json(output_root / "topics" / "index.json", topic_index)
+    recent = sorted(topic_index, key=lambda row: (row.get("last_seen_at") or "", row["topic_id"]), reverse=True)[:300]
+    _write_json(output_root / "topics" / "recent.json", {"total": len(topic_index), "topics": recent})
     return topic_index
 
 
