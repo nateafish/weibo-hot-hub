@@ -1,0 +1,91 @@
+name: Recover Built Pages Artifact
+
+on:
+  workflow_dispatch:
+    inputs:
+      source_run_id:
+        description: Completed main-branch frontend build whose artifact should be republished
+        required: true
+        type: string
+
+permissions:
+  contents: read
+  actions: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Validate the source build
+        id: source
+        uses: actions/github-script@v8
+        env:
+          SOURCE_RUN_ID: ${{ inputs.source_run_id }}
+        with:
+          script: |
+            const runId = process.env.SOURCE_RUN_ID;
+            if (!/^\d+$/.test(runId || '')) throw new Error('Invalid build run ID');
+            const { data } = await github.rest.actions.getWorkflowRun({ ...context.repo, run_id: Number(runId) });
+            if (data.path !== '.github/workflows/deploy-pages.yml' || data.head_branch !== 'main' || data.status !== 'completed' || data.head_repository.full_name !== `${context.repo.owner}/${context.repo.repo}`) {
+              throw new Error('Only a completed frontend build from this repository main branch can be recovered');
+            }
+            core.setOutput('sha', data.head_sha);
+      - name: Download the existing static build
+        uses: actions/download-artifact@v4
+        with:
+          name: github-pages
+          path: pages-bundle
+          run-id: ${{ inputs.source_run_id }}
+          github-token: ${{ github.token }}
+      - name: Upload the static build for this publication
+        id: artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: github-pages
+          path: pages-bundle/artifact.tar
+          if-no-files-found: error
+          retention-days: 1
+      - name: Publish the uploaded artifact
+        id: deployment
+        uses: actions/github-script@v8
+        env:
+          PAGES_ARTIFACT_ID: ${{ steps.artifact.outputs.artifact-id }}
+          PAGES_BUILD_SHA: ${{ steps.source.outputs.sha }}
+        with:
+          script: |
+            const artifactId = process.env.PAGES_ARTIFACT_ID;
+            if (!/^\d+$/.test(artifactId || '')) throw new Error('Missing Pages artifact ID');
+            const idToken = await core.getIDToken();
+            core.setSecret(idToken);
+            const { owner, repo } = context.repo;
+            const { data: deployment } = await github.request('POST /repos/{owner}/{repo}/pages/deployments', {
+              owner, repo, artifact_id: Number(artifactId), pages_build_version: process.env.PAGES_BUILD_SHA, oidc_token: idToken
+            });
+            const deploymentId = String(deployment.id || deployment.status_url?.split('/').pop() || process.env.PAGES_BUILD_SHA);
+            for (let attempt = 0; attempt < 60; attempt++) {
+              await new Promise(resolve => setTimeout(resolve, 10000));
+              const { data } = await github.request('GET /repos/{owner}/{repo}/pages/deployments/{deployment_id}', {
+                owner, repo, deployment_id: deploymentId
+              });
+              if (data.status === 'succeed') {
+                core.setOutput('page_url', deployment.page_url);
+                return;
+              }
+              if (['deployment_failed', 'deployment_perms_error', 'deployment_content_failed', 'deployment_cancelled', 'deployment_lost'].includes(data.status)) {
+                throw new Error(`Pages publication failed: ${data.status}`);
+              }
+            }
+            await github.request('POST /repos/{owner}/{repo}/pages/deployments/{deployment_id}/cancel', {
+              owner, repo, deployment_id: deploymentId
+            });
+            throw new Error('Pages publication exceeded ten minutes');

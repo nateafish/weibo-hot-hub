@@ -61,9 +61,40 @@ jobs:
       - uses: actions/configure-pages@v5
         with:
           enablement: true
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v4
+        id: artifact
         with:
           path: frontend/out
       - name: Deploy GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/github-script@v8
+        env:
+          PAGES_ARTIFACT_ID: ${{ steps.artifact.outputs.artifact_id }}
+        with:
+          script: |
+            const artifactId = process.env.PAGES_ARTIFACT_ID;
+            if (!/^\d+$/.test(artifactId || '')) throw new Error('Missing Pages artifact ID');
+            const idToken = await core.getIDToken();
+            core.setSecret(idToken);
+            const { owner, repo } = context.repo;
+            const { data: deployment } = await github.request('POST /repos/{owner}/{repo}/pages/deployments', {
+              owner, repo, artifact_id: Number(artifactId), pages_build_version: context.sha, oidc_token: idToken
+            });
+            const deploymentId = String(deployment.id || deployment.status_url?.split('/').pop() || context.sha);
+            for (let attempt = 0; attempt < 60; attempt++) {
+              await new Promise(resolve => setTimeout(resolve, 10000));
+              const { data } = await github.request('GET /repos/{owner}/{repo}/pages/deployments/{deployment_id}', {
+                owner, repo, deployment_id: deploymentId
+              });
+              if (data.status === 'succeed') {
+                core.setOutput('page_url', deployment.page_url);
+                return;
+              }
+              if (['deployment_failed', 'deployment_perms_error', 'deployment_content_failed', 'deployment_cancelled', 'deployment_lost'].includes(data.status)) {
+                throw new Error(`Pages publication failed: ${data.status}`);
+              }
+            }
+            await github.request('POST /repos/{owner}/{repo}/pages/deployments/{deployment_id}/cancel', {
+              owner, repo, deployment_id: deploymentId
+            });
+            throw new Error('Pages publication exceeded ten minutes');
