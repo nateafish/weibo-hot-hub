@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 6283834552
   },
-  "last_seen_at": "2026-11-26T11:00:00+08:00",
+  "last_seen_at": "2026-11-26T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%99%88%E8%B5%AB%E5%B8%A6%E5%A5%B3%E5%84%BF%E5%8E%BB%E4%B9%B0%E7%8C%AB%E8%A2%AB%E5%BC%A0%E5%AD%90%E8%90%B1%E8%AE%AD%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "4家媒体",
     "users": [
       {
         "id": 2346437860,
         "idstr": "2346437860",
         "screen_name": "三峡融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2647971081,
+        "idstr": "2647971081",
+        "screen_name": "时速新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1655238055,
+        "idstr": "1655238055",
+        "screen_name": "指尖焦点",
         "verified": true,
         "verified_type": 3
       },
@@ -34,7 +48,7 @@
   "query": "#陈赫带女儿去买猫被张子萱训了#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E5%B8%A6%E5%A5%B3%E5%84%BF%E5%8E%BB%E4%B9%B0%E7%8C%AB%E8%A2%AB%E5%BC%A0%E5%AD%90%E8%90%B1%E8%AE%AD%E4%BA%86%23",
   "sub_category": null,
-  "summary": "",
+  "summary": "陈赫带女儿去买猫被张子萱训了！",
   "title": "陈赫带女儿去买猫被张子萱训了",
   "topic_id": "23152261fd57d766db0ee5c37457497ee00270"
 }
