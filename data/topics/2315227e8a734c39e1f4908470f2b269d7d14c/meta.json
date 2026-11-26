@@ -3,10 +3,10 @@
   "created_at": 1795675059,
   "first_seen_at": "2026-11-26T15:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-26T17:00:00+08:00",
+  "last_seen_at": "2026-11-26T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E8%B1%86%E5%8C%85%E9%A2%84%E7%BA%A6%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%AF%B9%E9%9D%A2%E4%B9%9F%E6%98%AFAI%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "8家媒体",
     "users": [
       {
         "id": 5396094153,
@@ -23,6 +23,13 @@
         "verified_type": 3
       },
       {
+        "id": 3901624042,
+        "idstr": "3901624042",
+        "screen_name": "山西日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2621516563,
         "idstr": "2621516563",
         "screen_name": "咸阳日报",
@@ -30,16 +37,23 @@
         "verified_type": 3
       },
       {
-        "id": 1647210043,
-        "idstr": "1647210043",
-        "screen_name": "百姓关注",
+        "id": 2075245652,
+        "idstr": "2075245652",
+        "screen_name": "长春晚报",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 1160746241,
-        "idstr": "1160746241",
-        "screen_name": "中国食品报",
+        "id": 1943154142,
+        "idstr": "1943154142",
+        "screen_name": "中安在线",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1647210043,
+        "idstr": "1647210043",
+        "screen_name": "百姓关注",
         "verified": true,
         "verified_type": 3
       }

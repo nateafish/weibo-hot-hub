@@ -10,15 +10,29 @@
     "status": 2,
     "uid": 6311407919
   },
-  "last_seen_at": "2026-11-26T17:00:00+08:00",
+  "last_seen_at": "2026-11-26T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%96%87%E5%90%89%E5%84%BF0%E9%95%9C%E5%A4%B4%E5%8E%9F%E5%9B%A0%23%26t%3D3&title=发布媒体",
-    "show_str": "13家媒体",
+    "show_str": "18家媒体",
     "users": [
       {
         "id": 2659523842,
         "idstr": "2659523842",
         "screen_name": "黔东南融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1652484947,
+        "idstr": "1652484947",
+        "screen_name": "新快报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7708039348,
+        "idstr": "7708039348",
+        "screen_name": "北青娱见",
         "verified": true,
         "verified_type": 3
       },
@@ -37,9 +51,9 @@
         "verified_type": 3
       },
       {
-        "id": 2041117703,
-        "idstr": "2041117703",
-        "screen_name": "合肥日报",
+        "id": 2535760180,
+        "idstr": "2535760180",
+        "screen_name": "安徽视讯",
         "verified": true,
         "verified_type": 3
       },
@@ -47,20 +61,6 @@
         "id": 2027480085,
         "idstr": "2027480085",
         "screen_name": "水母网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2010802407,
-        "idstr": "2010802407",
-        "screen_name": "中国台州网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1943154142,
-        "idstr": "1943154142",
-        "screen_name": "中安在线",
         "verified": true,
         "verified_type": 3
       }

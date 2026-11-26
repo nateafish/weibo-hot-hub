@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1699432410
   },
-  "last_seen_at": "2026-11-26T17:00:00+08:00",
+  "last_seen_at": "2026-11-26T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%B2%B9%E4%BB%B727%E6%97%A5%E8%B5%B7%E4%B8%8B%E8%B0%83%23%26t%3D3&title=发布媒体",
-    "show_str": "118家媒体",
+    "show_str": "136家媒体",
     "users": [
       {
         "id": 6365990425,
@@ -30,6 +30,13 @@
         "verified_type": 3
       },
       {
+        "id": 1699432410,
+        "idstr": "1699432410",
+        "screen_name": "新华社",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1288429914,
         "idstr": "1288429914",
         "screen_name": "今视频长天新闻",
@@ -37,9 +44,9 @@
         "verified_type": 3
       },
       {
-        "id": 1699432410,
-        "idstr": "1699432410",
-        "screen_name": "新华社",
+        "id": 2346437860,
+        "idstr": "2346437860",
+        "screen_name": "三峡融媒",
         "verified": true,
         "verified_type": 3
       },
@@ -56,17 +63,10 @@
         "screen_name": "宁县融媒",
         "verified": true,
         "verified_type": 3
-      },
-      {
-        "id": 2685336121,
-        "idstr": "2685336121",
-        "screen_name": "南宁晚报",
-        "verified": true,
-        "verified_type": 3
       }
     ]
   },
-  "query": "油价27日起下调",
+  "query": "#油价27日起下调#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E6%B2%B9%E4%BB%B727%E6%97%A5%E8%B5%B7%E4%B8%8B%E8%B0%83%23",
   "sub_category": null,
   "summary": "",
