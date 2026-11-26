@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-26T14:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#习近平在深圳的这四个比喻意涵深远#",
+      "rank": 1,
+      "title": "习近平在深圳的这四个比喻意涵深远",
+      "topic_id": "231522471dd680e3e6d03ef3343e7d43267819"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "画地为牢终于来了",
+      "rank": 1,
+      "title": "画地为牢终于来了",
+      "topic_id": "2315229bb1708791f7f2abdc61d54ad6cefec2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#让特朗普念念不忘的帽子菜破案了#",
+      "rank": 2,
+      "title": "让特朗普念念不忘的帽子菜破案了",
+      "topic_id": "2315220d0f031ec44bc2735ed3ae631fbdbe19"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#从5到24看载人航天之路#",
+      "rank": 3,
+      "title": "从5到24看载人航天之路",
+      "topic_id": "2315224276f3f10da332d41fd0daae7aaa9cd1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "厉娜给许飞擦眼泪说我陪着你",
+      "rank": 4,
+      "title": "厉娜给许飞擦眼泪说我陪着你",
+      "topic_id": "2315222a2310ec7b4480571f45b97979a58a17"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#普京打包深圳炒菜上飞机#",
+      "rank": 5,
+      "title": "普京打包深圳炒菜上飞机",
+      "topic_id": "2315227e215296cb3bf20e101f379aee308214"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#马天宇想分遗产的朋友是谁#",
+      "rank": 6,
+      "title": "马天宇想分遗产的朋友是谁",
+      "topic_id": "231522bd9aaa709999fbee97f00bd8543c4324"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "后会友期 天娱高层",
+      "rank": 7,
+      "title": "后会友期 天娱高层",
+      "topic_id": "23152278127fb26e08a0fae1f8b92962402c9b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#蔡磊已进渐冻症终末期#",
+      "rank": 8,
+      "title": "蔡磊已进渐冻症终末期",
+      "topic_id": "2315228261c81eb850b9de41f8605f291d14b7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#男子花700万买房搜到诅咒孩子WiFi名#",
+      "rank": 9,
+      "title": "男子花700万买房搜到诅咒孩子WiFi名",
+      "topic_id": "231522d519d0a3c387f4b30876f46384cf5398"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女孩景区同一位置晕倒3次后报警#",
+      "rank": 10,
+      "title": "女孩景区同一位置晕倒3次后报警",
+      "topic_id": "231522053a0e4f1d9c4d26f69be4b9e69b7352"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "网传安踏员工泰国被拐缅甸",
+      "rank": 11,
+      "title": "网传安踏员工泰国被拐缅甸",
+      "topic_id": "2315221b428e0f8a4a66b1935c7926c29f637a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#许飞问厉娜为什么要背叛我#",
+      "rank": 12,
+      "title": "许飞问厉娜为什么要背叛我",
+      "topic_id": "231522f4de05457f4152a98a6e7ebd9b34c21b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "王子璇文吉儿镜头",
+      "rank": 13,
+      "title": "王子璇文吉儿镜头",
+      "topic_id": "2315227d04f311bbca613884cb9c78613de8a8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#网友抵制王玉雯代言皮草#",
+      "rank": 14,
+      "title": "网友抵制王玉雯代言皮草",
+      "topic_id": "2315223875fc9ea82028b4c07c6ca852897652"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#易烊千玺胡茬耳钉青筋全齐了#",
+      "rank": 15,
+      "title": "易烊千玺胡茬耳钉青筋全齐了",
+      "topic_id": "231522730e7dc510c0dbfe7c2fc744d7618ea0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "蔡磊用不上团队研发药",
+      "rank": 16,
+      "title": "蔡磊用不上团队研发药",
+      "topic_id": "231522e385ea1d1d090f39586c2fe3d9706898"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#徐若晗方声明#",
+      "rank": 17,
+      "title": "徐若晗方声明",
+      "topic_id": "2315228699104d562aa0ca04ca6eb3005defee"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#青稚安慰天霸老板#",
+      "rank": 18,
+      "title": "青稚安慰天霸老板",
+      "topic_id": "2315220cb3c2db36dabc5445bf4bf03ac1b1d5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#蔡磊融资失败妻子放弃事业全职直播#",
+      "rank": 19,
+      "title": "蔡磊融资失败妻子放弃事业全职直播",
+      "topic_id": "231522721ca771f9b1b336f3233b4885e1ddf9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#小米1用户催更小米18#",
+      "rank": 20,
+      "title": "小米1用户催更小米18",
+      "topic_id": "231522198b0a1e65204fbaf0729777967b9379"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "员工面试称不婚入职后怀孕",
+      "rank": 21,
+      "title": "员工面试称不婚入职后怀孕",
+      "topic_id": "23152274ccb50a4bcee07a1d574d106b02c5c8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "画地为牢 错位",
+      "rank": 22,
+      "title": "画地为牢 错位",
+      "topic_id": "231522eb2cb7485b5d9b38eb1be984feff3fe4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#青稚白小纯搭肩#",
+      "rank": 23,
+      "title": "青稚白小纯搭肩",
+      "topic_id": "231522b9aedc0637f5eb76ae323f7106720242"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "后会友期",
+      "rank": 24,
+      "title": "后会友期",
+      "topic_id": "2315222d57e8bbcff64f0c2538dbae559383ad"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#A股得拿稳了#",
+      "rank": 25,
+      "title": "A股得拿稳了",
+      "topic_id": "23152298fce83c037d41fb1d4b20a04a0dc725"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "烂牙根没拔竟拖成口腔癌",
+      "rank": 26,
+      "title": "烂牙根没拔竟拖成口腔癌",
+      "topic_id": "2315220b2b0de9f5dbbfaf3c1d569f5d41e6c7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#蔡磊回应病情进入终末期#",
+      "rank": 27,
+      "title": "蔡磊回应病情进入终末期",
+      "topic_id": "2315222ec8a0a2ce2a567bf14f724a7fd25dea"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#曝BLG二选一JackeyLove和Diable#",
+      "rank": 28,
+      "title": "曝BLG二选一JackeyLove和Diable",
+      "topic_id": "231522e42002cccedc393fafd584bb987e5503"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#2026电影贺岁档来了#",
+      "rank": 29,
+      "title": "2026电影贺岁档来了",
+      "topic_id": "231522ce4f615ac55752f0ddcb5d76ca66364e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "梁文锋 DeepSeek",
+      "rank": 30,
+      "title": "梁文锋 DeepSeek",
+      "topic_id": "231522160a121a57ec96709d4a27bd026ba237"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#英雄联盟电竞经理停运#",
+      "rank": 31,
+      "title": "英雄联盟电竞经理停运",
+      "topic_id": "23152270cf550750208f013ceae0b2808c0916"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "胡海泉辟谣炒股亏了近1个亿",
+      "rank": 32,
+      "title": "胡海泉辟谣炒股亏了近1个亿",
+      "topic_id": "231522ae677704a5b12318d4b7f847211b9d1b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#雷军科技新一握手聊天了#",
+      "rank": 33,
+      "title": "雷军科技新一握手聊天了",
+      "topic_id": "2315222ff86fb070fb7c730c77d8c52af64ae2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#A股稳住了#",
+      "rank": 34,
+      "title": "A股稳住了",
+      "topic_id": "23152203d22e531d9d1cd7d8030c6f3defc6a4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#肖战戴oura戒指#",
+      "rank": 35,
+      "title": "肖战戴oura戒指",
+      "topic_id": "23152275c242746ca756367957a1ffccbc6f60"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#婚检发现同居多年男友是女的#",
+      "rank": 36,
+      "title": "婚检发现同居多年男友是女的",
+      "topic_id": "2315223122fb38a2807a19066b4d4a56a85439"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#新一代通信网建设实施方案来了#",
+      "rank": 37,
+      "title": "新一代通信网建设实施方案来了",
+      "topic_id": "2315226b62a090bd580a329c56f52476d07b09"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#贝儿腿长和普通人比简直降维打击#",
+      "rank": 38,
+      "title": "贝儿腿长和普通人比简直降维打击",
+      "topic_id": "231522a39738e0a95047e18ed2357e8ab7078c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#孩子碰坏装饰罐盖被索赔3000元#",
+      "rank": 39,
+      "title": "孩子碰坏装饰罐盖被索赔3000元",
+      "topic_id": "231522cd596514ed8eab66e7b6d83450a3be62"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#刘耀文最符合年龄的一集#",
+      "rank": 40,
+      "title": "刘耀文最符合年龄的一集",
+      "topic_id": "2315229f5412822408271fe10fb2f92474c9d6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#胡海泉到底亏了多少#",
+      "rank": 41,
+      "title": "胡海泉到底亏了多少",
+      "topic_id": "231522535c666600744db0d8356620634bd5aa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "南方冻成狗北方热中暑",
+      "rank": 42,
+      "title": "南方冻成狗北方热中暑",
+      "topic_id": "231522390b3fe856839c273d2430a960de421b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "飞雪",
+      "rank": 43,
+      "title": "飞雪",
+      "topic_id": "2315227f10681596410e890b94fc2f2b0509d0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "A股",
+      "rank": 44,
+      "title": "A股",
+      "topic_id": "2315229ff55ef4a3e846e498a336fdeb06cbdb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#田曦薇参加嫁金钗研讨会#",
+      "rank": 45,
+      "title": "田曦薇参加嫁金钗研讨会",
+      "topic_id": "23152264f74777ed1313793b814f6d9fe9887b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "杜兰特33000分历史第五",
+      "rank": 46,
+      "title": "杜兰特33000分历史第五",
+      "topic_id": "231522eb424a234e506f50584636cf2d5a8934"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#蔡磊妻子称渐冻症仅护工一月花10万#",
+      "rank": 47,
+      "title": "蔡磊妻子称渐冻症仅护工一月花10万",
+      "topic_id": "231522b3829254e1e4cb5d1d26526e1ac7199c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "我叫金三顺时隔21年的售后",
+      "rank": 48,
+      "title": "我叫金三顺时隔21年的售后",
+      "topic_id": "23152259e46a77f3fb35fafbb3a014603355e0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "郭子睿 子承父业",
+      "rank": 49,
+      "title": "郭子睿 子承父业",
+      "topic_id": "23152253c5c6a315050bf50e8c9e22f29d68d0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "梁文锋的人生简直是开挂了",
+      "rank": 50,
+      "title": "梁文锋的人生简直是开挂了",
+      "topic_id": "231522c702d0244a5faf8a5a6b4541fc79c9f6"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

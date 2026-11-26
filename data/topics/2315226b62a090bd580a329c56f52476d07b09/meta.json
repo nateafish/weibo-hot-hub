@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2258727970
   },
-  "last_seen_at": "2026-11-26T13:00:00+08:00",
+  "last_seen_at": "2026-11-26T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%96%B0%E4%B8%80%E4%BB%A3%E9%80%9A%E4%BF%A1%E7%BD%91%E5%BB%BA%E8%AE%BE%E5%AE%9E%E6%96%BD%E6%96%B9%E6%A1%88%E6%9D%A5%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "48家媒体",
+    "show_str": "56家媒体",
     "users": [
       {
         "id": 2258727970,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 2001789077,
+        "idstr": "2001789077",
+        "screen_name": "兵团日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 7354234663,
         "idstr": "7354234663",
         "screen_name": "大湾区之声",
@@ -54,13 +61,6 @@
         "id": 1704819467,
         "idstr": "1704819467",
         "screen_name": "经济之声",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1682207150,
-        "idstr": "1682207150",
-        "screen_name": "南方日报",
         "verified": true,
         "verified_type": 3
       }

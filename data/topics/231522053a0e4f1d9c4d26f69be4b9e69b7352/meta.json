@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 5396094153
   },
-  "last_seen_at": "2026-11-26T13:00:00+08:00",
+  "last_seen_at": "2026-11-26T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A5%B3%E5%AD%A9%E6%99%AF%E5%8C%BA%E5%90%8C%E4%B8%80%E4%BD%8D%E7%BD%AE%E6%99%95%E5%80%923%E6%AC%A1%E5%90%8E%E6%8A%A5%E8%AD%A6%23%26t%3D3&title=发布媒体",
-    "show_str": "76家媒体",
+    "show_str": "87家媒体",
     "users": [
       {
         "id": 5396094153,
@@ -37,6 +37,20 @@
         "verified_type": 3
       },
       {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1887344341,
+        "idstr": "1887344341",
+        "screen_name": "观察者网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1751714412,
         "idstr": "1751714412",
         "screen_name": "大皖新闻",
@@ -47,20 +61,6 @@
         "id": 5426766895,
         "idstr": "5426766895",
         "screen_name": "青州广电",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2191398120,
-        "idstr": "2191398120",
-        "screen_name": "成都商报美食",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2118120483,
-        "idstr": "2118120483",
-        "screen_name": "青岛日报",
         "verified": true,
         "verified_type": 3
       }
