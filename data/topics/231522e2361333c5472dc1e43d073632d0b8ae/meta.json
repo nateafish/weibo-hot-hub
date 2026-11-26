@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 6364463717
   },
-  "last_seen_at": "2026-11-27T06:00:00+08:00",
+  "last_seen_at": "2026-11-27T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E6%B2%99%E7%89%B9%E7%94%B7%E7%AF%AE%23%26t%3D3&title=发布媒体",
-    "show_str": "16家媒体",
+    "show_str": "18家媒体",
     "users": [
       {
         "id": 6364463717,
         "idstr": "6364463717",
         "screen_name": "咪咕篮球",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -42,13 +49,6 @@
         "screen_name": "柠檬树上的少女成就未来",
         "verified": true,
         "verified_type": 0
-      },
-      {
-        "id": 6299534218,
-        "idstr": "6299534218",
-        "screen_name": "北青体育",
-        "verified": true,
-        "verified_type": 3
       },
       {
         "id": 3049742854,

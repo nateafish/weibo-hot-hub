@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1845864154
   },
-  "last_seen_at": "2026-11-27T06:00:00+08:00",
+  "last_seen_at": "2026-11-27T07:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%AD%E7%BA%AA%E5%A7%94%E4%B8%80%E5%A4%A9%E8%BF%9E%E6%89%93%E4%B8%89%E8%99%8E%23%26t%3D3&title=发布媒体",
-    "show_str": "5家媒体",
+    "show_str": "7家媒体",
     "users": [
       {
         "id": 1845864154,
@@ -30,6 +30,13 @@
         "verified_type": 3
       },
       {
+        "id": 2013936642,
+        "idstr": "2013936642",
+        "screen_name": "新闻广角",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 5652470745,
         "idstr": "5652470745",
         "screen_name": "广西都市频道",
@@ -37,9 +44,16 @@
         "verified_type": 3
       },
       {
-        "id": 2013936642,
-        "idstr": "2013936642",
-        "screen_name": "新闻广角",
+        "id": 5388240201,
+        "idstr": "5388240201",
+        "screen_name": "南阳日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1821499183,
+        "idstr": "1821499183",
+        "screen_name": "大连日报",
         "verified": true,
         "verified_type": 3
       },
