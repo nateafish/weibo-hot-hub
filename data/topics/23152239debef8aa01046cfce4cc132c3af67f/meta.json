@@ -10,22 +10,15 @@
     "status": 2,
     "uid": 1845864154
   },
-  "last_seen_at": "2026-11-27T09:00:00+08:00",
+  "last_seen_at": "2026-11-27T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%B8%AD%E7%BA%AA%E5%A7%94%E4%B8%80%E5%A4%A9%E8%BF%9E%E6%89%93%E4%B8%89%E8%99%8E%23%26t%3D3&title=发布媒体",
-    "show_str": "11家媒体",
+    "show_str": "17家媒体",
     "users": [
       {
         "id": 1845864154,
         "idstr": "1845864154",
         "screen_name": "看看新闻Knews",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2145917613,
-        "idstr": "2145917613",
-        "screen_name": "北京日报都视频",
         "verified": true,
         "verified_type": 3
       },
@@ -37,9 +30,23 @@
         "verified_type": 3
       },
       {
+        "id": 2145917613,
+        "idstr": "2145917613",
+        "screen_name": "北京日报都视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 5652470745,
         "idstr": "5652470745",
         "screen_name": "广西都市频道",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7523386243,
+        "idstr": "7523386243",
+        "screen_name": "南阳网官方微博",
         "verified": true,
         "verified_type": 3
       },
@@ -54,13 +61,6 @@
         "id": 5388240201,
         "idstr": "5388240201",
         "screen_name": "南阳日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2813313591,
-        "idstr": "2813313591",
-        "screen_name": "中新网海南",
         "verified": true,
         "verified_type": 3
       }

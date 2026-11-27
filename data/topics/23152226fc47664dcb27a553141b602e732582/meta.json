@@ -3,15 +3,36 @@
   "created_at": 1795701393,
   "first_seen_at": "2026-11-27T09:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-27T09:00:00+08:00",
+  "last_seen_at": "2026-11-27T10:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%94%BF%E5%BA%9C%E6%9C%BA%E5%85%B3%E5%B8%A6%E5%A4%B4%E8%BF%87%E7%B4%A7%E6%97%A5%E5%AD%90%23%26t%3D3&title=发布媒体",
-    "show_str": "13家媒体",
+    "show_str": "24家媒体",
     "users": [
       {
         "id": 2824067765,
         "idstr": "2824067765",
         "screen_name": "贺州日报官微",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2632236847,
+        "idstr": "2632236847",
+        "screen_name": "香港文匯網",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 3275115274,
+        "idstr": "3275115274",
+        "screen_name": "中国吉林网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5789460875,
+        "idstr": "5789460875",
+        "screen_name": "庆阳广播电视台",
         "verified": true,
         "verified_type": 3
       },
@@ -33,27 +54,6 @@
         "id": 2460937233,
         "idstr": "2460937233",
         "screen_name": "热度新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2145932164,
-        "idstr": "2145932164",
-        "screen_name": "东莞日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2131593523,
-        "idstr": "2131593523",
-        "screen_name": "羊城晚报金羊网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2014655005,
-        "idstr": "2014655005",
-        "screen_name": "玉林广播电视台",
         "verified": true,
         "verified_type": 3
       }
