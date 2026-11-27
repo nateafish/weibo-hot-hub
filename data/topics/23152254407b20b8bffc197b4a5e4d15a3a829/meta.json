@@ -10,15 +10,22 @@
     "status": 2,
     "uid": 5611783716
   },
-  "last_seen_at": "2026-11-27T10:00:00+08:00",
+  "last_seen_at": "2026-11-27T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%BE%90%E7%92%90%E8%BA%AB%E6%9D%90%23%26t%3D3&title=发布媒体",
-    "show_str": "15家媒体",
+    "show_str": "23家媒体",
     "users": [
       {
         "id": 1723167603,
         "idstr": "1723167603",
         "screen_name": "950MusicRadio",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 1288429914,
-        "idstr": "1288429914",
-        "screen_name": "今视频长天新闻",
+        "id": 1751714412,
+        "idstr": "1751714412",
+        "screen_name": "大皖新闻",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2647971081,
-        "idstr": "2647971081",
-        "screen_name": "时速新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2535760180,
-        "idstr": "2535760180",
-        "screen_name": "安徽视讯",
+        "id": 3165101432,
+        "idstr": "3165101432",
+        "screen_name": "广_元_融_媒",
         "verified": true,
         "verified_type": 3
       }

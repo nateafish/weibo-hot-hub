@@ -10,11 +10,26 @@
     "status": 2,
     "uid": 6355176057
   },
-  "last_seen_at": "2026-11-27T10:00:00+08:00",
+  "last_seen_at": "2026-11-27T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23ON%E4%B9%9F%E8%88%8D%E4%B8%8D%E5%BE%97Viper%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "2家媒体",
+    "users": [
+      {
+        "id": 2625204852,
+        "idstr": "2625204852",
+        "screen_name": "南充融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1744332207,
+        "idstr": "1744332207",
+        "screen_name": "钱江视频",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#ON也舍不得Viper#",
   "search_url": "https://s.weibo.com/weibo?q=%23on%E4%B9%9F%E8%88%8D%E4%B8%8D%E5%BE%97viper%23",

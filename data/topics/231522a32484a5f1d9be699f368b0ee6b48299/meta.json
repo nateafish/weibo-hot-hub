@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1618051664
   },
-  "last_seen_at": "2026-11-27T10:00:00+08:00",
+  "last_seen_at": "2026-11-27T11:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23U17%E5%9B%BD%E8%B6%B3%E6%9C%89%E6%9C%9B%E9%94%81%E5%AE%9A%E7%AC%AC26%E9%A1%BA%E4%BD%8D%23%26t%3D3&title=发布媒体",
-    "show_str": "11家媒体",
+    "show_str": "20家媒体",
     "users": [
       {
         "id": 1618051664,
@@ -23,9 +23,30 @@
         "verified_type": 3
       },
       {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2096538335,
+        "idstr": "2096538335",
+        "screen_name": "昆山融媒",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1882632930,
         "idstr": "1882632930",
         "screen_name": "新消息报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7211561239,
+        "idstr": "7211561239",
+        "screen_name": "央视频",
         "verified": true,
         "verified_type": 3
       },
@@ -42,27 +63,6 @@
         "screen_name": "捉谣记",
         "verified": true,
         "verified_type": 7
-      },
-      {
-        "id": 3275115274,
-        "idstr": "3275115274",
-        "screen_name": "中国吉林网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2827102952,
-        "idstr": "2827102952",
-        "screen_name": "湖北日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2426565464,
-        "idstr": "2426565464",
-        "screen_name": "浙江少儿频道",
-        "verified": true,
-        "verified_type": 3
       }
     ]
   },
