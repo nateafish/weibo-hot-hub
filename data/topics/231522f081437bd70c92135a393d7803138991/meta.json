@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2286908003
   },
-  "last_seen_at": "2026-11-27T23:00:00+08:00",
+  "last_seen_at": "2026-11-28T00:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23180%E7%A7%92%E5%9B%9E%E9%A1%BE%E7%A5%9E24%E5%8F%91%E5%B0%84%E4%BB%BB%E5%8A%A1%23%26t%3D3&title=发布媒体",
-    "show_str": "14家媒体",
+    "show_str": "15家媒体",
     "users": [
       {
         "id": 2286908003,
@@ -26,6 +26,13 @@
         "id": 2360016402,
         "idstr": "2360016402",
         "screen_name": "宁波日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1880922220,
+        "idstr": "1880922220",
+        "screen_name": "金华晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -54,13 +61,6 @@
         "id": 5542843172,
         "idstr": "5542843172",
         "screen_name": "烟台日报传媒集团",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5035304660,
-        "idstr": "5035304660",
-        "screen_name": "青橙融媒",
         "verified": true,
         "verified_type": 3
       }
