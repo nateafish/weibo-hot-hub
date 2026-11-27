@@ -1,0 +1,75 @@
+{
+  "accounts": {
+    "5369820495219974": {
+      "badge": "无徽标",
+      "observed_at": "2026-11-27T16:20:23+08:00",
+      "source": "mobile_user",
+      "verified": false,
+      "verified_type": -1
+    },
+    "5369853498100814": {
+      "badge": "无徽标",
+      "observed_at": "2026-11-27T16:20:23+08:00",
+      "source": "mobile_user",
+      "verified": false,
+      "verified_type": -1
+    },
+    "5369854647337077": {
+      "badge": "黄V",
+      "observed_at": "2026-11-27T16:20:21+08:00",
+      "source": "mobile_user",
+      "verified": true,
+      "verified_reason": "综艺博主",
+      "verified_type": 0,
+      "verified_type_ext": 0
+    },
+    "5369884734653913": {
+      "badge": "金V",
+      "observed_at": "2026-11-27T16:20:21+08:00",
+      "source": "mobile_user",
+      "verified": true,
+      "verified_reason": "娱乐博主",
+      "verified_type": 0,
+      "verified_type_ext": 1
+    },
+    "5369892668704006": {
+      "badge": "红V",
+      "observed_at": "2026-11-27T16:20:21+08:00",
+      "source": "mobile_user",
+      "verified": true,
+      "verified_reason": "重庆三峡融媒体中心官方微博",
+      "verified_type": 3,
+      "verified_type_ext": 53
+    },
+    "5369893520411618": {
+      "badge": "橙V",
+      "observed_at": "2026-11-27T16:20:21+08:00",
+      "source": "mobile_user",
+      "verified": true,
+      "verified_reason": "娱乐博主",
+      "verified_type": 0,
+      "verified_type_ext": 2
+    },
+    "5369898021683402": {
+      "badge": "无徽标",
+      "observed_at": "2026-11-27T16:20:21+08:00",
+      "source": "mobile_user",
+      "verified": false,
+      "verified_type": -1
+    }
+  },
+  "captured_at": "2026-11-27T16:00:00+08:00",
+  "pages": [
+    [
+      "5369884734653913",
+      "5369898021683402",
+      "5369893520411618",
+      "5369892668704006",
+      "5369854647337077",
+      "5369853498100814",
+      "5369820495219974"
+    ]
+  ],
+  "topic_id": "23152282c7dd28dcffbe6dafa26079bbd58b07",
+  "unique_posts": 7
+}
