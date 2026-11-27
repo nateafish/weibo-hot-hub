@@ -3,11 +3,32 @@
   "created_at": 1795764727,
   "first_seen_at": "2026-11-27T17:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-27T20:00:00+08:00",
+  "last_seen_at": "2026-11-27T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9D%A8%E7%B4%ABELLE%E5%AD%A3%E5%80%99%E9%A3%8E%E5%A4%A7%E7%89%87%E9%80%A0%E5%9E%8B%23%26t%3D3&title=发布媒体",
-    "show_str": "8家媒体",
+    "show_str": "10家媒体",
     "users": [
+      {
+        "id": 1960785875,
+        "idstr": "1960785875",
+        "screen_name": "津云新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1723216063,
+        "idstr": "1723216063",
+        "screen_name": "佛山新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5743120946,
+        "idstr": "5743120946",
+        "screen_name": "鄱阳发布",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2460937233,
         "idstr": "2460937233",
@@ -23,13 +44,6 @@
         "verified_type": 3
       },
       {
-        "id": 1960785875,
-        "idstr": "1960785875",
-        "screen_name": "津云新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
         "id": 1882632930,
         "idstr": "1882632930",
         "screen_name": "新消息报",
@@ -40,20 +54,6 @@
         "id": 1738004582,
         "idstr": "1738004582",
         "screen_name": "纵览新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1723216063,
-        "idstr": "1723216063",
-        "screen_name": "佛山新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1677991972,
-        "idstr": "1677991972",
-        "screen_name": "晶报",
         "verified": true,
         "verified_type": 3
       }
