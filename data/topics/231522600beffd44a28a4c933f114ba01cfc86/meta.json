@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 6186842576
   },
-  "last_seen_at": "2026-11-27T17:00:00+08:00",
+  "last_seen_at": "2026-11-27T18:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%A2%85%E5%B0%BC%E8%80%B6%E5%A6%BB%E5%AD%90%E5%90%91%E5%90%88%E7%85%A7%E5%A5%B3%E6%98%8E%E6%98%9F%E9%81%93%E6%AD%89%23%26t%3D3&title=发布媒体",
-    "show_str": "8家媒体",
+    "show_str": "13家媒体",
     "users": [
       {
         "id": 1043320390,
         "idstr": "1043320390",
         "screen_name": "半岛晨报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7761793874,
+        "idstr": "7761793874",
+        "screen_name": "白鹿科技",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7750531853,
+        "idstr": "7750531853",
+        "screen_name": "朱雀财经",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7575030448,
+        "idstr": "7575030448",
+        "screen_name": "白鹿视频",
         "verified": true,
         "verified_type": 3
       },
@@ -40,27 +61,6 @@
         "id": 1943154142,
         "idstr": "1943154142",
         "screen_name": "中安在线",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1805685140,
-        "idstr": "1805685140",
-        "screen_name": "安徽网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1751714412,
-        "idstr": "1751714412",
-        "screen_name": "大皖新闻",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1723167603,
-        "idstr": "1723167603",
-        "screen_name": "950MusicRadio",
         "verified": true,
         "verified_type": 3
       }
