@@ -10,11 +10,18 @@
     "status": 2,
     "uid": 2522098777
   },
-  "last_seen_at": "2026-11-27T12:00:00+08:00",
+  "last_seen_at": "2026-11-27T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23On%E7%9B%B4%E6%92%AD%E5%93%AD%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "3家媒体",
+    "show_str": "6家媒体",
     "users": [
+      {
+        "id": 3048800300,
+        "idstr": "3048800300",
+        "screen_name": "新浪圈子",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 2594662033,
         "idstr": "2594662033",
@@ -30,9 +37,23 @@
         "verified_type": 3
       },
       {
-        "id": 1806503894,
-        "idstr": "1806503894",
-        "screen_name": "安徽商报",
+        "id": 2028810631,
+        "idstr": "2028810631",
+        "screen_name": "新浪新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1712686623,
+        "idstr": "1712686623",
+        "screen_name": "手机上的新浪",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497418417,
+        "idstr": "1497418417",
+        "screen_name": "掌上温岭",
         "verified": true,
         "verified_type": 3
       }
