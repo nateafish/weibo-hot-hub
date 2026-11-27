@@ -10,11 +10,61 @@
     "status": 2,
     "uid": 2611791490
   },
-  "last_seen_at": "2026-11-27T13:00:00+08:00",
+  "last_seen_at": "2026-11-27T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%8E%89%E5%A8%9C%E8%A2%AB%E6%8A%B5%E5%88%B6%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "8家媒体",
+    "users": [
+      {
+        "id": 2647971081,
+        "idstr": "2647971081",
+        "screen_name": "时速新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2252846093,
+        "idstr": "2252846093",
+        "screen_name": "长春新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2075245652,
+        "idstr": "2075245652",
+        "screen_name": "长春晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2027480085,
+        "idstr": "2027480085",
+        "screen_name": "水母网",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1618051664,
+        "idstr": "1618051664",
+        "screen_name": "头条新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497418417,
+        "idstr": "1497418417",
+        "screen_name": "掌上温岭",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1497087080,
+        "idstr": "1497087080",
+        "screen_name": "羊城晚报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#厉娜被抵制#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E5%8E%89%E5%A8%9C%E8%A2%AB%E6%8A%B5%E5%88%B6%23",

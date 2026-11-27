@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 6915891722
   },
-  "last_seen_at": "2026-11-27T13:00:00+08:00",
+  "last_seen_at": "2026-11-27T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%85%A8%E4%B8%96%E7%95%8C%E6%9C%80%E5%B0%8A%E9%87%8D%E5%86%AC%E5%A4%A9%E7%A9%BF%E6%90%AD%E4%B9%8B%E4%BA%BA%23%26t%3D3&title=发布媒体",
-    "show_str": "8家媒体",
+    "show_str": "11家媒体",
     "users": [
       {
         "id": 1677991972,
@@ -23,9 +23,30 @@
         "verified_type": 3
       },
       {
+        "id": 7422806367,
+        "idstr": "7422806367",
+        "screen_name": "中网传播",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 5396094153,
+        "idstr": "5396094153",
+        "screen_name": "大众新闻-大众日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 2308711425,
         "idstr": "2308711425",
         "screen_name": "新疆日报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2183542485,
+        "idstr": "2183542485",
+        "screen_name": "西安广播电视台",
         "verified": true,
         "verified_type": 3
       },
@@ -40,27 +61,6 @@
         "id": 1958132051,
         "idstr": "1958132051",
         "screen_name": "中国商报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1913382117,
-        "idstr": "1913382117",
-        "screen_name": "深圳晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1904947977,
-        "idstr": "1904947977",
-        "screen_name": "天山网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1723216063,
-        "idstr": "1723216063",
-        "screen_name": "佛山新闻",
         "verified": true,
         "verified_type": 3
       }
