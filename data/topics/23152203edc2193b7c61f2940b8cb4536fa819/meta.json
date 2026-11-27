@@ -3,11 +3,26 @@
   "created_at": 1795757344,
   "first_seen_at": "2026-11-27T14:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-27T14:00:00+08:00",
+  "last_seen_at": "2026-11-27T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A4%A7%E7%96%86+%E7%AB%9E%E4%B8%9A%E5%8D%8F%E8%AE%AE%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "2家媒体",
+    "users": [
+      {
+        "id": 2129239474,
+        "idstr": "2129239474",
+        "screen_name": "陕西网络广播电视台",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2041117703,
+        "idstr": "2041117703",
+        "screen_name": "合肥日报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "大疆 竞业协议",
   "search_url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%96%86%20%E7%AB%9E%E4%B8%9A%E5%8D%8F%E8%AE%AE%23",
