@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-27T22:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 48,
+    "ai_unchanged": 2,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#亚太合作鹏程万里#",
+      "rank": 1,
+      "title": "亚太合作鹏程万里",
+      "topic_id": "231522c894dec159bc33a69542e56c82f52e5b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#医保局工作人员直播间辱骂咨询者#",
+      "rank": 1,
+      "title": "医保局工作人员直播间辱骂咨询者",
+      "topic_id": "231522154819503ae0de67a70475ef5a0d07d6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#官方通报济南医保主播辱骂咨询者#",
+      "rank": 2,
+      "title": "官方通报济南医保主播辱骂咨询者",
+      "topic_id": "2315220a7734208f1e0dac167bf8931e2b6035"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#新质生产力大咖说AI季#",
+      "rank": 3,
+      "title": "新质生产力大咖说AI季",
+      "topic_id": "2315226ff945600d1fbc828f2b13ff25ad0c42"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "厉娜重新跟你做朋友原话被删",
+      "rank": 4,
+      "title": "厉娜重新跟你做朋友原话被删",
+      "topic_id": "2315227759972260fc58f4390d634fc5c2dfb1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#三只松鼠20亿园区容不下一间好宿舍#",
+      "rank": 5,
+      "title": "三只松鼠20亿园区容不下一间好宿舍",
+      "topic_id": "23152277793e70014cc62ad0510cd626f16bd3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#法医刘良自曝被悬赏#",
+      "rank": 6,
+      "title": "法医刘良自曝被悬赏",
+      "topic_id": "231522ae949cf1ffa1f0e6a4404326e0e33718"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "闪电 还是前任好",
+      "rank": 7,
+      "title": "闪电 还是前任好",
+      "topic_id": "23152264fd2170b5b2beea78dbc94dc52671fb"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "曾经大胃王如今吃一口都奢侈",
+      "rank": 8,
+      "title": "曾经大胃王如今吃一口都奢侈",
+      "topic_id": "2315221ce1b265e25d25fca554f75725ec39c8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#梅毒阳性育儿嫂手渗血时仍护理婴儿#",
+      "rank": 9,
+      "title": "梅毒阳性育儿嫂手渗血时仍护理婴儿",
+      "topic_id": "231522a4fbbe678ceb9b7645da635dc44accbc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "后会友期 天降后悔药",
+      "rank": 10,
+      "title": "后会友期 天降后悔药",
+      "topic_id": "23152269b34cf90d3fbd5594e1eecea4182081"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "中国女子在泰国遭绑架被施暴",
+      "rank": 11,
+      "title": "中国女子在泰国遭绑架被施暴",
+      "topic_id": "2315227b8143cfb5502bb8b716dbcf54eb864e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "马天宇 我都40了肯定有过亲密关系啊",
+      "rank": 12,
+      "title": "马天宇 我都40了肯定有过亲密关系啊",
+      "topic_id": "231522bbed73f5f09582a465aeb07beeefd709"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "3c",
+      "rank": 13,
+      "title": "3c",
+      "topic_id": "2315225fcfcb7df376059d0075cb892b2cc37f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#赖冠霖对赵昭仪说自己剧组随便坐#",
+      "rank": 14,
+      "title": "赖冠霖对赵昭仪说自己剧组随便坐",
+      "topic_id": "231522d2eae2c804790210d9703c93062a6c10"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#小伊伊老公发离婚判决书#",
+      "rank": 15,
+      "title": "小伊伊老公发离婚判决书",
+      "topic_id": "23152293420afb44e83b424deb2f56c3470d5e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#章梓馨何江官宣分手#",
+      "rank": 16,
+      "title": "章梓馨何江官宣分手",
+      "topic_id": "231522f346f31cdf5a2879cc84ab936b05e461"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#马天宇回应财务自由#",
+      "rank": 17,
+      "title": "马天宇回应财务自由",
+      "topic_id": "231522d37593e6ade7df995871ac26752032c5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#俄乌阵亡军人遗体交换250换22#",
+      "rank": 18,
+      "title": "俄乌阵亡军人遗体交换250换22",
+      "topic_id": "231522b5889e5d0599539f8239b2d0e47362c3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "小米世界模型2.0实时渲染",
+      "rank": 19,
+      "title": "小米世界模型2.0实时渲染",
+      "topic_id": "231522fefdfb52a598397b2e611ddafc066bc7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#白小纯就这样无意间串了把飞雪#",
+      "rank": 20,
+      "title": "白小纯就这样无意间串了把飞雪",
+      "topic_id": "231522f771166b772aad449b21612f84d430e6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#40多岁年富力强怎么就不能住酒店了#",
+      "rank": 21,
+      "title": "40多岁年富力强怎么就不能住酒店了",
+      "topic_id": "23152233ea522d14cd2c4fff9a5ab271319b95"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#厉娜掉粉#",
+      "rank": 22,
+      "title": "厉娜掉粉",
+      "topic_id": "231522697a1c64e988a40c3730db910d078311"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#妻子出轨生子丈夫选择抚养第三者急了#",
+      "rank": 23,
+      "title": "妻子出轨生子丈夫选择抚养第三者急了",
+      "topic_id": "23152203cd24ee87ab0b9bba26cef1a77635e1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#多平台已下架纸质短剧#",
+      "rank": 24,
+      "title": "多平台已下架纸质短剧",
+      "topic_id": "231522acd8cc0434c4c967cb7cc39cea1b3fc6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#白小纯青稚在暗示什么#",
+      "rank": 25,
+      "title": "白小纯青稚在暗示什么",
+      "topic_id": "2315222b272cffc3d29c33355e579a5433cca5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#三只松鼠一夜整改反而让人唏嘘#",
+      "rank": 26,
+      "title": "三只松鼠一夜整改反而让人唏嘘",
+      "topic_id": "2315228ac1348591b78a1c4d96d1656addc6d4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "荣耀700首销破纪录",
+      "rank": 27,
+      "title": "荣耀700首销破纪录",
+      "topic_id": "231522f297d97fb0b7185c4d2f5878cf02e174"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "发现了换手机的最佳时机",
+      "rank": 28,
+      "title": "发现了换手机的最佳时机",
+      "topic_id": "23152296e9129bef737682d2d54393cc1b831c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#赵昭仪录花少以为有赞助没带洗发水#",
+      "rank": 29,
+      "title": "赵昭仪录花少以为有赞助没带洗发水",
+      "topic_id": "23152246da218542669363030800f288c1566c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "科创板一天收复全年跌幅",
+      "rank": 30,
+      "title": "科创板一天收复全年跌幅",
+      "topic_id": "23152286f20ea63700e5b8320f7a31c0674296"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#伞兵ob后会友期要气得维持不住人形了#",
+      "rank": 31,
+      "title": "伞兵ob后会友期要气得维持不住人形了",
+      "topic_id": "231522621084e57b3a69f87cf3c0bc73dcb1a0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#KPL选手直播禁玩三角洲#",
+      "rank": 32,
+      "title": "KPL选手直播禁玩三角洲",
+      "topic_id": "231522f922b481f782a626c8cb988d070d5a65"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "杨紫ELLE季候风大片造型",
+      "rank": 33,
+      "title": "杨紫ELLE季候风大片造型",
+      "topic_id": "231522abb9768d7af7ea66cab1791de8e59bdd"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#山东通报基建项目底座缺陷调查结果#",
+      "rank": 34,
+      "title": "山东通报基建项目底座缺陷调查结果",
+      "topic_id": "231522bb430f794f63403d4ccbbb63904e48a8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#疑似田栩宁掉代言#",
+      "rank": 35,
+      "title": "疑似田栩宁掉代言",
+      "topic_id": "231522d3b9513d073a7919deb8934be9c3990a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#田曦薇见到亲戚直接飙方言#",
+      "rank": 36,
+      "title": "田曦薇见到亲戚直接飙方言",
+      "topic_id": "231522d77a63ba186d81248dc5a494330de88f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "广东婴儿带完整胎膜出生",
+      "rank": 37,
+      "title": "广东婴儿带完整胎膜出生",
+      "topic_id": "2315228256db560337a96bebfa6ea3dc650bf2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#法医刘良称徽剑以一己之力揭开黑幕#",
+      "rank": 38,
+      "title": "法医刘良称徽剑以一己之力揭开黑幕",
+      "topic_id": "2315227903109f5c48991d51e4631ab1993d94"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张真源张郁梓的时间线#",
+      "rank": 39,
+      "title": "张真源张郁梓的时间线",
+      "topic_id": "23152227077f604352b8e18fb2e1e4df288077"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#男子去世前曾为已去世女友守灵3天#",
+      "rank": 40,
+      "title": "男子去世前曾为已去世女友守灵3天",
+      "topic_id": "23152203c0199139bc8f0fa4cb8fc04de52e95"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "女生想谈恋爱朋友说跟我谈呗",
+      "rank": 41,
+      "title": "女生想谈恋爱朋友说跟我谈呗",
+      "topic_id": "2315228d39f5474405c04932ba3d9d488dc72b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "A股暴涨 流动性",
+      "rank": 42,
+      "title": "A股暴涨 流动性",
+      "topic_id": "2315229a2a5b4c25cabfbe0fa551c2352c86dc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#369和Knight谈BLG新AD#",
+      "rank": 43,
+      "title": "369和Knight谈BLG新AD",
+      "topic_id": "231522527a2c8293f6b8c5a55acafa674b2774"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#刘亦菲超绝头身比#",
+      "rank": 44,
+      "title": "刘亦菲超绝头身比",
+      "topic_id": "231522f0195dbf5c02ce4c43829fbf19c6ba4d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#张真源对于谣言的态度#",
+      "rank": 45,
+      "title": "张真源对于谣言的态度",
+      "topic_id": "2315226d827504a8c96ea9526be7c03941aed1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#伊能静共情许飞这段话原来是被剪了#",
+      "rank": 46,
+      "title": "伊能静共情许飞这段话原来是被剪了",
+      "topic_id": "23152256cfb84e257fde30d49922ba33f3be61"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#文吉儿说王子璇都是假意#",
+      "rank": 47,
+      "title": "文吉儿说王子璇都是假意",
+      "topic_id": "231522bb38f3f978765309fe43caad930689f1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 6,
+      "posts": "saved",
+      "query": "#带壳宝宝分娩手术要求很高#",
+      "rank": 48,
+      "title": "带壳宝宝分娩手术要求很高",
+      "topic_id": "2315227db3a4cc5ca3cde2b7c857037be87b0f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#接住脆弱时刻是999唯一想做的事#",
+      "rank": 49,
+      "title": "接住脆弱时刻是999唯一想做的事",
+      "topic_id": "231522002d80d228143a2f8bb1163c7b90ef41"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#蓝天立受贿5.87亿余元#",
+      "rank": 50,
+      "title": "蓝天立受贿5.87亿余元",
+      "topic_id": "2315226bab0affc1b4a68b5fd22d522c44d640"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

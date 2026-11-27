@@ -1,0 +1,911 @@
+{
+  "answer_version": "2026-11-27 22:02:13.357000-5063",
+  "breakdown": [
+    {
+      "label": "金橙V",
+      "percent": 61.0,
+      "url": "https://s.weibo.com/aisearchmore?q=%E5%B0%8F%E7%B1%B3%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B2.0%E5%AE%9E%E6%97%B6%E6%B8%B2%E6%9F%93&res_type=ref_blog&u_type=gold_orange_v&page=1"
+    },
+    {
+      "label": "认证用户",
+      "percent": 31.0,
+      "url": "https://s.weibo.com/aisearchmore?q=%E5%B0%8F%E7%B1%B3%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B2.0%E5%AE%9E%E6%97%B6%E6%B8%B2%E6%9F%93&res_type=ref_blog&u_type=verified&page=1"
+    },
+    {
+      "label": "普通用户",
+      "percent": 8.0,
+      "url": "https://s.weibo.com/aisearchmore?q=%E5%B0%8F%E7%B1%B3%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B2.0%E5%AE%9E%E6%97%B6%E6%B8%B2%E6%9F%93&res_type=ref_blog&u_type=normal&page=1"
+    },
+    {
+      "label": "媒体",
+      "percent": 0.0,
+      "url": "https://s.weibo.com/aisearchmore?q=%E5%B0%8F%E7%B1%B3%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B2.0%E5%AE%9E%E6%97%B6%E6%B8%B2%E6%9F%93&res_type=ref_blog&u_type=&page=1"
+    }
+  ],
+  "captured_at": "2026-11-27T22:15:57+08:00",
+  "posts": [
+    {
+      "account": {
+        "badge": "蓝V",
+        "observed_at": "2026-11-27T22:15:58+08:00",
+        "source": "search_avatar"
+      },
+      "category": "认证用户",
+      "created_at_text": "今天17:00",
+      "excerpt": "从生成视频到学习世界如何变化、从生成能力迈向真实决策，小米汽车世界模型2.0正式发布，在前代基础上进一步将多视角视频生成、物理交互建模、三维场景重建与动作建模连接起来，为辅助驾驶和具身智能统一因果世界模型带来新的范式。\n小米汽车世界模型2.0支持1-7路摄像头视角，训练语料规模达到1260万段视频片段，在 PAI-Bench-G 评测中，自动驾驶和机器人两个场景的视频生成质量综合得分分别为78.0和77.1，均位列报告所列模型第一。\n相关技术已在实际业务场景落地应用：交付超2",
+      "mid": "5369910956919863",
+      "uid": "6486870325",
+      "url": "https://weibo.com/6486870325/RtkHBt2aH",
+      "username": "小米技术"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-27T22:15:45+08:00",
+        "source": "mobile_user",
+        "verified": true,
+        "verified_reason": "数码博主",
+        "verified_type": 0,
+        "verified_type_ext": 1
+      },
+      "category": "金橙V",
+      "created_at_text": "Fri Nov 27 18:29:48 +0800 2026",
+      "excerpt": "卧槽？小米技术发了什么？\n实时的，可以随手旋转预览的，基于世界模型2.0的实时渲染，延迟看起来也很低啊",
+      "mid": "5369933543246719",
+      "uid": "6202265538",
+      "url": "https://m.weibo.cn/detail/5369933543246719",
+      "username": "薛定谔的英短咕咕咕"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-27T22:15:50+08:00",
+        "source": "mobile_user",
+        "verified": true,
+        "verified_reason": "数码博主 微博原创视频博主 赛车手",
+        "verified_type": 0,
+        "verified_type_ext": 1
+      },
+      "category": "金橙V",
+      "created_at_text": "Fri Nov 27 17:38:49 +0800 2026",
+      "excerpt": "小米汽车世界模型 2.0，实时渲染效果非常真实。前两天特斯拉FSD V15让大家震撼了一下，再来点小米震撼",
+      "mid": "5369920713917697",
+      "uid": "2743487997",
+      "url": "https://m.weibo.cn/detail/5369920713917697",
+      "username": "负三代"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-27T22:15:53+08:00",
+        "source": "mobile_user",
+        "verified": true,
+        "verified_reason": "汽车博主 微博原创视频博主",
+        "verified_type": 0,
+        "verified_type_ext": 2
+      },
+      "category": "金橙V",
+      "created_at_text": "Fri Nov 27 21:31:01 +0800 2026",
+      "excerpt": "#小米汽车#\n小米辅助驾驶的技术储备，可能比很多人想象中要多。\n今天看了小米汽车世界模型2.0的展示，尤其是实时渲染的部分，让我想起了特斯拉之前\n展示的世界模型。\n以前我们聊辅助驾驶，经常聊算力、激光雷达、摄像头，但往后发展，汽车能不能理解物理世界的运行规律，也是一个很重要的能力。\n比如前车突然减速、路边的人准备横穿马路，汽车除了识别这些信息，还要尝试理解接下来可能发生什么。\n目前小米这套技术已经交付了超过20万段高质量合成数据，用于感知模型训练。\n虽然距离部分技术真正上车还",
+      "mid": "5369979148962899",
+      "uid": "6460691207",
+      "url": "https://m.weibo.cn/detail/5369979148962899",
+      "username": "所长Wy"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-27T22:16:00+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "今天18:46",
+      "excerpt": "小米汽车世界模型2.0的SR路面感知系统渲染，也有Reality View？\n​",
+      "mid": "5369937816194816",
+      "uid": "6327032710",
+      "url": "https://weibo.com/6327032710/RtloVpZyo",
+      "username": "DSP-Charles"
+    },
+    {
+      "account": {
+        "badge": "无徽标",
+        "observed_at": "2026-11-27T22:15:55+08:00",
+        "source": "mobile_user",
+        "verified": false,
+        "verified_type": -1
+      },
+      "category": "普通用户",
+      "created_at_text": "Fri Nov 27 22:01:00 +0800 2026",
+      "excerpt": "#小米世界模型2.0实时渲染#\n什么时候能用上？",
+      "mid": "5369986694777975",
+      "uid": "5832566430",
+      "url": "https://m.weibo.cn/detail/5369986694777975",
+      "username": "工程的边缘"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-27T22:15:48+08:00",
+        "source": "mobile_user",
+        "verified": true,
+        "verified_reason": "数码博主",
+        "verified_type": 0,
+        "verified_type_ext": 1
+      },
+      "category": "金橙V",
+      "created_at_text": "Fri Nov 27 22:00:42 +0800 2026",
+      "excerpt": "小米对面向普通人传播的发布会和技术类的信息传播做了一定分隔。\n本来我以为会在早上发布会讲，没想到只是简单发了篇微博，但也许这是很多普通人爱看小米发布会的原因。\n简单的信息容易被大众听懂，但是长时间下去会让人误解小米只有营销，没有技术。\n你米发了这么多真实有用的论文，我还是希望雷总多多转发的\n#小米世界模型2.0实时渲染#",
+      "mid": "5369986619281656",
+      "uid": "6327032710",
+      "url": "https://m.weibo.cn/detail/5369986619281656",
+      "username": "DSP-Charles"
+    },
+    {
+      "account": {
+        "badge": "无徽标",
+        "observed_at": "2026-11-27T22:16:00+08:00",
+        "source": "search_avatar"
+      },
+      "category": "普通用户",
+      "created_at_text": "21分钟前",
+      "excerpt": "想到了一句话，特斯拉有的，我们也有。\n#小米世界模型2.0实时渲染#\n​",
+      "mid": "5369985116410613",
+      "uid": "3039371943",
+      "url": "https://weibo.com/3039371943/RtmDdqTGZ",
+      "username": "王倩看路"
+    },
+    {
+      "account": {
+        "badge": "无徽标",
+        "observed_at": "2026-11-27T22:16:00+08:00",
+        "source": "search_avatar"
+      },
+      "category": "普通用户",
+      "created_at_text": "29分钟前",
+      "excerpt": "#小米世界模型2.0实时渲染#\n洋大人有的，我也要有\n洋人之下我第一。\n站起来，不许跪！ ​",
+      "mid": "5369982932486372",
+      "uid": "2872897215",
+      "url": "https://weibo.com/2872897215/RtmzHaqOM",
+      "username": "曾生要賺錢練肌肉"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-27T22:16:00+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "今天18:35",
+      "excerpt": "小米汽车世界模型2.0\nwoc，怎么不早点掏出来啊\nL\n圈内人X_m的微博视频\n​",
+      "mid": "5369934930511314",
+      "uid": "7914490013",
+      "url": "https://weibo.com/7914490013/Rtlkh2910",
+      "username": "圈内人X_m"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-27T22:15:58+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "今天19:35",
+      "excerpt": "重磅！还是没忍住，我必须狠狠分享，夸一下！\n小米世界模型2.0，真正强大的地方，是它已经不再局限于智能驾驶。整个1260万段训练视频、1—7路摄像头统一建模、分钟级实时生成、持续三维场景重建，以及面向汽车和机器人的统一技术架构。\n在官方公布的基准测试中，部分核心指标达到SOTA水平，闭环仿真实验中的碰撞率由1.2%下降至0.4%。\n如果说大语言模型让AI理解人类语言，那么世界模型就是让AI学习物理世界的运行规律，而世界动作模型则进一步让AI具备在物理世界中行动的能力。\n从Mi",
+      "mid": "5369949967356911",
+      "uid": "9054522804",
+      "url": "https://weibo.com/9054522804/RtlIwuRRR",
+      "username": "尊川川"
+    },
+    {
+      "account": {
+        "badge": "蓝V",
+        "observed_at": "2026-11-27T22:16:00+08:00",
+        "source": "search_avatar"
+      },
+      "category": "认证用户",
+      "created_at_text": "10月15日 11:28",
+      "excerpt": "让真实任务检验模型能力。MiMo-V2.6 上线三周，大模型权威评测机构Artificial Analysis 与 Arena 陆续公布四项面向真实任务的评测结果：\nMiMo-V2.6-Pro 在真实仓库编程榜单 FrontierCode 1.1、漏洞防御榜单 Cyber Index，以及基于真实用户会话的 Agent Arena 中均位列开源第一，并均位于对应榜单的「能力-成本」帕累托前沿；在交互式 3D 榜单 AA-3D 中位列开源第二。\n收起\nd",
+      "mid": "5354244754377667",
+      "uid": "6486870325",
+      "url": "https://weibo.com/6486870325/RmL9ximPx",
+      "username": "小米技术"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-27T22:15:58+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "今天17:14",
+      "excerpt": "我去？小米汽车世界模型2.0，你们看中间那个就好，前两天特斯拉FSD V15让大家各种卧槽，貌似小米也已经在做了。 ​",
+      "mid": "5369914488783695",
+      "uid": "2628081005",
+      "url": "https://weibo.com/2628081005/RtkNiAR2v",
+      "username": "科技圈"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-27T22:15:58+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "今天19:22",
+      "excerpt": "雷总发的微博也就图一乐\n真看大事儿还得看小米技术\n这个账号目前发布的所有信息都是重量级的\n拜读ing\n小米汽车世界模型 2.0   ！！！\nReality View ！！！ ​",
+      "mid": "5369946743508335",
+      "uid": "3052236614",
+      "url": "https://weibo.com/3052236614/RtlDkeIG3",
+      "username": "机智的娜娜"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-27T22:15:50+08:00",
+        "source": "mobile_user",
+        "verified": true,
+        "verified_reason": "科技博主 超话小主持人（科技超话）",
+        "verified_type": 0,
+        "verified_type_ext": 1
+      },
+      "category": "金橙V",
+      "created_at_text": "Fri Nov 27 21:56:08 +0800 2026",
+      "excerpt": "#微博视频号续航计划#\n看到小米世界模型2.0实时渲染，刷到第一眼：咦，这集我是不是在特斯拉那看过😂\n前阵子特斯拉FSD V15的Reality View也是车机里实时生成周围世界，公开说法是36帧、约10亿参数、只占半颗加速器，马斯克自己也说画面会慢半拍但不影响开车。小米这次视角跟着左转转，视觉上确实一个路数。\n区别嘛，特斯拉已经在量产车上跑，小米论文口径里单卡约4.6帧、多卡才可能摸到实时，车端实际啥样还有待核实。就……两边朝一个方向比划，观众很难不并排看👀\n仅为个人观点",
+      "mid": "5369985468734733",
+      "uid": "2342846727",
+      "url": "https://m.weibo.cn/detail/5369985468734733",
+      "username": "是煦煦哟"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-27T22:16:01+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "今天20:33",
+      "excerpt": "国内大部分厂家都会跟进了 最快的一家是  不是主机厂\n小米也会  不过大部分应该都是云端渲染\nL\n董郁金的微博视频\n​",
+      "mid": "5369964705878574",
+      "uid": "2594123774",
+      "url": "https://weibo.com/2594123774/Rtm6ioFhI",
+      "username": "董郁金"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-27T22:15:58+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "2025年12月17日 10:55",
+      "excerpt": "#小米发布最新MiMo大模型#\n#小米推出在线ai聊天服务#\n小米发布Xiaomi MiMo-V2-Flash全新开源MoE模型，可以体验一下网页版，估计APP也在路上了。看上去生成过程类似deepseek。\n大家可以去试试～\n我平时用deepseek和豆包比较多，你们呢？ ​",
+      "mid": "5244795351991432",
+      "uid": "6025212625",
+      "url": "https://weibo.com/6025212625/QiNkz8m3S",
+      "username": "谁是小梦_"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-27T22:16:01+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "2023年12月15日 20:13",
+      "excerpt": "手机就可以完成实时3D渲染了\n谷歌开发的SMERF不仅能通过手机完成，还能在最大300平方米的空间内以厘米级的精度渲染，而且场景非常逼真。真的太震撼了！\n#aigc#\n#遇见艺术#\nL\n优设AIGC的微博视频\n​",
+      "mid": "4979305467872982",
+      "uid": "1773655610",
+      "url": "https://weibo.com/1773655610/Nxh62x27A",
+      "username": "优设AIGC"
+    },
+    {
+      "account": {
+        "badge": "蓝V",
+        "observed_at": "2026-11-27T22:16:01+08:00",
+        "source": "search_avatar"
+      },
+      "category": "认证用户",
+      "created_at_text": "10月15日 12:29",
+      "excerpt": "一段文字，MiMo 能搭出怎样的交互式3D 场景？\n近期，Artificial Analysis（AA）新推出 AA-3D 榜单：全球21 款模型按文字需求搭建3D场景，接受匿名两两盲评，累计获得超 1 万次评审团投票。MiMo-V2.6-Pro 以 977 Elo 位列首版榜单开源第二。\n一起来看看它在评测中搭建的 3D 场景。\nL\n小米技术的微博视频\n​",
+      "mid": "5354260259931518",
+      "uid": "6486870325",
+      "url": "https://weibo.com/6486870325/RmLyxFFDM",
+      "username": "小米技术"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-27T22:16:01+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "10月15日 11:35",
+      "excerpt": "小米大模型又有进展了，MiMo‑V2.6在海外多项权威实测榜单拿到亮眼成绩，在编程、漏洞修复两项测试位列开源第一，3D场景构建拿到开源第二。\n这意味小米MiMo‑V2.6拥有极低的推理成本，既能降低自家硬件AI的云端开销，长期还可以看齐海外AI厂商，靠对外API、企业服务、IP授权开辟新的收入曲线。 ​",
+      "mid": "5354246603801073",
+      "uid": "6027322470",
+      "url": "https://weibo.com/6027322470/RmLcwfWPD",
+      "username": "KO正本"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-27T22:16:01+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "09月22日 08:37",
+      "excerpt": "小米的MiMo-V2.6系列模型发布\n其中Pro系列Artificial Analysis 跑分46（目前国产模型里最高），价格还低（平均完成任务所需花费大概是GLM5.3Flash和DeepSeek V4.1 Flash的一半）\n原生支持文本、图片、视频、音频输入（比其他模型多了个音频） ，1M token 上下文。\n依旧是开源版，MIT License；而且官方还表示会开放训练环境和 RL 代码~ 这个开放程度也是蛮高了。\n同时还提供了一个超高速版本MiMo-V2.6-P",
+      "mid": "5345866800170737",
+      "uid": "2194035935",
+      "url": "https://weibo.com/2194035935/RjfcI0IpP",
+      "username": "蚁工厂"
+    },
+    {
+      "account": {
+        "badge": "蓝V",
+        "observed_at": "2026-11-27T22:16:01+08:00",
+        "source": "search_avatar"
+      },
+      "category": "认证用户",
+      "created_at_text": "06月09日 11:02",
+      "excerpt": "小米MiMo-V2.5-Pro-UltraSpeed正式发布\n1T参数模型，标准8卡GPU节点，生成速度突破1000 tokens/s\n3倍价格、10倍输出体验，限时开放申请中\nO\nMiMo-V2.5-Pro-UltraSpeed：将 1T 参数模型的生成速度推向 1000 TPS\n​",
+      "mid": "5307852623186723",
+      "uid": "6486870325",
+      "url": "https://weibo.com/6486870325/R3ihwdn0L",
+      "username": "小米技术"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-27T22:16:01+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "09月22日 11:50",
+      "excerpt": "今天是罗圣！MiMo-V2.6的API定价没涨，跟V2.5一样！\nMiMo-V2.6融合了3D空间推理、多模态感知与计算机操作能力，所以现在的MiMo可以支持3D 开放世界游戏、具身智能、Blender 3D 建模这些开发场景下的使用，\n而且现在MiMo在开发者社群里的口碑非常好，GitHub上已经有不少开发者拿MiMo Code干活，OpenRouter的调用量也持续上涨，周调用量达到10.5万亿Token，付费用户留存超过30%\n所以一个模型到底好不好这个问题，还是得看有",
+      "mid": "5345915422639949",
+      "uid": "6327032710",
+      "url": "https://weibo.com/6327032710/Rjgt8b4LP",
+      "username": "DSP-Charles"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-27T22:16:01+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "05月26日 11:13",
+      "excerpt": "小米公布新的世界模型框架路径！完成业务落地！\n牛逼老铁们，这个我之前直播讲过一部分，今天又有重磅更新，今晚又有活干了，今天讲这个\n​",
+      "mid": "5302782044407857",
+      "uid": "9054522804",
+      "url": "https://weibo.com/9054522804/R1anaiuGt",
+      "username": "尊川川"
+    },
+    {
+      "account": {
+        "badge": "蓝V",
+        "observed_at": "2026-11-27T22:16:01+08:00",
+        "source": "search_avatar"
+      },
+      "category": "认证用户",
+      "created_at_text": "09月22日 09:01",
+      "excerpt": "小米正式发布并开源全新一代MiMo大模型：全模态旗舰模型Xiaomi MiMo-V2.6-Pro、高效推理模型Xiaomi MiMo-V2.6-Flash，并同步上线MiMo-V2.6-Pro的超高速模式V2.6-Pro-Ultraspeed，以及MiMo Desktop桌面客户端正式版。\n全球权威大模型测评平台Artificial Analysis综合智能指数榜单显示，Xiaomi MiMo-V2.6-Pro以46分的成绩登顶全球开源大模型第一、国产模型第一。\nO\nXiao",
+      "mid": "5345872855696498",
+      "uid": "6486870325",
+      "url": "https://weibo.com/6486870325/RjfmtnTV0",
+      "username": "小米技术"
+    },
+    {
+      "account": {
+        "badge": "蓝V",
+        "observed_at": "2026-11-27T22:16:02+08:00",
+        "source": "search_avatar"
+      },
+      "category": "认证用户",
+      "created_at_text": "2025年12月17日 08:07",
+      "excerpt": "#卢伟冰回应小米自研大模型开源上线#\n【\n#小米新模型媲美DeepSeekV3.2#\n】\n#小米新模型跑分曝光#\n开源模型再次迎来一位重磅选手，就在刚刚，小米正式发布并开源新模型 MiMo-V2-Flash。\nMiMo-V2-Flash 总参数 3090 亿，活跃参数 150 亿，采用专家混合架构 (MoE)，性能还能和 DeepSeek-V3.2、Kimi-K2 这些头部开源模型掰掰手腕。\n此外，MiMo-V2-Flash 采用 MIT 开源协议，基础版权重也已经在 Hug",
+      "mid": "5244753226503307",
+      "uid": "1642634100",
+      "url": "https://weibo.com/1642634100/QiMeCrhO3",
+      "username": "新浪科技"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-27T22:16:02+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "04月28日 09:24",
+      "excerpt": "小米AI大模型迎重磅利好！\n刚刚，燧原科技宣布，公司已同步完成对小米MiMo-V2.5-Pro的Day-0极速适配，成为首批实现适配的国产算力厂商之一。 ​",
+      "mid": "5292607720390939",
+      "uid": "2435407712",
+      "url": "https://weibo.com/2435407712/QCR9i1DHt",
+      "username": "机海风云"
+    },
+    {
+      "account": {
+        "badge": "蓝V",
+        "observed_at": "2026-11-27T22:16:02+08:00",
+        "source": "search_avatar"
+      },
+      "category": "认证用户",
+      "created_at_text": "2025年12月20日 16:17",
+      "excerpt": "#AI前沿速递#\n小米演示 MiMo-V2-Flash 在 70 秒内生成酷炫个人网站。在关闭模型 “思考模式” 之后，Mimo-V2-Flash 依然可以 达到 DeepSeek V3.2 和 Claude 4.5 Sonnet 级别的智能，但速度提升 2-3 倍！\n目前可以通过 Kilo，OpenRouter 免费调用模型 API。视频中的演示是通过 VS Code 结合 Kilo 插件调用模型 API 完成的。\n#原来微信长按2秒钟这么好用#\n（零重力瓦力）\nL\n零重力",
+      "mid": "5245963586506259",
+      "uid": "7752729208",
+      "url": "https://weibo.com/7752729208/QjhIOrizF",
+      "username": "新浪AI"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-27T22:16:02+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "09月09日 01:26",
+      "excerpt": "#小米发布最新模型MiMoX#\n作为平时爱折腾点创作的人，看到小米新模型覆盖视频剪辑、3D 生成和音乐生成，还是挺好奇的。现在 AI 创作工具不少，但很多都是分开的，剪视频用一个、做 3D 用一个、生成音乐又得换一个，来回切挺麻烦的。小米这个如果能在一个桌面客户端里把这些能力串起来，体验上会顺很多。当然现在还是预览测试阶段，具体生成质量和稳定性都得打个问号。已经在开放平台的用户可以去申请邀测，我打算等别人测完看看效果再决定要不要折腾。\n收起\nd",
+      "mid": "5341047421930410",
+      "uid": "5642471321",
+      "url": "https://weibo.com/5642471321/RhdPw86bE",
+      "username": "谁是阿壳"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-27T22:16:02+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "09月22日 10:55",
+      "excerpt": "#小米开源MiMoV2.6大模型#\n小米又偷摸搞大的\n这次 MiMo‑V2.6 强化学习阶段开放实时训练看板，Pro、Flash 双版本的训练进度、Token 消耗、各项指标、算力成本全部公开，连训练中途显存异常、集群重启这类工程故障也直接挂在页面上，透明度在行业里算非常少见36氪。\n两个版本合计折算，训练每小时成本接近 3 万美元\n折合人民币大约20w\nMiMo-V2.6 系列沿用 V2.5 系列的 API 定价。智能提升，价格不变。刷新了国产模型的性价比纪录：【在同等智能",
+      "mid": "5345901529006722",
+      "uid": "7431945877",
+      "url": "https://weibo.com/7431945877/Rjg6IBN3I",
+      "username": "大遥"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-27T22:16:02+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "09月22日 22:54",
+      "excerpt": "【兴证通信】AI日报20260922\n⭕AI行业新闻：\n✨9月22日消息，小米凌晨发布并开源MiMo-V2.6系列，含Pro与Flash两个原生全模态模型。MiMo-V2.6-Pro在AA综合智能指数v4.3.2中取得46分，超过Kimi K3和GLM-5.3，成为当前排名最高的开源权重模型，较前代的26分提升20分。定价维持不变，同等智能水平下价格仅为海外模型的二十分之一至六十分之一。（来源：IT之家）\n✨9月22日消息，马斯克旗下SpaceXAI发布Grok 4.7，为公",
+      "mid": "5346082574830419",
+      "uid": "1249424622",
+      "url": "https://weibo.com/1249424622/RjkOJkgBZ",
+      "username": "但斌"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-27T22:16:02+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "03月27日 15:58",
+      "excerpt": "#小米大模型负责人谈未来竞争#\n一个大模型好不好用，真实的Token消耗不会说谎，小米MiMo‑V2‑Pro已经登顶OpenRouter周榜第一，成为平台史上首个周Token消耗超3万亿的模型，使用市占率超30%。海外开发社区里好评如潮，OpenCode都表示没想到MiMo-V2-Pro的性能会这么好，马斯克转发了一条大模型无幻觉率的榜单，MiMo-V2-Pro悄悄排名世界第三……MiMo的表现还是太权威了\n收起\nd",
+      "mid": "5281110410924240",
+      "uid": "5738771023",
+      "url": "https://weibo.com/5738771023/Qy23f3Sr6",
+      "username": "搞机Time"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-27T22:16:02+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "05月26日 13:08",
+      "excerpt": "小米汽车又整了个吓人的东西出来！\nXiaomi Auto World Model，把辅助驾驶的世界模型直接给重构了！\n别的方案都是把”重建”和”生成”分开做，简单拼接，最后两个都打折扣。小米说不行，直接把两个深度耦合成一个框架，让它们互相增益！\n结果就是Waymo、nuScenes基准测试全面SOTA，全部第一！ ​",
+      "mid": "5302810838565824",
+      "uid": "6174602953",
+      "url": "https://weibo.com/6174602953/R1b7BzWms",
+      "username": "金剪刀开箱"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-27T22:16:02+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "10月13日 16:22",
+      "excerpt": "AA 搞了个 LLM 生成 3D 能力排行榜\n测试方法是让每个模型作为一个 agent 在离线沙盒中工作，输出 three.js 3D 模型\n沙盒配备 Blender、Rapier 物理引擎、Python、无头浏览器用于测试自己的作品，以及 CC0 材质库、3D 模型和角色库\n测试涉及 7个领域的 55个案例，包括地标、机器、生物体、游戏和太空。\n盲测结果：Claude Sonnet 5.5 (1194)、Claude Opus 5.5 (1190)、GPT-6 Astra ",
+      "mid": "5353594166445906",
+      "uid": "1706699904",
+      "url": "https://weibo.com/1706699904/Rmuecr2Se",
+      "username": "i陆三金"
+    },
+    {
+      "account": {
+        "badge": "黄V",
+        "observed_at": "2026-11-27T22:16:02+08:00",
+        "source": "search_avatar"
+      },
+      "category": "认证用户",
+      "created_at_text": "09月17日 11:37",
+      "excerpt": "小米正直播跑 MiMo V2.6大模型 RL 后训练，pro 与 flash 双线迭代、动态采样收益抬头 ​",
+      "mid": "5344100167189354",
+      "uid": "6492653306",
+      "url": "https://weibo.com/6492653306/Rivfiuahk",
+      "username": "Bert_t"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-27T22:16:03+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "09月22日 13:13",
+      "excerpt": "#小米发布MiMoV2.6#\n如果用不了国外模型，那就国内来说，现在MiMo V2.6 Pro就是你能用上的最综合水桶的模型了。\n今夜的荣光属于mimo！ ​",
+      "mid": "5345936399926077",
+      "uid": "4015311272",
+      "url": "https://weibo.com/4015311272/Rjh0XFEe1",
+      "username": "程千帆-"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-27T22:16:03+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "09月14日 12:00",
+      "excerpt": "小米再迎利好：MiMo-V2.5周调用量升至全球AI大模型第五名，环比增长230%！\n上周，全球AI大模型调用量排名前五中，有四款中国AI大模型。其中，腾讯混元Hy4 preview位居第二，周调用量达16.8万亿Token，环比增长15%；\n智谱GLM 5.3 Flash位居第三，周调用量达11.9万亿Token，环比下滑4%；\nDeepSeek V4 Flash 0731位居第四，周调用量达11.6万亿Token，环比下滑6%；\n小米MiMo-V2.5升至第五，周调用量达",
+      "mid": "5343018975497194",
+      "uid": "2435407712",
+      "url": "https://weibo.com/2435407712/Ri37rn44q",
+      "username": "机海风云"
+    },
+    {
+      "account": {
+        "badge": "黄V",
+        "observed_at": "2026-11-27T22:16:03+08:00",
+        "source": "search_avatar"
+      },
+      "category": "认证用户",
+      "created_at_text": "2025年12月17日 10:32",
+      "excerpt": "#小米新模型媲美DeepSeekV3.2#\n罗福莉正在介绍，推理速度是DS V3.2的三倍\n小米这个新模型。，现在都可以体验了，大家可以实际测试下具体的效果。 ​",
+      "mid": "5244789538947214",
+      "uid": "2402618443",
+      "url": "https://weibo.com/2402618443/QiNbbBxzU",
+      "username": "科技时辰"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-27T22:16:03+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "2025年12月16日 23:43",
+      "excerpt": "Xiaomi MiMo Studio来了！小米上线了一个309B的大模型，在通用基准测试中，已经跟DeepSeek-V3.2打得有来有回了。DeepSeek-V3.2 水平接近GPT-5、Gemini 3.0 Pro。最惊喜的是它的速度，简直快到飞起，在国内的同级别模型里绝对是第一梯队，基本上你问题刚发出去，它是秒输出答案的。 ​​​​",
+      "mid": "5244626296376486",
+      "uid": "1751603632",
+      "url": "https://weibo.com/1751603632/QiIVTqKOy",
+      "username": "i王石头"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-27T22:15:58+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "2025年12月17日 09:02",
+      "excerpt": "昨晚\n#小米发布最新mimo大模型#\n，MIMO v2 Flash，媲美Deepseek V3.2的水平\n总参数量3090亿，激活参数量150亿，运行速度飞快   ，体验地址：\nO\n网页链接\n今天会不会出现一些大模型专家呢？ ​",
+      "mid": "5244766964416527",
+      "uid": "6286946957",
+      "url": "https://weibo.com/6286946957/QiMAMiwWj",
+      "username": "MAX科技说"
+    },
+    {
+      "account": {
+        "badge": "蓝V",
+        "observed_at": "2026-11-27T22:16:03+08:00",
+        "source": "search_avatar"
+      },
+      "category": "认证用户",
+      "created_at_text": "2025年12月17日 09:26",
+      "excerpt": "【\n#小米新模型媲美DeepSeekV3.2#\n#小米新模型跑分曝光#\n】\n#小米推出在线AI聊天服务#\n小米正式发布并开源新模型 MiMo-V2-Flash。MiMo-V2-Flash 总参数 3090 亿，活跃参数 150 亿，采用专家混合架构 (MoE)，性能还能和 DeepSeek-V3.2、Kimi-K2 这些头部开源模型掰掰手腕。\n先来看看 MiMo-V2-Flash 的跑分。\n基准测试成绩显示，AIME 2025 数学竞赛和 GPQA-Diamond 科学知识测",
+      "mid": "5244773083644283",
+      "uid": "3097378697",
+      "url": "https://weibo.com/3097378697/QiMKEfi2L",
+      "username": "ZEALER"
+    },
+    {
+      "account": {
+        "badge": "蓝V",
+        "observed_at": "2026-11-27T22:16:03+08:00",
+        "source": "search_avatar"
+      },
+      "category": "认证用户",
+      "created_at_text": "2025年12月03日 15:47",
+      "excerpt": "无惧路况复杂，前路不再迷茫！\n#问界M9#\n实时渲染3D界面，道路信息增强呈现，行车一目了然，旅途一路安心。\n#用车小知识#\n#新技能GET#\n​​​​\nL\n问界汽车的微博视频\n​",
+      "mid": "5239795462703785",
+      "uid": "7049279553",
+      "url": "https://weibo.com/7049279553/QgHgeblnr",
+      "username": "问界汽车"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-27T22:16:03+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "02月12日 13:25",
+      "excerpt": "小米开源了其首代机器人 VLA 大模型 Xiaomi-Robotics-0，拥有 47 亿参数，兼具视觉语言理解与高性能实时执行能力。\n该模型在三大主流仿真测试中均获最优成绩，并在现实真机任务中实现了动作连贯、反应灵敏的物理智能泛化，且能在消费级显卡上实现实时推理。\n#小米#\n#308_IO#\n#机器人#\n​",
+      "mid": "5265489297147347",
+      "uid": "3941012678",
+      "url": "https://weibo.com/3941012678/QrtFTtZlN",
+      "username": "首席线索官"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-27T22:16:03+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "2025年12月17日 09:56",
+      "excerpt": "小米的基座模型这么强了么，可以对标DeepSeek-V3.2\n大家讲VLA，核心肯定拼的是L能力，也就是基座模型在自动驾驶的运用。模型性能（参量），决定了够不够聪明，具不具备通识能力。\n比如看到一个气球在路中间，它可以选择开过去，而不是选择绕行；遇到施工锥桶+临时手写标牌，也能结合上下文合理推断通行意图。\n模型的推理帧率，决定了系统“够不够流畅”：系统得对这个物理世界，快速反映，低延迟高吞吐，才能保证体验和安全。\n期待一把，小米基座模型在VLA上的运用～\n#小米新模型媲美De",
+      "mid": "5244780506515179",
+      "uid": "2028368935",
+      "url": "https://weibo.com/2028368935/QiMWCrkTx",
+      "username": "常青-CQ"
+    },
+    {
+      "account": {
+        "badge": "蓝V",
+        "observed_at": "2026-11-27T22:16:03+08:00",
+        "source": "search_avatar"
+      },
+      "category": "认证用户",
+      "created_at_text": "03月27日 11:14",
+      "excerpt": "【\n#小米MiMo成首个周token消耗超3万亿模型#\n】\n3月27日，OpenRouter周榜显示，小米MiMo-V2-Pro上线后登顶周榜第一，成为平台史上首个周token消耗量超3万亿的模型，在编程领域市占率超30%。目前，中国大模型已包揽该榜单全球前六，持续领跑全球AI调用市场，整体优势进一步扩大。\n#中国大模型包揽OpenRouter周榜前六#\n收起\nd",
+      "mid": "5281038844297926",
+      "uid": "3097378697",
+      "url": "https://weibo.com/3097378697/Qy0bOi25o",
+      "username": "ZEALER"
+    },
+    {
+      "account": {
+        "badge": "黄V",
+        "observed_at": "2026-11-27T22:16:03+08:00",
+        "source": "search_avatar"
+      },
+      "category": "认证用户",
+      "created_at_text": "05月28日 17:56",
+      "excerpt": "我给大家总结下，就是当车辆扫图之后大模型先建立一个3d的模型，固定道路线和红绿灯还有建筑，这些是路面的基础。\n然后让ai开始在这条路上想象，比如说下雨了怎么办，冰雹了怎么办，逆行了怎么办，前面有火车过去了怎么办这种你和他都不可能预见的场景。\n也就是说，训练模型的预判能力\n这个事情比华为，小鹏，理想的方案都激进。\n如果做成功他得感知预判处理能力会和人差不多。\n收起\nd",
+      "mid": "5303608058577197",
+      "uid": "6419182621",
+      "url": "https://weibo.com/6419182621/R1vRrzZjT",
+      "username": "耿直科技人"
+    },
+    {
+      "account": {
+        "badge": "蓝V",
+        "observed_at": "2026-11-27T22:16:04+08:00",
+        "source": "search_avatar"
+      },
+      "category": "认证用户",
+      "created_at_text": "03月19日 17:07",
+      "excerpt": "【\n#小米凌晨公开MiMo大模型#\n】\n小米凌晨连发三款大模型，其中MiMo-V2-Pro匿名测试期间霸榜OpenRouter第一，万亿参数超越Gemini 3 Pro，Omni全模态和TTS情感语音同步亮相。\nL\n量子位的微博视频\n​",
+      "mid": "5278228694434392",
+      "uid": "6105753431",
+      "url": "https://weibo.com/6105753431/QwP5jiBAs",
+      "username": "量子位"
+    },
+    {
+      "account": {
+        "badge": "蓝V",
+        "observed_at": "2026-11-27T22:16:04+08:00",
+        "source": "search_avatar"
+      },
+      "category": "认证用户",
+      "created_at_text": "2025年12月17日 10:58",
+      "excerpt": "【\n#小米发布最新MiMo大模型#\n】\n12 月 16 日，小米正式发布并向全球开源了新一代基础语言模型MiMo - V2 - Flash。这款旗舰级模型主打 “高性能、低成本和超高速度”，还适配智能体任务，为大模型的大规模部署和商业化使用降低了门槛。体验链接：\nO\n网页链接\n​",
+      "mid": "5244796125839994",
+      "uid": "3097378697",
+      "url": "https://weibo.com/3097378697/QiNlOovfs",
+      "username": "ZEALER"
+    },
+    {
+      "account": {
+        "badge": "金V",
+        "observed_at": "2026-11-27T22:16:04+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "今天21:14",
+      "excerpt": "#小米世界模型2.0实时渲染#\n技术代差 会慢慢的追平！ ​",
+      "mid": "5369974894104140",
+      "uid": "5089299669",
+      "url": "https://weibo.com/5089299669/RtmmJhdFO",
+      "username": "极速试驾-段艺强"
+    },
+    {
+      "account": {
+        "badge": "黄V",
+        "observed_at": "2026-11-27T22:16:04+08:00",
+        "source": "search_avatar"
+      },
+      "category": "认证用户",
+      "created_at_text": "40分钟前",
+      "excerpt": "#小米世界模型2.0实时渲染#\n居然能随手转着预览啊，延迟看着还这么低，之前我以为这类基于世界模型的渲染都得等老半天加载，动一下就卡成PPT，没想到现在实时交互都能做这么丝滑，感觉以后做虚拟内容或者搞场景交互的话，能省好多事，这技术落地的速度真的有点超出我意料。 ​",
+      "mid": "5369980297414751",
+      "uid": "1529620063",
+      "url": "https://weibo.com/1529620063/Rtmvrv6UL",
+      "username": "安利少女囤囤"
+    },
+    {
+      "account": {
+        "badge": "黄V",
+        "observed_at": "2026-11-27T22:16:04+08:00",
+        "source": "search_avatar"
+      },
+      "category": "认证用户",
+      "created_at_text": "40分钟前",
+      "excerpt": "小米这波世界模型 2.0 的实时渲染，随手转着看都不卡，第一眼确实唬人。可我最想知道的是「啥时候真上车」，特斯拉那边早跑起来了。演示好看跟路上好用，中间差着几百万公里。你觉得今年能等到吗？\n#小米世界模型2.0实时渲染#\n​",
+      "mid": "5369980350896952",
+      "uid": "1952968857",
+      "url": "https://weibo.com/1952968857/Rtmvx3LkY",
+      "username": "神谕_Oracle"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-27T22:15:58+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "今天17:17",
+      "excerpt": "小米汽车世界模型2.0，这SR渲染效果？？？\n​",
+      "mid": "5369915414679956",
+      "uid": "5738771023",
+      "url": "https://weibo.com/5738771023/RtkONjDta",
+      "username": "搞机Time"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-27T22:16:04+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "48分钟前",
+      "excerpt": "#小米世界模型2.0实时渲染#\n能随手旋转预览也太爽了吧，本来还以为是提前渲染好的固定成片，没想到是实时出的效果，延迟看着还很低，这技术用到3D内容创作或者交互场景里肯定能省不少事，感觉可挖掘的应用方向还挺多的，有点好奇之后能整出什么新玩法。 ​",
+      "mid": "5369978295682703",
+      "uid": "3887232630",
+      "url": "https://weibo.com/3887232630/RtmsdnQkv",
+      "username": "后舍女生桃柒柒"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-27T22:16:04+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "58分钟前",
+      "excerpt": "看了一下\n#小米世界模型2.0实时渲染#\n视频，确实有点东西，米子也有自己的GTA了\n​",
+      "mid": "5369975864822577",
+      "uid": "2695347843",
+      "url": "https://weibo.com/2695347843/Rtmoikezv",
+      "username": "我是伍伍同学呀"
+    },
+    {
+      "account": {
+        "badge": "无徽标",
+        "observed_at": "2026-11-27T22:16:04+08:00",
+        "source": "search_avatar"
+      },
+      "category": "普通用户",
+      "created_at_text": "30分钟前",
+      "excerpt": "#小米世界模型2.0实时渲染#\n这个实时渲染效果真的有点惊到我，随手就能旋转预览各种角度，延迟看起来还特别低，完全没有那种卡卡顿顿拖帧的感觉。之前还总觉得世界模型这类技术离日常使用还远，没想到落地进度居然这么快，以后说不定挑数码产品啥的直接就能实时调全角度看细节，也太方便了吧。 ​",
+      "mid": "5369982837854854",
+      "uid": "7532423581",
+      "url": "https://weibo.com/7532423581/RtmzxwXpc",
+      "username": "陈阿花的生活日志"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-27T22:16:04+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "38分钟前",
+      "excerpt": "#小米世界模型2.0实时渲染#\n小米技术这次拿出来的东西真的有点惊喜，随手旋转预览的操作也太丝滑了，延迟低到几乎没什么感知，之前总觉得世界模型相关的渲染得等好半天加载缓存，没想到能做到这么流畅的实时交互，技术迭代的速度真的超出预期，感觉之后不管是做数字内容还是搞空间交互设计，都能有更多有意思的玩法可以挖。\n收起\nd",
+      "mid": "5369980839267995",
+      "uid": "6382577219",
+      "url": "https://weibo.com/6382577219/RtmwjCT1N",
+      "username": "互联网少女卷卷"
+    },
+    {
+      "account": {
+        "badge": "无徽标",
+        "observed_at": "2026-11-27T22:16:04+08:00",
+        "source": "search_avatar"
+      },
+      "category": "普通用户",
+      "created_at_text": "今天21:02",
+      "excerpt": "#小米世界模型2.0实时渲染#\n世界模型的强悍能力展现，虚拟世界模型可以把机器人和汽车智驾放一起进行交叉交互，虽然机器人面对的变量是指数级的，但是世界模型可提供的3D交互 ​",
+      "mid": "5369972026773146",
+      "uid": "6089197127",
+      "url": "https://weibo.com/6089197127/Rtmi6sq0i",
+      "username": "超长的名字给超漂亮的表妹QBQ"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-27T22:15:53+08:00",
+        "source": "mobile_user",
+        "verified": true,
+        "verified_reason": "头像本人",
+        "verified_type": 0,
+        "verified_type_ext": 2
+      },
+      "category": "金橙V",
+      "created_at_text": "Fri Nov 27 21:51:49 +0800 2026",
+      "excerpt": "#小米世界模型2.0实时渲染#\n没办法，智驾特斯拉和小米双龙戏珠，遥遥领先。。销量上也一样。。正循环♻️中。。",
+      "mid": "5369984381356081",
+      "uid": "7999370616",
+      "url": "https://m.weibo.cn/detail/5369984381356081",
+      "username": "P的赵"
+    },
+    {
+      "account": {
+        "badge": "蓝V",
+        "observed_at": "2026-11-27T22:16:00+08:00",
+        "source": "search_avatar"
+      },
+      "category": "认证用户",
+      "created_at_text": "今天09:36",
+      "excerpt": "小米HAD 最新版本 Xiaomi HyperOS 1.20，引入「因果链」和「车端世界模型」， 像人一样思考，处理更准确。\n能记忆过去20秒，预测未来6秒，更“聪明”地判断路况；\n绕行临停更高效，风险预测更精准，更可靠地应对问题。 ​​​​",
+      "mid": "5369799307955797",
+      "uid": "7871239944",
+      "url": "https://weibo.com/7871239944/RthNwxnFj",
+      "username": "小米汽车"
+    },
+    {
+      "account": {
+        "badge": "蓝V",
+        "observed_at": "2026-11-27T22:16:00+08:00",
+        "source": "search_avatar"
+      },
+      "category": "认证用户",
+      "created_at_text": "今天09:24",
+      "excerpt": "【\n#小米HAD发布最新版本#\n：引入因果链和车端世界模型，澎程全系即日开启全量推送】\n#小米澎程最新销量#\n2026广州车展期间，小米汽车举行发布会，小米汽车副总裁李肖爽发表演讲。\n发布会上，小米HAD最新版本Xiaomi HyperOS 1.20发布，引入因果链和车端世界模型，像人一样思考，处理更准确。\n#小米澎程已交付超60000台#\n据悉，小米澎程全系即日开启全量推送小米HAD最新版本；第一代SU7 Pro/Max、 SU7 Ultra，新一代SU7全系/YU7全系将",
+      "mid": "5369796436690818",
+      "uid": "1642634100",
+      "url": "https://weibo.com/1642634100/RthITs4Aq",
+      "username": "新浪科技"
+    },
+    {
+      "account": {
+        "badge": "橙V",
+        "observed_at": "2026-11-27T22:15:58+08:00",
+        "source": "search_avatar"
+      },
+      "category": "金橙V",
+      "created_at_text": "今天13:39",
+      "excerpt": "#小米HAD发布最新版本#\n2026广州车展小米汽车发布会，小米汽车副总裁李肖爽介绍：小米辅助驾驶迎来大升级！小米HAD最新版本Xiaomi HyperOS 1.20发布，引入因果链和车端世界模型，像人一样思考，处理更准确……这个不知🈶没有吹牛逼，如果没有，那小米汽车是尊嘟要起飞了！！雷军：用友商的话是‘遥遥领先’！！余承东：are you ok??\n#热点解读#\nL\n古遠清的微博视频\n收起\nd",
+      "mid": "5369860537453014",
+      "uid": "1275602030",
+      "url": "https://weibo.com/1275602030/RtjohvgRU",
+      "username": "古遠清"
+    }
+  ],
+  "reference_url": "https://s.weibo.com/aisearchmore?q=%E5%B0%8F%E7%B1%B3%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B2.0%E5%AE%9E%E6%97%B6%E6%B8%B2%E6%9F%93&res_type=ref_blog&u_type=&page=1",
+  "reported_count": 61,
+  "source_url": "https://s.weibo.com/aisearch?q=%E5%B0%8F%E7%B1%B3%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B2.0%E5%AE%9E%E6%97%B6%E6%B8%B2%E6%9F%93&Refer=weibo_aisearch&t=31"
+}
