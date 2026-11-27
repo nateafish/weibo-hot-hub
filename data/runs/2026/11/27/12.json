@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-27T12:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 50,
+    "ai_unchanged": 0,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#习近平深圳时间的时代回响#",
+      "rank": 1,
+      "title": "习近平深圳时间的时代回响",
+      "topic_id": "231522ac647f43ddd2d1baa426d6a27f0d98e2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女子因超40岁被酒店拒办入住#",
+      "rank": 1,
+      "title": "女子因超40岁被酒店拒办入住",
+      "topic_id": "231522b8632677e69a5a37a4c33e0fabf29e7f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#海康威视取消大小周遭员工抵制#",
+      "rank": 2,
+      "title": "海康威视取消大小周遭员工抵制",
+      "topic_id": "2315224defe23e23367ef11954ff8c77af674e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#服务贸易发展十五五规划来了#",
+      "rank": 3,
+      "title": "服务贸易发展十五五规划来了",
+      "topic_id": "23152206dfa2bdd6f64f671383df3f804f2f37"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#On直播哭了#",
+      "rank": 4,
+      "title": "On直播哭了",
+      "topic_id": "2315227b788b447701b0a79eb370b549c8c39c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#赖冠霖一下就get到了赵昭仪的愤怒#",
+      "rank": 5,
+      "title": "赖冠霖一下就get到了赵昭仪的愤怒",
+      "topic_id": "231522ed89855eac7e5c3a999808832cc310e2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#警方回应50余人摘蜜桔仅留下10元#",
+      "rank": 6,
+      "title": "警方回应50余人摘蜜桔仅留下10元",
+      "topic_id": "2315225314d7b6248d93666b9e0fc80912e234"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#文吉儿不止邀请过王子璇#",
+      "rank": 7,
+      "title": "文吉儿不止邀请过王子璇",
+      "topic_id": "231522f1cc1125784a02b50d51be2eaa7b2f36"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "曾经80万的车现在卖5万",
+      "rank": 8,
+      "title": "曾经80万的车现在卖5万",
+      "topic_id": "23152218d8ef556a1cde90e2a525e6964f6a7f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#失去了文王才知道文王的重要性#",
+      "rank": 9,
+      "title": "失去了文王才知道文王的重要性",
+      "topic_id": "2315222a5c39fdb637cf3c92b6e45bd97ca209"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#Viper跟观众告别#",
+      "rank": 10,
+      "title": "Viper跟观众告别",
+      "topic_id": "231522da378a9a9e7d060c3e484d2f69918a0e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#赵昭仪曝被导演开黄腔#",
+      "rank": 11,
+      "title": "赵昭仪曝被导演开黄腔",
+      "topic_id": "23152298eb1fd394fda8520e02748c3164afe1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#杨蓉遗传病暂无根治手段#",
+      "rank": 12,
+      "title": "杨蓉遗传病暂无根治手段",
+      "topic_id": "231522644276828497cdc19deed03acf14b689"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#徐璐体重一直保持在85斤左右#",
+      "rank": 13,
+      "title": "徐璐体重一直保持在85斤左右",
+      "topic_id": "231522305f62ba489849499af9046340cfcf19"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#许飞这是人能承受的痛苦吗#",
+      "rank": 14,
+      "title": "许飞这是人能承受的痛苦吗",
+      "topic_id": "2315225cd2ff046533fe589b76adb9449b52ce"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#女生投诉全季早餐有异物被找到导员#",
+      "rank": 15,
+      "title": "女生投诉全季早餐有异物被找到导员",
+      "topic_id": "231522794a49f85dc7aafaad9026ea76d626e3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#赵昭仪合作导演清单#",
+      "rank": 16,
+      "title": "赵昭仪合作导演清单",
+      "topic_id": "2315222af7c55d659bdb9567768e2cfae1595a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#A股明年或迎春天#",
+      "rank": 17,
+      "title": "A股明年或迎春天",
+      "topic_id": "23152258420a8267a6bd53b0cfbf1da4c20ca7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#人民锐评批随地大小直播乱象#",
+      "rank": 18,
+      "title": "人民锐评批随地大小直播乱象",
+      "topic_id": "231522ae14fafc6f5f34163da15b1e1ad23a1d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#中国女游客泰国遭同胞绑架下药#",
+      "rank": 19,
+      "title": "中国女游客泰国遭同胞绑架下药",
+      "topic_id": "231522f266eaa2a295f27dbe41f20846a4a399"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#别把豆包当医生#",
+      "rank": 20,
+      "title": "别把豆包当医生",
+      "topic_id": "23152221609467ce293ab7994df0a6acb4a611"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#景甜中国戏剧年度大赏路透#",
+      "rank": 21,
+      "title": "景甜中国戏剧年度大赏路透",
+      "topic_id": "231522532e4f48ef07ecd4db62baeea083260c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "医院人形机器人 恐怖谷效应",
+      "rank": 22,
+      "title": "医院人形机器人 恐怖谷效应",
+      "topic_id": "231522d5e85e22b0e92e8f70956d37c8fbb1c1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#王楚然全世界最尊重冬天穿搭之人#",
+      "rank": 23,
+      "title": "王楚然全世界最尊重冬天穿搭之人",
+      "topic_id": "231522053b4534204cfb8ca8ad621c1eec2e0d"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#厉娜身上有非常重的重建痕迹#",
+      "rank": 24,
+      "title": "厉娜身上有非常重的重建痕迹",
+      "topic_id": "231522e7c9d97b2206828b5fed601cc027628b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#泰国男子当众袭胸女歌手跪地道歉#",
+      "rank": 25,
+      "title": "泰国男子当众袭胸女歌手跪地道歉",
+      "topic_id": "231522ed54bc15d336297ba2634c28f862402e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#A股科技股全面爆发#",
+      "rank": 26,
+      "title": "A股科技股全面爆发",
+      "topic_id": "231522f4016b95d94e164154fb3f6e22711b43"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#爱情公寓众人月薪#",
+      "rank": 27,
+      "title": "爱情公寓众人月薪",
+      "topic_id": "2315225e019e0365cf6ab8fc02160ad8312c10"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#许飞这段反应可以进北影教材了#",
+      "rank": 28,
+      "title": "许飞这段反应可以进北影教材了",
+      "topic_id": "231522caba729c80399fdc773cd767385f0356"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#韩媒称中国足球大反转#",
+      "rank": 29,
+      "title": "韩媒称中国足球大反转",
+      "topic_id": "2315225081c8c024efc02fd9b4a549826a64f7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#长期炎症是至少8种癌症的帮凶#",
+      "rank": 30,
+      "title": "长期炎症是至少8种癌症的帮凶",
+      "topic_id": "23152296ede7f0ea12a216fba329c6404b649e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#好好生活官宣定档#",
+      "rank": 31,
+      "title": "好好生活官宣定档",
+      "topic_id": "23152244abb6a91e71923f6f8d3bae3b9a8b6c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#肖战听到车上放剧本的反应#",
+      "rank": 32,
+      "title": "肖战听到车上放剧本的反应",
+      "topic_id": "231522beadd31dae5f4ea7cc7ca95f1715b024"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#圣枪哥再一次和Viper告别#",
+      "rank": 33,
+      "title": "圣枪哥再一次和Viper告别",
+      "topic_id": "23152281b77ed637776ebcca1f5ff8fc6c13f9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#今起电视开机广告没了#",
+      "rank": 34,
+      "title": "今起电视开机广告没了",
+      "topic_id": "2315225f2124f77a4c0bd9140dd96a019850ed"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#厉娜画地为牢播出当天直播状态#",
+      "rank": 35,
+      "title": "厉娜画地为牢播出当天直播状态",
+      "topic_id": "2315228a17e8b6fe80734b027e022176394676"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#三只松鼠致歉声明#",
+      "rank": 36,
+      "title": "三只松鼠致歉声明",
+      "topic_id": "2315227d094f3790190e38fbd75e84838ce426"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#写完一科就奖励自己一顿在外网火了#",
+      "rank": 37,
+      "title": "写完一科就奖励自己一顿在外网火了",
+      "topic_id": "2315228a6b206af340f419c84ac9ce7b362793"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#小米澎程已交付超60000台#",
+      "rank": 38,
+      "title": "小米澎程已交付超60000台",
+      "topic_id": "231522d9b2d9a973671626ba6c8f53f9c655a7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#金晨这个眼神是人能承受的痛苦吗#",
+      "rank": 39,
+      "title": "金晨这个眼神是人能承受的痛苦吗",
+      "topic_id": "2315225b2df795b6f97107cc555654fd008af6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "徐璐身材",
+      "rank": 40,
+      "title": "徐璐身材",
+      "topic_id": "23152254407b20b8bffc197b4a5e4d15a3a829"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "关晓彤 什么废片这是她爱我的心",
+      "rank": 41,
+      "title": "关晓彤 什么废片这是她爱我的心",
+      "topic_id": "23152296cf5477216cd23e3cae4bd6c64bb237"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#朱瞻基暴打恶官#",
+      "rank": 42,
+      "title": "朱瞻基暴打恶官",
+      "topic_id": "231522d728ca64a1f6e7923576e38b9fa1b655"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#后会友期所有人吵到缺氧#",
+      "rank": 43,
+      "title": "后会友期所有人吵到缺氧",
+      "topic_id": "2315225e0c652bc48365c5dce3584f5b74d317"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "恋爱几年分手都没拍过这样的照片",
+      "rank": 44,
+      "title": "恋爱几年分手都没拍过这样的照片",
+      "topic_id": "231522cb1edcbd28f8d5505d2f9ff050cf02e6"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#陈建州范玮琪与王力宏一家过感恩节#",
+      "rank": 45,
+      "title": "陈建州范玮琪与王力宏一家过感恩节",
+      "topic_id": "231522235555c1e745cd53663214b928b71a7e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 9,
+      "posts": "saved",
+      "query": "月亮",
+      "rank": 46,
+      "title": "月亮",
+      "topic_id": "2315223b373249de714a89a8f30d2b8a7a2ff4"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#医生回应妈妈被孩子咬伤感染险截肢#",
+      "rank": 47,
+      "title": "医生回应妈妈被孩子咬伤感染险截肢",
+      "topic_id": "23152237148fd6369f117cbd95b7db1fa17f28"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#医生提醒不要长期大量补充维生素D#",
+      "rank": 48,
+      "title": "医生提醒不要长期大量补充维生素D",
+      "topic_id": "2315224b1080c2a6898686d3a34897b6412407"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "乙肝药功能性治愈终点获批",
+      "rank": 49,
+      "title": "乙肝药功能性治愈终点获批",
+      "topic_id": "2315225ea51bbb54c451335babf935bf3ee46f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "患者用豆包质疑医生诊断",
+      "rank": 50,
+      "title": "患者用豆包质疑医生诊断",
+      "topic_id": "2315226a62a2fde908ff50e1b6d82c4147a500"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}

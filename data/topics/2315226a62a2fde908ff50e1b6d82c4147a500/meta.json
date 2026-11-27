@@ -3,15 +3,22 @@
   "created_at": 1795738660,
   "first_seen_at": "2026-11-27T09:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-27T11:00:00+08:00",
+  "last_seen_at": "2026-11-27T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%82%A3%E8%80%85%E7%94%A8%E8%B1%86%E5%8C%85%E8%B4%A8%E7%96%91%E5%8C%BB%E7%94%9F%E8%AF%8A%E6%96%AD%23%26t%3D3&title=发布媒体",
-    "show_str": "68家媒体",
+    "show_str": "79家媒体",
     "users": [
       {
         "id": 1288429914,
         "idstr": "1288429914",
         "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1909377960,
+        "idstr": "1909377960",
+        "screen_name": "起点新闻",
         "verified": true,
         "verified_type": 3
       },
@@ -47,13 +54,6 @@
         "id": 5476386628,
         "idstr": "5476386628",
         "screen_name": "侠客岛",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2685336121,
-        "idstr": "2685336121",
-        "screen_name": "南宁晚报",
         "verified": true,
         "verified_type": 3
       }
