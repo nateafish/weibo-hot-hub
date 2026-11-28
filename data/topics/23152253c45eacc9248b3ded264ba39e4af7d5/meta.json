@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 3266943013
   },
-  "last_seen_at": "2026-11-28T11:00:00+08:00",
+  "last_seen_at": "2026-11-28T12:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E7%BE%8E%E5%9B%BD%E8%B5%84%E5%8A%A9%E6%B2%88%E4%BC%AF%E6%B4%8B%E5%B9%B2%E9%A2%842026%E5%8F%B0%E6%B9%BE%E9%80%89%E4%B8%BE%23%26t%3D3&title=发布媒体",
-    "show_str": "8家媒体",
+    "show_str": "12家媒体",
     "users": [
       {
         "id": 3266943013,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 1989020644,
+        "idstr": "1989020644",
+        "screen_name": "STV新闻坊",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1977902724,
         "idstr": "1977902724",
         "screen_name": "看台海",
@@ -51,16 +58,9 @@
         "verified_type": 3
       },
       {
-        "id": 1821499183,
-        "idstr": "1821499183",
-        "screen_name": "大连日报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1726918143,
-        "idstr": "1726918143",
-        "screen_name": "中国青年报",
+        "id": 1925878362,
+        "idstr": "1925878362",
+        "screen_name": "SMGNEWS",
         "verified": true,
         "verified_type": 3
       }
