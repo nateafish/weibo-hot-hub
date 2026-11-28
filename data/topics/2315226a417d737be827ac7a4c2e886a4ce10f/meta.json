@@ -1,13 +1,34 @@
 {
-  "category": null,
+  "category": "明星",
   "created_at": 1795835487,
   "first_seen_at": "2026-11-28T14:00:00+08:00",
-  "host": null,
-  "last_seen_at": "2026-11-28T14:00:00+08:00",
+  "host": {
+    "claim_time": "2026.11.28-至今",
+    "created_at": "2026-11-28 14:46:24",
+    "is_claim": true,
+    "screen_name": "娱乐小浪花er",
+    "status": 2,
+    "uid": 5611783716
+  },
+  "last_seen_at": "2026-11-28T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%9B%9D%E9%82%93%E7%B4%AB%E6%A3%8B%E7%94%B7%E5%8F%8B%E9%A6%99%E6%B8%AF%E4%B9%B0%E5%A9%9A%E6%88%BF%23%26t%3D3&title=发布媒体",
-    "show_str": "1家媒体",
+    "show_str": "3家媒体",
     "users": [
+      {
+        "id": 1941424392,
+        "idstr": "1941424392",
+        "screen_name": "台州晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1280846847,
+        "idstr": "1280846847",
+        "screen_name": "指尖新闻-沈阳晚报",
+        "verified": true,
+        "verified_type": 3
+      },
       {
         "id": 1043320390,
         "idstr": "1043320390",
@@ -17,7 +38,7 @@
       }
     ]
   },
-  "query": "曝邓紫棋男友香港买婚房",
+  "query": "#曝邓紫棋男友香港买婚房#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%82%93%E7%B4%AB%E6%A3%8B%E7%94%B7%E5%8F%8B%E9%A6%99%E6%B8%AF%E4%B9%B0%E5%A9%9A%E6%88%BF%23",
   "sub_category": null,
   "summary": "",

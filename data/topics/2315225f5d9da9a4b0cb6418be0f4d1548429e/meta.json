@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 5396094153
   },
-  "last_seen_at": "2026-11-28T14:00:00+08:00",
+  "last_seen_at": "2026-11-28T15:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%95%99%E8%82%B2%E7%B3%BB%E7%BB%9F%E5%86%85%E9%AC%BC%E5%87%BA%E5%8D%963.5%E4%B8%87%E5%AD%A6%E7%94%9F%E4%BF%A1%E6%81%AF%23%26t%3D3&title=发布媒体",
-    "show_str": "32家媒体",
+    "show_str": "38家媒体",
     "users": [
       {
         "id": 5396094153,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 1727472420,
+        "idstr": "1727472420",
+        "screen_name": "泰山晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1625232640,
         "idstr": "1625232640",
         "screen_name": "鲁中晨报",
@@ -44,23 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 6867368137,
-        "idstr": "6867368137",
-        "screen_name": "大众网",
+        "id": 6982382342,
+        "idstr": "6982382342",
+        "screen_name": "搜狐科技",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 6373459851,
-        "idstr": "6373459851",
-        "screen_name": "麦穗视频快快看",
-        "verified": true,
-        "verified_type": 7
-      },
-      {
-        "id": 5167503212,
-        "idstr": "5167503212",
-        "screen_name": "贵州日报官微",
+        "id": 6867368137,
+        "idstr": "6867368137",
+        "screen_name": "大众网",
         "verified": true,
         "verified_type": 3
       }
