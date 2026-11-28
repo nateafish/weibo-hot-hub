@@ -3,11 +3,40 @@
   "created_at": 1795851089,
   "first_seen_at": "2026-11-28T16:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-28T16:00:00+08:00",
+  "last_seen_at": "2026-11-28T17:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%9D%92%E7%A8%9A+%E8%85%BF%E5%A5%BD%E6%BC%82%E4%BA%AE%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "4家媒体",
+    "users": [
+      {
+        "id": 7590570074,
+        "idstr": "7590570074",
+        "screen_name": "山海视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2647971081,
+        "idstr": "2647971081",
+        "screen_name": "时速新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 2535760180,
+        "idstr": "2535760180",
+        "screen_name": "安徽视讯",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1723216063,
+        "idstr": "1723216063",
+        "screen_name": "佛山新闻",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "青稚 腿好漂亮",
   "search_url": "https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%A8%9A%20%E8%85%BF%E5%A5%BD%E6%BC%82%E4%BA%AE%23",
