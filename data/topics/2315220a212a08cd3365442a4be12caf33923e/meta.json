@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2318910945
   },
-  "last_seen_at": "2026-11-28T20:00:00+08:00",
+  "last_seen_at": "2026-11-28T21:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BC%8A%E6%9C%9714%E5%B2%81%E5%A5%B3%E5%AD%90%E4%BA%A7%E5%90%8E10%E5%A4%A9%E8%A2%AB%E4%B8%88%E5%A4%AB%E6%89%93%E6%AD%BB%23%26t%3D3&title=发布媒体",
-    "show_str": "6家媒体",
+    "show_str": "8家媒体",
     "users": [
       {
         "id": 2318910945,
@@ -21,6 +21,13 @@
         "screen_name": "新浪热点",
         "verified": true,
         "verified_type": 3
+      },
+      {
+        "id": 3684007222,
+        "idstr": "3684007222",
+        "screen_name": "自主汽车网",
+        "verified": true,
+        "verified_type": 7
       },
       {
         "id": 2252846093,
@@ -37,6 +44,13 @@
         "verified_type": 3
       },
       {
+        "id": 1750353804,
+        "idstr": "1750353804",
+        "screen_name": "合肥交通广播",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1727747885,
         "idstr": "1727747885",
         "screen_name": "大湖观察",
@@ -47,13 +61,6 @@
         "id": 1704185933,
         "idstr": "1704185933",
         "screen_name": "聊城晚报",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1043320390,
-        "idstr": "1043320390",
-        "screen_name": "半岛晨报",
         "verified": true,
         "verified_type": 3
       }
