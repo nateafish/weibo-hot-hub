@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-29T05:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 1,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#从深圳时间到天宫迎客#",
+      "rank": 1,
+      "title": "从深圳时间到天宫迎客",
+      "topic_id": "231522cbc9769d73efd60c9390f543035bc507"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "户籍工作人员把刘招男改成刘照嫣",
+      "rank": 1,
+      "title": "户籍工作人员把刘招男改成刘照嫣",
+      "topic_id": "2315221a12dbf9a65aa67d649a8ae1ba9e31db"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#司机送还遗失手机收100元乘客报警#",
+      "rank": 2,
+      "title": "司机送还遗失手机收100元乘客报警",
+      "topic_id": "231522c517545dd46459e551dbdb0b0cdcf221"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#冰雪旅游全域升温燃动冬日文旅#",
+      "rank": 3,
+      "title": "冰雪旅游全域升温燃动冬日文旅",
+      "topic_id": "2315225635f8708a0e24ab8246c9c935b0fc85"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#霍启山娜然宣布恋情#",
+      "rank": 4,
+      "title": "霍启山娜然宣布恋情",
+      "topic_id": "23152233e012d3cecce80efe23024ae71b6749"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "厉娜察觉被点煤气灯",
+      "rank": 5,
+      "title": "厉娜察觉被点煤气灯",
+      "topic_id": "2315229e50898769a548ea387384462d7e05f8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#曝寡姐美队卷入私密录像风波#",
+      "rank": 6,
+      "title": "曝寡姐美队卷入私密录像风波",
+      "topic_id": "23152286fc82d24680f554564b2e6841be4d0e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#女生回应酒吧蹦迪偶遇于东来#",
+      "rank": 7,
+      "title": "女生回应酒吧蹦迪偶遇于东来",
+      "topic_id": "2315224351af4f00dffaa84085bbfee067587a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#难怪都说霍家三兄弟三段婚事#",
+      "rank": 8,
+      "title": "难怪都说霍家三兄弟三段婚事",
+      "topic_id": "2315227544487686d3eabaf73e200e66171457"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "曼联0比4布伦特福德",
+      "rank": 9,
+      "title": "曼联0比4布伦特福德",
+      "topic_id": "2315221ebc9f1d5382e3c81cade4516838742a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#宇树机器人杀进美国达人秀总决赛#",
+      "rank": 10,
+      "title": "宇树机器人杀进美国达人秀总决赛",
+      "topic_id": "231522c078af7c0f4f40c23ed82b27a5e99536"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#曝柳岩取关厉娜#",
+      "rank": 11,
+      "title": "曝柳岩取关厉娜",
+      "topic_id": "231522d7d78a658754dfb694a5d538230452e0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#霍家三个儿媳三种国籍#",
+      "rank": 12,
+      "title": "霍家三个儿媳三种国籍",
+      "topic_id": "231522a6d9c20aec31dbd5292cc9e557080853"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#易烊千玺回复了王俊凯王源#",
+      "rank": 13,
+      "title": "易烊千玺回复了王俊凯王源",
+      "topic_id": "231522e81046126f9d55798f6d29e850278b49"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#证监会严肃查处南京路宝宝总#",
+      "rank": 14,
+      "title": "证监会严肃查处南京路宝宝总",
+      "topic_id": "231522ddd700b0aa14e0d0eaa94400466b94a9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#白小纯只记得沙特道歉的原因#",
+      "rank": 15,
+      "title": "白小纯只记得沙特道歉的原因",
+      "topic_id": "231522e64cc42237fd73dd2dcd8ff42b773fb0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#王安宇王楚然抽象开团秒跟#",
+      "rank": 16,
+      "title": "王安宇王楚然抽象开团秒跟",
+      "topic_id": "231522719ffe213aba5122376a0f4c7e5d1977"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "为什么很少看到青海IP",
+      "rank": 17,
+      "title": "为什么很少看到青海IP",
+      "topic_id": "231522b67ed261d890dd940862ccc225525885"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "张泉灵评论区被质问哭什么",
+      "rank": 18,
+      "title": "张泉灵评论区被质问哭什么",
+      "topic_id": "23152228adb6d098158f53a0e0bbf98c656a3e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女子将40万黄金放车顶开一路忘拿#",
+      "rank": 19,
+      "title": "女子将40万黄金放车顶开一路忘拿",
+      "topic_id": "2315220612748ba996cde9f21a08b6c07264ca"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "白小纯19岁经历引心疼",
+      "rank": 20,
+      "title": "白小纯19岁经历引心疼",
+      "topic_id": "231522c4fa204c2eb5b6464e124b3387b18937"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "我从未如此佩服豆包",
+      "rank": 21,
+      "title": "我从未如此佩服豆包",
+      "topic_id": "231522d15d3e4b30869f827f6cc5bbaa5b9fc2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "真想和好不会让全网当判官",
+      "rank": 22,
+      "title": "真想和好不会让全网当判官",
+      "topic_id": "2315227314b8ef8dc15a2cfa3a38ad2019bcc5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "建议低谷期的人多逛市中心的商场",
+      "rank": 23,
+      "title": "建议低谷期的人多逛市中心的商场",
+      "topic_id": "231522403bf7799ee563157c977cb93718ae87"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#律师解读司机送还乘客手机收100元#",
+      "rank": 24,
+      "title": "律师解读司机送还乘客手机收100元",
+      "topic_id": "2315224c41ec26e799b60b2f933c6e70743def"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "两京十五日热播带火南京文旅",
+      "rank": 25,
+      "title": "两京十五日热播带火南京文旅",
+      "topic_id": "2315222b4da0a925c74bc2300b387d27ce7a8f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#伞兵录完后会友期直播嗓子哑了#",
+      "rank": 26,
+      "title": "伞兵录完后会友期直播嗓子哑了",
+      "topic_id": "231522c9f625d0a60de21361bd3462d49ec22c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#李思潼获金狮大赏影后#",
+      "rank": 27,
+      "title": "李思潼获金狮大赏影后",
+      "topic_id": "231522efd50fd289d70c771b19301cbda37f09"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#娜然合照中与霍母亲密牵手#",
+      "rank": 28,
+      "title": "娜然合照中与霍母亲密牵手",
+      "topic_id": "231522be41bbbbde22807864031bf2ce6a2af3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#曼联10轮不胜#",
+      "rank": 29,
+      "title": "曼联10轮不胜",
+      "topic_id": "2315224751797560bb670911ca07156be6d728"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#美媒卧底中国电子市场闹大笑话#",
+      "rank": 30,
+      "title": "美媒卧底中国电子市场闹大笑话",
+      "topic_id": "231522dc3354dc854900670c10f9c8690f9dc5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#青稚打完比赛回来家变天了#",
+      "rank": 31,
+      "title": "青稚打完比赛回来家变天了",
+      "topic_id": "2315226a68d22be1806309cfc97fc2918f91b7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#韩网热议BLG新AD#",
+      "rank": 32,
+      "title": "韩网热议BLG新AD",
+      "topic_id": "231522cbe4bfa55552b96082812a3a4ce0db48"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#上海高架3车碰撞肇事车撞飞#",
+      "rank": 33,
+      "title": "上海高架3车碰撞肇事车撞飞",
+      "topic_id": "2315226330bc5c6ab9e1739ad33a4685f6c15e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 7,
+      "posts": "saved",
+      "query": "#詹俊谈曼联4球惨败#",
+      "rank": 34,
+      "title": "詹俊谈曼联4球惨败",
+      "topic_id": "231522f1eb5ca2e7c2e5ce2706e11a8049ea90"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "家长熬夜刷手机孩子迟到",
+      "rank": 35,
+      "title": "家长熬夜刷手机孩子迟到",
+      "topic_id": "2315226c7e8d768cc5642623ca36d57db99b8a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#两京十五日史冠#",
+      "rank": 36,
+      "title": "两京十五日史冠",
+      "topic_id": "231522d5b5c430b339f3c0bda0daaab58bb6fb"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#温瑞博世青赛4冠王#",
+      "rank": 37,
+      "title": "温瑞博世青赛4冠王",
+      "topic_id": "23152296c5676a596916a1bf77bbcfe501dd37"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "三亚选对地方不会被宰",
+      "rank": 38,
+      "title": "三亚选对地方不会被宰",
+      "topic_id": "23152226129a0568c208694f3060dad5f82f86"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "两京十五日对比大明王朝1566",
+      "rank": 39,
+      "title": "两京十五日对比大明王朝1566",
+      "topic_id": "231522c85fd246ff3034f8c0c340311d638905"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#微博国际文化交流之夜名场面#",
+      "rank": 40,
+      "title": "微博国际文化交流之夜名场面",
+      "topic_id": "23152298926643314e0f133450944666c4011c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "蔡徐坤唱了张国荣的我",
+      "rank": 41,
+      "title": "蔡徐坤唱了张国荣的我",
+      "topic_id": "2315224efda0866d8374f0bc814236d7efeccf"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#金狮大赏获奖名单#",
+      "rank": 42,
+      "title": "金狮大赏获奖名单",
+      "topic_id": "231522bd00fe66ad97f31d5b4af6dc8b0e77a2"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#妈妈上厕所用玩具把孩子铐围栏上#",
+      "rank": 43,
+      "title": "妈妈上厕所用玩具把孩子铐围栏上",
+      "topic_id": "231522e88f0b0e822b3113d8cf32b7bc1b96be"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "结婚千万不能找同村的",
+      "rank": 44,
+      "title": "结婚千万不能找同村的",
+      "topic_id": "231522cc8af24bb87809e035917243e23e933b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "歌手鹿晗",
+      "rank": 45,
+      "title": "歌手鹿晗",
+      "topic_id": "23152292baa900f5fc0ee464a94af8c28665e7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#最强厄尔尼诺将影响我国今冬明春#",
+      "rank": 46,
+      "title": "最强厄尔尼诺将影响我国今冬明春",
+      "topic_id": "2315224593d7fda30006b3e9556ed200e80581"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "许飞20周年演唱会",
+      "rank": 47,
+      "title": "许飞20周年演唱会",
+      "topic_id": "231522321d758e2e3d56ad4bb36e518f12f9ed"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#董明珠称骂人并无恶意#",
+      "rank": 48,
+      "title": "董明珠称骂人并无恶意",
+      "topic_id": "231522458e6896dc448d7d862247e4b47579e1"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#巴基斯坦总理天地通话秀中文#",
+      "rank": 49,
+      "title": "巴基斯坦总理天地通话秀中文",
+      "topic_id": "231522d38bc91cec73454bbeecf2255a576060"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#戚薇和李承铉真的好有前瞻性#",
+      "rank": 50,
+      "title": "戚薇和李承铉真的好有前瞻性",
+      "topic_id": "231522c9865de6e15bfced73d87981a9fd0d3a"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
