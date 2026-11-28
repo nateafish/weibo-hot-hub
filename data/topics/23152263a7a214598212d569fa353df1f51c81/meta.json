@@ -10,11 +10,19 @@
     "status": 2,
     "uid": 3245086291
   },
-  "last_seen_at": "2026-11-28T13:00:00+08:00",
+  "last_seen_at": "2026-11-28T14:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E5%89%AA%E8%BE%91bug%23%26t%3D3&title=发布媒体",
-    "show_str": "",
-    "users": []
+    "show_str": "1家媒体",
+    "users": [
+      {
+        "id": 1280846847,
+        "idstr": "1280846847",
+        "screen_name": "指尖新闻-沈阳晚报",
+        "verified": true,
+        "verified_type": 3
+      }
+    ]
   },
   "query": "#后会友期剪辑bug#",
   "search_url": "https://s.weibo.com/weibo?q=%23%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E5%89%AA%E8%BE%91bug%23",

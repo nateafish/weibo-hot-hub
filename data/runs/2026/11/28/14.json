@@ -1,0 +1,538 @@
+{
+  "captured_at": "2026-11-28T14:00:00+08:00",
+  "hotlist_count": 51,
+  "pages_per_topic": 1,
+  "selected_count": 51,
+  "status": "ok",
+  "summary": {
+    "ai_refused": 1,
+    "ai_saved": 49,
+    "ai_unchanged": 1,
+    "metrics_saved": 51,
+    "posts_saved": 51
+  },
+  "topic_delay_seconds": {
+    "base": 1.5,
+    "jitter": 0.5
+  },
+  "topics": [
+    {
+      "ai": "refused",
+      "metrics": "saved",
+      "post_count": 10,
+      "posts": "saved",
+      "query": "#让伊春老林区焕发青春活力#",
+      "rank": 1,
+      "title": "让伊春老林区焕发青春活力",
+      "topic_id": "2315220adc4abe8c0924735bc3f1e3733f6b1a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "董明珠直播训员工引争议",
+      "rank": 1,
+      "title": "董明珠直播训员工引争议",
+      "topic_id": "2315226e2eb5c345fc6e7e174749287291068b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#白小纯把兄弟的经济状况梭哈了#",
+      "rank": 2,
+      "title": "白小纯把兄弟的经济状况梭哈了",
+      "topic_id": "231522eb404ea3cfafc6a2030f926bfbaf8a51"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#工业经济新动能澎湃#",
+      "rank": 3,
+      "title": "工业经济新动能澎湃",
+      "topic_id": "2315223b757ac4c064f3350e98f202d1badcf8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#于东来现身深圳迪厅舞姿火辣#",
+      "rank": 4,
+      "title": "于东来现身深圳迪厅舞姿火辣",
+      "topic_id": "231522005dd315a6995edb35ecfa45113055bc"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#178万卖房次日得知拆迁房主反悔#",
+      "rank": 5,
+      "title": "178万卖房次日得知拆迁房主反悔",
+      "topic_id": "231522c4c514ab0a6cca807865fcd252a0d9ff"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "厉娜大哭 惊恐发作",
+      "rank": 6,
+      "title": "厉娜大哭 惊恐发作",
+      "topic_id": "231522a14251508fb1fcc99554ad239b1d4001"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#澳门老人去珠海养老每月补5000元#",
+      "rank": 7,
+      "title": "澳门老人去珠海养老每月补5000元",
+      "topic_id": "231522bef4fc08694784d451a6f364e7f19b41"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#女子身高153难买衣服怒而自己做#",
+      "rank": 8,
+      "title": "女子身高153难买衣服怒而自己做",
+      "topic_id": "231522b9568d76067a2acd0bb626d0670b4c18"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "湖人vs马刺",
+      "rank": 9,
+      "title": "湖人vs马刺",
+      "topic_id": "231522cffaf603f938d4abc6f99fb503af93f8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "沙丘3导演很失望复联5撞档",
+      "rank": 10,
+      "title": "沙丘3导演很失望复联5撞档",
+      "topic_id": "231522796cf75f0e9ed0dcef7aa32b36a3c84e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#网友扒出厉娜雪藏期间行程图#",
+      "rank": 11,
+      "title": "网友扒出厉娜雪藏期间行程图",
+      "topic_id": "231522ff296b67fc269c6a63dfb51bd2b4aab8"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#董明珠让拿手机员工没动她急了#",
+      "rank": 12,
+      "title": "董明珠让拿手机员工没动她急了",
+      "topic_id": "2315229655a68785c9975b430fa395d1bd9b76"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "天霸 体坛",
+      "rank": 13,
+      "title": "天霸 体坛",
+      "topic_id": "231522559833ba23dedea597fdbedbd26f4ec7"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#后会友期给文吉儿美颜了#",
+      "rank": 14,
+      "title": "后会友期给文吉儿美颜了",
+      "topic_id": "231522a0a84e2769d45fd73b43569889de0bfa"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#范丞丞你要毁了李晨吗#",
+      "rank": 15,
+      "title": "范丞丞你要毁了李晨吗",
+      "topic_id": "2315228dcc70a83ed85fda86503411ff2effc3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "吴磊 大哥摆拍被全国人民知道了",
+      "rank": 16,
+      "title": "吴磊 大哥摆拍被全国人民知道了",
+      "topic_id": "231522157b6fa0257b7c891c129f50e5cbf356"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "印度人呼吁禁播议员女儿婚礼视频",
+      "rank": 17,
+      "title": "印度人呼吁禁播议员女儿婚礼视频",
+      "topic_id": "23152213e78b7503401eaabc8c909bae7f9139"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#看后会友期吵架报警#",
+      "rank": 18,
+      "title": "看后会友期吵架报警",
+      "topic_id": "2315224de1ee44a39e8072fcd0a00bd2e5635c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "文吉儿 基金",
+      "rank": 19,
+      "title": "文吉儿 基金",
+      "topic_id": "2315227f8b557eb2aeb1605fba5404e9348b99"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "冯骥后AI时代最重要的问题",
+      "rank": 20,
+      "title": "冯骥后AI时代最重要的问题",
+      "topic_id": "23152253044a2584de52fade17830b27cf26d5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "马天宇说后会友期和某人起争执了",
+      "rank": 21,
+      "title": "马天宇说后会友期和某人起争执了",
+      "topic_id": "231522c36fc173079e86f04603443405fb3f10"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "曝苹果器重iPhone20Pro系列",
+      "rank": 22,
+      "title": "曝苹果器重iPhone20Pro系列",
+      "topic_id": "231522abeea33c86ec4b34e986d9d39238f652"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 7,
+      "posts": "saved",
+      "query": "#偷渡缅甸实施裸聊敲诈头目获刑20年#",
+      "rank": 23,
+      "title": "偷渡缅甸实施裸聊敲诈头目获刑20年",
+      "topic_id": "231522a569c90e084db34d27a122e86da00f3b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "许飞 原来有些告别是没有告别的",
+      "rank": 24,
+      "title": "许飞 原来有些告别是没有告别的",
+      "topic_id": "231522f0c9b61da5bcf10a71c97b059eade7c9"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "王一博新歌海报",
+      "rank": 25,
+      "title": "王一博新歌海报",
+      "topic_id": "23152263ec01f37109dbb0fe9e405f7dcd6754"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#梁靖崑加盟俄罗斯联赛#",
+      "rank": 26,
+      "title": "梁靖崑加盟俄罗斯联赛",
+      "topic_id": "23152219fef3a8cd1eb8abe528d79b262f3684"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#金饰克价涨到1093元#",
+      "rank": 27,
+      "title": "金饰克价涨到1093元",
+      "topic_id": "231522a38fe426484939aa8da44296b5d6d272"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#泄露身份证后四位有多危险#",
+      "rank": 28,
+      "title": "泄露身份证后四位有多危险",
+      "topic_id": "23152285647f86aa01afe87195cb7667c0450a"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#搭载华为乾崑车型集体上分#",
+      "rank": 29,
+      "title": "搭载华为乾崑车型集体上分",
+      "topic_id": "231522c69690e4d7458ed225a605ec9112de5c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#牧民遇4只雪豹五方都愣住了#",
+      "rank": 30,
+      "title": "牧民遇4只雪豹五方都愣住了",
+      "topic_id": "231522b49b207b3a9801584e9715dc1598d56c"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#王星越说自己北京有四个家#",
+      "rank": 31,
+      "title": "王星越说自己北京有四个家",
+      "topic_id": "2315228444444de325a713a8c0847c5a4d40e0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#特朗普又连发深圳APEC照片#",
+      "rank": 32,
+      "title": "特朗普又连发深圳APEC照片",
+      "topic_id": "23152265d69f185e2ba802911ce98d3a89d477"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "王源 易烊千玺",
+      "rank": 33,
+      "title": "王源 易烊千玺",
+      "topic_id": "231522181b5c1b828ee9a425571adab98bc9a9"
+    },
+    {
+      "ai": "unchanged",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "曝邓紫棋男友香港买婚房",
+      "rank": 34,
+      "title": "曝邓紫棋男友香港买婚房",
+      "topic_id": "2315226a417d737be827ac7a4c2e886a4ce10f"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "公司里真正好相处的就三种人",
+      "rank": 35,
+      "title": "公司里真正好相处的就三种人",
+      "topic_id": "231522b0c1e3ee6ef2190c882696426af1f619"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "老实人吹牛是这样的",
+      "rank": 36,
+      "title": "老实人吹牛是这样的",
+      "topic_id": "2315221bdc6ac01119d16efdb9641381ab8fb5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "成毅官宣微博国际文化交流之夜",
+      "rank": 37,
+      "title": "成毅官宣微博国际文化交流之夜",
+      "topic_id": "231522c68a573bb9101ae2619ef7e174b87729"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#教育系统内鬼出卖3.5万学生信息#",
+      "rank": 38,
+      "title": "教育系统内鬼出卖3.5万学生信息",
+      "topic_id": "2315225f5d9da9a4b0cb6418be0f4d1548429e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "现在就出发",
+      "rank": 39,
+      "title": "现在就出发",
+      "topic_id": "231522ebc4a6bc810b42c0d6b455c3cf10a2a5"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "iPhone20Pro陶瓷限量版传闻",
+      "rank": 40,
+      "title": "iPhone20Pro陶瓷限量版传闻",
+      "topic_id": "2315220e87264dbe02a593a79979b6df278915"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 12,
+      "posts": "saved",
+      "query": "#曝辛巴赔蛋蛋3个多亿#",
+      "rank": 41,
+      "title": "曝辛巴赔蛋蛋3个多亿",
+      "topic_id": "2315228502e12749bbd29c646cd1fde94374ff"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#任贤齐申请加入时代少年团被拒绝#",
+      "rank": 42,
+      "title": "任贤齐申请加入时代少年团被拒绝",
+      "topic_id": "2315228a30897ee5fa75c5f926b2ec14fb866b"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 14,
+      "posts": "saved",
+      "query": "#后会友期剪辑bug#",
+      "rank": 43,
+      "title": "后会友期剪辑bug",
+      "topic_id": "23152263a7a214598212d569fa353df1f51c81"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#男子被自家猫咬了一口后截指#",
+      "rank": 44,
+      "title": "男子被自家猫咬了一口后截指",
+      "topic_id": "231522ef46305de21e0791cfb15149a6a7c994"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "窦靖童宋妍霏同游香港",
+      "rank": 45,
+      "title": "窦靖童宋妍霏同游香港",
+      "topic_id": "23152234cfc6ea39856ed918de248108f0fdc0"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#东风日产NX7首批车主火热提车#",
+      "rank": 46,
+      "title": "东风日产NX7首批车主火热提车",
+      "topic_id": "231522adb7c6899170a8b0a3d290f1f5c89a81"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "#广州车展小黄人占领享界V8#",
+      "rank": 47,
+      "title": "广州车展小黄人占领享界V8",
+      "topic_id": "23152272f166c1704122eead5469688982026e"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 13,
+      "posts": "saved",
+      "query": "#流感退烧后为什么还是没力气#",
+      "rank": 48,
+      "title": "流感退烧后为什么还是没力气",
+      "topic_id": "2315229200189442b2363aee4ab412e5484995"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 15,
+      "posts": "saved",
+      "query": "詹姆斯13中8砍21分7板6助",
+      "rank": 49,
+      "title": "詹姆斯13中8砍21分7板6助",
+      "topic_id": "231522e7fbb51d0d3da85992842cb5dffa1ca3"
+    },
+    {
+      "ai": "saved",
+      "metrics": "saved",
+      "post_count": 11,
+      "posts": "saved",
+      "query": "#爱情公寓戒断反应提前来了#",
+      "rank": 50,
+      "title": "爱情公寓戒断反应提前来了",
+      "topic_id": "231522635c7caa2bbb6d926f414d092207f612"
+    }
+  ],
+  "validation": {
+    "failed": [],
+    "rates": {
+      "ai": 1.0,
+      "metrics": 1.0,
+      "posts": 1.0
+    }
+  }
+}
