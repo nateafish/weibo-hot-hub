@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1720962692
   },
-  "last_seen_at": "2026-11-28T22:00:00+08:00",
+  "last_seen_at": "2026-11-28T23:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%BC%A0%E5%87%AF%E4%B8%BD%E8%BE%9F%E8%B0%A3%E6%AF%8D%E4%BA%B292%E5%B2%81%E6%8E%A5%E5%8F%97%E8%82%BE%E7%A7%BB%E6%A4%8D%23%26t%3D3&title=发布媒体",
-    "show_str": "18家媒体",
+    "show_str": "20家媒体",
     "users": [
       {
         "id": 1720962692,
@@ -26,6 +26,13 @@
         "id": 1734530730,
         "idstr": "1734530730",
         "screen_name": "大河报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1653603955,
+        "idstr": "1653603955",
+        "screen_name": "扬子晚报",
         "verified": true,
         "verified_type": 3
       },
@@ -54,13 +61,6 @@
         "id": 6217683074,
         "idstr": "6217683074",
         "screen_name": "N视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 6141086679,
-        "idstr": "6141086679",
-        "screen_name": "极目视频",
         "verified": true,
         "verified_type": 3
       }
