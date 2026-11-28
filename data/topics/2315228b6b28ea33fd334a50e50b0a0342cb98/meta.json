@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 1644948230
   },
-  "last_seen_at": "2026-11-28T07:00:00+08:00",
+  "last_seen_at": "2026-11-28T08:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E4%BA%BA%E6%B0%91%E5%B8%81%E5%AD%98%E8%B4%B7%E6%AC%BE%E5%88%A9%E7%8E%87%E7%AE%A1%E7%90%86%E8%A7%84%E5%AE%9A%E5%85%AC%E5%B8%83%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "3家媒体",
     "users": [
       {
         "id": 1749990115,
@@ -26,6 +26,13 @@
         "id": 1644948230,
         "idstr": "1644948230",
         "screen_name": "北京头条",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1893892941,
+        "idstr": "1893892941",
+        "screen_name": "北京日报",
         "verified": true,
         "verified_type": 3
       }
