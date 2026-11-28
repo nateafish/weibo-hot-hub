@@ -10,10 +10,10 @@
     "status": 2,
     "uid": 2011739333
   },
-  "last_seen_at": "2026-11-28T19:00:00+08:00",
+  "last_seen_at": "2026-11-28T20:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E6%B7%B7%E5%9B%A2%E4%B8%96%E7%95%8C%E6%9D%AF%23%26t%3D3&title=发布媒体",
-    "show_str": "26家媒体",
+    "show_str": "32家媒体",
     "users": [
       {
         "id": 2011739333,
@@ -37,6 +37,13 @@
         "verified_type": 3
       },
       {
+        "id": 2028810631,
+        "idstr": "2028810631",
+        "screen_name": "新浪新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
         "id": 1887344341,
         "idstr": "1887344341",
         "screen_name": "观察者网",
@@ -54,13 +61,6 @@
         "id": 2810373291,
         "idstr": "2810373291",
         "screen_name": "新华网",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 7354234663,
-        "idstr": "7354234663",
-        "screen_name": "大湾区之声",
         "verified": true,
         "verified_type": 3
       }
