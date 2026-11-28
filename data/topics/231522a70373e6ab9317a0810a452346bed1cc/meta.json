@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 6004281123
   },
-  "last_seen_at": "2026-11-28T12:00:00+08:00",
+  "last_seen_at": "2026-11-28T13:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A5%B3%E5%AD%90%E6%9F%A5%E8%B4%A6%E5%8D%95%E5%8F%91%E7%8E%B0%E4%B8%89%E5%B9%B4%E7%82%B9%E8%BF%91%E5%8D%8A%E5%90%A8%E5%A5%B6%E8%8C%B6%23%26t%3D3&title=发布媒体",
-    "show_str": "14家媒体",
+    "show_str": "24家媒体",
     "users": [
       {
         "id": 6004281123,
         "idstr": "6004281123",
         "screen_name": "梨视频",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1938523582,
+        "idstr": "1938523582",
+        "screen_name": "宁波晚报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1652484947,
+        "idstr": "1652484947",
+        "screen_name": "新快报",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7211561239,
+        "idstr": "7211561239",
+        "screen_name": "央视频",
         "verified": true,
         "verified_type": 3
       },
@@ -40,27 +61,6 @@
         "id": 6002842109,
         "idstr": "6002842109",
         "screen_name": "时差视频",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5994003317,
-        "idstr": "5994003317",
-        "screen_name": "老板联播",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5943595658,
-        "idstr": "5943595658",
-        "screen_name": "一手Video",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 5822206027,
-        "idstr": "5822206027",
-        "screen_name": "北斗融媒",
         "verified": true,
         "verified_type": 3
       }
