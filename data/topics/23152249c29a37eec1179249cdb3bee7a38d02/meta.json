@@ -10,15 +10,36 @@
     "status": 2,
     "uid": 6105713761
   },
-  "last_seen_at": "2026-11-28T08:00:00+08:00",
+  "last_seen_at": "2026-11-28T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E9%87%91%E4%BB%B7%E7%9C%9F%E7%9A%84%E5%A4%A7%E6%B6%A8%E4%BA%86%23%26t%3D3&title=发布媒体",
-    "show_str": "13家媒体",
+    "show_str": "35家媒体",
     "users": [
       {
         "id": 6105713761,
         "idstr": "6105713761",
         "screen_name": "红星新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1288429914,
+        "idstr": "1288429914",
+        "screen_name": "今视频长天新闻",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 7613700701,
+        "idstr": "7613700701",
+        "screen_name": "共富财经",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 6013508393,
+        "idstr": "6013508393",
+        "screen_name": "环球总财",
         "verified": true,
         "verified_type": 3
       },
@@ -30,37 +51,16 @@
         "verified_type": 3
       },
       {
-        "id": 2813313591,
-        "idstr": "2813313591",
-        "screen_name": "中新网海南",
+        "id": 5743120946,
+        "idstr": "5743120946",
+        "screen_name": "鄱阳发布",
         "verified": true,
         "verified_type": 3
       },
       {
-        "id": 2191398120,
-        "idstr": "2191398120",
-        "screen_name": "成都商报美食",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 2016841587,
-        "idstr": "2016841587",
-        "screen_name": "无锡电视官方微博",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1974335820,
-        "idstr": "1974335820",
-        "screen_name": "成都商报报料",
-        "verified": true,
-        "verified_type": 3
-      },
-      {
-        "id": 1967926223,
-        "idstr": "1967926223",
-        "screen_name": "FM1031济南交通广播",
+        "id": 3229962754,
+        "idstr": "3229962754",
+        "screen_name": "陕视新闻",
         "verified": true,
         "verified_type": 3
       }

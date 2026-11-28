@@ -3,15 +3,22 @@
   "created_at": null,
   "first_seen_at": "2026-11-28T08:00:00+08:00",
   "host": null,
-  "last_seen_at": "2026-11-28T08:00:00+08:00",
+  "last_seen_at": "2026-11-28T09:00:00+08:00",
   "media_info": {
     "scheme_url": "sinaweibo://cardlist?containerid=100103type%3D164%26q%3D%23%E5%A4%A9%E4%B8%8B%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%A5%9E%E5%BA%99%23%26t%3D3&title=发布媒体",
-    "show_str": "2家媒体",
+    "show_str": "3家媒体",
     "users": [
       {
         "id": 1908653214,
         "idstr": "1908653214",
         "screen_name": "江西交通广播",
+        "verified": true,
+        "verified_type": 3
+      },
+      {
+        "id": 1280846847,
+        "idstr": "1280846847",
+        "screen_name": "指尖新闻-沈阳晚报",
         "verified": true,
         "verified_type": 3
       },
